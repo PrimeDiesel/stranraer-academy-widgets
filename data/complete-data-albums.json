@@ -1,0 +1,662 @@
+[
+  {
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "year": 1969
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Let It Bleed",
+    "year": 1969
+  },
+  {
+    "artist": "The Doors",
+    "album": "L.A. Woman",
+    "year": 1971
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "album": "Are You Experienced",
+    "year": 1967
+  },
+  {
+    "artist": "Cream",
+    "album": "Disraeli Gears",
+    "year": 1967
+  },
+  {
+    "artist": "The Kinks",
+    "album": "The Kinks Are the Village Green Preservation Society",
+    "year": 1968
+  },
+  {
+    "artist": "The Zombies",
+    "album": "Odessey and Oracle",
+    "year": 1968
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "year": 1967
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "year": 1973
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "Wish You Were Here",
+    "year": 1975
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "year": 1979
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "year": 1971
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Physical Graffiti",
+    "year": 1975
+  },
+  {
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust",
+    "year": 1972
+  },
+  {
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": 1975
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "year": 1970
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": 1977
+  },
+  {
+    "artist": "The Eagles",
+    "album": "Hotel California",
+    "year": 1976
+  },
+  {
+    "artist": "The Stooges",
+    "album": "Raw Power",
+    "year": 1973
+  },
+  {
+    "artist": "Ramones",
+    "album": "Ramones",
+    "year": 1976
+  },
+  {
+    "artist": "The Clash",
+    "album": "London Calling",
+    "year": 1979
+  },
+  {
+    "artist": "Television",
+    "album": "Marquee Moon",
+    "year": 1977
+  },
+  {
+    "artist": "Talking Heads",
+    "album": "Remain in Light",
+    "year": 1980
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Born to Run",
+    "year": 1975
+  },
+  {
+    "artist": "Steely Dan",
+    "album": "Aja",
+    "year": 1977
+  },
+  {
+    "artist": "U2",
+    "album": "The Joshua Tree",
+    "year": 1987
+  },
+  {
+    "artist": "R.E.M.",
+    "album": "Automatic for the People",
+    "year": 1992
+  },
+  {
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991
+  },
+  {
+    "artist": "Pearl Jam",
+    "album": "Ten",
+    "year": 1991
+  },
+  {
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "year": 1997
+  },
+  {
+    "artist": "Radiohead",
+    "album": "In Rainbows",
+    "year": 2007
+  },
+  {
+    "artist": "The Smiths",
+    "album": "The Queen Is Dead",
+    "year": 1986
+  },
+  {
+    "artist": "The Cure",
+    "album": "Disintegration",
+    "year": 1989
+  },
+  {
+    "artist": "Joy Division",
+    "album": "Unknown Pleasures",
+    "year": 1979
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "year": 1989
+  },
+  {
+    "artist": "Sonic Youth",
+    "album": "Daydream Nation",
+    "year": 1988
+  },
+  {
+    "artist": "The Strokes",
+    "album": "Is This It",
+    "year": 2001
+  },
+  {
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "year": 2004
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "year": 1999
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "album": "Siamese Dream",
+    "year": 1993
+  },
+  {
+    "artist": "Soundgarden",
+    "album": "Superunknown",
+    "year": 1994
+  },
+  {
+    "artist": "Weezer",
+    "album": "The Blue Album",
+    "year": 1994
+  },
+  {
+    "artist": "Beck",
+    "album": "Odelay",
+    "year": 1996
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Off the Wall",
+    "year": 1979
+  },
+  {
+    "artist": "Prince",
+    "album": "Purple Rain",
+    "year": 1984
+  },
+  {
+    "artist": "Madonna",
+    "album": "Like a Prayer",
+    "year": 1989
+  },
+  {
+    "artist": "Whitney Houston",
+    "album": "Whitney Houston",
+    "year": 1985
+  },
+  {
+    "artist": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": 1967
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "year": 1976
+  },
+  {
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "year": 1998
+  },
+  {
+    "artist": "Amy Winehouse",
+    "album": "Back to Black",
+    "year": 2006
+  },
+  {
+    "artist": "Adele",
+    "album": "21",
+    "year": 2011
+  },
+  {
+    "artist": "Beyoncé",
+    "album": "Lemonade",
+    "year": 2016
+  },
+  {
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "year": 2010
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "year": 2012
+  },
+  {
+    "artist": "OutKast",
+    "album": "Aquemini",
+    "year": 1998
+  },
+  {
+    "artist": "Nas",
+    "album": "Illmatic",
+    "year": 1994
+  },
+  {
+    "artist": "Public Enemy",
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "year": 1988
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "year": 1991
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "year": 1993
+  },
+  {
+    "artist": "Dr. Dre",
+    "album": "The Chronic",
+    "year": 1992
+  },
+  {
+    "artist": "Frank Ocean",
+    "album": "Channel Orange",
+    "year": 2012
+  },
+  {
+    "artist": "Sade",
+    "album": "Diamond Life",
+    "year": 1984
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "year": 2001
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "year": 2013
+  },
+  {
+    "artist": "Kraftwerk",
+    "album": "Trans-Europe Express",
+    "year": 1977
+  },
+  {
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works 85-92",
+    "year": 1992
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "album": "Dig Your Own Hole",
+    "year": 1997
+  },
+  {
+    "artist": "Massive Attack",
+    "album": "Blue Lines",
+    "year": 1991
+  },
+  {
+    "artist": "Portishead",
+    "album": "Dummy",
+    "year": 1994
+  },
+  {
+    "artist": "The Prodigy",
+    "album": "The Fat of the Land",
+    "year": 1997
+  },
+  {
+    "artist": "Underworld",
+    "album": "Dubnobasswithmyheadman",
+    "year": 1994
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": 1975
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Highway 61 Revisited",
+    "year": 1965
+  },
+  {
+    "artist": "Johnny Cash",
+    "album": "At Folsom Prison",
+    "year": 1968
+  },
+  {
+    "artist": "Willie Nelson",
+    "album": "Red Headed Stranger",
+    "year": 1975
+  },
+  {
+    "artist": "Dolly Parton",
+    "album": "Coat of Many Colors",
+    "year": 1971
+  },
+  {
+    "artist": "Joni Mitchell",
+    "album": "Blue",
+    "year": 1971
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Bridge Over Troubled Water",
+    "year": 1970
+  },
+  {
+    "artist": "Nick Drake",
+    "album": "Pink Moon",
+    "year": 1972
+  },
+  {
+    "artist": "Crosby, Stills, Nash & Young",
+    "album": "Déjà Vu",
+    "year": 1970
+  },
+  {
+    "artist": "The Band",
+    "album": "The Band",
+    "year": 1969
+  },
+  {
+    "artist": "Gram Parsons",
+    "album": "GP",
+    "year": 1973
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "year": 1959
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "A Love Supreme",
+    "year": 1965
+  },
+  {
+    "artist": "Herbie Hancock",
+    "album": "Head Hunters",
+    "year": 1973
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Ellington at Newport",
+    "year": 1956
+  },
+  {
+    "artist": "Billie Holiday",
+    "album": "Lady in Satin",
+    "year": 1958
+  },
+  {
+    "artist": "B.B. King",
+    "album": "Live at the Regal",
+    "year": 1965
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "album": "Legend",
+    "year": 1984
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "album": "Exodus",
+    "year": 1977
+  },
+  {
+    "artist": "Peter Tosh",
+    "album": "Legalize It",
+    "year": 1976
+  },
+  {
+    "artist": "Toots & The Maytals",
+    "album": "Funky Kingston",
+    "year": 1973
+  },
+  {
+    "artist": "Metallica",
+    "album": "Master of Puppets",
+    "year": 1986
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Master of Reality",
+    "year": 1971
+  },
+  {
+    "artist": "Judas Priest",
+    "album": "British Steel",
+    "year": 1980
+  },
+  {
+    "artist": "Iron Maiden",
+    "album": "The Number of the Beast",
+    "year": 1982
+  },
+  {
+    "artist": "AC/DC",
+    "album": "Back in Black",
+    "year": 1980
+  },
+  {
+    "artist": "Rage Against the Machine",
+    "album": "Rage Against the Machine",
+    "year": 1992
+  },
+  {
+    "artist": "Tool",
+    "album": "Lateralus",
+    "year": 2001
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Saturday Night Fever",
+    "year": 1977
+  },
+  {
+    "artist": "Original Cast",
+    "album": "The Sound of Music",
+    "year": 1959
+  },
+  {
+    "artist": "Original Cast",
+    "album": "Hamilton",
+    "year": 2015
+  },
+  {
+    "artist": "Original Cast",
+    "album": "West Side Story",
+    "year": 1957
+  },
+  {
+    "artist": "Hans Zimmer",
+    "album": "Interstellar (Original Soundtrack)",
+    "year": 2014
+  },
+  {
+    "artist": "Prince",
+    "album": "Purple Rain",
+    "year": 1984
+  },
+  {
+    "artist": "Quincy Jones",
+    "album": "The Color Purple",
+    "year": 1985
+  },
+  {
+    "artist": "Various Artists",
+    "album": "Guardians of the Galaxy: Awesome Mix Vol. 1",
+    "year": 2014
+  },
+  {
+    "artist": "John Williams",
+    "album": "Star Wars: Episode IV - A New Hope",
+    "year": 1977
+  },
+  {
+    "artist": "Andrew Lloyd Webber",
+    "album": "The Phantom of the Opera",
+    "year": 1986
+  },
+  {
+    "artist": "Arcade Fire",
+    "album": "Funeral",
+    "year": 2004
+  },
+  {
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "year": 2004
+  },
+  {
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "year": 2002
+  },
+  {
+    "artist": "Vampire Weekend",
+    "album": "Vampire Weekend",
+    "year": 2008
+  },
+  {
+    "artist": "Fleet Foxes",
+    "album": "Fleet Foxes",
+    "year": 2008
+  },
+  {
+    "artist": "Bon Iver",
+    "album": "For Emma, Forever Ago",
+    "year": 2007
+  },
+  {
+    "artist": "Tame Impala",
+    "album": "Currents",
+    "year": 2015
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "year": 2015
+  },
+  {
+    "artist": "Janelle Monáe",
+    "album": "Dirty Computer",
+    "year": 2018
+  },
+  {
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019
+  },
+  {
+    "artist": "Lizzo",
+    "album": "Cuz I Love You",
+    "year": 2019
+  },
+  {
+    "artist": "Haim",
+    "album": "Days Are Gone",
+    "year": 2013
+  },
+  {
+    "artist": "The War on Drugs",
+    "album": "Lost in the Dream",
+    "year": 2014
+  },
+  {
+    "artist": "St. Vincent",
+    "album": "St. Vincent",
+    "year": 2014
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "album": "Illinois",
+    "year": 2005
+  },
+  {
+    "artist": "The National",
+    "album": "Boxer",
+    "year": 2007
+  },
+  {
+    "artist": "Interpol",
+    "album": "Turn on the Bright Lights",
+    "year": 2002
+  },
+  {
+    "artist": "TV on the Radio",
+    "album": "Dear Science",
+    "year": 2008
+  },
+  {
+    "artist": "Florence + The Machine",
+    "album": "Lungs",
+    "year": 2009
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "album": "Good News",
+    "year": 2020
+  },
+  {
+    "artist": "Tyler, The Creator",
+    "album": "IGOR",
+    "year": 2019
+  }
+]
