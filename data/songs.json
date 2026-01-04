@@ -24,6 +24,10 @@
     "song": "Smells Like Teen Spirit"
   },
   {
+    "artist": "Guns N' Roses",
+    "song": "Sweet Child O' Mine"
+  },
+  {
     "artist": "AC/DC",
     "song": "Back in Black"
   },
@@ -33,7 +37,7 @@
   },
   {
     "artist": "The Who",
-    "song": "Baba O\\"
+    "song": "Baba O'Riley"
   },
   {
     "artist": "Michael Jackson",
@@ -53,7 +57,7 @@
   },
   {
     "artist": "Marvin Gaye",
-    "song": "What\\"
+    "song": "What's Going On"
   },
   {
     "artist": "Prince",
@@ -113,7 +117,7 @@
   },
   {
     "artist": "Alicia Keys",
-    "song": "Fallin\\"
+    "song": "Fallin'"
   },
   {
     "artist": "Radiohead",
@@ -177,7 +181,7 @@
   },
   {
     "artist": "Swedish House Mafia",
-    "song": "Don\\"
+    "song": "Don't You Worry Child"
   },
   {
     "artist": "David Guetta",
@@ -265,7 +269,7 @@
   },
   {
     "artist": "Journey",
-    "song": "Don\\"
+    "song": "Don't Stop Believin'"
   },
   {
     "artist": "Boston",
@@ -281,7 +285,7 @@
   },
   {
     "artist": "Bon Jovi",
-    "song": "Livin\\"
+    "song": "Livin' on a Prayer"
   },
   {
     "artist": "Def Leppard",
@@ -313,11 +317,11 @@
   },
   {
     "artist": "Joan Jett",
-    "song": "I Love Rock \\"
+    "song": "I Love Rock 'n' Roll"
   },
   {
     "artist": "Twisted Sister",
-    "song": "We\\"
+    "song": "We're Not Gonna Take It"
   },
   {
     "artist": "Quiet Riot",
@@ -337,7 +341,7 @@
   },
   {
     "artist": "Tiffany",
-    "song": "I Think We\\"
+    "song": "I Think We're Alone Now"
   },
   {
     "artist": "Debbie Gibson",
@@ -369,7 +373,7 @@
   },
   {
     "artist": "The Human League",
-    "song": "Don\\"
+    "song": "Don't You Want Me"
   },
   {
     "artist": "A-ha",
@@ -381,7 +385,7 @@
   },
   {
     "artist": "Simple Minds",
-    "song": "Don\\"
+    "song": "Don't You (Forget About Me)"
   },
   {
     "artist": "INXS",
@@ -393,7 +397,7 @@
   },
   {
     "artist": "No Doubt",
-    "song": "Don\\"
+    "song": "Don't Speak"
   },
   {
     "artist": "TLC",
@@ -405,7 +409,7 @@
   },
   {
     "artist": "En Vogue",
-    "song": "My Lovin\\"
+    "song": "My Lovin' (You're Never Gonna Get It)"
   },
   {
     "artist": "Boyz II Men",
@@ -461,7 +465,7 @@
   },
   {
     "artist": "MC Hammer",
-    "song": "U Can\\"
+    "song": "U Can't Touch This"
   },
   {
     "artist": "Young MC",
@@ -609,7 +613,7 @@
   },
   {
     "artist": "Run-D.M.C.",
-    "song": "It\\"
+    "song": "It's Like That"
   },
   {
     "artist": "Beastie Boys",
@@ -749,7 +753,7 @@
   },
   {
     "artist": "The Weeknd",
-    "song": "Can\\"
+    "song": "Can't Feel My Face"
   },
   {
     "artist": "Sam Smith",
@@ -781,7 +785,7 @@
   },
   {
     "artist": "The Four Tops",
-    "song": "I Can\\"
+    "song": "I Can't Help Myself"
   },
   {
     "artist": "Smokey Robinson",
@@ -801,11 +805,11 @@
   },
   {
     "artist": "Al Green",
-    "song": "Let\\"
+    "song": "Let's Stay Together"
   },
   {
     "artist": "Otis Redding",
-    "song": "(Sittin\\"
+    "song": "(Sittin' On) The Dock of the Bay"
   },
   {
     "artist": "Sam Cooke",
@@ -833,7 +837,7 @@
   },
   {
     "artist": "Bee Gees",
-    "song": "Stayin\\"
+    "song": "Stayin' Alive"
   },
   {
     "artist": "Donna Summer",
@@ -877,11 +881,11 @@
   },
   {
     "artist": "REO Speedwagon",
-    "song": "Can\\"
+    "song": "Can't Fight This Feeling"
   },
   {
     "artist": "Chicago",
-    "song": "Hard to Say I\\"
+    "song": "Hard to Say I'm Sorry"
   },
   {
     "artist": "Air Supply",
@@ -1008,6 +1012,10 @@
     "song": "Budapest"
   },
   {
+    "artist": "Rag'n'Bone Man",
+    "song": "Human"
+  },
+  {
     "artist": "James Bay",
     "song": "Hold Back the River"
   },
@@ -1057,7 +1065,7 @@
   },
   {
     "artist": "The Cure",
-    "song": "Friday I\\"
+    "song": "Friday I'm in Love"
   },
   {
     "artist": "U2",
@@ -1065,11 +1073,11 @@
   },
   {
     "artist": "R.E.M.",
-    "song": "It\\"
+    "song": "It's the End of the World as We Know It"
   },
   {
     "artist": "Oasis",
-    "song": "Don\\"
+    "song": "Don't Look Back in Anger"
   },
   {
     "artist": "Green Day",
@@ -1093,7 +1101,7 @@
   },
   {
     "artist": "Fall Out Boy",
-    "song": "Sugar, We\\"
+    "song": "Sugar, We're Goin Down"
   },
   {
     "artist": "Panic! at the Disco",
@@ -1313,7 +1321,7 @@
   },
   {
     "artist": "Tal Bachman",
-    "song": "She\\"
+    "song": "She's So High"
   },
   {
     "artist": "Fastball",
@@ -1357,7 +1365,7 @@
   },
   {
     "artist": "Ricky Martin",
-    "song": "Livin\\"
+    "song": "Livin' la Vida Loca"
   },
   {
     "artist": "Enrique Iglesias",
@@ -1373,7 +1381,7 @@
   },
   {
     "artist": "Staind",
-    "song": "It\\"
+    "song": "It's Been Awhile"
   },
   {
     "artist": "Puddle of Mudd",
@@ -1389,7 +1397,7 @@
   },
   {
     "artist": "Daughtry",
-    "song": "It\\"
+    "song": "It's Not Over"
   },
   {
     "artist": "Hinder",
