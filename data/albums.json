@@ -2,661 +2,2191 @@
   {
     "artist": "The Beatles",
     "album": "Abbey Road",
-    "year": 1969
+    "year": 1969,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1967,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Rolling Stones",
     "album": "Let It Bleed",
-    "year": 1969
+    "year": 1969,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "The Who",
+    "album": "Who's Next",
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Doors",
     "album": "L.A. Woman",
-    "year": 1971
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Jimi Hendrix",
     "album": "Are You Experienced",
-    "year": 1967
+    "year": 1967,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Cream",
     "album": "Disraeli Gears",
-    "year": 1967
+    "year": 1967,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Kinks",
     "album": "The Kinks Are the Village Green Preservation Society",
-    "year": 1968
+    "year": 1968,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Zombies",
     "album": "Odessey and Oracle",
-    "year": 1968
+    "year": 1968,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Jefferson Airplane",
     "album": "Surrealistic Pillow",
-    "year": 1967
+    "year": 1967,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
-    "year": 1973
+    "year": 1973,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Pink Floyd",
     "album": "Wish You Were Here",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Pink Floyd",
     "album": "The Wall",
-    "year": 1979
+    "year": 1979,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin IV",
-    "year": 1971
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Led Zeppelin",
     "album": "Physical Graffiti",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "David Bowie",
     "album": "The Rise and Fall of Ziggy Stardust",
-    "year": 1972
+    "year": 1972,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Queen",
     "album": "A Night at the Opera",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Black Sabbath",
     "album": "Paranoid",
-    "year": 1970
+    "year": 1970,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Fleetwood Mac",
     "album": "Rumours",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Eagles",
     "album": "Hotel California",
-    "year": 1976
+    "year": 1976,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Stooges",
     "album": "Raw Power",
-    "year": 1973
+    "year": 1973,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Ramones",
     "album": "Ramones",
-    "year": 1976
+    "year": 1976,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Clash",
     "album": "London Calling",
-    "year": 1979
+    "year": 1979,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Television",
     "album": "Marquee Moon",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Talking Heads",
     "album": "Remain in Light",
-    "year": 1980
+    "year": 1980,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bruce Springsteen",
     "album": "Born to Run",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Steely Dan",
     "album": "Aja",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "U2",
     "album": "The Joshua Tree",
-    "year": 1987
+    "year": 1987,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "R.E.M.",
     "album": "Automatic for the People",
-    "year": 1992
+    "year": 1992,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Nirvana",
     "album": "Nevermind",
-    "year": 1991
+    "year": 1991,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Pearl Jam",
     "album": "Ten",
-    "year": 1991
+    "year": 1991,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Radiohead",
     "album": "OK Computer",
-    "year": 1997
+    "year": 1997,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Radiohead",
     "album": "In Rainbows",
-    "year": 2007
+    "year": 2007,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Smiths",
     "album": "The Queen Is Dead",
-    "year": 1986
+    "year": 1986,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Cure",
     "album": "Disintegration",
-    "year": 1989
+    "year": 1989,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Joy Division",
     "album": "Unknown Pleasures",
-    "year": 1979
+    "year": 1979,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Pixies",
     "album": "Doolittle",
-    "year": 1989
+    "year": 1989,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Sonic Youth",
     "album": "Daydream Nation",
-    "year": 1988
+    "year": 1988,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "year": 1995,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Strokes",
     "album": "Is This It",
-    "year": 2001
+    "year": 2001,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "album": "Whatever People Say I Am, That's What I'm Not",
+    "year": 2006,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Green Day",
     "album": "American Idiot",
-    "year": 2004
+    "year": 2004,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Red Hot Chili Peppers",
     "album": "Californication",
-    "year": 1999
+    "year": 1999,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Smashing Pumpkins",
     "album": "Siamese Dream",
-    "year": 1993
+    "year": 1993,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Soundgarden",
     "album": "Superunknown",
-    "year": 1994
+    "year": 1994,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Weezer",
     "album": "The Blue Album",
-    "year": 1994
+    "year": 1994,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Beck",
     "album": "Odelay",
-    "year": 1996
+    "year": 1996,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Michael Jackson",
     "album": "Thriller",
-    "year": 1982
+    "year": 1982,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Michael Jackson",
     "album": "Off the Wall",
-    "year": 1979
+    "year": 1979,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Prince",
     "album": "Purple Rain",
-    "year": 1984
+    "year": 1984,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Prince",
+    "album": "Sign o' the Times",
+    "year": 1987,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Madonna",
     "album": "Like a Prayer",
-    "year": 1989
+    "year": 1989,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Whitney Houston",
     "album": "Whitney Houston",
-    "year": 1985
+    "year": 1985,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Aretha Franklin",
     "album": "I Never Loved a Man the Way I Love You",
-    "year": 1967
+    "year": 1967,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Stevie Wonder",
     "album": "Songs in the Key of Life",
-    "year": 1976
+    "year": 1976,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Al Green",
+    "album": "Let's Stay Together",
+    "year": 1972,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Lauryn Hill",
     "album": "The Miseducation of Lauryn Hill",
-    "year": 1998
+    "year": 1998,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Amy Winehouse",
     "album": "Back to Black",
-    "year": 2006
+    "year": 2006,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Adele",
     "album": "21",
-    "year": 2011
+    "year": 2011,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Beyoncé",
     "album": "Lemonade",
-    "year": 2016
+    "year": 2016,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
-    "year": 2010
+    "year": 2010,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city",
-    "year": 2012
+    "year": 2012,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "OutKast",
     "album": "Aquemini",
-    "year": 1998
+    "year": 1998,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Nas",
     "album": "Illmatic",
-    "year": 1994
+    "year": 1994,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Public Enemy",
     "album": "It Takes a Nation of Millions to Hold Us Back",
-    "year": 1988
+    "year": 1988,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "A Tribe Called Quest",
     "album": "The Low End Theory",
-    "year": 1991
+    "year": 1991,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Wu-Tang Clan",
     "album": "Enter the Wu-Tang (36 Chambers)",
-    "year": 1993
+    "year": 1993,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Dr. Dre",
     "album": "The Chronic",
-    "year": 1992
+    "year": 1992,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Frank Ocean",
     "album": "Channel Orange",
-    "year": 2012
+    "year": 2012,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Sade",
     "album": "Diamond Life",
-    "year": 1984
+    "year": 1984,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "D'Angelo",
+    "album": "Voodoo",
+    "year": 2000,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Daft Punk",
     "album": "Discovery",
-    "year": 2001
+    "year": 2001,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Daft Punk",
     "album": "Random Access Memories",
-    "year": 2013
+    "year": 2013,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Kraftwerk",
     "album": "Trans-Europe Express",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Aphex Twin",
     "album": "Selected Ambient Works 85-92",
-    "year": 1992
+    "year": 1992,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Chemical Brothers",
     "album": "Dig Your Own Hole",
-    "year": 1997
+    "year": 1997,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Massive Attack",
     "album": "Blue Lines",
-    "year": 1991
+    "year": 1991,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Portishead",
     "album": "Dummy",
-    "year": 1994
+    "year": 1994,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Prodigy",
     "album": "The Fat of the Land",
-    "year": 1997
+    "year": 1997,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Underworld",
     "album": "Dubnobasswithmyheadman",
-    "year": 1994
+    "year": 1994,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bob Dylan",
     "album": "Blood on the Tracks",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bob Dylan",
     "album": "Highway 61 Revisited",
-    "year": 1965
+    "year": 1965,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Johnny Cash",
     "album": "At Folsom Prison",
-    "year": 1968
+    "year": 1968,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Willie Nelson",
     "album": "Red Headed Stranger",
-    "year": 1975
+    "year": 1975,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Dolly Parton",
     "album": "Coat of Many Colors",
-    "year": 1971
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Joni Mitchell",
     "album": "Blue",
-    "year": 1971
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Simon & Garfunkel",
     "album": "Bridge Over Troubled Water",
-    "year": 1970
+    "year": 1970,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Nick Drake",
     "album": "Pink Moon",
-    "year": 1972
+    "year": 1972,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Crosby, Stills, Nash & Young",
     "album": "Déjà Vu",
-    "year": 1970
+    "year": 1970,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Band",
     "album": "The Band",
-    "year": 1969
+    "year": 1969,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Gram Parsons",
     "album": "GP",
-    "year": 1973
+    "year": 1973,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Miles Davis",
     "album": "Kind of Blue",
-    "year": 1959
+    "year": 1959,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "John Coltrane",
     "album": "A Love Supreme",
-    "year": 1965
+    "year": 1965,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Herbie Hancock",
     "album": "Head Hunters",
-    "year": 1973
+    "year": 1973,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Duke Ellington",
     "album": "Ellington at Newport",
-    "year": 1956
+    "year": 1956,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Billie Holiday",
     "album": "Lady in Satin",
-    "year": 1958
+    "year": 1958,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Howlin' Wolf",
+    "album": "Moanin' in the Moonlight",
+    "year": 1959,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "B.B. King",
     "album": "Live at the Regal",
-    "year": 1965
+    "year": 1965,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bob Marley & The Wailers",
     "album": "Legend",
-    "year": 1984
+    "year": 1984,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bob Marley & The Wailers",
     "album": "Exodus",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Peter Tosh",
     "album": "Legalize It",
-    "year": 1976
+    "year": 1976,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Toots & The Maytals",
     "album": "Funky Kingston",
-    "year": 1973
+    "year": 1973,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Metallica",
     "album": "Master of Puppets",
-    "year": 1986
+    "year": 1986,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Black Sabbath",
     "album": "Master of Reality",
-    "year": 1971
+    "year": 1971,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Judas Priest",
     "album": "British Steel",
-    "year": 1980
+    "year": 1980,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Iron Maiden",
     "album": "The Number of the Beast",
-    "year": 1982
+    "year": 1982,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "AC/DC",
     "album": "Back in Black",
-    "year": 1980
+    "year": 1980,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "year": 1987,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Rage Against the Machine",
     "album": "Rage Against the Machine",
-    "year": 1992
+    "year": 1992,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Tool",
     "album": "Lateralus",
-    "year": 2001
+    "year": 2001,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Various Artists",
     "album": "Saturday Night Fever",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Original Cast",
     "album": "The Sound of Music",
-    "year": 1959
+    "year": 1959,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Original Cast",
     "album": "Hamilton",
-    "year": 2015
+    "year": 2015,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Original Cast",
     "album": "West Side Story",
-    "year": 1957
+    "year": 1957,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Hans Zimmer",
     "album": "Interstellar (Original Soundtrack)",
-    "year": 2014
+    "year": 2014,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Prince",
     "album": "Purple Rain",
-    "year": 1984
+    "year": 1984,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Quincy Jones",
     "album": "The Color Purple",
-    "year": 1985
+    "year": 1985,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Various Artists",
     "album": "Guardians of the Galaxy: Awesome Mix Vol. 1",
-    "year": 2014
+    "year": 2014,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "John Williams",
     "album": "Star Wars: Episode IV - A New Hope",
-    "year": 1977
+    "year": 1977,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Andrew Lloyd Webber",
     "album": "The Phantom of the Opera",
-    "year": 1986
+    "year": 1986,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Arcade Fire",
     "album": "Funeral",
-    "year": 2004
+    "year": 2004,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The Killers",
     "album": "Hot Fuss",
-    "year": 2004
+    "year": 2004,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Coldplay",
     "album": "A Rush of Blood to the Head",
-    "year": 2002
+    "year": 2002,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Vampire Weekend",
     "album": "Vampire Weekend",
-    "year": 2008
+    "year": 2008,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Fleet Foxes",
     "album": "Fleet Foxes",
-    "year": 2008
+    "year": 2008,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Bon Iver",
     "album": "For Emma, Forever Ago",
-    "year": 2007
+    "year": 2007,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Tame Impala",
     "album": "Currents",
-    "year": 2015
+    "year": 2015,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Kendrick Lamar",
     "album": "To Pimp a Butterfly",
-    "year": 2015
+    "year": 2015,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Janelle Monáe",
     "album": "Dirty Computer",
-    "year": 2018
+    "year": 2018,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Billie Eilish",
     "album": "When We All Fall Asleep, Where Do We Go?",
-    "year": 2019
+    "year": 2019,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Lizzo",
     "album": "Cuz I Love You",
-    "year": 2019
+    "year": 2019,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Haim",
     "album": "Days Are Gone",
-    "year": 2013
+    "year": 2013,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The War on Drugs",
     "album": "Lost in the Dream",
-    "year": 2014
+    "year": 2014,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "St. Vincent",
     "album": "St. Vincent",
-    "year": 2014
+    "year": 2014,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Sufjan Stevens",
     "album": "Illinois",
-    "year": 2005
+    "year": 2005,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "The National",
     "album": "Boxer",
-    "year": 2007
+    "year": 2007,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Interpol",
     "album": "Turn on the Bright Lights",
-    "year": 2002
+    "year": 2002,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "TV on the Radio",
     "album": "Dear Science",
-    "year": 2008
+    "year": 2008,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Florence + The Machine",
     "album": "Lungs",
-    "year": 2009
+    "year": 2009,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Megan Thee Stallion",
     "album": "Good News",
-    "year": 2020
+    "year": 2020,
+    "desc": "A timeless musical masterpiece."
   },
   {
     "artist": "Tyler, The Creator",
     "album": "IGOR",
-    "year": 2019
+    "year": 2019,
+    "desc": "A timeless musical masterpiece."
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "album": "Siamese Dream",
+    "year": 1993,
+    "desc": "Billy Corgan's wall of guitars. Lush, loud, and melodic!"
+  },
+  {
+    "artist": "Alice in Chains",
+    "album": "Dirt",
+    "year": 1992,
+    "desc": "Heavy, haunting Seattle grunge. Layne Staley's voice is unforgettable!"
+  },
+  {
+    "artist": "Soundgarden",
+    "album": "Badmotorfinger",
+    "year": 1991,
+    "desc": "Chris Cornell's powerful vocals over heavy riffs!"
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "album": "Core",
+    "year": 1992,
+    "desc": "Grunge meets classic rock. 'Plush' is a masterpiece!"
+  },
+  {
+    "artist": "Bush",
+    "album": "Sixteen Stone",
+    "year": 1994,
+    "desc": "British grunge! 'Glycerine' and 'Comedown' defined the era!"
+  },
+  {
+    "artist": "Live",
+    "album": "Throwing Copper",
+    "year": 1994,
+    "desc": "'Lightning Crashes' - emotional alternative rock!"
+  },
+  {
+    "artist": "Collective Soul",
+    "album": "Hints Allegations and Things Left Unsaid",
+    "year": 1993,
+    "desc": "'Shine' is pure '90s rock perfection!"
+  },
+  {
+    "artist": "The Verve Pipe",
+    "album": "Villains",
+    "year": 1996,
+    "desc": "'The Freshmen' - haunting and beautiful!"
+  },
+  {
+    "artist": "Third Eye Blind",
+    "album": "Third Eye Blind",
+    "year": 1997,
+    "desc": "Catchy alt-rock with depth. 'Semi-Charmed Life' is iconic!"
+  },
+  {
+    "artist": "Matchbox Twenty",
+    "album": "Yourself or Someone Like You",
+    "year": 1996,
+    "desc": "Rob Thomas' distinctive voice drives hit after hit!"
+  },
+  {
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "year": 2000,
+    "desc": "Nu-metal meets hip-hop. Revolutionary sound!"
+  },
+  {
+    "artist": "Evanescence",
+    "album": "Fallen",
+    "year": 2003,
+    "desc": "Amy Lee's vocals soar. Gothic rock brilliance!"
+  },
+  {
+    "artist": "Three Days Grace",
+    "album": "Three Days Grace",
+    "year": 2003,
+    "desc": "Hard rock with emotional depth!"
+  },
+  {
+    "artist": "Breaking Benjamin",
+    "album": "Phobia",
+    "year": 2006,
+    "desc": "Heavy, melodic rock perfection!"
+  },
+  {
+    "artist": "Shinedown",
+    "album": "The Sound of Madness",
+    "year": 2008,
+    "desc": "Southern rock power!"
+  },
+  {
+    "artist": "Papa Roach",
+    "album": "Infest",
+    "year": 2000,
+    "desc": "'Last Resort' defined nu-metal!"
+  },
+  {
+    "artist": "Incubus",
+    "album": "Make Yourself",
+    "year": 1999,
+    "desc": "Alternative rock with funk influences!"
+  },
+  {
+    "artist": "Hoobastank",
+    "album": "The Reason",
+    "year": 2003,
+    "desc": "The title track is a modern rock classic!"
+  },
+  {
+    "artist": "Theory of a Deadman",
+    "album": "Scars & Souvenirs",
+    "year": 2008,
+    "desc": "Canadian rock at its best!"
+  },
+  {
+    "artist": "Seether",
+    "album": "Disclaimer II",
+    "year": 2004,
+    "desc": "'Broken' featuring Amy Lee is haunting!"
+  },
+  {
+    "artist": "Tom Petty",
+    "album": "Full Moon Fever",
+    "year": 1989,
+    "desc": "'Free Fallin' - American rock poetry!"
+  },
+  {
+    "artist": "Tom Petty",
+    "album": "Damn the Torpedoes",
+    "year": 1979,
+    "desc": "Pure heartland rock!"
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "The Stranger",
+    "year": 1977,
+    "desc": "'Just the Way You Are' - timeless!"
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "52nd Street",
+    "year": 1978,
+    "desc": "Jazz-influenced pop perfection!"
+  },
+  {
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "year": 1973,
+    "desc": "Double album masterpiece!"
+  },
+  {
+    "artist": "Elton John",
+    "album": "Captain Fantastic",
+    "year": 1975,
+    "desc": "Bernie Taupin's lyrics shine!"
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "album": "Toulouse Street",
+    "year": 1972,
+    "desc": "'Listen to the Music' - feel-good rock!"
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "album": "The Captain and Me",
+    "year": 1973,
+    "desc": "'Long Train Runnin' - classic!"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "album": "Second Helping",
+    "year": 1974,
+    "desc": "'Sweet Home Alabama' - Southern rock anthem!"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "album": "(pronounced leh-nerd skin-nerd)",
+    "year": 1973,
+    "desc": "'Free Bird' - the ultimate rock epic!"
+  },
+  {
+    "artist": "Madonna",
+    "album": "True Blue",
+    "year": 1986,
+    "desc": "Pop perfection from the Queen of Pop!"
+  },
+  {
+    "artist": "Madonna",
+    "album": "Ray of Light",
+    "year": 1998,
+    "desc": "Electronic reinvention. Mature and brilliant!"
+  },
+  {
+    "artist": "George Michael",
+    "album": "Faith",
+    "year": 1987,
+    "desc": "Solo debut perfection!"
+  },
+  {
+    "artist": "Whitney Houston",
+    "album": "Whitney Houston",
+    "year": 1985,
+    "desc": "That voice! Debut brilliance!"
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "Control",
+    "year": 1986,
+    "desc": "Pop-R&B fusion. Janet takes control!"
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "Rhythm Nation 1814",
+    "year": 1989,
+    "desc": "Social consciousness meets dance beats!"
+  },
+  {
+    "artist": "Lionel Richie",
+    "album": "Can't Slow Down",
+    "year": 1983,
+    "desc": "'All Night Long' - pure joy!"
+  },
+  {
+    "artist": "Phil Collins",
+    "album": "No Jacket Required",
+    "year": 1985,
+    "desc": "'Sussudio' - 80s pop brilliance!"
+  },
+  {
+    "artist": "Huey Lewis and the News",
+    "album": "Sports",
+    "year": 1983,
+    "desc": "'The Power of Love' - perfect pop-rock!"
+  },
+  {
+    "artist": "Hall & Oates",
+    "album": "H2O",
+    "year": 1982,
+    "desc": "'Maneater' - blue-eyed soul at its best!"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "album": "Ready to Die",
+    "year": 1994,
+    "desc": "Biggie's debut defined East Coast hip-hop!"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "album": "Life After Death",
+    "year": 1997,
+    "desc": "Double album masterpiece released after his death!"
+  },
+  {
+    "artist": "2Pac",
+    "album": "Me Against the World",
+    "year": 1995,
+    "desc": "Introspective and powerful!"
+  },
+  {
+    "artist": "2Pac",
+    "album": "All Eyez on Me",
+    "year": 1996,
+    "desc": "Double album from Death Row Records!"
+  },
+  {
+    "artist": "Snoop Dogg",
+    "album": "Doggystyle",
+    "year": 1993,
+    "desc": "G-funk perfection produced by Dr. Dre!"
+  },
+  {
+    "artist": "Ice Cube",
+    "album": "Death Certificate",
+    "year": 1991,
+    "desc": "Controversial and brilliant!"
+  },
+  {
+    "artist": "N.W.A",
+    "album": "Straight Outta Compton",
+    "year": 1988,
+    "desc": "Gangsta rap origins!"
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP",
+    "year": 2000,
+    "desc": "Slim Shady at his peak!"
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "year": 2002,
+    "desc": "Mature and introspective!"
+  },
+  {
+    "artist": "Jay-Z",
+    "album": "Reasonable Doubt",
+    "year": 1996,
+    "desc": "Jay-Z's debut - sophisticated street poetry!"
+  },
+  {
+    "artist": "Boyz II Men",
+    "album": "II",
+    "year": 1994,
+    "desc": "Harmonies for days! 'I'll Make Love to You'!"
+  },
+  {
+    "artist": "Alicia Keys",
+    "album": "Songs in A Minor",
+    "year": 2001,
+    "desc": "'Fallin' - neo-soul brilliance!"
+  },
+  {
+    "artist": "John Legend",
+    "album": "Get Lifted",
+    "year": 2004,
+    "desc": "'Ordinary People' - soulful and honest!"
+  },
+  {
+    "artist": "Maxwell",
+    "album": "Urban Hang Suite",
+    "year": 1996,
+    "desc": "Neo-soul perfection!"
+  },
+  {
+    "artist": "Erykah Badu",
+    "album": "Baduizm",
+    "year": 1997,
+    "desc": "'On & On' - jazzy neo-soul!"
+  },
+  {
+    "artist": "India.Arie",
+    "album": "Acoustic Soul",
+    "year": 2001,
+    "desc": "Positive, uplifting soul!"
+  },
+  {
+    "artist": "Jill Scott",
+    "album": "Who Is Jill Scott?",
+    "year": 2000,
+    "desc": "Spoken word meets soul!"
+  },
+  {
+    "artist": "Musiq Soulchild",
+    "album": "Aijuswanaseing",
+    "year": 2000,
+    "desc": "Smooth R&B vibes!"
+  },
+  {
+    "artist": "Anthony Hamilton",
+    "album": "Comin' from Where I'm From",
+    "year": 2003,
+    "desc": "Southern soul revival!"
+  },
+  {
+    "artist": "Mary J. Blige",
+    "album": "My Life",
+    "year": 1994,
+    "desc": "Hip-hop soul - raw and real!"
+  },
+  {
+    "artist": "Garth Brooks",
+    "album": "No Fences",
+    "year": 1990,
+    "desc": "'Friends in Low Places' - stadium country!"
+  },
+  {
+    "artist": "Shania Twain",
+    "album": "Come On Over",
+    "year": 1997,
+    "desc": "Pop-country crossover success!"
+  },
+  {
+    "artist": "Tim McGraw",
+    "album": "Not a Moment Too Soon",
+    "year": 1994,
+    "desc": "Modern country superstar!"
+  },
+  {
+    "artist": "Faith Hill",
+    "album": "Breathe",
+    "year": 1999,
+    "desc": "Powerful country-pop!"
+  },
+  {
+    "artist": "Alan Jackson",
+    "album": "A Lot About Livin'",
+    "year": 1992,
+    "desc": "Traditional country storytelling!"
+  },
+  {
+    "artist": "George Strait",
+    "album": "Pure Country",
+    "year": 1992,
+    "desc": "The King of Country!"
+  },
+  {
+    "artist": "Reba McEntire",
+    "album": "Rumor Has It",
+    "year": 1990,
+    "desc": "Country queen at her best!"
+  },
+  {
+    "artist": "Brooks & Dunn",
+    "album": "Brand New Man",
+    "year": 1991,
+    "desc": "Country duo perfection!"
+  },
+  {
+    "artist": "Dixie Chicks",
+    "album": "Wide Open Spaces",
+    "year": 1998,
+    "desc": "Bluegrass meets modern country!"
+  },
+  {
+    "artist": "LeAnn Rimes",
+    "album": "Blue",
+    "year": 1996,
+    "desc": "Teen country prodigy!"
+  },
+  {
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "year": 1971,
+    "desc": "Singer-songwriter perfection!"
+  },
+  {
+    "artist": "James Taylor",
+    "album": "Sweet Baby James",
+    "year": 1970,
+    "desc": "'Fire and Rain' - emotional depth!"
+  },
+  {
+    "artist": "Cat Stevens",
+    "album": "Tea for the Tillerman",
+    "year": 1970,
+    "desc": "Folk-rock brilliance!"
+  },
+  {
+    "artist": "Jim Croce",
+    "album": "You Don't Mess Around with Jim",
+    "year": 1972,
+    "desc": "Storytelling through song!"
+  },
+  {
+    "artist": "America",
+    "album": "America",
+    "year": 1971,
+    "desc": "'A Horse with No Name' - dreamy folk-rock!"
+  },
+  {
+    "artist": "Bread",
+    "album": "Baby I'm-a Want You",
+    "year": 1972,
+    "desc": "Soft rock perfection!"
+  },
+  {
+    "artist": "The Carpenters",
+    "album": "Close to You",
+    "year": 1970,
+    "desc": "Karen Carpenter's angelic voice!"
+  },
+  {
+    "artist": "Chicago",
+    "album": "Chicago Transit Authority",
+    "year": 1969,
+    "desc": "Horn-driven rock innovation!"
+  },
+  {
+    "artist": "Blood, Sweat & Tears",
+    "album": "Blood, Sweat & Tears",
+    "year": 1968,
+    "desc": "Jazz-rock fusion!"
+  },
+  {
+    "artist": "Three Dog Night",
+    "album": "Naturally",
+    "year": 1970,
+    "desc": "'Joy to the World' - pure fun!"
+  },
+  {
+    "artist": "Foreigner",
+    "album": "4",
+    "year": 1981,
+    "desc": "'Waiting for a Girl Like You' - power ballad!"
+  },
+  {
+    "artist": "REO Speedwagon",
+    "album": "Hi Infidelity",
+    "year": 1980,
+    "desc": "'Keep On Loving You' - arena rock!"
+  },
+  {
+    "artist": "Styx",
+    "album": "Paradise Theater",
+    "year": 1981,
+    "desc": "Concept album brilliance!"
+  },
+  {
+    "artist": "Journey",
+    "album": "Frontiers",
+    "year": 1983,
+    "desc": "'Separate Ways' - anthemic!"
+  },
+  {
+    "artist": "Survivor",
+    "album": "Eye of the Tiger",
+    "year": 1982,
+    "desc": "Rocky III soundtrack power!"
+  },
+  {
+    "artist": "Toto",
+    "album": "Toto IV",
+    "year": 1982,
+    "desc": "'Rosanna' and 'Africa' - studio perfection!"
+  },
+  {
+    "artist": "Asia",
+    "album": "Asia",
+    "year": 1982,
+    "desc": "Prog-rock supergroup!"
+  },
+  {
+    "artist": "Mr. Mister",
+    "album": "Welcome to the Real World",
+    "year": 1985,
+    "desc": "'Broken Wings' - synth-rock!"
+  },
+  {
+    "artist": "Starship",
+    "album": "Knee Deep in the Hoopla",
+    "year": 1985,
+    "desc": "'We Built This City' - 80s cheese!"
+  },
+  {
+    "artist": "Night Ranger",
+    "album": "Midnight Madness",
+    "year": 1983,
+    "desc": "'Sister Christian' - power ballad!"
+  },
+  {
+    "artist": "Coldplay",
+    "album": "Parachutes",
+    "year": 2000,
+    "desc": "'Yellow' - emotional indie-rock!"
+  },
+  {
+    "artist": "Coldplay",
+    "album": "X&Y",
+    "year": 2005,
+    "desc": "Arena anthems!"
+  },
+  {
+    "artist": "Snow Patrol",
+    "album": "Final Straw",
+    "year": 2003,
+    "desc": "'Run' - emotional crescendos!"
+  },
+  {
+    "artist": "Keane",
+    "album": "Hopes and Fears",
+    "year": 2004,
+    "desc": "No guitars, all emotion!"
+  },
+  {
+    "artist": "The Fray",
+    "album": "How to Save a Life",
+    "year": 2005,
+    "desc": "Piano-driven emotion!"
+  },
+  {
+    "artist": "Lifehouse",
+    "album": "No Name Face",
+    "year": 2000,
+    "desc": "'Hanging by a Moment' - rock ballad!"
+  },
+  {
+    "artist": "3 Doors Down",
+    "album": "The Better Life",
+    "year": 2000,
+    "desc": "'Kryptonite' - post-grunge!"
+  },
+  {
+    "artist": "Staind",
+    "album": "Break the Cycle",
+    "year": 2001,
+    "desc": "'It's Been Awhile' - heavy emotion!"
+  },
+  {
+    "artist": "Puddle of Mudd",
+    "album": "Come Clean",
+    "year": 2001,
+    "desc": "'Blurry' - grunge-influenced!"
+  },
+  {
+    "artist": "Creed",
+    "album": "Human Clay",
+    "year": 1999,
+    "desc": "'Higher' and 'With Arms Wide Open'!"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "album": "+",
+    "year": 2011,
+    "desc": "Singer-songwriter pop perfection!"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "album": "÷",
+    "year": 2017,
+    "desc": "'Shape of You' dominated!"
+  },
+  {
+    "artist": "Adele",
+    "album": "25",
+    "year": 2015,
+    "desc": "'Hello' - vocal powerhouse!"
+  },
+  {
+    "artist": "Sam Smith",
+    "album": "In the Lonely Hour",
+    "year": 2014,
+    "desc": "'Stay With Me' - soulful pop!"
+  },
+  {
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox",
+    "year": 2012,
+    "desc": "Retro-soul revival!"
+  },
+  {
+    "artist": "The Weeknd",
+    "album": "Beauty Behind the Madness",
+    "year": 2015,
+    "desc": "Dark R&B-pop!"
+  },
+  {
+    "artist": "Drake",
+    "album": "Take Care",
+    "year": 2011,
+    "desc": "Emotional hip-hop!"
+  },
+  {
+    "artist": "Drake",
+    "album": "Nothing Was the Same",
+    "year": 2013,
+    "desc": "Introspective rap!"
+  },
+  {
+    "artist": "J. Cole",
+    "album": "2014 Forest Hills Drive",
+    "year": 2014,
+    "desc": "Conscious hip-hop storytelling!"
+  },
+  {
+    "artist": "Childish Gambino",
+    "album": "Because the Internet",
+    "year": 2013,
+    "desc": "Experimental hip-hop!"
+  },
+  {
+    "artist": "Calvin Harris",
+    "album": "18 Months",
+    "year": 2012,
+    "desc": "EDM-pop crossover success!"
+  },
+  {
+    "artist": "Avicii",
+    "album": "True",
+    "year": 2013,
+    "desc": "'Wake Me Up' - genre-bending!"
+  },
+  {
+    "artist": "Zedd",
+    "album": "Clarity",
+    "year": 2012,
+    "desc": "Progressive house brilliance!"
+  },
+  {
+    "artist": "David Guetta",
+    "album": "Nothing but the Beat",
+    "year": 2011,
+    "desc": "EDM goes mainstream!"
+  },
+  {
+    "artist": "Skrillex",
+    "album": "Scary Monsters and Nice Sprites",
+    "year": 2010,
+    "desc": "Dubstep explosion!"
+  },
+  {
+    "artist": "Disclosure",
+    "album": "Settle",
+    "year": 2013,
+    "desc": "UK garage revival!"
+  },
+  {
+    "artist": "Major Lazer",
+    "album": "Free the Universe",
+    "year": 2013,
+    "desc": "Dancehall-electronic fusion!"
+  },
+  {
+    "artist": "Diplo",
+    "album": "Florida",
+    "year": 2004,
+    "desc": "Global bass pioneer!"
+  },
+  {
+    "artist": "Justice",
+    "album": "Cross",
+    "year": 2007,
+    "desc": "French electro-rock!"
+  },
+  {
+    "artist": "MGMT",
+    "album": "Oracular Spectacular",
+    "year": 2007,
+    "desc": "'Kids' - psychedelic synth-pop!"
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "Daydream",
+    "year": 1995,
+    "desc": "Five-octave range brilliance!"
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "Music Box",
+    "year": 1993,
+    "desc": "'Hero' - vocal showcase!"
+  },
+  {
+    "artist": "Celine Dion",
+    "album": "Falling into You",
+    "year": 1996,
+    "desc": "Powerful pop ballads!"
+  },
+  {
+    "artist": "Celine Dion",
+    "album": "Let's Talk About Love",
+    "year": 1997,
+    "desc": "'My Heart Will Go On' - Titanic!"
+  },
+  {
+    "artist": "Shania Twain",
+    "album": "The Woman in Me",
+    "year": 1995,
+    "desc": "Country-pop breakthrough!"
+  },
+  {
+    "artist": "Alanis Morissette",
+    "album": "Jagged Little Pill",
+    "year": 1995,
+    "desc": "Angry, honest, brilliant!"
+  },
+  {
+    "artist": "Sheryl Crow",
+    "album": "Tuesday Night Music Club",
+    "year": 1993,
+    "desc": "'All I Wanna Do' - feel-good!"
+  },
+  {
+    "artist": "Sarah McLachlan",
+    "album": "Surfacing",
+    "year": 1997,
+    "desc": "'Building a Mystery' - ethereal!"
+  },
+  {
+    "artist": "Paula Cole",
+    "album": "This Fire",
+    "year": 1996,
+    "desc": "'Where Have All the Cowboys Gone'!"
+  },
+  {
+    "artist": "Jewel",
+    "album": "Pieces of You",
+    "year": 1995,
+    "desc": "Folk-pop honesty!"
+  },
+  {
+    "artist": "Slayer",
+    "album": "Reign in Blood",
+    "year": 1986,
+    "desc": "Thrash metal perfection!"
+  },
+  {
+    "artist": "Megadeth",
+    "album": "Peace Sells... but Who's Buying?",
+    "year": 1986,
+    "desc": "Technical thrash!"
+  },
+  {
+    "artist": "Anthrax",
+    "album": "Among the Living",
+    "year": 1987,
+    "desc": "Thrash with groove!"
+  },
+  {
+    "artist": "Pantera",
+    "album": "Vulgar Display of Power",
+    "year": 1992,
+    "desc": "Groove metal heaviness!"
+  },
+  {
+    "artist": "Sepultura",
+    "album": "Roots",
+    "year": 1996,
+    "desc": "Tribal metal innovation!"
+  },
+  {
+    "artist": "Machine Head",
+    "album": "Burn My Eyes",
+    "year": 1994,
+    "desc": "Modern metal aggression!"
+  },
+  {
+    "artist": "Fear Factory",
+    "album": "Demanufacture",
+    "year": 1995,
+    "desc": "Industrial metal precision!"
+  },
+  {
+    "artist": "White Zombie",
+    "album": "La Sexorcisto",
+    "year": 1992,
+    "desc": "Industrial groove metal!"
+  },
+  {
+    "artist": "Type O Negative",
+    "album": "Bloody Kisses",
+    "year": 1993,
+    "desc": "Gothic doom metal!"
+  },
+  {
+    "artist": "At the Gates",
+    "album": "Slaughter of the Soul",
+    "year": 1995,
+    "desc": "Melodic death metal!"
+  },
+  {
+    "artist": "The Stone Roses",
+    "album": "The Stone Roses",
+    "year": 1989,
+    "desc": "Madchester perfection!"
+  },
+  {
+    "artist": "Happy Mondays",
+    "album": "Pills 'n' Thrills and Bellyaches",
+    "year": 1990,
+    "desc": "Baggy brilliance!"
+  },
+  {
+    "artist": "Primal Scream",
+    "album": "Screamadelica",
+    "year": 1991,
+    "desc": "Acid house rock fusion!"
+  },
+  {
+    "artist": "The La's",
+    "album": "The La's",
+    "year": 1990,
+    "desc": "'There She Goes' - jangly pop!"
+  },
+  {
+    "artist": "Ride",
+    "album": "Nowhere",
+    "year": 1990,
+    "desc": "Shoegaze masterpiece!"
+  },
+  {
+    "artist": "My Bloody Valentine",
+    "album": "Loveless",
+    "year": 1991,
+    "desc": "Shoegaze perfection!"
+  },
+  {
+    "artist": "Slowdive",
+    "album": "Souvlaki",
+    "year": 1993,
+    "desc": "Dreamy shoegaze!"
+  },
+  {
+    "artist": "Cocteau Twins",
+    "album": "Heaven or Las Vegas",
+    "year": 1990,
+    "desc": "Ethereal dream pop!"
+  },
+  {
+    "artist": "The Jesus and Mary Chain",
+    "album": "Psychocandy",
+    "year": 1985,
+    "desc": "Feedback and melody!"
+  },
+  {
+    "artist": "Echo & the Bunnymen",
+    "album": "Ocean Rain",
+    "year": 1984,
+    "desc": "Post-punk brilliance!"
+  },
+  {
+    "artist": "Weezer",
+    "album": "Pinkerton",
+    "year": 1996,
+    "desc": "Raw, emotional power-pop!"
+  },
+  {
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "year": 2004,
+    "desc": "Punk rock opera!"
+  },
+  {
+    "artist": "Blink-182",
+    "album": "Enema of the State",
+    "year": 1999,
+    "desc": "Pop-punk perfection!"
+  },
+  {
+    "artist": "Sum 41",
+    "album": "All Killer No Filler",
+    "year": 2001,
+    "desc": "'Fat Lip' - skate punk!"
+  },
+  {
+    "artist": "Good Charlotte",
+    "album": "The Young and the Hopeless",
+    "year": 2002,
+    "desc": "Pop-punk anthems!"
+  },
+  {
+    "artist": "Simple Plan",
+    "album": "No Pads, No Helmets...Just Balls",
+    "year": 2002,
+    "desc": "Canadian pop-punk!"
+  },
+  {
+    "artist": "New Found Glory",
+    "album": "Sticks and Stones",
+    "year": 2002,
+    "desc": "Pop-punk energy!"
+  },
+  {
+    "artist": "Yellowcard",
+    "album": "Ocean Avenue",
+    "year": 2003,
+    "desc": "Violin in pop-punk!"
+  },
+  {
+    "artist": "The Starting Line",
+    "album": "Say It Like You Mean It",
+    "year": 2002,
+    "desc": "Emo-pop-punk!"
+  },
+  {
+    "artist": "Taking Back Sunday",
+    "album": "Tell All Your Friends",
+    "year": 2002,
+    "desc": "Emo classics!"
+  },
+  {
+    "artist": "Brand New",
+    "album": "The Devil and God Are Raging Inside Me",
+    "year": 2006,
+    "desc": "Dark, mature emo!"
+  },
+  {
+    "artist": "Dashboard Confessional",
+    "album": "The Places You Have Come to Fear the Most",
+    "year": 2001,
+    "desc": "Acoustic emo!"
+  },
+  {
+    "artist": "Jimmy Eat World",
+    "album": "Clarity",
+    "year": 1999,
+    "desc": "Emo masterpiece!"
+  },
+  {
+    "artist": "Saves the Day",
+    "album": "Through Being Cool",
+    "year": 1999,
+    "desc": "Emo punk perfection!"
+  },
+  {
+    "artist": "The Get Up Kids",
+    "album": "Something to Write Home About",
+    "year": 1999,
+    "desc": "Midwest emo!"
+  },
+  {
+    "artist": "Thrice",
+    "album": "The Illusion of Safety",
+    "year": 2002,
+    "desc": "Post-hardcore brilliance!"
+  },
+  {
+    "artist": "Thursday",
+    "album": "Full Collapse",
+    "year": 2001,
+    "desc": "Screamo classic!"
+  },
+  {
+    "artist": "Senses Fail",
+    "album": "Let It Enfold You",
+    "year": 2004,
+    "desc": "Emo intensity!"
+  },
+  {
+    "artist": "Hawthorne Heights",
+    "album": "The Silence in Black and White",
+    "year": 2004,
+    "desc": "'Ohio Is for Lovers'!"
+  },
+  {
+    "artist": "The Used",
+    "album": "The Used",
+    "year": 2002,
+    "desc": "Emotional hardcore!"
+  },
+  {
+    "artist": "My Chemical Romance",
+    "album": "Three Cheers for Sweet Revenge",
+    "year": 2004,
+    "desc": "Theatrical emo-rock!"
+  },
+  {
+    "artist": "Panic! at the Disco",
+    "album": "A Fever You Can't Sweat Out",
+    "year": 2005,
+    "desc": "Baroque pop-punk!"
+  },
+  {
+    "artist": "Fall Out Boy",
+    "album": "From Under the Cork Tree",
+    "year": 2005,
+    "desc": "Emo goes mainstream!"
+  },
+  {
+    "artist": "Paramore",
+    "album": "Riot!",
+    "year": 2007,
+    "desc": "Hayley Williams shines!"
+  },
+  {
+    "artist": "All Time Low",
+    "album": "So Wrong, It's Right",
+    "year": 2007,
+    "desc": "Pop-punk fun!"
+  },
+  {
+    "artist": "Mayday Parade",
+    "album": "A Lesson in Romantics",
+    "year": 2007,
+    "desc": "Emotional pop-punk!"
+  },
+  {
+    "artist": "The Academy Is...",
+    "album": "Almost Here",
+    "year": 2005,
+    "desc": "Theatrical pop-punk!"
+  },
+  {
+    "artist": "Cobra Starship",
+    "album": "While the City Sleeps, We Rule the Streets",
+    "year": 2006,
+    "desc": "Dance-punk energy!"
+  },
+  {
+    "artist": "Gym Class Heroes",
+    "album": "As Cruel as School Children",
+    "year": 2006,
+    "desc": "Hip-hop meets pop-punk!"
+  },
+  {
+    "artist": "We the Kings",
+    "album": "We the Kings",
+    "year": 2007,
+    "desc": "'Check Yes Juliet'!"
+  },
+  {
+    "artist": "Forever the Sickest Kids",
+    "album": "Underdog Alma Mater",
+    "year": 2008,
+    "desc": "Energetic pop-punk!"
+  },
+  {
+    "artist": "The Maine",
+    "album": "Can't Stop Won't Stop",
+    "year": 2008,
+    "desc": "Pop-rock hooks!"
+  },
+  {
+    "artist": "Boys Like Girls",
+    "album": "Boys Like Girls",
+    "year": 2006,
+    "desc": "Pop-rock anthems!"
+  },
+  {
+    "artist": "The Rocket Summer",
+    "album": "Do You Feel",
+    "year": 2007,
+    "desc": "One-man pop-rock!"
+  },
+  {
+    "artist": "Jack's Mannequin",
+    "album": "Everything in Transit",
+    "year": 2005,
+    "desc": "Piano rock brilliance!"
+  },
+  {
+    "artist": "Something Corporate",
+    "album": "Leaving Through the Window",
+    "year": 2002,
+    "desc": "Piano-driven emo!"
+  },
+  {
+    "artist": "Motion City Soundtrack",
+    "album": "Commit This to Memory",
+    "year": 2005,
+    "desc": "Synth-punk energy!"
+  },
+  {
+    "artist": "Relient K",
+    "album": "Mmhmm",
+    "year": 2004,
+    "desc": "Pop-punk with wit!"
+  },
+  {
+    "artist": "Anberlin",
+    "album": "Never Take Friendship Personal",
+    "year": 2005,
+    "desc": "Alternative rock!"
+  },
+  {
+    "artist": "Underoath",
+    "album": "They're Only Chasing Safety",
+    "year": 2004,
+    "desc": "Metalcore meets post-hardcore!"
+  },
+  {
+    "artist": "Alexisonfire",
+    "album": "Watch Out!",
+    "year": 2004,
+    "desc": "Canadian post-hardcore!"
+  },
+  {
+    "artist": "Silverstein",
+    "album": "Discovering the Waterfront",
+    "year": 2005,
+    "desc": "Emo-screamo!"
+  },
+  {
+    "artist": "Finch",
+    "album": "What It Is to Burn",
+    "year": 2002,
+    "desc": "Post-hardcore intensity!"
+  },
+  {
+    "artist": "From First to Last",
+    "album": "Dear Diary, My Teen Angst Has a Body Count",
+    "year": 2004,
+    "desc": "Screamo classic!"
+  },
+  {
+    "artist": "Chiodos",
+    "album": "All's Well That Ends Well",
+    "year": 2005,
+    "desc": "Theatrical post-hardcore!"
+  },
+  {
+    "artist": "A Day to Remember",
+    "album": "Homesick",
+    "year": 2009,
+    "desc": "Pop-punk meets metalcore!"
+  },
+  {
+    "artist": "Asking Alexandria",
+    "album": "Stand Up and Scream",
+    "year": 2009,
+    "desc": "Metalcore with electronics!"
+  },
+  {
+    "artist": "Pierce the Veil",
+    "album": "Selfish Machines",
+    "year": 2010,
+    "desc": "Mexican-American post-hardcore!"
+  },
+  {
+    "artist": "Sleeping with Sirens",
+    "album": "With Ears to See and Eyes to Hear",
+    "year": 2010,
+    "desc": "High-pitched vocals!"
+  },
+  {
+    "artist": "The Wonder Years",
+    "album": "The Greatest Generation",
+    "year": 2013,
+    "desc": "Pop-punk maturity!"
+  },
+  {
+    "artist": "The Story So Far",
+    "album": "Under Soil and Dirt",
+    "year": 2011,
+    "desc": "Modern pop-punk!"
+  },
+  {
+    "artist": "Neck Deep",
+    "album": "Life's Not Out to Get You",
+    "year": 2015,
+    "desc": "UK pop-punk revival!"
+  },
+  {
+    "artist": "State Champs",
+    "album": "The Finer Things",
+    "year": 2013,
+    "desc": "Pop-punk energy!"
+  },
+  {
+    "artist": "Real Friends",
+    "album": "Maybe This Place Is the Same",
+    "year": 2014,
+    "desc": "Emotional pop-punk!"
+  },
+  {
+    "artist": "Knuckle Puck",
+    "album": "Copacetic",
+    "year": 2015,
+    "desc": "Midwest emo revival!"
+  },
+  {
+    "artist": "Turnover",
+    "album": "Peripheral Vision",
+    "year": 2015,
+    "desc": "Dream pop-punk!"
+  },
+  {
+    "artist": "Citizen",
+    "album": "Youth",
+    "year": 2013,
+    "desc": "Grunge-influenced emo!"
+  },
+  {
+    "artist": "Title Fight",
+    "album": "Shed",
+    "year": 2011,
+    "desc": "Melodic hardcore!"
+  },
+  {
+    "artist": "Balance and Composure",
+    "album": "Separation",
+    "year": 2011,
+    "desc": "Grunge-emo fusion!"
+  },
+  {
+    "artist": "Tigers Jaw",
+    "album": "Two Worlds",
+    "year": 2010,
+    "desc": "Indie emo-punk!"
+  },
+  {
+    "artist": "The Front Bottoms",
+    "album": "The Front Bottoms",
+    "year": 2011,
+    "desc": "Folk-punk storytelling!"
+  },
+  {
+    "artist": "Modern Baseball",
+    "album": "You're Gonna Miss It All",
+    "year": 2014,
+    "desc": "Emo-punk honesty!"
+  },
+  {
+    "artist": "Joyce Manor",
+    "album": "Never Hungover Again",
+    "year": 2014,
+    "desc": "Power-pop punk!"
+  },
+  {
+    "artist": "PUP",
+    "album": "PUP",
+    "year": 2013,
+    "desc": "Canadian punk energy!"
+  },
+  {
+    "artist": "The Menzingers",
+    "album": "On the Impossible Past",
+    "year": 2012,
+    "desc": "Punk rock poetry!"
+  },
+  {
+    "artist": "Jeff Rosenstock",
+    "album": "WORRY.",
+    "year": 2016,
+    "desc": "DIY punk brilliance!"
+  },
+  {
+    "artist": "The Gaslight Anthem",
+    "album": "The '59 Sound",
+    "year": 2008,
+    "desc": "Springsteen-influenced punk!"
+  },
+  {
+    "artist": "Against Me!",
+    "album": "Transgender Dysphoria Blues",
+    "year": 2014,
+    "desc": "Honest punk rock!"
+  },
+  {
+    "artist": "Cloud Nothings",
+    "album": "Attack on Memory",
+    "year": 2012,
+    "desc": "Noise rock intensity!"
+  },
+  {
+    "artist": "Japandroids",
+    "album": "Celebration Rock",
+    "year": 2012,
+    "desc": "Arena punk anthems!"
+  },
+  {
+    "artist": "Titus Andronicus",
+    "album": "The Monitor",
+    "year": 2010,
+    "desc": "Punk rock epic!"
+  },
+  {
+    "artist": "The Hold Steady",
+    "album": "Boys and Girls in America",
+    "year": 2006,
+    "desc": "Bar rock storytelling!"
+  },
+  {
+    "artist": "Spoon",
+    "album": "Ga Ga Ga Ga Ga",
+    "year": 2007,
+    "desc": "Indie rock perfection!"
   }
 ]
