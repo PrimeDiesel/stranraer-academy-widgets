@@ -1,0 +1,3287 @@
+[
+  {
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "movement": "Renaissance",
+    "location": "Louvre, Paris",
+    "desc": "The world's most famous painting. That enigmatic smile has captivated viewers for 500 years. Leonardo's sfumato technique creates an almost living presence. Her gaze follows you around the room.",
+    "why": "The ultimate masterpiece. X-rays reveal three versions underneath - Leonardo constantly refined perfection. The landscape behind uses atmospheric perspective. Stolen in 1911, making it even more famous."
+  },
+  {
+    "title": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "year": 1498,
+    "movement": "Renaissance",
+    "location": "Santa Maria delle Grazie, Milan",
+    "desc": "Jesus announces his betrayal at Passover meal. Disciples react in shock and confusion. Leonardo captured 13 different emotional responses in one frozen moment of drama.",
+    "why": "Revolutionary one-point perspective focuses on Christ. Each apostle's gesture tells their story. Despite terrible deterioration from experimental technique, it remains psychology perfected in paint."
+  },
+  {
+    "title": "The Creation of Adam",
+    "artist": "Michelangelo",
+    "year": 1512,
+    "movement": "Renaissance",
+    "location": "Sistine Chapel, Vatican",
+    "desc": "God reaches out to give Adam life on the Sistine Chapel ceiling. That nearly-touching finger gap is art history's most iconic detail. Painted while lying on scaffolding for four years.",
+    "why": "The defining image of creation. Some scholars see a brain outline in God's cloak. The muscular Adam shows Renaissance humanism - man as divine creation worthy of perfect form."
+  },
+  {
+    "title": "David",
+    "artist": "Michelangelo",
+    "year": 1504,
+    "movement": "Renaissance",
+    "location": "Galleria dell'Accademia, Florence",
+    "desc": "17-foot marble statue of biblical David before fighting Goliath. Every muscle tense, eyes fierce with concentration. Carved from single massive block other sculptors abandoned as flawed.",
+    "why": "Perfect human form in marble. Those enormous hands! That psychological intensity! Symbol of Florentine independence. Took three years of non-stop carving from one block."
+  },
+  {
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": 1486,
+    "movement": "Renaissance",
+    "location": "Uffizi Gallery, Florence",
+    "desc": "Venus emerges full-grown from the sea on giant scallop shell. Wind gods Zephyr and Aura blow her toward shore where spring awaits with flowered cloak.",
+    "why": "First major nude since antiquity - pagan mythology meets Christian Renaissance. Venus's modest pose echoes classical sculptures. Flowing hair defies gravity. Everything celebrates beauty reborn."
+  },
+  {
+    "title": "Primavera",
+    "artist": "Sandro Botticelli",
+    "year": 1482,
+    "movement": "Renaissance",
+    "location": "Uffizi Gallery, Florence",
+    "desc": "Spring personified in orange grove. Venus at centre, Three Graces dance in translucent gowns, Mercury reaches for clouds. Over 500 identifiable plant species bloom.",
+    "why": "Renaissance allegory at absolute peak. Each figure represents philosophical aspects of spring. Neo-Platonic philosophy made visible. Those transparent fabrics? Technical mastery showing off."
+  },
+  {
+    "title": "School of Athens",
+    "artist": "Raphael",
+    "year": 1511,
+    "movement": "Renaissance",
+    "location": "Vatican",
+    "desc": "History's greatest philosophers gathered impossibly. Plato and Aristotle debate at centre, surrounded by Pythagoras, Socrates, Euclid. Renaissance meets Ancient Greece.",
+    "why": "Perfect perspective and composition. Each thinker's gesture reflects philosophy - Plato points up, Aristotle gestures to earth. Michelangelo broods as Heraclitus. Leonardo is Plato. Raphael painted himself!"
+  },
+  {
+    "title": "The Arnolfini Portrait",
+    "artist": "Jan van Eyck",
+    "year": 1434,
+    "movement": "Northern Renaissance",
+    "location": "National Gallery, London",
+    "desc": "Italian merchant Giovanni Arnolfini and wife in Bruges home. Convex mirror reflects entire room. Single candle burns. Dog at feet. Every object symbolic.",
+    "why": "Oil painting perfected. Detail is microscopic - individual carpet threads visible! Mirror shows van Eyck himself as witness. Marriage contract in paint? Mystery endures 600 years."
+  },
+  {
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "year": 1510,
+    "movement": "Northern Renaissance",
+    "location": "Prado Museum, Madrid",
+    "desc": "Massive triptych - paradise, earthly pleasures run amok, horrific hell. Bizarre hybrid creatures, impossible architecture, thousands of naked figures. Bosch's wildest imagination.",
+    "why": "Surrealism 400 years early! Hell's musical instruments torture sinners. Giant strawberries = fleeting pleasure. Every inch reveals bizarre details. Religious warning or celebration of pleasure?"
+  },
+  {
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "movement": "Dutch Golden Age",
+    "location": "Mauritshuis, The Hague",
+    "desc": "Young woman in exotic blue and yellow turban turns over shoulder. That luminous pearl catches light. Dark background makes face glow. Simple, maximum impact.",
+    "why": "The Dutch Mona Lisa. Vermeer's light mastery makes pearl glow from within. Who is she - servant or merchant's daughter? That glance eternally enigmatic."
+  },
+  {
+    "title": "The Night Watch",
+    "artist": "Rembrandt van Rijn",
+    "year": 1642,
+    "movement": "Baroque",
+    "location": "Rijksmuseum, Amsterdam",
+    "desc": "Amsterdam militia assembling. Captain in black, lieutenant in yellow. Mysterious golden girl. Movement, light, theatrical drama. Revolutionary group portrait breaking all rules.",
+    "why": "Baroque action painting - they're MOVING! Rembrandt's chiaroscuro creates spotlight effect. Originally larger before being trimmed for doorway. Recently restored revealing hidden details."
+  },
+  {
+    "title": "The Calling of St. Matthew",
+    "artist": "Caravaggio",
+    "year": 1600,
+    "movement": "Baroque",
+    "location": "San Luigi dei Francesi, Rome",
+    "desc": "Jesus enters dark tavern where Matthew counts money. Christ points, divine light streams in. Matthew points at himself - 'Who, me?' Conversion moment frozen.",
+    "why": "Caravaggio invented dramatic tenebrism lighting. That pointing hand echoes Michelangelo's Adam. Street people as biblical figures was radical. Light equals divine grace visible."
+  },
+  {
+    "title": "Judith Slaying Holofernes",
+    "artist": "Artemisia Gentileschi",
+    "year": 1620,
+    "movement": "Baroque",
+    "location": "Uffizi Gallery, Florence",
+    "desc": "Jewish widow beheads Assyrian general. Blood spurts. Maid helps hold him. Violent, visceral, powerful. Rape survivor's justice through art.",
+    "why": "Female painter's masterpiece. More violent than Caravaggio's version. Artemisia's trauma transformed into feminist revenge art. Judith's fierce determination revolutionary."
+  },
+  {
+    "title": "Las Meninas",
+    "artist": "Diego Velázquez",
+    "year": 1656,
+    "movement": "Baroque",
+    "location": "Prado Museum, Madrid",
+    "desc": "Spanish royal court. Infanta Margarita centre with ladies-in-waiting. Velázquez paints at huge canvas. Mirror shows king and queen. Who's painting whom?",
+    "why": "Most analysed painting ever. Are we where king and queen stand? Spatial complexity is mind-bending. Velázquez asserts artist's noble importance by including himself."
+  },
+  {
+    "title": "The Swing",
+    "artist": "Jean-Honoré Fragonard",
+    "year": 1767,
+    "movement": "Rococo",
+    "location": "Wallace Collection, London",
+    "desc": "Young woman swings high while lover hides in bushes below looking up skirts. Shoe flies off. Pink dress, lush garden, frivolous pleasure.",
+    "why": "Rococo's most famous. Nobleman commissioned painting of mistress on swing with him hiding below. Flying shoe = lost virtue. Fragonard's brushwork pure joy."
+  },
+  {
+    "title": "The Death of Marat",
+    "artist": "Jacques-Louis David",
+    "year": 1793,
+    "movement": "Neoclassicism",
+    "location": "Royal Museums, Brussels",
+    "desc": "Revolutionary leader Marat murdered in medicinal bath by Charlotte Corday. Simple composition, dramatic lighting. Letter and knife remain. David's friend martyred.",
+    "why": "Revolutionary propaganda as high art. Composition echoes Pietà - Marat as revolutionary Christ. David painted dead friend with realism and idealization. Political art's peak."
+  },
+  {
+    "title": "The Raft of the Medusa",
+    "artist": "Théodore Géricault",
+    "year": 1819,
+    "movement": "Romanticism",
+    "location": "Louvre, Paris",
+    "desc": "Shipwreck survivors wave desperately at distant rescue. Dead and dying bodies. Real 1816 French naval disaster involving cannibalism. Massive canvas showing human suffering.",
+    "why": "Romanticism's manifesto - emotion over classical myths. Géricault interviewed survivors, studied corpses at morgue. Composition builds from death to hope. Political controversy made it famous."
+  },
+  {
+    "title": "Liberty Leading the People",
+    "artist": "Eugène Delacroix",
+    "year": 1830,
+    "movement": "Romanticism",
+    "location": "Louvre, Paris",
+    "desc": "Bare-breasted Liberty leads revolutionaries over barricades. Tricolor flag raised. Dead soldiers below. July Revolution 1830 celebrated. France's national symbol born.",
+    "why": "Revolutionary icon. Liberty is goddess and common woman. Dying man gazes up - hope amid carnage. Delacroix the bourgeois painter joined barricades himself."
+  },
+  {
+    "title": "Wanderer Above the Sea of Fog",
+    "artist": "Caspar David Friedrich",
+    "year": 1818,
+    "movement": "Romanticism",
+    "location": "Kunsthalle Hamburg",
+    "desc": "Man on cliff looking over sea of fog and mountains. Lone figure contemplating sublime nature. German Romanticism's awe and melancholy. Individual facing infinity.",
+    "why": "Romantic sublime perfected. Is he master of nature or dwarfed by it? We see his back - meant to stand beside him. Friedrich painted spiritual experience through landscape."
+  },
+  {
+    "title": "The Fighting Temeraire",
+    "artist": "J.M.W. Turner",
+    "year": 1839,
+    "movement": "Romanticism",
+    "location": "National Gallery, London",
+    "desc": "Old warship HMS Temeraire towed to be scrapped. Sunset blazes. Age of sail ending. Ghostly white ship pulled by black steamboat.",
+    "why": "Turner's nostalgia masterpiece. Ship fought at Trafalgar with Nelson. Turner dissolving form into light predicts abstract art. Britain voted it favourite painting."
+  },
+  {
+    "title": "The Stone Breakers",
+    "artist": "Gustave Courbet",
+    "year": 1849,
+    "movement": "Realism",
+    "location": "Destroyed in WWII",
+    "desc": "Old man and boy breaking stones roadside. Backbreaking labour, poverty, faces hidden. No heroism, no beauty - just reality of working-class life.",
+    "why": "Revolutionary showing poverty without sentiment. No faces - anonymous workers. Courbet rejected Romantic idealization. Socialist art before socialism. Destroyed in Dresden bombing."
+  },
+  {
+    "title": "The Gleaners",
+    "artist": "Jean-François Millet",
+    "year": 1857,
+    "movement": "Realism",
+    "location": "Musée d'Orsay, Paris",
+    "desc": "Three peasant women bend collecting leftover grain after harvest. Backbreaking work, monumental treatment. Rich fields behind. Poor women gathering scraps.",
+    "why": "Working women given biblical scale. Critics saw dangerous socialism. Millet grew up peasant - painted his own class. Bending figures show labour's cost."
+  },
+  {
+    "title": "Olympia",
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "movement": "Realism",
+    "location": "Musée d'Orsay, Paris",
+    "desc": "Nude prostitute reclines, staring boldly at viewer. Black maid brings flowers from client. Black cat. Not idealized goddess but modern working woman.",
+    "why": "Caused riot at 1865 Salon! Clearly prostitute, not Venus. Direct gaze confrontational. Manet painted modern life honestly. Bridged Realism and Impressionism. Shocked Paris."
+  },
+  {
+    "title": "Impression, Sunrise",
+    "artist": "Claude Monet",
+    "year": 1872,
+    "movement": "Impressionism",
+    "location": "Musée Marmottan Monet, Paris",
+    "desc": "Le Havre harbour at dawn through mist. Orange sun barely visible, blue water, boats as shadows. Loose brushstrokes. Named Impressionism when critic mocked it.",
+    "why": "Started revolution! Critics said unfinished - just 'impression.' Monet captured fleeting light in minutes. Modern art begins with this sunrise."
+  },
+  {
+    "title": "Water Lilies",
+    "artist": "Claude Monet",
+    "year": 1916,
+    "movement": "Impressionism",
+    "location": "Multiple locations",
+    "desc": "Monet's pond at Giverny. Water lilies float, willows droop, sky reflects. Painted nearly blind with cataracts. 250+ paintings of same subject obsessively.",
+    "why": "Series concept revolutionised art. Each captures different light, time, season. Almost abstract - predicted Abstract Expressionism decades early. Final obsession became ultimate masterpiece."
+  },
+  {
+    "title": "A Bar at the Folies-Bergère",
+    "artist": "Édouard Manet",
+    "year": 1882,
+    "movement": "Impressionism",
+    "location": "Courtauld Gallery, London",
+    "desc": "Barmaid Suzon stares at viewer with melancholy. Mirror behind shows crowded cabaret, her back, gentleman she serves. Paris nightlife's lonely glamour.",
+    "why": "Manet's final masterpiece. Mirror reflection geometrically impossible - creates mystery. Her blank, tired stare = isolation amid crowds. Modern alienation's first portrait."
+  },
+  {
+    "title": "Luncheon of the Boating Party",
+    "artist": "Pierre-Auguste Renoir",
+    "year": 1881,
+    "movement": "Impressionism",
+    "location": "Phillips Collection, Washington DC",
+    "desc": "Friends dining on riverside terrace. Dappled sunlight through awning, wine glasses catch light, conversation, flirtation. Renoir's future wife Aline cuddles dog. Pure joy.",
+    "why": "Impressionism's most joyful celebration. Light filtering through awning = technical triumph. Each person is Renoir's friend. Technicolor before cinema existed."
+  },
+  {
+    "title": "The Dance Class",
+    "artist": "Edgar Degas",
+    "year": 1874,
+    "movement": "Impressionism",
+    "location": "Musée d'Orsay, Paris",
+    "desc": "Ballet dancers rehearsing at Paris Opera. Some practice, some rest, one scratches back. Master Jules Perrot watches. Behind-the-scenes reality not performance.",
+    "why": "Degas painted dancers obsessively - not performances but their labour. Unusual angles from photography influence. Captures unglamorous reality of artistic work."
+  },
+  {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "movement": "Post-Impressionism",
+    "location": "MoMA, New York",
+    "desc": "Swirling night sky over Saint-Rémy village from asylum window. Cypress flames upward, stars and moon blaze. Turbulent beauty from mental torment.",
+    "why": "Van Gogh's most iconic. Those cosmic swirls predict how galaxies move! Painted during breakdown - chaos made beautiful. Cypress = death, stars = eternity."
+  },
+  {
+    "title": "Café Terrace at Night",
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "movement": "Post-Impressionism",
+    "location": "Kröller-Müller Museum, Netherlands",
+    "desc": "Yellow café glows against cobalt Arles night sky. Cobblestone street, stars overhead. No black paint used - darkness entirely from colours. Vibrant nocturne.",
+    "why": "First major nocturne without black! Yellow vs blue creates electric atmosphere. Actual café still exists in Arles! Painted during happy period before breakdown."
+  },
+  {
+    "title": "Sunflowers",
+    "artist": "Vincent van Gogh",
+    "year": 1888,
+    "movement": "Post-Impressionism",
+    "location": "Multiple versions",
+    "desc": "Bouquet of sunflowers in various life stages - full bloom to decay. Yellow on yellow. Thick impasto. Painted to decorate yellow house for Gauguin.",
+    "why": "Van Gogh's signature worldwide. Used chrome yellow now browning with age. Each flower shows complete life cycle. Painted rapidly with passion - every brushstroke visible."
+  },
+  {
+    "title": "Wheat Field with Crows",
+    "artist": "Vincent van Gogh",
+    "year": 1890,
+    "movement": "Post-Impressionism",
+    "location": "Van Gogh Museum, Amsterdam",
+    "desc": "Turbulent golden wheat under stormy sky. Black crows fly ominously. Three paths diverge into field. Painted weeks before suicide. Dark, violent beauty.",
+    "why": "Possibly last painting before death. Paths lead nowhere - symbol of confusion. Crows = death. Violent brushstrokes show psychological torment. Nature as psychological landscape."
+  },
+  {
+    "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist": "Georges Seurat",
+    "year": 1886,
+    "movement": "Post-Impressionism",
+    "location": "Art Institute of Chicago",
+    "desc": "Parisians relaxing by Seine. Entirely tiny dots - pointillism. Took two years, thousands of dots. Scientific colour theory made art.",
+    "why": "Pointillism perfected. Stand close - see dots. Step back - forms emerge. Critique of bourgeois leisure? Monkey on leash suggests satire. Revolutionary technique."
+  },
+  {
+    "title": "The Card Players",
+    "artist": "Paul Cézanne",
+    "year": 1895,
+    "movement": "Post-Impressionism",
+    "location": "Multiple versions",
+    "desc": "Provençal peasants playing cards. Solid, blocky forms. No distractions. Pure concentration on geometric structure and relationships.",
+    "why": "Bridge from Impressionism to Cubism. Cézanne's 'little cubes' reducing forms to geometry. Made five versions. Simple scene = form study. One sold $250 million!"
+  },
+  {
+    "title": "Mont Sainte-Victoire",
+    "artist": "Paul Cézanne",
+    "year": 1905,
+    "movement": "Post-Impressionism",
+    "location": "Multiple versions",
+    "desc": "Mountain near Aix painted obsessively 60+ times. Geometric landscape breaking nature into colour planes. Blues, greens, ochres build structure. Late versions almost abstract.",
+    "why": "Painted same subject endlessly to understand form. Breaking nature into geometry directly led to Cubism. Cézanne said nature is cylinders, spheres, cones. Picasso and Braque studied these."
+  },
+  {
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "movement": "Expressionism",
+    "location": "Multiple versions",
+    "desc": "Figure holds head screaming on bridge. Sky swirls blood red and orange. Oslo fjord below. Munch's anxiety made visible. Modern alienation's icon.",
+    "why": "Existential anxiety in art. Munch felt 'scream of nature' walking at sunset. Mental illness, sister's death influenced. Four versions exist. One stolen twice! Universal anguish symbol."
+  },
+  {
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "movement": "Art Nouveau",
+    "location": "Belvedere Palace, Vienna",
+    "desc": "Couple embraces, covered in golden patterns - rectangles for him, circular flowers for her. Gold leaf background. They kneel on flower field at cliff edge.",
+    "why": "Klimt's golden period peak. Real gold leaf used! Masculine rectangles and feminine circles unite. Erotic yet decorative. Byzantine influence. Lovers isolated in golden universe."
+  },
+  {
+    "title": "Woman with a Hat",
+    "artist": "Henri Matisse",
+    "year": 1905,
+    "movement": "Fauvism",
+    "location": "San Francisco Museum of Modern Art",
+    "desc": "Matisse's wife Amélie in elaborate hat. Wild, unnatural colours - green nose, orange hair, purple shadows. Critics called them 'fauves' (wild beasts). Colour liberated.",
+    "why": "Fauvism's scandalous debut at 1905 Salon. Critics mocked 'savage' colours. Matisse freed colour from description. His wife barely recognised herself! Gertrude Stein bought it."
+  },
+  {
+    "title": "The Dance",
+    "artist": "Henri Matisse",
+    "year": 1910,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Five nude figures dance in circle against blue and green. Pure joy, movement, rhythm. Only three colours - red, blue, green. Primitive ecstasy in modern form.",
+    "why": "Matisse's simplified form and colour masterpiece. Russian collector commissioned it. Red figures, blue sky, green earth - that's all you need. Circle = life cycle."
+  },
+  {
+    "title": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "year": 1907,
+    "movement": "Cubism",
+    "location": "MoMA, New York",
+    "desc": "Five nude prostitutes from Barcelona brothel. African mask faces, fragmented geometric bodies. Multiple viewpoints simultaneously. Destroyed traditional perspective. Cubism born.",
+    "why": "Most revolutionary since Renaissance! Multiple viewpoints destroys 500 years of perspective. African art influence. Even Matisse and Braque shocked. Changed everything. Picasso kept it rolled up years."
+  },
+  {
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "movement": "Cubism",
+    "location": "Reina Sofía Museum, Madrid",
+    "desc": "Spanish Civil War bombing horror. Screaming horse, dismembered bodies, grieving mother, bull, light bulb. Black, white, grey. 25 feet wide. War's horror in fragmented forms.",
+    "why": "20th century's greatest anti-war painting. Nazis bombed civilian Guernica. Picasso painted massive protest. Bull, horse, light = Spanish symbols. Touring raised Spanish Republic funds. Never loses power."
+  },
+  {
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "year": 1931,
+    "movement": "Surrealism",
+    "location": "MoMA, New York",
+    "desc": "Melting pocket watches drape over tree branch and strange flesh form in barren landscape. Time fluid. Ants crawl on closed watch. Dalí's subconscious dreamscape.",
+    "why": "Surrealism's most iconic image. Dalí said inspired by melting Camembert! Time as fluid, relative - Einstein visualised. Hard technique, soft subject. Ants = decay. Tiny - only 9 inches!"
+  },
+  {
+    "title": "The Son of Man",
+    "artist": "René Magritte",
+    "year": 1964,
+    "movement": "Surrealism",
+    "location": "Private collection",
+    "desc": "Man in bowler hat and overcoat. Green apple floats hiding face. Magritte's mystery - visible hiding invisible. Everyday object made strange.",
+    "why": "Magritte's most famous. We want to see what's hidden. Apple both reveals and conceals. Everything visible hides something. Business suit = conformity, apple = temptation, face = unknowability."
+  },
+  {
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "year": 1930,
+    "movement": "Regionalism",
+    "location": "Art Institute of Chicago",
+    "desc": "Iowa farmer and daughter (sister and dentist actually) pose before Gothic Revival farmhouse. Pitchfork, stern expressions. Wood's sister Nan and dentist modeled. American Midwest icon.",
+    "why": "Most parodied American painting. Meant as satire of small-town narrow-mindedness or celebration of rural values? Ambiguous. The Gothic window inspired entire painting. Defines American Regionalism."
+  },
+  {
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": 1942,
+    "movement": "American Realism",
+    "location": "Art Institute of Chicago",
+    "desc": "Late-night diner on empty NYC corner. Three customers, one worker, harsh fluorescent light. Outside is darkness. Urban isolation, loneliness. No door visible - trapped inside.",
+    "why": "Defines American urban alienation. Painted after Pearl Harbour - wartime anxiety. Based on Greenwich Village diner. No door = can't enter or leave. Fluorescent light = modernity's harsh glare. Endlessly influential."
+  },
+  {
+    "title": "Christina's World",
+    "artist": "Andrew Wyeth",
+    "year": 1948,
+    "movement": "American Realism",
+    "location": "MoMA, New York",
+    "desc": "Woman with polio crawls through field toward distant farmhouse. Christina Olson, Wyeth's neighbour, was real person. Pink dress, dry grass, remote buildings. Determination and isolation.",
+    "why": "American art's most famous image of isolation and perseverance. Wyeth's neighbour couldn't walk - crawled everywhere. That distant house = unreachable home. The grass detail took months. Wyeth's masterpiece."
+  },
+  {
+    "title": "Campbell's Soup Cans",
+    "artist": "Andy Warhol",
+    "year": 1962,
+    "movement": "Pop Art",
+    "location": "MoMA, New York",
+    "desc": "32 canvases showing every Campbell's soup flavor. Mechanical repetition, consumer culture celebrated. Warhol said he ate Campbell's soup every day for lunch. Mass production as art.",
+    "why": "Pop Art's defining work. High art from commercial imagery. 32 flavors = complete line. Warhol removed artist's hand - silk-screened like advertising. Art and commerce merge. Changed everything."
+  },
+  {
+    "title": "Marilyn Diptych",
+    "artist": "Andy Warhol",
+    "year": 1962,
+    "movement": "Pop Art",
+    "location": "Tate Modern, London",
+    "desc": "50 images of Marilyn Monroe after her suicide. Left side bright colour, right fading to black. Silk-screened repetition. Celebrity as product, death as media event.",
+    "why": "Warhol's comment on celebrity culture. Made within weeks of Marilyn's death. Colour fades to black = life to death. Repetition = mass media saturation. She's both there and not there - ghost in machine."
+  },
+  {
+    "title": "Whaam!",
+    "artist": "Roy Lichtenstein",
+    "year": 1963,
+    "movement": "Pop Art",
+    "location": "Tate Modern, London",
+    "desc": "Fighter jet shoots enemy plane. Comic book Ben-Day dots enlarged to canvas. Speech bubble 'WHAAM!' War violence as comic book. Two panels like comic strip.",
+    "why": "Pop Art taking comics seriously. War violence aestheticized into pop imagery. Lichtenstein hand-painted Ben-Day dots from printing process. Low art elevated to high art. Questions what deserves museum."
+  },
+  {
+    "title": "No. 5, 1948",
+    "artist": "Jackson Pollock",
+    "year": 1948,
+    "movement": "Abstract Expressionism",
+    "location": "Private collection",
+    "desc": "Drip painting - yellow, white, grey on brown. Pollock dripped and splattered paint while walking around canvas on floor. No brushes touched canvas. Action painting perfected.",
+    "why": "Most expensive painting ever sold privately - $140 million! Pollock's revolutionary drip technique. The painting is record of artist's movement - dance frozen. Sold to private collector immediately."
+  },
+  {
+    "title": "Autumn Rhythm (Number 30)",
+    "artist": "Jackson Pollock",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "Met Museum, New York",
+    "desc": "Black, white, brown drips on unprimed canvas. 17 feet wide. Pollock circled canvas, dripping paint from sticks and hardened brushes. All-over composition - no focal point.",
+    "why": "Action painting at peak. The painting is physical record of Pollock's movements. No sketch, no plan - pure improvisation like jazz. Surface is uniform energy field. Influenced by Native American sand painting."
+  },
+  {
+    "title": "Woman I",
+    "artist": "Willem de Kooning",
+    "year": 1952,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Grotesque, aggressive female figure. Huge eyes, bared teeth, massive breasts. Violent brushwork, garish colours. De Kooning scraped off and repainted for 18 months. Abstract Expressionism meets figuration.",
+    "why": "Shocked Abstract Expressionist purists - why return to figure? De Kooning's women are fierce, not passive muses. That smile is both alluring and terrifying. Took 18 months of scraping and repainting."
+  },
+  {
+    "title": "Orange and Yellow",
+    "artist": "Mark Rothko",
+    "year": 1956,
+    "movement": "Abstract Expressionism",
+    "location": "Albright-Knox Art Gallery, Buffalo",
+    "desc": "Two rectangles - orange on top, yellow below - float on orange field. Edges blur and vibrate. Large scale meant for close viewing. Pure colour field creating emotional response.",
+    "why": "Rothko's colour field at peak. Meant to be viewed close up - immersive experience. Colours vibrate and breathe. Rothko wanted paintings to evoke spiritual transcendence through colour alone."
+  },
+  {
+    "title": "Seagram Murals",
+    "artist": "Mark Rothko",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Tate Modern, London",
+    "desc": "Series of dark reds and maroons for Four Seasons restaurant. Rothko refused to deliver them - didn't want art in restaurant. Kept money anyway. Dark, chapel-like atmosphere.",
+    "why": "Rothko couldn't stand idea of art where rich people ate. Kept the money, refused delivery. The dark reds and blacks show his turn toward darkness before suicide. Now in Tate's Rothko Room."
+  },
+  {
+    "title": "Flag",
+    "artist": "Jasper Johns",
+    "year": 1954,
+    "movement": "Neo-Dada",
+    "location": "MoMA, New York",
+    "desc": "American flag painted in encaustic on canvas. Is it painting or flag? Johns made it after dreaming of flag. Symbol vs object question. Pop Art precursor.",
+    "why": "Is it painting of flag or flag itself? Johns questions representation. Made after dream. Used encaustic (wax) technique. Inspired by seeing flags everywhere in 1950s America. Bridge from Abstract Expressionism to Pop."
+  },
+  {
+    "title": "Target with Four Faces",
+    "artist": "Jasper Johns",
+    "year": 1955,
+    "movement": "Neo-Dada",
+    "location": "MoMA, New York",
+    "desc": "Target with plaster casts of faces in boxes above. Everyday symbol turned mysterious. Target suggests aiming, shooting. Faces = anonymous humanity as targets?",
+    "why": "Johns taking everyday objects and making them strange. Targets are about looking, aiming. Faces add human element. Neo-Dada questioning Abstract Expressionism's pure abstraction."
+  },
+  {
+    "title": "Untitled (Perfect Lovers)",
+    "artist": "Felix Gonzalez-Torres",
+    "year": 1991,
+    "movement": "Conceptual",
+    "location": "MoMA, New York",
+    "desc": "Two identical clocks side by side, synchronized. Eventually they fall out of sync as batteries die at different rates. About artist and partner dying of AIDS. Time, love, death.",
+    "why": "Two lovers, two clocks - start together, end separately. Heartbreaking AIDS crisis memorial. The clocks will eventually differ - death comes for us all, but not together. Simple, devastating conceptual art."
+  },
+  {
+    "title": "One and Three Chairs",
+    "artist": "Joseph Kosuth",
+    "year": 1965,
+    "movement": "Conceptual",
+    "location": "MoMA, New York",
+    "desc": "Physical chair, photograph of that chair, dictionary definition of 'chair.' Three representations of chair-ness. Idea vs object. Language vs reality.",
+    "why": "Conceptual art's key work. Which is 'real' chair - object, image, or definition? All three describe chair differently. Art as idea not object. Influenced by philosophy."
+  },
+  {
+    "title": "The Physical Impossibility of Death in the Mind of Someone Living",
+    "artist": "Damien Hirst",
+    "year": 1991,
+    "movement": "YBA",
+    "location": "Met Museum, New York",
+    "desc": "14-foot tiger shark in formaldehyde in glass tank. Death preserved, made visible. Hirst's most infamous work. Shocking, memorable, conceptual.",
+    "why": "Sensation! Real dead shark in tank. We can't comprehend our own death - here's death made physical, preserved. Cost $50,000 to make, sold for millions. YBA movement's shock tactics."
+  },
+  {
+    "title": "My Bed",
+    "artist": "Tracey Emin",
+    "year": 1998,
+    "movement": "YBA",
+    "location": "Tate Britain, London",
+    "desc": "Emin's actual unmade bed with dirty sheets, condoms, stained underwear, vodka bottles, cigarettes. Aftermath of depression. Raw, confessional, controversial.",
+    "why": "Emin's bed after suicidal depression. Everything present - blood, bodily fluids, despair made physical. Caused scandal at Turner Prize. Autobiography as art. Uncomfortable truth."
+  },
+  {
+    "title": "Balloon Dog (Orange)",
+    "artist": "Jeff Koons",
+    "year": 1994,
+    "movement": "Neo-Pop",
+    "location": "Private collection",
+    "desc": "10-foot tall stainless steel balloon dog in mirror-polished orange. Looks like balloon but weighs tons. Childhood joy in permanent, precious material. One sold $58 million.",
+    "why": "Most expensive living artist work at time. Childhood balloon animal made monumental and permanent. Koons elevates kitsch to high art. That mirror surface reflects viewer - we're part of art."
+  },
+  {
+    "title": "Rabbit",
+    "artist": "Jeff Koons",
+    "year": 1986,
+    "movement": "Neo-Pop",
+    "location": "Private collection",
+    "desc": "Stainless steel inflatable rabbit. Mirror finish reflects surroundings. Childhood toy monumentalized. Sold $91 million - most expensive by living artist.",
+    "why": "Koons's breakthrough. Cheap inflatable made precious metal sculpture. That mirrored surface means you see yourself - the viewer completes the work. Sold for $91 million in 2019!"
+  },
+  {
+    "title": "Untitled (Your body is a battleground)",
+    "artist": "Barbara Kruger",
+    "year": 1989,
+    "movement": "Conceptual/Feminist",
+    "location": "Broad Museum, LA",
+    "desc": "Black and white female face split down middle, text overlaid: 'Your body is a battleground.' Abortion rights protest. Advertising techniques for political message.",
+    "why": "Feminist art icon. Women's reproductive rights. Made for 1989 pro-choice march. Kruger uses advertising language to critique power. That bold text, that split face. Art as activism."
+  },
+  {
+    "title": "The Dinner Party",
+    "artist": "Judy Chicago",
+    "year": 1979,
+    "movement": "Feminist",
+    "location": "Brooklyn Museum, New York",
+    "desc": "Triangular table with 39 place settings for important women in history - from prehistory to Georgia O'Keeffe. Each plate has unique design, often vaginal imagery. Feminist art landmark.",
+    "why": "Monumental feminist artwork celebrating women erased from history. Took five years, hundreds of volunteers. Each plate unique. Heritage Floor lists 999 more women. Controversial for explicit imagery."
+  },
+  {
+    "title": "Mama Ray",
+    "artist": "Louise Bourgeois",
+    "year": 1999,
+    "movement": "Contemporary",
+    "location": "Multiple locations",
+    "desc": "Giant bronze spider - 30 feet tall. Carries marble eggs in sac. Mother as protector and predator. Bourgeois's tribute to her weaver mother. Monumental, terrifying, beautiful.",
+    "why": "Bourgeois made these massive spider sculptures in her 80s! Mother spider protects but can kill. The eggs are precious yet trapped. Spiders weave like her mother. Feminism, motherhood, fear combined."
+  },
+  {
+    "title": "Fountain",
+    "artist": "Marcel Duchamp",
+    "year": 1917,
+    "movement": "Dada",
+    "location": "Replicas exist",
+    "desc": "Porcelain urinal signed 'R. Mutt' and submitted as sculpture. Rejected from exhibition. Duchamp's ready-made - everyday object becomes art by artist's choice. Conceptual art born.",
+    "why": "Most influential artwork of 20th century? Duchamp said artist's choice makes something art. A urinal! Shocked everyone. Original lost, replicas made later. Questioned 'what is art?' fundamentally."
+  },
+  {
+    "title": "L.H.O.O.Q.",
+    "artist": "Marcel Duchamp",
+    "year": 1919,
+    "movement": "Dada",
+    "location": "Multiple versions",
+    "desc": "Postcard of Mona Lisa with penciled mustache and goatee. Title is pun in French sounding like 'she has hot ass.' Duchamp mocking art's sacred cow.",
+    "why": "Ultimate Dada provocation - defacing Mona Lisa! Questions art reverence. Title's sexual pun. The moustache makes Leonardo's masterpiece absurd. Duchamp's cheek changed art."
+  },
+  {
+    "title": "The Treachery of Images",
+    "artist": "René Magritte",
+    "year": 1929,
+    "movement": "Surrealism",
+    "location": "LACMA, Los Angeles",
+    "desc": "Realistic pipe painted above text 'Ceci n'est pas une pipe' (This is not a pipe). Of course it's not - it's painting of pipe! Image vs reality.",
+    "why": "Philosophy in image. It's NOT a pipe - it's representation. Can't smoke a painting! Questions nature of art, representation, reality. Magritte making us think about thinking."
+  },
+  {
+    "title": "The Elephants",
+    "artist": "Salvador Dalí",
+    "year": 1948,
+    "movement": "Surrealism",
+    "location": "Private collection",
+    "desc": "Elephants with impossibly thin spider legs carry obelisks. Swans reflected as elephants in water. Dalí's nuclear mysticism period. Fragility supporting massive weight.",
+    "why": "Post-war anxiety as distorted strength. Thin legs = atomic age fragility. Elephants inspired by Bernini sculpture. Everything in Dalí is symbolic, dreamlike, obsessive."
+  },
+  {
+    "title": "The Burning Giraffe",
+    "artist": "Salvador Dalí",
+    "year": 1937,
+    "movement": "Surrealism",
+    "location": "Kunstmuseum Basel",
+    "desc": "Female figure with drawers in body supported by crutches. Giraffe aflame in background. Spanish Civil War anxiety. Freudian symbols. Premonition of catastrophe.",
+    "why": "Painted as Spain collapsed into war. Burning giraffe = horror premonition. Drawers = hidden psyche parts. Crutches = need for support. Dalí processing war trauma through dream."
+  },
+  {
+    "title": "Girl Before a Mirror",
+    "artist": "Pablo Picasso",
+    "year": 1932,
+    "movement": "Cubism",
+    "location": "MoMA, New York",
+    "desc": "Marie-Thérèse Walter contemplates mirror reflection. Bright colours, patterns, multiple profiles. Day face vs night face. Picasso's most decorative Cubist work.",
+    "why": "Picasso at most colorful. Mirror shows inner self - darker, more complex. Multiple views simultaneously. Matisse influence visible in patterns. Decorated domesticity. Psychology and beauty."
+  },
+  {
+    "title": "Three Musicians",
+    "artist": "Pablo Picasso",
+    "year": 1921,
+    "movement": "Cubism",
+    "location": "MoMA, New York",
+    "desc": "Harlequin, Pierrot, monk play music together. Flat, collage-like shapes in synthetic Cubism. Commedia dell'arte characters. Picasso and dead friends - Apollinaire, Max Jacob.",
+    "why": "Synthetic Cubism perfected - flat shapes reassembled. Three musicians are Picasso's friends. Commedia dell'arte meets modern geometry. Elegy for lost friendships. Two versions exist."
+  },
+  {
+    "title": "Violin and Candlestick",
+    "artist": "Georges Braque",
+    "year": 1910,
+    "movement": "Cubism",
+    "location": "San Francisco Museum of Modern Art",
+    "desc": "Analytical Cubism - violin fragmented into geometric planes. Browns, tans, grays. Multiple viewpoints. Object from all angles simultaneously on flat surface.",
+    "why": "Analytical Cubism peak - breaking objects into facets. Braque and Picasso 'roped together like mountaineers.' Can find violin if you look. Pure visual investigation."
+  },
+  {
+    "title": "Broadway Boogie Woogie",
+    "artist": "Piet Mondrian",
+    "year": 1943,
+    "movement": "De Stijl",
+    "location": "MoMA, New York",
+    "desc": "Grid of primary colours - yellow, red, blue - with small coloured rectangles. Mondrian's love of NYC and jazz. Boogie-woogie rhythm in paint. His last complete painting.",
+    "why": "Mondrian's NYC love letter. Grid = Manhattan streets, rhythm = boogie-woogie jazz he loved. More complex than earlier grids. Pure abstraction expressing city's energy. Died shortly after."
+  },
+  {
+    "title": "Composition with Red, Blue, and Yellow",
+    "artist": "Piet Mondrian",
+    "year": 1930,
+    "movement": "De Stijl",
+    "location": "Private collection",
+    "desc": "Black grid lines dividing canvas. Primary colours fill some rectangles - red, blue, yellow. White negative space. Pure abstraction reduced to essentials. Mondrian's signature style.",
+    "why": "Mondrian reducing art to pure elements - primary colours, straight lines, right angles. Influenced by theosophy - seeking universal truth. His grids influenced everything - architecture, fashion, design."
+  },
+  {
+    "title": "Black Square",
+    "artist": "Kazimir Malevich",
+    "year": 1915,
+    "movement": "Suprematism",
+    "location": "Tretyakov Gallery, Moscow",
+    "desc": "Black square on white background. Pure geometric abstraction. Zero degree of painting. Malevich's 'supremacy of pure feeling.' Hung in icon corner at exhibition.",
+    "why": "Zero degree of painting - can't get more abstract. Malevich said represented 'supremacy of pure feeling.' Hung where Russian Orthodox icons go. Revolutionary rejection of representation. Suprematism born."
+  },
+  {
+    "title": "White on White",
+    "artist": "Kazimir Malevich",
+    "year": 1918,
+    "movement": "Suprematism",
+    "location": "MoMA, New York",
+    "desc": "White square on white background. Barely visible. Malevich pushing Suprematism to limit. Pure sensation beyond objects. Spiritual abstraction.",
+    "why": "Taking abstraction to logical extreme - can barely see it! White square on white. Suprematism's endpoint. Can't go further without disappearing entirely. Spiritual, philosophical painting."
+  },
+  {
+    "title": "Composition VIII",
+    "artist": "Wassily Kandinsky",
+    "year": 1923,
+    "movement": "Abstract",
+    "location": "Guggenheim Museum, New York",
+    "desc": "Geometric shapes - circles, triangles, lines - float in space. Kandinsky believed shapes and colours have spiritual power. Visual music - synesthesia made visible.",
+    "why": "Kandinsky pioneered pure abstraction. Believed art should be like music - pure form and colour without subject. Synesthesia - he 'saw' colours when hearing music. Bauhaus teaching influenced this."
+  },
+  {
+    "title": "Yellow-Red-Blue",
+    "artist": "Wassily Kandinsky",
+    "year": 1925,
+    "movement": "Abstract",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Left side warm colours and geometric chaos, right side cool blues and controlled forms. Kandinsky exploring hot vs cold, chaos vs order. Visual music theory applied.",
+    "why": "Kandinsky's colour theory masterpiece. Yellow = earthly, chaos. Blue = spiritual, order. Red mediates between. Like musical composition - visual symphony of colour relationships."
+  },
+  {
+    "title": "The Bride Stripped Bare by Her Bachelors, Even",
+    "artist": "Marcel Duchamp",
+    "year": 1923,
+    "movement": "Dada",
+    "location": "Philadelphia Museum of Art",
+    "desc": "Large glass construction - bride above, bachelor machine below. Never touch. Oil, lead, dust on glass panels. 'Large Glass' - Duchamp's most complex work. Erotic mechanization.",
+    "why": "Duchamp's most enigmatic masterpiece. Bride and bachelors separated by glass - desire never consummated. Took 8 years. Cracked in transport - Duchamp liked cracks, kept them. Mechanical eroticism. Inexhaustible interpretation."
+  },
+  {
+    "title": "The Treachery of Images (This is Not a Pipe)",
+    "artist": "René Magritte",
+    "year": 1929,
+    "movement": "Surrealism",
+    "location": "LACMA",
+    "desc": "Pipe with text 'Ceci n'est pas une pipe.' Challenges representation. It's not a pipe - it's painting of pipe. Philosophy of signs and meaning.",
+    "why": "Questions how images and words relate to reality. Famous for causing viewers to question what they see. Magritte's clearest philosophical statement. Still debated by philosophers."
+  },
+  {
+    "title": "Number 1A, 1948",
+    "artist": "Jackson Pollock",
+    "year": 1948,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Drip painting - all-over composition. Pollock walked around canvas on floor dripping paint. No beginning, no end, no focal point. Pure action recorded.",
+    "why": "Action painting exemplified. The painting IS the record of Pollock's dance around canvas. No composition, just energy field. Influenced by Native American sand painting and Jungian unconscious."
+  },
+  {
+    "title": "One: Number 31, 1950",
+    "artist": "Jackson Pollock",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "17 feet wide. Black, white, grey drips on bare canvas. Monumental all-over composition. Pollock at height of powers. Meant to be immersive - stand close.",
+    "why": "Pollock's largest, most ambitious work at peak of powers. 17 feet makes it environmental - meant to surround viewer. The paint skeins layer and interlace infinitely. Museum-scale painting."
+  },
+  {
+    "title": "Vir Heroicus Sublimis",
+    "artist": "Barnett Newman",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "18-foot wide red field with five vertical 'zips' (Newman's term). Meant to be viewed close - overwhelming sublime experience. Pure colour field.",
+    "why": "Newman's sublime - spiritual experience through massive colour field. Those 'zips' (vertical lines) activate the red. Title means 'Man, Heroic and Sublime.' Stand close - it fills vision. Transcendent."
+  },
+  {
+    "title": "Who's Afraid of Red, Yellow and Blue III",
+    "artist": "Barnett Newman",
+    "year": 1967,
+    "movement": "Abstract Expressionism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Huge panels of red, yellow strip, blue strip. Dominant red field. Newman asserting primary colour's emotional power. Famously attacked and slashed by vandal.",
+    "why": "Newman's colour field monumentality. Attacked by visitor who slashed it! Restoration controversial. Newman proving primary colours enough for sublime experience. Title challenges viewer to face pure colour."
+  },
+  {
+    "title": "Lavender Mist: Number 1, 1950",
+    "artist": "Jackson Pollock",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "National Gallery of Art, Washington DC",
+    "desc": "Drip painting in white, silver, black, blue, pink. No lavender actually! Subtle colour harmony. 7+ feet wide. Pollock dripped, poured, splattered paint.",
+    "why": "Pollock's most expensive sold work at auction time. Despite title no lavender - Pollock's dealer named it. The webs of paint create depth despite flatness. All-over composition perfected."
+  },
+  {
+    "title": "Blue Poles",
+    "artist": "Jackson Pollock",
+    "year": 1952,
+    "movement": "Abstract Expressionism",
+    "location": "National Gallery of Australia",
+    "desc": "Drip painting with eight blue poles/lines. Caused scandal when Australia paid record price. Pollock's late style - vertical structure organizing chaos.",
+    "why": "Australia's controversial purchase for record $2 million in 1973. Now worth $350+ million! Blue poles structure the drip chaos. Late Pollock introducing figuration back into abstraction."
+  },
+  {
+    "title": "Mountains and Sea",
+    "artist": "Helen Frankenthaler",
+    "year": 1952,
+    "movement": "Abstract Expressionism",
+    "location": "National Gallery of Art, Washington DC",
+    "desc": "Stain painting - Frankenthaler poured thinned paint onto raw canvas. Colours soak in, become one with canvas. Landscape suggested by colours flowing. Changed painting.",
+    "why": "Revolutionary technique - pouring thin paint onto unprimed canvas. Paint stains into fabric. Influenced Kenneth Noland and Morris Louis. Colour Field painting born from this technique. Abstract landscape."
+  },
+  {
+    "title": "Elegy to the Spanish Republic No. 110",
+    "artist": "Robert Motherwell",
+    "year": 1971,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Black ovoid and rectangular forms on white. Motherwell's 40-year series about Spanish Civil War. Elegy means funeral song - mourning democracy's death in Spain.",
+    "why": "Motherwell's lifelong obsession - made 150+ Elegies. Black forms = death, white = absence. Abstract memorial to Spanish Republic destroyed by Franco. Simple forms, profound meaning."
+  },
+  {
+    "title": "Canyon",
+    "artist": "Robert Rauschenberg",
+    "year": 1959,
+    "movement": "Neo-Dada",
+    "location": "MoMA, New York",
+    "desc": "Combine painting - stuffed bald eagle attached to painted canvas with pillow below. Eagle was illegal to own (endangered species). Rauschenberg didn't care. Art and life combined.",
+    "why": "Most controversial combine - that's real stuffed eagle (illegal to own). Rauschenberg mixing painting and sculpture and found objects. Art and life boundaries destroyed. Legal issues prevented sale for decades."
+  },
+  {
+    "title": "Bed",
+    "artist": "Robert Rauschenberg",
+    "year": 1955,
+    "movement": "Neo-Dada",
+    "location": "MoMA, New York",
+    "desc": "Rauschenberg's own pillow, quilt, sheet splashed with paint and hung vertical. Bed becomes painting. Shocked 1950s - is it vandalism? Combines painting and real life.",
+    "why": "Rauschenberg took his actual bed, painted it, hung it on wall. Scandalized 1950s audience. Is it painting or sculpture or neither? Breaking all boundaries. Bridge from Abstract Expressionism to Pop."
+  },
+  {
+    "title": "Untitled (I shop therefore I am)",
+    "artist": "Barbara Kruger",
+    "year": 1987,
+    "movement": "Conceptual/Feminist",
+    "location": "Multiple versions",
+    "desc": "Red rectangle with text 'I shop therefore I am' - parody of Descartes. Kruger's advertising-style text critiquing consumer culture. Feminism meets consumerism critique.",
+    "why": "Kruger's bold graphic style critiquing consumer capitalism. Parody of Descartes 'I think therefore I am' - now we are what we buy. Her work influenced street art, graphic design, activism."
+  },
+  {
+    "title": "Shot Marilyns",
+    "artist": "Andy Warhol",
+    "year": 1964,
+    "movement": "Pop Art",
+    "location": "Various collections",
+    "desc": "Series of Marilyn silkscreens in bright colours. Woman actually shot them with gun! Made Warhol nervous. Celebrity, death, pop culture. Marilyn as commodity.",
+    "why": "Visitor shot bullet through stack of Marilyns! Warhol treated as art - 'Shot Marilyns.' Celebrity as reproducible commodity. Death makes her more valuable. Pop Art's dark side."
+  },
+  {
+    "title": "Eight Elvises",
+    "artist": "Andy Warhol",
+    "year": 1963,
+    "movement": "Pop Art",
+    "location": "Private collection",
+    "desc": "Eight repeating images of Elvis with gun from Western movie. Silkscreen repetition. Elvis as consumer product. Sold for $100 million privately - one of Warhol's most expensive.",
+    "why": "Celebrity as endless repetition. Elvis duplicated like products on assembly line. Death and guns lurk in pop culture. Sold for $100 million+! Warhol turning celebrity into commodity art."
+  },
+  {
+    "title": "Oxidation Paintings",
+    "artist": "Andy Warhol",
+    "year": 1978,
+    "movement": "Pop Art",
+    "location": "Various",
+    "desc": "Warhol and friends urinated on copper paint. Urine oxidized copper creating abstract patterns. Parody of Abstract Expressionism. Literally pissing on art history.",
+    "why": "Warhol's ultimate parody - pissing on Abstract Expressionism! Bodily fluid becomes painting process. Random patterns from oxidation. Called them 'piss paintings.' Warhol's dark humor."
+  },
+  {
+    "title": "Untitled (Skull)",
+    "artist": "Jean-Michel Basquiat",
+    "year": 1981,
+    "movement": "Neo-Expressionism",
+    "location": "Private collection",
+    "desc": "Massive skull in acrylic and oil stick on canvas. Black face skull with exposed teeth. Graffiti energy meets fine art. Basquiat's signature crown. Death and racial identity.",
+    "why": "Basquiat from street graffiti to auction records. This sold for $110 million! That skull references mortality and Black death. Graffiti energy in high art. Tragic - died at 27 of overdose."
+  },
+  {
+    "title": "Untitled",
+    "artist": "Jean-Michel Basquiat",
+    "year": 1982,
+    "movement": "Neo-Expressionism",
+    "location": "Private collection",
+    "desc": "Devil figure with crown. Text fragments, symbols, energetic marks. Basquiat's punk energy. Sold for $110 million - one of most expensive paintings ever at auction.",
+    "why": "Basquiat's most expensive work. Street art meets Old Masters. That crown his signature - claiming kingship in art world. Text and image combined. Raw energy and sophistication. Died tragically young."
+  },
+  {
+    "title": "Puppy",
+    "artist": "Jeff Koons",
+    "year": 1992,
+    "movement": "Neo-Pop",
+    "location": "Guggenheim Bilbao",
+    "desc": "43-foot tall West Highland Terrier puppy covered in flowers. Steel structure with flowering plants. Changes with seasons. Monumental cute. Outside Bilbao museum.",
+    "why": "Koons's largest permanent work. Puppy covered in 70,000 flowers! Structure holds irrigation system. Kitsch monumentalized. Guards discovered terrorists planting bombs under it. Survived terrorism attempt!"
+  },
+  {
+    "title": "Tulips",
+    "artist": "Jeff Koons",
+    "year": 1995,
+    "movement": "Neo-Pop",
+    "location": "Various",
+    "desc": "Huge mirror-polished stainless steel tulips. Balloon animal aesthetic. Gift to France after Charlie Hebdo attack. 34 feet tall. Controversial memorial.",
+    "why": "Gift to France after Paris terror attacks. Mirror surface reflects viewers and surroundings. Koons's balloon aesthetic meets memorial function. Controversial - critics said too kitschy for massacre memorial."
+  },
+  {
+    "title": "Sleeping Venus",
+    "artist": "Giorgione",
+    "year": 1510,
+    "movement": "Renaissance",
+    "location": "Gemäldegalerie Alte Meister, Dresden",
+    "desc": "Reclining nude Venus asleep in landscape. First reclining nude in Renaissance. Titian may have finished it after Giorgione died young. Inspired countless later nudes.",
+    "why": "First major reclining nude - established entire genre. Giorgione died young at 32 of plague. Titian his student finished it. Inspired Titian's Venus of Urbino, Manet's Olympia, centuries of reclining nudes."
+  },
+  {
+    "title": "Venus of Urbino",
+    "artist": "Titian",
+    "year": 1538,
+    "movement": "Renaissance",
+    "location": "Uffizi Gallery, Florence",
+    "desc": "Reclining nude Venus gazes at viewer. Small dog sleeps at feet. Servants in background. Based on Giorgione's Sleeping Venus but awake, aware, engaging viewer directly.",
+    "why": "More erotic than Giorgione's sleeping version - she looks at us! That direct gaze was provocative. Influenced every reclining nude after. Manet's Olympia directly references this. Titian's colour mastery."
+  },
+  {
+    "title": "Bacchus and Ariadne",
+    "artist": "Titian",
+    "year": 1523,
+    "movement": "Renaissance",
+    "location": "National Gallery, London",
+    "desc": "Bacchus leaps from chariot toward abandoned Ariadne. Drunken revelers, leopards pulling chariot. Dynamic movement, brilliant colour. Titian's movement and colour mastery.",
+    "why": "Titian's most dynamic composition. Bacchus mid-leap - impossible pose held frozen. Those blues and reds! Painted for Duke of Ferrara's study. Action, emotion, colour perfection."
+  },
+  {
+    "title": "The Rape of Europa",
+    "artist": "Titian",
+    "year": 1562,
+    "movement": "Renaissance",
+    "location": "Isabella Stewart Gardner Museum, Boston",
+    "desc": "Zeus as bull abducts Europa across sea. Her pink scarf flies. Cupids ride fish. Late Titian - loose, energetic brushwork. Mythological violence rendered beautifully.",
+    "why": "Late Titian's painterly freedom. Look close - brushwork is loose, sketchy almost. Influenced Rubens, Velázquez. That pink scarf against stormy sky. Titian at 70+ painting with unprecedented freedom."
+  },
+  {
+    "title": "The Crucifixion",
+    "artist": "Matthias Grünewald",
+    "year": 1515,
+    "movement": "Northern Renaissance",
+    "location": "Musée Unterlinden, Colmar",
+    "desc": "Isenheim Altarpiece centerpiece. Christ's body wracked with pain, covered in boils and thorns. Most gruesome crucifixion ever painted. Painted for hospital treating skin diseases.",
+    "why": "Most harrowing crucifixion in art. Christ's suffering made viscerally real - body covered in wounds, boils, thorns. For hospital patients with skin diseases - their suffering shared with Christ. Northern Renaissance Gothic horror."
+  },
+  {
+    "title": "The Ghent Altarpiece (Adoration of the Mystic Lamb)",
+    "artist": "Jan van Eyck and Hubert van Eyck",
+    "year": 1432,
+    "movement": "Northern Renaissance",
+    "location": "St. Bavo Cathedral, Ghent",
+    "desc": "Massive altarpiece - open shows Mystic Lamb, closed shows Annunciation. Jan and Hubert van Eyck. Stolen multiple times including by Nazis. 20 panels of oil painting perfection.",
+    "why": "One of history's most important artworks. Northern Renaissance oil technique perfection. Stolen six times! Nazis took it. One panel still missing since 1934. Adam and Eve panels are life-size nudes. Pristine after recent restoration."
+  },
+  {
+    "title": "The Return of the Prodigal Son",
+    "artist": "Rembrandt van Rijn",
+    "year": 1669,
+    "movement": "Baroque",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Biblical parable - son returns home ragged and defeated. Father embraces him tenderly. Rembrandt's late masterpiece. Painted blind in poverty year before death. Forgiveness and mercy.",
+    "why": "Rembrandt's final masterpiece - painted nearly blind before death. That embrace! Father's hands on son's back - tenderness despite son's betrayal. Rembrandt himself was prodigal - bankrupt, family dead. Autobiographical. That red - all Rembrandt had left."
+  },
+  {
+    "title": "Self-Portrait with Two Circles",
+    "artist": "Rembrandt van Rijn",
+    "year": 1665,
+    "movement": "Baroque",
+    "location": "Kenwood House, London",
+    "desc": "Rembrandt aged 59, palette and brushes. Two mysterious circles on wall behind. Late self-portrait - honest, aged, wise. One of 40+ self-portraits tracking his life.",
+    "why": "One of Rembrandt's final self-portraits. No flattery - shows age honestly. Those mysterious circles behind - compass marks? Halo? Unknown. Palette and brushes assert identity as painter. 40+ self-portraits = autobiography in paint."
+  },
+  {
+    "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "artist": "Rembrandt van Rijn",
+    "year": 1632,
+    "movement": "Baroque",
+    "location": "Mauritshuis, The Hague",
+    "desc": "Surgeon dissects cadaver's arm while guild members watch. Dramatic lighting, psychological engagement. Rembrandt's breakthrough group portrait. Medical procedure as drama.",
+    "why": "Rembrandt's breakthrough commission at 26. Group portrait made dramatic - not static line-up. That lighting! The cadaver's arm dissected. Some looking, some at textbook, some at viewer. Science as spectacle."
+  },
+  {
+    "title": "The Jewish Bride",
+    "artist": "Rembrandt van Rijn",
+    "year": 1665,
+    "movement": "Baroque",
+    "location": "Rijksmuseum, Amsterdam",
+    "desc": "Couple in golden light. Man's hand on woman's chest tenderly. Who are they? Jewish couple? Biblical Isaac and Rebecca? Unknown. Rembrandt's late style - thick paint, glowing light, intimacy.",
+    "why": "Late Rembrandt masterpiece. Who are they? Title added later. That touch is tender, intimate. Paint is thick, sculptural. Van Gogh said he'd give 10 years of life to sit before it for 2 weeks. Love made visible."
+  },
+  {
+    "title": "Susanna and the Elders",
+    "artist": "Artemisia Gentileschi",
+    "year": 1610,
+    "movement": "Baroque",
+    "location": "Pommersfelden, Germany",
+    "desc": "Young Susanna bathing, harassed by two old men. She recoils in genuine fear. Artemisia at 17 painting harassment - year before her own rape. Female perspective on male violence.",
+    "why": "Painted at 17, year before her rape by art teacher. Susanna's distress is real - not eroticized like male versions. Female artist showing harassment's reality. Artemisia's breakthrough work. Signed prominently."
+  },
+  {
+    "title": "Self-Portrait as the Allegory of Painting",
+    "artist": "Artemisia Gentileschi",
+    "year": 1639,
+    "movement": "Baroque",
+    "location": "Royal Collection, UK",
+    "desc": "Artemisia painting herself painting - woman as Painting personified. Female artist asserting power. One of few female self-portraits as artist working.",
+    "why": "Female artist as Painting itself - extraordinary claim in male-dominated field. Only woman could embody Painting as female. Artemisia asserting her identity and importance. Revolutionary self-portrait."
+  },
+  {
+    "title": "The Burial of the Count of Orgaz",
+    "artist": "El Greco",
+    "year": 1588,
+    "movement": "Mannerism",
+    "location": "Santo Tomé, Toledo",
+    "desc": "Two realms - earthly burial below, heavenly glory above. Saints Stephen and Augustine lower Count's body. Heaven opens with Christ, Mary, saints. El Greco's masterpiece in Toledo.",
+    "why": "El Greco's masterpiece. Two worlds - earth and heaven - connected. Elongated figures, mystical light, Spanish intensity. Count's soul rises to heaven. Painted for burial chapel in Toledo. Still in situ!"
+  },
+  {
+    "title": "View of Toledo",
+    "artist": "El Greco",
+    "year": 1599,
+    "movement": "Mannerism",
+    "location": "Met Museum, New York",
+    "desc": "Toledo under stormy sky. Dark clouds, dramatic light, city on hill. El Greco's adopted Spanish city. Expressionistic landscape - not realistic but emotional.",
+    "why": "One of first landscapes as pure subject. Toledo under apocalyptic sky. Not topographically accurate - El Greco moved buildings for composition. Expressionism 300 years early. That storm!"
+  },
+  {
+    "title": "The Burial of the Sardine",
+    "artist": "Francisco Goya",
+    "year": 1816,
+    "movement": "Romanticism",
+    "location": "Real Academia, Madrid",
+    "desc": "Carnival celebration - masked figures dance around banner. Chaos, darkness, celebration becoming sinister. Goya's late pessimistic vision. Joy corrupted.",
+    "why": "Goya's dark vision of Spanish celebration. Carnival becomes nightmare. Those masks! Goya went deaf, moved to isolation, painted horrors. Spanish tradition seen through embittered eyes."
+  },
+  {
+    "title": "The Third of May 1808",
+    "artist": "Francisco Goya",
+    "year": 1814,
+    "movement": "Romanticism",
+    "location": "Prado Museum, Madrid",
+    "desc": "French soldiers execute Spanish civilians. Man in white arms raised, about to die. Lantern lights scene. Firing squad faceless. Anti-war painting showing atrocity's horror.",
+    "why": "One of greatest anti-war paintings. Spanish uprising against Napoleon crushed. That man in white - Christ-like, arms raised, facing death. Soldiers faceless machines. Influenced Manet's Execution, Picasso's Guernica. War crime documented."
+  },
+  {
+    "title": "Saturn Devouring His Son",
+    "artist": "Francisco Goya",
+    "year": 1823,
+    "movement": "Romanticism",
+    "location": "Prado Museum, Madrid",
+    "desc": "Greek god Saturn eating his child raw. Goya's Black Paintings from house walls - painted in isolation, deaf, bitter. Horror, madness, darkness. Old age fearing mortality.",
+    "why": "Goya's darkest work. Painted on his house walls! Saturn = time devouring all. Goya was old, deaf, isolated. These Black Paintings show descent into darkness. Transferred to canvas after death. Unbearable to look at - that's the point."
+  },
+  {
+    "title": "The Sleep of Reason Produces Monsters",
+    "artist": "Francisco Goya",
+    "year": 1799,
+    "movement": "Romanticism",
+    "location": "Various prints",
+    "desc": "Man asleep at desk surrounded by flying demons, owls, bats. Caption: 'The sleep of reason produces monsters.' Enlightenment's limits. When reason sleeps, monsters emerge.",
+    "why": "From Goya's Caprichos prints satirizing Spanish society. When reason sleeps, imagination produces monsters. Enlightenment critique - reason alone insufficient. Those bats and owls! Goya's own nightmares made visible."
+  },
+  {
+    "title": "The Hay Wain",
+    "artist": "John Constable",
+    "year": 1821,
+    "movement": "Romanticism",
+    "location": "National Gallery, London",
+    "desc": "Rural Suffolk scene - cart crosses stream, cottage, trees, clouds. Constable's beloved English countryside. Fresh observation of light and weather. Naturalism.",
+    "why": "English landscape elevated to high art. Constable's direct observation of nature, sketches outdoors. Those clouds! Studied meteorology. Influenced French Impressionists. Made landscape painting respectable subject."
+  },
+  {
+    "title": "The Opening of the Fifth Seal",
+    "artist": "El Greco",
+    "year": 1608,
+    "movement": "Mannerism",
+    "location": "Met Museum, New York",
+    "desc": "Apocalyptic vision - Saint John witnesses souls receiving white robes. Elongated figures writhe. Stormy sky, mystical light. El Greco's visionary intensity.",
+    "why": "El Greco's most mystical, modern-looking work. Almost abstract - those elongated bodies! Cut down in 1880s. Apocalyptic vision from Revelation. Influenced Picasso. Pure expressionistic power."
+  },
+  {
+    "title": "A Rake's Progress",
+    "artist": "William Hogarth",
+    "year": 1735,
+    "movement": "Rococo",
+    "location": "Sir John Soane's Museum, London",
+    "desc": "Eight paintings showing young man's decline from inheritance to debauchery to madhouse. Hogarth's moral narrative. English satire tradition.",
+    "why": "Hogarth invented sequential narrative art - precursor to comics! Tom Rakewell inherits fortune, wastes it on gambling, prostitutes, ends in madhouse. Each painting tells chapter. Morality through entertainment. Opera made from it!"
+  },
+  {
+    "title": "Marriage A-la-Mode",
+    "artist": "William Hogarth",
+    "year": 1743,
+    "movement": "Rococo",
+    "location": "National Gallery, London",
+    "desc": "Six paintings satirizing arranged marriage between nouveau-riche merchant's daughter and broke aristocrat. Ends in disaster. Hogarth's social satire.",
+    "why": "Hogarth's sharpest social satire. Arranged marriage for money leads to mutual infidelity, murder, suicide. Every detail tells story. Hogarth as social critic - exposing aristocratic hypocrisy."
+  },
+  {
+    "title": "The Swing",
+    "artist": "Jean-Honoré Fragonard",
+    "year": 1767,
+    "movement": "Rococo",
+    "location": "Wallace Collection, London",
+    "desc": "Young woman swings high while lover hides in bushes below looking up skirts. Her shoe flies off. Pink dress, lush garden, frivolous pleasure.",
+    "why": "Rococo's most famous. Nobleman commissioned painting of mistress on swing with him hiding below. Flying shoe = lost virtue. Fragonard's brushwork pure joy."
+  },
+  {
+    "title": "Ophelia",
+    "artist": "John Everett Millais",
+    "year": 1852,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Ophelia drowns singing in stream. Flowers everywhere - each symbolic. Model Elizabeth Siddal lay in bath for months - caught pneumonia. Pre-Raphaelite detail obsession. Shakespeare made real.",
+    "why": "Pre-Raphaelite masterpiece! Model nearly died posing in cold bath. Every flower symbolic - pansies for thought, violets for faithfulness. That dress floating! Medieval detail meets Victorian melodrama. Siddal later married Rossetti, died young."
+  },
+  {
+    "title": "Lady of Shalott",
+    "artist": "John William Waterhouse",
+    "year": 1888,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Cursed lady in boat floating to Camelot to die. Tennyson's poem visualised. Pre-Raphaelite medieval romance. That tapestry, those candles. Doomed beauty.",
+    "why": "Victorian medieval fantasy perfected! Tennyson's tragic heroine. Curse makes her die if she looks directly at Camelot. Those three candles - one blown out = death coming. Pre-Raphaelite tragic beauty obsession."
+  },
+  {
+    "title": "Proserpine",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1874,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Persephone with pomegranate - eating it dooms her to Hades. Jane Morris modeled - Rossetti's obsession. Pre-Raphaelite beauty and doom. That smoldering gaze.",
+    "why": "Rossetti painting his married lover Jane Morris obsessively. Persephone doomed by pomegranate - Jane doomed by affair? Pre-Raphaelite mixing mythology and Victorian melodrama. That intense gaze! Rossetti's fixation visible."
+  },
+  {
+    "title": "Beata Beatrix",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1870,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Dante's Beatrice dying. Rossetti painted wife Elizabeth Siddal after her suicide. Red dove brings poppy - opium that killed her. Memorial to dead wife. Grief made art.",
+    "why": "Rossetti's dead wife memorial. Siddal died of laudanum overdose - suicide? That poppy! Red dove of death. Beatrice = Siddal. Rossetti's guilt and grief. Pre-Raphaelite tragedy made personal."
+  },
+  {
+    "title": "The Beloved",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1866,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Bride surrounded by attendants. Song of Solomon referenced. Rossetti's sensual spiritual vision. That copper hair! Interracial attendants unusual for Victorian art.",
+    "why": "Rossetti's Biblical bride. Song of Solomon - 'My beloved is mine.' That red hair! Black attendant holding perfume - progressive for Victorian racism. Pre-Raphaelite sensuality meeting spirituality."
+  },
+  {
+    "title": "The Awakening Conscience",
+    "artist": "William Holman Hunt",
+    "year": 1853,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Kept woman rises from lover's lap seeing light. Mirror reflects garden - escape to purity. Every object symbolic - cat with bird, tangled yarn. Victorian moral tale. Fallen woman's redemption.",
+    "why": "Victorian moral painting! She's his mistress - that's why no wedding ring! She sees light through window - moral awakening! Every detail symbolic. Cat kills bird = lost innocence. Pre-Raphaelite detail serving moral message."
+  },
+  {
+    "title": "The Light of the World",
+    "artist": "William Holman Hunt",
+    "year": 1854,
+    "movement": "Pre-Raphaelite",
+    "location": "Keble College, Oxford",
+    "desc": "Christ with lantern knocks on overgrown door. Door has no handle - opens only from inside. Religious allegory. Hunt's evangelical vision. Victorian spirituality.",
+    "why": "Victorian religious icon! Christ knocking at soul's door. No outside handle - must be opened from within. That overgrown door = souls neglecting Christ. Toured world as religious blockbuster. Pre-Raphaelite technique serving religion."
+  },
+  {
+    "title": "The Scapegoat",
+    "artist": "William Holman Hunt",
+    "year": 1856,
+    "movement": "Pre-Raphaelite",
+    "location": "Lady Lever Art Gallery, Liverpool",
+    "desc": "Goat by Dead Sea carrying sins. Hunt painted actual Dead Sea location despite danger. Biblical literalism. That suffering goat! Pre-Raphaelite obsession with authenticity.",
+    "why": "Hunt painted it AT the Dead Sea! Travelled to Palestine risking death. Scapegoat bearing sins dies alone. That landscape! Pre-Raphaelite insistence on authentic locations. Goat literally suffered - Hunt's religious intensity."
+  },
+  {
+    "title": "The Finding of the Saviour in the Temple",
+    "artist": "William Holman Hunt",
+    "year": 1860,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Young Jesus disputes with elders in temple. Hunt spent years in Jerusalem researching. Every costume, object archaeologically accurate. Pre-Raphaelite authenticity obsession.",
+    "why": "Hunt's Jerusalem masterpiece. Spent years researching to make historically accurate! Every costume studied. Young Jesus amazing rabbis. Pre-Raphaelite authenticity taken to extreme. That detail!"
+  },
+  {
+    "title": "April Love",
+    "artist": "Arthur Hughes",
+    "year": 1856,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Young woman weeping in garden. Torn love letter at feet. Spring flowers contrast sadness. Pre-Raphaelite colour and emotion. Victorian sentiment.",
+    "why": "Pre-Raphaelite emotion! She weeps amid spring beauty. Torn letter = love's end. Those flowers! That blue dress! Victorian melodrama painted with brilliant Pre-Raphaelite colour. Hughes capturing romantic sorrow."
+  },
+  {
+    "title": "The Long Engagement",
+    "artist": "Arthur Hughes",
+    "year": 1859,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Couple in woods - engagement lasted so long their initials carved on tree have overgrown. Poor curate can't afford marriage. Victorian class barriers. Pre-Raphaelite social commentary.",
+    "why": "Victorian tragedy of class! Engaged for years - too poor to marry. Tree grew over carved initials! That tells time passing. Pre-Raphaelites painting social problems. Love thwarted by economics."
+  },
+  {
+    "title": "The Last of England",
+    "artist": "Ford Madox Brown",
+    "year": 1855,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Couple emigrating from Britain. Looking back at white cliffs. Leaving forever. Brown based on friends emigrating to Australia. Pre-Raphaelite social realism. Victorian emigration trauma.",
+    "why": "Victorian emigration tragedy! Leaving Britain forever. Based on Brown's friends fleeing to Australia. That last look at homeland! Hands clasped. Baby hidden under cloak. Pre-Raphaelite documenting social upheaval."
+  },
+  {
+    "title": "Work",
+    "artist": "Ford Madox Brown",
+    "year": 1865,
+    "movement": "Pre-Raphaelite",
+    "location": "Manchester Art Gallery",
+    "desc": "Every social class shown - laborers digging, rich ladies, intellectuals, poor children. Brown's epic of Victorian society. Thirteen years to complete. Social panorama.",
+    "why": "Victorian society's totality! Took 13 years! Laborers, rich, poor, intellectuals all present. Pre-Raphaelite social analysis. Every class shown honestly. That detail! Victorian Britain complete."
+  },
+  {
+    "title": "The Romans Leaving Britain",
+    "artist": "Ford Madox Brown",
+    "year": 1865,
+    "movement": "Pre-Raphaelite",
+    "location": "Manchester",
+    "desc": "Romans abandon Britain. Ancient Britons reclaim land. Historical imagination. Pre-Raphaelite history painting. Brown's nationalism through history.",
+    "why": "Pre-Raphaelite history painting! Romans leaving, Britons reclaiming. Victorian nationalism through ancient history. Brown painting British identity through imagined past."
+  },
+  {
+    "title": "Flaming June",
+    "artist": "Frederic Leighton",
+    "year": 1895,
+    "movement": "Academic",
+    "location": "Museo de Arte de Ponce, Puerto Rico",
+    "desc": "Woman sleeps in orange dress. Oleander flowers. Mediterranean heat. Leighton's aesthetic classicism. Pure colour harmony. Decorative perfection.",
+    "why": "Victorian aesthetic movement! That orange dress! Sleeping beauty in Mediterranean heat. Pure decoration - no story needed. Leighton's classical idealism. Colour and form as sole subjects. Sold for £100 in 1900s, millions now!"
+  },
+  {
+    "title": "The Accolade",
+    "artist": "Edmund Blair Leighton",
+    "year": 1901,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Woman knights man with sword. Medieval ceremony romanticized. Victorian medievalism. Chivalric fantasy. Popular Victorian romanticism.",
+    "why": "Victorian medieval fantasy! Woman dubbing knight. Romanticized chivalry. Victorian longing for medieval past. That ceremony! Popular Victorian taste for knights and ladies."
+  },
+  {
+    "title": "Godspeed",
+    "artist": "Edmund Blair Leighton",
+    "year": 1900,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Lady gives blessing to departing knight. Medieval romance. Victorian chivalric fantasy. Leighton's popular medievalism. Romantic departure.",
+    "why": "Victorian romance! Knight departing, lady blessing. Medieval love idealized. Popular Victorian genre. That armor, that gown! Leighton's commercial success from romantic medievalism."
+  },
+  {
+    "title": "Hylas and the Nymphs",
+    "artist": "John William Waterhouse",
+    "year": 1896,
+    "movement": "Pre-Raphaelite",
+    "location": "Manchester Art Gallery",
+    "desc": "Young Hylas lured by water nymphs. They pull him to doom. Waterhouse's dangerous female beauty theme. Pre-Raphaelite femme fatales. Erotic danger.",
+    "why": "Waterhouse's dangerous beauties! Nymphs lure Hylas to death. Victorian anxiety about female sexuality. Pre-Raphaelite technique serving misogyny? Or just mythology? That water, those nymphs! Temporarily removed 2018 for being too sexist!"
+  },
+  {
+    "title": "The Lady of Shalott Looking at Lancelot",
+    "artist": "John William Waterhouse",
+    "year": 1894,
+    "movement": "Pre-Raphaelite",
+    "location": "Leeds Art Gallery",
+    "desc": "Lady at loom looking at Lancelot in mirror - breaking curse. Waterhouse painted her multiple times. Tennyson obsession. Medieval tragic romance.",
+    "why": "Waterhouse's Tennyson obsession! She looks in mirror at Lancelot - curse activates! That moment of doomed love. Waterhouse painted her three times. Victorian romance addiction."
+  },
+  {
+    "title": "Circe Offering the Cup to Ulysses",
+    "artist": "John William Waterhouse",
+    "year": 1891,
+    "movement": "Pre-Raphaelite",
+    "location": "Gallery Oldham",
+    "desc": "Sorceress Circe offers poisoned cup. Ulysses at feet. Waterhouse's dangerous women. Pre-Raphaelite femme fatale. Magic and seduction.",
+    "why": "Waterhouse's witch! Circe turns men to pigs. That mirror behind showing future? Pre-Raphaelite dangerous beauty. Victorian male anxiety about female power visualised through mythology."
+  },
+  {
+    "title": "Echo and Narcissus",
+    "artist": "John William Waterhouse",
+    "year": 1903,
+    "movement": "Pre-Raphaelite",
+    "location": "Walker Art Gallery, Liverpool",
+    "desc": "Nymph Echo watches Narcissus admiring himself. Tragic one-sided love. Waterhouse's romantic mythology. Pre-Raphaelite beauty and sadness.",
+    "why": "Waterhouse's tragic love! Echo fades watching Narcissus love himself. Greek tragedy via Pre-Raphaelite technique. That pool reflection! Victorian romantic suffering."
+  },
+  {
+    "title": "Cleopatra",
+    "artist": "John William Waterhouse",
+    "year": 1888,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Cleopatra lounging in luxury. Oriental fantasy. Waterhouse's exotic sensuality. Pre-Raphaelite orientalism. Victorian Egypt obsession.",
+    "why": "Victorian orientalism! Cleopatra as exotic fantasy. That luxury! Waterhouse's sensual exoticism. Victorian fascination with Egypt via Classical sources."
+  },
+  {
+    "title": "A Mermaid",
+    "artist": "John William Waterhouse",
+    "year": 1900,
+    "movement": "Pre-Raphaelite",
+    "location": "Royal Academy, London",
+    "desc": "Mermaid on rocks combing hair, looking at pearl. Waterhouse's fantasy creatures. Pre-Raphaelite detail on mythological subject. Victorian fairy tale.",
+    "why": "Waterhouse's fairy tale! Mermaid as realistic as possible. That tail! Victorian love of fantasy creatures painted realistically. Pre-Raphaelite technique serving imagination."
+  },
+  {
+    "title": "The Soul of the Rose",
+    "artist": "John William Waterhouse",
+    "year": 1908,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Woman in medieval dress smells rose. Medieval garden. Waterhouse's romantic medievalism. Pre-Raphaelite sensuality and nostalgia.",
+    "why": "Waterhouse's romantic medievalism! Woman lost in rose's scent. That medieval gown! Victorian longing for imagined past. Sensual and innocent combined."
+  },
+  {
+    "title": "The Danaides",
+    "artist": "John William Waterhouse",
+    "year": 1903,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Women endlessly filling jars with holes. Greek punishment myth. Futile labour. Waterhouse's tragic women. Pre-Raphaelite mythology.",
+    "why": "Eternal punishment visualised! Daughters murdered husbands - punished by filling leaking jars forever. Victorian morality through Greek myth. That futility!"
+  },
+  {
+    "title": "Pandora",
+    "artist": "John William Waterhouse",
+    "year": 1896,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Pandora with box about to open. Curiosity and doom. Waterhouse's dangerous female curiosity theme. Greek myth as Victorian warning.",
+    "why": "Victorian anxiety about female curiosity! Pandora about to unleash evil. That box! Woman's curiosity causes humanity's suffering. Waterhouse painting misogyny via mythology?"
+  },
+  {
+    "title": "Circe Invidiosa",
+    "artist": "John William Waterhouse",
+    "year": 1892,
+    "movement": "Pre-Raphaelite",
+    "location": "Art Gallery of South Australia",
+    "desc": "Jealous Circe pours poison transforming Scylla into monster. Female jealousy as destructive. Waterhouse's dark women. Magic and vengeance.",
+    "why": "Female jealousy as monster-creating! Circe poisoning rival's bathing pool. Victorian male fear of female anger. That poison! Waterhouse's problematic but beautiful femme fatales."
+  },
+  {
+    "title": "Saint Cecilia",
+    "artist": "John William Waterhouse",
+    "year": 1895,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Saint Cecilia playing organ with angels. Patron saint of music. Waterhouse's religious subjects rarer. Pre-Raphaelite spirituality and beauty.",
+    "why": "Waterhouse doing religious subject! Saint Cecilia hearing heavenly music. Angels appear. Pre-Raphaelite technique serving Catholic imagery. Victorian spirituality."
+  },
+  {
+    "title": "Gather Ye Rosebuds While Ye May",
+    "artist": "John William Waterhouse",
+    "year": 1909,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Young women gathering roses. Carpe diem theme. Youth and beauty fleeting. Waterhouse's melancholy beauty. Pre-Raphaelite garden scene.",
+    "why": "Carpe diem painting! Gather roses before they fade. Youth fleeting. Waterhouse's bittersweet beauty. Victorian awareness of mortality through beauty."
+  },
+  {
+    "title": "Boreas",
+    "artist": "John William Waterhouse",
+    "year": 1903,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "North wind god Boreas as beautiful youth. Waterhouse's male beauty rare. Greek god of winter. Pre-Raphaelite male figure.",
+    "why": "Waterhouse rarely painted male beauty! Boreas as youth. North wind personified. Pre-Raphaelite homoerotic possibility? Victorian male beauty."
+  },
+  {
+    "title": "The Favourites of the Emperor Honorius",
+    "artist": "John William Waterhouse",
+    "year": 1883,
+    "movement": "Academic",
+    "location": "Art Gallery of South Australia",
+    "desc": "Roman emperor with pet doves while empire falls. Decadence and decline. Historical irony. Academic history painting.",
+    "why": "Roman decline! Emperor cares more for doves than empire falling. Victorian moral about decadence. Historical painting as warning. That irony!"
+  },
+  {
+    "title": "The Remorse of Nero After the Murder of His Mother",
+    "artist": "John William Waterhouse",
+    "year": 1878,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Nero tormented after matricide. Roman history's horror. Waterhouse's early historical drama. Academic tradition.",
+    "why": "Young Waterhouse doing history painting! Nero's guilt after killing mother. Roman horror. Victorian morality through ancient crime. Academic drama."
+  },
+  {
+    "title": "Consulting the Oracle",
+    "artist": "John William Waterhouse",
+    "year": 1884,
+    "movement": "Academic",
+    "location": "Tate Britain, London",
+    "desc": "Women consult oracle at temple. Ancient ritual. Waterhouse's archaeological accuracy. Academic classicism. Mystery and spirituality.",
+    "why": "Waterhouse's archaeological painting! Greek oracle consulted. Victorian interest in ancient religion. That temple detail! Academic classicism."
+  },
+  {
+    "title": "The Magic Circle",
+    "artist": "John William Waterhouse",
+    "year": 1886,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Witch creates magic circle with staff. Smoke, flames, spells. Waterhouse's supernatural. Pre-Raphaelite magic realism. Victorian occult interest.",
+    "why": "Victorian occultism! Witch making magic circle. That smoke! Waterhouse painting supernatural seriously. Pre-Raphaelite detail on magical subject. Victorian séance era."
+  },
+  {
+    "title": "La Belle Dame sans Merci",
+    "artist": "John William Waterhouse",
+    "year": 1893,
+    "movement": "Pre-Raphaelite",
+    "location": "Hessisches Landesmuseum, Darmstadt",
+    "desc": "Fairy woman with doomed knight. Keats poem visualised. Waterhouse's femme fatale. Pre-Raphaelite dangerous beauty. Doomed love.",
+    "why": "Keats visualised! Beautiful lady without mercy seduces knight to death. Victorian male anxiety about female sexuality. Pre-Raphaelite tragic romance."
+  },
+  {
+    "title": "Diogenes",
+    "artist": "John William Waterhouse",
+    "year": 1882,
+    "movement": "Academic",
+    "location": "Art Gallery of New South Wales",
+    "desc": "Philosopher Diogenes with lantern seeking honest man. Classical philosopher. Waterhouse's early academic work. Cynic philosopher portrayed.",
+    "why": "Waterhouse painting ancient philosophy! Diogenes searching for honest man with lantern. Victorian admiration for classical virtue. Academic figure study."
+  },
+  {
+    "title": "Sleep and His Half-Brother Death",
+    "artist": "John William Waterhouse",
+    "year": 1874,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Greek personifications of sleep and death. Brothers from mythology. Waterhouse's early symbolism. Academic allegorical painting.",
+    "why": "Early Waterhouse mythology! Sleep and Death as brothers. Victorian fascination with mortality. Academic allegory painting."
+  },
+  {
+    "title": "Mariamne Leaving the Judgement Seat of Herod",
+    "artist": "John William Waterhouse",
+    "year": 1887,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Herod's wife Mariamne condemned. Biblical tragedy. Waterhouse's religious historical drama. Academic tradition.",
+    "why": "Biblical drama! Mariamne condemned by jealous Herod. Victorian religious painting. Waterhouse's early historical religious works."
+  },
+  {
+    "title": "The Shrine",
+    "artist": "John William Waterhouse",
+    "year": 1895,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Women at shrine praying. Religious devotion. Waterhouse's spiritual subjects. Pre-Raphaelite piety. Mediterranean setting.",
+    "why": "Waterhouse spirituality! Women praying at shrine. Mediterranean Catholic tradition. Pre-Raphaelite religious feeling."
+  },
+  {
+    "title": "Tristan and Isolde",
+    "artist": "John William Waterhouse",
+    "year": 1916,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Tragic lovers Tristan and Isolde. Medieval romance. Love potion dooms them. Waterhouse's late romanticism. Pre-Raphaelite tragedy.",
+    "why": "Medieval tragic love! Love potion makes them love forbidden. Waterhouse painting medieval romance. Pre-Raphaelite nostalgia for chivalric past."
+  },
+  {
+    "title": "The Crystal Ball",
+    "artist": "John William Waterhouse",
+    "year": 1902,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Woman gazes into crystal ball. Fortune telling. Victorian occultism. Waterhouse's supernatural. Pre-Raphaelite mystery.",
+    "why": "Victorian séance culture! Woman scrying crystal ball. Occultism fashionable. Waterhouse painting supernatural practices. That crystal ball!"
+  },
+  {
+    "title": "Destiny",
+    "artist": "John William Waterhouse",
+    "year": 1900,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Figure representing fate. Allegorical painting. Waterhouse's symbolism. Pre-Raphaelite allegory. Fate personified.",
+    "why": "Fate personified! Victorian symbolism. Waterhouse painting abstract concepts. Pre-Raphaelite allegory tradition."
+  },
+  {
+    "title": "Penelope and the Suitors",
+    "artist": "John William Waterhouse",
+    "year": 1912,
+    "movement": "Pre-Raphaelite",
+    "location": "Aberdeen Art Gallery",
+    "desc": "Faithful Penelope at loom. Suitors court her while Odysseus absent. Greek fidelity story. Waterhouse's classical subjects. Victorian virtue.",
+    "why": "Faithful wife waiting! Penelope weaving, suitors harassing. Greek virtue story. Waterhouse painting ideal Victorian wife through Greek myth."
+  },
+  {
+    "title": "Ulysses and the Sirens",
+    "artist": "John William Waterhouse",
+    "year": 1891,
+    "movement": "Pre-Raphaelite",
+    "location": "National Gallery of Victoria, Melbourne",
+    "desc": "Odysseus tied to mast, sailors with wax in ears. Sirens sing from rocks. Resisting temptation. Waterhouse's classical adventure. Victorian self-control.",
+    "why": "Greek adventure! Odysseus resisting Sirens. Victorian morality - self-control through bondage! Those sirens! Waterhouse painting temptation and resistance."
+  },
+  {
+    "title": "Jason and Medea",
+    "artist": "John William Waterhouse",
+    "year": 1907,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Jason and sorceress Medea. Dangerous love. Medea will murder their children. Waterhouse's toxic relationships. Greek tragedy.",
+    "why": "Toxic relationship! Medea will kill their kids. Waterhouse painting doomed love. Greek tragedy via Pre-Raphaelite technique. Victorian relationship anxiety."
+  },
+  {
+    "title": "Ariadne",
+    "artist": "John William Waterhouse",
+    "year": 1898,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Ariadne abandoned on Naxos. Theseus sailed away. Betrayed love. Waterhouse's abandoned women theme. Greek tragedy romanticized.",
+    "why": "Abandoned woman! Theseus betrayed her after she saved him. Waterhouse painting female victimhood. Greek tragedy as Victorian sentiment."
+  },
+  {
+    "title": "The Siren",
+    "artist": "John William Waterhouse",
+    "year": 1900,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Siren on rocks with lyre. Singing sailor to doom. Waterhouse's dangerous female beauty. Pre-Raphaelite femme fatale. Mythological seductress.",
+    "why": "Dangerous female beauty! Siren luring sailors to death. Victorian male anxiety painted beautifully. That lyre! Waterhouse's recurring dangerous women theme."
+  },
+  {
+    "title": "Nymphs Finding the Head of Orpheus",
+    "artist": "John William Waterhouse",
+    "year": 1900,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Nymphs discover Orpheus's severed head still singing. Greek myth's horror. Waterhouse's darker subjects. Pre-Raphaelite macabre.",
+    "why": "Greek horror! Orpheus torn apart by maenads, head floats singing. Waterhouse painting mythology's violence. Pre-Raphaelite beauty meets horror."
+  },
+  {
+    "title": "Flora",
+    "artist": "John William Waterhouse",
+    "year": 1890,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Roman goddess of flowers. Classical beauty. Waterhouse's decorative classicism. Pre-Raphaelite aesthetic painting. Pure beauty subject.",
+    "why": "Classical beauty! Flora as spring goddess. Pure aesthetic painting. Waterhouse decorative classicism. Victorian love of classical forms."
+  },
+  {
+    "title": "A Roman Offering",
+    "artist": "John William Waterhouse",
+    "year": 1890,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Roman woman making offering at altar. Classical devotion. Waterhouse's archaeological accuracy. Academic ancient world. Religious ritual.",
+    "why": "Roman religious ritual! Victorian reconstruction of ancient world. Archaeological accuracy. Academic classicism painting pagan religion."
+  },
+  {
+    "title": "Phyllis and Demophoon",
+    "artist": "Edward Burne-Jones",
+    "year": 1870,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Phyllis turns to tree embracing Demophoon. Ovid's metamorphosis. Burne-Jones's dreamlike classicism. Pre-Raphaelite transformation mythology.",
+    "why": "Burne-Jones mythology! Woman becoming tree. Ovid visualised. Pre-Raphaelite dreamy classicism. Transformation as female victimhood metaphor?"
+  },
+  {
+    "title": "King Cophetua and the Beggar Maid",
+    "artist": "Edward Burne-Jones",
+    "year": 1884,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "King kneels before beggar maid. Love transcending class. Burne-Jones's romantic idealism. Pre-Raphaelite medieval fantasy. Victorian class fantasy.",
+    "why": "Victorian class fantasy! King loves beggar. Romantic idealism. Burne-Jones's medieval dreamworld. That coronation scene! Class barriers dissolved by beauty."
+  },
+  {
+    "title": "The Golden Stairs",
+    "artist": "Edward Burne-Jones",
+    "year": 1880,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain, London",
+    "desc": "Procession of women descending stairs. Musical instruments. Burne-Jones's pure aesthetic. No story - just beauty. Pre-Raphaelite decoration.",
+    "why": "Pure aestheticism! No story - just beautiful women descending. Burne-Jones creating beauty without narrative. That procession! Aesthetic movement perfection."
+  },
+  {
+    "title": "The Beguiling of Merlin",
+    "artist": "Edward Burne-Jones",
+    "year": 1874,
+    "movement": "Pre-Raphaelite",
+    "location": "Lady Lever Art Gallery, Liverpool",
+    "desc": "Nimue entraps wizard Merlin. Female magic overpowering male. Burne-Jones's dangerous women. Pre-Raphaelite Arthurian legend. Victorian gender anxiety.",
+    "why": "Female power over male! Nimue trapping Merlin with his own magic. Victorian male anxiety about female power. Burne-Jones painting sexual politics via Arthurian legend."
+  },
+  {
+    "title": "The Mirror of Venus",
+    "artist": "Edward Burne-Jones",
+    "year": 1877,
+    "movement": "Pre-Raphaelite",
+    "location": "Gulbenkian Museum, Lisbon",
+    "desc": "Venus and attendants gaze into pool. Classical female beauty multiplied. Burne-Jones's decorative classicism. Pre-Raphaelite aesthetic perfection.",
+    "why": "Aesthetic beauty! Multiple women gazing at reflections. Burne-Jones creating beauty for beauty's sake. Classical setting, timeless figures. Pure Pre-Raphaelite decoration."
+  },
+  {
+    "title": "Love Among the Ruins",
+    "artist": "Edward Burne-Jones",
+    "year": 1894,
+    "movement": "Pre-Raphaelite",
+    "location": "Wightwick Manor",
+    "desc": "Lovers embrace amid ancient ruins. Love survives civilizations' fall. Burne-Jones's romantic symbolism. Pre-Raphaelite ruins and romance.",
+    "why": "Love outlasts empires! Couple embraces amid fallen civilization. Victorian romantic symbolism. Burne-Jones painting love's triumph over time's destruction."
+  },
+  {
+    "title": "The Star of Bethlehem",
+    "artist": "Edward Burne-Jones",
+    "year": 1890,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Angels procession to nativity. Burne-Jones's religious subjects. Pre-Raphaelite spirituality. Victorian Christian art. Medieval inspired angels.",
+    "why": "Burne-Jones religious work! Angels processing to Christ's birth. Pre-Raphaelite spirituality. Victorian medievalism serving Christianity. That procession!"
+  },
+  {
+    "title": "The Annunciation",
+    "artist": "Edward Burne-Jones",
+    "year": 1879,
+    "movement": "Pre-Raphaelite",
+    "location": "Lady Lever Art Gallery, Liverpool",
+    "desc": "Gabriel announces to Mary. Pre-Raphaelite religious painting. Medieval inspired. Burne-Jones's spiritual subjects. Victorian faith.",
+    "why": "Pre-Raphaelite Annunciation! Medieval inspiration. Burne-Jones painting Bible story with medieval aesthetic. Victorian Christian revival art."
+  },
+  {
+    "title": "The Depths of the Sea",
+    "artist": "Edward Burne-Jones",
+    "year": 1886,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Mermaid drowning sailor. Fatal embrace underwater. Burne-Jones's dangerous beauty theme. Pre-Raphaelite femme fatale. Mythological death.",
+    "why": "Fatal beauty! Mermaid drowns sailor in embrace. Burne-Jones's recurring dangerous women. Victorian male death-wish via mythology. That underwater scene!"
+  },
+  {
+    "title": "The Wheel of Fortune",
+    "artist": "Edward Burne-Jones",
+    "year": 1883,
+    "movement": "Pre-Raphaelite",
+    "location": "Musée d'Orsay, Paris",
+    "desc": "Fortune turns wheel crushing man, lifting another. Fate's randomness. Burne-Jones's philosophical painting. Pre-Raphaelite allegory. Medieval fortune concept.",
+    "why": "Medieval fortune wheel! Fate crushes some, elevates others. Burne-Jones painting philosophical concept. Pre-Raphaelite allegory. Victorian mortality awareness."
+  },
+  {
+    "title": "The Dream of Lancelot",
+    "artist": "Edward Burne-Jones",
+    "year": 1896,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Lancelot dreams of Grail chapel. Arthurian quest. Burne-Jones's medieval romanticism. Pre-Raphaelite Arthurian obsession. Spiritual quest visualised.",
+    "why": "Arthurian quest! Lancelot's Grail vision. Burne-Jones's medieval Christianity. Pre-Raphaelite Arthurian cycle. Victorian spiritual seeking via medieval legend."
+  },
+  {
+    "title": "The Sleep of Arthur in Avalon",
+    "artist": "Edward Burne-Jones",
+    "year": 1898,
+    "movement": "Pre-Raphaelite",
+    "location": "Museo de Arte de Ponce, Puerto Rico",
+    "desc": "Arthur sleeps surrounded by queens. Avalon's enchantment. Burne-Jones worked decades on it - unfinished at death. Pre-Raphaelite Arthurian culmination. Victorian medieval dream.",
+    "why": "Burne-Jones's final masterpiece - unfinished at death! Arthur sleeping in Avalon. Worked on for decades. Pre-Raphaelite Arthurian obsession's peak. Once lost, rediscovered. Victorian medieval escapism perfected."
+  },
+  {
+    "title": "Perseus and the Sea Nymphs",
+    "artist": "Edward Burne-Jones",
+    "year": 1877,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Perseus receives armor from nymphs for quest. Greek hero preparation. Burne-Jones's classical mythology. Pre-Raphaelite heroic subject.",
+    "why": "Greek hero preparing! Nymphs arm Perseus for Medusa quest. Burne-Jones painting masculine heroism via classical myth. Pre-Raphaelite adventure."
+  },
+  {
+    "title": "Cupid and Psyche",
+    "artist": "Edward Burne-Jones",
+    "year": 1870,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Love god and mortal woman. Greek love allegory. Burne-Jones's romantic subjects. Pre-Raphaelite classical beauty. Victorian romance mythology.",
+    "why": "Classical love story! Cupid and soul (Psyche). Burne-Jones painting eternal love via Greek myth. Pre-Raphaelite romantic allegory."
+  },
+  {
+    "title": "The Rock of Doom",
+    "artist": "Edward Burne-Jones",
+    "year": 1888,
+    "movement": "Pre-Raphaelite",
+    "location": "Staatsgalerie Stuttgart",
+    "desc": "Andromeda chained to rock waiting rescue. Perseus approaches. Greek damsel in distress. Burne-Jones's classical heroism. Pre-Raphaelite mythology.",
+    "why": "Greek rescue tale! Andromeda chained for monster. Perseus coming to save her. Burne-Jones painting heroic rescue via classical myth. Victorian gender roles mythologized."
+  },
+  {
+    "title": "The Baleful Head",
+    "artist": "Edward Burne-Jones",
+    "year": 1887,
+    "movement": "Pre-Raphaelite",
+    "location": "Southampton City Art Gallery",
+    "desc": "Perseus shows Andromeda Medusa's head in reflection. Greek mythology's aftermath. Burne-Jones's narrative conclusion. Pre-Raphaelite storytelling.",
+    "why": "Story's end! Perseus showing Medusa's head safely via reflection. Burne-Jones concluding Perseus cycle. Pre-Raphaelite narrative sequence painting."
+  },
+  {
+    "title": "The Garden of Pan",
+    "artist": "Edward Burne-Jones",
+    "year": 1886,
+    "movement": "Pre-Raphaelite",
+    "location": "National Gallery of Victoria, Melbourne",
+    "desc": "Nymphs around sleeping Pan. Classical pastoral. Burne-Jones's pagan mythology. Pre-Raphaelite decorative classicism. Victorian escape to ancient world.",
+    "why": "Pagan paradise! Nymphs with sleeping Pan. Burne-Jones creating classical dreamworld. Pre-Raphaelite aesthetic escape. Victorian pagan fantasy."
+  },
+  {
+    "title": "The Wine of Circe",
+    "artist": "Edward Burne-Jones",
+    "year": 1869,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Circe prepares potion to transform men. Greek sorceress. Burne-Jones's dangerous women. Pre-Raphaelite femme fatale. Magic and transformation.",
+    "why": "Dangerous sorceress! Circe making transforming potion. Burne-Jones painting female magical power. Pre-Raphaelite dangerous beauty recurring theme."
+  },
+  {
+    "title": "The Mill",
+    "artist": "Edward Burne-Jones",
+    "year": 1882,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Three dancing figures by mill. Mysterious classical scene. Burne-Jones's dreamlike allegory. Pre-Raphaelite pure beauty. No clear narrative.",
+    "why": "Mysterious beauty! Three graces dancing? Burne-Jones creating beauty without clear story. Pre-Raphaelite aesthetic for aesthetic's sake. That dreamlike quality!"
+  },
+  {
+    "title": "The Garden Court",
+    "artist": "Edward Burne-Jones",
+    "year": 1885,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Briar Rose series - sleeping beauty's court. Everyone asleep under curse. Burne-Jones's fairy tale. Pre-Raphaelite enchantment. Victorian fairy tale.",
+    "why": "Sleeping Beauty series! Everyone cursed to sleep 100 years. Burne-Jones painting fairy tale seriously. Pre-Raphaelite enchanted atmosphere. Victorian fairy tale obsession."
+  },
+  {
+    "title": "The Council Chamber",
+    "artist": "Edward Burne-Jones",
+    "year": 1890,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Briar Rose series - king's court asleep. Curse everywhere. Burne-Jones's fairy tale continued. Pre-Raphaelite sleeping curse. Victorian frozen moment.",
+    "why": "Sleeping curse continues! King's court frozen. Burne-Jones creating fairy tale sequence. Pre-Raphaelite narrative painting. Time stopped by magic."
+  },
+  {
+    "title": "The Rose Bower",
+    "artist": "Edward Burne-Jones",
+    "year": 1890,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Briar Rose series - prince finds sleeping beauty. Roses everywhere. Burne-Jones's fairy tale climax. Pre-Raphaelite romantic resolution. Victorian happily-ever-after.",
+    "why": "Fairy tale climax! Prince finding sleeping princess. Burne-Jones completing story cycle. Pre-Raphaelite happy ending. Victorian romance perfected through fairy tale."
+  },
+  {
+    "title": "Laus Veneris",
+    "artist": "Edward Burne-Jones",
+    "year": 1873,
+    "movement": "Pre-Raphaelite",
+    "location": "Laing Art Gallery, Newcastle",
+    "desc": "Venus with Tannhäuser. Doomed love. Swinburne poem visualised. Burne-Jones's erotic subjects. Pre-Raphaelite sensuality. Medieval legend romanticized.",
+    "why": "Erotic medieval legend! Tannhäuser trapped in Venus's mountain. Burne-Jones painting sensual doom. Pre-Raphaelite eroticism. Swinburne's decadent poem visualised."
+  },
+  {
+    "title": "Sidonia von Bork",
+    "artist": "Edward Burne-Jones",
+    "year": 1860,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Gothic witch portrait. Sidonia the sorceress. Burne-Jones's early dark work. Pre-Raphaelite Gothic. Victorian supernatural.",
+    "why": "Gothic witch! Sidonia the evil sorceress. Young Burne-Jones painting supernatural villainess. Pre-Raphaelite Gothic horror. Victorian ghost story aesthetic."
+  },
+  {
+    "title": "Clara von Bork",
+    "artist": "Edward Burne-Jones",
+    "year": 1860,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Companion to Sidonia - virtuous contrast. Gothic virtue. Burne-Jones's moral diptych. Pre-Raphaelite good vs evil. Victorian morality painting.",
+    "why": "Virtuous woman contrasts evil Sidonia. Burne-Jones painting moral opposites. Pre-Raphaelite virtue and vice. Victorian moral instruction through beauty."
+  },
+  {
+    "title": "The Merciful Knight",
+    "artist": "Edward Burne-Jones",
+    "year": 1864,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Knight spares enemy, Christ appears. Mercy rewarded. Burne-Jones's moral subjects. Pre-Raphaelite Christian chivalry. Victorian virtue teaching.",
+    "why": "Christian chivalry! Knight shows mercy, Christ blesses him. Burne-Jones teaching virtue via medieval legend. Pre-Raphaelite moral painting."
+  },
+  {
+    "title": "Green Summer",
+    "artist": "Edward Burne-Jones",
+    "year": 1868,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Women reading in garden. Pure aesthetic painting. Burne-Jones's decorative subjects. Pre-Raphaelite beauty without narrative. Victorian escapism.",
+    "why": "Pure beauty! Women in garden reading. No story needed. Burne-Jones creating aesthetic escape. Pre-Raphaelite decoration. Victorian leisure idealized."
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "John Everett Millais",
+    "year": 1856,
+    "movement": "Pre-Raphaelite",
+    "location": "Manchester Art Gallery",
+    "desc": "Girls burning autumn leaves at twilight. Melancholy beauty. Millais's atmospheric painting. Pre-Raphaelite mood. Victorian mortality awareness through season change.",
+    "why": "Melancholic beauty! Burning leaves at twilight. Millais painting mortality via autumn. Pre-Raphaelite atmosphere. That smoke, that fading light! Victorian awareness of transience."
+  },
+  {
+    "title": "The Blind Girl",
+    "artist": "John Everett Millais",
+    "year": 1856,
+    "movement": "Pre-Raphaelite",
+    "location": "Birmingham Museum",
+    "desc": "Blind girl with sister after rain. Rainbow appears. She can't see beauty. Millais's social pathos. Pre-Raphaelite tragedy. Victorian disability painting.",
+    "why": "Tragic irony! Blind girl facing rainbow she can't see. Millais painting disability's pathos. Pre-Raphaelite social concern. Victorian sentimental realism."
+  },
+  {
+    "title": "The Order of Release",
+    "artist": "John Everett Millais",
+    "year": 1853,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Scottish wife secures husband's release from English prison. Jacobite rebellion aftermath. Millais's historical drama. Pre-Raphaelite narrative. Scottish nationalism.",
+    "why": "Scottish history! Wife frees imprisoned husband after Jacobite rebellion. Millais painting British history tensions. Pre-Raphaelite historical narrative. Model was his wife Effie (formerly Ruskin's!)."
+  },
+  {
+    "title": "The Boyhood of Raleigh",
+    "artist": "John Everett Millais",
+    "year": 1870,
+    "movement": "Academic",
+    "location": "Tate Britain",
+    "desc": "Young Walter Raleigh hears sailor's tales. Inspiration for exploration. Millais's popular historical subject. Victorian British history celebration. Empire building romanticized.",
+    "why": "British imperialism idealized! Young Raleigh inspired by sailor. Victorian celebration of exploration/exploitation. Millais painting empire's supposed noble origins. That pointing sailor!"
+  },
+  {
+    "title": "The North-West Passage",
+    "artist": "John Everett Millais",
+    "year": 1874,
+    "movement": "Academic",
+    "location": "Tate Britain",
+    "desc": "Old sailor reads Arctic exploration accounts. British exploration history. Millais's imperial subjects. Victorian adventure nostalgia. Conquest romanticized.",
+    "why": "British exploration celebrated! Old sailor reading Arctic accounts. Victorian imperialism romanticized. Millais painting British 'adventure' (conquest). That flag!"
+  },
+  {
+    "title": "Bubbles",
+    "artist": "John Everett Millais",
+    "year": 1886,
+    "movement": "Academic",
+    "location": "Lady Lever Art Gallery",
+    "desc": "Boy blowing soap bubbles. Millais's sentimental subject. Became Pears soap advertisement! Art meeting commerce. Victorian childhood innocence. Vanitas symbol.",
+    "why": "Became advertising! Pears soap bought it. Millais's grandson modeled. Bubbles = life's transience. Victorian sentimentality meets commerce. Art as advertisement beginning."
+  },
+  {
+    "title": "Cherry Ripe",
+    "artist": "John Everett Millais",
+    "year": 1879,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Little girl with cherries. Victorian childhood innocence. Millais's sentimental later work. Became popular reproduction. Mass market art.",
+    "why": "Victorian sentimentality! Child with fruit. Millais's commercial success period. Reproduced everywhere - mass market Victorian art. Innocence idealized and monetized."
+  },
+  {
+    "title": "The Ruling Passion",
+    "artist": "John Everett Millais",
+    "year": 1885,
+    "movement": "Academic",
+    "location": "Gallery Oldham",
+    "desc": "Dying ornithologist with bird books. Victorian deathbed scene. Millais's sentimental subjects. Passion lasting until death. Victorian virtue celebrated.",
+    "why": "Victorian deathbed sentiment! Man dies studying birds - passion until end. Millais painting Victorian virtue. Death made sentimental. That ornithology obsession honoured!"
+  },
+  {
+    "title": "Chill October",
+    "artist": "John Everett Millais",
+    "year": 1870,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Autumn Scottish landscape. Millais's landscape paintings. Pre-Raphaelite detail applied to pure landscape. Victorian seasonal melancholy. Nature observation.",
+    "why": "Pure landscape! Millais moving from figures to nature. Scottish autumn. Pre-Raphaelite detail on landscape subject. Victorian seasonal painting. Melancholy beauty."
+  },
+  {
+    "title": "The Vale of Rest",
+    "artist": "John Everett Millais",
+    "year": 1859,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Nuns digging grave at dusk. Mortality and religious life. Millais's dark subjects. Pre-Raphaelite memento mori. Victorian religious melancholy.",
+    "why": "Dark Pre-Raphaelite! Nuns preparing graves. Mortality made religious duty. Millais painting death without sentimentality. Pre-Raphaelite honesty about death."
+  },
+  {
+    "title": "The Black Brunswicker",
+    "artist": "John Everett Millais",
+    "year": 1860,
+    "movement": "Pre-Raphaelite",
+    "location": "Lady Lever Art Gallery",
+    "desc": "Woman tries preventing soldier leaving for Waterloo. He'll die in battle. Romantic tragedy. Millais's historical romance. Pre-Raphaelite melodrama. Doomed love.",
+    "why": "Romantic historical tragedy! She knows he'll die at Waterloo. Millais painting doomed love. Pre-Raphaelite historical melodrama. Victorian romance via Napoleonic Wars."
+  },
+  {
+    "title": "The Huguenot",
+    "artist": "John Everett Millais",
+    "year": 1852,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Catholic woman tries making Protestant lover wear saving white armband. He refuses - will die. Religious conflict love tragedy. Millais's moral romance. Pre-Raphaelite historical drama.",
+    "why": "Love vs religious principle! She tries saving him but he refuses to convert. Millais painting religious persecution via romance. Pre-Raphaelite moral complexity. St. Bartholomew massacre backdrop."
+  },
+  {
+    "title": "Mariana",
+    "artist": "John Everett Millais",
+    "year": 1851,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Tennyson's Mariana stretching wearily. Waiting for lover who never comes. Medieval setting. Millais's literary painting. Pre-Raphaelite abandoned woman. Victorian female suffering.",
+    "why": "Victorian female suffering! Mariana waiting forever for man. Tennyson visualised. Pre-Raphaelite detail serving literary subject. That stained glass! Medieval abandon torture romanticized."
+  },
+  {
+    "title": "The Return of the Dove to the Ark",
+    "artist": "John Everett Millais",
+    "year": 1851,
+    "movement": "Pre-Raphaelite",
+    "location": "Ashmolean Museum, Oxford",
+    "desc": "Noah's daughters receive dove. Biblical hope. Millais's religious subjects. Pre-Raphaelite biblical painting. Victorian faith visualised.",
+    "why": "Biblical hope! Dove returns to ark with olive branch. Millais painting Bible seriously. Pre-Raphaelite religious commitment. Victorian Christian subject."
+  },
+  {
+    "title": "Lorenzo and Isabella",
+    "artist": "John Everett Millais",
+    "year": 1849,
+    "movement": "Pre-Raphaelite",
+    "location": "Walker Art Gallery, Liverpool",
+    "desc": "Keats poem visualised. Lorenzo and Isabella's doomed love. Brother will murder Lorenzo. Millais's early Pre-Raphaelite work. Literary painting. Romantic tragedy.",
+    "why": "Early Pre-Raphaelite manifesto! Every detail medieval-accurate. Keats visualised. Lorenzo doomed - brother plots murder. Pre-Raphaelite Brotherhood's commitment visible. That detail!"
+  },
+  {
+    "title": "Christ in the House of His Parents",
+    "artist": "John Everett Millais",
+    "year": 1850,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Young Jesus cuts hand in carpenter shop. Blood foreshadows crucifixion. Realistic working-class Holy Family shocked Victorians. Millais's controversial realism. Pre-Raphaelite sacred subjects naturalized.",
+    "why": "Scandal! Holy Family as working-class carpenters! Christ's blood on hand prefigures crucifixion. Dickens called it disgusting! Pre-Raphaelite realism applied to sacred subjects. Victorian shock at unglamorous Christ."
+  },
+  {
+    "title": "The Eve of St. Agnes",
+    "artist": "John Everett Millais",
+    "year": 1863,
+    "movement": "Pre-Raphaelite",
+    "location": "Royal Collection",
+    "desc": "Keats poem - Madeline undressing while Porphyro watches hidden. Romantic voyeurism. Millais's literary subjects. Pre-Raphaelite eroticism. Victorian sexual tension via poetry.",
+    "why": "Erotic Keats! Hidden man watches woman undress. Victorian sexual tension via medieval setting. Millais painting desire via literature. Pre-Raphaelite eroticism dressed as poetry."
+  },
+  {
+    "title": "The Somnambulist",
+    "artist": "John Everett Millais",
+    "year": 1871,
+    "movement": "Academic",
+    "location": "Private",
+    "desc": "Sleepwalking woman. Victorian psychological interest. Millais's mysterious subjects. Academic supernatural. Victorian unconscious explored.",
+    "why": "Victorian psychology! Sleepwalking showing unconscious. Millais painting emerging psychological science. Academic supernatural meeting medical interest."
+  },
+  {
+    "title": "The Crown of Love",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1875,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Woman crowned with roses. Rossetti's sensual beauty. Jane Morris again. Pre-Raphaelite female beauty worship. Victorian aesthetic painting.",
+    "why": "Rossetti's beauty obsession! Jane Morris crowned. Pre-Raphaelite female beauty idealization. Rossetti painting his obsession again. That sensual beauty!"
+  },
+  {
+    "title": "Veronica Veronese",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1872,
+    "movement": "Pre-Raphaelite",
+    "location": "Delaware Art Museum",
+    "desc": "Woman painting birds with caged canary. Art and captivity. Rossetti's symbolic women. Pre-Raphaelite allegory. Victorian artistic woman.",
+    "why": "Art and captivity symbolized! Woman painting birds while bird caged. Rossetti's symbolic female figures. Pre-Raphaelite psychological allegory. Victorian women's constraints metaphored."
+  },
+  {
+    "title": "The Day Dream",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1880,
+    "movement": "Pre-Raphaelite",
+    "location": "Victoria & Albert Museum, London",
+    "desc": "Jane Morris dreaming in tree. Rossetti's late obsession. Pre-Raphaelite sensuality. Victorian aesthetic beauty. That honeysuckle!",
+    "why": "Rossetti's late Jane Morris obsession! She dreams in tree. Pre-Raphaelite sensual beauty. Rossetti never stopped painting her. That dreamy atmosphere!"
+  },
+  {
+    "title": "La Ghirlandata",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1873,
+    "movement": "Pre-Raphaelite",
+    "location": "Guildhall Art Gallery, London",
+    "desc": "Angels crown woman with roses. Rossetti's heavenly beauty. Pre-Raphaelite aesthetic spirituality. Victorian beauty worship. That garland!",
+    "why": "Heavenly beauty! Angels crowning woman. Rossetti's aesthetic spirituality. Pre-Raphaelite female beauty as divine. Victorian woman worship."
+  },
+  {
+    "title": "Monna Vanna",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1866,
+    "movement": "Pre-Raphaelite",
+    "location": "Tate Britain",
+    "desc": "Sensual woman with coral necklace. Rossetti's erotic subjects. Pre-Raphaelite female beauty. Victorian sensuality dressed as art.",
+    "why": "Rossetti's sensuality! That coral necklace, that gaze. Pre-Raphaelite eroticism. Victorian male desire painted as art. Female beauty objectified beautifully."
+  },
+  {
+    "title": "Bocca Baciata",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1859,
+    "movement": "Pre-Raphaelite",
+    "location": "Museum of Fine Arts, Boston",
+    "desc": "Sensual woman with marigolds. 'Kissed mouth' - sexual awareness. Rossetti's erotic breakthrough. Pre-Raphaelite sensuality. Victorian sexuality emerging.",
+    "why": "Rossetti's erotic breakthrough! 'Kissed mouth' - experience shown. That sensual gaze! Pre-Raphaelite sexuality emerging. Victorian male desire honestly painted. Fanny Cornforth modeled."
+  },
+  {
+    "title": "Found",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1854,
+    "movement": "Pre-Raphaelite",
+    "location": "Delaware Art Museum",
+    "desc": "Farmer recognizes former love now prostitute. Social fallen woman subject. Rossetti worked decades never finishing. Pre-Raphaelite social problem. Victorian prostitution.",
+    "why": "Never finished! Rossetti worked on it for decades. Farmer finds lost love now prostitute. Pre-Raphaelite social concern. Victorian prostitution as tragic subject. That calf in cart!"
+  },
+  {
+    "title": "How They Met Themselves",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1864,
+    "movement": "Pre-Raphaelite",
+    "location": "Fitzwilliam Museum, Cambridge",
+    "desc": "Couple meets their ghostly doubles. Doppelgangers as death omen. Rossetti's supernatural. Pre-Raphaelite Gothic. Victorian ghost stories.",
+    "why": "Supernatural Pre-Raphaelite! Couple meets themselves - death omen. Rossetti's Gothic interests. Pre-Raphaelite ghost story. Victorian supernatural visualised."
+  },
+  {
+    "title": "Sir Galahad at the Ruined Chapel",
+    "artist": "Dante Gabriel Rossetti",
+    "year": 1859,
+    "movement": "Pre-Raphaelite",
+    "location": "Private",
+    "desc": "Pure knight Galahad at chapel. Arthurian quest. Rossetti's medieval subjects. Pre-Raphaelite Arthurian obsession. Victorian chivalry idealized.",
+    "why": "Arthurian purity! Galahad the virgin knight. Rossetti painting medieval virtue. Pre-Raphaelite Arthurian romance. Victorian idealization of medieval chivalry."
+  },
+  {
+    "title": "Number 1, 1949",
+    "artist": "Jackson Pollock",
+    "year": 1949,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Classic Pollock drip painting. Black, white, grey, yellow skeins of paint. All-over composition. Action painting at peak. Pollock's unconscious made visible.",
+    "why": "Pollock's breakthrough year! Drip technique perfected. That all-over field! No focal point - eye moves everywhere. Abstract Expressionism defining work."
+  },
+  {
+    "title": "Full Fathom Five",
+    "artist": "Jackson Pollock",
+    "year": 1947,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Early drip painting with objects embedded - nails, tacks, buttons, cigarettes. Shakespeare Tempest title. Mixed media chaos. Pollock's revolutionary technique emerging.",
+    "why": "Objects embedded in paint! Nails, cigarettes stuck in. Three-dimensional drip painting. Shakespeare title adds literary weight. Pollock's technique revolutionary."
+  },
+  {
+    "title": "Mural",
+    "artist": "Jackson Pollock",
+    "year": 1943,
+    "movement": "Abstract Expressionism",
+    "location": "University of Iowa Museum of Art",
+    "desc": "Massive 8x20 foot painting for Peggy Guggenheim. Pollock's breakthrough commission. Not yet drip but energetic all-over rhythm. Influenced by Picasso and Miró. Pre-drip masterpiece.",
+    "why": "Pollock's breakthrough! Painted in single night allegedly. Peggy Guggenheim's commission. Pre-drip but showing all-over composition. Led to drip technique. 20 feet of pure energy."
+  },
+  {
+    "title": "The She-Wolf",
+    "artist": "Jackson Pollock",
+    "year": 1943,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Mythological wolf figure. Pollock's early symbolic period. Jungian archetypal imagery. Before drip technique. Primitive power emerging.",
+    "why": "Early Pollock! Before drips. Jungian wolf archetype. Primitive power. Pollock exploring myth and unconscious. Shows development toward abstraction."
+  },
+  {
+    "title": "Eyes in the Heat",
+    "artist": "Jackson Pollock",
+    "year": 1946,
+    "movement": "Abstract Expressionism",
+    "location": "Guggenheim Museum",
+    "desc": "Transitional work toward drip technique. Eyes visible in abstract patterns. Pollock moving from figuration to pure abstraction. Heat and energy building.",
+    "why": "Transition to drip! Eyes still visible but dissolving. Pollock abandoning figuration. Energy intensifying. Shows journey toward pure abstraction."
+  },
+  {
+    "title": "Easter and the Totem",
+    "artist": "Jackson Pollock",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Late Pollock - returning to figuration. Totem pole forms. Black paint. After drip period. Pollock's darker late work.",
+    "why": "Late Pollock confusion. Returning to figures after pure abstraction. Totem imagery. Darker mood. Pollock struggling after drip success. Three years before death."
+  },
+  {
+    "title": "The Deep",
+    "artist": "Jackson Pollock",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "White canvas with black vertical rift. Pollock's late minimalism. Abstract abyss. One of last paintings before death. Stark simplicity.",
+    "why": "Pollock's late masterpiece. White with black rift. The deep = abyss, death? Year before he died. Radical simplicity after drip complexity. Haunting."
+  },
+  {
+    "title": "Convergence",
+    "artist": "Jackson Pollock",
+    "year": 1952,
+    "movement": "Abstract Expressionism",
+    "location": "Albright-Knox Art Gallery, Buffalo",
+    "desc": "Multi-coloured drip painting. Yellow, red, blue, black converging. Late drip period complexity. Pollock's chromatic energy. All-over colour field.",
+    "why": "Late drip painting! Brighter colours than usual. All converging! Pollock's energy undiminished. Two years before death. Colour returning after black period."
+  },
+  {
+    "title": "Greyed Rainbow",
+    "artist": "Jackson Pollock",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "Art Institute of Chicago",
+    "desc": "Late work - muted colours. Rainbow grayed out. Pollock's alcoholism and depression visible. Dark late period. Sadness in paint.",
+    "why": "Sad late Pollock. Rainbow but grayed, muted. Depression visible in paint. Year before death. Pollock's decline. Beauty fading to grey."
+  },
+  {
+    "title": "Untitled (Green Silver)",
+    "artist": "Jackson Pollock",
+    "year": 1949,
+    "movement": "Abstract Expressionism",
+    "location": "Guggenheim Museum",
+    "desc": "Green and silver drip painting. Peak period work. Pollock's colour alchemy. Metallic silver with organic green. Drip perfection.",
+    "why": "Peak Pollock! Green and silver combination. That metallic shine! 1949 - his breakthrough year. Drip technique mastered. Colour relationships perfect."
+  },
+  {
+    "title": "Number 5A",
+    "artist": "Jackson Pollock",
+    "year": 1948,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Brown and yellow drip painting. Number 5 series. Earth tones dominating. Pollock's colour explorations. Autumn feeling.",
+    "why": "1948 masterworks! Earth tones - brown and yellow. Pollock exploring colour relationships through drip. That golden warmth! Peak period."
+  },
+  {
+    "title": "Cathedral",
+    "artist": "Jackson Pollock",
+    "year": 1947,
+    "movement": "Abstract Expressionism",
+    "location": "Dallas Museum of Art",
+    "desc": "Early drip painting. Black, white, silver. Cathedral title suggests spiritual architecture. Pollock's abstract sacred space. Vertical energy.",
+    "why": "Early drip with spiritual title! Cathedral made of paint skeins. Abstract sacred architecture. Pollock creating spiritual space through abstraction. 1947 breakthrough."
+  },
+  {
+    "title": "Troubled Queen",
+    "artist": "Willem de Kooning",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "De Kooning's women series continuation. Violent paint handling. Female figure fragmented. Abstract Expressionism's female anxiety. Troubled beauty.",
+    "why": "De Kooning's disturbed women! Violent brushwork. Female figure aggressive and anxious. Abstract Expressionism's gender issues visible. That troubled energy!"
+  },
+  {
+    "title": "Excavation",
+    "artist": "Willem de Kooning",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "Art Institute of Chicago",
+    "desc": "De Kooning's abstract masterpiece. Body parts fragmented throughout. Black outlines, pale colours. Excavation of human form. Abstract Expressionism peak.",
+    "why": "De Kooning's masterpiece! Excavating body from abstraction. Body parts everywhere if you look. Black lines carving space. Abstract Expressionism's complexity perfected."
+  },
+  {
+    "title": "Gotham News",
+    "artist": "Willem de Kooning",
+    "year": 1955,
+    "movement": "Abstract Expressionism",
+    "location": "Albright-Knox Art Gallery, Buffalo",
+    "desc": "Urban abstraction. New York energy. De Kooning's city paintings. Abstract Expressionism meets metropolis. Newsprint chaos.",
+    "why": "NYC abstracted! Urban energy in paint. De Kooning painting city's chaos. Newspaper fragments visible. Abstract Expressionism urban."
+  },
+  {
+    "title": "Woman II",
+    "artist": "Willem de Kooning",
+    "year": 1952,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Woman series continuation. Aggressive female figure. De Kooning's controversial women. Abstract Expressionism's gender tensions. Violent beauty.",
+    "why": "Women series! De Kooning's aggressive females. Shocking when shown. Abstract Expressionism's relationship with women problematic but powerful."
+  },
+  {
+    "title": "Woman III",
+    "artist": "Willem de Kooning",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Women series. Sold for $137.5 million! De Kooning's fierce females. Abstract Expressionism's value peak. Controversial and expensive.",
+    "why": "Sold $137.5 million! De Kooning's women worth fortunes. That fierce energy! Abstract Expressionism meeting art market. Controversial but valuable."
+  },
+  {
+    "title": "Woman IV",
+    "artist": "Willem de Kooning",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "Nelson-Atkins Museum, Kansas City",
+    "desc": "Women series continuation. Female figure abstracted. De Kooning's ongoing exploration. Abstract Expressionism's women.",
+    "why": "Women series continues! De Kooning obsessed with female figure. Abstract Expressionism's gender complexity. That energy!"
+  },
+  {
+    "title": "Woman V",
+    "artist": "Willem de Kooning",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "National Gallery of Australia",
+    "desc": "Women series. Female figure fierce. De Kooning's women culmination. Abstract Expressionism's females peak.",
+    "why": "Women series peak! De Kooning's female figures most intense. Abstract Expressionism's gender energy. Australian treasure."
+  },
+  {
+    "title": "Woman VI",
+    "artist": "Willem de Kooning",
+    "year": 1953,
+    "movement": "Abstract Expressionism",
+    "location": "Carnegie Museum of Art, Pittsburgh",
+    "desc": "Final numbered woman. Series conclusion. De Kooning's women exploration complete. Abstract Expressionism's females finished.",
+    "why": "Women series end! De Kooning finished exploring female figure violently. Abstract Expressionism's gender statement complete."
+  },
+  {
+    "title": "A Tree in Naples",
+    "artist": "Willem de Kooning",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Landscape abstraction. De Kooning moving from women to nature. Abstract Expressionism's landscape turn. Tree energy.",
+    "why": "De Kooning landscape! After women series - nature. Abstract Expressionism going outside. That tree energy abstracted!"
+  },
+  {
+    "title": "Door to the River",
+    "artist": "Willem de Kooning",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Whitney Museum, New York",
+    "desc": "Abstract landscape. Door opening to water. De Kooning's coastal abstractions. Abstract Expressionism's space opening.",
+    "why": "Abstract door to nature! De Kooning opening space. Abstract Expressionism's landscape. That river beyond door!"
+  },
+  {
+    "title": "Untitled XXV",
+    "artist": "Willem de Kooning",
+    "year": 1977,
+    "movement": "Abstract Expressionism",
+    "location": "San Francisco Museum of Modern Art",
+    "desc": "Late de Kooning. Simpler, more lyrical. Colours brightening. Old age bringing peace. Abstract Expressionism mellowing.",
+    "why": "Late de Kooning! Simpler, calmer. Violence gone. Colours brighter. Old age bringing peace. Abstract Expressionism gentling."
+  },
+  {
+    "title": "Untitled III",
+    "artist": "Willem de Kooning",
+    "year": 1980,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Very late work. De Kooning in 70s. Simplified forms. Colours pure. Abstract Expressionism's elder statement.",
+    "why": "Very late! De Kooning at 76. Simplified everything. Pure colour. Abstract Expressionism's old age wisdom."
+  },
+  {
+    "title": "Rosy-Fingered Dawn at Louse Point",
+    "artist": "Willem de Kooning",
+    "year": 1963,
+    "movement": "Abstract Expressionism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Abstract landscape. Homer's Odyssey title. De Kooning's poetic landscapes. Abstract Expressionism meeting literature. Dawn abstracted.",
+    "why": "Homer title! Rosy-fingered dawn abstracted. De Kooning's literary landscapes. Abstract Expressionism's poetry. That dawn colour!"
+  },
+  {
+    "title": "Villa Borghese",
+    "artist": "Willem de Kooning",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Italian landscape abstracted. De Kooning's European works. Abstract Expressionism abroad. Roman garden energy.",
+    "why": "Roman landscape! De Kooning in Italy. Abstract Expressionism traveling. Villa Borghese's energy abstracted."
+  },
+  {
+    "title": "Suburb in Havana",
+    "artist": "Willem de Kooning",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Cuban landscape abstracted. Pre-revolution Havana. De Kooning's travel works. Abstract Expressionism tropical.",
+    "why": "Havana abstracted! Before Castro. De Kooning's tropical energy. Abstract Expressionism in Caribbean. That heat!"
+  },
+  {
+    "title": "Montauk Highway",
+    "artist": "Willem de Kooning",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Los Angeles County Museum of Art",
+    "desc": "Long Island landscape. De Kooning's American spaces. Abstract Expressionism's highway. American road abstracted.",
+    "why": "American highway! Long Island road energy. De Kooning's USA landscapes. Abstract Expressionism on the road. That American space!"
+  },
+  {
+    "title": "Parc Rosenberg",
+    "artist": "Willem de Kooning",
+    "year": 1957,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "European park abstracted. De Kooning's travel series. Abstract Expressionism's parks. Garden energy.",
+    "why": "Park energy! De Kooning abstracting European gardens. Abstract Expressionism's nature. That park vitality!"
+  },
+  {
+    "title": "Bolton Landing",
+    "artist": "Willem de Kooning",
+    "year": 1957,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Rural landscape. De Kooning's American countryside. Abstract Expressionism's rural turn. Landing abstracted.",
+    "why": "Rural America! De Kooning's countryside. Abstract Expressionism leaving city. That landing energy!"
+  },
+  {
+    "title": "Backyard on Tenth Street",
+    "artist": "Willem de Kooning",
+    "year": 1956,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Urban backyard. NYC space abstracted. De Kooning's neighborhood. Abstract Expressionism's city gardens.",
+    "why": "NYC backyard! De Kooning's urban space. Abstract Expressionism's cities. That downtown energy!"
+  },
+  {
+    "title": "Composition",
+    "artist": "Willem de Kooning",
+    "year": 1955,
+    "movement": "Abstract Expressionism",
+    "location": "Guggenheim Museum",
+    "desc": "Pure abstraction. De Kooning's formal explorations. Abstract Expressionism's compositions. Structure and energy.",
+    "why": "Pure composition! De Kooning abstracting completely. Abstract Expressionism's structure. That balance!"
+  },
+  {
+    "title": "Two Figures in a Landscape",
+    "artist": "Willem de Kooning",
+    "year": 1967,
+    "movement": "Abstract Expressionism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Figures returning after landscape period. De Kooning cycling back. Abstract Expressionism's figures. Human presence returning.",
+    "why": "Figures return! After landscapes, humans back. De Kooning's cycles. Abstract Expressionism's humanity. Those figures emerging!"
+  },
+  {
+    "title": "Untitled (The Visit)",
+    "artist": "Willem de Kooning",
+    "year": 1967,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Late 60s work. De Kooning's mature style. Abstract Expressionism's visit. Presence and absence.",
+    "why": "The visit! De Kooning's mysterious titles. Abstract Expressionism's presence. That ghostly visitation!"
+  },
+  {
+    "title": "Whose Name Was Writ in Water",
+    "artist": "Willem de Kooning",
+    "year": 1975,
+    "movement": "Abstract Expressionism",
+    "location": "Guggenheim Museum",
+    "desc": "Keats epitaph as title. De Kooning's poetic works. Abstract Expressionism's literature. Water and mortality.",
+    "why": "Keats title! Written in water. De Kooning's literary works. Abstract Expressionism's poetry. Mortality in paint!"
+  },
+  {
+    "title": "North Atlantic Light",
+    "artist": "Willem de Kooning",
+    "year": 1977,
+    "movement": "Abstract Expressionism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Late landscape. Atlantic light abstracted. De Kooning's coastal living. Abstract Expressionism's ocean light.",
+    "why": "Ocean light! De Kooning's Atlantic coast. Abstract Expressionism's sea. That northern light abstracted!"
+  },
+  {
+    "title": "Untitled XXII",
+    "artist": "Willem de Kooning",
+    "year": 1982,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Very late work. De Kooning at 78. Simplified radically. Colours pure. Abstract Expressionism's wisdom.",
+    "why": "Very late! De Kooning almost 80. Everything simplified. Pure colour relations. Abstract Expressionism's elder peace."
+  },
+  {
+    "title": "Pirate (Untitled II)",
+    "artist": "Willem de Kooning",
+    "year": 1981,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Late work. Pirate energy. De Kooning's final wildness. Abstract Expressionism's last adventures.",
+    "why": "Pirate spirit! Late de Kooning's adventure. Abstract Expressionism's freedom. That pirate energy at 77!"
+  },
+  {
+    "title": "Morning: The Springs",
+    "artist": "Willem de Kooning",
+    "year": 1983,
+    "movement": "Abstract Expressionism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Very late. East Hampton Springs area. De Kooning's final landscapes. Abstract Expressionism's morning light.",
+    "why": "Final landscapes! De Kooning at 79. Springs morning light. Abstract Expressionism's last mornings. That dawn!"
+  },
+  {
+    "title": "Untitled IV",
+    "artist": "Willem de Kooning",
+    "year": 1983,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Among last paintings. De Kooning at 79. Final statements. Abstract Expressionism's farewell.",
+    "why": "Among last works! De Kooning ending career. Abstract Expressionism's final words. That last energy!"
+  },
+  {
+    "title": "Untitled VII",
+    "artist": "Willem de Kooning",
+    "year": 1985,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Very late. De Kooning at 81. Final works. Abstract Expressionism concluding.",
+    "why": "Final works! De Kooning at 81. Abstract Expressionism's end. Last statements in paint!"
+  },
+  {
+    "title": "Untitled VIII",
+    "artist": "Willem de Kooning",
+    "year": 1986,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Among final paintings. De Kooning at 82. Career ending. Abstract Expressionism's conclusion.",
+    "why": "Final paintings! De Kooning's career end. 82 years old. Abstract Expressionism concluding. Last works!"
+  },
+  {
+    "title": "Cloisters",
+    "artist": "Robert Motherwell",
+    "year": 1980,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Late Motherwell. Medieval architecture abstracted. Cloisters energy. Abstract Expressionism's spiritual spaces.",
+    "why": "Medieval space! Motherwell abstracting cloisters. Abstract Expressionism's architecture. That sacred geometry!"
+  },
+  {
+    "title": "Summer Open with Mediterranean Blue",
+    "artist": "Robert Motherwell",
+    "year": 1974,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Motherwell's Opens series. Blue opening. Abstract Expressionism's windows. Mediterranean light.",
+    "why": "Opens series! Windows to light. Motherwell's geometric abstraction. Abstract Expressionism's openings. That blue!"
+  },
+  {
+    "title": "Open No. 122: In Scarlet with White Line",
+    "artist": "Robert Motherwell",
+    "year": 1969,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Opens series. Scarlet field opened. Motherwell's minimalist phase. Abstract Expressionism simplified.",
+    "why": "Opens series! Scarlet opening. Motherwell moving to minimalism. Abstract Expressionism simplifying. That white line!"
+  },
+  {
+    "title": "Je t'aime",
+    "artist": "Robert Motherwell",
+    "year": 1955,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "French title - I love you. Motherwell's literary works. Abstract Expressionism's romance. Love abstracted.",
+    "why": "I love you! Motherwell's French period. Abstract Expressionism's love. That romantic energy!"
+  },
+  {
+    "title": "Chi Ama, Crede",
+    "artist": "Robert Motherwell",
+    "year": 1962,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Italian title - Who loves, believes. Motherwell's poetry. Abstract Expressionism's faith. Love and belief.",
+    "why": "Who loves, believes! Italian poetry. Motherwell's faith in love. Abstract Expressionism's belief. That trust!"
+  },
+  {
+    "title": "Dublin 1916, with Black and Tan",
+    "artist": "Robert Motherwell",
+    "year": 1965,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Irish Easter Rising. Motherwell's political works. Abstract Expressionism's history. Irish independence abstracted.",
+    "why": "Irish revolution! 1916 Rising. Motherwell's political abstraction. Abstract Expressionism's history. That Irish struggle!"
+  },
+  {
+    "title": "Africa",
+    "artist": "Robert Motherwell",
+    "year": 1965,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "African energy abstracted. Motherwell's continental series. Abstract Expressionism's geography. Africa's power.",
+    "why": "African continent! Motherwell's geography. Abstract Expressionism's world. That African energy!"
+  },
+  {
+    "title": "Iberia",
+    "artist": "Robert Motherwell",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Spanish/Portuguese energy. Motherwell's Iberian works. Abstract Expressionism's Spain. Peninsula power.",
+    "why": "Iberian energy! Spain and Portugal. Motherwell's Mediterranean. Abstract Expressionism's peninsula. That Spanish force!"
+  },
+  {
+    "title": "Black on White",
+    "artist": "Robert Motherwell",
+    "year": 1961,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Stark contrast. Motherwell's simplicity. Abstract Expressionism's reduction. Black and white drama.",
+    "why": "Pure contrast! Black on white. Motherwell's simplicity. Abstract Expressionism reduced. That stark power!"
+  },
+  {
+    "title": "In Black and White",
+    "artist": "Robert Motherwell",
+    "year": 1950,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Early Motherwell. Black and white only. Abstract Expressionism's contrast. Stark drama.",
+    "why": "Early contrast! Black and white power. Motherwell's starkness. Abstract Expressionism's drama. That opposition!"
+  },
+  {
+    "title": "Pancho Villa, Dead and Alive",
+    "artist": "Robert Motherwell",
+    "year": 1943,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Mexican revolutionary. Early Motherwell. Abstract Expressionism's politics. Villa's spirit.",
+    "why": "Villa lives! Mexican revolution. Young Motherwell's politics. Abstract Expressionism's history. That revolutionary energy!"
+  },
+  {
+    "title": "The Voyage",
+    "artist": "Robert Motherwell",
+    "year": 1949,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Abstract journey. Motherwell's explorations. Abstract Expressionism's travels. Voyage through paint.",
+    "why": "Abstract voyage! Motherwell's journeys. Abstract Expressionism traveling. That exploration energy!"
+  },
+  {
+    "title": "At Five in the Afternoon",
+    "artist": "Robert Motherwell",
+    "year": 1949,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Lorca poem title. Spanish bullfighter's death. Motherwell's Spanish series beginning. Abstract Expressionism's poetry.",
+    "why": "Lorca! Bullfighter death time. Motherwell's Spanish obsession starting. Abstract Expressionism's poetry. That fatal hour!"
+  },
+  {
+    "title": "Granada",
+    "artist": "Robert Motherwell",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Spanish city. Motherwell's Iberian works. Abstract Expressionism's Spain. Granada energy.",
+    "why": "Granada! Spanish city energy. Motherwell's Andalusia. Abstract Expressionism's Spain. That Moorish power!"
+  },
+  {
+    "title": "Seville",
+    "artist": "Robert Motherwell",
+    "year": 1958,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Spanish city. Motherwell's urban abstractions. Abstract Expressionism's Seville. Andalusian energy.",
+    "why": "Seville! Southern Spain. Motherwell's city abstractions. Abstract Expressionism's Andalusia. That flamenco energy!"
+  },
+  {
+    "title": "Mediterranean Series",
+    "artist": "Robert Motherwell",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Various",
+    "desc": "Multiple works series. Mediterranean energy. Motherwell's coastal abstractions. Abstract Expressionism's sea.",
+    "why": "Mediterranean! Multiple works. Motherwell's sea energy. Abstract Expressionism coastal. That Mediterranean light!"
+  },
+  {
+    "title": "Beside the Sea",
+    "artist": "Robert Motherwell",
+    "year": 1962,
+    "movement": "Abstract Expressionism",
+    "location": "Various",
+    "desc": "Coastal series. Motherwell by ocean. Abstract Expressionism's seas. Maritime energy.",
+    "why": "Ocean energy! Coastal abstractions. Motherwell beside sea. Abstract Expressionism maritime. That wave power!"
+  },
+  {
+    "title": "Summertime in Italy",
+    "artist": "Robert Motherwell",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Italian summer. Motherwell's European works. Abstract Expressionism's Italy. Summer heat abstracted.",
+    "why": "Italian summer! Heat abstracted. Motherwell's Europe. Abstract Expressionism's Italy. That summer intensity!"
+  },
+  {
+    "title": "Wall Painting with Stripes",
+    "artist": "Robert Motherwell",
+    "year": 1944,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Early work. Wall-sized ambition. Motherwell's beginning. Abstract Expressionism's scale emerging.",
+    "why": "Early ambition! Wall-scale thinking. Young Motherwell. Abstract Expressionism's size beginning. That monumental vision!"
+  },
+  {
+    "title": "Western Air",
+    "artist": "Robert Motherwell",
+    "year": 1946,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "American West energy. Motherwell's geography. Abstract Expressionism's spaces. Western vastness.",
+    "why": "Western spaces! American vastness. Motherwell's geography. Abstract Expressionism's West. That frontier energy!"
+  },
+  {
+    "title": "The Red Skirt",
+    "artist": "Robert Motherwell",
+    "year": 1947,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Figure suggested. Red garment. Motherwell's early figuration. Abstract Expressionism's bodies emerging.",
+    "why": "Figure emerging! Red skirt visible. Motherwell's bodies. Abstract Expressionism's figuration. That clothing energy!"
+  },
+  {
+    "title": "The Tearingness of Painting",
+    "artist": "Robert Motherwell",
+    "year": 1959,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Painting's difficulty. Motherwell's confession. Abstract Expressionism's struggle. Creating's pain.",
+    "why": "Painting's pain! Creative struggle. Motherwell confessing. Abstract Expressionism's difficulty. That tearing force!"
+  },
+  {
+    "title": "Summertime in Italy No. 2",
+    "artist": "Robert Motherwell",
+    "year": 1961,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Italian summer continued. Motherwell's series. Abstract Expressionism's heat. Summer ongoing.",
+    "why": "Summer continues! Italian heat repeated. Motherwell's series. Abstract Expressionism's summer. That sustained warmth!"
+  },
+  {
+    "title": "Irish Elegy",
+    "artist": "Robert Motherwell",
+    "year": 1965,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Ireland mourned. Motherwell's elegies expand. Abstract Expressionism's Ireland. Celtic sorrow.",
+    "why": "Ireland mourned! Celtic elegy. Motherwell's Irish works. Abstract Expressionism's Ireland. That Celtic grief!"
+  },
+  {
+    "title": "Mexican Night",
+    "artist": "Robert Motherwell",
+    "year": 1979,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Mexico's darkness. Motherwell's nights. Abstract Expressionism's Mexico. Evening energy.",
+    "why": "Mexican night! Darkness south. Motherwell's Mexican works. Abstract Expressionism's nights. That Mexican darkness!"
+  },
+  {
+    "title": "Red Sea",
+    "artist": "Robert Motherwell",
+    "year": 1974,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Biblical waters. Red energy. Motherwell's sacred geography. Abstract Expressionism's seas.",
+    "why": "Red Sea! Biblical waters. Motherwell's sacred geography. Abstract Expressionism maritime. That red water!"
+  },
+  {
+    "title": "Rite of Passage",
+    "artist": "Robert Motherwell",
+    "year": 1980,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Transition moment. Motherwell's changes. Abstract Expressionism's transformations. Passage energy.",
+    "why": "Passage rite! Transitions. Motherwell's changes. Abstract Expressionism's passages. That threshold energy!"
+  },
+  {
+    "title": "The Spanish Picture with Window",
+    "artist": "Robert Motherwell",
+    "year": 1941,
+    "movement": "Abstract Expressionism",
+    "location": "MoMA, New York",
+    "desc": "Very early. Spanish window. Motherwell beginning. Abstract Expressionism's origins. First Spanish work.",
+    "why": "Very early! First Spanish work! Motherwell's beginning. Abstract Expressionism starting. That initial Spanish energy!"
+  },
+  {
+    "title": "Personage with Yellow Ochre and White",
+    "artist": "Robert Motherwell",
+    "year": 1947,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Figure suggested. Colours named. Motherwell's personages. Abstract Expressionism's humans. Body energy.",
+    "why": "Human presence! Figure in colours. Motherwell's personages. Abstract Expressionism's humanity. That body force!"
+  },
+  {
+    "title": "The French Line",
+    "artist": "Robert Motherwell",
+    "year": 1960,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Ocean liner company? French energy. Motherwell's lines. Abstract Expressionism's France. Linear power.",
+    "why": "French line! Oceanic or cultural? Motherwell's France. Abstract Expressionism's lines. That French force!"
+  },
+  {
+    "title": "Reconciliation Elegy",
+    "artist": "Robert Motherwell",
+    "year": 1978,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Elegy series. Reconciliation attempted. Motherwell's Spanish Republic mourning continues. Abstract Expressionism's peace seeking.",
+    "why": "Seeking peace! Elegy continues. Reconciliation attempted. Abstract Expressionism's healing. That peace seeking!"
+  },
+  {
+    "title": "Black Sounds",
+    "artist": "Robert Motherwell",
+    "year": 1981,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Sound as colour. Black noise. Motherwell's synaesthesia. Abstract Expressionism's sounds. Acoustic painting.",
+    "why": "Black sounds! Synesthetic painting. Sound as colour. Motherwell's acoustics. Abstract Expressionism hearing! That sonic energy!"
+  },
+  {
+    "title": "Threatening Presence",
+    "artist": "Robert Motherwell",
+    "year": 1981,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Danger felt. Presence looming. Late Motherwell darkness. Abstract Expressionism's threats. Ominous energy.",
+    "why": "Threat felt! Dangerous presence. Late Motherwell's darkness. Abstract Expressionism's danger. That menacing force!"
+  },
+  {
+    "title": "Blue Painting Lesson",
+    "artist": "Robert Motherwell",
+    "year": 1973,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Teaching through paint. Blue lesson. Motherwell instructing. Abstract Expressionism's education. Pedagogical energy.",
+    "why": "Teaching painting! Blue instruction. Motherwell as teacher. Abstract Expressionism educating. That pedagogical force!"
+  },
+  {
+    "title": "Samurai",
+    "artist": "Robert Motherwell",
+    "year": 1974,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Japanese warrior. Motherwell's East. Abstract Expressionism's samurai. Warrior energy abstracted.",
+    "why": "Samurai spirit! Japanese warrior. Motherwell's East. Abstract Expressionism's Japan. That warrior force!"
+  },
+  {
+    "title": "Summer Light Series",
+    "artist": "Robert Motherwell",
+    "year": 1973,
+    "movement": "Abstract Expressionism",
+    "location": "Various",
+    "desc": "Summer illumination. Multiple works. Light studies. Abstract Expressionism's summers. Seasonal light.",
+    "why": "Summer light! Seasonal studies. Motherwell's illuminations. Abstract Expressionism's summers. That summer force!"
+  },
+  {
+    "title": "Night Music Opus #18",
+    "artist": "Robert Motherwell",
+    "year": 1989,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Final year! Night sounds. Music numbered. Motherwell's last works. Abstract Expressionism concluding. Final opus.",
+    "why": "Final year! 1989 - year before death. Night music. Motherwell's farewell. Abstract Expressionism ending. Final works!"
+  },
+  {
+    "title": "The Hollow Men",
+    "artist": "Robert Motherwell",
+    "year": 1983,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "T.S. Eliot title. Empty men. Motherwell's darkness. Abstract Expressionism's void. Hollowness felt.",
+    "why": "Eliot's hollow men! Emptiness. Motherwell's darkness. Abstract Expressionism's void. That hollow force!"
+  },
+  {
+    "title": "The Poet",
+    "artist": "Robert Motherwell",
+    "year": 1947,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Poet figure. Motherwell's literary art. Abstract Expressionism's poetry. Writer energy.",
+    "why": "Poet presence! Literary figure. Motherwell's poetry. Abstract Expressionism's writers. That poet force!"
+  },
+  {
+    "title": "Music with Red and Blue",
+    "artist": "Robert Motherwell",
+    "year": 1985,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Musical colours. Late work. Sound painted. Abstract Expressionism's music. Chromatic harmony.",
+    "why": "Music painted! Colours singing. Late Motherwell. Abstract Expressionism's acoustics. That musical force!"
+  },
+  {
+    "title": "Emperor of China",
+    "artist": "Robert Motherwell",
+    "year": 1977,
+    "movement": "Abstract Expressionism",
+    "location": "Private",
+    "desc": "Chinese power. Imperial energy. Motherwell's East. Abstract Expressionism's China. Emperor force.",
+    "why": "Imperial China! Emperor energy. Motherwell's East. Abstract Expressionism's China. That imperial force!"
+  },
+  {
+    "title": "Red Studio",
+    "artist": "Henri Matisse",
+    "year": 1911,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Studio interior entirely red. Matisse's works visible on walls. Red overwhelming. Colour as space. Fauvism's radical colour.",
+    "why": "Everything red! Studio dissolved in colour. Matisse's works float in red space. Colour becomes space itself. Revolutionary colour use!"
+  },
+  {
+    "title": "Piano Lesson",
+    "artist": "Henri Matisse",
+    "year": 1916,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Matisse's son Pierre at piano. Geometric abstraction. Cubist influence visible. Matisse's most abstract work. Fauvism meeting Cubism.",
+    "why": "Matisse most abstract! Son at piano. Geometric and flat. Cubist influence clear. Fauvism exploring abstraction. That green triangle!"
+  },
+  {
+    "title": "The Dessert: Harmony in Red",
+    "artist": "Henri Matisse",
+    "year": 1908,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Table and wall same red pattern. Space flattened. Maid arranging fruit. Fauvism's decorative power. Pattern overwhelming space.",
+    "why": "Pattern dissolves space! Table and wall merge. Red patterns everywhere. Fauvist decoration extreme. Space flattened by pattern. Revolutionary!"
+  },
+  {
+    "title": "Blue Nude",
+    "artist": "Henri Matisse",
+    "year": 1952,
+    "movement": "Fauvism",
+    "location": "Beyeler Foundation, Basel",
+    "desc": "Cut-out nude. Blue paper. Matisse's late technique. Scissors as brush. Cut paper mastery. Late Matisse brilliance.",
+    "why": "Cut-out masterpiece! Matisse inventing new medium in old age. Scissors replacing brush. Blue nude from paper. Late innovation triumph!"
+  },
+  {
+    "title": "Icarus",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Jazz book",
+    "desc": "Cut-out falling figure. Red bursts. Jazz series. Icarus falling. Matisse's Greek mythology. Cut paper tragedy.",
+    "why": "Jazz series! Icarus falling. Red bursts = fireworks or pain? Cut paper mythology. Matisse's late Greek subjects. That fall!"
+  },
+  {
+    "title": "The Snail",
+    "artist": "Henri Matisse",
+    "year": 1953,
+    "movement": "Fauvism",
+    "location": "Tate Modern, London",
+    "desc": "Cut-out abstract. Coloured papers arranged spiral. Snail shape suggested. Matisse's late abstraction. Final year work. Pure colour form.",
+    "why": "Final year! Snail shape in cut papers. Matisse abstracting nature completely. Colour relationships pure. Last year masterpiece. That spiral!"
+  },
+  {
+    "title": "The Swimming Pool",
+    "artist": "Henri Matisse",
+    "year": 1952,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cut-out swimmers. Blue water white figures. Matisse's late joy. Pool environment created. Cut paper paradise. Late happiness.",
+    "why": "Late joy! Pool of cut figures. Matisse creating environment. Swimmers floating. Paradise in paper. That late happiness!"
+  },
+  {
+    "title": "Large Reclining Nude (The Pink Nude)",
+    "artist": "Henri Matisse",
+    "year": 1935,
+    "movement": "Fauvism",
+    "location": "Baltimore Museum of Art",
+    "desc": "Nude reclining. Pink flesh tones. Blue patterns. Matisse's odalisque series. Decorative sensuality. Pattern and flesh combined.",
+    "why": "Matisse's sensual decorative! Pink nude among patterns. Odalisque tradition continued. That decorative sensuality! Colour and form perfection."
+  },
+  {
+    "title": "Luxe, Calme et Volupté",
+    "artist": "Henri Matisse",
+    "year": 1904,
+    "movement": "Fauvism",
+    "location": "Musée d'Orsay, Paris",
+    "desc": "Baudelaire poem title. Mediterranean beach. Pointillist technique. Pre-Fauvist Matisse. Colours liberating. Matisse finding his way.",
+    "why": "Pre-Fauvism! Matisse experimenting. Pointillist still but colours intensifying. Baudelaire's luxury, calm, pleasure. Matisse's breakthrough coming. That Mediterranean vision!"
+  },
+  {
+    "title": "Bathers by a River",
+    "artist": "Henri Matisse",
+    "year": 1917,
+    "movement": "Fauvism",
+    "location": "Art Institute of Chicago",
+    "desc": "Monumental bathers. Abstract geometric. Matisse's most severe work. Cubist influence maximum. Fauvism meeting geometry. Large scale experiment.",
+    "why": "Matisse most geometric! Bathers reduced to shapes. Cubist influence peak. Worked on for years. Fauvism's abstraction extreme. That severity!"
+  },
+  {
+    "title": "Goldfish and Palette",
+    "artist": "Henri Matisse",
+    "year": 1914,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Self-portrait with goldfish bowl. Palette visible. Matisse painting himself painting. Art about art. Goldfish recurring motif. Meta-painting Fauvism.",
+    "why": "Self-portrait with goldfish! Matisse painting painting. Palette visible. Meta-art. Goldfish theme. Fauvism self-aware. That reflection!"
+  },
+  {
+    "title": "Pastoral",
+    "artist": "Henri Matisse",
+    "year": 1906,
+    "movement": "Fauvism",
+    "location": "Musée d'Art Moderne, Paris",
+    "desc": "Nudes in landscape. Fauvism's pastoral. Matisse's classical tradition updated. Colour revolutionizing arcadia. Wild colour meets classical theme.",
+    "why": "Classical pastoral Fauvist! Nudes in landscape. Traditional theme, revolutionary colour. Matisse updating arcadia. Fauvism's classicism. That wild pastoral!"
+  },
+  {
+    "title": "The Open Window, Collioure",
+    "artist": "Henri Matisse",
+    "year": 1905,
+    "movement": "Fauvism",
+    "location": "National Gallery of Art, Washington DC",
+    "desc": "Window opening to harbour. Boats visible. Fauvism's manifesto work. Wild colour through window. Mediterranean light liberating. Colour explosion.",
+    "why": "Fauvism breakthrough! Window to colour freedom. That Mediterranean light! Wild colour palette. Matisse liberated. Fauvism's declaration. That view!"
+  },
+  {
+    "title": "The Music",
+    "artist": "Henri Matisse",
+    "year": 1910,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Figures making music. Simplified forms. Bold colours. Companion to Dance. Russian commission. Matisse's monumentality. Harmony visualised.",
+    "why": "Dance companion! Music visualised. Simplified figures. Bold colour harmony. Russian commission. Matisse's monumental period. That musical energy!"
+  },
+  {
+    "title": "Conversation",
+    "artist": "Henri Matisse",
+    "year": 1912,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Matisse and wife. Domestic tension. He stands, she sits. Window between them. Marriage painting. Space and relationship. Domestic discord hinted.",
+    "why": "Marriage portrait! Tension visible. Window separating them. Matisse and wife Amélie. Domestic space loaded. Relationship geometry. That distance!"
+  },
+  {
+    "title": "Notre-Dame in the Late Afternoon",
+    "artist": "Henri Matisse",
+    "year": 1902,
+    "movement": "Post-Impressionism",
+    "location": "Albright-Knox Art Gallery, Buffalo",
+    "desc": "Cathedral view. Pre-Fauvist Matisse. Dark and moody. Before colour liberation. Matisse finding way. Early work.",
+    "why": "Pre-Fauvism! Dark Matisse. Before colour freedom. Cathedral traditional subject. Matisse not yet liberated. Shows development. That pre-revolution mood!"
+  },
+  {
+    "title": "Woman with a Hat",
+    "artist": "Henri Matisse",
+    "year": 1905,
+    "movement": "Fauvism",
+    "location": "San Francisco Museum of Modern Art",
+    "desc": "Already listed earlier! Skip.",
+    "why": "Skip"
+  },
+  {
+    "title": "The Green Line",
+    "artist": "Henri Matisse",
+    "year": 1905,
+    "movement": "Fauvism",
+    "location": "Statens Museum for Kunst, Copenhagen",
+    "desc": "Wife's portrait. Green line dividing face. Colour not natural. Matisse's colour freedom. Portrait revolutionised. Fauvism's portrait breakthrough.",
+    "why": "Green line face! Colour freed from description. Wife Amélie. Portrait revolutionised. Fauvism's breakthrough. That green line shocking! Non-naturalistic colour victory."
+  },
+  {
+    "title": "Portrait of Madame Matisse",
+    "artist": "Henri Matisse",
+    "year": 1913,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Wife again. Severe geometric. Dark. Matisse's cubist moment. Marriage portrait austere. Geometric period. Severe beauty.",
+    "why": "Severe wife! Geometric portrait. Matisse's cubist influence. Dark and austere. Marriage documented. Geometric Fauvism. That severity!"
+  },
+  {
+    "title": "Les Toits de Collioure",
+    "artist": "Henri Matisse",
+    "year": 1905,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Rooftops view. Collioure village. Fauvism birthplace. Colour liberated. Mediterranean light. Village revolutionised.",
+    "why": "Fauvism birthplace! Collioure rooftops. Colour freedom born here. Mediterranean revolution. That village light! Fauvism beginning."
+  },
+  {
+    "title": "Still Life with Aubergines",
+    "artist": "Henri Matisse",
+    "year": 1911,
+    "movement": "Fauvism",
+    "location": "Musée de Grenoble",
+    "desc": "Eggplants and patterns. Decorative still life. Matisse's pattern obsession. Objects in patterns. Fauvism decorative. That abundance!",
+    "why": "Pattern overload! Eggplants among decoration. Matisse's decorative genius. Still life overwhelmed by pattern. Fauvism's decoration. That abundance!"
+  },
+  {
+    "title": "The Moroccans",
+    "artist": "Henri Matisse",
+    "year": 1916,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Morocco remembered. Three sections. Matisse's abstraction peak. Moroccan trip influence. Memory painting. Fauvism's abstraction.",
+    "why": "Morocco abstracted! Memory painting. Three sections. Matisse's abstract period. North African influence. That remembered light!"
+  },
+  {
+    "title": "View of Notre-Dame",
+    "artist": "Henri Matisse",
+    "year": 1914,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cathedral from studio. Blue and black. Cubist influence. WWI period darkness. Matisse's dark moment. War shadow.",
+    "why": "WWI darkness! Cathedral view dark. Cubist influence. War's shadow. Matisse's dark period. That war gloom!"
+  },
+  {
+    "title": "The Plumed Hat",
+    "artist": "Henri Matisse",
+    "year": 1919,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Woman in fancy hat. Decorative portrait. Post-war lightness returning. Matisse's recovery. Joy returning. That plume!",
+    "why": "Post-war joy! Fancy hat. Lightness returning. Matisse recovering from war. Decoration returning. That joyful plume!"
+  },
+  {
+    "title": "Odalisque with Raised Arms",
+    "artist": "Henri Matisse",
+    "year": 1923,
+    "movement": "Fauvism",
+    "location": "National Gallery of Art, Washington DC",
+    "desc": "Harem woman. Orientalist fantasy. Matisse's odalisque series. Decorative sensuality. Pattern and flesh. 1920s exoticism.",
+    "why": "Orientalist Matisse! Odalisque fantasy. Harem decoration. 1920s exoticism. Sensual patterns. That exotic fantasy!"
+  },
+  {
+    "title": "Reclining Odalisque",
+    "artist": "Henri Matisse",
+    "year": 1926,
+    "movement": "Fauvism",
+    "location": "Baltimore Museum of Art",
+    "desc": "Harem woman reclining. Pattern everywhere. Matisse's decorative period. Odalisque series. Sensual decoration. That pattern overload!",
+    "why": "Pattern paradise! Reclining woman. Decorative overload. Matisse's odalisque obsession. Sensual patterns everywhere. That decorative joy!"
+  },
+  {
+    "title": "Still Life with Blue Tablecloth",
+    "artist": "Henri Matisse",
+    "year": 1909,
+    "movement": "Fauvism",
+    "location": "Hermitage Museum, St. Petersburg",
+    "desc": "Objects on blue cloth. Pattern and still life. Matisse's decorative genius. Colour harmony. Fauvism's objects. That blue!",
+    "why": "Blue harmony! Still life decorative. Matisse's colour genius. Objects singing together. Fauvism's harmony. That blue tablecloth!"
+  },
+  {
+    "title": "Interior with Aubergines",
+    "artist": "Henri Matisse",
+    "year": 1911,
+    "movement": "Fauvism",
+    "location": "Musée de Grenoble",
+    "desc": "Room with eggplants. Patterns overwhelming. Decorative interior. Matisse's abundance. Fauvism decorative. Pattern paradise!",
+    "why": "Decorative overload! Eggplants in patterned room. Matisse's abundance. Fauvism's decoration peak. That pattern excess!"
+  },
+  {
+    "title": "Interior with Egyptian Curtain",
+    "artist": "Henri Matisse",
+    "year": 1948,
+    "movement": "Fauvism",
+    "location": "Phillips Collection, Washington DC",
+    "desc": "Late work. Egyptian pattern curtain. Window and palms. Matisse's late interiors. Colour joy maintained. Old age vitality.",
+    "why": "Late Matisse! 78 years old. Still joyful colour. Egyptian pattern. Palms outside. Late vitality. That sustained joy!"
+  },
+  {
+    "title": "Interior at Nice",
+    "artist": "Henri Matisse",
+    "year": 1921,
+    "movement": "Fauvism",
+    "location": "Art Institute of Chicago",
+    "desc": "Nice flat. Mediterranean light. Matisse's Nice period. Light and decoration. South of France joy. That Nice light!",
+    "why": "Nice light! Matisse's Mediterranean years. Flat interior. Southern joy. Light and decoration. That French Riviera vitality!"
+  },
+  {
+    "title": "Woman in Blue",
+    "artist": "Henri Matisse",
+    "year": 1937,
+    "movement": "Fauvism",
+    "location": "Philadelphia Museum of Art",
+    "desc": "Woman in elaborate blue dress. Pattern and figure. Matisse's decorative portraiture. Blue dominating. Fauvism's decoration. That blue dress!",
+    "why": "Blue dominance! Elaborate dress. Decorative portrait. Matisse's pattern genius. Figure becoming decoration. That blue power!"
+  },
+  {
+    "title": "The Romanian Blouse",
+    "artist": "Henri Matisse",
+    "year": 1940,
+    "movement": "Fauvism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Folk costume. Pattern detailed. WWII period. Matisse maintaining joy despite war. Romanian decoration. Ethnic pattern.",
+    "why": "WWII joy maintained! Romanian folk pattern. War's darkness resisted. Matisse's defiance. Pattern against war. That decorative resistance!"
+  },
+  {
+    "title": "Still Life with Magnolia",
+    "artist": "Henri Matisse",
+    "year": 1941,
+    "movement": "Fauvism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Flower and objects. WWII wartime. Joy despite occupation. Matisse's resistance through beauty. Still life defiance. That magnolia hope!",
+    "why": "Beauty despite war! Magnolia blooming. WWII occupation. Matisse's defiance. Still life as resistance. That flower hope!"
+  },
+  {
+    "title": "The Sorrow of the King",
+    "artist": "Henri Matisse",
+    "year": 1952,
+    "movement": "Fauvism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Cut-out final work. King David with harp. Biblical sadness. Late Matisse grief. Cut paper mourning. Final year work.",
+    "why": "Final year! King David's sorrow. Biblical grief. Late Matisse sadness. Cut paper emotion. That final mourning!"
+  },
+  {
+    "title": "Memory of Oceania",
+    "artist": "Henri Matisse",
+    "year": 1953,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cut-out. Tahiti remembered. Late work. Pacific memory. Colour blocks. Final year work. Matisse's last paradise.",
+    "why": "Final year! Tahiti memory. Pacific paradise. Cut paper recollection. Last works. That remembered paradise!"
+  },
+  {
+    "title": "The Parakeet and the Mermaid",
+    "artist": "Henri Matisse",
+    "year": 1952,
+    "movement": "Fauvism",
+    "location": "Stedelijk Museum, Amsterdam",
+    "desc": "Cut-out. Bird and mermaid. Late fantasy. Matisse's late imagination. Cut paper magic. Fantasy maintained.",
+    "why": "Late fantasy! Bird and mermaid. Cut paper magic. Old age imagination. Fantasy sustained. That late wonder!"
+  },
+  {
+    "title": "Large Decoration with Masks",
+    "artist": "Henri Matisse",
+    "year": 1953,
+    "movement": "Fauvism",
+    "location": "National Gallery of Art, Washington DC",
+    "desc": "Cut-out. African masks. Late primitivism. Matisse returning to origins. Cut paper tribute. Final year work.",
+    "why": "Final year! African masks. Primitivism remembered. Matisse's origins. Cut paper tribute. That final primitivism!"
+  },
+  {
+    "title": "Acanthus",
+    "artist": "Henri Matisse",
+    "year": 1953,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cut-out plant forms. Acanthus leaves. Nature simplified. Final year work. Plant energy. Late vitality.",
+    "why": "Final year! Nature forms. Acanthus energy. Late vitality. Plant life. That final natural force!"
+  },
+  {
+    "title": "Apollo",
+    "artist": "Henri Matisse",
+    "year": 1953,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out god. Apollo figure. Greek mythology. Final year work. Divine energy. Late classicism.",
+    "why": "Final year! Greek god. Apollo energy. Late mythology. Divine force. That final classical power!"
+  },
+  {
+    "title": "Creole Dancer",
+    "artist": "Henri Matisse",
+    "year": 1950,
+    "movement": "Fauvism",
+    "location": "Musée Matisse, Nice",
+    "desc": "Cut-out dancer. Caribbean energy. Matisse's exoticism. Dance forms. Cut paper movement. That dance!",
+    "why": "Dance energy! Caribbean movement. Matisse's exoticism. Cut paper dance. That movement sustained!"
+  },
+  {
+    "title": "Chinese Fish",
+    "artist": "Henri Matisse",
+    "year": 1951,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out fish. Asian influence. Matisse's East. Fish forms. Cut paper swimming. That Eastern energy!",
+    "why": "Asian influence! Fish swimming. Eastern forms. Matisse's East. Cut paper swimming. That fish energy!"
+  },
+  {
+    "title": "Polynesia, the Sea",
+    "artist": "Henri Matisse",
+    "year": 1946,
+    "movement": "Fauvism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Cut-out ocean. Pacific memory. Polynesian paradise. Sea and creatures. Cut paper ocean. That remembered sea!",
+    "why": "Pacific paradise! Ocean remembered. Polynesian dream. Cut paper sea. That paradise sustained!"
+  },
+  {
+    "title": "Polynesia, the Sky",
+    "artist": "Henri Matisse",
+    "year": 1946,
+    "movement": "Fauvism",
+    "location": "Centre Pompidou, Paris",
+    "desc": "Cut-out sky. Birds flying. Pacific heavens. Polynesian memory. Cut paper sky. That remembered sky!",
+    "why": "Pacific sky! Birds flying. Polynesian paradise. Cut paper heavens. That sky remembered!"
+  },
+  {
+    "title": "Oceania, the Sea",
+    "artist": "Henri Matisse",
+    "year": 1946,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cut-out ocean forms. Pacific waters. Oceanic memory. Sea creatures. Cut paper paradise. That ocean!",
+    "why": "Oceanic paradise! Sea forms. Pacific memory. Cut paper ocean. That sustained paradise!"
+  },
+  {
+    "title": "Oceania, the Sky",
+    "artist": "Henri Matisse",
+    "year": 1946,
+    "movement": "Fauvism",
+    "location": "MoMA, New York",
+    "desc": "Cut-out sky birds. Pacific heavens. Oceanic dream. Flying forms. Cut paper sky. That remembered flight!",
+    "why": "Sky paradise! Birds flying. Oceanic dream. Cut paper flight. That sustained dream!"
+  },
+  {
+    "title": "Two Masks",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out masks. African forms. Primitive energy. Mask pairs. Cut paper primitivism. That mask power!",
+    "why": "Mask energy! African forms. Primitive power. Cut paper masks. That sustained primitivism!"
+  },
+  {
+    "title": "The Clown",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out circus figure. Jazz series. Clown energy. Performance form. Cut paper joy. That circus!",
+    "why": "Circus joy! Clown form. Jazz series. Performance energy. Cut paper happiness. That clown vitality!"
+  },
+  {
+    "title": "The Codomas",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out acrobats. Circus performers. Jazz series. Flying forms. Cut paper circus. That acrobat energy!",
+    "why": "Acrobat flight! Circus forms. Jazz energy. Flying cut paper. That circus power!"
+  },
+  {
+    "title": "The Knife Thrower",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out circus act. Danger and performance. Jazz series. Throwing form. Cut paper performance. That danger!",
+    "why": "Circus danger! Knife throwing. Jazz series. Performance energy. Cut paper risk. That danger sustained!"
+  },
+  {
+    "title": "The Sword Swallower",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out circus performer. Swallowing danger. Jazz series. Performance form. Cut paper circus. That danger!",
+    "why": "Danger swallowed! Circus performance. Jazz energy. Cut paper danger. That sustained performance!"
+  },
+  {
+    "title": "The Burial of Pierrot",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out funeral. Pierrot character. Jazz series darkness. Death form. Cut paper mourning. That circus end!",
+    "why": "Circus death! Pierrot buried. Jazz series darkness. Cut paper mourning. That death acknowledged!"
+  },
+  {
+    "title": "Forms",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out abstract forms. Pure shapes. Jazz series. Form energy. Cut paper abstraction. That pure form!",
+    "why": "Pure abstraction! Forms alone. Jazz energy. Cut paper shapes. That form power!"
+  },
+  {
+    "title": "Destiny",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out fate figure. Destiny personified. Jazz series. Fate form. Cut paper destiny. That fate!",
+    "why": "Fate personified! Destiny form. Jazz energy. Cut paper fate. That destiny power!"
+  },
+  {
+    "title": "Nightmare of the White Elephant",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out dream. White elephant. Jazz series. Dream form. Cut paper nightmare. That dream!",
+    "why": "Dream elephant! Nightmare form. Jazz energy. Cut paper dream. That nightmare power!"
+  },
+  {
+    "title": "Lagoon",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out water scene. Jazz series. Lagoon forms. Water energy. Cut paper paradise. Aquatic abstraction. That water!",
+    "why": "Lagoon paradise! Water forms. Jazz series. Cut paper water. Aquatic energy. That lagoon vitality!"
+  },
+  {
+    "title": "The Circus",
+    "artist": "Henri Matisse",
+    "year": 1947,
+    "movement": "Fauvism",
+    "location": "Private",
+    "desc": "Cut-out circus scene. Complete performance. Jazz series culmination. All performers together. Cut paper circus world. Final circus statement. That complete circus!",
+    "why": "Complete circus! All performers. Jazz series peak. Cut paper circus world. Performance totality. That circus energy complete!"
+  }
+]
