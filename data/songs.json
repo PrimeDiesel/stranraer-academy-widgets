@@ -112,10 +112,6 @@
     "song": "Hotline Bling"
   },
   {
-    "artist": "Kendrick Lamar",
-    "song": "HUMBLE."
-  },
-  {
     "artist": "Alicia Keys",
     "song": "Fallin'"
   },
@@ -596,16 +592,8 @@
     "song": "Still D.R.E."
   },
   {
-    "artist": "Snoop Dogg",
-    "song": "Gin and Juice"
-  },
-  {
     "artist": "Ice Cube",
     "song": "It Was a Good Day"
-  },
-  {
-    "artist": "N.W.A",
-    "song": "Straight Outta Compton"
   },
   {
     "artist": "Public Enemy",
@@ -1408,10 +1396,6 @@
     "song": "Bad Girlfriend"
   },
   {
-    "artist": "Buckcherry",
-    "song": "Crazy Bitch"
-  },
-  {
     "artist": "Trapt",
     "song": "Headstrong"
   },
@@ -1458,5 +1442,17 @@
   {
     "artist": "Incubus",
     "song": "Drive"
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "song": "Alright"
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Drop It Like It's Hot"
+  },
+  {
+    "artist": "Run-DMC",
+    "song": "It's Tricky"
   }
 ]
