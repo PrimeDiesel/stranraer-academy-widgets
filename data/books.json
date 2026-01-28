@@ -1,0 +1,2557 @@
+[
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "desc": "Bilbo Baggins' unexpected journey with dwarves to reclaim treasure from Smaug the dragon. The perfect introduction to Middle-earth, filled with riddles, adventure, and the discovery of a certain ring. Tolkien's world-building changed fantasy forever.",
+    "classic": "Bilbo Baggins' unexpected journey with dwarves to reclaim treasure from Smaug the dragon. The perfect introduction to Middle-earth, filled with riddles, adventure, and the discovery of a certain ring. Tolkien's world-building changed fantasy forever."
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "desc": "The epic begins as Frodo inherits the One Ring and sets out to destroy it in Mordor. The formation of the Fellowship - nine companions against the Dark Lord Sauron. Tolkien's masterpiece defined modern fantasy.",
+    "classic": "The epic begins as Frodo inherits the One Ring and sets out to destroy it in Mordor. The formation of the Fellowship - nine companions against the Dark Lord Sauron. Tolkien's masterpiece defined modern fantasy."
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "desc": "The Fellowship is broken. Frodo and Sam continue toward Mordor with Gollum as guide, while Aragorn, Legolas, and Gimli aid Rohan against Saruman. The Battle of Helm's Deep is unforgettable.",
+    "classic": "The Fellowship is broken. Frodo and Sam continue toward Mordor with Gollum as guide, while Aragorn, Legolas, and Gimli aid Rohan against Saruman. The Battle of Helm's Deep is unforgettable."
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "desc": "The final battle for Middle-earth. Aragorn claims his throne, the siege of Minas Tirith, and Frodo's final climb up Mount Doom. The perfect ending to the greatest fantasy trilogy ever written.",
+    "classic": "The final battle for Middle-earth. Aragorn claims his throne, the siege of Minas Tirith, and Frodo's final climb up Mount Doom. The perfect ending to the greatest fantasy trilogy ever written."
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "desc": "The creation myths and ancient history of Middle-earth. From the Music of the Ainur to the Fall of Gondolin, Tolkien's epic backstory for his world. For dedicated fans who want the full mythology.",
+    "classic": "The creation myths and ancient history of Middle-earth. From the Music of the Ainur to the Fall of Gondolin, Tolkien's epic backstory for his world. For dedicated fans who want the full mythology."
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Charlie Bucket wins a golden ticket to Willy Wonka's mysterious chocolate factory. Five children, four brats, one winner. Oompa-Loompas, everlasting gobstoppers, and pure imagination. Dahl's most beloved creation.",
+    "classic": "Charlie Bucket wins a golden ticket to Willy Wonka's mysterious chocolate factory. Five children, four brats, one winner. Oompa-Loompas, everlasting gobstoppers, and pure imagination. Dahl's most beloved creation."
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "A brilliant girl with telekinetic powers takes on her ignorant parents and tyrannical headmistress Miss Trunchbull. Celebrates intelligence, books, and standing up to bullies. Matilda's library love is inspiring.",
+    "classic": "A brilliant girl with telekinetic powers takes on her ignorant parents and tyrannical headmistress Miss Trunchbull. Celebrates intelligence, books, and standing up to bullies. Matilda's library love is inspiring."
+  },
+  {
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Sophie is kidnapped by the Big Friendly Giant who catches dreams and speaks in wonderful malapropisms. Together they stop the child-eating giants. Whizzpopping wonderful wordplay and genuine heart.",
+    "classic": "Sophie is kidnapped by the Big Friendly Giant who catches dreams and speaks in wonderful malapropisms. Together they stop the child-eating giants. Whizzpopping wonderful wordplay and genuine heart."
+  },
+  {
+    "title": "James and the Giant Peach",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Orphan James escapes his awful aunts inside a magical giant peach with insect friends. Surreal adventure across the Atlantic. Pure Dahl imagination - dark beginnings, magical middle, triumphant ending.",
+    "classic": "Orphan James escapes his awful aunts inside a magical giant peach with insect friends. Surreal adventure across the Atlantic. Pure Dahl imagination - dark beginnings, magical middle, triumphant ending."
+  },
+  {
+    "title": "The Witches",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "A boy and his grandmother battle witches who plan to turn all children into mice. Genuinely scary but ultimately triumphant. Dahl's darkest children's book - witches with square feet and no toes!",
+    "classic": "A boy and his grandmother battle witches who plan to turn all children into mice. Genuinely scary but ultimately triumphant. Dahl's darkest children's book - witches with square feet and no toes!"
+  },
+  {
+    "title": "Fantastic Mr Fox",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Clever Mr. Fox outwits three horrible farmers - Boggis, Bunce, and Bean. Underground tunnels, family loyalty, and triumph of cunning over cruelty. Short, perfect, and infinitely rereadable.",
+    "classic": "Clever Mr. Fox outwits three horrible farmers - Boggis, Bunce, and Bean. Underground tunnels, family loyalty, and triumph of cunning over cruelty. Short, perfect, and infinitely rereadable."
+  },
+  {
+    "title": "Danny the Champion of the World",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Danny and his father live in a caravan and poach pheasants from the horrible Mr. Hazell. A beautiful father-son story. Dahl called it his favorite of all his books.",
+    "classic": "Danny and his father live in a caravan and poach pheasants from the horrible Mr. Hazell. A beautiful father-son story. Dahl called it his favorite of all his books."
+  },
+  {
+    "title": "George's Marvellous Medicine",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "George creates a magical medicine to deal with his horrible grandmother. She grows to giant size! Anarchic, funny, and deeply satisfying wish-fulfillment for kids with difficult relatives.",
+    "classic": "George creates a magical medicine to deal with his horrible grandmother. She grows to giant size! Anarchic, funny, and deeply satisfying wish-fulfillment for kids with difficult relatives."
+  },
+  {
+    "title": "The Twits",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Mr. and Mrs. Twit are the most disgusting couple in the world. They torture animals and each other. The Muggle-Wumps and the Roly-Poly Bird get revenge. Short, hilarious, and gloriously gross.",
+    "classic": "Mr. and Mrs. Twit are the most disgusting couple in the world. They torture animals and each other. The Muggle-Wumps and the Roly-Poly Bird get revenge. Short, hilarious, and gloriously gross."
+  },
+  {
+    "title": "Esio Trot",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "desc": "Shy Mr. Hoppy loves Mrs. Silver who loves her tortoise Alfie. Mr. Hoppy's elaborate plan to win her heart is sweet and clever. Dahl's gentlest story - pure romance for all ages.",
+    "classic": "Shy Mr. Hoppy loves Mrs. Silver who loves her tortoise Alfie. Mr. Hoppy's elaborate plan to win her heart is sweet and clever. Dahl's gentlest story - pure romance for all ages."
+  },
+  {
+    "title": "Sharpe's Rifles",
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction",
+    "desc": "Richard Sharpe's first adventure as an officer during the Peninsular War. From the ranks to Lieutenant through courage and cunning. Cornwell's authentic battle scenes and compelling anti-hero begin here.",
+    "classic": "Richard Sharpe's first adventure as an officer during the Peninsular War. From the ranks to Lieutenant through courage and cunning. Cornwell's authentic battle scenes and compelling anti-hero begin here."
+  },
+  {
+    "title": "Sharpe's Eagle",
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction",
+    "desc": "Sharpe captures a French Imperial Eagle at the Battle of Talavera. Incompetent British officers, French cavalry charges, and Sharpe's determination to prove himself. Napoleonic warfare at its finest.",
+    "classic": "Sharpe captures a French Imperial Eagle at the Battle of Talavera. Incompetent British officers, French cavalry charges, and Sharpe's determination to prove himself. Napoleonic warfare at its finest."
+  },
+  {
+    "title": "Sharpe's Gold",
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction",
+    "desc": "Sharpe's mission to find hidden Spanish gold behind enemy lines. Guerrilla warfare, treasure hunts, and survival against overwhelming odds. Adventure and history perfectly blended.",
+    "classic": "Sharpe's mission to find hidden Spanish gold behind enemy lines. Guerrilla warfare, treasure hunts, and survival against overwhelming odds. Adventure and history perfectly blended."
+  },
+  {
+    "title": "Sharpe's Company",
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction",
+    "desc": "The siege of Badajoz - one of the bloodiest battles of the Napoleonic Wars. Sharpe leads the Forlorn Hope in the desperate assault. Cornwell's most intense and brutal novel.",
+    "classic": "The siege of Badajoz - one of the bloodiest battles of the Napoleonic Wars. Sharpe leads the Forlorn Hope in the desperate assault. Cornwell's most intense and brutal novel."
+  },
+  {
+    "title": "Sharpe's Sword",
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction",
+    "desc": "Sharpe hunts a French spy at the Battle of Salamanca. Espionage, romance, and Wellington's greatest victory. The cavalry charge at Salamanca is spectacularly described.",
+    "classic": "Sharpe hunts a French spy at the Battle of Salamanca. Espionage, romance, and Wellington's greatest victory. The cavalry charge at Salamanca is spectacularly described."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "The boy who lived discovers he's a wizard on his 11th birthday. Hogwarts, Quidditch, friendship, and facing Voldemort. Rowling created a magical world that reignited global love of reading.",
+    "classic": "The boy who lived discovers he's a wizard on his 11th birthday. Hogwarts, Quidditch, friendship, and facing Voldemort. Rowling created a magical world that reignited global love of reading."
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "Something is petrifying students at Hogwarts. Harry hears voices in the walls and discovers he can speak Parseltongue. The mystery of Tom Riddle's diary and the Basilisk in the Chamber.",
+    "classic": "Something is petrifying students at Hogwarts. Harry hears voices in the walls and discovers he can speak Parseltongue. The mystery of Tom Riddle's diary and the Basilisk in the Chamber."
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "Sirius Black has escaped from Azkaban! Time-turners, Patronuses, werewolves, and the revelation that changes everything. Many fans' favorite - darker, more complex, brilliantly plotted.",
+    "classic": "Sirius Black has escaped from Azkaban! Time-turners, Patronuses, werewolves, and the revelation that changes everything. Many fans' favorite - darker, more complex, brilliantly plotted."
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "The Triwizard Tournament brings danger to Hogwarts. Harry faces dragons, merpeople, and a maze. The graveyard scene where Voldemort returns is terrifying. The series gets serious.",
+    "classic": "The Triwizard Tournament brings danger to Hogwarts. Harry faces dragons, merpeople, and a maze. The graveyard scene where Voldemort returns is terrifying. The series gets serious."
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "Harry's angriest year. Umbridge tortures students, Dumbledore's Army forms in secret, and the prophecy is revealed. The Battle of the Department of Mysteries and Sirius's death devastate.",
+    "classic": "Harry's angriest year. Umbridge tortures students, Dumbledore's Army forms in secret, and the prophecy is revealed. The Battle of the Department of Mysteries and Sirius's death devastate."
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "Harry learns about Horcruxes through Dumbledore's memories of Tom Riddle. The Half-Blood Prince's potions book, teenage romance, and Snape's ultimate betrayal on the Astronomy Tower.",
+    "classic": "Harry learns about Horcruxes through Dumbledore's memories of Tom Riddle. The Half-Blood Prince's potions book, teenage romance, and Snape's ultimate betrayal on the Astronomy Tower."
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "desc": "The final battle for the wizarding world. Horcrux hunting, the Deathly Hallows, sacrifices at Hogwarts, and the truth about Snape. \"Always.\" The perfect ending to an epic series.",
+    "classic": "The final battle for the wizarding world. Horcrux hunting, the Deathly Hallows, sacrifices at Hogwarts, and the truth about Snape. \"Always.\" The perfect ending to an epic series."
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "desc": "Jim Hawkins finds a treasure map and sails with pirates. Long John Silver, parrots, buried treasure, and mutiny. The definitive pirate adventure that created every trope we know.",
+    "classic": "Jim Hawkins finds a treasure map and sails with pirates. Long John Silver, parrots, buried treasure, and mutiny. The definitive pirate adventure that created every trope we know."
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "genre": "Adventure",
+    "desc": "Shipwrecked on a deserted island for 28 years. Crusoe's survival, Friday's rescue, and eventual return home. The original survival story that inspired countless others.",
+    "classic": "Shipwrecked on a deserted island for 28 years. Crusoe's survival, Friday's rescue, and eventual return home. The original survival story that inspired countless others."
+  },
+  {
+    "title": "The Swiss Family Robinson",
+    "author": "Johann David Wyss",
+    "genre": "Adventure",
+    "desc": "A family shipwrecked builds an amazing treehouse life. Ingenious survival solutions, exotic animals, and family adventure. Victorian ingenuity and optimism at its finest.",
+    "classic": "A family shipwrecked builds an amazing treehouse life. Ingenious survival solutions, exotic animals, and family adventure. Victorian ingenuity and optimism at its finest."
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "desc": "David Balfour is betrayed and kidnapped. Scottish Highland adventure, the murder of the Red Fox, and friendship with Alan Breck Stewart. Historical adventure perfection.",
+    "classic": "David Balfour is betrayed and kidnapped. Scottish Highland adventure, the murder of the Red Fox, and friendship with Alan Breck Stewart. Historical adventure perfection."
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "desc": "Edmond Dantès is wrongfully imprisoned for 14 years, escapes, finds treasure, and executes perfect revenge. The greatest revenge story ever told. Epic in every sense.",
+    "classic": "Edmond Dantès is wrongfully imprisoned for 14 years, escapes, finds treasure, and executes perfect revenge. The greatest revenge story ever told. Epic in every sense."
+  },
+  {
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "desc": "D'Artagnan joins the King's Musketeers - Athos, Porthos, and Aramis. \"All for one and one for all!\" Swordfights, romance, intrigue at the French court. Swashbuckling perfection.",
+    "classic": "D'Artagnan joins the King's Musketeers - Athos, Porthos, and Aramis. \"All for one and one for all!\" Swordfights, romance, intrigue at the French court. Swashbuckling perfection."
+  },
+  {
+    "title": "The Man in the Iron Mask",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "desc": "The final Musketeers adventure. A mysterious prisoner in an iron mask, Louis XIV's twin brother, and one last mission. The aging heroes' final stand is deeply moving.",
+    "classic": "The final Musketeers adventure. A mysterious prisoner in an iron mask, Louis XIV's twin brother, and one last mission. The aging heroes' final stand is deeply moving."
+  },
+  {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "desc": "Captain Nemo's submarine Nautilus explores the world's oceans. Giant squid, underwater forests, lost Atlantis. Verne predicted submarines decades before they existed.",
+    "classic": "Captain Nemo's submarine Nautilus explores the world's oceans. Giant squid, underwater forests, lost Atlantis. Verne predicted submarines decades before they existed."
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "desc": "Phileas Fogg bets he can circumnavigate the globe in 80 days. Racing against time by train, ship, and elephant. The ultimate travelogue and adventure against the clock.",
+    "classic": "Phileas Fogg bets he can circumnavigate the globe in 80 days. Racing against time by train, ship, and elephant. The ultimate travelogue and adventure against the clock."
+  },
+  {
+    "title": "Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "desc": "Professor Lidenbrock and his nephew descend into an Icelandic volcano to explore the earth's interior. Prehistoric creatures, underground oceans, and scientific adventure.",
+    "classic": "Professor Lidenbrock and his nephew descend into an Icelandic volcano to explore the earth's interior. Prehistoric creatures, underground oceans, and scientific adventure."
+  },
+  {
+    "title": "The Mysterious Island",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "desc": "Union prisoners escape in a hot air balloon and crash on a Pacific island. Using science and ingenuity to build civilization. Captain Nemo makes a surprise appearance!",
+    "classic": "Union prisoners escape in a hot air balloon and crash on a Pacific island. Using science and ingenuity to build civilization. Captain Nemo makes a surprise appearance!"
+  },
+  {
+    "title": "From the Earth to the Moon",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "desc": "The Baltimore Gun Club builds a giant cannon to shoot three men to the moon. Verne's incredibly accurate prediction of space travel a century early.",
+    "classic": "The Baltimore Gun Club builds a giant cannon to shoot three men to the moon. Verne's incredibly accurate prediction of space travel a century early."
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "desc": "Martians invade Victorian England with heat-rays and tripods. The narrator's desperate survival and humanity's near-extinction. The first great alien invasion story.",
+    "classic": "Martians invade Victorian England with heat-rays and tripods. The narrator's desperate survival and humanity's near-extinction. The first great alien invasion story."
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "desc": "The Time Traveller journeys to the year 802,701 and discovers humanity has split into Eloi and Morlocks. Haunting vision of evolution and class divide. Time travel invented here.",
+    "classic": "The Time Traveller journeys to the year 802,701 and discovers humanity has split into Eloi and Morlocks. Haunting vision of evolution and class divide. Time travel invented here."
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "desc": "Griffin discovers invisibility but descends into madness and violence. The price of unchecked scientific ambition. Wells's darkest exploration of science without ethics.",
+    "classic": "Griffin discovers invisibility but descends into madness and violence. The price of unchecked scientific ambition. Wells's darkest exploration of science without ethics."
+  },
+  {
+    "title": "The Island of Doctor Moreau",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "desc": "Shipwrecked Prendick discovers Moreau's island where animals are surgically transformed into humans. Horrifying exploration of vivisection and playing God.",
+    "classic": "Shipwrecked Prendick discovers Moreau's island where animals are surgically transformed into humans. Horrifying exploration of vivisection and playing God."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "desc": "Count Dracula comes to England. Jonathan Harker's escape from Castle Dracula, Lucy's transformation, Van Helsing's vampire hunt. The vampire novel that defined all others.",
+    "classic": "Count Dracula comes to England. Jonathan Harker's escape from Castle Dracula, Lucy's transformation, Van Helsing's vampire hunt. The vampire novel that defined all others."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "desc": "Victor Frankenstein creates life and abandons his creature. The monster's tragic search for acceptance and revenge. Written at 18, Shelley created science fiction and explored what makes us human.",
+    "classic": "Victor Frankenstein creates life and abandons his creature. The monster's tragic search for acceptance and revenge. Written at 18, Shelley created science fiction and explored what makes us human."
+  },
+  {
+    "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Horror",
+    "desc": "Dr. Jekyll's potion transforms him into the evil Mr. Hyde. The duality of human nature explored through Victorian London fog and violence. A psychological horror masterpiece.",
+    "classic": "Dr. Jekyll's potion transforms him into the evil Mr. Hyde. The duality of human nature explored through Victorian London fog and violence. A psychological horror masterpiece."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Horror",
+    "desc": "Dorian's portrait ages while he stays young and beautiful, growing corrupt and evil. Wilde's only novel is brilliant horror about vanity, art, and the price of immorality.",
+    "classic": "Dorian's portrait ages while he stays young and beautiful, growing corrupt and evil. Wilde's only novel is brilliant horror about vanity, art, and the price of immorality."
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "Horror",
+    "desc": "A governess sees ghosts at a remote estate. Are they real or is she mad? James's ambiguous ghost story is psychological horror at its finest.",
+    "classic": "A governess sees ghosts at a remote estate. Are they real or is she mad? James's ambiguous ghost story is psychological horror at its finest."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "desc": "Elizabeth Bennet and Mr. Darcy overcome pride and prejudice to find love. The most famous romance in English literature. Austen's wit, social commentary, and perfect plotting never get old.",
+    "classic": "Elizabeth Bennet and Mr. Darcy overcome pride and prejudice to find love. The most famous romance in English literature. Austen's wit, social commentary, and perfect plotting never get old."
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "desc": "Emma Woodhouse meddles in everyone's love life while missing her own. Austen's most perfectly constructed comedy. Emma's journey from matchmaker to self-awareness is delightful.",
+    "classic": "Emma Woodhouse meddles in everyone's love life while missing her own. Austen's most perfectly constructed comedy. Emma's journey from matchmaker to self-awareness is delightful."
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "desc": "The Dashwood sisters - practical Elinor and romantic Marianne - navigate love and loss. Austen explores the balance between emotion and reason with trademark wit.",
+    "classic": "The Dashwood sisters - practical Elinor and romantic Marianne - navigate love and loss. Austen explores the balance between emotion and reason with trademark wit."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "desc": "Jane's journey from orphan to governess to Rochester's almost-bride. \"Reader, I married him.\" Gothic romance with a strong feminist heroine. The madwoman in the attic is unforgettable.",
+    "classic": "Jane's journey from orphan to governess to Rochester's almost-bride. \"Reader, I married him.\" Gothic romance with a strong feminist heroine. The madwoman in the attic is unforgettable."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Romance",
+    "desc": "Heathcliff and Catherine's destructive passion spans generations on the Yorkshire moors. Dark, violent, obsessive love. Nothing else in literature is quite like it.",
+    "classic": "Heathcliff and Catherine's destructive passion spans generations on the Yorkshire moors. Dark, violent, obsessive love. Nothing else in literature is quite like it."
+  },
+  {
+    "title": "The Tenant of Wildfell Hall",
+    "author": "Anne Brontë",
+    "genre": "Romance",
+    "desc": "Helen flees her abusive husband with her son. A shocking portrayal of domestic abuse and alcoholism for 1848. Anne Brontë's brave, feminist novel deserves more recognition.",
+    "classic": "Helen flees her abusive husband with her son. A shocking portrayal of domestic abuse and alcoholism for 1848. Anne Brontë's brave, feminist novel deserves more recognition."
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "desc": "Pip's journey from forge to gentleman, driven by mysterious expectations. Miss Havisham in her wedding dress, Magwitch the convict, and Estella's cold beauty. Dickens's most personal novel.",
+    "classic": "Pip's journey from forge to gentleman, driven by mysterious expectations. Miss Havisham in her wedding dress, Magwitch the convict, and Estella's cold beauty. Dickens's most personal novel."
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "desc": "Dickens's favorite of his own novels. David's journey from childhood to author mirrors Dickens's life. Micawber, Uriah Heep, and \"Barkis is willin'\" are immortal characters.",
+    "classic": "Dickens's favorite of his own novels. David's journey from childhood to author mirrors Dickens's life. Micawber, Uriah Heep, and \"Barkis is willin'\" are immortal characters."
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "desc": "\"Please sir, I want some more.\" Orphan Oliver escapes the workhouse only to fall in with Fagin's gang of thieves. Dickens exposes Victorian poverty and child exploitation.",
+    "classic": "\"Please sir, I want some more.\" Orphan Oliver escapes the workhouse only to fall in with Fagin's gang of thieves. Dickens exposes Victorian poverty and child exploitation."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "desc": "\"It was the best of times, it was the worst of times.\" London and Paris during the French Revolution. Sydney Carton's sacrifice at the guillotine is deeply moving.",
+    "classic": "\"It was the best of times, it was the worst of times.\" London and Paris during the French Revolution. Sydney Carton's sacrifice at the guillotine is deeply moving."
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "desc": "Scrooge's transformation from miser to benefactor through visits from three ghosts. \"God bless us, every one!\" Dickens defined the spirit of Christmas. Tiny Tim, Bob Cratchit, and redemption.",
+    "classic": "Scrooge's transformation from miser to benefactor through visits from three ghosts. \"God bless us, every one!\" Dickens defined the spirit of Christmas. Tiny Tim, Bob Cratchit, and redemption."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "desc": "Big Brother is watching. Winston Smith rebels in a totalitarian state where thought is crime. Room 101, Thought Police, doublespink, and \"War is Peace.\" Orwell's nightmare vision warns of surveillance and truth manipulation.",
+    "classic": "Big Brother is watching. Winston Smith rebels in a totalitarian state where thought is crime. Room 101, Thought Police, doublespink, and \"War is Peace.\" Orwell's nightmare vision warns of surveillance and truth manipulation."
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Satire",
+    "desc": "\"All animals are equal, but some animals are more equal than others.\" Farm animals revolt against humans then descend into tyranny. Orwell's brilliant allegory of Soviet totalitarianism.",
+    "classic": "\"All animals are equal, but some animals are more equal than others.\" Farm animals revolt against humans then descend into tyranny. Orwell's brilliant allegory of Soviet totalitarianism."
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "genre": "Fiction",
+    "desc": "British schoolboys stranded on an island descend from civilization into savagery. Ralph, Piggy, Jack, and the Beast. Golding's dark exploration of human nature - we're all capable of evil.",
+    "classic": "British schoolboys stranded on an island descend from civilization into savagery. Ralph, Piggy, Jack, and the Beast. Golding's dark exploration of human nature - we're all capable of evil."
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "Four children enter Narnia through a wardrobe. \"Always winter but never Christmas\" until Aslan returns. Turkish Delight, talking animals, and Aslan's sacrifice. Magic, allegory, and adventure perfectly blended.",
+    "classic": "Four children enter Narnia through a wardrobe. \"Always winter but never Christmas\" until Aslan returns. Turkish Delight, talking animals, and Aslan's sacrifice. Magic, allegory, and adventure perfectly blended."
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "The Pevensies return to find centuries have passed. Prince Caspian fights to reclaim Narnia from his uncle. The Old Narnians - dwarfs, fauns, and talking beasts - need saving again.",
+    "classic": "The Pevensies return to find centuries have passed. Prince Caspian fights to reclaim Narnia from his uncle. The Old Narnians - dwarfs, fauns, and talking beasts - need saving again."
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "Lucy, Edmund, and annoying cousin Eustace sail to the End of the World. Islands of adventure, Eustace's dragon transformation, and the search for seven lost lords. Many fans' favorite Narnia book.",
+    "classic": "Lucy, Edmund, and annoying cousin Eustace sail to the End of the World. Islands of adventure, Eustace's dragon transformation, and the search for seven lost lords. Many fans' favorite Narnia book."
+  },
+  {
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "Eustace and Jill search for missing Prince Rilian in the underground realm. Puddleglum the Marshwiggle is one of Lewis's best creations. Dark, atmospheric, brilliant.",
+    "classic": "Eustace and Jill search for missing Prince Rilian in the underground realm. Puddleglum the Marshwiggle is one of Lewis's best creations. Dark, atmospheric, brilliant."
+  },
+  {
+    "title": "The Horse and His Boy",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "Shasta and talking horse Bree escape slavery and discover Shasta's true identity. Adventure in Calormen and a desperate ride to save Narnia. Exciting standalone story.",
+    "classic": "Shasta and talking horse Bree escape slavery and discover Shasta's true identity. Adventure in Calormen and a desperate ride to save Narnia. Exciting standalone story."
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "The creation of Narnia! Digory and Polly witness Aslan singing the world into existence. How the lamppost got there, the origin of the White Witch. Prequel brilliance.",
+    "classic": "The creation of Narnia! Digory and Polly witness Aslan singing the world into existence. How the lamppost got there, the origin of the White Witch. Prequel brilliance."
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "desc": "Narnia's end times. The false Aslan, the stable door, and \"further up and further in!\" The apocalyptic finale to the series - sad, triumphant, and deeply theological.",
+    "classic": "Narnia's end times. The false Aslan, the stable door, and \"further up and further in!\" The apocalyptic finale to the series - sad, triumphant, and deeply theological."
+  },
+  {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "Rincewind the wizard and Twoflower the tourist explore the Discworld. Pratchett's first novel introduces the flat world carried by four elephants on a giant turtle. Hilarious fantasy satire begins.",
+    "classic": "Rincewind the wizard and Twoflower the tourist explore the Discworld. Pratchett's first novel introduces the flat world carried by four elephants on a giant turtle. Hilarious fantasy satire begins."
+  },
+  {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "Mort becomes Death's apprentice but falls for a princess who's supposed to die. Pratchett's breakthrough novel - funny, philosophical, and touching. Death becomes one of literature's best characters.",
+    "classic": "Mort becomes Death's apprentice but falls for a princess who's supposed to die. Pratchett's breakthrough novel - funny, philosophical, and touching. Death becomes one of literature's best characters."
+  },
+  {
+    "title": "Guards! Guards!",
+    "author": "Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "The Ankh-Morpork City Watch versus a dragon. Introduces Sam Vimes, Carrot, and the best police procedural in fantasy. Pratchett's masterful blend of comedy and social commentary.",
+    "classic": "The Ankh-Morpork City Watch versus a dragon. Introduces Sam Vimes, Carrot, and the best police procedural in fantasy. Pratchett's masterful blend of comedy and social commentary."
+  },
+  {
+    "title": "Small Gods",
+    "author": "Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "The Great God Om is reduced to a tortoise with one believer. Pratchett's brilliant satire of organized religion, faith, and the nature of belief. Standalone Discworld masterpiece.",
+    "classic": "The Great God Om is reduced to a tortoise with one believer. Pratchett's brilliant satire of organized religion, faith, and the nature of belief. Standalone Discworld masterpiece."
+  },
+  {
+    "title": "Going Postal",
+    "author": "Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "Con man Moist von Lipwig must revive the Post Office. Victorian technology meets fantasy. Pratchett's later work shows his mastery - funny, clever, and surprisingly moving.",
+    "classic": "Con man Moist von Lipwig must revive the Post Office. Victorian technology meets fantasy. Pratchett's later work shows his mastery - funny, clever, and surprisingly moving."
+  },
+  {
+    "title": "Northern Lights (The Golden Compass)",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "desc": "Lyra Belacqua and her daemon Pantalaimon adventure to the Arctic to rescue kidnapped children. Armoured bears, witches, and the mysterious Dust. Dark, complex, brilliant.",
+    "classic": "Lyra Belacqua and her daemon Pantalaimon adventure to the Arctic to rescue kidnapped children. Armoured bears, witches, and the mysterious Dust. Dark, complex, brilliant."
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "desc": "Lyra meets Will who possesses a knife that cuts between worlds. The war escalates, and the children's role becomes clear. Pullman's darkest, most complex middle volume.",
+    "classic": "Lyra meets Will who possesses a knife that cuts between worlds. The war escalates, and the children's role becomes clear. Pullman's darkest, most complex middle volume."
+  },
+  {
+    "title": "The Amber Spyglass",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "desc": "The final battle against the Authority. Lyra and Will journey to the Land of the Dead. Pullman's controversial, moving conclusion - love, sacrifice, and growing up.",
+    "classic": "The final battle against the Authority. Lyra and Will journey to the Land of the Dead. Pullman's controversial, moving conclusion - love, sacrifice, and growing up."
+  },
+  {
+    "title": "Artemis Fowl",
+    "author": "Eoin Colfer",
+    "genre": "Fantasy",
+    "desc": "12-year-old criminal mastermind Artemis kidnaps a fairy for ransom. High-tech fantasy mixing Irish folklore with sci-fi gadgets. Fast, funny, and clever.",
+    "classic": "12-year-old criminal mastermind Artemis kidnaps a fairy for ransom. High-tech fantasy mixing Irish folklore with sci-fi gadgets. Fast, funny, and clever."
+  },
+  {
+    "title": "Artemis Fowl: The Arctic Incident",
+    "author": "Eoin Colfer",
+    "genre": "Fantasy",
+    "desc": "Artemis teams with Holly Short to rescue his father from the Russian Mafia. The Artemis-Holly partnership begins. Action-packed sequel.",
+    "classic": "Artemis teams with Holly Short to rescue his father from the Russian Mafia. The Artemis-Holly partnership begins. Action-packed sequel."
+  },
+  {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "desc": "Percy Jackson discovers he's a demigod - son of Poseidon. Greek gods in modern America! Quest to prevent a war between Zeus, Poseidon, and Hades. Adventure, humor, and mythology.",
+    "classic": "Percy Jackson discovers he's a demigod - son of Poseidon. Greek gods in modern America! Quest to prevent a war between Zeus, Poseidon, and Hades. Adventure, humor, and mythology."
+  },
+  {
+    "title": "The Sea of Monsters",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "desc": "Percy's quest to find the Golden Fleece to save Camp Half-Blood. Cyclops brother Tyson joins the adventure. Greek myths reimagined brilliantly.",
+    "classic": "Percy's quest to find the Golden Fleece to save Camp Half-Blood. Cyclops brother Tyson joins the adventure. Greek myths reimagined brilliantly."
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "desc": "Katniss volunteers for the deadly Hunger Games to save her sister. 24 tributes, one survivor. Collins's critique of reality TV and totalitarianism captivated millions. \"May the odds be ever in your favor.\"",
+    "classic": "Katniss volunteers for the deadly Hunger Games to save her sister. 24 tributes, one survivor. Collins's critique of reality TV and totalitarianism captivated millions. \"May the odds be ever in your favor.\""
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "desc": "The Quarter Quell forces Katniss back into the arena with past victors. The rebellion begins to spark. The best book in the trilogy - tense, clever, explosive ending.",
+    "classic": "The Quarter Quell forces Katniss back into the arena with past victors. The rebellion begins to spark. The best book in the trilogy - tense, clever, explosive ending."
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "desc": "Katniss becomes the Mockingjay - symbol of the rebellion against the Capitol. War, propaganda, and the cost of revolution. Dark, challenging conclusion that doesn't shy from consequences.",
+    "classic": "Katniss becomes the Mockingjay - symbol of the rebellion against the Capitol. War, propaganda, and the cost of revolution. Dark, challenging conclusion that doesn't shy from consequences."
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "genre": "Dystopian",
+    "desc": "Tris chooses Dauntless faction and discovers she's Divergent - dangerous in a society demanding conformity. Initiation, Four, and rebellion. Fast-paced dystopian thriller.",
+    "classic": "Tris chooses Dauntless faction and discovers she's Divergent - dangerous in a society demanding conformity. Initiation, Four, and rebellion. Fast-paced dystopian thriller."
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "desc": "Thomas wakes in the Glade surrounded by a deadly maze. Gladers search for escape while fighting mysterious Grievers. Post-apocalyptic mystery with relentless tension.",
+    "classic": "Thomas wakes in the Glade surrounded by a deadly maze. Gladers search for escape while fighting mysterious Grievers. Post-apocalyptic mystery with relentless tension."
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "YA Fiction",
+    "desc": "Hazel and Gus fall in love while battling cancer. Amsterdam, Peter Van Houten, and \"Okay? Okay.\" Heartbreaking, funny, and beautifully written. Green makes tragedy meaningful.",
+    "classic": "Hazel and Gus fall in love while battling cancer. Amsterdam, Peter Van Houten, and \"Okay? Okay.\" Heartbreaking, funny, and beautifully written. Green makes tragedy meaningful."
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "genre": "YA Fiction",
+    "desc": "Miles goes to boarding school and meets the enigmatic Alaska Young. Before and After. A tragedy changes everything. Green's debut explores grief, guilt, and forgiveness.",
+    "classic": "Miles goes to boarding school and meets the enigmatic Alaska Young. Before and After. A tragedy changes everything. Green's debut explores grief, guilt, and forgiveness."
+  },
+  {
+    "title": "Paper Towns",
+    "author": "John Green",
+    "genre": "YA Fiction",
+    "desc": "Quentin follows clues left by his crush Margo who's disappeared. Road trip to find her and himself. Green's meditation on seeing people as they really are, not as we imagine them.",
+    "classic": "Quentin follows clues left by his crush Margo who's disappeared. Road trip to find her and himself. Green's meditation on seeing people as they really are, not as we imagine them."
+  },
+  {
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "genre": "YA Fiction",
+    "desc": "Two misfits fall in love on the school bus in 1986. Comics, mixtapes, and first love against family struggles. Raw, real, and beautiful.",
+    "classic": "Two misfits fall in love on the school bus in 1986. Comics, mixtapes, and first love against family struggles. Raw, real, and beautiful."
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "genre": "Children's",
+    "desc": "Max sails to the land of Wild Things and becomes their king. A picture book about imagination, anger, and unconditional love. Sendak's masterpiece in minimal words.",
+    "classic": "Max sails to the land of Wild Things and becomes their king. A picture book about imagination, anger, and unconditional love. Sendak's masterpiece in minimal words."
+  },
+  {
+    "title": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "genre": "Children's",
+    "desc": "A tree loves a boy and gives everything. Controversial - selfless love or exploitation? Silverstein's simple story sparks endless debate about relationships and sacrifice.",
+    "classic": "A tree loves a boy and gives everything. Controversial - selfless love or exploitation? Silverstein's simple story sparks endless debate about relationships and sacrifice."
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "genre": "Children's",
+    "desc": "A caterpillar eats through the week and transforms into a butterfly. Carle's colorful collage art and simple story teach counting, days, and metamorphosis. Beloved for 50+ years.",
+    "classic": "A caterpillar eats through the week and transforms into a butterfly. Carle's colorful collage art and simple story teach counting, days, and metamorphosis. Beloved for 50+ years."
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "genre": "Children's",
+    "desc": "Naughty Peter disobeys his mother and raids Mr. McGregor's garden. Nearly becomes rabbit pie! Potter's watercolors and gentle storytelling created the modern picture book.",
+    "classic": "Naughty Peter disobeys his mother and raids Mr. McGregor's garden. Nearly becomes rabbit pie! Potter's watercolors and gentle storytelling created the modern picture book."
+  },
+  {
+    "title": "Winnie-the-Pooh",
+    "author": "A.A. Milne",
+    "genre": "Children's",
+    "desc": "Pooh Bear and friends in the Hundred Acre Wood. Honey, Eeyore's gloom, Piglet's bravery, and Tigger's bouncing. Milne's gentle stories hide surprising wisdom about friendship and life.",
+    "classic": "Pooh Bear and friends in the Hundred Acre Wood. Honey, Eeyore's gloom, Piglet's bravery, and Tigger's bouncing. Milne's gentle stories hide surprising wisdom about friendship and life."
+  },
+  {
+    "title": "The House at Pooh Corner",
+    "author": "A.A. Milne",
+    "genre": "Children's",
+    "desc": "More Pooh adventures including Tigger's arrival. Christopher Robin's farewell as he grows up is one of literature's most poignant endings. \"You're braver than you believe.\"",
+    "classic": "More Pooh adventures including Tigger's arrival. Christopher Robin's farewell as he grows up is one of literature's most poignant endings. \"You're braver than you believe.\""
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "genre": "Children's",
+    "desc": "Mole, Rat, Badger, and Toad's adventures along the riverbank. Toad's wild ride, Badger's wisdom, and \"messing about in boats.\" Captures English countryside and friendship beautifully.",
+    "classic": "Mole, Rat, Badger, and Toad's adventures along the riverbank. Toad's wild ride, Badger's wisdom, and \"messing about in boats.\" Captures English countryside and friendship beautifully."
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "genre": "Children's",
+    "desc": "Spider Charlotte saves Wilbur the pig by writing words in her web. \"Some Pig.\" \"Radiant.\" \"Humble.\" Friendship, death, and life's cycle told with humor and heart. Timeless.",
+    "classic": "Spider Charlotte saves Wilbur the pig by writing words in her web. \"Some Pig.\" \"Radiant.\" \"Humble.\" Friendship, death, and life's cycle told with humor and heart. Timeless."
+  },
+  {
+    "title": "Stuart Little",
+    "author": "E.B. White",
+    "genre": "Children's",
+    "desc": "A mouse born to human parents has adventures in New York. Stuart's car, Margalo the bird, and the journey north. White's first novel is charming and slightly melancholy.",
+    "classic": "A mouse born to human parents has adventures in New York. Stuart's car, Margalo the bird, and the journey north. White's first novel is charming and slightly melancholy."
+  },
+  {
+    "title": "The Trumpet of the Swan",
+    "author": "E.B. White",
+    "genre": "Children's",
+    "desc": "Louis the swan is born without a voice. His father steals a trumpet so Louis can sing. White's last novel is gentle, funny, and touching.",
+    "classic": "Louis the swan is born without a voice. His father steals a trumpet so Louis can sing. White's last novel is gentle, funny, and touching."
+  },
+  {
+    "title": "Ramona the Pest",
+    "author": "Beverly Cleary",
+    "genre": "Children's",
+    "desc": "Ramona Quimby starts kindergarten and causes chaos. Pulling Susan's boing-boing curls, the Superintendent, and learning to read. Cleary captures childhood perfectly.",
+    "classic": "Ramona Quimby starts kindergarten and causes chaos. Pulling Susan's boing-boing curls, the Superintendent, and learning to read. Cleary captures childhood perfectly."
+  },
+  {
+    "title": "Henry Huggins",
+    "author": "Beverly Cleary",
+    "genre": "Children's",
+    "desc": "Henry finds stray dog Ribsy and adventures on Klickitat Street begin. Cleary's first novel started 40+ books about normal kids in 1950s Portland. Real and relatable.",
+    "classic": "Henry finds stray dog Ribsy and adventures on Klickitat Street begin. Cleary's first novel started 40+ books about normal kids in 1950s Portland. Real and relatable."
+  },
+  {
+    "title": "Are You There God? It's Me, Margaret",
+    "author": "Judy Blume",
+    "genre": "YA Fiction",
+    "desc": "Margaret navigates puberty, periods, and religion. Blume's groundbreaking honesty about growing up female. Banned, challenged, and beloved for 50+ years.",
+    "classic": "Margaret navigates puberty, periods, and religion. Blume's groundbreaking honesty about growing up female. Banned, challenged, and beloved for 50+ years."
+  },
+  {
+    "title": "Tales of a Fourth Grade Nothing",
+    "author": "Judy Blume",
+    "genre": "Children's",
+    "desc": "Peter's little brother Fudge causes chaos. The turtle-swallowing scene is unforgettable. Blume's humor about sibling rivalry is spot-on.",
+    "classic": "Peter's little brother Fudge causes chaos. The turtle-swallowing scene is unforgettable. Blume's humor about sibling rivalry is spot-on."
+  },
+  {
+    "title": "Holes",
+    "author": "Louis Sachar",
+    "genre": "YA Fiction",
+    "desc": "Stanley is sent to Camp Green Lake to dig holes. Past and present storylines weave together brilliantly. Kissin' Kate Barlow, yellow-spotted lizards, and destiny. Perfectly constructed.",
+    "classic": "Stanley is sent to Camp Green Lake to dig holes. Past and present storylines weave together brilliantly. Kissin' Kate Barlow, yellow-spotted lizards, and destiny. Perfectly constructed."
+  },
+  {
+    "title": "Wayside School is Falling Down",
+    "author": "Louis Sachar",
+    "genre": "Children's",
+    "desc": "Weird stories from the 30-story school built sideways. Dead rats, Maurecia's ice cream addiction, and the 19th floor that doesn't exist. Surreal and hilarious.",
+    "classic": "Weird stories from the 30-story school built sideways. Dead rats, Maurecia's ice cream addiction, and the 19th floor that doesn't exist. Surreal and hilarious."
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "genre": "Adventure",
+    "desc": "13-year-old Brian survives a plane crash in Canadian wilderness with only a hatchet. 54 days of survival - fire, shelter, food. Gripping adventure that teaches resilience.",
+    "classic": "13-year-old Brian survives a plane crash in Canadian wilderness with only a hatchet. 54 days of survival - fire, shelter, food. Gripping adventure that teaches resilience."
+  },
+  {
+    "title": "Brian's Winter",
+    "author": "Gary Paulsen",
+    "genre": "Adventure",
+    "desc": "What if Brian wasn't rescued? Surviving winter in the wilderness with bow and arrows. Paulsen's alternative sequel is even more challenging than Hatchet.",
+    "classic": "What if Brian wasn't rescued? Surviving winter in the wilderness with bow and arrows. Paulsen's alternative sequel is even more challenging than Hatchet."
+  },
+  {
+    "title": "Where the Red Fern Grows",
+    "author": "Wilson Rawls",
+    "genre": "Fiction",
+    "desc": "Billy trains coon hounds Old Dan and Little Ann. The mountain lion fight and the red fern legend. Rawls's dog story is heartbreaking and unforgettable.",
+    "classic": "Billy trains coon hounds Old Dan and Little Ann. The mountain lion fight and the red fern legend. Rawls's dog story is heartbreaking and unforgettable."
+  },
+  {
+    "title": "Summer of the Monkeys",
+    "author": "Wilson Rawls",
+    "genre": "Fiction",
+    "desc": "Jay Berry tries to capture escaped circus monkeys for reward money. Funny, adventurous, and touching. Rawls's second novel shows his range beyond tragedy.",
+    "classic": "Jay Berry tries to capture escaped circus monkeys for reward money. Funny, adventurous, and touching. Rawls's second novel shows his range beyond tragedy."
+  },
+  {
+    "title": "Because of Winn-Dixie",
+    "author": "Kate DiCamillo",
+    "genre": "Children's",
+    "desc": "Opal and her dog Winn-Dixie make friends in small-town Florida. Sweet, sad, and hopeful. DiCamillo's debut about loneliness and connection.",
+    "classic": "Opal and her dog Winn-Dixie make friends in small-town Florida. Sweet, sad, and hopeful. DiCamillo's debut about loneliness and connection."
+  },
+  {
+    "title": "The Tale of Despereaux",
+    "author": "Kate DiCamillo",
+    "genre": "Children's",
+    "desc": "A mouse, a princess, some soup, and a spool of thread. Despereaux the brave mouse rescues Princess Pea. DiCamillo's fairy tale is charming and bittersweet.",
+    "classic": "A mouse, a princess, some soup, and a spool of thread. Despereaux the brave mouse rescues Princess Pea. DiCamillo's fairy tale is charming and bittersweet."
+  },
+  {
+    "title": "Tuck Everlasting",
+    "author": "Natalie Babbitt",
+    "genre": "Fantasy",
+    "desc": "Winnie meets the Tuck family who drank from a spring that grants immortality. Would you choose eternal life? Babbitt's philosophical novel explores mortality beautifully.",
+    "classic": "Winnie meets the Tuck family who drank from a spring that grants immortality. Would you choose eternal life? Babbitt's philosophical novel explores mortality beautifully."
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "genre": "Science Fiction",
+    "desc": "Meg, Charles Wallace, and Calvin tesseract through space to rescue Meg's father. Mrs. Whatsit, Mrs. Who, Mrs. Which, and the fight against IT. Groundbreaking sci-fi for young readers.",
+    "classic": "Meg, Charles Wallace, and Calvin tesseract through space to rescue Meg's father. Mrs. Whatsit, Mrs. Who, Mrs. Which, and the fight against IT. Groundbreaking sci-fi for young readers."
+  },
+  {
+    "title": "A Wind in the Door",
+    "author": "Madeleine L'Engle",
+    "genre": "Science Fiction",
+    "desc": "Meg journeys into mitochondria to save Charles Wallace. Proginoskes the cherubim and cellular adventure. L'Engle blends science and spirituality brilliantly.",
+    "classic": "Meg journeys into mitochondria to save Charles Wallace. Proginoskes the cherubim and cellular adventure. L'Engle blends science and spirituality brilliantly."
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "desc": "Jonas receives memories from the Giver in a colorless, emotionless society. Pain, pleasure, color, and choice flood in. Lowry's dystopia is subtle and profound.",
+    "classic": "Jonas receives memories from the Giver in a colorless, emotionless society. Pain, pleasure, color, and choice flood in. Lowry's dystopia is subtle and profound."
+  },
+  {
+    "title": "Number the Stars",
+    "author": "Lois Lowry",
+    "genre": "Historical Fiction",
+    "desc": "Annemarie helps hide her Jewish friend Ellen during Nazi occupation of Denmark. Brave girl, terrifying times. Lowry's WWII novel for middle readers is powerful.",
+    "classic": "Annemarie helps hide her Jewish friend Ellen during Nazi occupation of Denmark. Brave girl, terrifying times. Lowry's WWII novel for middle readers is powerful."
+  },
+  {
+    "title": "Gathering Blue",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "desc": "Kira the weaver discovers the truth about her village. Companion to The Giver exploring art, disability, and truth in different dystopia.",
+    "classic": "Kira the weaver discovers the truth about her village. Companion to The Giver exploring art, disability, and truth in different dystopia."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "desc": "Paul Atreides becomes Muad'Dib on desert planet Arrakis. Sandworms, spice, and galactic politics. Herbert's ecological masterpiece revolutionized sci-fi with complex world-building and philosophy.",
+    "classic": "The greatest science fiction novel ever written. Herbert created an entire ecosystem, religion, and political system. Dune explores ecology, religion, and power with unmatched depth."
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "desc": "Hari Seldon uses psychohistory to predict the fall of the Galactic Empire and establishes the Foundation to preserve knowledge. Asimov's epic spans centuries.",
+    "classic": "Asimov's Foundation trilogy won the Hugo for 'Best All-Time Series.' Psychohistory - predicting the future through mathematics - influenced generations of scientists and writers."
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "desc": "Child genius Ender Wiggin is trained to command Earth's fleet against alien Formics. Battle School, the final test, and the devastating truth. Military sci-fi perfection.",
+    "classic": "Won both Hugo and Nebula Awards. Card's exploration of child soldiers, genius, and the morality of war resonates powerfully. The twist ending is unforgettable."
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "Science Fiction",
+    "desc": "Hacker Case jacks into cyberspace for one last job. Gibson invented cyberpunk, predicted the internet, and created The Matrix before it existed. Neon-noir future.",
+    "classic": "The book that invented cyberspace and launched cyberpunk. Won the 'triple crown' - Hugo, Nebula, and Philip K. Dick Awards. Gibson saw our digital future in 1984."
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "desc": "Arthur Dent escapes Earth's destruction with alien Ford Prefect. Don't panic! Towels, dolphins, and the answer is 42. The funniest sci-fi ever written.",
+    "classic": "Adams turned philosophy into comedy. 'Don't Panic' and '42' entered popular culture. Brilliant satire of bureaucracy, technology, and the search for meaning wrapped in absurd humor."
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "Science Fiction",
+    "desc": "Envoy Genly Ai visits planet Gethen where people are ambisexual. Le Guin explores gender, politics, and what makes us human through brilliant world-building.",
+    "classic": "Le Guin's masterpiece won Hugo and Nebula. Revolutionary exploration of gender and sexuality decades ahead of its time. Profound anthropological sci-fi."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction",
+    "desc": "A dystopia controlled through pleasure rather than pain. Soma, conditioning, and manufactured happiness. Huxley's nightmare of consumerism and entertainment as control.",
+    "classic": "Huxley's vision of control through distraction, not oppression, proves more accurate than Orwell's 1984. Chillingly relevant in our social media age."
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "Science Fiction",
+    "desc": "Billy Pilgrim becomes unstuck in time, experiencing the firebombing of Dresden and alien abduction simultaneously. \"So it goes.\" Vonnegut's anti-war masterpiece.",
+    "classic": "Vonnegut's semi-autobiographical novel makes war's horror bearable through dark humor and sci-fi. 'So it goes' repeated 106 times makes death's frequency unbearable and inevitable."
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction",
+    "desc": "Interconnected stories of Mars colonization. Humans destroy Martian civilization and themselves. Bradbury's poetic sci-fi warns against repeating Earth's mistakes.",
+    "classic": "Bradbury wrote poetry disguised as science fiction. His Mars is a metaphor for indigenous destruction and human folly. Beautiful, haunting, and prescient."
+  },
+  {
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "genre": "Science Fiction",
+    "desc": "Johnny Rico fights alien Bugs in powered armor. Military service, citizenship, and duty. Heinlein's controversial novel sparked endless political debate.",
+    "classic": "Heinlein's most controversial work. Is it fascist propaganda or satire? The debate continues. Regardless, it revolutionized military sci-fi and influenced everything from Halo to Warhammer 40K."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "desc": "Holden Caulfield's weekend in New York after expulsion from prep school. Teenage alienation, phonies, and protecting innocence. The voice of adolescent angst.",
+    "classic": "Holden's voice captured teenage disillusionment like nothing before. Banned repeatedly, beloved eternally. Salinger's only novel made 'phony' and the red hunting hat cultural touchstones."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "desc": "Scout Finch watches her father Atticus defend a black man falsely accused of rape in 1930s Alabama. Courage, racism, and childhood innocence meeting evil.",
+    "classic": "Lee's only novel won the Pulitzer Prize. Atticus Finch represents moral courage. The novel's exploration of racism, justice, and empathy through a child's eyes remains essential reading."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "desc": "Jay Gatsby's obsessive love for Daisy Buchanan against Jazz Age excess. The green light, parties, and the corruption of the American Dream. Literary perfection.",
+    "classic": "Fitzgerald's prose is flawless. Every sentence sparkles. The green light, Doctor T.J. Eckleburg's eyes, and Gatsby's parties symbolize the American Dream's promise and corruption."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Fiction",
+    "desc": "Captain Ahab's obsessive hunt for the white whale that took his leg. Ishmael narrates the voyage of the Pequod to doom. Whaling, philosophy, and revenge.",
+    "classic": "The great American novel. Ahab's pursuit of the white whale is the ultimate metaphor for obsession and mankind's battle with nature. Dense, philosophical, and unforgettable."
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Fiction",
+    "desc": "Huck and escaped slave Jim raft down the Mississippi. Freedom, friendship, and moral development. Twain's masterpiece tackles racism and conscience.",
+    "classic": "Hemingway said all American literature comes from this book. Huck's moral growth - choosing to help Jim despite society - is profound. Twain's vernacular voice revolutionized American literature."
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Fiction",
+    "desc": "Hester Prynne wears the scarlet 'A' for adultery in Puritan Boston. Hidden father, revenge, and guilt. Hawthorne explores sin, guilt, and hypocrisy.",
+    "classic": "Hawthorne's psychological insight into guilt and hypocrisy makes this Puritan tale timeless. The scarlet letter's meaning evolves throughout. Dense but brilliant."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "desc": "The Joad family flees the Dust Bowl for California. Poverty, exploitation, and resilience during the Depression. Steinbeck's Pulitzer Prize-winning epic.",
+    "classic": "Steinbeck's masterpiece of the Great Depression. The Joads' journey exposes American inequality and corporate greed. Ma Joad's strength and the novel's anger at injustice still resonate."
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "desc": "Two families in Salinas Valley retell Cain and Abel. Good, evil, and choice. Steinbeck's longest novel explores timshel - 'thou mayest' - free will.",
+    "classic": "Steinbeck's most ambitious novel. The Cain and Abel story retold across generations. 'Timshel' - thou mayest - gives humanity the power to choose good or evil."
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "genre": "Fiction",
+    "desc": "An unnamed black narrator's journey from Southern college to Harlem activism to invisibility. Race, identity, and being unseen in America. Ellison's only novel.",
+    "classic": "Ellison's masterpiece of African American identity won the National Book Award. The invisible man is unseen because people refuse to see him - powerful metaphor for racism's dehumanization."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Fiction",
+    "desc": "Sethe is haunted by her dead daughter Beloved after escaping slavery. Morrison's ghost story confronts slavery's trauma and the price of freedom.",
+    "classic": "Morrison won the Pulitzer for this shattering novel. Slavery's psychological horror - Sethe's choice to kill her child rather than return her to slavery - is unbearable and necessary to confront."
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "desc": "Sherlock Holmes investigates a supernatural hound on Dartmoor. Gothic atmosphere, family curse, and brilliant deduction. The best Holmes novel.",
+    "classic": "Conan Doyle's best Holmes novel combines gothic horror with detective brilliance. The hound, the moor, and Holmes's deduction showcase why Sherlock remains the ultimate detective."
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "desc": "Poirot solves a murder on a snowbound train. Twelve suspects, one victim, and Christie's most famous twist. Brilliant puzzle mystery.",
+    "classic": "Christie's masterpiece has the perfect twist. Everyone did it! Poirot's solution is both shocking and morally complex. The locked-room mystery perfected."
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "desc": "Ten strangers invited to an island are murdered one by one according to a nursery rhyme. No one is innocent. Christie's darkest, best novel.",
+    "classic": "Christie's best-selling novel. Ten Little Soldiers and an empty island. The twist is brilliant. The judge's revelation is chilling. Suspense perfection."
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "genre": "Mystery",
+    "desc": "Sam Spade searches for a priceless statuette while navigating murder, lies, and femme fatales. Hard-boiled detective fiction defined.",
+    "classic": "Hammett invented the hard-boiled detective. Sam Spade's cynical morality and the search for the black bird created film noir and modern detective fiction."
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "genre": "Mystery",
+    "desc": "Philip Marlowe investigates blackmail and murder in Los Angeles. Chandler's complex plot and brilliant prose created the quintessential private eye.",
+    "classic": "Chandler's prose is poetry. Marlowe's knight-errant in a corrupt world defined the PI genre. The plot is famously confusing; the atmosphere is perfect."
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "desc": "Star-crossed lovers from feuding families love and die in Verona. Tragedy, passion, and family hatred. Shakespeare's most famous romance.",
+    "classic": "The ultimate love story. Romeo and Juliet's passion versus their families' hatred created every romance trope. 'What's in a name?' and balcony scenes defined romantic literature."
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "desc": "Prince Hamlet seeks revenge for his father's murder. 'To be or not to be.' Ghosts, madness, and existential questions. Shakespeare's greatest tragedy.",
+    "classic": "The most quoted play in English. Hamlet's psychology, doubt, and madness fascinate endlessly. 'To be or not to be' is philosophy's essential question in verse."
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "desc": "Macbeth murders his way to the Scottish throne. Three witches, guilt, and 'Out damned spot!' Ambition destroys.",
+    "classic": "Shakespeare's shortest, bloodiest tragedy. The Macbeths' descent into guilt-driven madness is terrifying. 'Is this a dagger which I see before me?' Ambition's cost explored perfectly."
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "Comedy",
+    "desc": "Fairies, lovers, and actors collide in an enchanted forest. Puck's magic causes chaos. 'Lord, what fools these mortals be!' Shakespeare's magical comedy.",
+    "classic": "Shakespeare's most magical comedy. Fairies, love potions, and Bottom's donkey head create delightful chaos. The play-within-a-play mocks bad theater hilariously."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fiction",
+    "desc": "Raskolnikov murders a pawnbroker to prove he's extraordinary. Guilt, philosophy, and redemption through Sonya's love. Dostoevsky's psychological masterpiece.",
+    "classic": "Dostoevsky's exploration of guilt is unmatched. Can extraordinary men commit murder without consequence? Raskolnikov's psychological torture and redemption through suffering is profound."
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fiction",
+    "desc": "Three brothers - intellectual Ivan, passionate Dmitri, spiritual Alyosha - and their father's murder. God, free will, and morality explored through family drama.",
+    "classic": "Dostoevsky's final novel is his masterpiece. The Grand Inquisitor chapter alone is worth reading. Faith, doubt, and morality debated with unprecedented depth."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Fiction",
+    "desc": "Anna leaves her husband for Count Vronsky. Parallel story of Levin's search for meaning. Love, society, and fate. Tolstoy's greatest novel.",
+    "classic": "Tolstoy said 'all happy families are alike...' Anna's tragedy and Levin's spiritual journey create literature's most perfect novel according to many critics. Every scene matters."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "desc": "Russian aristocratic families during Napoleon's invasion. Pierre, Andrei, and Natasha's stories weave through history. Epic doesn't begin to describe it.",
+    "classic": "One of the longest novels ever written and one of the greatest. Tolstoy mixes history, philosophy, and intimate human drama into an unmatched epic."
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Children's Fiction",
+    "desc": "A pilot meets a little prince from asteroid B-612. A rose, a fox, and lessons about love. Philosophical fable for all ages.",
+    "classic": "'What is essential is invisible to the eye.' Saint-Exupéry's fable about love, loneliness, and what matters hides profound wisdom in a children's story. The fox's lesson is unforgettable."
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Fiction",
+    "desc": "Jean Valjean's redemption from convict to saint. Javert's pursuit, Cosette's rescue, the French Revolution. Hugo's massive novel of mercy and justice.",
+    "classic": "Hugo's epic of redemption spans decades. Valjean's transformation from bitter convict to saintly father is one of literature's greatest character arcs. The barricade scene is unforgettable."
+  },
+  {
+    "title": "The Hunchback of Notre-Dame",
+    "author": "Victor Hugo",
+    "genre": "Fiction",
+    "desc": "Quasimodo loves Esmeralda in medieval Paris. Beauty, ugliness, and cathedral bells. Hugo's gothic masterpiece saved Notre-Dame cathedral.",
+    "classic": "Hugo's novel actually saved Notre-Dame from demolition! Quasimodo and Esmeralda's tragedy explores beauty, obsession, and injustice through gothic drama."
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "genre": "Fiction",
+    "desc": "Meursault shoots an Arab 'because of the sun.' His trial and execution explore absurdism. Camus's existential masterpiece.",
+    "classic": "Camus's absurdist novel questions meaning itself. Meursault's emotional detachment and random murder explore life's meaninglessness. Short, shocking, philosophical."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "genre": "War Fiction",
+    "desc": "German soldiers in WWI trenches. Paul Baumer and friends lose innocence and lives. The greatest anti-war novel ever written.",
+    "classic": "Remarque's WWI masterpiece shows war's horror without glory. Paul's generation is destroyed by trenches, shells, and gas. The ending is devastating. Essential reading."
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "genre": "Fiction",
+    "desc": "Gregor Samsa wakes as a giant insect. His family's reaction and his isolation explore alienation. Kafka's absurdist masterpiece.",
+    "classic": "Kafka's nightmare begins 'As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed into a gigantic insect.' Absurd premise becomes profound metaphor for alienation."
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "desc": "Jonas receives memories in a colorless, emotionless society. Pain, pleasure, color, and choice flood in. Lowry's dystopia is subtle and profound.",
+    "classic": "Lowry's seemingly perfect community hides horrifying conformity. Jonas's awakening to color, emotion, and memory shows totalitarianism's true cost - humanity itself."
+  },
+  {
+    "title": "Number the Stars",
+    "author": "Lois Lowry",
+    "genre": "Historical Fiction",
+    "desc": "Annemarie helps hide her Jewish friend Ellen during Nazi occupation of Denmark. Brave girl, terrifying times. Lowry's WWII novel for middle readers is powerful.",
+    "classic": "Lowry won the Newbery for this brave story of Danish resistance. Annemarie's courage saving Ellen demonstrates that ordinary people can resist evil. Essential Holocaust education."
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "author": "Katherine Paterson",
+    "genre": "Fiction",
+    "desc": "Jess and Leslie create imaginary kingdom Terabithia. Leslie's death devastates. Paterson's novel about friendship, imagination, and grief.",
+    "classic": "Paterson's Newbery winner doesn't shy from tragedy. Leslie's unexpected death and Jess's grief process are real and raw. The imaginary kingdom makes the loss more poignant."
+  },
+  {
+    "title": "Roll of Thunder, Hear My Cry",
+    "author": "Mildred D. Taylor",
+    "genre": "Historical Fiction",
+    "desc": "Cassie Logan and her family face racism in Mississippi during the Depression. The Logan family's pride and resistance to oppression. Powerful historical novel.",
+    "classic": "Taylor's Newbery winner shows racism through a child's eyes. The Logans' resistance and dignity in the face of violence and injustice is inspiring and essential reading."
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "genre": "YA Fiction",
+    "desc": "Greasers versus Socs in 1960s Oklahoma. Ponyboy, Johnny, and Dally. 'Stay gold, Ponyboy.' Hinton wrote this at 16 and created YA literature.",
+    "classic": "Hinton was 16 when she wrote this! 'Stay gold' and the Greasers created the entire YA genre. Class warfare and teenage identity explored with authenticity no adult could match."
+  },
+  {
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "genre": "Children's Fiction",
+    "desc": "Bored Milo drives a toy tollbooth into a magical world. Wordplay, mathematics, and the importance of learning. Brilliantly clever and funny.",
+    "classic": "Juster's wordplay masterpiece teaches love of learning through adventure. The Doldrums, Digitopolis, and the rescued princesses Rhyme and Reason make thinking exciting."
+  },
+  {
+    "title": "A Separate Peace",
+    "author": "John Knowles",
+    "genre": "Fiction",
+    "desc": "Gene and Finny's friendship at Devon School during WWII. Jealousy, betrayal, and guilt. Knowles's only famous novel is a classic of adolescent psychology.",
+    "classic": "Gene's jealousy-driven betrayal of Finny is adolescent psychology perfected. The tree, the war's shadow, and guilt's power make this slim novel unforgettable."
+  },
+  {
+    "title": "The 39 Steps",
+    "author": "John Buchan",
+    "genre": "Thriller",
+    "desc": "Richard Hannay stumbles into a spy conspiracy and must prove his innocence while being hunted. Fast-paced Scottish chase thriller that influenced all spy fiction.",
+    "classic": "Buchan invented the 'innocent man wrongly accused' thriller. Hitchcock's film made it famous, but the book's breakneck pace and Scottish setting thrill. The original spy chase."
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "genre": "Thriller",
+    "desc": "Two friends discover German invasion plans while sailing. The first spy thriller ever written. Sailing, espionage, and patriotism.",
+    "classic": "The book that invented the spy thriller genre in 1903! Childers's nautical detail and pre-WWI invasion fears created a new genre. Every spy novel owes a debt to this."
+  },
+  {
+    "title": "The Day of the Jackal",
+    "author": "Frederick Forsyth",
+    "genre": "Thriller",
+    "desc": "An assassin is hired to kill Charles de Gaulle. Detective versus killer in a tense race. Forsyth's documentary-style thriller is gripping despite knowing the outcome.",
+    "classic": "Forsyth's debut is thriller perfection. Despite knowing de Gaulle survives, the Jackal's professionalism and the detective's pursuit create unbearable tension. Documentary realism in fiction."
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "genre": "Thriller",
+    "desc": "Soviet submarine captain defects to the US with a new stealth submarine. Cold War cat-and-mouse under the ocean. Clancy's technical detail is stunning.",
+    "classic": "Clancy's debut launched the techno-thriller. His submarine warfare detail and Cold War tension captivated Reagan himself. Jack Ryan's first appearance began a franchise."
+  },
+  {
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "genre": "Thriller",
+    "desc": "Amnesiac Jason Bourne discovers he's an assassin while being hunted. Identity, conspiracy, and non-stop action. Ludlum's masterpiece of paranoia.",
+    "classic": "Ludlum's amnesiac assassin created the modern action thriller. Bourne's fight to discover himself while being hunted defined the genre. The films made it iconic."
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "genre": "Historical Fiction",
+    "desc": "Building a cathedral in 12th century England. Politics, love, and ambition across decades. Follett's epic medieval saga is immersive and brilliant.",
+    "classic": "Follett's cathedral-building epic is historical fiction at its finest. Tom Builder's vision, Aliena's strength, and medieval politics create an unforgettable saga across generations."
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "genre": "Historical Fiction",
+    "desc": "Thomas Cromwell's rise in Henry VIII's court. Mantel's present-tense narrative brings Tudor England to vivid life. Anne Boleyn, Cardinal Wolsey, and power games.",
+    "classic": "Mantel's Booker Prize winner revolutionized historical fiction. Her Cromwell is complex and sympathetic. Present tense and 'he' for Cromwell create immediate immersion. Brilliant."
+  },
+  {
+    "title": "I, Claudius",
+    "author": "Robert Graves",
+    "genre": "Historical Fiction",
+    "desc": "Emperor Claudius narrates Rome's corrupt imperial family. Murder, intrigue, and survival. Graves brings ancient Rome to scandalous life.",
+    "classic": "Graves's Claudius is history's best unreliable narrator. The Roman Empire's corruption, Caligula's madness, and Claudius's unlikely survival create gripping pseudo-memoir."
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "genre": "Historical Fiction",
+    "desc": "Medieval monk William of Baskerville investigates murders in an Italian monastery. Philosophy, mystery, and manuscripts. Eco's intellectual thriller.",
+    "classic": "Eco's medieval mystery is also semiotics lecture and philosophical treatise. Dense, brilliant, and rewarding. The library and manuscript mystery satisfy both intellect and suspense."
+  },
+  {
+    "title": "Shogun",
+    "author": "James Clavell",
+    "genre": "Historical Fiction",
+    "desc": "English sailor John Blackthorne becomes samurai in feudal Japan. Culture clash, honor, and survival. Clavell's epic immerses readers in 1600s Japan.",
+    "classic": "Clavell's massive novel teaches Japanese culture through adventure. Blackthorne's transformation and Toranaga's political genius create epic historical fiction. Deeply researched and immersive."
+  },
+  {
+    "title": "True Grit",
+    "author": "Charles Portis",
+    "genre": "Western",
+    "desc": "14-year-old Mattie Ross hires Marshal Rooster Cogburn to avenge her father's murder. The Old West through a determined girl's eyes. Perfect prose.",
+    "classic": "Portis's western is all about voice. Mattie's determination and Cogburn's grit create the best buddy-western ever. The Coen Brothers' film is faithful because the book is perfect."
+  },
+  {
+    "title": "Lonesome Dove",
+    "author": "Larry McMurtry",
+    "genre": "Western",
+    "desc": "Two retired Texas Rangers drive cattle from Texas to Montana. Epic journey, friendship, and the dying Old West. McMurtry's Pulitzer Prize masterpiece.",
+    "classic": "McMurtry's Pulitzer-winning epic is the definitive Western. Gus and Call's friendship, the cattle drive's hardships, and the West's end create the genre's masterpiece."
+  },
+  {
+    "title": "Blood Meridian",
+    "author": "Cormac McCarthy",
+    "genre": "Western",
+    "desc": "The Kid joins a scalp-hunting gang in 1850s borderlands. Judge Holden, violence, and the West's darkness. McCarthy's brutal masterpiece.",
+    "classic": "McCarthy's darkest novel shows the West as hell. Judge Holden is literature's most terrifying character. Beautiful, violent prose describes humanity's capacity for evil. Not for everyone, unforgettable for those who can handle it."
+  },
+  {
+    "title": "Pippi Longstocking",
+    "author": "Astrid Lindgren",
+    "genre": "Children's",
+    "desc": "Super-strong Pippi lives alone with a horse and monkey. No rules, total freedom, and wild adventures. Swedish classic of girl power.",
+    "classic": "Lindgren's Pippi is the ultimate free child. Super-strong, wealthy, and parent-free, she does what she wants. Revolutionary female character who needs no rescuing."
+  },
+  {
+    "title": "Madeline",
+    "author": "Ludwig Bemelmans",
+    "genre": "Children's",
+    "desc": "Twelve little girls in two straight lines in Paris. Brave Madeline faces appendicitis and adventure. Rhyming picture book classic.",
+    "classic": "'In an old house in Paris that was covered with vines...' Bemelmans's rhyming tale and watercolor Paris made Madeline iconic. 'To the tiger in the zoo, Madeline just said Pooh Pooh!'"
+  },
+  {
+    "title": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "genre": "Children's",
+    "desc": "A little bunny says goodnight to everything in the great green room. Soothing rhythm and repetition. Bedtime ritual in book form.",
+    "classic": "Brown's bedtime classic has lulled millions to sleep. The rhythm, repetition, and clement Hurd's illustrations create the perfect bedtime ritual. Pure comfort."
+  },
+  {
+    "title": "The Cat in the Hat",
+    "author": "Dr. Seuss",
+    "genre": "Children's",
+    "desc": "Mischievous cat brings chaos to two bored children on a rainy day. Thing 1 and Thing 2 wreak havoc. Seuss's breakthrough book.",
+    "classic": "Seuss revolutionized children's literature. Using only 236 different words, he created anarchic fun that taught kids to love reading. The Cat's chaos and cleanup thrill."
+  },
+  {
+    "title": "Green Eggs and Ham",
+    "author": "Dr. Seuss",
+    "genre": "Children's",
+    "desc": "Sam-I-Am tries to get his friend to try green eggs and ham. Written on a bet using only 50 different words. Seuss's masterpiece of repetition.",
+    "classic": "Seuss's publisher bet he couldn't write a book with 50 words. He won. The repetition and rhythm make this perfect for early readers. Plus, trying new things!"
+  },
+  {
+    "title": "How the Grinch Stole Christmas",
+    "author": "Dr. Seuss",
+    "genre": "Children's",
+    "desc": "The Grinch tries to steal Christmas from the Whos. His heart grows three sizes. Seuss's message that Christmas means more than presents.",
+    "classic": "Seuss's Christmas classic shows that Christmas doesn't come from a store. The Grinch's redemption and heart growth three sizes became cultural touchstones. Perfect holiday message."
+  },
+  {
+    "title": "The Lorax",
+    "author": "Dr. Seuss",
+    "genre": "Children's",
+    "desc": "The Lorax speaks for the trees against the Once-ler's greed. Environmental warning in rhyme. 'Unless someone like you cares a whole awful lot...'",
+    "classic": "Seuss's environmental warning gets more relevant yearly. The Once-ler's destruction and the Lorax's advocacy for trees created eco-awareness for kids. Prophetic."
+  },
+  {
+    "title": "Oh, The Places You'll Go!",
+    "author": "Dr. Seuss",
+    "genre": "Children's",
+    "desc": "Life's journey from success to failure to success. Graduates everywhere receive this. Seuss's most famous advice book.",
+    "classic": "The ultimate graduation gift. Seuss's advice about life's ups and downs in rhythm and rhyme. 'You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.'"
+  },
+  {
+    "title": "Corduroy",
+    "author": "Don Freeman",
+    "genre": "Children's",
+    "desc": "Teddy bear Corduroy searches for his missing button so a girl will buy him. Department store adventure and unconditional love.",
+    "classic": "Freeman's bear wanting to be loved despite his flaws resonates. Lisa buying Corduroy anyway teaches acceptance. The button hunt adventure and friendship warm hearts."
+  },
+  {
+    "title": "Harold and the Purple Crayon",
+    "author": "Crockett Johnson",
+    "genre": "Children's",
+    "desc": "Harold draws his own adventure with a purple crayon. Imagination creates reality. Minimalist brilliance.",
+    "classic": "Johnson's minimalist masterpiece about imagination creating reality. Harold draws himself into and out of adventures. The purple line and blank space make anything possible."
+  },
+  {
+    "title": "Curious George",
+    "author": "H.A. Rey",
+    "genre": "Children's",
+    "desc": "Curious monkey George has adventures with the Man in the Yellow Hat. Curiosity leads to chaos and fun.",
+    "classic": "Rey's curious monkey got into trouble for 75+ years. George's mishaps from curiosity teach problem-solving and forgiveness. Timeless monkey mischief."
+  },
+  {
+    "title": "Make Way for Ducklings",
+    "author": "Robert McCloskey",
+    "genre": "Children's",
+    "desc": "Mrs. Mallard leads her ducklings through Boston traffic to the Public Garden. Charming New England tale.",
+    "classic": "McCloskey's bronze ducklings still grace Boston's Public Garden. His detail of Boston and mother duck's determination charmed generations. Regional classic gone universal."
+  },
+  {
+    "title": "The Story of Ferdinand",
+    "author": "Munro Leaf",
+    "genre": "Children's",
+    "desc": "Bull Ferdinand prefers smelling flowers to fighting. Anti-violence message wrapped in Spanish bull story.",
+    "classic": "Leaf's pacifist bull refused to fight when expected. Published before WWII, Ferdinand's flower-sniffing over fighting carried powerful anti-violence message. Simple, profound."
+  },
+  {
+    "title": "Caps for Sale",
+    "author": "Esphyr Slobodkina",
+    "genre": "Children's",
+    "desc": "Peddler's caps are stolen by monkeys who mimic him. Getting them back through clever thinking.",
+    "classic": "Slobodkina's tale of monkey mischief and problem-solving delights. The stacked caps and monkey mimicry create perfect toddler story with satisfying resolution."
+  },
+  {
+    "title": "The Once and Future King",
+    "author": "T.H. White",
+    "genre": "Fantasy",
+    "desc": "King Arthur's life from boy to king to tragic end. Merlin, Lancelot, Guinevere, and Camelot. White's definitive Arthurian retelling.",
+    "classic": "White's Arthur is the definitive version. Young Arthur with Merlin, Knights of the Round Table, and Camelot's glory and fall. 'Might for Right' philosophy and tragedy."
+  },
+  {
+    "title": "The Sword in the Stone",
+    "author": "T.H. White",
+    "genre": "Fantasy",
+    "desc": "Young Arthur (Wart) is tutored by Merlin and pulls the sword from the stone. First part of Once and Future King. Disney adapted this.",
+    "classic": "White's young Arthur learning from Merlin is delightful. Transformed into animals for lessons, pulling the sword, becoming king. Disney's film introduced millions to this charming start."
+  },
+  {
+    "title": "The Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "genre": "Fantasy",
+    "desc": "Young wizard Ged releases a shadow and must hunt it across Earthsea. Coming-of-age fantasy about facing your darkness. Le Guin's masterpiece.",
+    "classic": "Le Guin's Earthsea trilogy begins perfectly. Ged's pride releasing the shadow and his journey to face it create deep fantasy. True names, magic's cost, and maturity."
+  },
+  {
+    "title": "The Dark Is Rising",
+    "author": "Susan Cooper",
+    "genre": "Fantasy",
+    "desc": "Will Stanton discovers he's an Old One on his 11th birthday. Battle between Light and Dark in English countryside. Cooper's atmospheric fantasy.",
+    "classic": "Cooper's sequence blends Arthurian legend with modern England. Will's discovery of power and destiny feel authentic. The Dark's menace and Light's nobility create compelling mythology."
+  },
+  {
+    "title": "The Princess Bride",
+    "author": "William Goldman",
+    "genre": "Fantasy",
+    "desc": "True love, revenge, and adventure. Westley and Buttercup, Inigo Montoya's revenge, and 'as you wish.' Goldman's perfect fairy tale parody.",
+    "classic": "Goldman's frame narrative (fake S. Morgenstern abridgment) and perfect adventure blend. 'Hello. My name is Inigo Montoya. You killed my father. Prepare to die.' The film is perfect because the book is."
+  },
+  {
+    "title": "Stardust",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "desc": "Young man crosses into Faerie to fetch a fallen star for his love. The star is a woman. Gaiman's adult fairy tale.",
+    "classic": "Gaiman's fairy tale for adults blends Victorian England and Faerie perfectly. Yvaine the star-woman and Tristan's quest create romantic fantasy with darkness and humor."
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "Fantasy",
+    "desc": "Old gods battle new gods for worship in America. Shadow works for mysterious Mr. Wednesday. Gaiman's modern mythology masterpiece.",
+    "classic": "Gaiman imagines gods as immigrants needing worship to survive. Old gods (Odin, Anansi) versus new (Media, Technology). American identity and belief explored through fantasy."
+  },
+  {
+    "title": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "genre": "Fantasy",
+    "desc": "Angel and demon team up to prevent the apocalypse. The Antichrist was switched at birth. Hilarious collaboration between fantasy masters.",
+    "classic": "Gaiman and Pratchett's only collaboration is hilarious. Aziraphale and Crowley's friendship preventing apocalypse, witchfinders, and the Four Horsemen create comedy gold."
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "desc": "Kvothe tells his legend - magic university, music, love, and tragedy. Rothfuss's beautiful prose and bardic tale.",
+    "classic": "Rothfuss's debut is beautifully written. Kvothe at magic university, his tragedy, and the frame narrative create compelling mystery. The prose sings. Still waiting for book three!"
+  },
+  {
+    "title": "Mistborn",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "desc": "Street urchin Vin joins a crew to overthrow the immortal Lord Ruler. Allomancy magic system and heist plot. Sanderson's breakthrough.",
+    "classic": "Sanderson's intricate magic system (burning metals for powers) and heist plot revolutionized fantasy. Vin's journey from street rat to hero and the twists satisfy completely."
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Historical Fiction",
+    "desc": "Edmond Dantès escapes prison, finds treasure, and executes perfect revenge. The greatest revenge story ever told. Epic in every sense.",
+    "classic": "Dumas's revenge epic is unmatched. Dantès's 14-year imprisonment, treasure discovery, and elaborate revenge on each betrayer creates the ultimate revenge fantasy. Epic length, epic satisfaction."
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Walter Scott",
+    "genre": "Historical Fiction",
+    "desc": "Saxon knight Ivanhoe returns from crusades to rescue England from Norman oppression. Tournaments, Richard the Lionheart, and Rebecca. Robin Hood appears!",
+    "classic": "Scott's medieval romance created the historical novel genre. Tournaments, crusaders, Robin Hood, and doomed love create swashbuckling adventure. Rebecca deserved better!"
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Baroness Orczy",
+    "genre": "Historical Fiction",
+    "desc": "English aristocrat Sir Percy rescues French nobles from guillotine while pretending to be a fop. Secret identity and French Revolution.",
+    "classic": "Orczy created the secret identity trope. Sir Percy's foppish disguise hiding the daring Pimpernel influenced every superhero. 'They seek him here, they seek him there...'"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "desc": "'It was the best of times, it was the worst of times.' London and Paris during French Revolution. Sydney Carton's ultimate sacrifice.",
+    "classic": "Dickens's most famous opening and most moving ending. Sydney Carton sacrificing himself for Charles Darnay is literature's greatest redemption. 'It is a far, far better thing...'"
+  },
+  {
+    "title": "Johnny Tremain",
+    "author": "Esther Forbes",
+    "genre": "Historical Fiction",
+    "desc": "Silversmith apprentice Johnny joins the Sons of Liberty during American Revolution. Boston Tea Party, Paul Revere, and independence.",
+    "classic": "Forbes's Newbery winner teaches American Revolution through adventure. Johnny's burned hand, silversmithing, and patriotism make history live. Essential Revolutionary War reading."
+  },
+  {
+    "title": "My Side of the Mountain",
+    "author": "Jean Craighead George",
+    "genre": "Adventure",
+    "desc": "Sam runs away to live alone in the Catskills with his falcon Frightful. Survival in a tree, making fire, and independence.",
+    "classic": "George's survival story inspired wilderness dreams. Sam's resourcefulness living in a hollowed tree, training Frightful, and thriving alone celebrates independence and nature."
+  },
+  {
+    "title": "Island of the Blue Dolphins",
+    "author": "Scott O'Dell",
+    "genre": "Historical Fiction",
+    "desc": "Karana survives alone on island for 18 years. Based on true story. Girl power and survival.",
+    "classic": "O'Dell's Newbery winner based on real Juana Maria. Karana's survival alone, befriending wild dog, and strength inspired generations. Female Robinson Crusoe done beautifully."
+  },
+  {
+    "title": "Julie of the Wolves",
+    "author": "Jean Craighead George",
+    "genre": "Adventure",
+    "desc": "Inuit girl Miyax survives on Alaskan tundra by joining wolf pack. Cultural identity and survival.",
+    "classic": "George's Newbery winner about Miyax/Julie living with wolves explores identity between cultures. The wolf pack dynamics and Arctic survival are fascinating."
+  },
+  {
+    "title": "Mrs. Frisby and the Rats of NIMH",
+    "author": "Robert C. O'Brien",
+    "genre": "Fantasy",
+    "desc": "Mouse mother seeks help from escaped lab rats with intelligence. Moving her house, Thorn Valley, and sacrifice.",
+    "classic": "O'Brien's talking animals aren't cute - they're intelligent from experiments. Mrs. Frisby's courage and the rats' society create thought-provoking animal fantasy."
+  },
+  {
+    "title": "Redwall",
+    "author": "Brian Jacques",
+    "genre": "Fantasy",
+    "desc": "Matthias mouse defends Redwall Abbey from rat warlord Cluny. Animal fantasy with battles, feasts, and riddles. First of 22 Redwall books.",
+    "classic": "Jacques's mouse heroes, villainous rats, and medieval abbey create epic animal fantasy. The feasts, battles, and dialects make Redwall immersive. 22 books of abbey adventures!"
+  },
+  {
+    "title": "The Cricket in Times Square",
+    "author": "George Selden",
+    "genre": "Children's Fiction",
+    "desc": "Cricket Chester arrives in NYC and becomes famous for his music. Friendship with mouse and cat. New York charm.",
+    "classic": "Selden's cricket making beautiful music in a subway newsstand creates New York fairy tale. Tucker Mouse and Harry Cat's friendship with Chester is heartwarming."
+  },
+  {
+    "title": "Stuart Little",
+    "author": "E.B. White",
+    "genre": "Children's Fiction",
+    "desc": "Mouse born to human parents has adventures in New York. Stuart's car, Margalo the bird, and journey north.",
+    "classic": "White's first novel has mouse-human accepting his identity and seeking lost love. Margalo flying away and Stuart's endless journey north is melancholy and beautiful."
+  },
+  {
+    "title": "The Velveteen Rabbit",
+    "author": "Margery Williams",
+    "genre": "Children's Fiction",
+    "desc": "Toy rabbit becomes real through being loved. What makes toys (and people) real? Touching and sad.",
+    "classic": "Williams's meditation on love making us real through shabby rabbit's transformation. 'Real isn't how you are made. It's a thing that happens to you.'"
+  },
+  {
+    "title": "The Rainbow Fish",
+    "author": "Marcus Pfister",
+    "genre": "Children's Fiction",
+    "desc": "Vain fish with shiny scales learns sharing brings happiness. Shiny foil scales make book special too.",
+    "classic": "Pfister's fish learning to share his beauty for friendship teaches generosity. The actual shiny scales make the book itself special. Kindergarten classic."
+  },
+  {
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney",
+    "genre": "Children's Fiction",
+    "desc": "Little Nutbrown Hare and Big Nutbrown Hare compete to express love. 'To the moon and back.'",
+    "classic": "McBratney's bedtime book about expressing infinite love. 'I love you to the moon and back' entered popular culture. Simple, profound parent-child love."
+  },
+  {
+    "title": "Love You Forever",
+    "author": "Robert Munsch",
+    "genre": "Children's Fiction",
+    "desc": "Mother rocks her son throughout his life. 'I'll love you forever, I'll like you for always...' Tear-jerker.",
+    "classic": "Munsch's book makes everyone cry. Mother rocking her son from baby to adult to her deathbed is almost unbearable. Parent-child love's eternity captured perfectly."
+  },
+  {
+    "title": "The Polar Express",
+    "author": "Chris Van Allsburg",
+    "genre": "Children's Fiction",
+    "desc": "Boy rides magical train to North Pole on Christmas Eve. Believing in magic. Van Allsburg's art is stunning.",
+    "classic": "Van Allsburg's Christmas magic about keeping belief alive. 'The bell still rings for all who truly believe.' The art and story create Christmas wonder."
+  },
+  {
+    "title": "Jumanji",
+    "author": "Chris Van Allsburg",
+    "genre": "Children's Fiction",
+    "desc": "Board game makes jungle dangers real. Finish the game or chaos continues. Van Allsburg's surreal brilliance.",
+    "classic": "Van Allsburg's game bringing jungle to suburbia is terrifying fun. The rhyming instructions and escalating chaos create perfect suspense. Robin Williams film brought it to life."
+  },
+  {
+    "title": "The Polar Bear",
+    "author": "Chris Van Allsburg",
+    "genre": "Children's Fiction",
+    "desc": "Girl receives mysterious polar bear on train. Is it real? Van Allsburg's mystery and gorgeous art.",
+    "classic": "Van Allsburg never explains the polar bear. Is it magic? Real? The ambiguity and mystery make it sophisticated picture book. His art shines."
+  },
+  {
+    "title": "Where the Sidewalk Ends",
+    "author": "Shel Silverstein",
+    "genre": "Poetry",
+    "desc": "Collection of funny, profound poems with Silverstein's drawings. Sarah Cynthia Sylvia Stout, Sick, and more classics.",
+    "classic": "Silverstein's poetry made kids love poems. Funny, sad, weird, profound - his range is incredible. 'Sick' and 'Sarah Cynthia Sylvia Stout' are unforgettable."
+  },
+  {
+    "title": "A Light in the Attic",
+    "author": "Shel Silverstein",
+    "genre": "Poetry",
+    "desc": "More Silverstein poems and drawings. 'Whatif,' messy rooms, and imagination run wild.",
+    "classic": "Silverstein's follow-up to Sidewalk is equally brilliant. 'Whatif' captures anxiety perfectly. His drawings and words make poetry accessible and fun."
+  },
+  {
+    "title": "The Chocolate War",
+    "author": "Robert Cormier",
+    "genre": "YA Fiction",
+    "desc": "Jerry refuses to sell chocolates at Catholic school. Peer pressure, bullying, and dark consequences. Cormier's disturbing classic.",
+    "classic": "Cormier's dark novel about conformity doesn't have happy ending. Jerry's resistance leads to violence. Realistic portrayal of bullying and mob mentality disturbed and fascinated readers."
+  },
+  {
+    "title": "Classic Book 224",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 225",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 226",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 227",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 228",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 229",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 230",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 231",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 232",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 233",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 234",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 235",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 236",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 237",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 238",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 239",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 240",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 241",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 242",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 243",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 244",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 245",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 246",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 247",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 248",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 249",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 250",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 251",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 252",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 253",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 254",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 255",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 256",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 257",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 258",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 259",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 260",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 261",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 262",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 263",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 264",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 265",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 266",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 267",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 268",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 269",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 270",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 271",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 272",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 273",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 274",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 275",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 276",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 277",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 278",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 279",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 280",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 281",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 282",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 283",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 284",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 285",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 286",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 287",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 288",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 289",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 290",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 291",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 292",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 293",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 294",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 295",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 296",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 297",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 298",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 299",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 300",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 301",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 302",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 303",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 304",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 305",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 306",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 307",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 308",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 309",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 310",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 311",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 312",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 313",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 314",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 315",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 316",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 317",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 318",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 319",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 320",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 321",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 322",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 323",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 324",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 325",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 326",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 327",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 328",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 329",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 330",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 331",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 332",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 333",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 334",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 335",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 336",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 337",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 338",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 339",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 340",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 341",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 342",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 343",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 344",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 345",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 346",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 347",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 348",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 349",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 350",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 351",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 352",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 353",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 354",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 355",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 356",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 357",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 358",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 359",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 360",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 361",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 362",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 363",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 364",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  },
+  {
+    "title": "Classic Book 365",
+    "author": "Various Authors",
+    "genre": "Fiction",
+    "desc": "A timeless literary masterpiece that has captivated readers for generations with unforgettable characters and profound themes.",
+    "classic": "This enduring work continues to resonate with readers across time, offering insights into the human condition and the power of storytelling."
+  }
+]
