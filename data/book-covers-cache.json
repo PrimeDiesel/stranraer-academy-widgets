@@ -1,170 +1,198 @@
 {
-  "lastUpdated": "2026-01-28T07:28:36.109Z",
+  "lastUpdated": "2026-01-28T07:48:21.946Z",
   "stats": {
     "total": 365,
-    "withCovers": 0,
-    "withoutCovers": 365,
-    "percentage": 0,
-    "newlyFetched": 0,
-    "alreadyCached": 0,
-    "failed": 365
+    "withCovers": 323,
+    "withoutCovers": 42,
+    "percentage": 88,
+    "newlyFetched": 323,
+    "alreadyCached": 5,
+    "failed": 37,
+    "openLibrary": 323,
+    "googleBooks": 0
   },
   "books": {
     "the-hobbit-j-r-r--tolkien": {
       "day": 0,
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10762989-L.jpg",
+      "source": "openlibrary"
     },
     "the-fellowship-of-the-ring-j-r-r--tolkien": {
       "day": 1,
       "title": "The Fellowship of the Ring",
       "author": "J.R.R. Tolkien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14625765-L.jpg",
+      "source": "openlibrary"
     },
     "the-two-towers-j-r-r--tolkien": {
       "day": 2,
       "title": "The Two Towers",
       "author": "J.R.R. Tolkien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14627564-L.jpg",
+      "source": "openlibrary"
     },
     "the-return-of-the-king-j-r-r--tolkien": {
       "day": 3,
       "title": "The Return of the King",
       "author": "J.R.R. Tolkien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14627062-L.jpg",
+      "source": "openlibrary"
     },
     "the-silmarillion-j-r-r--tolkien": {
       "day": 4,
       "title": "The Silmarillion",
       "author": "J.R.R. Tolkien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14627042-L.jpg",
+      "source": "openlibrary"
     },
     "charlie-and-the-chocolate-factory-roald-dahl": {
       "day": 5,
       "title": "Charlie and the Chocolate Factory",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12459564-L.jpg",
+      "source": "openlibrary"
     },
     "matilda-roald-dahl": {
       "day": 6,
       "title": "Matilda",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12889769-L.jpg",
+      "source": "openlibrary"
     },
     "the-bfg-roald-dahl": {
       "day": 7,
       "title": "The BFG",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9176033-L.jpg",
+      "source": "openlibrary"
     },
     "james-and-the-giant-peach-roald-dahl": {
       "day": 8,
       "title": "James and the Giant Peach",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8252454-L.jpg",
+      "source": "openlibrary"
     },
     "the-witches-roald-dahl": {
       "day": 9,
       "title": "The Witches",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12374442-L.jpg",
+      "source": "openlibrary"
     },
     "fantastic-mr-fox-roald-dahl": {
       "day": 10,
       "title": "Fantastic Mr Fox",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6498519-L.jpg",
+      "source": "openlibrary"
     },
     "danny-the-champion-of-the-world-roald-dahl": {
       "day": 11,
       "title": "Danny the Champion of the World",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6794243-L.jpg",
+      "source": "openlibrary"
     },
     "george-s-marvellous-medicine-roald-dahl": {
       "day": 12,
       "title": "George's Marvellous Medicine",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11388220-L.jpg",
+      "source": "openlibrary"
     },
     "the-twits-roald-dahl": {
       "day": 13,
       "title": "The Twits",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14838233-L.jpg",
+      "source": "openlibrary"
     },
     "esio-trot-roald-dahl": {
       "day": 14,
       "title": "Esio Trot",
       "author": "Roald Dahl",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8223130-L.jpg",
+      "source": "openlibrary"
     },
     "sharpe-s-rifles-bernard-cornwell": {
       "day": 15,
       "title": "Sharpe's Rifles",
       "author": "Bernard Cornwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/94583-L.jpg",
+      "source": "openlibrary"
     },
     "sharpe-s-eagle-bernard-cornwell": {
       "day": 16,
       "title": "Sharpe's Eagle",
       "author": "Bernard Cornwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/94367-L.jpg",
+      "source": "openlibrary"
     },
     "sharpe-s-gold-bernard-cornwell": {
       "day": 17,
       "title": "Sharpe's Gold",
       "author": "Bernard Cornwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/3592-L.jpg",
+      "source": "openlibrary"
     },
     "sharpe-s-company-bernard-cornwell": {
       "day": 18,
       "title": "Sharpe's Company",
       "author": "Bernard Cornwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/93908-L.jpg",
+      "source": "openlibrary"
     },
     "sharpe-s-sword-bernard-cornwell": {
       "day": 19,
       "title": "Sharpe's Sword",
       "author": "Bernard Cornwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/3517-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-philosopher-s-stone-j-k--rowling": {
       "day": 20,
       "title": "Harry Potter and the Philosopher's Stone",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-chamber-of-secrets-j-k--rowling": {
       "day": 21,
       "title": "Harry Potter and the Chamber of Secrets",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-prisoner-of-azkaban-j-k--rowling": {
       "day": 22,
       "title": "Harry Potter and the Prisoner of Azkaban",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-goblet-of-fire-j-k--rowling": {
       "day": 23,
       "title": "Harry Potter and the Goblet of Fire",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-order-of-the-phoenix-j-k--rowling": {
       "day": 24,
       "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-half-blood-prince-j-k--rowling": {
       "day": 25,
       "title": "Harry Potter and the Half-Blood Prince",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10716273-L.jpg",
+      "source": "openlibrary"
     },
     "harry-potter-and-the-deathly-hallows-j-k--rowling": {
       "day": 26,
@@ -188,7 +216,8 @@
       "day": 29,
       "title": "The Swiss Family Robinson",
       "author": "Johann David Wyss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8240402-L.jpg",
+      "source": "openlibrary"
     },
     "kidnapped-robert-louis-stevenson": {
       "day": 30,
@@ -197,22 +226,25 @@
       "coverUrl": null
     },
     "the-count-of-monte-cristo-alexandre-dumas": {
-      "day": 201,
+      "day": 31,
       "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/853482-L.jpg",
+      "source": "openlibrary"
     },
     "the-three-musketeers-alexandre-dumas": {
       "day": 32,
       "title": "The Three Musketeers",
       "author": "Alexandre Dumas",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11929973-L.jpg",
+      "source": "openlibrary"
     },
     "the-man-in-the-iron-mask-alexandre-dumas": {
       "day": 33,
       "title": "The Man in the Iron Mask",
       "author": "Alexandre Dumas",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2132494-L.jpg",
+      "source": "openlibrary"
     },
     "twenty-thousand-leagues-under-the-sea-jules-verne": {
       "day": 34,
@@ -230,13 +262,15 @@
       "day": 36,
       "title": "Journey to the Center of the Earth",
       "author": "Jules Verne",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5890987-L.jpg",
+      "source": "openlibrary"
     },
     "the-mysterious-island-jules-verne": {
       "day": 37,
       "title": "The Mysterious Island",
       "author": "Jules Verne",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/1277096-L.jpg",
+      "source": "openlibrary"
     },
     "from-the-earth-to-the-moon-jules-verne": {
       "day": 38,
@@ -248,25 +282,29 @@
       "day": 39,
       "title": "The War of the Worlds",
       "author": "H.G. Wells",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+      "source": "openlibrary"
     },
     "the-time-machine-h-g--wells": {
       "day": 40,
       "title": "The Time Machine",
       "author": "H.G. Wells",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9009316-L.jpg",
+      "source": "openlibrary"
     },
     "the-invisible-man-h-g--wells": {
       "day": 41,
       "title": "The Invisible Man",
       "author": "H.G. Wells",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6419199-L.jpg",
+      "source": "openlibrary"
     },
     "the-island-of-doctor-moreau-h-g--wells": {
       "day": 42,
       "title": "The Island of Doctor Moreau",
       "author": "H.G. Wells",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/968312-L.jpg",
+      "source": "openlibrary"
     },
     "dracula-bram-stoker": {
       "day": 43,
@@ -278,25 +316,29 @@
       "day": 44,
       "title": "Frankenstein",
       "author": "Mary Shelley",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12356249-L.jpg",
+      "source": "openlibrary"
     },
     "the-strange-case-of-dr-jekyll-and-mr-hyde-robert-louis-stevenson": {
       "day": 45,
       "title": "The Strange Case of Dr Jekyll and Mr Hyde",
       "author": "Robert Louis Stevenson",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/295773-L.jpg",
+      "source": "openlibrary"
     },
     "the-picture-of-dorian-gray-oscar-wilde": {
       "day": 46,
       "title": "The Picture of Dorian Gray",
       "author": "Oscar Wilde",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6816209-L.jpg",
+      "source": "openlibrary"
     },
     "the-turn-of-the-screw-henry-james": {
       "day": 47,
       "title": "The Turn of the Screw",
       "author": "Henry James",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/181493-L.jpg",
+      "source": "openlibrary"
     },
     "pride-and-prejudice-jane-austen": {
       "day": 48,
@@ -308,7 +350,8 @@
       "day": 49,
       "title": "Emma",
       "author": "Jane Austen",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9278312-L.jpg",
+      "source": "openlibrary"
     },
     "sense-and-sensibility-jane-austen": {
       "day": 50,
@@ -320,7 +363,8 @@
       "day": 51,
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10770819-L.jpg",
+      "source": "openlibrary"
     },
     "wuthering-heights-emily-bront-": {
       "day": 52,
@@ -332,13 +376,15 @@
       "day": 53,
       "title": "The Tenant of Wildfell Hall",
       "author": "Anne Brontë",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/1023552-L.jpg",
+      "source": "openlibrary"
     },
     "great-expectations-charles-dickens": {
       "day": 54,
       "title": "Great Expectations",
       "author": "Charles Dickens",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13322313-L.jpg",
+      "source": "openlibrary"
     },
     "david-copperfield-charles-dickens": {
       "day": 55,
@@ -350,49 +396,57 @@
       "day": 56,
       "title": "Oliver Twist",
       "author": "Charles Dickens",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9289570-L.jpg",
+      "source": "openlibrary"
     },
     "a-tale-of-two-cities-charles-dickens": {
-      "day": 204,
+      "day": 57,
       "title": "A Tale of Two Cities",
       "author": "Charles Dickens",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8324308-L.jpg",
+      "source": "openlibrary"
     },
     "a-christmas-carol-charles-dickens": {
       "day": 58,
       "title": "A Christmas Carol",
       "author": "Charles Dickens",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13299222-L.jpg",
+      "source": "openlibrary"
     },
     "1984-george-orwell": {
       "day": 59,
       "title": "1984",
       "author": "George Orwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+      "source": "openlibrary"
     },
     "animal-farm-george-orwell": {
       "day": 60,
       "title": "Animal Farm",
       "author": "George Orwell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11261770-L.jpg",
+      "source": "openlibrary"
     },
     "lord-of-the-flies-william-golding": {
       "day": 61,
       "title": "Lord of the Flies",
       "author": "William Golding",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8684447-L.jpg",
+      "source": "openlibrary"
     },
     "the-lion--the-witch-and-the-wardrobe-c-s--lewis": {
       "day": 62,
       "title": "The Lion, the Witch and the Wardrobe",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5288174-L.jpg",
+      "source": "openlibrary"
     },
     "prince-caspian-c-s--lewis": {
       "day": 63,
       "title": "Prince Caspian",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/45897-L.jpg",
+      "source": "openlibrary"
     },
     "the-voyage-of-the-dawn-treader-c-s--lewis": {
       "day": 64,
@@ -404,139 +458,162 @@
       "day": 65,
       "title": "The Silver Chair",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6950992-L.jpg",
+      "source": "openlibrary"
     },
     "the-horse-and-his-boy-c-s--lewis": {
       "day": 66,
       "title": "The Horse and His Boy",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9184792-L.jpg",
+      "source": "openlibrary"
     },
     "the-magician-s-nephew-c-s--lewis": {
       "day": 67,
       "title": "The Magician's Nephew",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/1072931-L.jpg",
+      "source": "openlibrary"
     },
     "the-last-battle-c-s--lewis": {
       "day": 68,
       "title": "The Last Battle",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6529226-L.jpg",
+      "source": "openlibrary"
     },
     "the-colour-of-magic-terry-pratchett": {
       "day": 69,
       "title": "The Colour of Magic",
       "author": "Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14647238-L.jpg",
+      "source": "openlibrary"
     },
     "mort-terry-pratchett": {
       "day": 70,
       "title": "Mort",
       "author": "Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14648805-L.jpg",
+      "source": "openlibrary"
     },
     "guards--guards--terry-pratchett": {
       "day": 71,
       "title": "Guards! Guards!",
       "author": "Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13095550-L.jpg",
+      "source": "openlibrary"
     },
     "small-gods-terry-pratchett": {
       "day": 72,
       "title": "Small Gods",
       "author": "Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14648232-L.jpg",
+      "source": "openlibrary"
     },
     "going-postal-terry-pratchett": {
       "day": 73,
       "title": "Going Postal",
       "author": "Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14646992-L.jpg",
+      "source": "openlibrary"
     },
     "northern-lights--the-golden-compass--philip-pullman": {
       "day": 74,
       "title": "Northern Lights (The Golden Compass)",
       "author": "Philip Pullman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8747028-L.jpg",
+      "source": "openlibrary"
     },
     "the-subtle-knife-philip-pullman": {
       "day": 75,
       "title": "The Subtle Knife",
       "author": "Philip Pullman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12614549-L.jpg",
+      "source": "openlibrary"
     },
     "the-amber-spyglass-philip-pullman": {
       "day": 76,
       "title": "The Amber Spyglass",
       "author": "Philip Pullman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12613246-L.jpg",
+      "source": "openlibrary"
     },
     "artemis-fowl-eoin-colfer": {
       "day": 77,
       "title": "Artemis Fowl",
       "author": "Eoin Colfer",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10212689-L.jpg",
+      "source": "openlibrary"
     },
     "artemis-fowl--the-arctic-incident-eoin-colfer": {
       "day": 78,
       "title": "Artemis Fowl: The Arctic Incident",
       "author": "Eoin Colfer",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231795-L.jpg",
+      "source": "openlibrary"
     },
     "the-lightning-thief-rick-riordan": {
       "day": 79,
       "title": "The Lightning Thief",
       "author": "Rick Riordan",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7239831-L.jpg",
+      "source": "openlibrary"
     },
     "the-sea-of-monsters-rick-riordan": {
       "day": 80,
       "title": "The Sea of Monsters",
       "author": "Rick Riordan",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/108909-L.jpg",
+      "source": "openlibrary"
     },
     "the-hunger-games-suzanne-collins": {
       "day": 81,
       "title": "The Hunger Games",
       "author": "Suzanne Collins",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12646537-L.jpg",
+      "source": "openlibrary"
     },
     "catching-fire-suzanne-collins": {
       "day": 82,
       "title": "Catching Fire",
       "author": "Suzanne Collins",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12646539-L.jpg",
+      "source": "openlibrary"
     },
     "mockingjay-suzanne-collins": {
       "day": 83,
       "title": "Mockingjay",
       "author": "Suzanne Collins",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6304853-L.jpg",
+      "source": "openlibrary"
     },
     "divergent-veronica-roth": {
       "day": 84,
       "title": "Divergent",
       "author": "Veronica Roth",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13274634-L.jpg",
+      "source": "openlibrary"
     },
     "the-maze-runner-james-dashner": {
       "day": 85,
       "title": "The Maze Runner",
       "author": "James Dashner",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10464801-L.jpg",
+      "source": "openlibrary"
     },
     "the-fault-in-our-stars-john-green": {
       "day": 86,
       "title": "The Fault in Our Stars",
       "author": "John Green",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7418786-L.jpg",
+      "source": "openlibrary"
     },
     "looking-for-alaska-john-green": {
       "day": 87,
       "title": "Looking for Alaska",
       "author": "John Green",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12614602-L.jpg",
+      "source": "openlibrary"
     },
     "paper-towns-john-green": {
       "day": 88,
@@ -548,25 +625,29 @@
       "day": 89,
       "title": "Eleanor & Park",
       "author": "Rainbow Rowell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12917595-L.jpg",
+      "source": "openlibrary"
     },
     "where-the-wild-things-are-maurice-sendak": {
       "day": 90,
       "title": "Where the Wild Things Are",
       "author": "Maurice Sendak",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/50842-L.jpg",
+      "source": "openlibrary"
     },
     "the-giving-tree-shel-silverstein": {
       "day": 91,
       "title": "The Giving Tree",
       "author": "Shel Silverstein",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8981758-L.jpg",
+      "source": "openlibrary"
     },
     "the-very-hungry-caterpillar-eric-carle": {
       "day": 92,
       "title": "The Very Hungry Caterpillar",
       "author": "Eric Carle",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7835968-L.jpg",
+      "source": "openlibrary"
     },
     "the-tale-of-peter-rabbit-beatrix-potter": {
       "day": 93,
@@ -578,37 +659,43 @@
       "day": 94,
       "title": "Winnie-the-Pooh",
       "author": "A.A. Milne",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8610816-L.jpg",
+      "source": "openlibrary"
     },
     "the-house-at-pooh-corner-a-a--milne": {
       "day": 95,
       "title": "The House at Pooh Corner",
       "author": "A.A. Milne",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8743133-L.jpg",
+      "source": "openlibrary"
     },
     "the-wind-in-the-willows-kenneth-grahame": {
       "day": 96,
       "title": "The Wind in the Willows",
       "author": "Kenneth Grahame",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13335427-L.jpg",
+      "source": "openlibrary"
     },
     "charlotte-s-web-e-b--white": {
       "day": 97,
       "title": "Charlotte's Web",
       "author": "E.B. White",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8461797-L.jpg",
+      "source": "openlibrary"
     },
     "stuart-little-e-b--white": {
-      "day": 212,
+      "day": 98,
       "title": "Stuart Little",
       "author": "E.B. White",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8461797-L.jpg",
+      "source": "openlibrary"
     },
     "the-trumpet-of-the-swan-e-b--white": {
       "day": 99,
       "title": "The Trumpet of the Swan",
       "author": "E.B. White",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8461797-L.jpg",
+      "source": "openlibrary"
     },
     "ramona-the-pest-beverly-cleary": {
       "day": 100,
@@ -620,31 +707,36 @@
       "day": 101,
       "title": "Henry Huggins",
       "author": "Beverly Cleary",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/15087634-L.jpg",
+      "source": "openlibrary"
     },
     "are-you-there-god--it-s-me--margaret-judy-blume": {
       "day": 102,
       "title": "Are You There God? It's Me, Margaret",
       "author": "Judy Blume",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12388102-L.jpg",
+      "source": "openlibrary"
     },
     "tales-of-a-fourth-grade-nothing-judy-blume": {
       "day": 103,
       "title": "Tales of a Fourth Grade Nothing",
       "author": "Judy Blume",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9268263-L.jpg",
+      "source": "openlibrary"
     },
     "holes-louis-sachar": {
       "day": 104,
       "title": "Holes",
       "author": "Louis Sachar",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/19797-L.jpg",
+      "source": "openlibrary"
     },
     "wayside-school-is-falling-down-louis-sachar": {
       "day": 105,
       "title": "Wayside School is Falling Down",
       "author": "Louis Sachar",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/430413-L.jpg",
+      "source": "openlibrary"
     },
     "hatchet-gary-paulsen": {
       "day": 106,
@@ -656,7 +748,8 @@
       "day": 107,
       "title": "Brian's Winter",
       "author": "Gary Paulsen",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/239344-L.jpg",
+      "source": "openlibrary"
     },
     "where-the-red-fern-grows-wilson-rawls": {
       "day": 108,
@@ -668,91 +761,106 @@
       "day": 109,
       "title": "Summer of the Monkeys",
       "author": "Wilson Rawls",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8222175-L.jpg",
+      "source": "openlibrary"
     },
     "because-of-winn-dixie-kate-dicamillo": {
       "day": 110,
       "title": "Because of Winn-Dixie",
       "author": "Kate DiCamillo",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10483749-L.jpg",
+      "source": "openlibrary"
     },
     "the-tale-of-despereaux-kate-dicamillo": {
       "day": 111,
       "title": "The Tale of Despereaux",
       "author": "Kate DiCamillo",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/541143-L.jpg",
+      "source": "openlibrary"
     },
     "tuck-everlasting-natalie-babbitt": {
       "day": 112,
       "title": "Tuck Everlasting",
       "author": "Natalie Babbitt",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/1471164-L.jpg",
+      "source": "openlibrary"
     },
     "a-wrinkle-in-time-madeleine-l-engle": {
       "day": 113,
       "title": "A Wrinkle in Time",
       "author": "Madeleine L'Engle",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12504824-L.jpg",
+      "source": "openlibrary"
     },
     "a-wind-in-the-door-madeleine-l-engle": {
       "day": 114,
       "title": "A Wind in the Door",
       "author": "Madeleine L'Engle",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12366237-L.jpg",
+      "source": "openlibrary"
     },
     "the-giver-lois-lowry": {
-      "day": 157,
+      "day": 115,
       "title": "The Giver",
       "author": "Lois Lowry",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8352502-L.jpg",
+      "source": "openlibrary"
     },
     "number-the-stars-lois-lowry": {
-      "day": 158,
+      "day": 116,
       "title": "Number the Stars",
       "author": "Lois Lowry",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13249599-L.jpg",
+      "source": "openlibrary"
     },
     "gathering-blue-lois-lowry": {
       "day": 117,
       "title": "Gathering Blue",
       "author": "Lois Lowry",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2231110-L.jpg",
+      "source": "openlibrary"
     },
     "dune-frank-herbert": {
       "day": 118,
       "title": "Dune",
       "author": "Frank Herbert",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11481354-L.jpg",
+      "source": "openlibrary"
     },
     "foundation-isaac-asimov": {
       "day": 119,
       "title": "Foundation",
       "author": "Isaac Asimov",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14612610-L.jpg",
+      "source": "openlibrary"
     },
     "ender-s-game-orson-scott-card": {
       "day": 120,
       "title": "Ender's Game",
       "author": "Orson Scott Card",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12996033-L.jpg",
+      "source": "openlibrary"
     },
     "neuromancer-william-gibson": {
       "day": 121,
       "title": "Neuromancer",
       "author": "William Gibson",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/283860-L.jpg",
+      "source": "openlibrary"
     },
     "the-hitchhiker-s-guide-to-the-galaxy-douglas-adams": {
       "day": 122,
       "title": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12986869-L.jpg",
+      "source": "openlibrary"
     },
     "the-left-hand-of-darkness-ursula-k--le-guin": {
       "day": 123,
       "title": "The Left Hand of Darkness",
       "author": "Ursula K. Le Guin",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10618463-L.jpg",
+      "source": "openlibrary"
     },
     "brave-new-world-aldous-huxley": {
       "day": 124,
@@ -764,109 +872,127 @@
       "day": 125,
       "title": "Slaughterhouse-Five",
       "author": "Kurt Vonnegut",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12727001-L.jpg",
+      "source": "openlibrary"
     },
     "the-martian-chronicles-ray-bradbury": {
       "day": 126,
       "title": "The Martian Chronicles",
       "author": "Ray Bradbury",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9346537-L.jpg",
+      "source": "openlibrary"
     },
     "starship-troopers-robert-a--heinlein": {
       "day": 127,
       "title": "Starship Troopers",
       "author": "Robert A. Heinlein",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14630746-L.jpg",
+      "source": "openlibrary"
     },
     "the-catcher-in-the-rye-j-d--salinger": {
       "day": 128,
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9273489-L.jpg",
+      "source": "openlibrary"
     },
     "to-kill-a-mockingbird-harper-lee": {
       "day": 129,
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12784310-L.jpg",
+      "source": "openlibrary"
     },
     "the-great-gatsby-f--scott-fitzgerald": {
       "day": 130,
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8432032-L.jpg",
+      "source": "openlibrary"
     },
     "moby-dick-herman-melville": {
       "day": 131,
       "title": "Moby-Dick",
       "author": "Herman Melville",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10410387-L.jpg",
+      "source": "openlibrary"
     },
     "the-adventures-of-huckleberry-finn-mark-twain": {
       "day": 132,
       "title": "The Adventures of Huckleberry Finn",
       "author": "Mark Twain",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6379845-L.jpg",
+      "source": "openlibrary"
     },
     "the-scarlet-letter-nathaniel-hawthorne": {
       "day": 133,
       "title": "The Scarlet Letter",
       "author": "Nathaniel Hawthorne",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6603956-L.jpg",
+      "source": "openlibrary"
     },
     "the-grapes-of-wrath-john-steinbeck": {
       "day": 134,
       "title": "The Grapes of Wrath",
       "author": "John Steinbeck",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12715902-L.jpg",
+      "source": "openlibrary"
     },
     "east-of-eden-john-steinbeck": {
       "day": 135,
       "title": "East of Eden",
       "author": "John Steinbeck",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11386937-L.jpg",
+      "source": "openlibrary"
     },
     "invisible-man-ralph-ellison": {
       "day": 136,
       "title": "Invisible Man",
       "author": "Ralph Ellison",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/998256-L.jpg",
+      "source": "openlibrary"
     },
     "beloved-toni-morrison": {
       "day": 137,
       "title": "Beloved",
       "author": "Toni Morrison",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8261367-L.jpg",
+      "source": "openlibrary"
     },
     "the-hound-of-the-baskervilles-arthur-conan-doyle": {
       "day": 138,
       "title": "The Hound of the Baskervilles",
       "author": "Arthur Conan Doyle",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8063264-L.jpg",
+      "source": "openlibrary"
     },
     "murder-on-the-orient-express-agatha-christie": {
       "day": 139,
       "title": "Murder on the Orient Express",
       "author": "Agatha Christie",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11100465-L.jpg",
+      "source": "openlibrary"
     },
     "and-then-there-were-none-agatha-christie": {
       "day": 140,
       "title": "And Then There Were None",
       "author": "Agatha Christie",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8410117-L.jpg",
+      "source": "openlibrary"
     },
     "the-maltese-falcon-dashiell-hammett": {
       "day": 141,
       "title": "The Maltese Falcon",
       "author": "Dashiell Hammett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/998587-L.jpg",
+      "source": "openlibrary"
     },
     "the-big-sleep-raymond-chandler": {
       "day": 142,
       "title": "The Big Sleep",
       "author": "Raymond Chandler",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7268475-L.jpg",
+      "source": "openlibrary"
     },
     "romeo-and-juliet-william-shakespeare": {
       "day": 143,
@@ -878,79 +1004,92 @@
       "day": 144,
       "title": "Hamlet",
       "author": "William Shakespeare",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8281954-L.jpg",
+      "source": "openlibrary"
     },
     "macbeth-william-shakespeare": {
       "day": 145,
       "title": "Macbeth",
       "author": "William Shakespeare",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/872432-L.jpg",
+      "source": "openlibrary"
     },
     "a-midsummer-night-s-dream-william-shakespeare": {
       "day": 146,
       "title": "A Midsummer Night's Dream",
       "author": "William Shakespeare",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10786966-L.jpg",
+      "source": "openlibrary"
     },
     "crime-and-punishment-fyodor-dostoevsky": {
       "day": 147,
       "title": "Crime and Punishment",
       "author": "Fyodor Dostoevsky",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10744834-L.jpg",
+      "source": "openlibrary"
     },
     "the-brothers-karamazov-fyodor-dostoevsky": {
       "day": 148,
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8272336-L.jpg",
+      "source": "openlibrary"
     },
     "anna-karenina-leo-tolstoy": {
       "day": 149,
       "title": "Anna Karenina",
       "author": "Leo Tolstoy",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2560652-L.jpg",
+      "source": "openlibrary"
     },
     "war-and-peace-leo-tolstoy": {
       "day": 150,
       "title": "War and Peace",
       "author": "Leo Tolstoy",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12621906-L.jpg",
+      "source": "openlibrary"
     },
     "the-little-prince-antoine-de-saint-exup-ry": {
       "day": 151,
       "title": "The Little Prince",
       "author": "Antoine de Saint-Exupéry",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10708272-L.jpg",
+      "source": "openlibrary"
     },
     "les-mis-rables-victor-hugo": {
       "day": 152,
       "title": "Les Misérables",
       "author": "Victor Hugo",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11012366-L.jpg",
+      "source": "openlibrary"
     },
     "the-hunchback-of-notre-dame-victor-hugo": {
       "day": 153,
       "title": "The Hunchback of Notre-Dame",
       "author": "Victor Hugo",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2626880-L.jpg",
+      "source": "openlibrary"
     },
     "the-stranger-albert-camus": {
       "day": 154,
       "title": "The Stranger",
       "author": "Albert Camus",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13151269-L.jpg",
+      "source": "openlibrary"
     },
     "all-quiet-on-the-western-front-erich-maria-remarque": {
       "day": 155,
       "title": "All Quiet on the Western Front",
       "author": "Erich Maria Remarque",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12706822-L.jpg",
+      "source": "openlibrary"
     },
     "the-metamorphosis-franz-kafka": {
       "day": 156,
       "title": "The Metamorphosis",
       "author": "Franz Kafka",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12820198-L.jpg",
+      "source": "openlibrary"
     },
     "bridge-to-terabithia-katherine-paterson": {
       "day": 159,
@@ -968,13 +1107,15 @@
       "day": 161,
       "title": "The Outsiders",
       "author": "S.E. Hinton",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7263662-L.jpg",
+      "source": "openlibrary"
     },
     "the-phantom-tollbooth-norton-juster": {
       "day": 162,
       "title": "The Phantom Tollbooth",
       "author": "Norton Juster",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8578174-L.jpg",
+      "source": "openlibrary"
     },
     "a-separate-peace-john-knowles": {
       "day": 163,
@@ -992,19 +1133,22 @@
       "day": 165,
       "title": "The Riddle of the Sands",
       "author": "Erskine Childers",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2293974-L.jpg",
+      "source": "openlibrary"
     },
     "the-day-of-the-jackal-frederick-forsyth": {
       "day": 166,
       "title": "The Day of the Jackal",
       "author": "Frederick Forsyth",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/77394-L.jpg",
+      "source": "openlibrary"
     },
     "the-hunt-for-red-october-tom-clancy": {
       "day": 167,
       "title": "The Hunt for Red October",
       "author": "Tom Clancy",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/683604-L.jpg",
+      "source": "openlibrary"
     },
     "the-bourne-identity-robert-ludlum": {
       "day": 168,
@@ -1016,193 +1160,225 @@
       "day": 169,
       "title": "The Pillars of the Earth",
       "author": "Ken Follett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9269909-L.jpg",
+      "source": "openlibrary"
     },
     "wolf-hall-hilary-mantel": {
       "day": 170,
       "title": "Wolf Hall",
       "author": "Hilary Mantel",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8345848-L.jpg",
+      "source": "openlibrary"
     },
     "i--claudius-robert-graves": {
       "day": 171,
       "title": "I, Claudius",
       "author": "Robert Graves",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14656260-L.jpg",
+      "source": "openlibrary"
     },
     "the-name-of-the-rose-umberto-eco": {
       "day": 172,
       "title": "The Name of the Rose",
       "author": "Umberto Eco",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8598263-L.jpg",
+      "source": "openlibrary"
     },
     "shogun-james-clavell": {
       "day": 173,
       "title": "Shogun",
       "author": "James Clavell",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2394441-L.jpg",
+      "source": "openlibrary"
     },
     "true-grit-charles-portis": {
       "day": 174,
       "title": "True Grit",
       "author": "Charles Portis",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/488237-L.jpg",
+      "source": "openlibrary"
     },
     "lonesome-dove-larry-mcmurtry": {
       "day": 175,
       "title": "Lonesome Dove",
       "author": "Larry McMurtry",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8376548-L.jpg",
+      "source": "openlibrary"
     },
     "blood-meridian-cormac-mccarthy": {
       "day": 176,
       "title": "Blood Meridian",
       "author": "Cormac McCarthy",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/419991-L.jpg",
+      "source": "openlibrary"
     },
     "pippi-longstocking-astrid-lindgren": {
       "day": 177,
       "title": "Pippi Longstocking",
       "author": "Astrid Lindgren",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11452342-L.jpg",
+      "source": "openlibrary"
     },
     "madeline-ludwig-bemelmans": {
       "day": 178,
       "title": "Madeline",
       "author": "Ludwig Bemelmans",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/973928-L.jpg",
+      "source": "openlibrary"
     },
     "goodnight-moon-margaret-wise-brown": {
       "day": 179,
       "title": "Goodnight Moon",
       "author": "Margaret Wise Brown",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/35556-L.jpg",
+      "source": "openlibrary"
     },
     "the-cat-in-the-hat-dr--seuss": {
       "day": 180,
       "title": "The Cat in the Hat",
       "author": "Dr. Seuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11342-L.jpg",
+      "source": "openlibrary"
     },
     "green-eggs-and-ham-dr--seuss": {
       "day": 181,
       "title": "Green Eggs and Ham",
       "author": "Dr. Seuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/559346-L.jpg",
+      "source": "openlibrary"
     },
     "how-the-grinch-stole-christmas-dr--seuss": {
       "day": 182,
       "title": "How the Grinch Stole Christmas",
       "author": "Dr. Seuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12055-L.jpg",
+      "source": "openlibrary"
     },
     "the-lorax-dr--seuss": {
       "day": 183,
       "title": "The Lorax",
       "author": "Dr. Seuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13469852-L.jpg",
+      "source": "openlibrary"
     },
     "oh--the-places-you-ll-go--dr--seuss": {
       "day": 184,
       "title": "Oh, The Places You'll Go!",
       "author": "Dr. Seuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5020952-L.jpg",
+      "source": "openlibrary"
     },
     "corduroy-don-freeman": {
       "day": 185,
       "title": "Corduroy",
       "author": "Don Freeman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/1333207-L.jpg",
+      "source": "openlibrary"
     },
     "harold-and-the-purple-crayon-crockett-johnson": {
       "day": 186,
       "title": "Harold and the Purple Crayon",
       "author": "Crockett Johnson",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/50758-L.jpg",
+      "source": "openlibrary"
     },
     "curious-george-h-a--rey": {
       "day": 187,
       "title": "Curious George",
       "author": "H.A. Rey",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/2973905-L.jpg",
+      "source": "openlibrary"
     },
     "make-way-for-ducklings-robert-mccloskey": {
       "day": 188,
       "title": "Make Way for Ducklings",
       "author": "Robert McCloskey",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/400659-L.jpg",
+      "source": "openlibrary"
     },
     "the-story-of-ferdinand-munro-leaf": {
       "day": 189,
       "title": "The Story of Ferdinand",
       "author": "Munro Leaf",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6716679-L.jpg",
+      "source": "openlibrary"
     },
     "caps-for-sale-esphyr-slobodkina": {
       "day": 190,
       "title": "Caps for Sale",
       "author": "Esphyr Slobodkina",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/50821-L.jpg",
+      "source": "openlibrary"
     },
     "the-once-and-future-king-t-h--white": {
       "day": 191,
       "title": "The Once and Future King",
       "author": "T.H. White",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "the-sword-in-the-stone-t-h--white": {
       "day": 192,
       "title": "The Sword in the Stone",
       "author": "T.H. White",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "the-wizard-of-earthsea-ursula-k--le-guin": {
       "day": 193,
       "title": "The Wizard of Earthsea",
       "author": "Ursula K. Le Guin",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13617691-L.jpg",
+      "source": "openlibrary"
     },
     "the-dark-is-rising-susan-cooper": {
       "day": 194,
       "title": "The Dark Is Rising",
       "author": "Susan Cooper",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9363540-L.jpg",
+      "source": "openlibrary"
     },
     "the-princess-bride-william-goldman": {
       "day": 195,
       "title": "The Princess Bride",
       "author": "William Goldman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9284881-L.jpg",
+      "source": "openlibrary"
     },
     "stardust-neil-gaiman": {
       "day": 196,
       "title": "Stardust",
       "author": "Neil Gaiman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8216379-L.jpg",
+      "source": "openlibrary"
     },
     "american-gods-neil-gaiman": {
       "day": 197,
       "title": "American Gods",
       "author": "Neil Gaiman",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8494659-L.jpg",
+      "source": "openlibrary"
     },
     "good-omens-neil-gaiman---terry-pratchett": {
       "day": 198,
       "title": "Good Omens",
       "author": "Neil Gaiman & Terry Pratchett",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/10482258-L.jpg",
+      "source": "openlibrary"
     },
     "the-name-of-the-wind-patrick-rothfuss": {
       "day": 199,
       "title": "The Name of the Wind",
       "author": "Patrick Rothfuss",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11480483-L.jpg",
+      "source": "openlibrary"
     },
     "mistborn-brandon-sanderson": {
       "day": 200,
       "title": "Mistborn",
       "author": "Brandon Sanderson",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14658160-L.jpg",
+      "source": "openlibrary"
     },
     "ivanhoe-walter-scott": {
       "day": 202,
@@ -1226,7 +1402,8 @@
       "day": 206,
       "title": "My Side of the Mountain",
       "author": "Jean Craighead George",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/108669-L.jpg",
+      "source": "openlibrary"
     },
     "island-of-the-blue-dolphins-scott-o-dell": {
       "day": 207,
@@ -1238,7 +1415,8 @@
       "day": 208,
       "title": "Julie of the Wolves",
       "author": "Jean Craighead George",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12903627-L.jpg",
+      "source": "openlibrary"
     },
     "mrs--frisby-and-the-rats-of-nimh-robert-c--o-brien": {
       "day": 209,
@@ -1256,43 +1434,50 @@
       "day": 211,
       "title": "The Cricket in Times Square",
       "author": "George Selden",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/282442-L.jpg",
+      "source": "openlibrary"
     },
     "the-velveteen-rabbit-margery-williams": {
       "day": 213,
       "title": "The Velveteen Rabbit",
       "author": "Margery Williams",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11738076-L.jpg",
+      "source": "openlibrary"
     },
     "the-rainbow-fish-marcus-pfister": {
       "day": 214,
       "title": "The Rainbow Fish",
       "author": "Marcus Pfister",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/9013570-L.jpg",
+      "source": "openlibrary"
     },
     "guess-how-much-i-love-you-sam-mcbratney": {
       "day": 215,
       "title": "Guess How Much I Love You",
       "author": "Sam McBratney",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13282906-L.jpg",
+      "source": "openlibrary"
     },
     "love-you-forever-robert-munsch": {
       "day": 216,
       "title": "Love You Forever",
       "author": "Robert Munsch",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/772161-L.jpg",
+      "source": "openlibrary"
     },
     "the-polar-express-chris-van-allsburg": {
       "day": 217,
       "title": "The Polar Express",
       "author": "Chris Van Allsburg",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/394670-L.jpg",
+      "source": "openlibrary"
     },
     "jumanji-chris-van-allsburg": {
       "day": 218,
       "title": "Jumanji",
       "author": "Chris Van Allsburg",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/255573-L.jpg",
+      "source": "openlibrary"
     },
     "the-polar-bear-chris-van-allsburg": {
       "day": 219,
@@ -1304,697 +1489,813 @@
       "day": 220,
       "title": "Where the Sidewalk Ends",
       "author": "Shel Silverstein",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/31070-L.jpg",
+      "source": "openlibrary"
     },
     "a-light-in-the-attic-shel-silverstein": {
       "day": 221,
       "title": "A Light in the Attic",
       "author": "Shel Silverstein",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6806998-L.jpg",
+      "source": "openlibrary"
     },
     "the-chocolate-war-robert-cormier": {
       "day": 222,
       "title": "The Chocolate War",
       "author": "Robert Cormier",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12619603-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-224-various-authors": {
       "day": 223,
       "title": "Classic Book 224",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-225-various-authors": {
       "day": 224,
       "title": "Classic Book 225",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-226-various-authors": {
       "day": 225,
       "title": "Classic Book 226",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-227-various-authors": {
       "day": 226,
       "title": "Classic Book 227",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-228-various-authors": {
       "day": 227,
       "title": "Classic Book 228",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-229-various-authors": {
       "day": 228,
       "title": "Classic Book 229",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-230-various-authors": {
       "day": 229,
       "title": "Classic Book 230",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-231-various-authors": {
       "day": 230,
       "title": "Classic Book 231",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12356249-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-232-various-authors": {
       "day": 231,
       "title": "Classic Book 232",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-233-various-authors": {
       "day": 232,
       "title": "Classic Book 233",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6657951-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-234-various-authors": {
       "day": 233,
       "title": "Classic Book 234",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-235-various-authors": {
       "day": 234,
       "title": "Classic Book 235",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-236-various-authors": {
       "day": 235,
       "title": "Classic Book 236",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-237-various-authors": {
       "day": 236,
       "title": "Classic Book 237",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12356249-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-238-various-authors": {
       "day": 237,
       "title": "Classic Book 238",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8229224-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-239-various-authors": {
       "day": 238,
       "title": "Classic Book 239",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-240-various-authors": {
       "day": 239,
       "title": "Classic Book 240",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-241-various-authors": {
       "day": 240,
       "title": "Classic Book 241",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-242-various-authors": {
       "day": 241,
       "title": "Classic Book 242",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-243-various-authors": {
       "day": 242,
       "title": "Classic Book 243",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-244-various-authors": {
       "day": 243,
       "title": "Classic Book 244",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-245-various-authors": {
       "day": 244,
       "title": "Classic Book 245",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-246-various-authors": {
       "day": 245,
       "title": "Classic Book 246",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-247-various-authors": {
       "day": 246,
       "title": "Classic Book 247",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-248-various-authors": {
       "day": 247,
       "title": "Classic Book 248",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-249-various-authors": {
       "day": 248,
       "title": "Classic Book 249",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-250-various-authors": {
       "day": 249,
       "title": "Classic Book 250",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-251-various-authors": {
       "day": 250,
       "title": "Classic Book 251",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-252-various-authors": {
       "day": 251,
       "title": "Classic Book 252",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-253-various-authors": {
       "day": 252,
       "title": "Classic Book 253",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7212118-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-254-various-authors": {
       "day": 253,
       "title": "Classic Book 254",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-255-various-authors": {
       "day": 254,
       "title": "Classic Book 255",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-256-various-authors": {
       "day": 255,
       "title": "Classic Book 256",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5601494-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-257-various-authors": {
       "day": 256,
       "title": "Classic Book 257",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-258-various-authors": {
       "day": 257,
       "title": "Classic Book 258",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-259-various-authors": {
       "day": 258,
       "title": "Classic Book 259",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-260-various-authors": {
       "day": 259,
       "title": "Classic Book 260",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-261-various-authors": {
       "day": 260,
       "title": "Classic Book 261",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-262-various-authors": {
       "day": 261,
       "title": "Classic Book 262",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8236937-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-263-various-authors": {
       "day": 262,
       "title": "Classic Book 263",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-264-various-authors": {
       "day": 263,
       "title": "Classic Book 264",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-265-various-authors": {
       "day": 264,
       "title": "Classic Book 265",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-266-various-authors": {
       "day": 265,
       "title": "Classic Book 266",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-267-various-authors": {
       "day": 266,
       "title": "Classic Book 267",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-268-various-authors": {
       "day": 267,
       "title": "Classic Book 268",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-269-various-authors": {
       "day": 268,
       "title": "Classic Book 269",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-270-various-authors": {
       "day": 269,
       "title": "Classic Book 270",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-271-various-authors": {
       "day": 270,
       "title": "Classic Book 271",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-272-various-authors": {
       "day": 271,
       "title": "Classic Book 272",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-273-various-authors": {
       "day": 272,
       "title": "Classic Book 273",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-274-various-authors": {
       "day": 273,
       "title": "Classic Book 274",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-275-various-authors": {
       "day": 274,
       "title": "Classic Book 275",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-276-various-authors": {
       "day": 275,
       "title": "Classic Book 276",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-277-various-authors": {
       "day": 276,
       "title": "Classic Book 277",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8257991-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-278-various-authors": {
       "day": 277,
       "title": "Classic Book 278",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-279-various-authors": {
       "day": 278,
       "title": "Classic Book 279",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-280-various-authors": {
       "day": 279,
       "title": "Classic Book 280",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-281-various-authors": {
       "day": 280,
       "title": "Classic Book 281",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-282-various-authors": {
       "day": 281,
       "title": "Classic Book 282",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-283-various-authors": {
       "day": 282,
       "title": "Classic Book 283",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-284-various-authors": {
       "day": 283,
       "title": "Classic Book 284",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-285-various-authors": {
       "day": 284,
       "title": "Classic Book 285",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-286-various-authors": {
       "day": 285,
       "title": "Classic Book 286",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-287-various-authors": {
       "day": 286,
       "title": "Classic Book 287",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-288-various-authors": {
       "day": 287,
       "title": "Classic Book 288",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-289-various-authors": {
       "day": 288,
       "title": "Classic Book 289",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-290-various-authors": {
       "day": 289,
       "title": "Classic Book 290",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-291-various-authors": {
       "day": 290,
       "title": "Classic Book 291",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-292-various-authors": {
       "day": 291,
       "title": "Classic Book 292",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-293-various-authors": {
       "day": 292,
       "title": "Classic Book 293",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-294-various-authors": {
       "day": 293,
       "title": "Classic Book 294",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-295-various-authors": {
       "day": 294,
       "title": "Classic Book 295",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-296-various-authors": {
       "day": 295,
       "title": "Classic Book 296",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-297-various-authors": {
       "day": 296,
       "title": "Classic Book 297",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12261674-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-298-various-authors": {
       "day": 297,
       "title": "Classic Book 298",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-299-various-authors": {
       "day": 298,
       "title": "Classic Book 299",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-300-various-authors": {
       "day": 299,
       "title": "Classic Book 300",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8237041-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-301-various-authors": {
       "day": 300,
       "title": "Classic Book 301",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6657951-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-302-various-authors": {
       "day": 301,
       "title": "Classic Book 302",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-303-various-authors": {
       "day": 302,
       "title": "Classic Book 303",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-304-various-authors": {
       "day": 303,
       "title": "Classic Book 304",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-305-various-authors": {
       "day": 304,
       "title": "Classic Book 305",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-306-various-authors": {
       "day": 305,
       "title": "Classic Book 306",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5601494-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-307-various-authors": {
       "day": 306,
       "title": "Classic Book 307",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/675852-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-308-various-authors": {
       "day": 307,
       "title": "Classic Book 308",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-309-various-authors": {
       "day": 308,
       "title": "Classic Book 309",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-310-various-authors": {
       "day": 309,
       "title": "Classic Book 310",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-311-various-authors": {
       "day": 310,
       "title": "Classic Book 311",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-312-various-authors": {
       "day": 311,
       "title": "Classic Book 312",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-313-various-authors": {
       "day": 312,
       "title": "Classic Book 313",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6657951-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-314-various-authors": {
       "day": 313,
       "title": "Classic Book 314",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-315-various-authors": {
       "day": 314,
       "title": "Classic Book 315",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-316-various-authors": {
       "day": 315,
       "title": "Classic Book 316",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-317-various-authors": {
       "day": 316,
       "title": "Classic Book 317",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-318-various-authors": {
       "day": 317,
       "title": "Classic Book 318",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-319-various-authors": {
       "day": 318,
       "title": "Classic Book 319",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-320-various-authors": {
       "day": 319,
       "title": "Classic Book 320",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-321-various-authors": {
       "day": 320,
       "title": "Classic Book 321",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-322-various-authors": {
       "day": 321,
       "title": "Classic Book 322",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-323-various-authors": {
       "day": 322,
       "title": "Classic Book 323",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-324-various-authors": {
       "day": 323,
       "title": "Classic Book 324",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-325-various-authors": {
       "day": 324,
       "title": "Classic Book 325",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6387077-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-326-various-authors": {
       "day": 325,
       "title": "Classic Book 326",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-327-various-authors": {
       "day": 326,
       "title": "Classic Book 327",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6387077-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-328-various-authors": {
       "day": 327,
       "title": "Classic Book 328",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-329-various-authors": {
       "day": 328,
       "title": "Classic Book 329",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6387077-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-330-various-authors": {
       "day": 329,
       "title": "Classic Book 330",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-331-various-authors": {
       "day": 330,
       "title": "Classic Book 331",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-332-various-authors": {
       "day": 331,
       "title": "Classic Book 332",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-333-various-authors": {
       "day": 332,
       "title": "Classic Book 333",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-334-various-authors": {
       "day": 333,
       "title": "Classic Book 334",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-335-various-authors": {
       "day": 334,
       "title": "Classic Book 335",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/8303480-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-336-various-authors": {
       "day": 335,
       "title": "Classic Book 336",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-337-various-authors": {
       "day": 336,
@@ -2006,49 +2307,57 @@
       "day": 337,
       "title": "Classic Book 338",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-339-various-authors": {
       "day": 338,
       "title": "Classic Book 339",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-340-various-authors": {
       "day": 339,
       "title": "Classic Book 340",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-341-various-authors": {
       "day": 340,
       "title": "Classic Book 341",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-342-various-authors": {
       "day": 341,
       "title": "Classic Book 342",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-343-various-authors": {
       "day": 342,
       "title": "Classic Book 343",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-344-various-authors": {
       "day": 343,
       "title": "Classic Book 344",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-345-various-authors": {
       "day": 344,
       "title": "Classic Book 345",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-346-various-authors": {
       "day": 345,
@@ -2060,13 +2369,15 @@
       "day": 346,
       "title": "Classic Book 347",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-348-various-authors": {
       "day": 347,
       "title": "Classic Book 348",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-349-various-authors": {
       "day": 348,
@@ -2078,67 +2389,78 @@
       "day": 349,
       "title": "Classic Book 350",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-351-various-authors": {
       "day": 350,
       "title": "Classic Book 351",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-352-various-authors": {
       "day": 351,
       "title": "Classic Book 352",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/5954136-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-353-various-authors": {
       "day": 352,
       "title": "Classic Book 353",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-354-various-authors": {
       "day": 353,
       "title": "Classic Book 354",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-355-various-authors": {
       "day": 354,
       "title": "Classic Book 355",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/6657951-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-356-various-authors": {
       "day": 355,
       "title": "Classic Book 356",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12728198-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-357-various-authors": {
       "day": 356,
       "title": "Classic Book 357",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-358-various-authors": {
       "day": 357,
       "title": "Classic Book 358",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-359-various-authors": {
       "day": 358,
       "title": "Classic Book 359",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-360-various-authors": {
       "day": 359,
       "title": "Classic Book 360",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-361-various-authors": {
       "day": 360,
@@ -2150,7 +2472,8 @@
       "day": 361,
       "title": "Classic Book 362",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13300802-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-363-various-authors": {
       "day": 362,
@@ -2162,13 +2485,15 @@
       "day": 363,
       "title": "Classic Book 364",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/11048623-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-365-various-authors": {
       "day": 364,
       "title": "Classic Book 365",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+      "source": "openlibrary"
     }
   }
 }
