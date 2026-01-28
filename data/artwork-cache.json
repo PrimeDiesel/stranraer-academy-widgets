@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-01-27T18:34:45.090Z",
+  "lastUpdated": "2026-01-28T06:49:19.575Z",
   "stats": {
     "total": 365,
     "withImages": 356,
     "withoutImages": 9,
     "percentage": 98,
-    "newlyFetched": 356,
-    "alreadyCached": 2,
+    "newlyFetched": 0,
+    "alreadyCached": 358,
     "failed": 7
   },
   "artworks": {
