@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-01-28T07:48:21.946Z",
+  "lastUpdated": "2026-01-29T07:34:58.437Z",
   "stats": {
     "total": 365,
     "withCovers": 323,
     "withoutCovers": 42,
     "percentage": 88,
-    "newlyFetched": 323,
-    "alreadyCached": 5,
+    "newlyFetched": 0,
+    "alreadyCached": 328,
     "failed": 37,
-    "openLibrary": 323,
+    "openLibrary": 0,
     "googleBooks": 0
   },
   "books": {
