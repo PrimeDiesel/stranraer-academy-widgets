@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T07:49:46.342Z",
+  "lastUpdated": "2026-02-04T07:55:25.146Z",
   "stats": {
     "total": 365,
     "withImages": 356,
@@ -14,22 +14,22 @@
       "day": 0,
       "title": "Mona Lisa",
       "artist": "Leonardo da Vinci",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP832657.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1024px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "source": "wikimedia"
     },
     "leonardo-da-vinci-the-last-supper": {
       "day": 1,
       "title": "The Last Supper",
       "artist": "Leonardo da Vinci",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP287735.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/1280px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg",
+      "source": "wikimedia"
     },
     "michelangelo-the-creation-of-adam": {
       "day": 2,
       "title": "The Creation of Adam",
       "artist": "Michelangelo",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/es/original/DP242352.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1280px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+      "source": "wikimedia"
     },
     "michelangelo-david": {
       "day": 3,
@@ -42,8 +42,8 @@
       "day": 4,
       "title": "The Birth of Venus",
       "artist": "Sandro Botticelli",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/rl/original/DT2634.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "source": "wikimedia"
     },
     "sandro-botticelli-primavera": {
       "day": 5,
@@ -63,29 +63,29 @@
       "day": 7,
       "title": "The Arnolfini Portrait",
       "artist": "Jan van Eyck",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/LC-33_92ab-Primary_Temp.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/1024px-Van_Eyck_-_Arnolfini_Portrait.jpg",
+      "source": "wikimedia"
     },
     "hieronymus-bosch-the-garden-of-earthly-delights": {
       "day": 8,
       "title": "The Garden of Earthly Delights",
       "artist": "Hieronymus Bosch",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP372687.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1280px-The_Garden_of_earthly_delights.jpg",
+      "source": "wikimedia"
     },
     "johannes-vermeer-girl-with-a-pearl-earring": {
       "day": 9,
       "title": "Girl with a Pearl Earring",
       "artist": "Johannes Vermeer",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP353256.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1024px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "source": "wikimedia"
     },
     "rembrandt-van-rijn-the-night-watch": {
       "day": 10,
       "title": "The Night Watch",
       "artist": "Rembrandt van Rijn",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP146479.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1280px-The_Night_Watch_-_HD.jpg",
+      "source": "wikimedia"
     },
     "caravaggio-the-calling-of-st--matthew": {
       "day": 11,
@@ -175,15 +175,15 @@
       "day": 23,
       "title": "Impression, Sunrise",
       "artist": "Claude Monet",
-      "imageUrl": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1280px-Monet_-_Impression%2C_Sunrise.jpg",
+      "source": "wikimedia"
     },
     "claude-monet-water-lilies": {
       "day": 24,
       "title": "Water Lilies",
       "artist": "Claude Monet",
-      "imageUrl": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+      "source": "wikimedia"
     },
     "-douard-manet-a-bar-at-the-folies-berg-re": {
       "day": 25,
@@ -210,7 +210,8 @@
       "day": 28,
       "title": "The Starry Night",
       "artist": "Vincent van Gogh",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
@@ -265,8 +266,8 @@
       "day": 36,
       "title": "The Kiss",
       "artist": "Gustav Klimt",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-18885-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gustav_Klimt_016.jpg/1024px-Gustav_Klimt_016.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-woman-with-a-hat": {
       "day": 37,
@@ -293,15 +294,15 @@
       "day": 40,
       "title": "Guernica",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/PicassoGuernica.jpg/1280px-PicassoGuernica.jpg",
+      "source": "wikimedia"
     },
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
       "artist": "Salvador Dalí",
-      "imageUrl": "https://www.artic.edu/iiif/2/be9551d4-860f-37a0-1408-086617f1824e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Persistence_of_Memory.jpg/1280px-The_Persistence_of_Memory.jpg",
+      "source": "wikimedia"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
@@ -314,8 +315,8 @@
       "day": 43,
       "title": "American Gothic",
       "artist": "Grant Wood",
-      "imageUrl": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1024px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "edward-hopper-nighthawks": {
       "day": 44,
