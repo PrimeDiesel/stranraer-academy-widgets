@@ -1,13 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T07:04:25.286Z",
+  "lastUpdated": "2026-02-06T07:10:31.794Z",
   "stats": {
-    "total": 365,
-    "withImages": 356,
-    "withoutImages": 9,
+    "total": 363,
+    "withImages": 357,
+    "withoutImages": 6,
     "percentage": 98,
-    "newlyFetched": 0,
-    "alreadyCached": 358,
-    "failed": 7
+    "sources": {
+      "wikimedia": 22,
+      "met": 19,
+      "aic": 315
+    }
   },
   "artworks": {
     "leonardo-da-vinci-mona-lisa": {
@@ -119,8 +121,8 @@
       "day": 15,
       "title": "The Death of Marat",
       "artist": "Jacques-Louis David",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-19709-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Death_of_Marat_by_David.jpg/1024px-Death_of_Marat_by_David.jpg",
+      "source": "wikimedia"
     },
     "th-odore-g-ricault-the-raft-of-the-medusa": {
       "day": 16,
@@ -210,8 +212,7 @@
       "day": 28,
       "title": "The Starry Night",
       "artist": "Vincent van Gogh",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
@@ -273,8 +274,8 @@
       "day": 37,
       "title": "Woman with a Hat",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matisse-Woman-with-a-Hat.jpg/1024px-Matisse-Woman-with-a-Hat.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-the-dance": {
       "day": 38,
@@ -336,8 +337,8 @@
       "day": 46,
       "title": "Campbell's Soup Cans",
       "artist": "Andy Warhol",
-      "imageUrl": "https://www.artic.edu/iiif/2/97cb5c4b-cce5-c4d8-f303-613ce92832c7/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Campbells_Soup_Cans_MOMA.jpg/1024px-Campbells_Soup_Cans_MOMA.jpg",
+      "source": "wikimedia"
     },
     "andy-warhol-marilyn-diptych": {
       "day": 47,
@@ -357,8 +358,8 @@
       "day": 49,
       "title": "No. 5, 1948",
       "artist": "Jackson Pollock",
-      "imageUrl": null,
-      "source": null
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/No._5%2C_1948.jpg/1024px-No._5%2C_1948.jpg",
+      "source": "wikimedia"
     },
     "jackson-pollock-autumn-rhythm--number-30-": {
       "day": 50,
