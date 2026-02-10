@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-02-09T07:23:50.969Z",
+  "lastUpdated": "2026-02-10T07:19:09.981Z",
   "stats": {
     "total": 365,
     "withImages": 362,
     "withoutImages": 3,
     "percentage": 99,
-    "newlyFetched": 322,
-    "alreadyCached": 42,
+    "newlyFetched": 88,
+    "alreadyCached": 276,
     "failed": 1,
     "sources": {
-      "wikimedia": 276,
-      "met": 23,
-      "aic": 65
+      "wikimedia": 329,
+      "met": 2,
+      "aic": 33
     }
   },
   "artworks": {
@@ -1006,8 +1006,8 @@
       "day": 142,
       "title": "Echo and Narcissus",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP-17007-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg/1280px-John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-cleopatra": {
       "day": 143,
@@ -1027,8 +1027,8 @@
       "day": 145,
       "title": "The Soul of the Rose",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/cl/original/DP253014.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg/1280px-John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-danaides": {
       "day": 146,
@@ -1118,8 +1118,8 @@
       "day": 158,
       "title": "Sleep and His Half-Brother Death",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://www.artic.edu/iiif/2/2238572f-ad2a-110e-0eda-78dc50b8e13d/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Waterhouse-sleep_and_his_half-brother_death-1874.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-mariamne-leaving-the-judgement-seat-of-herod": {
       "day": 159,
@@ -1139,8 +1139,8 @@
       "day": 161,
       "title": "Tristan and Isolde",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://www.artic.edu/iiif/2/2372c644-5f6d-acbc-5e16-58b2c1aece2a/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg/1280px-John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-crystal-ball": {
       "day": 162,
@@ -1160,8 +1160,8 @@
       "day": 164,
       "title": "Penelope and the Suitors",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://www.artic.edu/iiif/2/e7cf3623-d0ba-d945-ee18-57d48c89aafd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Penelope_and_the_Suitors_-_John_William_Waterhouse_-_ABDAG003035.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-ulysses-and-the-sirens": {
       "day": 165,
@@ -1181,15 +1181,15 @@
       "day": 167,
       "title": "Ariadne",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP837767.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_William_Waterhouse_Ariadne.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-siren": {
       "day": 168,
       "title": "The Siren",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-17641-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Siren_by_John_William_Waterhouse_%281900%29.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-nymphs-finding-the-head-of-orpheus": {
       "day": 169,
@@ -1209,8 +1209,8 @@
       "day": 171,
       "title": "A Roman Offering",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DT6494.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/A_Roman_Offering_-_JWW.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-phyllis-and-demophoon": {
       "day": 172,
@@ -1223,8 +1223,8 @@
       "day": 173,
       "title": "King Cophetua and the Beggar Maid",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://www.artic.edu/iiif/2/4bdff9ea-3a92-cde8-b3a2-0bde3f0d717a/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Edward_Burne-Jones_-_King_Cophetua_and_the_Beggar_Maid_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-golden-stairs": {
       "day": 174,
@@ -1237,8 +1237,8 @@
       "day": 175,
       "title": "The Beguiling of Merlin",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Beguiling_of_Merlin_by_Edward_Burne-Jones.jpg/1280px-The_Beguiling_of_Merlin_by_Edward_Burne-Jones.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-mirror-of-venus": {
       "day": 176,
@@ -1251,8 +1251,8 @@
       "day": 177,
       "title": "Love Among the Ruins",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Edward_Burne-Jones_Love_Among_the_Ruins.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-star-of-bethlehem": {
       "day": 178,
@@ -1265,8 +1265,8 @@
       "day": 179,
       "title": "The Annunciation",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Edward_Burne-Jones_-_The_Annunciation_-_Google_Art_Project.jpg/1280px-Edward_Burne-Jones_-_The_Annunciation_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-depths-of-the-sea": {
       "day": 180,
@@ -1279,8 +1279,8 @@
       "day": 181,
       "title": "The Wheel of Fortune",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Edward_Burne-Jones_-_The_Wheel_of_Fortune_-_Google_Art_Project.jpg/1280px-Edward_Burne-Jones_-_The_Wheel_of_Fortune_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-dream-of-lancelot": {
       "day": 182,
@@ -1293,15 +1293,15 @@
       "day": 183,
       "title": "The Sleep of Arthur in Avalon",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/1280px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-perseus-and-the-sea-nymphs": {
       "day": 184,
       "title": "Perseus and the Sea Nymphs",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://www.artic.edu/iiif/2/0534abcb-8bf1-dbc8-16a7-5eeb818dbcf7/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Perseus_and_the_Sea_Nymphs_-_Edward_Burne-Jones%2C_1877.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-cupid-and-psyche": {
       "day": 185,
@@ -1335,8 +1335,8 @@
       "day": 189,
       "title": "The Wine of Circe",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edward_Burne-Jones_-_Study_of_a_Head.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-mill": {
       "day": 190,
@@ -1349,8 +1349,8 @@
       "day": 191,
       "title": "The Garden Court",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Edward_Burne-Jones_%281833-1898%29_-_The_Garden_Court_%28from_the_Briar_Rose_series%29_-_K928_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-council-chamber": {
       "day": 192,
@@ -1363,15 +1363,15 @@
       "day": 193,
       "title": "The Rose Bower",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sir_Edward_Coley_Burne-Jones%2C_Bt_-_The_Rose_Bower_-_B2019.7.4_-_Yale_Center_for_British_Art.jpg/1280px-Sir_Edward_Coley_Burne-Jones%2C_Bt_-_The_Rose_Bower_-_B2019.7.4_-_Yale_Center_for_British_Art.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-laus-veneris": {
       "day": 194,
       "title": "Laus Veneris",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://www.artic.edu/iiif/2/4bdff9ea-3a92-cde8-b3a2-0bde3f0d717a/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Laus_Veneris_by_Edward_Burne-Jones.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-sidonia-von-bork": {
       "day": 195,
@@ -1384,8 +1384,8 @@
       "day": 196,
       "title": "Clara von Bork",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://www.artic.edu/iiif/2/4bdff9ea-3a92-cde8-b3a2-0bde3f0d717a/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Exhibition_of_the_works_of_Sir_Edward_Burne-Jones%2C_Bart._%28IA_exhibitionofwork00newgiala%29.pdf/page1-1280px-Exhibition_of_the_works_of_Sir_Edward_Burne-Jones%2C_Bart._%28IA_exhibitionofwork00newgiala%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "edward-burne-jones-the-merciful-knight": {
       "day": 197,
@@ -1398,8 +1398,8 @@
       "day": 198,
       "title": "Green Summer",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://www.artic.edu/iiif/2/4bdff9ea-3a92-cde8-b3a2-0bde3f0d717a/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edward_Burne-Jones_Green_Summer_%281864%29.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-autumn-leaves": {
       "day": 199,
@@ -1412,8 +1412,8 @@
       "day": 200,
       "title": "The Blind Girl",
       "artist": "John Everett Millais",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-26505-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg/1280px-John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-the-order-of-release": {
       "day": 201,
@@ -1433,8 +1433,8 @@
       "day": 203,
       "title": "The North-West Passage",
       "artist": "John Everett Millais",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-039.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/John_Everett_Millais_-_The_North-West_Passage_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_The_North-West_Passage_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-bubbles": {
       "day": 204,
@@ -1461,8 +1461,8 @@
       "day": 207,
       "title": "Chill October",
       "artist": "John Everett Millais",
-      "imageUrl": "https://www.artic.edu/iiif/2/7035a4ba-61c4-c498-618d-8f9076889ac5/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Chill_October.jpg/1280px-Chill_October.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-the-vale-of-rest": {
       "day": 208,
@@ -1496,8 +1496,8 @@
       "day": 212,
       "title": "The Return of the Dove to the Ark",
       "artist": "John Everett Millais",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP-40424-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Millais_-_Die_R%C3%BCckkehr_der_Taube_zur_Arche_Noah.jpg/1280px-Millais_-_Die_R%C3%BCckkehr_der_Taube_zur_Arche_Noah.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-lorenzo-and-isabella": {
       "day": 213,
@@ -1517,8 +1517,8 @@
       "day": 215,
       "title": "The Eve of St. Agnes",
       "artist": "John Everett Millais",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP869164.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Madeleine_undressing_%E2%80%93_Eve_of_St_Agnes%2C_John_Everett_Millais.jpg/1280px-Madeleine_undressing_%E2%80%93_Eve_of_St_Agnes%2C_John_Everett_Millais.jpg",
+      "source": "wikimedia"
     },
     "john-everett-millais-the-somnambulist": {
       "day": 216,
@@ -1545,8 +1545,8 @@
       "day": 219,
       "title": "The Day Dream",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg/1280px-Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "dante-gabriel-rossetti-la-ghirlandata": {
       "day": 220,
@@ -1566,8 +1566,8 @@
       "day": 222,
       "title": "Bocca Baciata",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://www.artic.edu/iiif/2/194674a2-f451-65f7-ba46-6aac4d894f0b/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png/1280px-Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png",
+      "source": "wikimedia"
     },
     "dante-gabriel-rossetti-found": {
       "day": 223,
@@ -1580,8 +1580,8 @@
       "day": 224,
       "title": "How They Met Themselves",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://www.artic.edu/iiif/2/194674a2-f451-65f7-ba46-6aac4d894f0b/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dante_Gabriel_Rossetti_-_How_They_Met_Themselves_%281860-64_circa%29.jpg",
+      "source": "wikimedia"
     },
     "dante-gabriel-rossetti-sir-galahad-at-the-ruined-chapel": {
       "day": 225,
@@ -1601,8 +1601,8 @@
       "day": 227,
       "title": "Full Fathom Five",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/14dc5686-d7ae-7fe1-ec7d-adf14eb18b53/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Michael_Dan_Archer%2C_Full_Fathom_Five_%E2%80%93_Seafarer%27s_Monument_%282007%E2%80%932008%29_in_Portishead%2C_Somerset%2C_UK.jpg/1280px-Michael_Dan_Archer%2C_Full_Fathom_Five_%E2%80%93_Seafarer%27s_Monument_%282007%E2%80%932008%29_in_Portishead%2C_Somerset%2C_UK.jpg",
+      "source": "wikimedia"
     },
     "jackson-pollock-mural": {
       "day": 228,
@@ -1671,8 +1671,8 @@
       "day": 237,
       "title": "Cathedral",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/14dc5686-d7ae-7fe1-ec7d-adf14eb18b53/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Uppsala_Cathedral_two_towers.jpg/1280px-Uppsala_Cathedral_two_towers.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-troubled-queen": {
       "day": 238,
@@ -1692,8 +1692,8 @@
       "day": 240,
       "title": "Gotham News",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fifty_famous_stories_retold_%28IA_cu31924014495281%29.pdf/page1-1280px-Fifty_famous_stories_retold_%28IA_cu31924014495281%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-woman-ii": {
       "day": 241,
@@ -1720,8 +1720,8 @@
       "day": 244,
       "title": "Woman V",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tomb_effigy_of_a_woman%2C_V%26A_London.jpg/1280px-Tomb_effigy_of_a_woman%2C_V%26A_London.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-woman-vi": {
       "day": 245,
@@ -1734,8 +1734,8 @@
       "day": 246,
       "title": "A Tree in Naples",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP169449.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tree_House_-_Naples_Botanical_Garden_-_Naples%2C_Florida_-_DSC09625.jpg/1280px-Tree_House_-_Naples_Botanical_Garden_-_Naples%2C_Florida_-_DSC09625.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-door-to-the-river": {
       "day": 247,
@@ -1769,8 +1769,8 @@
       "day": 251,
       "title": "Villa Borghese",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sculpture_%284%29_%28Villa_Borghese%29.jpg/1280px-Sculpture_%284%29_%28Villa_Borghese%29.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-suburb-in-havana": {
       "day": 252,
@@ -1811,8 +1811,8 @@
       "day": 257,
       "title": "Composition",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atmosphere_composition_diagram-en.svg/1280px-Atmosphere_composition_diagram-en.svg.png",
+      "source": "wikimedia"
     },
     "willem-de-kooning-two-figures-in-a-landscape": {
       "day": 258,
@@ -1832,8 +1832,8 @@
       "day": 260,
       "title": "Whose Name Was Writ in Water",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Poem_by_George_O%27Neil_to_Thekla_Bernays_titled_%22Missive_for_One_Whose_Name_Was_Writ_in_Water%2C%22_1927-1928_-_DPLA_-_5314daf5f29ff0b1c114ff29d79b2166.jpg/1280px-Poem_by_George_O%27Neil_to_Thekla_Bernays_titled_%22Missive_for_One_Whose_Name_Was_Writ_in_Water%2C%22_1927-1928_-_DPLA_-_5314daf5f29ff0b1c114ff29d79b2166.jpg",
+      "source": "wikimedia"
     },
     "willem-de-kooning-north-atlantic-light": {
       "day": 261,
@@ -1895,8 +1895,8 @@
       "day": 269,
       "title": "Summer Open with Mediterranean Blue",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/e07c2ac0-cd16-c921-073e-abf3b414406d/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf.jpg",
+      "source": "wikimedia"
     },
     "robert-motherwell-open-no--122--in-scarlet-with-white-line": {
       "day": 270,
@@ -1916,8 +1916,8 @@
       "day": 272,
       "title": "Chi Ama, Crede",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/I_Bastardi_-_ovvero%2C_I_Figli_Abbandonati_%28IA_2917051.0001.001.umich.edu%29.pdf/page1-1280px-I_Bastardi_-_ovvero%2C_I_Figli_Abbandonati_%28IA_2917051.0001.001.umich.edu%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "robert-motherwell-dublin-1916--with-black-and-tan": {
       "day": 273,
@@ -1951,8 +1951,8 @@
       "day": 277,
       "title": "In Black and White",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP324214.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg/1280px-Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg",
+      "source": "wikimedia"
     },
     "robert-motherwell-pancho-villa--dead-and-alive": {
       "day": 278,
@@ -2000,8 +2000,8 @@
       "day": 284,
       "title": "Beside the Sea",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/857653de-8087-38f4-0a4c-305862f85154/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf/page1-1280px-The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "robert-motherwell-summertime-in-italy": {
       "day": 285,
@@ -2070,8 +2070,8 @@
       "day": 294,
       "title": "Rite of Passage",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Biographic_and_descriptive_sketches_of_Glasgow_necropolis_%28IA_biographicdescri00blai%29.pdf/page1-1280px-Biographic_and_descriptive_sketches_of_Glasgow_necropolis_%28IA_biographicdescri00blai%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "robert-motherwell-the-spanish-picture-with-window": {
       "day": 295,
@@ -2168,8 +2168,8 @@
       "day": 308,
       "title": "Emperor of China",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/17455fc4-14ec-b892-93d2-ebf89c7c689e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_book_of_eloquence-_%28IA_bookofeloquence00warn%29.pdf/page1-1280px-The_book_of_eloquence-_%28IA_bookofeloquence00warn%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-red-studio": {
       "day": 309,
@@ -2203,8 +2203,8 @@
       "day": 313,
       "title": "Icarus",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Annual_exhibition_of_contemporary_American_sculpture_and_prints%2C_1966.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_sculpture_and_prints%2C_1966.pdf.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-the-snail": {
       "day": 314,
@@ -2224,8 +2224,8 @@
       "day": 316,
       "title": "Large Reclining Nude (The Pink Nude)",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/b7b7ecd0-5a50-b89a-c72a-d435a1957c73/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pink_nude_in_Leipzig.jpg/1280px-Pink_nude_in_Leipzig.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-luxe--calme-et-volupt-": {
       "day": 317,
@@ -2245,8 +2245,8 @@
       "day": 319,
       "title": "Goldfish and Palette",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Henri_Matisse_-_Goldfish_and_Palette_%281914%29.jpg/1280px-Henri_Matisse_-_Goldfish_and_Palette_%281914%29.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-pastoral": {
       "day": 320,
@@ -2259,8 +2259,8 @@
       "day": 321,
       "title": "The Open Window, Collioure",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fen%C3%AAtre_ouverte%2C_Collioure%2C_par_Henri_Matisse.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-the-music": {
       "day": 322,
@@ -2287,8 +2287,8 @@
       "day": 326,
       "title": "The Green Line",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Portrait_de_Madame_Matisse%2C_la_ligne_verte.jpg/1280px-Portrait_de_Madame_Matisse%2C_la_ligne_verte.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-portrait-of-madame-matisse": {
       "day": 327,
@@ -2308,8 +2308,8 @@
       "day": 329,
       "title": "Still Life with Aubergines",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Henri_Matisse_-_Still_Life_with_Aubergines_%281911%29.jpg/1280px-Henri_Matisse_-_Still_Life_with_Aubergines_%281911%29.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-the-moroccans": {
       "day": 330,
@@ -2329,8 +2329,8 @@
       "day": 332,
       "title": "The Plumed Hat",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Matisse_-_Carra%2C_297.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-odalisque-with-raised-arms": {
       "day": 333,
@@ -2343,8 +2343,8 @@
       "day": 334,
       "title": "Reclining Odalisque",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Matisse_-_Carra%2C_313.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-still-life-with-blue-tablecloth": {
       "day": 335,
@@ -2371,8 +2371,8 @@
       "day": 338,
       "title": "Interior at Nice",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/2193cdda-2691-2802-0776-145dee77f7ea/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Int%C3%A9rieur_%C3%A0_Nice%2C_par_Henri_Matisse_%281919-1920%29.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-woman-in-blue": {
       "day": 339,
@@ -2399,8 +2399,8 @@
       "day": 342,
       "title": "The Sorrow of the King",
       "artist": "Henri Matisse",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/es/original/DP-28360-001.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Matisse_-_Carra%2C_P05.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-memory-of-oceania": {
       "day": 343,
