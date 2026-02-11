@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T08:17:27.712Z",
+  "lastUpdated": "2026-02-11T08:20:46.772Z",
   "stats": {
     "total": 365,
     "withImages": 356,
@@ -210,7 +210,8 @@
       "day": 28,
       "title": "The Starry Night",
       "artist": "Vincent van Gogh",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
@@ -272,8 +273,8 @@
       "day": 37,
       "title": "Woman with a Hat",
       "artist": "Henri Matisse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Matisse-Woman-with-a-Hat.jpg/1024px-Matisse-Woman-with-a-Hat.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
+      "source": "aic"
     },
     "henri-matisse-the-dance": {
       "day": 38,
@@ -286,8 +287,8 @@
       "day": 39,
       "title": "Les Demoiselles d'Avignon",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/1280px-Les_Demoiselles_d%27Avignon.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
+      "source": "aic"
     },
     "pablo-picasso-guernica": {
       "day": 40,
@@ -300,15 +301,15 @@
       "day": 41,
       "title": "The Persistence of Memory",
       "artist": "Salvador Dalí",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Persistence_of_Memory.jpg/1280px-The_Persistence_of_Memory.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://www.artic.edu/iiif/2/be9551d4-860f-37a0-1408-086617f1824e/full/843,/0/default.jpg",
+      "source": "aic"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
       "artist": "René Magritte",
-      "imageUrl": "https://images.weserv.nl/?url=uploads5.wikiart.org/images/rene-magritte/the-son-of-man-1964.jpg",
-      "source": "proxy"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/The-Son-of-Man.jpg",
+      "source": "stranraeracademy"
     },
     "grant-wood-american-gothic": {
       "day": 43,
