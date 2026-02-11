@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T07:03:51.469Z",
+  "lastUpdated": "2026-02-11T08:14:20.280Z",
   "stats": {
     "total": 365,
     "withImages": 356,
@@ -14,8 +14,8 @@
       "day": 0,
       "title": "Mona Lisa",
       "artist": "Leonardo da Vinci",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP832657.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "source": "wikimedia"
     },
     "leonardo-da-vinci-the-last-supper": {
       "day": 1,
@@ -77,8 +77,8 @@
       "day": 9,
       "title": "Girl with a Pearl Earring",
       "artist": "Johannes Vermeer",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP353256.jpg",
-      "source": "met"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1024px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "source": "wikimedia"
     },
     "rembrandt-van-rijn-the-night-watch": {
       "day": 10,
@@ -258,8 +258,8 @@
       "day": 35,
       "title": "The Scream",
       "artist": "Edvard Munch",
-      "imageUrl": "https://www.artic.edu/iiif/2/d7df2633-3b40-f570-c906-211503a37cde/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/1024px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+      "source": "wikimedia"
     },
     "gustav-klimt-the-kiss": {
       "day": 36,
@@ -272,8 +272,8 @@
       "day": 37,
       "title": "Woman with a Hat",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Matisse-Woman-with-a-Hat.jpg/1024px-Matisse-Woman-with-a-Hat.jpg",
+      "source": "wikimedia"
     },
     "henri-matisse-the-dance": {
       "day": 38,
@@ -286,8 +286,8 @@
       "day": 39,
       "title": "Les Demoiselles d'Avignon",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Les_Demoiselles_d%27Avignon.jpg/1280px-Les_Demoiselles_d%27Avignon.jpg",
+      "source": "wikimedia"
     },
     "pablo-picasso-guernica": {
       "day": 40,
@@ -300,22 +300,22 @@
       "day": 41,
       "title": "The Persistence of Memory",
       "artist": "Salvador Dalí",
-      "imageUrl": "https://www.artic.edu/iiif/2/be9551d4-860f-37a0-1408-086617f1824e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Persistence_of_Memory.jpg/1280px-The_Persistence_of_Memory.jpg",
+      "source": "wikimedia"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
       "artist": "René Magritte",
-      "imageUrl": "https://www.artic.edu/iiif/2/dbc8470f-86b5-73d0-9067-1d1f18e0ae16/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://uploads5.wikiart.org/images/rene-magritte/the-son-of-man-1964.jpg!Large.jpg",
+      "source": "wikiart"
     },
     "grant-wood-american-gothic": {
       "day": 43,
       "title": "American Gothic",
       "artist": "Grant Wood",
-      "imageUrl": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1024px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "edward-hopper-nighthawks": {
       "day": 44,
