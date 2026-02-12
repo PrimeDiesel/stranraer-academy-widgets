@@ -1,0 +1,227 @@
+{
+  "lastUpdated": "2026-02-12T07:30:27.066Z",
+  "nextUpdate": "2026-02-13T07:30:27.066Z",
+  "stats": {
+    "total": 23,
+    "byCategory": {
+      "stem": 8,
+      "writing": 4,
+      "art": 4,
+      "business": 2,
+      "general": 5
+    },
+    "withDeadlines": 17,
+    "rolling": 6,
+    "urgent": 0,
+    "closingSoon": 1
+  },
+  "competitions": [
+    {
+      "title": "Nuffield Research Placements",
+      "organisation": "Nuffield Foundation",
+      "category": "stem",
+      "ageRange": "16-17",
+      "deadline": "2026-02-20",
+      "description": "Paid work experience placements in STEM research over summer holidays. Looks amazing on UCAS and gain real research experience!",
+      "link": "https://www.nuffieldresearchplacements.org/"
+    },
+    {
+      "title": "Big Bang Competition",
+      "organisation": "EngineeringUK",
+      "category": "stem",
+      "ageRange": "11-19",
+      "deadline": "2026-02-28",
+      "description": "Design and build a STEM project to solve a real-world problem. National finals at The Big Bang Fair with amazing prizes including technology bundles and university scholarships!",
+      "link": "https://www.thebigbangfair.co.uk/competition/"
+    },
+    {
+      "title": "Into Film Awards",
+      "organisation": "Into Film",
+      "category": "art",
+      "ageRange": "5-19",
+      "deadline": "2026-03-01",
+      "description": "Create a short film (up to 5 minutes). Categories for animation, documentary and fiction. Ceremony in London with celebrity guests.",
+      "link": "https://www.intofilm.org/into-film-awards"
+    },
+    {
+      "title": "Queen Mary's Essay Competition",
+      "organisation": "Queen Mary University",
+      "category": "writing",
+      "ageRange": "16-18",
+      "deadline": "2026-03-15",
+      "description": "Write an academic essay on topics across humanities and social sciences. Cash prizes up to £500 and university recognition.",
+      "link": "https://www.qmul.ac.uk/scholarships/essaycompetition/"
+    },
+    {
+      "title": "Royal Photographic Society Youth Award",
+      "organisation": "Royal Photographic Society",
+      "category": "art",
+      "ageRange": "11-18",
+      "deadline": "2026-03-30",
+      "description": "Submit up to 3 photographs in any category. Exhibition of winning images at RPS gallery in Bristol.",
+      "link": "https://rps.org/exhibitions/youth-award"
+    },
+    {
+      "title": "Teen Tech Awards",
+      "organisation": "TeenTech",
+      "category": "stem",
+      "ageRange": "11-16",
+      "deadline": "2026-03-31",
+      "description": "Design innovative tech solutions to improve lives. Categories include health, sustainability, AI and accessibility.",
+      "link": "https://teentech.com/awards"
+    },
+    {
+      "title": "Tenner Challenge",
+      "organisation": "Young Money",
+      "category": "business",
+      "ageRange": "11-19",
+      "deadline": "2026-03-31",
+      "description": "Turn £10 into as much as possible in one month through entrepreneurship. Learn real business skills and financial literacy.",
+      "link": "https://www.tenner.org.uk/"
+    },
+    {
+      "title": "BBC Young Writers' Award",
+      "organisation": "BBC",
+      "category": "writing",
+      "ageRange": "14-18",
+      "deadline": "2026-04-01",
+      "description": "Write a short story (up to 1000 words) on any theme. Winners published and stories broadcast on BBC Radio.",
+      "link": "https://www.bbc.co.uk/programmes/articles/youngwriters"
+    },
+    {
+      "title": "Raspberry Pi Foundation Competition",
+      "organisation": "Raspberry Pi Foundation",
+      "category": "stem",
+      "ageRange": "11-18",
+      "deadline": "2026-05-15",
+      "description": "Create an innovative computing project using Raspberry Pi. Categories for beginners and advanced coders with amazing tech prizes.",
+      "link": "https://www.raspberrypi.org/"
+    },
+    {
+      "title": "Debate Mate Cup",
+      "organisation": "Debate Mate",
+      "category": "general",
+      "ageRange": "11-18",
+      "deadline": "2026-05-15",
+      "description": "National schools debating competition. Teams compete in regional and national rounds with coaching provided.",
+      "link": "https://www.debatemate.com/"
+    },
+    {
+      "title": "National Portrait Gallery Young Artists",
+      "organisation": "National Portrait Gallery",
+      "category": "art",
+      "ageRange": "7-18",
+      "deadline": "2026-06-15",
+      "description": "Create a portrait in any medium. Winners exhibited at National Portrait Gallery and cash prizes up to £500.",
+      "link": "https://www.npg.org.uk/learning/young-artists"
+    },
+    {
+      "title": "John Locke Essay Competition",
+      "organisation": "John Locke Institute",
+      "category": "writing",
+      "ageRange": "15-18",
+      "deadline": "2026-06-30",
+      "description": "Write an essay in philosophy, politics, economics, history, psychology, theology or law. Highly prestigious for university applications.",
+      "link": "https://www.johnlockeinstitute.com/essay-competition"
+    },
+    {
+      "title": "Foyle Young Poets of the Year",
+      "organisation": "The Poetry Society",
+      "category": "writing",
+      "ageRange": "11-17",
+      "deadline": "2026-07-31",
+      "description": "Submit up to 3 poems on any theme. 100 winners published in anthology and invited to Awards ceremony in London.",
+      "link": "https://poetrysociety.org.uk/competitions/foyle-young-poets/"
+    },
+    {
+      "title": "UKMT Senior Maths Challenge",
+      "organisation": "UK Maths Trust",
+      "category": "stem",
+      "ageRange": "16-18",
+      "deadline": "2026-10-15",
+      "description": "90-minute multiple-choice challenge encouraging mathematical reasoning, precision of thought and fluency. Top scorers invited to British Maths Olympiad.",
+      "link": "https://www.ukmt.org.uk/competitions/solo/senior-mathematical-challenge"
+    },
+    {
+      "title": "British Physics Olympiad",
+      "organisation": "Institute of Physics",
+      "category": "stem",
+      "ageRange": "16-18",
+      "deadline": "2026-11-15",
+      "description": "Challenging physics problems for the brightest students. Winners selected for UK Physics Team at international competitions.",
+      "link": "https://www.physicscompetitions.org.uk/"
+    },
+    {
+      "title": "Bebras Computational Thinking Challenge",
+      "organisation": "University of Oxford",
+      "category": "stem",
+      "ageRange": "11-18",
+      "deadline": "2026-11-20",
+      "description": "Online challenge with fun puzzles involving logic, algorithms and computational thinking. No prior programming knowledge required!",
+      "link": "https://www.bebras.uk/"
+    },
+    {
+      "title": "Wildlife Photographer of the Year - Young",
+      "organisation": "Natural History Museum",
+      "category": "art",
+      "ageRange": "17 and under",
+      "deadline": "2026-12-08",
+      "description": "Capture stunning wildlife photography. Global competition with exhibition at Natural History Museum London.",
+      "link": "https://www.nhm.ac.uk/wpy/"
+    },
+    {
+      "title": "CREST Awards",
+      "organisation": "British Science Association",
+      "category": "stem",
+      "ageRange": "11-18",
+      "deadline": "Rolling",
+      "description": "Complete a STEM project at bronze, silver or gold level. Recognised by universities and employers nationwide.",
+      "link": "https://www.crestawards.org/"
+    },
+    {
+      "title": "Young Enterprise Company Programme",
+      "organisation": "Young Enterprise",
+      "category": "business",
+      "ageRange": "15-19",
+      "deadline": "Rolling",
+      "description": "Set up and run your own business for a year. National finals with investment prizes up to £2000.",
+      "link": "https://www.young-enterprise.org.uk/"
+    },
+    {
+      "title": "Duke of Edinburgh's Award",
+      "organisation": "The Duke of Edinburgh's Award",
+      "category": "general",
+      "ageRange": "14-24",
+      "deadline": "Rolling",
+      "description": "Complete bronze, silver or gold award through volunteering, skills, physical activity and expedition. Recognised by universities and employers.",
+      "link": "https://www.dofe.org/"
+    },
+    {
+      "title": "Diana Award",
+      "organisation": "The Diana Award",
+      "category": "general",
+      "ageRange": "9-25",
+      "deadline": "Rolling",
+      "description": "Recognition for young people making positive change in their communities. Nominated by teachers and youth workers.",
+      "link": "https://diana-award.org.uk/"
+    },
+    {
+      "title": "Jack Petchey Achievement Awards",
+      "organisation": "Jack Petchey Foundation",
+      "category": "general",
+      "ageRange": "11-25",
+      "deadline": "Rolling",
+      "description": "£250 grant for your school to celebrate your achievements. Recognition ceremony and certificate. Nominate yourself or others!",
+      "link": "https://www.jackpetcheyfoundation.org.uk/"
+    },
+    {
+      "title": "National Citizen Service (NCS)",
+      "organisation": "NCS Trust",
+      "category": "general",
+      "ageRange": "15-17",
+      "deadline": "Rolling",
+      "description": "Four-week programme combining adventure, skills and social action. Make friends, make a difference and gain skills for life!",
+      "link": "https://wearencs.com/"
+    }
+  ]
+}
