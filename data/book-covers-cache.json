@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-02-13T07:44:27.442Z",
+  "lastUpdated": "2026-02-14T07:29:10.696Z",
   "stats": {
     "total": 365,
-    "withCovers": 323,
-    "withoutCovers": 42,
-    "percentage": 88,
-    "newlyFetched": 0,
+    "withCovers": 324,
+    "withoutCovers": 41,
+    "percentage": 89,
+    "newlyFetched": 1,
     "alreadyCached": 328,
-    "failed": 37,
-    "openLibrary": 0,
+    "failed": 36,
+    "openLibrary": 1,
     "googleBooks": 0
   },
   "books": {
@@ -2479,7 +2479,8 @@
       "day": 362,
       "title": "Classic Book 363",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/14819128-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-364-various-authors": {
       "day": 363,
