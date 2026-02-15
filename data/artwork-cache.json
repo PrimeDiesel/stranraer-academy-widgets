@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-02-14T06:58:22.287Z",
+  "lastUpdated": "2026-02-15T07:01:43.381Z",
   "stats": {
     "total": 365,
     "withImages": 362,
     "withoutImages": 3,
     "percentage": 99,
-    "newlyFetched": 35,
-    "alreadyCached": 329,
+    "newlyFetched": 36,
+    "alreadyCached": 328,
     "failed": 1,
     "sources": {
       "wikimedia": 329,
@@ -334,8 +334,8 @@
       "day": 45,
       "title": "Christina's World",
       "artist": "Andrew Wyeth",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/Christinas-World.jpg",
-      "source": "custom"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Practical_common_sense_guide_book_through_the_World%27s_Industrial_and_Cotton_Centennial_Exposition_at_New_Orleans_.._%28IA_practicalcommons00perkrich%29.pdf/page1-1280px-Practical_common_sense_guide_book_through_the_World%27s_Industrial_and_Cotton_Centennial_Exposition_at_New_Orleans_.._%28IA_practicalcommons00perkrich%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "andy-warhol-campbell-s-soup-cans": {
       "day": 46,
