@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T07:11:43.610Z",
+  "lastUpdated": "2026-02-19T16:30:00.000Z",
   "stats": {
     "total": 365,
     "withImages": 362,
@@ -9,9 +9,10 @@
     "alreadyCached": 329,
     "failed": 1,
     "sources": {
-      "wikimedia": 329,
+      "wikimedia": 325,
       "met": 2,
-      "aic": 33
+      "aic": 32,
+      "school": 4
     }
   },
   "artworks": {
@@ -341,15 +342,15 @@
       "day": 46,
       "title": "Campbell's Soup Cans",
       "artist": "Andy Warhol",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andy_Warhol_Campbell%27s_Soup_Cans_%28MoMA_-_New_York%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/andy-warhol-soup-cans.jpg",
+      "source": "school"
     },
     "andy-warhol-marilyn-diptych": {
       "day": 47,
       "title": "Marilyn Diptych",
       "artist": "Andy Warhol",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/marilynmonroe1.jpg",
-      "source": "wikimedia"
+      "source": "school"
     },
     "roy-lichtenstein-whaam-": {
       "day": 48,
@@ -362,15 +363,15 @@
       "day": 49,
       "title": "No. 5, 1948",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MO-5_%281948%29.svg/1280px-MO-5_%281948%29.svg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/number-5.jpg",
+      "source": "school"
     },
     "jackson-pollock-autumn-rhythm--number-30-": {
       "day": 50,
       "title": "Autumn Rhythm (Number 30)",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/ea28a707-426a-35bf-7989-bdd155f4596d/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/Jackson-Pollock-Autumn-Rhythm-Number-30-1950.webp",
+      "source": "school"
     },
     "willem-de-kooning-woman-i": {
       "day": 51,
