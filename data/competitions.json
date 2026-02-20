@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-19T04:25:29.419Z",
-  "nextUpdate": "2026-02-20T04:25:29.419Z",
+  "lastUpdated": "2026-02-20T04:21:00.668Z",
+  "nextUpdate": "2026-02-21T04:21:00.668Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,28 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 2,
+    "urgent": 0,
     "closingSoon": 2
   },
   "competitions": [
-    {
-      "title": "Nuffield Research Placements",
-      "organisation": "Nuffield Foundation",
-      "category": "stem",
-      "ageRange": "16-17",
-      "description": "Four-week paid research placement with scientists or engineers. Excellent for university applications.",
-      "link": "https://www.nuffieldresearchplacements.org/",
-      "deadline": "2026-02-20"
-    },
-    {
-      "title": "Royal Academy Young Artists",
-      "organisation": "Royal Academy",
-      "category": "art",
-      "ageRange": "4-19",
-      "description": "Submit artwork in any medium for exhibition at the Royal Academy.",
-      "link": "https://www.royalacademy.org.uk/",
-      "deadline": "2026-02-20"
-    },
     {
       "title": "Big Bang Competition",
       "organisation": "EngineeringUK",
@@ -168,6 +150,24 @@
       "description": "Fun maths challenge encouraging logical thinking. Over 250,000 students participate annually.",
       "link": "https://www.ukmt.org.uk/",
       "deadline": "2027-01-30"
+    },
+    {
+      "title": "Nuffield Research Placements",
+      "organisation": "Nuffield Foundation",
+      "category": "stem",
+      "ageRange": "16-17",
+      "description": "Four-week paid research placement with scientists or engineers. Excellent for university applications.",
+      "link": "https://www.nuffieldresearchplacements.org/",
+      "deadline": "2027-02-20"
+    },
+    {
+      "title": "Royal Academy Young Artists",
+      "organisation": "Royal Academy",
+      "category": "art",
+      "ageRange": "4-19",
+      "description": "Submit artwork in any medium for exhibition at the Royal Academy.",
+      "link": "https://www.royalacademy.org.uk/",
+      "deadline": "2027-02-20"
     },
     {
       "title": "CREST Awards",
