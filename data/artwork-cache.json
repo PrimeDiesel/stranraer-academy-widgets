@@ -1,17 +1,18 @@
 {
-  "lastUpdated": "2026-02-23T07:18:02.391Z",
+  "lastUpdated": "2026-02-19T16:30:00.000Z",
   "stats": {
     "total": 365,
     "withImages": 362,
     "withoutImages": 3,
     "percentage": 99,
-    "newlyFetched": 42,
-    "alreadyCached": 322,
+    "newlyFetched": 35,
+    "alreadyCached": 329,
     "failed": 1,
     "sources": {
-      "wikimedia": 329,
+      "wikimedia": 321,
       "met": 2,
-      "aic": 33
+      "aic": 32,
+      "school": 8
     }
   },
   "artworks": {
@@ -341,15 +342,15 @@
       "day": 46,
       "title": "Campbell's Soup Cans",
       "artist": "Andy Warhol",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andy_Warhol_Campbell%27s_Soup_Cans_%28MoMA_-_New_York%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/andy-warhol-soup-cans.jpg",
+      "source": "school"
     },
     "andy-warhol-marilyn-diptych": {
       "day": 47,
       "title": "Marilyn Diptych",
       "artist": "Andy Warhol",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Monroe_in_Niagara_%281953_publicity_photo%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/marilynmonroe1.jpg",
+      "source": "school"
     },
     "roy-lichtenstein-whaam-": {
       "day": 48,
@@ -362,43 +363,43 @@
       "day": 49,
       "title": "No. 5, 1948",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MO-5_%281948%29.svg/1280px-MO-5_%281948%29.svg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/number-5.jpg",
+      "source": "school"
     },
     "jackson-pollock-autumn-rhythm--number-30-": {
       "day": 50,
       "title": "Autumn Rhythm (Number 30)",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/ea28a707-426a-35bf-7989-bdd155f4596d/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/Jackson-Pollock-Autumn-Rhythm-Number-30-1950.webp",
+      "source": "school"
     },
     "willem-de-kooning-woman-i": {
       "day": 51,
       "title": "Woman I",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Woman_I_Loved_%282%29.png/1280px-The_Woman_I_Loved_%282%29.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/willem-de-kooning-woman-1.webp",
+      "source": "school"
     },
     "mark-rothko-orange-and-yellow": {
       "day": 52,
       "title": "Orange and Yellow",
       "artist": "Mark Rothko",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Red_and_Yellow_and_Orange_and_Blue_-_Flickr_-_AdaMacey.jpg/1280px-Red_and_Yellow_and_Orange_and_Blue_-_Flickr_-_AdaMacey.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/mark-rothko-orange-yellow.jpg",
+      "source": "school"
     },
     "mark-rothko-seagram-murals": {
       "day": 53,
       "title": "Seagram Murals",
       "artist": "Mark Rothko",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mark_Rothko%2C_Seagram_Murals%2C_shown_at_the_Fondation_Louis_Vuitton%2C_Paris_in_2024.jpg/1280px-Mark_Rothko%2C_Seagram_Murals%2C_shown_at_the_Fondation_Louis_Vuitton%2C_Paris_in_2024.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/mark-rothko-seagram-murals.webp",
+      "source": "school"
     },
     "jasper-johns-flag": {
       "day": 54,
       "title": "Flag",
       "artist": "Jasper Johns",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_the_United_States_%281912-1959%3B_Three_Flags_by_Jasper_Johns%29.svg/1280px-Flag_of_the_United_States_%281912-1959%3B_Three_Flags_by_Jasper_Johns%29.svg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/02/jasper-johns-flag.jpg.jpg",
+      "source": "school"
     },
     "jasper-johns-target-with-four-faces": {
       "day": 55,
