@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-02-27T07:06:13.116Z",
+  "lastUpdated": "2026-02-28T06:53:05.707Z",
   "stats": {
     "total": 365,
     "withImages": 362,
     "withoutImages": 3,
     "percentage": 99,
-    "newlyFetched": 45,
-    "alreadyCached": 319,
+    "newlyFetched": 35,
+    "alreadyCached": 329,
     "failed": 1,
     "sources": {
       "wikimedia": 329,
