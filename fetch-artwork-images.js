@@ -140,6 +140,7 @@ async function fetchAllImages() {
   let wikimediaCount = 0;
   let metCount = 0;
   let aicCount = 0;
+  let schoolCount = 0;
   let failCount = 0;
   let alreadyCachedCount = 0;
   let updatedCount = 0;
@@ -148,14 +149,20 @@ async function fetchAllImages() {
     const artwork = artworks[i];
     const key = `${artwork.artist}-${artwork.title}`.toLowerCase().replace(/[^a-z0-9-]/g, '-');
     
-    // Check if already cached with Wikimedia (best source - don't re-fetch)
-    if (cache.artworks[key] && cache.artworks[key].imageUrl && cache.artworks[key].source === 'wikimedia') {
-      alreadyCachedCount++;
-      wikimediaCount++;
-      if (i % 50 === 0) {
-        console.log(`📦 Progress: ${i}/${artworks.length} (${alreadyCachedCount} cached, ${updatedCount} updated)`);
+    // CRITICAL: Preserve school-hosted URLs AND Wikimedia (best sources - never overwrite!)
+    if (cache.artworks[key] && cache.artworks[key].imageUrl) {
+      const source = cache.artworks[key].source;
+      
+      // Never overwrite school-hosted or Wikimedia URLs
+      if (source === 'school' || source === 'wikimedia') {
+        alreadyCachedCount++;
+        if (source === 'wikimedia') wikimediaCount++;
+        if (source === 'school') schoolCount++;
+        if (i % 50 === 0) {
+          console.log(`📦 Progress: ${i}/${artworks.length} (${alreadyCachedCount} cached, ${updatedCount} updated)`);
+        }
+        continue;
       }
-      continue;
     }
     
     console.log(`🔍 [${i + 1}/${artworks.length}] ${artwork.title} by ${artwork.artist}`);
@@ -228,7 +235,8 @@ async function fetchAllImages() {
     sources: {
       wikimedia: wikimediaCount,
       met: metCount,
-      aic: aicCount
+      aic: aicCount,
+      school: schoolCount
     }
   };
   
@@ -239,9 +247,10 @@ async function fetchAllImages() {
   console.log(`📊 Total artworks: ${artworks.length}`);
   console.log(`✅ With images: ${totalWithImages} (${cache.stats.percentage}%)`);
   console.log(`\n📦 IMAGE SOURCES (PRIORITY ORDER):`);
-  console.log(`   🥇 Wikimedia Commons: ${wikimediaCount} (BEST - most reliable!)`);
+  console.log(`   🏫 School-hosted: ${schoolCount} (BEST - manually curated!)`);
+  console.log(`   🥇 Wikimedia Commons: ${wikimediaCount} (GOOD - reliable!)`);
   console.log(`   🥈 Met Museum: ${metCount}`);
-  console.log(`   🥉 Art Institute: ${aicCount} (WORST - often wrong)`);
+  console.log(`   🥉 Art Institute: ${aicCount} (WARNING - often wrong)`);
   console.log(`\n🔄 UPDATES:`);
   console.log(`   🆕 Newly fetched: ${updatedCount}`);
   console.log(`   📦 Already cached: ${alreadyCachedCount}`);
@@ -249,6 +258,7 @@ async function fetchAllImages() {
   console.log('═══════════════════════════════════════════════════════');
   console.log('\n💾 Cache saved to: data/artwork-cache.json');
   console.log('📱 All URLs are HTTPS and mobile-friendly!');
+  console.log('🏫 School-hosted URLs PRESERVED!');
   console.log('🎨 Wikimedia prioritized for accuracy!');
 }
 
