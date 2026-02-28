@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-27T04:18:48.484Z",
-  "nextUpdate": "2026-02-28T04:18:48.484Z",
+  "lastUpdated": "2026-02-28T03:59:38.964Z",
+  "nextUpdate": "2026-03-01T03:59:38.964Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 2,
+    "urgent": 1,
     "closingSoon": 1
   },
   "competitions": [
-    {
-      "title": "Big Bang Competition",
-      "organisation": "EngineeringUK",
-      "category": "stem",
-      "ageRange": "11-19",
-      "description": "Design and build a STEM project to solve a real-world problem. National finals at The Big Bang Fair.",
-      "link": "https://www.thebigbangcompetition.co.uk/",
-      "deadline": "2026-02-28"
-    },
     {
       "title": "Into Film Awards",
       "organisation": "Into Film",
@@ -168,6 +159,15 @@
       "description": "Submit artwork in any medium for exhibition at the Royal Academy.",
       "link": "https://www.royalacademy.org.uk/",
       "deadline": "2027-02-20"
+    },
+    {
+      "title": "Big Bang Competition",
+      "organisation": "EngineeringUK",
+      "category": "stem",
+      "ageRange": "11-19",
+      "description": "Design and build a STEM project to solve a real-world problem. National finals at The Big Bang Fair.",
+      "link": "https://www.thebigbangcompetition.co.uk/",
+      "deadline": "2027-02-28"
     },
     {
       "title": "CREST Awards",
