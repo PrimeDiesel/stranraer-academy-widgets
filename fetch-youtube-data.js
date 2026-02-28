@@ -8,12 +8,12 @@ if (!YOUTUBE_API_KEY) {
   process.exit(1);
 }
 
-// Load your JSON data files
-const songs = require('./songs.json');
-const albums = require('./albums.json');
-const movies = require('./movies.json');
-const games = require('./games.json');
-const tvShows = require('./tv-shows.json');
+// Load your JSON data files from /data folder
+const songs = require('./data/songs.json');
+const albums = require('./data/albums.json');
+const movies = require('./data/movies.json');
+const games = require('./data/games.json');
+const tvShows = require('./data/tv-shows.json');
 
 async function searchYouTube(query) {
   return new Promise((resolve, reject) => {
