@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T16:30:00.000Z",
+  "lastUpdated": "2026-03-01T06:57:50.421Z",
   "stats": {
     "total": 365,
     "withImages": 362,
     "withoutImages": 3,
     "percentage": 99,
-    "newlyFetched": 35,
-    "alreadyCached": 329,
+    "newlyFetched": 30,
+    "alreadyCached": 334,
     "failed": 1,
     "sources": {
-      "wikimedia": 318,
+      "wikimedia": 319,
       "met": 1,
       "aic": 29,
       "school": 15
