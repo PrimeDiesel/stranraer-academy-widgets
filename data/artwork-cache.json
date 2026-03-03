@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-02T07:10:15.974Z",
+  "lastUpdated": "2026-03-03T07:04:19.715Z",
   "stats": {
     "total": 365,
-    "withImages": 362,
-    "withoutImages": 3,
+    "withImages": 363,
+    "withoutImages": 2,
     "percentage": 99,
-    "newlyFetched": 30,
+    "newlyFetched": 31,
     "alreadyCached": 334,
-    "failed": 1,
+    "failed": 0,
     "sources": {
       "wikimedia": 319,
       "met": 1,
-      "aic": 29,
+      "aic": 30,
       "school": 15
     }
   },
@@ -615,8 +615,8 @@
       "day": 85,
       "title": "Lavender Mist: Number 1, 1950",
       "artist": "Jackson Pollock",
-      "imageUrl": null,
-      "source": null
+      "imageUrl": "https://www.artic.edu/iiif/2/c58051e7-817c-5f83-e4b9-131e0f0f2950/full/843,/0/default.jpg",
+      "source": "aic"
     },
     "jackson-pollock-blue-poles": {
       "day": 86,
@@ -636,7 +636,7 @@
       "day": 88,
       "title": "Elegy to the Spanish Republic No. 110",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/ed8ad732-93e7-9036-5573-cffd5acf6355/full/843,/0/default.jpg",
+      "imageUrl": "https://www.artic.edu/iiif/2/34de76e2-53cd-5230-95fe-23a268a9482d/full/843,/0/default.jpg",
       "source": "aic"
     },
     "robert-rauschenberg-canyon": {
