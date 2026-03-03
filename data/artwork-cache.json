@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T07:04:19.715Z",
+  "lastUpdated": "2026-03-03T08:14:29.747581Z",
   "stats": {
     "total": 365,
     "withImages": 363,
@@ -9,10 +9,10 @@
     "alreadyCached": 334,
     "failed": 0,
     "sources": {
-      "wikimedia": 319,
+      "wikimedia": 309,
       "met": 1,
-      "aic": 30,
-      "school": 15
+      "aic": 27,
+      "school": 26
     }
   },
   "artworks": {
@@ -110,14 +110,14 @@
     "diego-vel-zquez-las-meninas": {
       "day": 13,
       "title": "Las Meninas",
-      "artist": "Diego Velázquez",
+      "artist": "Diego Vel\u00e1zquez",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1280px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
       "source": "wikimedia"
     },
     "jean-honor--fragonard-the-swing": {
       "day": 14,
       "title": "The Swing",
-      "artist": "Jean-Honoré Fragonard",
+      "artist": "Jean-Honor\u00e9 Fragonard",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg/1280px-Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg",
       "source": "wikimedia"
     },
@@ -131,14 +131,14 @@
     "th-odore-g-ricault-the-raft-of-the-medusa": {
       "day": 16,
       "title": "The Raft of the Medusa",
-      "artist": "Théodore Géricault",
+      "artist": "Th\u00e9odore G\u00e9ricault",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1280px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
       "source": "wikimedia"
     },
     "eug-ne-delacroix-liberty-leading-the-people": {
       "day": 17,
       "title": "Liberty Leading the People",
-      "artist": "Eugène Delacroix",
+      "artist": "Eug\u00e8ne Delacroix",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
       "source": "wikimedia"
     },
@@ -166,14 +166,14 @@
     "jean-fran-ois-millet-the-gleaners": {
       "day": 21,
       "title": "The Gleaners",
-      "artist": "Jean-François Millet",
+      "artist": "Jean-Fran\u00e7ois Millet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
       "source": "wikimedia"
     },
     "-douard-manet-olympia": {
       "day": 22,
       "title": "Olympia",
-      "artist": "Édouard Manet",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
       "source": "wikimedia"
     },
@@ -193,8 +193,8 @@
     },
     "-douard-manet-a-bar-at-the-folies-berg-re": {
       "day": 25,
-      "title": "A Bar at the Folies-Bergère",
-      "artist": "Édouard Manet",
+      "title": "A Bar at the Folies-Berg\u00e8re",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg/1280px-Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
       "source": "wikimedia"
     },
@@ -221,7 +221,7 @@
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
-      "title": "Café Terrace at Night",
+      "title": "Caf\u00e9 Terrace at Night",
       "artist": "Vincent van Gogh",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/1280px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
       "source": "wikimedia"
@@ -250,14 +250,14 @@
     "paul-c-zanne-the-card-players": {
       "day": 33,
       "title": "The Card Players",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1280px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
     "paul-c-zanne-mont-sainte-victoire": {
       "day": 34,
       "title": "Mont Sainte-Victoire",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg/1280px-La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
@@ -306,14 +306,14 @@
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png/1280px-Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png",
       "source": "wikimedia"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Noun_project_-_The_Son_of_Man_-_in_frame_colored.png",
       "source": "wikimedia"
     },
@@ -454,78 +454,78 @@
       "day": 62,
       "title": "Untitled (Your body is a battleground)",
       "artist": "Barbara Kruger",
-      "imageUrl": "https://www.artic.edu/iiif/2/8f04ba86-ae7f-28cc-d122-ee0a71ea2590/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Barbara-Kruger-Untitled-Your-body-is-a-battleground.webp",
+      "source": "school"
     },
     "judy-chicago-the-dinner-party": {
       "day": 63,
       "title": "The Dinner Party",
       "artist": "Judy Chicago",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_straw_%28IA_thestraw00ramsiala%29.pdf/page1-1280px-The_straw_%28IA_thestraw00ramsiala%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Dinner-Party-by-Judy-Chicago.webp",
+      "source": "school"
     },
     "louise-bourgeois-mama-ray": {
       "day": 64,
       "title": "Mama Ray",
       "artist": "Louise Bourgeois",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Catalog_of_Copyright_Entries_1936_Engravings%2C_Prints%2C_Etc._Fine_Arts_New_Series_Vol_31_Pt_4_%28IA_catalogofcopyrig314libr%29.pdf/page1-1280px-Catalog_of_Copyright_Entries_1936_Engravings%2C_Prints%2C_Etc._Fine_Arts_New_Series_Vol_31_Pt_4_%28IA_catalogofcopyrig314libr%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Louise-Bourgeois-Mama-Ray.jpg",
+      "source": "school"
     },
     "marcel-duchamp-fountain": {
       "day": 65,
       "title": "Fountain",
       "artist": "Marcel Duchamp",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Exerc%C3%ADcios_estereosc%C3%B3picos_er%C3%B3ticos_de_Duchamp%2C_Anais_do_Museu_Paulista.pdf/page1-1280px-Exerc%C3%ADcios_estereosc%C3%B3picos_er%C3%B3ticos_de_Duchamp%2C_Anais_do_Museu_Paulista.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Marcel-Duchamp-Fountain-Day.jpg",
+      "source": "school"
     },
     "marcel-duchamp-l-h-o-o-q-": {
       "day": 66,
       "title": "L.H.O.O.Q.",
       "artist": "Marcel Duchamp",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_Blind_man_%28IA_blindman00unse%29.pdf/page1-1280px-The_Blind_man_%28IA_blindman00unse%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Marcel-Duchamp-L.H.O.O.Q.jpg",
+      "source": "school"
     },
     "ren--magritte-the-treachery-of-images": {
       "day": 67,
       "title": "The Treachery of Images",
-      "artist": "René Magritte",
-      "imageUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
-      "source": "wikimedia"
+      "artist": "Ren\u00e9 Magritte",
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Rene-Magritte-The-Treachery-of-Images.jpg",
+      "source": "school"
     },
     "salvador-dal--the-elephants": {
       "day": 68,
       "title": "The Elephants",
-      "artist": "Salvador Dalí",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Elephants_Dream_%282006%29.webm/1280px--Elephants_Dream_%282006%29.webm.jpg",
-      "source": "wikimedia"
+      "artist": "Salvador Dal\u00ed",
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Elephants.jpg",
+      "source": "school"
     },
     "salvador-dal--the-burning-giraffe": {
       "day": 69,
       "title": "The Burning Giraffe",
-      "artist": "Salvador Dalí",
-      "imageUrl": "https://www.artic.edu/iiif/2/be9551d4-860f-37a0-1408-086617f1824e/full/843,/0/default.jpg",
-      "source": "aic"
+      "artist": "Salvador Dal\u00ed",
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Burning-Giraffe.jpg",
+      "source": "school"
     },
     "pablo-picasso-girl-before-a-mirror": {
       "day": 70,
       "title": "Girl Before a Mirror",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ernst_Ludwig_Kirchner%2C_Girl_Before_a_Mirror%2C_1912-1913%2C_NGA_153642.jpg/1280px-Ernst_Ludwig_Kirchner%2C_Girl_Before_a_Mirror%2C_1912-1913%2C_NGA_153642.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Pablo-Picasso-Girl-Before-a-Mirror.jpg",
+      "source": "school"
     },
     "pablo-picasso-three-musicians": {
       "day": 71,
       "title": "Three Musicians",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Diego_Vel%C3%A1zquez_-_The_Three_Musicians_-_Google_Art_Project.jpg/1280px-Diego_Vel%C3%A1zquez_-_The_Three_Musicians_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Pablo-Picasso-Three-Musicians.jpg",
+      "source": "school"
     },
     "georges-braque-violin-and-candlestick": {
       "day": 72,
       "title": "Violin and Candlestick",
       "artist": "Georges Braque",
-      "imageUrl": "https://www.artic.edu/iiif/2/f521e7ef-2732-88b0-30e1-24353308c297/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Georges-Braque-Violin-and-Candlestick.jpg",
+      "source": "school"
     },
     "piet-mondrian-broadway-boogie-woogie": {
       "day": 73,
@@ -579,7 +579,7 @@
     "ren--magritte-the-treachery-of-images--this-is-not-a-pipe-": {
       "day": 80,
       "title": "The Treachery of Images (This is Not a Pipe)",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
       "source": "wikimedia"
     },
@@ -740,7 +740,7 @@
     "matthias-gr-newald-the-crucifixion": {
       "day": 103,
       "title": "The Crucifixion",
-      "artist": "Matthias Grünewald",
+      "artist": "Matthias Gr\u00fcnewald",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg/1280px-Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg",
       "source": "wikimedia"
     },
@@ -2230,7 +2230,7 @@
     },
     "henri-matisse-luxe--calme-et-volupt-": {
       "day": 317,
-      "title": "Luxe, Calme et Volupté",
+      "title": "Luxe, Calme et Volupt\u00e9",
       "artist": "Henri Matisse",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg/1280px-Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg",
       "source": "wikimedia"
