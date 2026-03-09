@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T07:26:26.224Z",
+  "lastUpdated": "2026-03-09T07:45:07.196Z",
   "stats": {
     "total": 365,
-    "withCovers": 324,
-    "withoutCovers": 41,
-    "percentage": 89,
-    "newlyFetched": 0,
+    "withCovers": 355,
+    "withoutCovers": 10,
+    "percentage": 97,
+    "newlyFetched": 31,
     "alreadyCached": 329,
-    "failed": 36,
-    "openLibrary": 0,
-    "googleBooks": 0
+    "failed": 5,
+    "openLibrary": 1,
+    "googleBooks": 30
   },
   "books": {
     "the-hobbit-j-r-r--tolkien": {
@@ -198,19 +198,22 @@
       "day": 26,
       "title": "Harry Potter and the Deathly Hallows",
       "author": "J.K. Rowling",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=_oaAHiFOZmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "treasure-island-robert-louis-stevenson": {
       "day": 27,
       "title": "Treasure Island",
       "author": "Robert Louis Stevenson",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=UPAYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "robinson-crusoe-daniel-defoe": {
       "day": 28,
       "title": "Robinson Crusoe",
       "author": "Daniel Defoe",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=nBULEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-swiss-family-robinson-johann-david-wyss": {
       "day": 29,
@@ -223,7 +226,8 @@
       "day": 30,
       "title": "Kidnapped",
       "author": "Robert Louis Stevenson",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=oZPVXSW9l1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-count-of-monte-cristo-alexandre-dumas": {
       "day": 31,
@@ -250,13 +254,15 @@
       "day": 34,
       "title": "Twenty Thousand Leagues Under the Sea",
       "author": "Jules Verne",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=w6AFp-xfjP0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "around-the-world-in-eighty-days-jules-verne": {
       "day": 35,
       "title": "Around the World in Eighty Days",
       "author": "Jules Verne",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=mYu1LIL3xC0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "journey-to-the-center-of-the-earth-jules-verne": {
       "day": 36,
@@ -276,7 +282,8 @@
       "day": 38,
       "title": "From the Earth to the Moon",
       "author": "Jules Verne",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=vQ0szgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "the-war-of-the-worlds-h-g--wells": {
       "day": 39,
@@ -310,7 +317,8 @@
       "day": 43,
       "title": "Dracula",
       "author": "Bram Stoker",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=GfcIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "frankenstein-mary-shelley": {
       "day": 44,
@@ -344,7 +352,8 @@
       "day": 48,
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=8Y08xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "emma-jane-austen": {
       "day": 49,
@@ -357,7 +366,8 @@
       "day": 50,
       "title": "Sense and Sensibility",
       "author": "Jane Austen",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=bcUNAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "jane-eyre-charlotte-bront-": {
       "day": 51,
@@ -370,7 +380,8 @@
       "day": 52,
       "title": "Wuthering Heights",
       "author": "Emily Brontë",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=8_AsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-tenant-of-wildfell-hall-anne-bront-": {
       "day": 53,
@@ -390,7 +401,8 @@
       "day": 55,
       "title": "David Copperfield",
       "author": "Charles Dickens",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=N_0KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "oliver-twist-charles-dickens": {
       "day": 56,
@@ -452,7 +464,8 @@
       "day": 64,
       "title": "The Voyage of the Dawn Treader",
       "author": "C.S. Lewis",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=ZzrVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-silver-chair-c-s--lewis": {
       "day": 65,
@@ -619,7 +632,8 @@
       "day": 88,
       "title": "Paper Towns",
       "author": "John Green",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=MLacAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "eleanor---park-rainbow-rowell": {
       "day": 89,
@@ -653,7 +667,8 @@
       "day": 93,
       "title": "The Tale of Peter Rabbit",
       "author": "Beatrix Potter",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=TPQMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "winnie-the-pooh-a-a--milne": {
       "day": 94,
@@ -701,7 +716,8 @@
       "day": 100,
       "title": "Ramona the Pest",
       "author": "Beverly Cleary",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=S2Nk0iruNVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "henry-huggins-beverly-cleary": {
       "day": 101,
@@ -742,7 +758,8 @@
       "day": 106,
       "title": "Hatchet",
       "author": "Gary Paulsen",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=v6qSGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "brian-s-winter-gary-paulsen": {
       "day": 107,
@@ -755,7 +772,8 @@
       "day": 108,
       "title": "Where the Red Fern Grows",
       "author": "Wilson Rawls",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=glhBPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "summer-of-the-monkeys-wilson-rawls": {
       "day": 109,
@@ -866,7 +884,8 @@
       "day": 124,
       "title": "Brave New World",
       "author": "Aldous Huxley",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=3PabEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "slaughterhouse-five-kurt-vonnegut": {
       "day": 125,
@@ -1095,13 +1114,15 @@
       "day": 159,
       "title": "Bridge to Terabithia",
       "author": "Katherine Paterson",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=OqaKdHqZQ70C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "roll-of-thunder--hear-my-cry-mildred-d--taylor": {
       "day": 160,
       "title": "Roll of Thunder, Hear My Cry",
       "author": "Mildred D. Taylor",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=RBrPIGBMWcIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-outsiders-s-e--hinton": {
       "day": 161,
@@ -1121,13 +1142,15 @@
       "day": 163,
       "title": "A Separate Peace",
       "author": "John Knowles",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=_cBZabiaOm8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-39-steps-john-buchan": {
       "day": 164,
       "title": "The 39 Steps",
       "author": "John Buchan",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=9JoRDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-riddle-of-the-sands-erskine-childers": {
       "day": 165,
@@ -1384,13 +1407,15 @@
       "day": 202,
       "title": "Ivanhoe",
       "author": "Walter Scott",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=Gz_C_7YHVVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "the-scarlet-pimpernel-baroness-orczy": {
       "day": 203,
       "title": "The Scarlet Pimpernel",
       "author": "Baroness Orczy",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=5FXOuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "johnny-tremain-esther-forbes": {
       "day": 205,
@@ -1428,7 +1453,8 @@
       "day": 210,
       "title": "Redwall",
       "author": "Brian Jacques",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=0T2PygE2XfEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "the-cricket-in-times-square-george-selden": {
       "day": 211,
@@ -1483,7 +1509,8 @@
       "day": 219,
       "title": "The Polar Bear",
       "author": "Chris Van Allsburg",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=VNSaWwUrjl4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google"
     },
     "where-the-sidewalk-ends-shel-silverstein": {
       "day": 220,
@@ -2301,7 +2328,8 @@
       "day": 336,
       "title": "Classic Book 337",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=xvVFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "classic-book-338-various-authors": {
       "day": 337,
@@ -2363,7 +2391,8 @@
       "day": 345,
       "title": "Classic Book 346",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=uPgLAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "classic-book-347-various-authors": {
       "day": 346,
@@ -2383,7 +2412,8 @@
       "day": 348,
       "title": "Classic Book 349",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/13443396-L.jpg",
+      "source": "openlibrary"
     },
     "classic-book-350-various-authors": {
       "day": 349,
@@ -2466,7 +2496,8 @@
       "day": 360,
       "title": "Classic Book 361",
       "author": "Various Authors",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=djGfTs5o71UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "classic-book-362-various-authors": {
       "day": 361,
