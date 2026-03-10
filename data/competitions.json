@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09T04:23:33.561Z",
-  "nextUpdate": "2026-03-10T04:23:33.561Z",
+  "lastUpdated": "2026-03-10T04:14:31.403Z",
+  "nextUpdate": "2026-03-11T04:14:31.403Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "Young Science Writer",
-      "organisation": "British Science Association",
-      "category": "writing",
-      "ageRange": "14-18",
-      "description": "Write a 600-800 word article explaining a scientific concept.",
-      "link": "https://www.britishscienceassociation.org/",
-      "deadline": "2026-03-10"
-    },
     {
       "title": "Royal Photographic Society Youth",
       "organisation": "Royal Photographic Society",
@@ -168,6 +159,15 @@
       "description": "Create a short film (up to 5 minutes). Categories for animation, documentary and fiction.",
       "link": "https://www.intofilm.org/",
       "deadline": "2027-03-01"
+    },
+    {
+      "title": "Young Science Writer",
+      "organisation": "British Science Association",
+      "category": "writing",
+      "ageRange": "14-18",
+      "description": "Write a 600-800 word article explaining a scientific concept.",
+      "link": "https://www.britishscienceassociation.org/",
+      "deadline": "2027-03-10"
     },
     {
       "title": "CREST Awards",
