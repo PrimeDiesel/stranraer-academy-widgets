@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-09T07:45:07.196Z",
+  "lastUpdated": "2026-03-10T07:35:28.652Z",
   "stats": {
     "total": 365,
     "withCovers": 355,
     "withoutCovers": 10,
     "percentage": 97,
-    "newlyFetched": 31,
-    "alreadyCached": 329,
+    "newlyFetched": 0,
+    "alreadyCached": 360,
     "failed": 5,
-    "openLibrary": 1,
-    "googleBooks": 30
+    "openLibrary": 0,
+    "googleBooks": 0
   },
   "books": {
     "the-hobbit-j-r-r--tolkien": {
