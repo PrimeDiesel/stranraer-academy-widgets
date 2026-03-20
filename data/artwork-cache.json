@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T07:08:52.667Z",
+  "lastUpdated": "2026-03-20T07:32:00.000Z",
   "stats": {
     "total": 365,
     "withImages": 363,
@@ -12,7 +12,8 @@
       "wikimedia": 311,
       "met": 1,
       "aic": 27,
-      "school": 26
+      "school": 26,
+      "local": 20
     }
   },
   "artworks": {
@@ -48,8 +49,8 @@
       "day": 4,
       "title": "The Birth of Venus",
       "artist": "Sandro Botticelli",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sandro_Botticelli_046.jpg/1280px-Sandro_Botticelli_046.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Birth-of-Venus-by-Sandro-Botticelli.jpg",
+      "source": "local"
     },
     "sandro-botticelli-primavera": {
       "day": 5,
@@ -83,8 +84,8 @@
       "day": 9,
       "title": "Girl with a Pearl Earring",
       "artist": "Johannes Vermeer",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1024px-1665_Girl_with_a_Pearl_Earring.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Girl-with-a-Pearl-Earring-by-Johannes-Vermeer.jpg",
+      "source": "local"
     },
     "rembrandt-van-rijn-the-night-watch": {
       "day": 10,
@@ -216,8 +217,8 @@
       "day": 28,
       "title": "The Starry Night",
       "artist": "Vincent van Gogh",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Starry-Night-by-Vincent-van-Gogh.jpg",
+      "source": "local"
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
@@ -300,15 +301,15 @@
       "day": 40,
       "title": "Guernica",
       "artist": "Pablo Picasso",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Picasso_and_Guernica_%28TVBoy%2C_2024%29.jpg/1280px-Picasso_and_Guernica_%28TVBoy%2C_2024%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Guernica-by-Pablo-Picasso.jpg",
+      "source": "local"
     },
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
       "artist": "Salvador Dal\u00ed",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png/1280px-Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Persistence-of-Memory-by-Salvador-Dali.webp",
+      "source": "local"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
@@ -321,8 +322,8 @@
       "day": 43,
       "title": "American Gothic",
       "artist": "Grant Wood",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1024px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/American-Gothic-by-Grant-Wood-scaled.jpg",
+      "source": "local"
     },
     "edward-hopper-nighthawks": {
       "day": 44,
@@ -573,99 +574,99 @@
       "day": 79,
       "title": "The Bride Stripped Bare by Her Bachelors, Even",
       "artist": "Marcel Duchamp",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Exerc%C3%ADcios_estereosc%C3%B3picos_er%C3%B3ticos_de_Duchamp%2C_Anais_do_Museu_Paulista.pdf/page1-1280px-Exerc%C3%ADcios_estereosc%C3%B3picos_er%C3%B3ticos_de_Duchamp%2C_Anais_do_Museu_Paulista.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Bride-Stripped-Bare-by-Her-Bachelors-Even-by-Marcel-Duchamp.jpg",
+      "source": "local"
     },
     "ren--magritte-the-treachery-of-images--this-is-not-a-pipe-": {
       "day": 80,
       "title": "The Treachery of Images (This is Not a Pipe)",
       "artist": "Ren\u00e9 Magritte",
-      "imageUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Treachery-of-Images-This-is-Not-a-Pipe-by-Rene-Magritte.jpg",
+      "source": "local"
     },
     "jackson-pollock-number-1a--1948": {
       "day": 81,
       "title": "Number 1A, 1948",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_English_catalogue_of_books_%28IA_englishcatalogue0000unse_c1c4%29.pdf/page1-1280px-The_English_catalogue_of_books_%28IA_englishcatalogue0000unse_c1c4%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Number-1A-1948-by-Jackson-Pollock.jpg",
+      "source": "local"
     },
     "jackson-pollock-one--number-31--1950": {
       "day": 82,
       "title": "One: Number 31, 1950",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/One-Number-3-1950-by-Jackson-Pollock.jpg",
+      "source": "local"
     },
     "barnett-newman-vir-heroicus-sublimis": {
       "day": 83,
       "title": "Vir Heroicus Sublimis",
       "artist": "Barnett Newman",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vir-Heroicus-Sublimis-mock-up.png/1280px-Vir-Heroicus-Sublimis-mock-up.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Vir-Heroicus-Sublimis-by-Barnett-Newman.jpg",
+      "source": "local"
     },
     "barnett-newman-who-s-afraid-of-red--yellow-and-blue-iii": {
       "day": 84,
       "title": "Who's Afraid of Red, Yellow and Blue III",
       "artist": "Barnett Newman",
-      "imageUrl": "https://www.artic.edu/iiif/2/966f069d-f9e9-b766-90c2-b9aa16d26242/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Whos-Afraid-of-Red-Yellow-and-Blue-III-by-Barnett-Newman.jpg",
+      "source": "local"
     },
     "jackson-pollock-lavender-mist--number-1--1950": {
       "day": 85,
       "title": "Lavender Mist: Number 1, 1950",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/c58051e7-817c-5f83-e4b9-131e0f0f2950/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Lavender-Mist-Number-1.jpg",
+      "source": "local"
     },
     "jackson-pollock-blue-poles": {
       "day": 86,
       "title": "Blue Poles",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Poles%5E_%28Almost%5E%29_-_panoramio.jpg/1280px-Blue_Poles%5E_%28Almost%5E%29_-_panoramio.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Blue-Poles-by-Jackson-Pollock.jpg",
+      "source": "local"
     },
     "helen-frankenthaler-mountains-and-sea": {
       "day": 87,
       "title": "Mountains and Sea",
       "artist": "Helen Frankenthaler",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mountains_to_sea_pisgah.jpg/1280px-Mountains_to_sea_pisgah.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Mountains-and-Sea-by-Helen-Frankenthaler.jpg",
+      "source": "local"
     },
     "robert-motherwell-elegy-to-the-spanish-republic-no--110": {
       "day": 88,
       "title": "Elegy to the Spanish Republic No. 110",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/34de76e2-53cd-5230-95fe-23a268a9482d/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Elegy-to-the-Spanish-Republic-No.-110-by-Robert-Motherwell.jpg",
+      "source": "local"
     },
     "robert-rauschenberg-canyon": {
       "day": 89,
       "title": "Canyon",
       "artist": "Robert Rauschenberg",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antelope_Canyon_Mittags.jpg/1280px-Antelope_Canyon_Mittags.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Canyon-by-Robert-Rauschenberg.jpg",
+      "source": "local"
     },
     "robert-rauschenberg-bed": {
       "day": 90,
       "title": "Bed",
       "artist": "Robert Rauschenberg",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1280px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Bed-by-Robert-Rauschenberg.jpg",
+      "source": "local"
     },
     "barbara-kruger-untitled--i-shop-therefore-i-am-": {
       "day": 91,
       "title": "Untitled (I shop therefore I am)",
       "artist": "Barbara Kruger",
-      "imageUrl": "https://www.artic.edu/iiif/2/0bff6231-bda5-9418-f0af-159af58a4270/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Untitled-I-shop-therefore-I-am-by-Barbara-Kruger.jpg",
+      "source": "local"
     },
     "andy-warhol-shot-marilyns": {
       "day": 92,
       "title": "Shot Marilyns",
       "artist": "Andy Warhol",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Monroe_in_Niagara_%281953_publicity_photo%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Shot-Marilyns-by-Andy-Warhol.jpg",
+      "source": "local"
     },
     "andy-warhol-eight-elvises": {
       "day": 93,
