@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T04:42:05.713Z",
-  "nextUpdate": "2026-03-30T04:42:05.713Z",
+  "lastUpdated": "2026-03-30T04:50:16.136Z",
+  "nextUpdate": "2026-03-31T04:50:16.136Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 4,
+    "urgent": 3,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "Royal Photographic Society Youth",
-      "organisation": "Royal Photographic Society",
-      "category": "art",
-      "ageRange": "11-18",
-      "description": "Submit up to 3 photographs in any category. Exhibition of winning images.",
-      "link": "https://rps.org/",
-      "deadline": "2026-03-30"
-    },
     {
       "title": "Teen Tech Awards",
       "organisation": "Teen Tech",
@@ -168,6 +159,15 @@
       "description": "Write a 600-800 word article explaining a scientific concept.",
       "link": "https://www.britishscienceassociation.org/",
       "deadline": "2027-03-10"
+    },
+    {
+      "title": "Royal Photographic Society Youth",
+      "organisation": "Royal Photographic Society",
+      "category": "art",
+      "ageRange": "11-18",
+      "description": "Submit up to 3 photographs in any category. Exhibition of winning images.",
+      "link": "https://rps.org/",
+      "deadline": "2027-03-30"
     },
     {
       "title": "CREST Awards",
