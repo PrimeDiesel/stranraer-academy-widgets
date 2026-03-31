@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-30T04:50:16.136Z",
-  "nextUpdate": "2026-03-31T04:50:16.136Z",
+  "lastUpdated": "2026-03-31T04:41:13.958Z",
+  "nextUpdate": "2026-04-01T04:41:13.958Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,28 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 3,
+    "urgent": 1,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "Teen Tech Awards",
-      "organisation": "Teen Tech",
-      "category": "stem",
-      "ageRange": "11-18",
-      "description": "Invent something to make life better, simpler, safer or more fun using technology.",
-      "link": "https://teentech.com/",
-      "deadline": "2026-03-31"
-    },
-    {
-      "title": "Tenner Challenge",
-      "organisation": "Young Money",
-      "category": "business",
-      "ageRange": "11-19",
-      "description": "Turn £10 into as much as possible in one month through entrepreneurship.",
-      "link": "https://www.tenner.org.uk/",
-      "deadline": "2026-03-31"
-    },
     {
       "title": "BBC Young Writers' Award",
       "organisation": "BBC",
@@ -168,6 +150,24 @@
       "description": "Submit up to 3 photographs in any category. Exhibition of winning images.",
       "link": "https://rps.org/",
       "deadline": "2027-03-30"
+    },
+    {
+      "title": "Teen Tech Awards",
+      "organisation": "Teen Tech",
+      "category": "stem",
+      "ageRange": "11-18",
+      "description": "Invent something to make life better, simpler, safer or more fun using technology.",
+      "link": "https://teentech.com/",
+      "deadline": "2027-03-31"
+    },
+    {
+      "title": "Tenner Challenge",
+      "organisation": "Young Money",
+      "category": "business",
+      "ageRange": "11-19",
+      "description": "Turn £10 into as much as possible in one month through entrepreneurship.",
+      "link": "https://www.tenner.org.uk/",
+      "deadline": "2027-03-31"
     },
     {
       "title": "CREST Awards",
