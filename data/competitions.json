@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T04:41:13.958Z",
-  "nextUpdate": "2026-04-01T04:41:13.958Z",
+  "lastUpdated": "2026-04-01T04:51:41.298Z",
+  "nextUpdate": "2026-04-02T04:51:41.298Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "BBC Young Writers' Award",
-      "organisation": "BBC",
-      "category": "writing",
-      "ageRange": "14-18",
-      "description": "Write a short story (up to 1000 words) on any theme. Winners published.",
-      "link": "https://www.bbc.co.uk/programmes/p00rfvk1",
-      "deadline": "2026-04-01"
-    },
     {
       "title": "John Locke Essay Competition",
       "organisation": "John Locke Institute",
@@ -168,6 +159,15 @@
       "description": "Turn £10 into as much as possible in one month through entrepreneurship.",
       "link": "https://www.tenner.org.uk/",
       "deadline": "2027-03-31"
+    },
+    {
+      "title": "BBC Young Writers' Award",
+      "organisation": "BBC",
+      "category": "writing",
+      "ageRange": "14-18",
+      "description": "Write a short story (up to 1000 words) on any theme. Winners published.",
+      "link": "https://www.bbc.co.uk/programmes/p00rfvk1",
+      "deadline": "2027-04-01"
     },
     {
       "title": "CREST Awards",
