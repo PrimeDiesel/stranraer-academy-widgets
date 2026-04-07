@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-04-06T07:57:18.602Z",
+  "lastUpdated": "2026-04-07T07:44:12.208Z",
   "stats": {
     "total": 365,
     "withImages": 363,
     "withoutImages": 2,
     "percentage": 99,
-    "newlyFetched": 24,
-    "alreadyCached": 341,
+    "newlyFetched": 23,
+    "alreadyCached": 342,
     "failed": 0,
     "sources": {
-      "wikimedia": 295,
+      "wikimedia": 273,
       "met": 1,
-      "aic": 23,
-      "school": 46
+      "aic": 22,
+      "school": 69
     }
   },
   "artworks": {
@@ -110,14 +110,14 @@
     "diego-vel-zquez-las-meninas": {
       "day": 13,
       "title": "Las Meninas",
-      "artist": "Diego Vel\u00e1zquez",
+      "artist": "Diego Velázquez",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1280px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
       "source": "wikimedia"
     },
     "jean-honor--fragonard-the-swing": {
       "day": 14,
       "title": "The Swing",
-      "artist": "Jean-Honor\u00e9 Fragonard",
+      "artist": "Jean-Honoré Fragonard",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg/1280px-Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg",
       "source": "wikimedia"
     },
@@ -131,14 +131,14 @@
     "th-odore-g-ricault-the-raft-of-the-medusa": {
       "day": 16,
       "title": "The Raft of the Medusa",
-      "artist": "Th\u00e9odore G\u00e9ricault",
+      "artist": "Théodore Géricault",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1280px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
       "source": "wikimedia"
     },
     "eug-ne-delacroix-liberty-leading-the-people": {
       "day": 17,
       "title": "Liberty Leading the People",
-      "artist": "Eug\u00e8ne Delacroix",
+      "artist": "Eugène Delacroix",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
       "source": "wikimedia"
     },
@@ -166,14 +166,14 @@
     "jean-fran-ois-millet-the-gleaners": {
       "day": 21,
       "title": "The Gleaners",
-      "artist": "Jean-Fran\u00e7ois Millet",
+      "artist": "Jean-François Millet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
       "source": "wikimedia"
     },
     "-douard-manet-olympia": {
       "day": 22,
       "title": "Olympia",
-      "artist": "\u00c9douard Manet",
+      "artist": "Édouard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
       "source": "wikimedia"
     },
@@ -193,8 +193,8 @@
     },
     "-douard-manet-a-bar-at-the-folies-berg-re": {
       "day": 25,
-      "title": "A Bar at the Folies-Berg\u00e8re",
-      "artist": "\u00c9douard Manet",
+      "title": "A Bar at the Folies-Bergère",
+      "artist": "Édouard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg/1280px-Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
       "source": "wikimedia"
     },
@@ -221,7 +221,7 @@
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
-      "title": "Caf\u00e9 Terrace at Night",
+      "title": "Café Terrace at Night",
       "artist": "Vincent van Gogh",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/1280px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
       "source": "wikimedia"
@@ -250,14 +250,14 @@
     "paul-c-zanne-the-card-players": {
       "day": 33,
       "title": "The Card Players",
-      "artist": "Paul C\u00e9zanne",
+      "artist": "Paul Cézanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1280px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
     "paul-c-zanne-mont-sainte-victoire": {
       "day": 34,
       "title": "Mont Sainte-Victoire",
-      "artist": "Paul C\u00e9zanne",
+      "artist": "Paul Cézanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg/1280px-La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
@@ -306,14 +306,14 @@
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
-      "artist": "Salvador Dal\u00ed",
+      "artist": "Salvador Dalí",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Persistence-of-Memory-by-Salvador-Dali.webp",
       "source": "school"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
-      "artist": "Ren\u00e9 Magritte",
+      "artist": "René Magritte",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Noun_project_-_The_Son_of_Man_-_in_frame_colored.png",
       "source": "wikimedia"
     },
@@ -488,21 +488,21 @@
     "ren--magritte-the-treachery-of-images": {
       "day": 67,
       "title": "The Treachery of Images",
-      "artist": "Ren\u00e9 Magritte",
+      "artist": "René Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Rene-Magritte-The-Treachery-of-Images.jpg",
       "source": "school"
     },
     "salvador-dal--the-elephants": {
       "day": 68,
       "title": "The Elephants",
-      "artist": "Salvador Dal\u00ed",
+      "artist": "Salvador Dalí",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Elephants.jpg",
       "source": "school"
     },
     "salvador-dal--the-burning-giraffe": {
       "day": 69,
       "title": "The Burning Giraffe",
-      "artist": "Salvador Dal\u00ed",
+      "artist": "Salvador Dalí",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Burning-Giraffe.jpg",
       "source": "school"
     },
@@ -579,7 +579,7 @@
     "ren--magritte-the-treachery-of-images--this-is-not-a-pipe-": {
       "day": 80,
       "title": "The Treachery of Images (This is Not a Pipe)",
-      "artist": "Ren\u00e9 Magritte",
+      "artist": "René Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Treachery-of-Images-This-is-Not-a-Pipe-by-Rene-Magritte.jpg",
       "source": "school"
     },
@@ -740,7 +740,7 @@
     "matthias-gr-newald-the-crucifixion": {
       "day": 103,
       "title": "The Crucifixion",
-      "artist": "Matthias Gr\u00fcnewald",
+      "artist": "Matthias Grünewald",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/04/Matthias-Grunewald-The-Crucifixion.jpg",
       "source": "school"
     },
@@ -2230,7 +2230,7 @@
     },
     "henri-matisse-luxe--calme-et-volupt-": {
       "day": 317,
-      "title": "Luxe, Calme et Volupt\u00e9",
+      "title": "Luxe, Calme et Volupté",
       "artist": "Henri Matisse",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg/1280px-Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg",
       "source": "wikimedia"
