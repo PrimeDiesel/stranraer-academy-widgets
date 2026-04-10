@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-09T08:13:48.137Z",
+  "lastUpdated": "2026-04-10T08:20:17.696Z",
   "stats": {
     "total": 365,
-    "withCovers": 356,
-    "withoutCovers": 9,
+    "withCovers": 357,
+    "withoutCovers": 8,
     "percentage": 98,
-    "newlyFetched": 0,
+    "newlyFetched": 1,
     "alreadyCached": 361,
-    "failed": 4,
+    "failed": 3,
     "openLibrary": 0,
-    "googleBooks": 0
+    "googleBooks": 1
   },
   "books": {
     "the-hobbit-j-r-r--tolkien": {
@@ -1421,7 +1421,8 @@
       "day": 205,
       "title": "Johnny Tremain",
       "author": "Esther Forbes",
-      "coverUrl": null
+      "coverUrl": "https://books.google.com/books/content?id=kQKx7tomrfAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "source": "google"
     },
     "my-side-of-the-mountain-jean-craighead-george": {
       "day": 206,
