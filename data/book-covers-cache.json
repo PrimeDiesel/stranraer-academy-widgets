@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-04-28T09:13:57.167Z",
+  "lastUpdated": "2026-04-29T09:05:28.539Z",
   "stats": {
     "total": 365,
-    "withCovers": 358,
-    "withoutCovers": 7,
+    "withCovers": 359,
+    "withoutCovers": 6,
     "percentage": 98,
-    "newlyFetched": 0,
+    "newlyFetched": 1,
     "alreadyCached": 363,
-    "failed": 2,
-    "openLibrary": 0,
+    "failed": 1,
+    "openLibrary": 1,
     "googleBooks": 0
   },
   "books": {
@@ -1178,7 +1178,8 @@
       "day": 168,
       "title": "The Bourne Identity",
       "author": "Robert Ludlum",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/499340-L.jpg",
+      "source": "openlibrary"
     },
     "the-pillars-of-the-earth-ken-follett": {
       "day": 169,
