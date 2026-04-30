@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-04-29T09:05:28.539Z",
+  "lastUpdated": "2026-04-30T09:07:20.521Z",
   "stats": {
     "total": 365,
-    "withCovers": 359,
-    "withoutCovers": 6,
-    "percentage": 98,
+    "withCovers": 360,
+    "withoutCovers": 5,
+    "percentage": 99,
     "newlyFetched": 1,
-    "alreadyCached": 363,
-    "failed": 1,
+    "alreadyCached": 364,
+    "failed": 0,
     "openLibrary": 1,
     "googleBooks": 0
   },
@@ -1451,7 +1451,8 @@
       "day": 209,
       "title": "Mrs. Frisby and the Rats of NIMH",
       "author": "Robert C. O'Brien",
-      "coverUrl": null
+      "coverUrl": "https://covers.openlibrary.org/b/id/7762286-L.jpg",
+      "source": "openlibrary"
     },
     "redwall-brian-jacques": {
       "day": 210,
