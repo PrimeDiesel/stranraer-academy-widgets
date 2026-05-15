@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-05-14T08:47:31.121Z",
+  "lastUpdated": "2026-04-06T07:57:18.602Z",
   "stats": {
     "total": 365,
     "withImages": 363,
     "withoutImages": 2,
     "percentage": 99,
-    "newlyFetched": 23,
-    "alreadyCached": 342,
+    "newlyFetched": 24,
+    "alreadyCached": 341,
     "failed": 0,
     "sources": {
-      "wikimedia": 273,
+      "wikimedia": 295,
       "met": 1,
-      "aic": 22,
-      "school": 69
+      "aic": 23,
+      "school": 46
     }
   },
   "artworks": {
@@ -110,14 +110,14 @@
     "diego-vel-zquez-las-meninas": {
       "day": 13,
       "title": "Las Meninas",
-      "artist": "Diego Velázquez",
+      "artist": "Diego Vel\u00e1zquez",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1280px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
       "source": "wikimedia"
     },
     "jean-honor--fragonard-the-swing": {
       "day": 14,
       "title": "The Swing",
-      "artist": "Jean-Honoré Fragonard",
+      "artist": "Jean-Honor\u00e9 Fragonard",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg/1280px-Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg",
       "source": "wikimedia"
     },
@@ -131,14 +131,14 @@
     "th-odore-g-ricault-the-raft-of-the-medusa": {
       "day": 16,
       "title": "The Raft of the Medusa",
-      "artist": "Théodore Géricault",
+      "artist": "Th\u00e9odore G\u00e9ricault",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1280px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
       "source": "wikimedia"
     },
     "eug-ne-delacroix-liberty-leading-the-people": {
       "day": 17,
       "title": "Liberty Leading the People",
-      "artist": "Eugène Delacroix",
+      "artist": "Eug\u00e8ne Delacroix",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
       "source": "wikimedia"
     },
@@ -166,14 +166,14 @@
     "jean-fran-ois-millet-the-gleaners": {
       "day": 21,
       "title": "The Gleaners",
-      "artist": "Jean-François Millet",
+      "artist": "Jean-Fran\u00e7ois Millet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
       "source": "wikimedia"
     },
     "-douard-manet-olympia": {
       "day": 22,
       "title": "Olympia",
-      "artist": "Édouard Manet",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
       "source": "wikimedia"
     },
@@ -193,8 +193,8 @@
     },
     "-douard-manet-a-bar-at-the-folies-berg-re": {
       "day": 25,
-      "title": "A Bar at the Folies-Bergère",
-      "artist": "Édouard Manet",
+      "title": "A Bar at the Folies-Berg\u00e8re",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg/1280px-Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
       "source": "wikimedia"
     },
@@ -221,7 +221,7 @@
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
-      "title": "Café Terrace at Night",
+      "title": "Caf\u00e9 Terrace at Night",
       "artist": "Vincent van Gogh",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/1280px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
       "source": "wikimedia"
@@ -250,14 +250,14 @@
     "paul-c-zanne-the-card-players": {
       "day": 33,
       "title": "The Card Players",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1280px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
     "paul-c-zanne-mont-sainte-victoire": {
       "day": 34,
       "title": "Mont Sainte-Victoire",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg/1280px-La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
@@ -306,14 +306,14 @@
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Persistence-of-Memory-by-Salvador-Dali.webp",
       "source": "school"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Noun_project_-_The_Son_of_Man_-_in_frame_colored.png",
       "source": "wikimedia"
     },
@@ -488,21 +488,21 @@
     "ren--magritte-the-treachery-of-images": {
       "day": 67,
       "title": "The Treachery of Images",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Rene-Magritte-The-Treachery-of-Images.jpg",
       "source": "school"
     },
     "salvador-dal--the-elephants": {
       "day": 68,
       "title": "The Elephants",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Elephants.jpg",
       "source": "school"
     },
     "salvador-dal--the-burning-giraffe": {
       "day": 69,
       "title": "The Burning Giraffe",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Burning-Giraffe.jpg",
       "source": "school"
     },
@@ -579,7 +579,7 @@
     "ren--magritte-the-treachery-of-images--this-is-not-a-pipe-": {
       "day": 80,
       "title": "The Treachery of Images (This is Not a Pipe)",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Treachery-of-Images-This-is-Not-a-Pipe-by-Rene-Magritte.jpg",
       "source": "school"
     },
@@ -692,8 +692,8 @@
       "day": 96,
       "title": "Untitled",
       "artist": "Jean-Michel Basquiat",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/04/Jean-Michel-Basquiat-Untitled.webp",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg/1280px-Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg",
+      "source": "wikimedia"
     },
     "jeff-koons-puppy": {
       "day": 97,
@@ -740,7 +740,7 @@
     "matthias-gr-newald-the-crucifixion": {
       "day": 103,
       "title": "The Crucifixion",
-      "artist": "Matthias Grünewald",
+      "artist": "Matthias Gr\u00fcnewald",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/04/Matthias-Grunewald-The-Crucifixion.jpg",
       "source": "school"
     },
@@ -958,106 +958,106 @@
       "day": 135,
       "title": "The Romans Leaving Britain",
       "artist": "Ford Madox Brown",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ford_Madox_Brown%3B_a_record_of_his_life_and_work_%28IA_fordmadoxbrownre00ford%29.pdf/page1-1280px-Ford_Madox_Brown%3B_a_record_of_his_life_and_work_%28IA_fordmadoxbrownre00ford%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Ford-Madox-Brown-The-Romans-Leaving-Britain.jpg",
+      "source": "school"
     },
     "frederic-leighton-flaming-june": {
       "day": 136,
       "title": "Flaming June",
       "artist": "Frederic Leighton",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flaming_June%2C_by_Frederic_Lord_Leighton_%281830-1896%29.jpg/1280px-Flaming_June%2C_by_Frederic_Lord_Leighton_%281830-1896%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Frederic-Leighton-Flaming-June.jpg",
+      "source": "school"
     },
     "edmund-blair-leighton-the-accolade": {
       "day": 137,
       "title": "The Accolade",
       "artist": "Edmund Blair Leighton",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Edmund_blair_leighton_accolade.jpg/1280px-Edmund_blair_leighton_accolade.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Edmund-Blair-Leighton-The-Accolade-scaled.jpg",
+      "source": "school"
     },
     "edmund-blair-leighton-godspeed": {
       "day": 138,
       "title": "Godspeed",
       "artist": "Edmund Blair Leighton",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leighton-God_Speed%21.jpg/1280px-Leighton-God_Speed%21.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Edmund-Blair-Leighton-Godspeed.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-hylas-and-the-nymphs": {
       "day": 139,
       "title": "Hylas and the Nymphs",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg/1280px-Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Hylas-and-the-Nymphs.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-the-lady-of-shalott-looking-at-lancelot": {
       "day": 140,
       "title": "The Lady of Shalott Looking at Lancelot",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/W.E.F._Britten_-_Alfred%2C_Lord_Tennyson_-_Lady_of_Shalott.jpg/1280px-W.E.F._Britten_-_Alfred%2C_Lord_Tennyson_-_Lady_of_Shalott.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Lady-of-Shalott-Looking-at-Lancelot.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-circe-offering-the-cup-to-ulysses": {
       "day": 141,
       "title": "Circe Offering the Cup to Ulysses",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Circe-Offering-the-Cup-to-Ulysses.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-echo-and-narcissus": {
       "day": 142,
       "title": "Echo and Narcissus",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg/1280px-John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Echo-and-Narcissus.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-cleopatra": {
       "day": 143,
       "title": "Cleopatra",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cleopatra_-_John_William_Waterhouse.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Cleopatra.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-a-mermaid": {
       "day": 144,
       "title": "A Mermaid",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/John_William_Waterhouse_-_MermaidFXD.jpg/1280px-John_William_Waterhouse_-_MermaidFXD.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-A-Mermaid.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-the-soul-of-the-rose": {
       "day": 145,
       "title": "The Soul of the Rose",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg/1280px-John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Soul-of-the-Rose-scaled.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-the-danaides": {
       "day": 146,
       "title": "The Danaides",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Danaides_Waterhouse_1906.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Danaides.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-pandora": {
       "day": 147,
       "title": "Pandora",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Argynnis_pandora_LC0052.jpg/1280px-Argynnis_pandora_LC0052.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/ohn-William-Waterhouse-Pandora.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-circe-invidiosa": {
       "day": 148,
       "title": "Circe Invidiosa",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_William_Waterhouse_%22Circe_Invidiosa%22_1892.jpg/1280px-John_William_Waterhouse_%22Circe_Invidiosa%22_1892.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/J._W._Waterhouse_-_Circe_Invidiosa_-_Google_Art_Project-scaled.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-saint-cecilia": {
       "day": 149,
       "title": "Saint Cecilia",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Waterhouse%2C_John_William_-_Saint_Cecilia_-_1895.jpg/1280px-Waterhouse%2C_John_William_-_Saint_Cecilia_-_1895.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Waterhouse_John_William_-_Saint_Cecilia_-_1895.jpg",
+      "source": "school"
     },
     "john-william-waterhouse-gather-ye-rosebuds-while-ye-may": {
       "day": 150,
@@ -2230,7 +2230,7 @@
     },
     "henri-matisse-luxe--calme-et-volupt-": {
       "day": 317,
-      "title": "Luxe, Calme et Volupté",
+      "title": "Luxe, Calme et Volupt\u00e9",
       "artist": "Henri Matisse",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg/1280px-Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg",
       "source": "wikimedia"
