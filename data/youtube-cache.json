@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-13T10:32:14.542Z",
+  "generated": "2026-06-14T10:50:18.690Z",
   "songs": {
     "Queen-Bohemian Rhapsody": "fJ9rUzIMcZQ",
     "Led Zeppelin-Stairway to Heaven": "QkF3oxziUI4",
-    "The Beatles-Hey Jude": "uNv_Bu_L6C8",
+    "The Beatles-Hey Jude": "mQER0A0ej0M",
     "Pink Floyd-Comfortably Numb": "_FrOQC-zEog",
     "The Rolling Stones-Paint It Black": "O4irXQhgMqg",
     "Nirvana-Smells Like Teen Spirit": "hTWKbfoikeg",
@@ -12,7 +12,7 @@
     "Jimi Hendrix-Purple Haze": "WGoDaYjdfSg",
     "The Who-Baba O'Riley": "QRTNm6GLJYI",
     "Michael Jackson-Billie Jean": "Kr4EQDVETuA",
-    "Whitney Houston-I Will Always Love You": "3JWTaaS7LdU",
+    "Whitney Houston-I Will Always Love You": "T9Ybsvw_0p4",
     "Aretha Franklin-Respect": "A134hShx_gw",
     "Stevie Wonder-Superstition": "ftdZ363R9kQ",
     "Marvin Gaye-What's Going On": "H-kA3UtBj4M",
@@ -29,7 +29,7 @@
     "Eminem-Lose Yourself": "xFYQQPAOz7Y",
     "Kanye West-Stronger": "3mwiO5st-us",
     "Drake-Hotline Bling": "zt6aRKpf9T4",
-    "Alicia Keys-Fallin'": "abcZMQASXF8",
+    "Alicia Keys-Fallin'": "_i39qX86cGY",
     "Radiohead-Creep": "XFkzRNyygfk",
     "Oasis-Wonderwall": "6hzrDeceEKc",
     "The Smiths-There Is a Light That Never Goes Out": "siO6dkqidc4",
@@ -89,7 +89,7 @@
     "Debbie Gibson-Lost in Your Eyes": "8Ms3mJFkSeg",
     "Rick Astley-Never Gonna Give You Up": "dQw4w9WgXcQ",
     "Wham!-Wake Me Up Before You Go-Go": "pIgZ7gMze7A",
-    "Culture Club-Karma Chameleon": "h5WA79F4UCs",
+    "Culture Club-Karma Chameleon": "JmcA9LIIXWw",
     "Duran Duran-Hungry Like the Wolf": "yLrF5j7up9Q",
     "Depeche Mode-Enjoy the Silence": "ojvldIzbaMo",
     "New Order-Blue Monday": "c1GxjzHm5us",
@@ -100,24 +100,28 @@
     "INXS-Need You Tonight": "j07drBZBGe8",
     "Alanis Morissette-You Oughta Know": "NPcyTyilmYY",
     "No Doubt-Don't Speak": "TR3Vdo5etCQ",
-    "TLC-Waterfalls": "8WEtxJ4-sh4",
+    "TLC-Waterfalls": "R09S7CNPhFs",
     "Salt-N-Pepa-Shoop": "4vaN01VLYSQ",
     "En Vogue-My Lovin' (You're Never Gonna Get It)": "JIuYQ_4TcXg",
     "Boyz II Men-End of the Road": "zDKO6XYXioc",
     "Bell Biv DeVoe-Poison": "hgnhVcyLy1I",
     "Bobby Brown-My Prerogative": "xQtLPbWJXC8",
-    "Janet Jackson-Rhythm Nation": "qC5GqbCtxbM",
-    "Paula Abdul-Straight Up": "El1kgCqD7Xk",
-    "Wilson Phillips-Hold On": "uIbXvaE39wM"
+    "Janet Jackson-Rhythm Nation": "qC5GqbCtxbM"
   },
   "albums": {
     "The Beatles-Abbey Road": "VpV53LqcuhU"
   },
   "movies": {
     "The Wizard of Oz": "H_3T4DGw10U",
-    "Gone with the Wind": "0X94oZgJis4",
-    "Casablanca": "BkL9l7qovsE"
+    "Gone with the Wind": "0X94oZgJis4"
   },
-  "games": {},
-  "tv": {}
+  "games": {
+    "Super Mario Bros.": "LRberxzvAIc",
+    "The Legend of Zelda": "PFEq-zAObgU",
+    "Metroid": "6CTtJgchB28",
+    "Castlevania": "gSiXdRJDAEM"
+  },
+  "tv": {
+    "Knight Rider": "oNyXYPhnUIs"
+  }
 }
