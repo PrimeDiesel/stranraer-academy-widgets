@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T06:57:11.669Z",
-  "nextUpdate": "2026-06-30T06:57:11.669Z",
+  "lastUpdated": "2026-06-30T06:19:36.209Z",
+  "nextUpdate": "2026-07-01T06:19:36.209Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "John Locke Essay Competition",
-      "organisation": "John Locke Institute",
-      "category": "writing",
-      "ageRange": "15-18",
-      "description": "Write an essay in philosophy, politics, economics, history, psychology, theology or law.",
-      "link": "https://www.johnlockeinstitute.com/",
-      "deadline": "2026-06-30"
-    },
     {
       "title": "Foyle Young Poets",
       "organisation": "The Poetry Society",
@@ -168,6 +159,15 @@
       "description": "Write a short story (up to 1000 words) on any theme. Winners published.",
       "link": "https://www.bbc.co.uk/programmes/p00rfvk1",
       "deadline": "2027-04-01"
+    },
+    {
+      "title": "John Locke Essay Competition",
+      "organisation": "John Locke Institute",
+      "category": "writing",
+      "ageRange": "15-18",
+      "description": "Write an essay in philosophy, politics, economics, history, psychology, theology or law.",
+      "link": "https://www.johnlockeinstitute.com/",
+      "deadline": "2027-06-30"
     },
     {
       "title": "CREST Awards",
