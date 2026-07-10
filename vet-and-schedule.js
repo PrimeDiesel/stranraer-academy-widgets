@@ -112,18 +112,42 @@ async function fromOMDb(title) {
 }
 
 // iTunes: free, no key. Gives explicit flag + artwork.
+// Rate limit is roughly 20 calls/minute — go slowly and retry, or it silently
+// returns nothing and every clean track looks "unknown".
+const ITUNES_DELAY = Number(process.env.ITUNES_DELAY || 3000);
+
 async function fromITunes(term, entity) {
-  const d = await fetch(`https://itunes.apple.com/search?entity=${entity}&limit=1&term=${encodeURIComponent(term)}`)
-    .then((r) => r.json()).catch(() => null);
-  const hit = d && d.results && d.results[0];
-  if (!hit) return null;
-  const explicitness = hit.trackExplicitness || hit.collectionExplicitness || 'unknown';
-  return {
-    explicit: explicitness === 'explicit',
-    known: explicitness !== 'unknown',
-    artwork: hit.artworkUrl100 ? hit.artworkUrl100.replace('100x100', '600x600') : null,
-    year: (hit.releaseDate || '').slice(0, 4),
-  };
+  const url = `https://itunes.apple.com/search?entity=${entity}&limit=1&country=GB&term=${encodeURIComponent(term)}`;
+
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const res = await fetch(url);
+      if (res.status === 403 || res.status === 429) {      // throttled: back off hard
+        await delay(ITUNES_DELAY * attempt * 2);
+        continue;
+      }
+      const d = await res.json();
+      if (!d || !Array.isArray(d.results)) { await delay(ITUNES_DELAY); continue; }
+
+      if (d.results.length === 0) return { answered: true, found: false };
+
+      const hit = d.results[0];
+      const flag = hit.trackExplicitness || hit.collectionExplicitness || null;
+      if (!flag) return { answered: true, found: true, known: false };
+
+      return {
+        answered: true,
+        found: true,
+        known: flag !== 'unknown',
+        explicit: flag === 'explicit',
+        artwork: hit.artworkUrl100 ? hit.artworkUrl100.replace('100x100', '600x600') : null,
+        year: (hit.releaseDate || '').slice(0, 4),
+      };
+    } catch {
+      await delay(ITUNES_DELAY * attempt);
+    }
+  }
+  return { answered: false };   // never got a straight answer — retry on a later run
 }
 
 /* ---------------- vetting ---------------- */
@@ -182,37 +206,41 @@ async function vetMovies(list, cacheFile) {
 
 async function vetTracks(list, cacheFile, kind) {
   const cache = readJSON(cacheFile, {});
+  let pending = 0, cleared = 0;
 
   for (const item of list) {
     const title = kind === 'song' ? item.song : item.album;
     const key = `${item.artist}-${title}`;
-    if (cache[key]) continue;
+    if (cache[key]) continue;                       // already has a definitive verdict
 
     if (hasProfanity(title) || hasProfanity(item.artist)) {
       rejected.push({ category: kind, title: key, reason: 'profanity in title' });
-      cache[key] = { safe: false };
+      cache[key] = { safe: false, reason: 'profanity' };
       continue;
     }
 
     const it = await fromITunes(`${item.artist} ${title}`, kind === 'song' ? 'song' : 'album');
-    await delay(200);
+    await delay(ITUNES_DELAY);
 
-    if (!it || !it.known) {
-      rejected.push({ category: kind, title: key, reason: 'explicit status unknown' });
-      cache[key] = { safe: false };
+    // No straight answer, or matched nothing: DON'T cache. A later run retries it.
+    if (!it.answered || it.found === false || it.known === false) {
+      pending++;
       continue;
     }
+
     if (it.explicit) {
       rejected.push({ category: kind, title: key, reason: 'flagged explicit' });
-      cache[key] = { safe: false };
+      cache[key] = { safe: false, reason: 'explicit' };
       continue;
     }
 
     cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '' };
+    cleared++;
     console.log(`  ✅ ${key}`);
   }
 
   writeJSON(cacheFile, cache);
+  console.log(`  cleared ${cleared} · ${pending} still awaiting a reply from iTunes (will retry next run)`);
   return cache;
 }
 
