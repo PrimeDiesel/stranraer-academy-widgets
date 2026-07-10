@@ -41,9 +41,11 @@ const ALLOWED_UK = ['U', 'PG', '12A', '12'];
 const ALLOWED_US = ['G', 'PG', 'PG-13', 'TV-G', 'TV-PG', 'TV-Y', 'TV-Y7', 'Approved', 'Passed'];
 
 // Blunt second net for song/album titles. The iTunes explicit flag does the heavy lifting.
+// Blunt second net for song/album titles. iTunes' explicit flag does the heavy
+// lifting; this only catches slurs/swearing in a TITLE. Whole-word matches only.
 const PROFANITY = [
-  'fuck', 'shit', 'bitch', 'cunt', 'nigga', 'nigger', 'motherfuck',
-  'wanker', 'bollocks', 'twat', 'slut', 'whore', 'dick', 'cock',
+  'fuck', 'fucking', 'shit', 'bitch', 'cunt', 'nigga', 'nigger',
+  'motherfucker', 'wanker', 'twat', 'slut', 'whore',
 ];
 
 // Seasonal windows: day-of-year ranges (0-based, non-leap reference).
@@ -67,7 +69,8 @@ function writeJSON(file, obj) {
 }
 function hasProfanity(text) {
   const t = (text || '').toLowerCase();
-  return PROFANITY.some((w) => t.includes(w));
+  // Whole words only — otherwise "Hancock" matches, "Scunthorpe" matches, etc.
+  return PROFANITY.some((w) => new RegExp(`\\b${w}\\b`, 'i').test(t));
 }
 function seasonOf(title) {
   for (const [name, s] of Object.entries(SEASONS)) {
@@ -116,38 +119,49 @@ async function fromOMDb(title) {
 // returns nothing and every clean track looks "unknown".
 const ITUNES_DELAY = Number(process.env.ITUNES_DELAY || 3000);
 
-async function fromITunes(term, entity) {
-  const url = `https://itunes.apple.com/search?entity=${entity}&limit=1&country=GB&term=${encodeURIComponent(term)}`;
+function norm(x) { return (x || '').toLowerCase().replace(/[^a-z0-9]/g, ''); }
+
+/**
+ * Ask iTunes for up to 10 matches. A single "clean radio edit" result is NOT
+ * proof a track is clean — the original may be explicit and that's what will
+ * play on YouTube. So: if ANY matching version is flagged explicit, we treat
+ * the track as explicit and reject it.
+ */
+async function fromITunes(artist, title, entity) {
+  const term = `${artist} ${title}`;
+  const url = `https://itunes.apple.com/search?entity=${entity}&limit=10&country=GB&term=${encodeURIComponent(term)}`;
 
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       const res = await fetch(url);
-      if (res.status === 403 || res.status === 429) {      // throttled: back off hard
-        await delay(ITUNES_DELAY * attempt * 2);
-        continue;
-      }
+      if (res.status === 403 || res.status === 429) { await delay(ITUNES_DELAY * attempt * 2); continue; }
+
       const d = await res.json();
       if (!d || !Array.isArray(d.results)) { await delay(ITUNES_DELAY); continue; }
-
       if (d.results.length === 0) return { answered: true, found: false };
 
-      const hit = d.results[0];
-      const flag = hit.trackExplicitness || hit.collectionExplicitness || null;
-      if (!flag) return { answered: true, found: true, known: false };
+      const wantA = norm(artist), wantT = norm(title);
+      const matches = d.results.filter((r) => {
+        const a = norm(r.artistName), t = norm(r.trackName || r.collectionName);
+        return (a.includes(wantA) || wantA.includes(a)) && (t.includes(wantT) || wantT.includes(t));
+      });
+      const pool = matches.length ? matches : [d.results[0]];
+
+      const flags = pool.map((r) => r.trackExplicitness || r.collectionExplicitness).filter(Boolean);
+      if (!flags.length) return { answered: true, found: true, known: false };
+
+      const anyExplicit = flags.includes('explicit');
+      const clean = pool.find((r) => (r.trackExplicitness || r.collectionExplicitness) !== 'explicit') || pool[0];
 
       return {
-        answered: true,
-        found: true,
-        known: flag !== 'unknown',
-        explicit: flag === 'explicit',
-        artwork: hit.artworkUrl100 ? hit.artworkUrl100.replace('100x100', '600x600') : null,
-        year: (hit.releaseDate || '').slice(0, 4),
+        answered: true, found: true, known: true,
+        explicit: anyExplicit,
+        artwork: clean.artworkUrl100 ? clean.artworkUrl100.replace('100x100', '600x600') : null,
+        year: (clean.releaseDate || '').slice(0, 4),
       };
-    } catch {
-      await delay(ITUNES_DELAY * attempt);
-    }
+    } catch { await delay(ITUNES_DELAY * attempt); }
   }
-  return { answered: false };   // never got a straight answer — retry on a later run
+  return { answered: false };
 }
 
 /* ---------------- vetting ---------------- */
@@ -211,15 +225,15 @@ async function vetTracks(list, cacheFile, kind) {
   for (const item of list) {
     const title = kind === 'song' ? item.song : item.album;
     const key = `${item.artist}-${title}`;
-    if (cache[key]) continue;                       // already has a definitive verdict
+    if (cache[key] && cache[key].v === 2) continue;  // already vetted by THIS version of the rules
 
     if (hasProfanity(title) || hasProfanity(item.artist)) {
       rejected.push({ category: kind, title: key, reason: 'profanity in title' });
-      cache[key] = { safe: false, reason: 'profanity' };
+      cache[key] = { safe: false, reason: 'profanity', v: 2 };
       continue;
     }
 
-    const it = await fromITunes(`${item.artist} ${title}`, kind === 'song' ? 'song' : 'album');
+    const it = await fromITunes(item.artist, title, kind === 'song' ? 'song' : 'album');
     await delay(ITUNES_DELAY);
 
     // No straight answer, or matched nothing: DON'T cache. A later run retries it.
@@ -229,12 +243,12 @@ async function vetTracks(list, cacheFile, kind) {
     }
 
     if (it.explicit) {
-      rejected.push({ category: kind, title: key, reason: 'flagged explicit' });
-      cache[key] = { safe: false, reason: 'explicit' };
+      rejected.push({ category: kind, title: key, reason: 'explicit version exists' });
+      cache[key] = { safe: false, reason: 'explicit', v: 2 };
       continue;
     }
 
-    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '' };
+    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '', v: 2 };
     cleared++;
     console.log(`  ✅ ${key}`);
   }
