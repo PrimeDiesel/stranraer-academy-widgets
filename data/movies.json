@@ -363,12 +363,6 @@
     "title": "Elf"
   },
   {
-    "title": "Home Alone"
-  },
-  {
-    "title": "Home Alone 2: Lost in New York"
-  },
-  {
     "title": "The Polar Express"
   },
   {
@@ -384,9 +378,6 @@
     "title": "The Muppet Christmas Carol"
   },
   {
-    "title": "It's a Wonderful Life"
-  },
-  {
     "title": "Miracle on 34th Street"
   },
   {
@@ -397,12 +388,6 @@
   },
   {
     "title": "Jingle All the Way"
-  },
-  {
-    "title": "Hocus Pocus"
-  },
-  {
-    "title": "The Nightmare Before Christmas"
   },
   {
     "title": "Coraline"
@@ -432,6 +417,681 @@
     "title": "Beetlejuice"
   },
   {
-    "title": "Ghostbusters"
+    "title": "Finding Nemo"
+  },
+  {
+    "title": "Finding Dory"
+  },
+  {
+    "title": "Monsters, Inc."
+  },
+  {
+    "title": "Monsters University"
+  },
+  {
+    "title": "Up"
+  },
+  {
+    "title": "WALL-E"
+  },
+  {
+    "title": "Ratatouille"
+  },
+  {
+    "title": "Inside Out"
+  },
+  {
+    "title": "Inside Out 2"
+  },
+  {
+    "title": "Coco"
+  },
+  {
+    "title": "Brave"
+  },
+  {
+    "title": "Soul"
+  },
+  {
+    "title": "Luca"
+  },
+  {
+    "title": "Turning Red"
+  },
+  {
+    "title": "Onward"
+  },
+  {
+    "title": "The Incredibles"
+  },
+  {
+    "title": "Incredibles 2"
+  },
+  {
+    "title": "Cars"
+  },
+  {
+    "title": "Cars 2"
+  },
+  {
+    "title": "Cars 3"
+  },
+  {
+    "title": "Toy Story 3"
+  },
+  {
+    "title": "Toy Story 4"
+  },
+  {
+    "title": "Frozen"
+  },
+  {
+    "title": "Frozen II"
+  },
+  {
+    "title": "Moana"
+  },
+  {
+    "title": "Tangled"
+  },
+  {
+    "title": "Wreck-It Ralph"
+  },
+  {
+    "title": "Ralph Breaks the Internet"
+  },
+  {
+    "title": "Big Hero 6"
+  },
+  {
+    "title": "Zootopia"
+  },
+  {
+    "title": "Encanto"
+  },
+  {
+    "title": "Raya and the Last Dragon"
+  },
+  {
+    "title": "The Princess and the Frog"
+  },
+  {
+    "title": "Winnie the Pooh"
+  },
+  {
+    "title": "Lilo & Stitch"
+  },
+  {
+    "title": "Bolt"
+  },
+  {
+    "title": "Meet the Robinsons"
+  },
+  {
+    "title": "Chicken Little"
+  },
+  {
+    "title": "Sleeping Beauty"
+  },
+  {
+    "title": "Cinderella"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "title": "Peter Pan"
+  },
+  {
+    "title": "Lady and the Tramp"
+  },
+  {
+    "title": "Dumbo"
+  },
+  {
+    "title": "Bambi"
+  },
+  {
+    "title": "Pinocchio"
+  },
+  {
+    "title": "Fantasia"
+  },
+  {
+    "title": "101 Dalmatians"
+  },
+  {
+    "title": "The Rescuers"
+  },
+  {
+    "title": "The Many Adventures of Winnie the Pooh"
+  },
+  {
+    "title": "Shrek"
+  },
+  {
+    "title": "Shrek 2"
+  },
+  {
+    "title": "Shrek the Third"
+  },
+  {
+    "title": "Shrek Forever After"
+  },
+  {
+    "title": "Puss in Boots"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish"
+  },
+  {
+    "title": "How to Train Your Dragon"
+  },
+  {
+    "title": "How to Train Your Dragon 2"
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World"
+  },
+  {
+    "title": "Kung Fu Panda"
+  },
+  {
+    "title": "Kung Fu Panda 2"
+  },
+  {
+    "title": "Kung Fu Panda 3"
+  },
+  {
+    "title": "Madagascar"
+  },
+  {
+    "title": "Madagascar: Escape 2 Africa"
+  },
+  {
+    "title": "Madagascar 3: Europe's Most Wanted"
+  },
+  {
+    "title": "Penguins of Madagascar"
+  },
+  {
+    "title": "Megamind"
+  },
+  {
+    "title": "Trolls"
+  },
+  {
+    "title": "Trolls World Tour"
+  },
+  {
+    "title": "The Croods"
+  },
+  {
+    "title": "The Croods: A New Age"
+  },
+  {
+    "title": "Rise of the Guardians"
+  },
+  {
+    "title": "Kubo and the Two Strings"
+  },
+  {
+    "title": "Despicable Me"
+  },
+  {
+    "title": "Despicable Me 2"
+  },
+  {
+    "title": "Despicable Me 3"
+  },
+  {
+    "title": "Minions"
+  },
+  {
+    "title": "Minions: The Rise of Gru"
+  },
+  {
+    "title": "The Secret Life of Pets"
+  },
+  {
+    "title": "Sing"
+  },
+  {
+    "title": "Sing 2"
+  },
+  {
+    "title": "The Lego Movie"
+  },
+  {
+    "title": "The Lego Batman Movie"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse"
+  },
+  {
+    "title": "The Bad Guys"
+  },
+  {
+    "title": "Migration"
+  },
+  {
+    "title": "Wish"
+  },
+  {
+    "title": "Elemental"
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron"
+  },
+  {
+    "title": "Chicken Run"
+  },
+  {
+    "title": "Chicken Run: Dawn of the Nugget"
+  },
+  {
+    "title": "Flushed Away"
+  },
+  {
+    "title": "Shaun the Sheep Movie"
+  },
+  {
+    "title": "A Shaun the Sheep Movie: Farmageddon"
+  },
+  {
+    "title": "Early Man"
+  },
+  {
+    "title": "The Pirates! In an Adventure with Scientists!"
+  },
+  {
+    "title": "My Neighbour Totoro"
+  },
+  {
+    "title": "Kiki's Delivery Service"
+  },
+  {
+    "title": "Ponyo"
+  },
+  {
+    "title": "Howl's Moving Castle"
+  },
+  {
+    "title": "Spirited Away"
+  },
+  {
+    "title": "Castle in the Sky"
+  },
+  {
+    "title": "The Secret World of Arrietty"
+  },
+  {
+    "title": "When Marnie Was There"
+  },
+  {
+    "title": "Whisper of the Heart"
+  },
+  {
+    "title": "Paddington"
+  },
+  {
+    "title": "Paddington 2"
+  },
+  {
+    "title": "Peter Rabbit"
+  },
+  {
+    "title": "Peter Rabbit 2: The Runaway"
+  },
+  {
+    "title": "The Adventures of Tintin"
+  },
+  {
+    "title": "Nanny McPhee"
+  },
+  {
+    "title": "Nanny McPhee and the Big Bang"
+  },
+  {
+    "title": "Stuart Little"
+  },
+  {
+    "title": "Stuart Little 2"
+  },
+  {
+    "title": "Cats & Dogs"
+  },
+  {
+    "title": "Alvin and the Chipmunks"
+  },
+  {
+    "title": "Marley & Me"
+  },
+  {
+    "title": "Beethoven"
+  },
+  {
+    "title": "Free Willy"
+  },
+  {
+    "title": "Fly Away Home"
+  },
+  {
+    "title": "Nim's Island"
+  },
+  {
+    "title": "Bridge to Terabithia"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory"
+  },
+  {
+    "title": "The Water Horse"
+  },
+  {
+    "title": "Because of Winn-Dixie"
+  },
+  {
+    "title": "Racing Stripes"
+  },
+  {
+    "title": "Dolphin Tale"
+  },
+  {
+    "title": "Dolphin Tale 2"
+  },
+  {
+    "title": "Zathura"
+  },
+  {
+    "title": "Bedtime Stories"
+  },
+  {
+    "title": "The Spiderwick Chronicles"
+  },
+  {
+    "title": "Journey to the Center of the Earth"
+  },
+  {
+    "title": "Journey 2: The Mysterious Island"
+  },
+  {
+    "title": "Night at the Museum"
+  },
+  {
+    "title": "Night at the Museum: Battle of the Smithsonian"
+  },
+  {
+    "title": "Night at the Museum: Secret of the Tomb"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "title": "The Chronicles of Narnia: Prince Caspian"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader"
+  },
+  {
+    "title": "A Wrinkle in Time"
+  },
+  {
+    "title": "The BFG"
+  },
+  {
+    "title": "Pete's Dragon"
+  },
+  {
+    "title": "Christopher Robin"
+  },
+  {
+    "title": "Maleficent"
+  },
+  {
+    "title": "Cruella"
+  },
+  {
+    "title": "Enchanted"
+  },
+  {
+    "title": "Disenchanted"
+  },
+  {
+    "title": "Mary Poppins Returns"
+  },
+  {
+    "title": "Jumanji: Welcome to the Jungle"
+  },
+  {
+    "title": "Jumanji: The Next Level"
+  },
+  {
+    "title": "Wonder"
+  },
+  {
+    "title": "Cheaper by the Dozen"
+  },
+  {
+    "title": "Matilda the Musical"
+  },
+  {
+    "title": "Wonka"
+  },
+  {
+    "title": "The Water Babies"
+  },
+  {
+    "title": "The Railway Children"
+  },
+  {
+    "title": "Millions"
+  },
+  {
+    "title": "Paddington in Peru"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 1"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2"
+  },
+  {
+    "title": "Fantastic Beasts and Where to Find Them"
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey"
+  },
+  {
+    "title": "Percy Jackson & the Olympians: The Lightning Thief"
+  },
+  {
+    "title": "Ella Enchanted"
+  },
+  {
+    "title": "Stardust"
+  },
+  {
+    "title": "The Golden Compass"
+  },
+  {
+    "title": "Inkheart"
+  },
+  {
+    "title": "Eragon"
+  },
+  {
+    "title": "The Sorcerer's Apprentice"
+  },
+  {
+    "title": "Spider-Man"
+  },
+  {
+    "title": "Spider-Man 2"
+  },
+  {
+    "title": "Spider-Man: Homecoming"
+  },
+  {
+    "title": "Spider-Man: Far From Home"
+  },
+  {
+    "title": "The Avengers"
+  },
+  {
+    "title": "Avengers: Age of Ultron"
+  },
+  {
+    "title": "Iron Man"
+  },
+  {
+    "title": "Iron Man 2"
+  },
+  {
+    "title": "Iron Man 3"
+  },
+  {
+    "title": "Thor"
+  },
+  {
+    "title": "Thor: Ragnarok"
+  },
+  {
+    "title": "Captain America: The First Avenger"
+  },
+  {
+    "title": "Guardians of the Galaxy"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2"
+  },
+  {
+    "title": "Ant-Man"
+  },
+  {
+    "title": "Doctor Strange"
+  },
+  {
+    "title": "Black Panther"
+  },
+  {
+    "title": "Captain Marvel"
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings"
+  },
+  {
+    "title": "Wonder Woman"
+  },
+  {
+    "title": "Man of Steel"
+  },
+  {
+    "title": "Batman Begins"
+  },
+  {
+    "title": "Shazam!"
+  },
+  {
+    "title": "Aquaman"
+  },
+  {
+    "title": "The Flash"
+  },
+  {
+    "title": "Sonic the Hedgehog"
+  },
+  {
+    "title": "Sonic the Hedgehog 2"
+  },
+  {
+    "title": "Sonic the Hedgehog 3"
+  },
+  {
+    "title": "Detective Pikachu"
+  },
+  {
+    "title": "The Super Mario Bros. Movie"
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory"
+  },
+  {
+    "title": "The Muppet Movie"
+  },
+  {
+    "title": "The Great Muppet Caper"
+  },
+  {
+    "title": "Muppet Treasure Island"
+  },
+  {
+    "title": "The Muppets"
+  },
+  {
+    "title": "Annie"
+  },
+  {
+    "title": "Oliver!"
+  },
+  {
+    "title": "Doctor Dolittle"
+  },
+  {
+    "title": "Babe: Pig in the City"
+  },
+  {
+    "title": "The Black Cauldron"
+  },
+  {
+    "title": "The Rescuers Down Under"
+  },
+  {
+    "title": "A Goofy Movie"
+  },
+  {
+    "title": "Fantastic Mr. Fox"
+  },
+  {
+    "title": "Isle of Dogs"
+  },
+  {
+    "title": "James and the Giant Peach"
+  },
+  {
+    "title": "The Neverending Story"
+  },
+  {
+    "title": "Song of the Sea"
+  },
+  {
+    "title": "The Secret of Kells"
+  },
+  {
+    "title": "Wolfwalkers"
+  },
+  {
+    "title": "Ernest & Celestine"
   }
 ]
