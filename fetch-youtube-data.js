@@ -1,229 +1,166 @@
+/**
+ * fetch-youtube-data.js  —  RESUMABLE cache builder
+ *
+ * WHAT WAS WRONG BEFORE:
+ *   The old script started with an EMPTY cache object every run, so it
+ *   re-fetched the same first ~95 songs, exhausted the 10,000-unit daily
+ *   quota, then OVERWROTE data/youtube-cache.json with that partial result.
+ *   It could never progress past songs.
+ *
+ * WHAT THIS DOES:
+ *   1. LOADS the existing cache from disk (if present).
+ *   2. SKIPS anything already cached.
+ *   3. Stops cleanly after MAX_SEARCHES (a safe margin under the quota).
+ *   4. MERGES + writes, so every run adds to the pile.
+ *
+ * QUOTA MATHS: search.list costs 100 units. Free tier = 10,000 units/day.
+ *   => 100 searches/day maximum. We use 90 to leave headroom.
+ *
+ * Run daily (GitHub Action). Songs+albums+movies+games+TV complete in ~2 weeks.
+ */
+
 const fs = require('fs');
-const https = require('https');
+const path = require('path');
 
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
+const CACHE_FILE = './data/youtube-cache.json';
+const MAX_SEARCHES = Number(process.env.MAX_SEARCHES || 90);
 
 if (!YOUTUBE_API_KEY) {
-  console.error('❌ ERROR: YOUTUBE_API_KEY environment variable not set!');
+  console.error('❌ YOUTUBE_API_KEY not set. Add it as a GitHub Secret.');
   process.exit(1);
 }
 
-// Load your JSON data files from /data folder
-const songs = require('./data/songs.json');
-const albums = require('./data/albums.json');
-const movies = require('./data/movies.json');
-const games = require('./data/games.json');
-const tvShows = require('./data/tv-shows.json');
+const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/* ---------- load data lists ---------- */
+function readJSON(file, fallback) {
+  try { return JSON.parse(fs.readFileSync(file, 'utf8')); }
+  catch { return fallback; }
+}
+
+const songs   = readJSON('./data/songs.json', []);
+const albums  = readJSON('./data/albums.json', []);
+const movies  = readJSON('./data/movies.json', []);
+const games   = readJSON('./data/games.json', []);
+const tvShows = readJSON('./data/tv-shows.json', []);
+
+/* ---------- THE FIX: load existing cache, don't clobber it ---------- */
+const cache = readJSON(CACHE_FILE, null) || {};
+cache.songs  = cache.songs  || {};
+cache.albums = cache.albums || {};
+cache.movies = cache.movies || {};
+cache.games  = cache.games  || {};
+cache.tv     = cache.tv     || {};
+
+let searchesUsed = 0;
+let quotaHit = false;
+
+/* ---------- one YouTube search ---------- */
 async function searchYouTube(query) {
-  return new Promise((resolve, reject) => {
-    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=${encodeURIComponent(query)}&type=video&key=${YOUTUBE_API_KEY}`;
-    
-    https.get(url, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          const parsed = JSON.parse(data);
-          if (parsed.error) {
-            reject(new Error(parsed.error.message));
-            return;
-          }
-          if (parsed.items && parsed.items.length > 0) {
-            resolve(parsed.items[0].id.videoId);
-          } else {
-            resolve(null);
-          }
-        } catch (error) {
-          reject(error);
-        }
-      });
-    }).on('error', reject);
-  });
+  const url = 'https://www.googleapis.com/youtube/v3/search'
+    + '?part=snippet&maxResults=1&type=video&safeSearch=strict'
+    + '&q=' + encodeURIComponent(query)
+    + '&key=' + YOUTUBE_API_KEY;
+
+  const res = await fetch(url);
+  const data = await res.json();
+
+  if (data.error) {
+    const msg = (data.error.message || '').toLowerCase();
+    if (msg.includes('quota')) { quotaHit = true; throw new Error('quota'); }
+    throw new Error(data.error.message);
+  }
+  const item = data.items && data.items[0];
+  return item ? item.id.videoId : null;
 }
 
-async function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+/* ---------- process one category ---------- */
+async function processCategory(label, bucket, items, keyFn, queryFn) {
+  if (quotaHit) return;
+
+  const pending = items.filter((it) => !bucket[keyFn(it)]);
+  console.log(`\n${label}: ${Object.keys(bucket).length}/${items.length} cached · ${pending.length} still to fetch`);
+
+  for (const item of pending) {
+    if (quotaHit) break;
+    if (searchesUsed >= MAX_SEARCHES) {
+      console.log(`   ⏸  Hit safe limit of ${MAX_SEARCHES} searches for today — stopping cleanly.`);
+      return;
+    }
+
+    const key = keyFn(item);
+    try {
+      const videoId = await searchYouTube(queryFn(item));
+      searchesUsed++;
+      if (videoId) {
+        bucket[key] = videoId;
+        console.log(`   ✅ ${key} → ${videoId}  (${searchesUsed}/${MAX_SEARCHES})`);
+      } else {
+        console.log(`   ⚠️  no result: ${key}`);
+      }
+      await delay(200); // be polite: ~5 req/sec
+    } catch (err) {
+      if (err.message === 'quota') {
+        console.log('   🛑 YouTube quota exhausted — saving progress and stopping.');
+        return;
+      }
+      console.log(`   ❌ ${key}: ${err.message}`);
+    }
+  }
 }
 
-async function fetchAllVideos() {
-  const cache = {
-    generated: new Date().toISOString(),
-    songs: {},
-    albums: {},
-    movies: {},
-    games: {},
-    tv: {}
-  };
-  
-  console.log('\n🎵 FETCHING SONGS (' + songs.length + ' total)...');
-  let count = 0;
-  let successCount = 0;
-  
-  for (const song of songs) {
-    const key = `${song.artist}-${song.song}`;
-    const query = `${song.artist} ${song.song} official audio`;
-    
-    try {
-      const videoId = await searchYouTube(query);
-      if (videoId) {
-        cache.songs[key] = videoId;
-        successCount++;
-        console.log(`✅ ${++count}/${songs.length}: ${key.substring(0, 60)}...`);
-      } else {
-        console.log(`⚠️  ${++count}/${songs.length}: ${key.substring(0, 60)}... - NOT FOUND`);
-      }
-      await delay(200); // Rate limit: 5 requests/second
-    } catch (error) {
-      console.log(`❌ ${++count}/${songs.length}: ${key.substring(0, 60)}... - ERROR: ${error.message}`);
-      if (error.message.includes('quota')) {
-        console.log('\n⚠️  QUOTA EXCEEDED! Stopping...');
-        break;
-      }
-    }
+/* ---------- main ---------- */
+async function run() {
+  console.log(`🎬 Resumable YouTube cache builder · budget ${MAX_SEARCHES} searches`);
+
+  // Order matters: finish songs first, then work down the list.
+  await processCategory('🎵 SONGS',  cache.songs,  songs,
+    (s) => `${s.artist}-${s.song}`,
+    (s) => `${s.artist} ${s.song} official audio`);
+
+  await processCategory('💿 ALBUMS', cache.albums, albums,
+    (a) => `${a.artist}-${a.album}`,
+    (a) => `${a.artist} ${a.album} full album`);
+
+  await processCategory('🎬 MOVIES', cache.movies, movies,
+    (m) => m.title,
+    (m) => `${m.title} official trailer`);
+
+  await processCategory('🎮 GAMES',  cache.games,  games,
+    (g) => g.title,
+    (g) => `${g.title} official trailer`);
+
+  await processCategory('📺 TV',     cache.tv,     tvShows,
+    (t) => t.title,
+    (t) => `${t.title} official trailer`);
+
+  /* ---------- write merged cache ---------- */
+  cache.generated = new Date().toISOString();
+  if (!fs.existsSync('./data')) fs.mkdirSync('./data', { recursive: true });
+  fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
+
+  const pct = (b, t) => t ? Math.round(Object.keys(b).length / t * 100) : 0;
+  console.log('\n📊 CACHE STATUS');
+  console.log(`   Songs:  ${Object.keys(cache.songs).length}/${songs.length}   (${pct(cache.songs, songs.length)}%)`);
+  console.log(`   Albums: ${Object.keys(cache.albums).length}/${albums.length}  (${pct(cache.albums, albums.length)}%)`);
+  console.log(`   Movies: ${Object.keys(cache.movies).length}/${movies.length}  (${pct(cache.movies, movies.length)}%)`);
+  console.log(`   Games:  ${Object.keys(cache.games).length}/${games.length}   (${pct(cache.games, games.length)}%)`);
+  console.log(`   TV:     ${Object.keys(cache.tv).length}/${tvShows.length}    (${pct(cache.tv, tvShows.length)}%)`);
+  console.log(`\n🔎 Searches used this run: ${searchesUsed}`);
+
+  const remaining =
+    (songs.length   - Object.keys(cache.songs).length)  +
+    (albums.length  - Object.keys(cache.albums).length) +
+    (movies.length  - Object.keys(cache.movies).length) +
+    (games.length   - Object.keys(cache.games).length)  +
+    (tvShows.length - Object.keys(cache.tv).length);
+
+  if (remaining > 0) {
+    console.log(`⏳ ${remaining} items left → about ${Math.ceil(remaining / MAX_SEARCHES)} more daily run(s).`);
+  } else {
+    console.log('🎉 Cache complete — every item has a video ID.');
   }
-  
-  console.log(`\n✅ Songs complete: ${successCount}/${songs.length} found`);
-  
-  console.log('\n💿 FETCHING ALBUMS (' + albums.length + ' total)...');
-  count = 0;
-  successCount = 0;
-  
-  for (const album of albums) {
-    const key = `${album.artist}-${album.album}`;
-    const query = `${album.artist} ${album.album} full album`;
-    
-    try {
-      const videoId = await searchYouTube(query);
-      if (videoId) {
-        cache.albums[key] = videoId;
-        successCount++;
-        console.log(`✅ ${++count}/${albums.length}: ${key.substring(0, 60)}...`);
-      } else {
-        console.log(`⚠️  ${++count}/${albums.length}: ${key.substring(0, 60)}... - NOT FOUND`);
-      }
-      await delay(200);
-    } catch (error) {
-      console.log(`❌ ${++count}/${albums.length}: ${key.substring(0, 60)}... - ERROR: ${error.message}`);
-      if (error.message.includes('quota')) {
-        console.log('\n⚠️  QUOTA EXCEEDED! Stopping...');
-        break;
-      }
-    }
-  }
-  
-  console.log(`\n✅ Albums complete: ${successCount}/${albums.length} found`);
-  
-  console.log('\n🎬 FETCHING MOVIES (' + movies.length + ' total)...');
-  count = 0;
-  successCount = 0;
-  
-  for (const movie of movies) {
-    const key = movie.title;
-    const query = `${movie.title} official trailer`;
-    
-    try {
-      const videoId = await searchYouTube(query);
-      if (videoId) {
-        cache.movies[key] = videoId;
-        successCount++;
-        console.log(`✅ ${++count}/${movies.length}: ${key.substring(0, 60)}...`);
-      } else {
-        console.log(`⚠️  ${++count}/${movies.length}: ${key.substring(0, 60)}... - NOT FOUND`);
-      }
-      await delay(200);
-    } catch (error) {
-      console.log(`❌ ${++count}/${movies.length}: ${key.substring(0, 60)}... - ERROR: ${error.message}`);
-      if (error.message.includes('quota')) {
-        console.log('\n⚠️  QUOTA EXCEEDED! Stopping...');
-        break;
-      }
-    }
-  }
-  
-  console.log(`\n✅ Movies complete: ${successCount}/${movies.length} found`);
-  
-  console.log('\n🎮 FETCHING GAMES (' + games.length + ' total)...');
-  count = 0;
-  successCount = 0;
-  
-  for (const game of games) {
-    const key = game.title;
-    const query = `${game.title} ${game.platform || ''} gameplay trailer`.trim();
-    
-    try {
-      const videoId = await searchYouTube(query);
-      if (videoId) {
-        cache.games[key] = videoId;
-        successCount++;
-        console.log(`✅ ${++count}/${games.length}: ${key.substring(0, 60)}...`);
-      } else {
-        console.log(`⚠️  ${++count}/${games.length}: ${key.substring(0, 60)}... - NOT FOUND`);
-      }
-      await delay(200);
-    } catch (error) {
-      console.log(`❌ ${++count}/${games.length}: ${key.substring(0, 60)}... - ERROR: ${error.message}`);
-      if (error.message.includes('quota')) {
-        console.log('\n⚠️  QUOTA EXCEEDED! Stopping...');
-        break;
-      }
-    }
-  }
-  
-  console.log(`\n✅ Games complete: ${successCount}/${games.length} found`);
-  
-  console.log('\n📺 FETCHING TV SHOWS (' + tvShows.length + ' total)...');
-  count = 0;
-  successCount = 0;
-  
-  for (const show of tvShows) {
-    const key = show.title;
-    const query = `${show.title} tv show intro theme`;
-    
-    try {
-      const videoId = await searchYouTube(query);
-      if (videoId) {
-        cache.tv[key] = videoId;
-        successCount++;
-        console.log(`✅ ${++count}/${tvShows.length}: ${key.substring(0, 60)}...`);
-      } else {
-        console.log(`⚠️  ${++count}/${tvShows.length}: ${key.substring(0, 60)}... - NOT FOUND`);
-      }
-      await delay(200);
-    } catch (error) {
-      console.log(`❌ ${++count}/${tvShows.length}: ${key.substring(0, 60)}... - ERROR: ${error.message}`);
-      if (error.message.includes('quota')) {
-        console.log('\n⚠️  QUOTA EXCEEDED! Stopping...');
-        break;
-      }
-    }
-  }
-  
-  console.log(`\n✅ TV Shows complete: ${successCount}/${tvShows.length} found`);
-  
-  // Save cache
-  if (!fs.existsSync('./data')) {
-    fs.mkdirSync('./data');
-  }
-  
-  fs.writeFileSync('./data/youtube-cache.json', JSON.stringify(cache, null, 2));
-  
-  console.log('\n' + '='.repeat(70));
-  console.log('✅ CACHE GENERATION COMPLETE!');
-  console.log('='.repeat(70));
-  console.log(`📊 FINAL STATS:`);
-  console.log(`   Songs:    ${Object.keys(cache.songs).length}/${songs.length} (${Math.round(Object.keys(cache.songs).length/songs.length*100)}%)`);
-  console.log(`   Albums:   ${Object.keys(cache.albums).length}/${albums.length} (${Math.round(Object.keys(cache.albums).length/albums.length*100)}%)`);
-  console.log(`   Movies:   ${Object.keys(cache.movies).length}/${movies.length} (${Math.round(Object.keys(cache.movies).length/movies.length*100)}%)`);
-  console.log(`   Games:    ${Object.keys(cache.games).length}/${games.length} (${Math.round(Object.keys(cache.games).length/games.length*100)}%)`);
-  console.log(`   TV Shows: ${Object.keys(cache.tv).length}/${tvShows.length} (${Math.round(Object.keys(cache.tv).length/tvShows.length*100)}%)`);
-  console.log(`\n💾 Cache saved to: ./data/youtube-cache.json`);
-  console.log(`📅 Generated: ${cache.generated}`);
-  console.log('='.repeat(70) + '\n');
 }
 
-// Run the script
-fetchAllVideos().catch(error => {
-  console.error('\n❌ FATAL ERROR:', error);
-  process.exit(1);
-});
+run().catch((e) => { console.error('Fatal:', e); process.exit(1); });
