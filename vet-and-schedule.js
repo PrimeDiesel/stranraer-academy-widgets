@@ -150,8 +150,11 @@ async function fromITunes(artist, title, entity) {
       const flags = pool.map((r) => r.trackExplicitness || r.collectionExplicitness).filter(Boolean);
       if (!flags.length) return { answered: true, found: true, known: false };
 
-      const anyExplicit = flags.includes('explicit');
-      const clean = pool.find((r) => (r.trackExplicitness || r.collectionExplicitness) !== 'explicit') || pool[0];
+      // iTunes has THREE states. 'cleaned' means this is a censored edit of a track
+      // whose original is explicit — that original is what plays on YouTube.
+      // So 'cleaned' is a rejection signal, not a pass.
+      const anyExplicit = flags.includes('explicit') || flags.includes('cleaned');
+      const clean = pool.find((r) => (r.trackExplicitness || r.collectionExplicitness) === 'notExplicit') || pool[0];
 
       return {
         answered: true, found: true, known: true,
@@ -225,11 +228,11 @@ async function vetTracks(list, cacheFile, kind) {
   for (const item of list) {
     const title = kind === 'song' ? item.song : item.album;
     const key = `${item.artist}-${title}`;
-    if (cache[key] && cache[key].v === 2) continue;  // already vetted by THIS version of the rules
+    if (cache[key] && cache[key].v === 3) continue;  // already vetted by THIS version of the rules
 
     if (hasProfanity(title) || hasProfanity(item.artist)) {
       rejected.push({ category: kind, title: key, reason: 'profanity in title' });
-      cache[key] = { safe: false, reason: 'profanity', v: 2 };
+      cache[key] = { safe: false, reason: 'profanity', v: 3 };
       continue;
     }
 
@@ -243,12 +246,12 @@ async function vetTracks(list, cacheFile, kind) {
     }
 
     if (it.explicit) {
-      rejected.push({ category: kind, title: key, reason: 'explicit version exists' });
-      cache[key] = { safe: false, reason: 'explicit', v: 2 };
+      rejected.push({ category: kind, title: key, reason: 'explicit original exists' });
+      cache[key] = { safe: false, reason: 'explicit', v: 3 };
       continue;
     }
 
-    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '', v: 2 };
+    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '', v: 3 };
     cleared++;
     console.log(`  ✅ ${key}`);
   }
