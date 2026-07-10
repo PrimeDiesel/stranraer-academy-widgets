@@ -43,6 +43,18 @@ const ALLOWED_US = ['G', 'PG', 'PG-13', 'TV-G', 'TV-PG', 'TV-Y', 'TV-Y7', 'Appro
 // Blunt second net for song/album titles. The iTunes explicit flag does the heavy lifting.
 // Blunt second net for song/album titles. iTunes' explicit flag does the heavy
 // lifting; this only catches slurs/swearing in a TITLE. Whole-word matches only.
+// Manual backstop: specific tracks with explicit originals that iTunes' GB store
+// sometimes mislabels as clean (it matches a compilation or lyric-video upload).
+// Matched case-insensitively on "artist - title". Add to this as you spot them.
+const BLOCKLIST = [
+  '2pac-california love', 'tupac-california love',
+  'drake-hotline bling',
+];
+function isBlocked(artist, title) {
+  const k = `${artist}-${title}`.toLowerCase();
+  return BLOCKLIST.some((b) => k.includes(b) || b.includes(k));
+}
+
 const PROFANITY = [
   'fuck', 'fucking', 'shit', 'bitch', 'cunt', 'nigga', 'nigger',
   'motherfucker', 'wanker', 'twat', 'slut', 'whore',
@@ -228,11 +240,16 @@ async function vetTracks(list, cacheFile, kind) {
   for (const item of list) {
     const title = kind === 'song' ? item.song : item.album;
     const key = `${item.artist}-${title}`;
-    if (cache[key] && cache[key].v === 3) continue;  // already vetted by THIS version of the rules
+    if (cache[key] && cache[key].v === 4) continue;  // already vetted by THIS version of the rules
 
+    if (isBlocked(item.artist, title)) {
+      rejected.push({ category: kind, title: key, reason: 'blocklist (known explicit)' });
+      cache[key] = { safe: false, reason: 'blocklist', v: 4 };
+      continue;
+    }
     if (hasProfanity(title) || hasProfanity(item.artist)) {
       rejected.push({ category: kind, title: key, reason: 'profanity in title' });
-      cache[key] = { safe: false, reason: 'profanity', v: 3 };
+      cache[key] = { safe: false, reason: 'profanity', v: 4 };
       continue;
     }
 
@@ -247,11 +264,11 @@ async function vetTracks(list, cacheFile, kind) {
 
     if (it.explicit) {
       rejected.push({ category: kind, title: key, reason: 'explicit original exists' });
-      cache[key] = { safe: false, reason: 'explicit', v: 3 };
+      cache[key] = { safe: false, reason: 'explicit', v: 4 };
       continue;
     }
 
-    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '', v: 3 };
+    cache[key] = { safe: true, artwork: it.artwork, year: it.year || item.year || '', v: 4 };
     cleared++;
     console.log(`  ✅ ${key}`);
   }
