@@ -1,6 +1,11 @@
 [
   {
     "category": "song",
+    "title": "Tupac-California Love",
+    "reason": "blocklist (known explicit)"
+  },
+  {
+    "category": "song",
     "title": "The Notorious B.I.G.-Juicy",
     "reason": "explicit original exists"
   },
@@ -18,6 +23,11 @@
     "category": "song",
     "title": "Kanye West-Stronger",
     "reason": "explicit original exists"
+  },
+  {
+    "category": "song",
+    "title": "Drake-Hotline Bling",
+    "reason": "blocklist (known explicit)"
   },
   {
     "category": "song",
