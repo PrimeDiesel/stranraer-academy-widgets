@@ -24,8 +24,9 @@ const TMDB_KEY = process.env.TMDB_API_KEY || '';
 const NEWS_BASE   = 'https://news-api-2cfx.onrender.com';
 const SPORTS_BASE = 'https://sports-news-api-qwsg.onrender.com';
 
-const MUSIC_LIMIT  = 22;   // clean tracks to keep
-const MOVIE_LIMIT  = 20;   // 12A-and-under films to keep
+const MUSIC_LIMIT  = 15;   // clean tracks to keep
+const MOVIE_LIMIT  = 15;   // 12A-and-under films to keep
+const TV_LIMIT     = 15;   // 12A-and-under TV to keep
 const ARTICLE_LIMIT= 18;   // per news section
 
 // certs we allow for a school audience (UK BBFC + a few TMDB fallbacks)
@@ -170,22 +171,58 @@ async function fetchMovies(){
   return out;
 }
 
+/* ---------------- TMDB trending TV (12-and-under) ---------------- */
+async function tvCertGB(id){
+  const j = await getJSON(`https://api.themoviedb.org/3/tv/${id}/content_ratings?api_key=${TMDB_KEY}`);
+  const results = j && j.results;
+  if (!Array.isArray(results)) return null;
+  const gb = results.find(r => r.iso_3166_1 === 'GB');
+  return (gb && gb.rating) ? String(gb.rating).toUpperCase() : null;
+}
+
+async function fetchTV(){
+  if (!TMDB_KEY){ console.warn('  TMDB_API_KEY not set -> skipping TV'); return []; }
+  const trend = await getJSON(`https://api.themoviedb.org/3/trending/tv/week?api_key=${TMDB_KEY}&region=GB`);
+  const list = (trend && Array.isArray(trend.results)) ? trend.results : [];
+  console.log(`  TMDB trending TV -> ${list.length} shows`);
+  const out = [];
+  for (const s of list){
+    if (out.length >= TV_LIMIT) break;
+    const cert = await tvCertGB(s.id);
+    // UK TV certs are inconsistent; accept only known-safe, reject unknown by design
+    if (!cert || !CERT_OK.has(cert)) { console.log(`    reject TV (${cert || 'no cert'}): ${s.name}`); continue; }
+    out.push({
+      rank: out.length + 1,
+      title: s.name,
+      year:  (s.first_air_date || '').slice(0, 4),
+      cert,
+      poster: s.poster_path ? ('https://image.tmdb.org/t/p/w342' + s.poster_path) : '',
+      overview: s.overview || '',
+      url: 'https://www.themoviedb.org/tv/' + s.id
+    });
+    await sleep(120);
+  }
+  console.log(`  TV kept: ${out.length}`);
+  return out;
+}
+
 /* ---------------- main ---------------- */
 (async () => {
   console.log('Building trending-cache.json …');
-  const [news, education, tech, sports, music, movies] = await Promise.all([
+  const [news, education, tech, sports, music, movies, tv] = await Promise.all([
     fetchSection(NEWS_BASE   + '/news'),
     fetchSection(NEWS_BASE   + '/education'),
     fetchSection(NEWS_BASE   + '/tech'),
     fetchSection(SPORTS_BASE + '/news'),
     fetchMusic(),
-    fetchMovies()
+    fetchMovies(),
+    fetchTV()
   ]);
 
-  const cache = { updated: new Date().toISOString(), news, sports, tech, education, music, movies };
+  const cache = { updated: new Date().toISOString(), news, sports, tech, education, music, movies, tv };
 
   // don't clobber a good cache with a totally empty pull (e.g. every feed asleep)
-  const total = news.length + sports.length + tech.length + education.length + music.length + movies.length;
+  const total = news.length + sports.length + tech.length + education.length + music.length + movies.length + tv.length;
   if (total === 0 && fs.existsSync(OUT)){
     console.warn('Everything came back empty — keeping the existing cache, not overwriting.');
     process.exit(0);
@@ -194,5 +231,5 @@ async function fetchMovies(){
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(cache, null, 2));
   console.log(`Wrote ${OUT}`);
-  console.log(`  news ${news.length} · sports ${sports.length} · tech ${tech.length} · education ${education.length} · music ${music.length} · movies ${movies.length}`);
+  console.log(`  news ${news.length} · sports ${sports.length} · tech ${tech.length} · education ${education.length} · music ${music.length} · movies ${movies.length} · tv ${tv.length}`);
 })().catch(e => { console.error('FATAL', e); process.exit(1); });
