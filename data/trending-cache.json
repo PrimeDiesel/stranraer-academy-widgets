@@ -1,13 +1,29 @@
 {
-  "updated": "2026-07-11T17:00:00.080Z",
+  "updated": "2026-07-11T17:55:42.503Z",
   "news": [
     {
       "title": "UK weather: Why heatwaves hit women harder",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0c2/live/978c1ee0-7b87-11f1-9510-1546718f668b.png",
-      "published": "7/10/2026, 4:22:27 PM",
+      "published": "7/10/2026, 5:52:17 PM",
       "desc": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them."
+    },
+    {
+      "title": "Sam Fender and Olivia Dean make chart history with Rein Me In",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn94rdz3e59o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5581/live/46e8ec00-7c6f-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/10/2026, 5:37:19 PM",
+      "desc": "They break the record for the longest running number one single of all time by a British act."
+    },
+    {
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ea/live/57cceec0-7c67-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/10/2026, 5:22:24 PM",
+      "desc": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería."
     },
     {
       "title": "Bonnie Tyler superfan asked for an autograph then spent Christmas at her Mumbles home",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/07c88d70-7c5e-11f1-b976-0b9c15b0ccfc.png",
       "published": "7/10/2026, 4:07:30 PM",
       "desc": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape."
-    },
-    {
-      "title": "Patricia Greene: Longest-serving Archers star dies aged 95",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy04erw9y42o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fdf/live/53444870-7c5e-11f1-802c-e767a91f6051.jpg",
-      "published": "7/10/2026, 2:07:16 PM",
-      "desc": "She was best known for playing Jill Archer in the BBC Radio 4 soap for nearly 70 years."
     },
     {
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
@@ -48,23 +56,39 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10d9/live/e9b241f0-7c44-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/10/2026, 11:22:24 AM",
       "desc": "The BBC join a crew based in Exeter as the UK sizzles in one of its longest-running heatwaves."
-    },
-    {
-      "title": "Bayeux Tapestry delivered to British Museum in dead of night",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a200/live/c0b09d30-7c1a-11f1-8c0b-837be8518f50.jpg",
-      "published": "7/10/2026, 5:37:21 AM",
-      "desc": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September."
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: Hacking worry for Argentina FA over Egypt game emails",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ccd9/live/4aa98760-7c78-11f1-917a-91e958a7e786.jpg",
+      "published": "7/10/2026, 5:52:20 PM",
+      "desc": "Argentina's football association signals it may have suffered a cyber attack after emails from its accounts reportedly criticised refereeing in the dramatic win against Egypt at the World Cup."
+    },
+    {
+      "title": "Jannik Sinner beats Novak Djokovic, to play for 2nd Wimbledon title - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49326189/jannik-sinner-beats-novak-djokovic-2026-wimbledon-semifinals-face-alexander-zverev-title",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0710%2Fr1687395_1296x729_16%2D9.jpg",
+      "published": "7/10/2026, 5:41:54 PM",
+      "desc": "Top-ranked Jannik Sinner will play for his second consecutive Wimbledon title after defeating seven-time champion Novak Djokovic 6-4, 6-4, 6-4 in the semifinals Friday."
+    },
+    {
+      "title": "World Cup 2026: Jorge Jesus named Portugal's new head coach",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46d5/live/7f3638b0-7c6f-11f1-98fd-6b03daaf8a77.jpg",
+      "published": "7/10/2026, 5:37:24 PM",
+      "desc": "Jorge Jesus is named Portugal's new head coach on a four-year contract to run through to the 2030 World Cup."
+    },
     {
       "title": "Niamh Charles: Manchester City sign England defender from Chelsea",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d93/live/2505f430-7c6e-11f1-98fd-6b03daaf8a77.png",
-      "published": "7/10/2026, 4:07:16 PM",
+      "published": "7/10/2026, 5:37:21 PM",
       "desc": "Manchester City have signed England international Niamh Charles for £500,000 from Women's Super League rivals Chelsea."
     },
     {
@@ -172,94 +196,78 @@
       "desc": "Scottie Scheffler was making plans for an early arrival to Royal Birkdale after he stumbled through a round of 2-over 72 on Friday at the Scottish Open and seemed certain to miss the cut for the first time in nearly four years."
     },
     {
-      "title": "World Cup 2026: How Belgium's golden generation have evolved with Spain next in their sights",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/91c9/live/30d0d4d0-7a0a-11f1-92a1-2dcee5cd2863.jpg",
-      "published": "7/10/2026, 12:52:29 PM",
-      "desc": "BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders."
-    },
-    {
       "title": "World Cup 2026: How do England stop Norway - and Erling Haaland?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c621jyxkvzko",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c92d/live/c1618f20-7c45-11f1-8ccc-df652c9169a7.jpg",
       "published": "7/10/2026, 12:52:23 PM",
       "desc": "As England prepare to face Norway in a World Cup quarter-final on Saturday how do Thomas Tuchel's side prepare for their main threat - star striker Erling Haaland?"
-    },
-    {
-      "title": "Who Are The Referees For Spain vs. Belgium?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-referees-spain-belgium",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284653247-1-scaled.jpg?ve=1&tl=1",
-      "published": "7/10/2026, 12:22:25 PM",
-      "desc": "Premier League referee Michael Oliver will officiate Spain’s World Cup quarterfinal against Belgium on Friday at Los Angeles Stadium."
-    },
-    {
-      "title": "How to Watch Spain vs. Belgium: TV Channel, Live Stream, Live",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-vs-belgium-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/how-to-watch-spain-vs-belgium-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/10/2026, 11:22:18 AM",
-      "desc": "Learn which TV channel or how to live stream the Spain and Belgium FIFA World Cup match."
     }
   ],
   "tech": [
     {
-      "title": "Xreal’s new AR glasses are way cheaper and almost just right - The Verge",
+      "title": "The Water In This 2002 Surfing Game Is Blowing People’s Minds - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695",
+      "image": "https://kotaku.com/app/uploads/2026/07/water-baby-1200x675.jpg",
+      "published": "7/10/2026, 4:20:06 PM",
+      "desc": "Gnarly water Kelly Slater, most excellent dude"
+    },
+    {
+      "title": "Men found ‘Love Island.’ Then they started betting on it. - Yahoo",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/us/articles/men-found-love-island-then-154727043.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3597db1e9df7ce107d01d9a99b316391c5045cddb4ecc6748f9f95010e4e0dd4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_19th_news_416%2Fd9286dce768a3c59ab0516419a711f1c",
+      "published": "7/10/2026, 3:47:27 PM",
+      "desc": "Prediction market apps are turning America's hottest dating show into a different obsession — and bringing a new audience into the villa."
+    },
+    {
+      "title": "Anker’s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "7/10/2026, 1:00:00 PM",
-      "desc": "The A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what you’re looking for."
+      "url": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ankerprimewirelesschargingstation.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/10/2026, 3:11:08 PM",
+      "desc": "Anker’s Prime Wireless Charging Station is $134.99 ($95 off) at multiple retailers. Fanttik’s A10 Pro Digital Tape Measure and LG’s OLED C6 TVs are on sale, too."
     },
     {
-      "title": "Adventures Of Elliot Patch Lets You Remove The Incessant Voice Support - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/07/adventures-of-elliot-patch-lets-you-remove-the-incessant-voice-support",
-      "image": "https://images.nintendolife.com/64f568e0f92db/large.jpg",
-      "published": "7/10/2026, 12:45:00 PM",
-      "desc": "Coming soon to Switch 2"
+      "title": "[Chronicles] Magistus Ep 4 Teaser & Some Sinful Spoils - YGOrganization",
+      "source": "Ygorganization.com",
+      "url": "https://ygorganization.com/chronicles-magistus-ep-4-teaser-some-sinful-spoils/",
+      "image": "https://cdn.ygorganization.com/2026/07/zoroa.jpg",
+      "published": "7/10/2026, 3:07:46 PM",
+      "desc": "Total Spellcaster Domination The teaser for episode 4 of the Magistus arc of The Chronicles is now available: “The demon god “Zoroa, the Magistus of Flame”, finally completing his revival…"
     },
     {
-      "title": "Doom’s new expansion shows just what makes id Software special - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_9745.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "7/10/2026, 12:00:00 PM",
-      "desc": "id Software just launched Revelations, a meaty expansion for Doom: The Dark Ages, but the launch has been overshadowed by Xbox’s layoffs affecting the studio."
+      "title": "25 Games Tested On The Steam Machine: A Good, But Pricey Device - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/steam-machine-games-tested-gta-halo-cyberpunk-peak-mouse-fps-review-valve-kotaku-2000710643",
+      "image": "https://kotaku.com/app/uploads/2026/07/steam-machine-25-1200x675.jpg",
+      "published": "7/10/2026, 3:05:42 PM",
+      "desc": "How does Valve's $1,000 console-like PC compare to a PS5 Pro out of the box?"
     },
     {
-      "title": "Pokémon TCG: Pitch Black Booster Bundle Preorders Are Back in Stock, and Under Market Price - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/pokemon-tcg-pitch-black-booster-bundle-preorders-are-back-in-stock-and-under-market-price-amazon",
-      "image": "https://assets-prd.ignimgs.com/2026/07/10/pitch-black-booster-deal-ign-3-1783682684311.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/10/2026, 11:34:51 AM",
-      "desc": "Pokémon TCG: Pitch Black Sealed Booster Bundles preorders are back in stock at Amazon, and while it's not at MSRP, they're still listed for way under market price compared to resale sites like TCGplayer and eBay."
+      "title": "IndyCar game release date pushed back to 2027 - RACER - Racing News",
+      "source": "RACER",
+      "url": "https://racer.com/2026/07/10/indycar-game-release-date-pushed-back-to-2027",
+      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt368f706064a33f6a/6a5109d943319a5b1f62c50d/INDYCAR_The_Game_1.jpg?environment=live&width=1200&height=630&fit=crop",
+      "published": "7/10/2026, 3:00:00 PM",
+      "desc": "The IndyCar Series and iRacing have provided new screenshots of IndyCar Racing The Game, which was previously announced for debut in the second half of 2026, and has been amended to “launch in the countdown to the 2027 Indianapolis 500,” according to the seri…"
     },
     {
-      "title": "Exclusive | Record Companies Push to Label AI Songs on Streaming Platforms - WSJ",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/record-companies-push-to-label-ai-songs-on-streaming-platforms-103aa392",
-      "image": "https://images.wsj.net/im-38953430/social",
-      "published": "7/10/2026, 11:00:00 AM",
-      "desc": "Coalition of groups representing music labels and artists says fans want transparency"
+      "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate",
+      "image": "https://i.pcmag.com/imagery/articles/01VTTiFgJZatHi8Ms0LPo69-1.fit_lim.size_1200x630.v1783635151.jpg",
+      "published": "7/10/2026, 2:39:47 PM",
+      "desc": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirror, falls outside its authority since the regulator mainly focuses on radio spectrum."
     },
     {
-      "title": "The New Call of Duty Black Ops Port Charges $40/£35 for a Basic 1080p Upgrade - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/07/the-new-call-of-duty-black-ops-port-charges-usd40p35-for-a-basic-1080p-upgrade",
-      "image": "https://images.digitalfoundry.net/e53c002b629e5/large.jpg",
-      "published": "7/10/2026, 10:51:00 AM",
-      "desc": "And doesn't even include the DLC."
-    },
-    {
-      "title": "PS Plus Members Have Early Access to Select PS5, PS4 Games in PS Store's Summer Sale - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/features/ps-plus-members-have-early-access-to-select-ps5-ps4-games-in-ps-stores-summer-sale",
-      "image": "https://images.pushsquare.com/e410ebbe85b44/large.jpg",
-      "published": "7/10/2026, 10:30:00 AM",
-      "desc": "Coming soon"
+      "title": "Worried about status bar clutter with Android Halo? Google may let you clean it up - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/android-halo-status-bar-icon-settings-apk-teardown-3686316/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Android-Halo-Logo.jpg",
+      "published": "7/10/2026, 1:16:00 PM",
+      "desc": "Google is working on new Android status bar settings to let users hide the upcoming Android Halo icon and the mute indicator."
     }
   ],
   "education": [
