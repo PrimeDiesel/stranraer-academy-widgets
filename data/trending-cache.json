@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-12T10:40:02.897Z",
+  "updated": "2026-07-12T12:02:59.915Z",
   "news": [
+    {
+      "title": "TV presenter Dermot Murnaghan dies aged 68",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b17f/live/60d9a410-7d14-11f1-b61e-1b6852ddc42f.jpg",
+      "published": "7/11/2026, 11:22:26 AM",
+      "desc": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer."
+    },
+    {
+      "title": "World Cup: England fans can stay in pub for full Norway game - even if kick-off delayed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm204lgrv10o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5fe/live/a2e69d40-7d0f-11f1-923a-a7d66f37fd92.jpg",
+      "published": "7/11/2026, 11:07:20 AM",
+      "desc": "The extended hours means fans can watch the entire game, even if the start is delayed."
+    },
     {
       "title": "Australian police release Peter Falconio killer interview footage",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/07c88d70-7c5e-11f1-b976-0b9c15b0ccfc.png",
       "published": "7/11/2026, 8:37:21 AM",
       "desc": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape."
-    },
-    {
-      "title": "Man died after twice being told that an ambulance would not be sent",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd2y6geyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72eb/live/f49992d0-7c71-11f1-9fad-d539485c17c2.jpg",
-      "published": "7/11/2026, 7:52:21 AM",
-      "desc": "Brian Hurton was found dead on his bathroom floor by paramedics, hours after he first called 999 for help."
     },
     {
       "title": "See if you can spot an AI deepfake with our test",
@@ -56,24 +64,48 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0884/live/478d02f0-7c69-11f1-ab77-73970114f4de.jpg",
       "published": "7/11/2026, 12:07:18 AM",
       "desc": "Team Sussex has had a bumpy last seven days in the UK, which was meant to focus on the Invictus Games."
-    },
-    {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
-      "published": "7/10/2026, 11:52:25 PM",
-      "desc": "They think democracy has run its course - so they're setting up their own nations instead."
     }
   ],
   "sports": [
+    {
+      "title": "England vs. Norway Prediction, Odds, Picks For World Cup Match",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/england-vs-norway-prediction-odds-picks-world-cup-match",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284831245-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 11:52:20 AM",
+      "desc": "Check out the odds for the England vs. Norway quarterfinals matchup at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "Erling Haaland: Norway&#39;s Goal-Scoring Machine, And &#39;Babygirl&#39;",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-norway-erling-haaland",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/haalandh1.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 11:37:22 AM",
+      "desc": "Erling Haaland has become a social media sensation during the World Cup."
+    },
     {
       "title": "World Cup 2026: Harry Kane says playing golf with US President Donald Trump was surreal",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0975/live/46755780-7d10-11f1-bee8-53ce494e1abc.png",
-      "published": "7/11/2026, 10:52:32 AM",
+      "published": "7/11/2026, 11:37:20 AM",
       "desc": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\"."
+    },
+    {
+      "title": "World Cup 2026: England's Jude Bellingham return to indispensability",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30d5/live/fd1276c0-7cd5-11f1-96b0-c159ef728dbe.jpg",
+      "published": "7/11/2026, 11:37:17 AM",
+      "desc": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable  resurgence with England at the World Cup."
+    },
+    {
+      "title": "World Cup 2026: Should Argentina take Lionel Messi off penalties?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6214y2dlgno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba55/live/87d35590-7d17-11f1-b61e-1b6852ddc42f.jpg",
+      "published": "7/11/2026, 11:22:22 AM",
+      "desc": "Lionel Messi keeps rewriting World Cup history, but after his latest miss from the spot, should Argentina hand penalty duties to someone else?"
     },
     {
       "title": "Will Jordan sets New Zealand try record in Nations Championship win over Italy",
@@ -132,14 +164,6 @@
       "desc": "Spain beat Belgium to set-up World Cup semi-final tie against three-time winners France. Who will be favourites to progress to the final?"
     },
     {
-      "title": "World Cup 2026: Jordan Pickford - Time to finally give England goalkeeper credit he deserves",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9325/live/9e569ad0-7c80-11f1-a046-0508c8c5d104.jpg",
-      "published": "7/11/2026, 6:07:15 AM",
-      "desc": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty."
-    },
-    {
       "title": "Bulls' Wilson 'emotional,' dominant in 35-point Summer League debut - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nba/story/_/id/49330697/bulls-wilson-emotional-puts-show-35-point-summer-league-debut",
@@ -186,33 +210,33 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687610_1296x729_16%2D9.jpg",
       "published": "7/11/2026, 1:41:34 AM",
       "desc": "Paige Bueckers scored 34 points and Dallas beat expansion Toronto 108-95 on Friday night in front of a WNBA regular-season record crowd of 20,996 at Bell Centre."
-    },
-    {
-      "title": "Iguodala: LeBron's Warriors interest a testament to 'great' Curry's stature - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49329777/iguodala-lebron-warriors-interest-testament-curry-great-stature",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0630%2Fr1682251_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 1:23:28 AM",
-      "desc": "Andre Iguodala, the 2015 Finals MVP in the first of the Warriors' three titles over LeBron James' Cavaliers, says that the fact that Golden State is even a consideration for James in his free agency search is a testament to Stephen Curry."
-    },
-    {
-      "title": "France vs. Spain Is The World Cup Final That Arrived Early",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/france-vs-spain-world-cup-final-arrived-early",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9-1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 1:22:17 AM",
-      "desc": "The game the whole world has been waiting to see is arriving one round too soon."
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/ddb1e04c-artboard-1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 1:07:16 AM",
-      "desc": "We're tracking all the scores and results at the FIFA 2026 World Cup."
     }
   ],
   "tech": [
+    {
+      "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
+      "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/11/2026, 8:05:53 AM",
+      "desc": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs."
+    },
+    {
+      "title": "Pokémon GO Fest Global 2026: Sunday Raids - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/mega-mewtwo-x-y-pokemon-go.jpeg",
+      "published": "7/11/2026, 7:40:03 AM",
+      "desc": "Pokémon GO Fest 2026: Global takes place from July 11-12, from 10:00 am local time, to 7:00 pm local time on each day. Mega Mewtwo X and Y will make their Pokémon GO debut, along with Zeraora! To celebrate 10 years of Pokémon GO, this years Global GO Fest eve…"
+    },
+    {
+      "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
+      "image": "https://images.nintendolife.com/c7aa4189b4e5a/large.jpg",
+      "published": "7/11/2026, 12:55:00 AM",
+      "desc": "It's on like Donkey Kong!"
+    },
     {
       "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
       "source": "BBC News",
@@ -230,12 +254,12 @@
       "desc": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search..."
     },
     {
-      "title": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
-      "image": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/10/2026, 9:35:17 PM",
-      "desc": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027."
+      "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg",
+      "published": "7/10/2026, 9:39:00 PM",
+      "desc": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem."
     },
     {
       "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
@@ -244,30 +268,6 @@
       "image": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
       "published": "7/10/2026, 8:48:34 PM",
       "desc": "Stop fucking things up just to shove more ads and algorithm nonsense into my face"
-    },
-    {
-      "title": "8 Incredible Speedruns You Have To Watch Right Now - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/best-summer-games-done-quick-2026-speedruns-to-watch-2000714726",
-      "image": "https://kotaku.com/app/uploads/2026/07/20260707-BUR-04027-1200x675.jpg",
-      "published": "7/10/2026, 7:18:14 PM",
-      "desc": "Summer Games Fest Done Quick is not over yet, but there are plenty of gems you can watch on VOD"
-    },
-    {
-      "title": "Honda’s New Small, Affordable Retro Moto Is Super Rider-Friendly Too - Gear Patrol",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/motorcycles/honda-cb400-super-four-e-clutch-announcement/",
-      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/Honda-CB400-Super-Four-E-Clutch-3.webp",
-      "published": "7/10/2026, 6:39:29 PM",
-      "desc": "The brand revives a staple of its small-displacement portfolio, and it comes with the addition of approachable E-Clutch tech."
-    },
-    {
-      "title": "Google Pixel 11 Pro Fold appears at the FCC ahead of August launch - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg",
-      "published": "7/10/2026, 6:19:00 PM",
-      "desc": "What's believed to be the Pixel 11 Pro Fold just made a stop at the FCC, revealing connectivity and hearing aid support."
     }
   ],
   "education": [
@@ -375,21 +375,21 @@
     },
     {
       "rank": 5,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 6,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+    },
+    {
+      "rank": 6,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 7,
@@ -402,21 +402,21 @@
     },
     {
       "rank": 8,
-      "title": "It's a Heartache",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/a3/e7/e3a3e7b2-2bc1-5436-384a-559311c9ba7c/mzaf_3349608896113848569.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/its-a-heartache/1439423755?i=1439423832&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
-    },
-    {
-      "rank": 9,
       "title": "Three Lions",
       "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
+    },
+    {
+      "rank": 9,
+      "title": "It's a Heartache",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/a3/e7/e3a3e7b2-2bc1-5436-384a-559311c9ba7c/mzaf_3349608896113848569.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/its-a-heartache/1439423755?i=1439423832&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
     },
     {
       "rank": 10,
@@ -456,21 +456,21 @@
     },
     {
       "rank": 14,
-      "title": "Lost in France",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
-    },
-    {
-      "rank": 15,
       "title": "We're Telling 'Em (England 2026 World Cup Song)",
       "artist": "Sonny Green",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/57/30/645730a2-34b6-bd12-886a-4407dc84767f/mzaf_6722992778494041183.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/were-telling-em-england-2026-world-cup-song/6786486790?i=6786486791&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
+    },
+    {
+      "rank": 15,
+      "title": "Lost in France",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
     }
   ],
   "movies": [
