@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-12T16:00:56.451Z",
+  "updated": "2026-07-12T17:01:38.311Z",
   "news": [
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
+      "published": "7/11/2026, 4:52:22 PM",
+      "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar."
+    },
+    {
+      "title": "Find your local World Cup hero with our postcode lookup",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn75y330kpjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed61/live/6b243690-714a-11f1-8e1d-bbbb1017d210.png",
+      "published": "7/11/2026, 4:22:18 PM",
+      "desc": "Which World Cup stars have roots near you? Find out with our interactive lookup tool"
+    },
+    {
+      "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ceqd3l4v7reo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8d4/live/d7a7d610-7c98-11f1-9b18-bb5b415621a9.jpg",
+      "published": "7/11/2026, 3:52:19 PM",
+      "desc": "If the World Cup was a tournament for hearts and minds, the Norwegian striker would certainly win."
+    },
     {
       "title": "Former milkman from Rotherham wins £4m mansion in prize draw",
       "source": "BBC News",
@@ -40,33 +64,73 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5fe/live/a2e69d40-7d0f-11f1-923a-a7d66f37fd92.jpg",
       "published": "7/11/2026, 11:07:20 AM",
       "desc": "The extended hours means fans can watch the entire game, even if the start is delayed."
-    },
-    {
-      "title": "Australian police release Peter Falconio killer interview footage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c6d/live/2e666a70-61c9-11f0-8fa1-bd335d99a553.jpg",
-      "published": "7/11/2026, 10:07:24 AM",
-      "desc": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be."
-    },
-    {
-      "title": "Bonnie Tyler superfan asked for an autograph then spent Christmas at her Mumbles home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29w2evv9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/07c88d70-7c5e-11f1-b976-0b9c15b0ccfc.png",
-      "published": "7/11/2026, 8:37:21 AM",
-      "desc": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape."
-    },
-    {
-      "title": "See if you can spot an AI deepfake with our test",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d2wgvg55jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cc3/live/e3048a10-7b7d-11f1-9510-1546718f668b.jpg",
-      "published": "7/11/2026, 6:22:19 AM",
-      "desc": "Researchers in Aberdeen have been finding out if you can train people to identify computer-generated facial images."
     }
   ],
   "sports": [
+    {
+      "title": "Evian Championship: Lottie Woad slips out of lead as Haeran Ryu cards record round in majors",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c24y08l0rgno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/696e/live/6b772fd0-7d43-11f1-8417-c9f35e2ce384.jpg",
+      "published": "7/11/2026, 4:52:28 PM",
+      "desc": "Lottie Woad slips off the top of the leaderboard at the Evian Championship as Haeran Ryu cards the lowest round in major championship history."
+    },
+    {
+      "title": "Fiji 8-66 England: Henry Pollock hat-trick as England rout sorry Fiji to end losing run",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/crely1qlj47o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9977/live/14d5e2a0-7d3b-11f1-8417-c9f35e2ce384.jpg",
+      "published": "7/11/2026, 4:52:24 PM",
+      "desc": "Henry Pollock scores a hat-trick as England run out convincing winners against a Fiji side reduced to 14 players for the second half in Liverpool."
+    },
+    {
+      "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285562778.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 4:37:31 PM",
+      "desc": "Here are the latest odds to win the 2026 FIFA World Cup after Spain's quarterfinal win over Belgium."
+    },
+    {
+      "title": "2026 World Cup Golden Ball: Kylian Mbappé, Lionel Messi In Tight Race",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-golden-ball-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/mbappe1.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 4:37:30 PM",
+      "desc": "The Golden Ball race is taking shape, and two of France's superstars are chasing the GOAT."
+    },
+    {
+      "title": "2026 World Cup Odds: France, Argentina Favored For Finals Rematch",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/12/1408/814/gettyimages-1450091836-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 4:37:30 PM",
+      "desc": "France leads the oddsboard, but Argentina continues to rise. Check out the latest odds to reach the World Cup final."
+    },
+    {
+      "title": "2026 World Cup Semifinal Odds: Which Nations Are Favored To Reach Final Four?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-which-nations-favored-reach-semifinals",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284795766-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 4:37:27 PM",
+      "desc": "Which nations are most likely to make the final four? See the latest odds to reach the 2026 FIFA World Cup semifinals."
+    },
+    {
+      "title": "2026 World Cup Quarterfinal Odds: Which Squads Will Advance?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinal-odds-which-squads-will-make-final-8",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/bellingham-76.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 4:37:21 PM",
+      "desc": "Check out the latest odds for the quarterfinal matchups at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "Point guard Mario Saint-Supery signs with Euroleague's Valencia - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49334727/point-guard-mario-saint-supery-signs-euroleague-valencia",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687796_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 4:30:49 PM",
+      "desc": "Euroleague squad Valencia announced that it had signed Mario Saint-Supery, who was a standout freshman at Gonzaga last season."
+    },
     {
       "title": "Argentina vs. Switzerland Prediction, Odds, Picks For World Cup Match",
       "source": "Fox Sports",
@@ -146,73 +210,17 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3578/live/9fb57830-7d28-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/11/2026, 1:22:26 PM",
       "desc": "Watch live BBC coverage as Great Britain's Henry Patten contests the men's doubles final at Wimbledon alongside Finland's Harri Heliovaara."
-    },
-    {
-      "title": "Fiji vs England LIVE: Nations Championship 2026 - latest scores, text updates,radio stream & lineups",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/clypprx5v63t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/178d/live/7158a7d0-7d2a-11f1-ba31-ed66fa13cdef.jpg",
-      "published": "7/11/2026, 1:22:25 PM",
-      "desc": "Follow live radio commentary, latest scores & live text updates as Fiji host England in the Nations Championship at Hill Dickinson Stadium."
-    },
-    {
-      "title": "How to Watch Norway vs. England: TV Channel, Live Stream, Time",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/norway-vs-england-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/how-to-watch-norway-vs-england-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 1:22:22 PM",
-      "desc": "Learn which TV channel or how to live stream the Norway and England FIFA World Cup match."
-    },
-    {
-      "title": "England vs. Norway Prediction, Odds, Picks For World Cup Match",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-vs-norway-prediction-odds-picks-world-cup-match",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284831245-scaled.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 11:52:20 AM",
-      "desc": "Check out the odds for the England vs. Norway quarterfinals matchup at the 2026 FIFA World Cup."
-    },
-    {
-      "title": "Erling Haaland: Norway&#39;s Goal-Scoring Machine, And &#39;Babygirl&#39;",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-norway-erling-haaland",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/haalandh1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 11:37:22 AM",
-      "desc": "Erling Haaland has become a social media sensation during the World Cup."
-    },
-    {
-      "title": "World Cup 2026: England's Jude Bellingham return to indispensability",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30d5/live/fd1276c0-7cd5-11f1-96b0-c159ef728dbe.jpg",
-      "published": "7/11/2026, 11:37:17 AM",
-      "desc": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable  resurgence with England at the World Cup."
-    },
-    {
-      "title": "England vs India LIVE: Women's Test, Lord's, day two - cricket score, commentary & highlights",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/live/cq6j2417pdgt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f266/live/475ba700-7c9b-11f1-b814-6fc037b95edf.jpg",
-      "published": "7/11/2026, 10:52:23 AM",
-      "desc": "England face India in a one-off Women's Test at Lord's - follow live scores, radio commentary, video highlights and updates."
-    },
-    {
-      "title": "World Cup 2026: England set for the open-air Miami heat - or do Norway hold the edge?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33d3/live/2a391080-7c65-11f1-ab77-73970114f4de.jpg",
-      "published": "7/11/2026, 8:22:26 AM",
-      "desc": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures."
-    },
-    {
-      "title": "Wimbledon 2026: Karolina Muchova and Linda Noskova contest all-Czech women's final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cy5v6439e37o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0601/live/f94e1b60-7c8b-11f1-a046-0508c8c5d104.jpg",
-      "published": "7/11/2026, 8:22:24 AM",
-      "desc": "With Karolina Muchova and Linda Noskova set for an all-Czech Wimbledon final, Naomi Broady discusses why the nation produces so many top players and where the final will be won or lost."
     }
   ],
   "tech": [
+    {
+      "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963",
+      "image": "https://kotaku.com/app/uploads/2026/07/AVowed-1.jpg",
+      "published": "7/11/2026, 4:00:47 PM",
+      "desc": "Obsidian is reportedly still working on Avowed 2 as it spins up a new Fallout"
+    },
     {
       "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
       "source": "Nintendoeverything.com",
@@ -230,6 +238,30 @@
       "desc": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Air's heart rate data against a gold standard heart rate monitor."
     },
     {
+      "title": "The perfect kit for all your tiny repairs - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "published": "7/11/2026, 12:00:00 PM",
+      "desc": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more."
+    },
+    {
+      "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
+      "image": "",
+      "published": "7/11/2026, 12:00:00 PM",
+      "desc": ""
+    },
+    {
+      "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
+      "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/11/2026, 8:05:53 AM",
+      "desc": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs."
+    },
+    {
       "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y? - Polygon.com",
       "source": "Polygon",
       "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
@@ -238,36 +270,12 @@
       "desc": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We explain in our guide."
     },
     {
-      "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
-      "image": "https://images.nintendolife.com/c7aa4189b4e5a/large.jpg",
-      "published": "7/11/2026, 12:55:00 AM",
-      "desc": "It's on like Donkey Kong!"
-    },
-    {
-      "title": "iOS 27: What's New With the Mail App - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-mail/",
-      "image": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg",
-      "published": "7/10/2026, 10:26:09 PM",
-      "desc": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search..."
-    },
-    {
-      "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg",
-      "published": "7/10/2026, 9:39:00 PM",
-      "desc": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem."
-    },
-    {
-      "title": "Latest Galaxy Z Fold 8 leak offers your clearest look yet at Samsung's new foldables - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-z-flip-8-renders-3686550/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175625-scaled.jpg",
-      "published": "7/10/2026, 9:28:00 PM",
-      "desc": "More renders of Samsung's Galaxy Z Fold 8 and Galaxy Z Flip 8 have leaked, giving us a better look at the upcoming foldables."
+      "title": "Microsoft loses lawsuit after blocking hacked Xbox account with digital games - Notebookcheck",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Microsoft-loses-lawsuit-after-blocking-hacked-Xbox-account-with-digital-games.1339855.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/XboxBannerwithGavel.jpg",
+      "published": "7/11/2026, 1:48:00 AM",
+      "desc": "One gamer took extreme measures to restore access to his compromised Xbox account. The Brazilian user filed a lawsuit against Microsoft after it refused to unfreeze his digital library. A court ruled in the plaintiff’s favor, and the decline of physical games…"
     }
   ],
   "education": [
@@ -375,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "Forever Right Now",
-      "artist": "JERUB",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
-    },
-    {
-      "rank": 6,
       "title": "Three Lions",
       "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
@@ -392,16 +391,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
     },
     {
-      "rank": 7,
-      "title": "Back to You (Radio Mix)",
-      "artist": "Ricci G & Axxima",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/8d/d1/578dd1e4-7504-b47a-c90c-2158b5cabca1/cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/41/d4/f741d424-7f0a-703d-78a3-47e4f9a5cf49/mzaf_13022554359060865783.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/back-to-you-radio-mix/6783933477?i=6783933478&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ricci%20G%20%26%20Axxima%20Back%20to%20You%20(Radio%20Mix)"
+      "rank": 6,
+      "title": "Forever Right Now",
+      "artist": "JERUB",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Holding Out for a Hero",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
@@ -410,13 +409,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 9,
+      "title": "Back to You (Radio Mix)",
+      "artist": "Ricci G & Axxima",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/8d/d1/578dd1e4-7504-b47a-c90c-2158b5cabca1/cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/41/d4/f741d424-7f0a-703d-78a3-47e4f9a5cf49/mzaf_13022554359060865783.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/back-to-you-radio-mix/6783933477?i=6783933478&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ricci%20G%20%26%20Axxima%20Back%20to%20You%20(Radio%20Mix)"
     },
     {
       "rank": 10,
@@ -465,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Lost in France",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
+      "title": "The Puerto Rico Song",
+      "artist": "Saxboy Billy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/9c/91/229c91aa-f6bc-b90b-3a35-71d4eb13c732/26SYMIM30323.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/d7/86/00d786a6-492d-1eae-a15b-7053fc381123/mzaf_1073314407428641012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-puerto-rico-song/6766473604?i=6766473605&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Saxboy%20Billy%20The%20Puerto%20Rico%20Song"
     }
   ],
   "movies": [
@@ -494,12 +502,12 @@
     },
     {
       "rank": 3,
-      "title": "Spider-Man: Brand New Day",
+      "title": "Michael",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 4,
@@ -512,24 +520,15 @@
     },
     {
       "rank": 5,
-      "title": "Michael",
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 6,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 7,
       "title": "Enola Holmes 3",
       "year": "2026",
       "cert": "12",
@@ -538,22 +537,31 @@
       "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
-      "rank": 8,
-      "title": "The Devil Wears Prada 2",
+      "rank": 7,
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "The Sheep Detectives",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "url": "https://www.themoviedb.org/movie/1301421"
+    },
+    {
+      "rank": 9,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
       "rank": 10,
