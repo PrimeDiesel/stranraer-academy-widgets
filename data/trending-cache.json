@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-12T18:01:59.686Z",
+  "updated": "2026-07-12T19:12:42.395Z",
   "news": [
+    {
+      "title": "Wimbledon 2026: Linda Noskova beats Karolina Muchova in dramatic all-Czech final to win first Grand Slam title",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/860d/live/6ae71fa0-7d55-11f1-8dd5-cdcf1477b2dd.jpg",
+      "published": "7/11/2026, 6:37:19 PM",
+      "desc": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final."
+    },
+    {
+      "title": "Newport man believed to be carrying crossbow shot by police",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg74xpemg1eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c94/live/8391a7e0-7d51-11f1-8dd5-cdcf1477b2dd.png",
+      "published": "7/11/2026, 6:22:27 PM",
+      "desc": "Police were called to an address in Newport on Friday night following reports of threatening behaviour."
+    },
+    {
+      "title": "South Korea dating retreat: Can monks help 24 singles find love at a Buddhist temple?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg",
+      "published": "7/11/2026, 6:22:24 PM",
+      "desc": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help."
+    },
     {
       "title": "Haytor Vale: The village at the heart of Ann Widdecombe tragedy",
       "source": "BBC News",
@@ -8,22 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59f1/live/9b3a0890-7d30-11f1-8f06-e145dd803033.jpg",
       "published": "7/11/2026, 5:37:28 PM",
       "desc": "The residents of a tiny Devon village are left in shock after the death of Ann Widdecombe."
-    },
-    {
-      "title": "Prince Harry talks grief, stress and loss in final event of UK trip",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8eee/live/af1b8750-7d3d-11f1-8417-c9f35e2ce384.jpg",
-      "published": "7/11/2026, 5:07:31 PM",
-      "desc": "The Duke of Sussex rounded off his visit by meeting bereaved children and young people - and doing yoga with goats."
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
-      "published": "7/11/2026, 4:52:22 PM",
-      "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar."
     },
     {
       "title": "Find your local World Cup hero with our postcode lookup",
@@ -50,14 +58,6 @@
       "desc": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup."
     },
     {
-      "title": "Rachel Reeves: Andy Burnham needs a worked-through plan to govern",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c456/live/796fbc20-7d1f-11f1-ba31-ed66fa13cdef.jpg",
-      "published": "7/11/2026, 12:22:15 PM",
-      "desc": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM."
-    },
-    {
       "title": "TV presenter Dermot Murnaghan dies aged 68",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo",
@@ -68,12 +68,76 @@
   ],
   "sports": [
     {
+      "title": "Argentina vs Wales LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cdxde6ewyrdt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae72/live/414390e0-798e-11f1-ba11-c3c8bc8af42b.jpg",
+      "published": "7/11/2026, 6:52:20 PM",
+      "desc": "Follow build-up, team news, scores & live text updates as Argentina host Wales in the Nations Championship at Estadio San Juan del Bicentenario, San Juan."
+    },
+    {
+      "title": "Wimbledon 2026: Linda Noskova beats Karolina Muchova in dramatic all-Czech final to win first Grand Slam title",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/860d/live/6ae71fa0-7d55-11f1-8dd5-cdcf1477b2dd.jpg",
+      "published": "7/11/2026, 6:52:17 PM",
+      "desc": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final."
+    },
+    {
+      "title": "World Cup 2026: England team news - Stones set to start against Norway",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/117c/live/326c1390-7d52-11f1-8dd5-cdcf1477b2dd.jpg",
+      "published": "7/11/2026, 6:22:31 PM",
+      "desc": "Marc Guehi has won his fitness race and is expected to be fit for England's World Cup quarter-final against Norway, with John Stones set to play alongside the central defender."
+    },
+    {
+      "title": "White Sox OF Tristan Peters named an AL All-Star replacement - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49335616/white-sox-tristan-peters-named-al-all-star-replacement",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687827_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 6:21:33 PM",
+      "desc": "White Sox outfielder Tristan Peters, who hit for the cycle Friday, was named to the American League All-Star team as an injury replacement Saturday."
+    },
+    {
+      "title": "England vs India: Kranti Gaud and Smriti Mandhana dominate day two at Lord's",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c1wyv9zeq5eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e214/live/ea332bb0-7d4a-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/11/2026, 6:07:28 PM",
+      "desc": "India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 in their first innings."
+    },
+    {
+      "title": "England vs India: Jos Buttler and Harry Brook leads hosts to dominant 4-0 T20 series win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cy73ljle6dro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b868/live/ffffeec0-7d4e-11f1-8dd5-cdcf1477b2dd.jpg",
+      "published": "7/11/2026, 6:07:20 PM",
+      "desc": "Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings."
+    },
+    {
       "title": "Patriots Legend Julian Edelman Names The Former Teammate Erling Haaland Reminds Him Of",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/patriots-legend-julian-edelman-names-former-teammate-erling-haaland-reminds-him",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-8.jpg?ve=1&tl=1",
       "published": "7/11/2026, 5:52:20 PM",
       "desc": "Erling Haaland is becoming as big of a star off the pitch as he is on it, much like a former NFL star."
+    },
+    {
+      "title": "UCLA's Roch Cholowsky taken No. 1 overall in draft by White Sox - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49335387/ucla-roch-cholowsky-taken-no-1-overall-draft-white-sox",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687822_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 5:50:14 PM",
+      "desc": "The White Sox selected UCLA shortstop Roch Cholowsky on Saturday with the first pick of the MLB amateur draft."
+    },
+    {
+      "title": "Linda Noskova recovers from 2nd-set meltdown to win Wimbledon - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49335314/linda-noskova-recovers-2nd-set-meltdown-win-wimbledon",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687840_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 5:40:00 PM",
+      "desc": "Linda Noskova recovered from a second-set meltdown to overcome Karolina Muchova 6-2, 5-7, 6-3 in an all-Czech Wimbledon final on Saturday for her first Grand Slam trophy."
     },
     {
       "title": "2026 World Cup Golden Glove: Simón, Maignan In Heated Contest",
@@ -124,14 +188,6 @@
       "desc": "Athletics slugger Nick Kurtz, who was set to start at first base for the American League at next week's All-Star Game, went on the 10-day injured list Saturday with a right thumb sprain."
     },
     {
-      "title": "Evian Championship: Lottie Woad slips out of lead as Haeran Ryu cards record round in majors",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c24y08l0rgno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/696e/live/6b772fd0-7d43-11f1-8417-c9f35e2ce384.jpg",
-      "published": "7/11/2026, 4:52:28 PM",
-      "desc": "Lottie Woad slips off the top of the leaderboard at the Evian Championship as Haeran Ryu cards the lowest round in major championship history."
-    },
-    {
       "title": "Fiji 8-66 England: Henry Pollock hat-trick as England rout sorry Fiji to end losing run",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/rugby-union/articles/crely1qlj47o",
@@ -154,65 +210,17 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/mbappe1.jpg?ve=1&tl=1",
       "published": "7/11/2026, 4:37:30 PM",
       "desc": "The Golden Ball race is taking shape, and two of France's superstars are chasing the GOAT."
-    },
-    {
-      "title": "2026 World Cup Odds: France, Argentina Favored For Finals Rematch",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/12/1408/814/gettyimages-1450091836-scaled.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 4:37:30 PM",
-      "desc": "France leads the oddsboard, but Argentina continues to rise. Check out the latest odds to reach the World Cup final."
-    },
-    {
-      "title": "2026 World Cup Semifinal Odds: Which Nations Are Favored To Reach Final Four?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-which-nations-favored-reach-semifinals",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284795766-scaled.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 4:37:27 PM",
-      "desc": "Which nations are most likely to make the final four? See the latest odds to reach the 2026 FIFA World Cup semifinals."
-    },
-    {
-      "title": "2026 World Cup Quarterfinal Odds: Which Squads Will Advance?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-quarterfinal-odds-which-squads-will-make-final-8",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/bellingham-76.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 4:37:21 PM",
-      "desc": "Check out the latest odds for the quarterfinal matchups at the 2026 FIFA World Cup."
-    },
-    {
-      "title": "Point guard Mario Saint-Supery signs with Euroleague's Valencia - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49334727/point-guard-mario-saint-supery-signs-euroleague-valencia",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687796_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 4:30:49 PM",
-      "desc": "Euroleague squad Valencia announced that it had signed Mario Saint-Supery, who was a standout freshman at Gonzaga last season."
-    },
-    {
-      "title": "Haeran Ryu sets LPGA major record with 60 at Evian Championship - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49334255/haeran-ryu-sets-lpga-major-record-60-evian-championship",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687779_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 3:23:10 PM",
-      "desc": "Haeran Ryu set the scoring record for LPGA majors on Saturday with an 11-under 60, giving the South Korean a three-shot lead in the Evian Championship as she goes for a second straight major."
-    },
-    {
-      "title": "Japan 20-36 Ireland: Scoreline flattered Irish admits 'relieved' head coach Andy Farrell",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cr5jyl69zzzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d55/live/82b79730-7d33-11f1-8f06-e145dd803033.jpg",
-      "published": "7/11/2026, 3:07:32 PM",
-      "desc": "Ireland boss Andy Farrell admits he is \"more relieved than anything\" after his side battle through a scrappy performance to beat a spirited Japan in Australia."
-    },
-    {
-      "title": "World Cup 2026: Jurgen Klopp agrees deal in principle to become Germany coach",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ced44061g8qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg",
-      "published": "7/11/2026, 3:07:29 PM",
-      "desc": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann."
     }
   ],
   "tech": [
+    {
+      "title": "The problem with drinking too much water - Pittsburgh Post-Gazette",
+      "source": "Pittsburgh Post-Gazette",
+      "url": "https://www.post-gazette.com/news/health/2026/07/11/exercise-associated-hyponatremia/stories/202607120001",
+      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202607120001/1140x_a10-7_cTC/20240818JGJeffMorgantab09_1783443802.jpg",
+      "published": "7/11/2026, 5:12:51 PM",
+      "desc": "False"
+    },
     {
       "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
       "source": "Kotaku",
@@ -222,20 +230,36 @@
       "desc": "Obsidian is reportedly still working on Avowed 2 as it spins up a new Fallout"
     },
     {
+      "title": "‘The Mandalorian and Grogu’ Is Done, But Rotta the Hutt is Forever - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/the-mandalorian-and-grogu-is-done-but-rotta-the-hutt-is-forever-2000784379",
+      "image": "https://gizmodo.com/app/uploads/2026/04/Rotta-the-Hutt-Mandalorian-and-Grogu-1200x675.jpg",
+      "published": "7/11/2026, 2:30:53 PM",
+      "desc": "It's time for you to be your own man and go trick-or-treating as Rotta the Hutt this Halloween."
+    },
+    {
+      "title": "EU admits it cannot stop Sony killing physical disc – \"companies are free to offer games and services in the manner that they see fit\" - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-07-11-at-15.03.49.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/11/2026, 2:10:55 PM",
+      "desc": "The EU confirms it cannot stop Sony from scrapping physical discs, stating \"companies are free to offer games and services in the manner that they see fit\"."
+    },
+    {
+      "title": "Five Games Are Confirmed For Xbox Game Pass In August 2026 So Far - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/07/five-games-are-confirmed-for-xbox-game-pass-in-august-2026-so-far",
+      "image": "https://images.purexbox.com/92690b4f0c846/large.jpg",
+      "published": "7/11/2026, 1:30:00 PM",
+      "desc": "An early look at what's to come"
+    },
+    {
       "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
       "source": "Nintendoeverything.com",
       "url": "https://nintendoeverything.com/pokemon-company-document-shows-wanting-to-increase-price-from-60-encouraging-people-to-buy-both-versions/",
       "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-games-price-increase.jpg",
       "published": "7/11/2026, 1:08:49 PM",
       "desc": "An internal document from The Pokemon Company has surfaced which shows past interest in increasing the price of Pokemon games as well as encouraging people to buy both versions. Going back to the original Nintendo Switch era, Pokemon titles were $60 for each …"
-    },
-    {
-      "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why - ZDNET",
-      "source": "ZDNet",
-      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-      "image": "https://www.zdnet.com/a/img/resize/dbf49c71454358558b2b1f9c6012ecf5ed0000f0/2026/07/09/6d2885bd-8786-426d-b88f-ad0ed37af940/fitbitair.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published": "7/11/2026, 12:52:00 PM",
-      "desc": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Air's heart rate data against a gold standard heart rate monitor."
     },
     {
       "title": "The perfect kit for all your tiny repairs - The Verge",
@@ -249,33 +273,9 @@
       "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work - Push Square",
       "source": "Push Square",
       "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
-      "image": "",
+      "image": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
       "published": "7/11/2026, 12:00:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
-      "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/11/2026, 8:05:53 AM",
-      "desc": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs."
-    },
-    {
-      "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y? - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/jlee_260706_1002_pogogf26_mewtwo.jpg?w=1600&h=900&fit=crop",
-      "published": "7/11/2026, 6:00:19 AM",
-      "desc": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We explain in our guide."
-    },
-    {
-      "title": "Microsoft loses lawsuit after blocking hacked Xbox account with digital games - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Microsoft-loses-lawsuit-after-blocking-hacked-Xbox-account-with-digital-games.1339855.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/XboxBannerwithGavel.jpg",
-      "published": "7/11/2026, 1:48:00 AM",
-      "desc": "One gamer took extreme measures to restore access to his compromised Xbox account. The Brazilian user filed a lawsuit against Microsoft after it refused to unfreeze his digital library. A court ruled in the plaintiff’s favor, and the decline of physical games…"
+      "desc": "Until new Fallout game needs them"
     }
   ],
   "education": [
@@ -392,15 +392,6 @@
     },
     {
       "rank": 6,
-      "title": "Forever Right Now",
-      "artist": "JERUB",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
-    },
-    {
-      "rank": 7,
       "title": "Holding Out for a Hero",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
@@ -409,7 +400,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -418,13 +409,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
+      "rank": 8,
+      "title": "Forever Right Now",
+      "artist": "JERUB",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
+    },
+    {
       "rank": 9,
-      "title": "Back to You (Radio Mix)",
-      "artist": "Ricci G & Axxima",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/8d/d1/578dd1e4-7504-b47a-c90c-2158b5cabca1/cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/41/d4/f741d424-7f0a-703d-78a3-47e4f9a5cf49/mzaf_13022554359060865783.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/back-to-you-radio-mix/6783933477?i=6783933478&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ricci%20G%20%26%20Axxima%20Back%20to%20You%20(Radio%20Mix)"
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 10,
@@ -437,21 +437,21 @@
     },
     {
       "rank": 11,
+      "title": "Back to You (Radio Mix)",
+      "artist": "Ricci G & Axxima",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/8d/d1/578dd1e4-7504-b47a-c90c-2158b5cabca1/cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/41/d4/f741d424-7f0a-703d-78a3-47e4f9a5cf49/mzaf_13022554359060865783.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/back-to-you-radio-mix/6783933477?i=6783933478&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ricci%20G%20%26%20Axxima%20Back%20to%20You%20(Radio%20Mix)"
+    },
+    {
+      "rank": 12,
       "title": "Everything's Alright (feat. Kurt D)",
       "artist": "Azteck & DJ Koko",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
-    },
-    {
-      "rank": 12,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 13,
@@ -464,21 +464,21 @@
     },
     {
       "rank": 14,
+      "title": "Lost in France",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
+    },
+    {
+      "rank": 15,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
-    },
-    {
-      "rank": 15,
-      "title": "The Puerto Rico Song",
-      "artist": "Saxboy Billy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/9c/91/229c91aa-f6bc-b90b-3a35-71d4eb13c732/26SYMIM30323.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/d7/86/00d786a6-492d-1eae-a15b-7053fc381123/mzaf_1073314407428641012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/the-puerto-rico-song/6766473604?i=6766473605&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Saxboy%20Billy%20The%20Puerto%20Rico%20Song"
     }
   ],
   "movies": [
@@ -502,24 +502,6 @@
     },
     {
       "rank": 3,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 4,
-      "title": "Enola Holmes 3",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "url": "https://www.themoviedb.org/movie/1202033"
-    },
-    {
-      "rank": 5,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -528,13 +510,31 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 5,
+      "title": "Enola Holmes 3",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
+    },
+    {
+      "rank": 6,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 7,
@@ -556,6 +556,15 @@
     },
     {
       "rank": 9,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 10,
       "title": "The Sheep Detectives",
       "year": "2026",
       "cert": "PG",
@@ -564,13 +573,13 @@
       "url": "https://www.themoviedb.org/movie/1301421"
     },
     {
-      "rank": 10,
-      "title": "Supergirl",
+      "rank": 11,
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "poster": "https://image.tmdb.org/t/p/w342/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
@@ -591,6 +600,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "My Adventures with Superman",
+      "year": "2023",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
+      "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
+      "url": "https://www.themoviedb.org/tv/125928"
     }
   ]
 }
