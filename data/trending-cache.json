@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-12T17:01:38.311Z",
+  "updated": "2026-07-12T18:01:59.686Z",
   "news": [
+    {
+      "title": "Haytor Vale: The village at the heart of Ann Widdecombe tragedy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59f1/live/9b3a0890-7d30-11f1-8f06-e145dd803033.jpg",
+      "published": "7/11/2026, 5:37:28 PM",
+      "desc": "The residents of a tiny Devon village are left in shock after the death of Ann Widdecombe."
+    },
+    {
+      "title": "Prince Harry talks grief, stress and loss in final event of UK trip",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8eee/live/af1b8750-7d3d-11f1-8417-c9f35e2ce384.jpg",
+      "published": "7/11/2026, 5:07:31 PM",
+      "desc": "The Duke of Sussex rounded off his visit by meeting bereaved children and young people - and doing yoga with goats."
+    },
     {
       "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "source": "BBC News",
@@ -26,14 +42,6 @@
       "desc": "If the World Cup was a tournament for hearts and minds, the Norwegian striker would certainly win."
     },
     {
-      "title": "Former milkman from Rotherham wins £4m mansion in prize draw",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmdr4388eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0816/live/6153f040-7d2c-11f1-ba31-ed66fa13cdef.jpg",
-      "published": "7/11/2026, 3:07:25 PM",
-      "desc": "David Roper, from Rotherham, says the win has \"changed everything\" for him and his family."
-    },
-    {
       "title": "Jayden Adams: South Africa World Cup player dies aged 25",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo",
@@ -56,17 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b17f/live/60d9a410-7d14-11f1-b61e-1b6852ddc42f.jpg",
       "published": "7/11/2026, 11:22:26 AM",
       "desc": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer."
-    },
-    {
-      "title": "World Cup: England fans can stay in pub for full Norway game - even if kick-off delayed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm204lgrv10o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5fe/live/a2e69d40-7d0f-11f1-923a-a7d66f37fd92.jpg",
-      "published": "7/11/2026, 11:07:20 AM",
-      "desc": "The extended hours means fans can watch the entire game, even if the start is delayed."
     }
   ],
   "sports": [
+    {
+      "title": "Patriots Legend Julian Edelman Names The Former Teammate Erling Haaland Reminds Him Of",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/patriots-legend-julian-edelman-names-former-teammate-erling-haaland-reminds-him",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-8.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 5:52:20 PM",
+      "desc": "Erling Haaland is becoming as big of a star off the pitch as he is on it, much like a former NFL star."
+    },
+    {
+      "title": "2026 World Cup Golden Glove: Simón, Maignan In Heated Contest",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-golden-glove-odds-emiliano-martinez-favored-repeat",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284679973-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 5:07:27 PM",
+      "desc": "The 2026 FIFA World Cup Golden Glove odds are rounding into shape as the tournament reaches a conclusion."
+    },
+    {
+      "title": "2026 World Cup Golden Boot Odds: Mbappé Favored After Goal vs. Morocco",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285412303-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 5:07:24 PM",
+      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds after Kylian Mbappé's goal against Morocco."
+    },
+    {
+      "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-young-player-tournament-odds-lamine-yamal-favored",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/lamine-68.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 5:07:21 PM",
+      "desc": "Can anyone — or anything — stop Lamine Yamal from winning Young Player of the Tournament at the World Cup? See the odds."
+    },
+    {
+      "title": "Who Are The Referees For England vs. Norway?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-referee-england-norway",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284666107-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 5:07:18 PM",
+      "desc": "See who will be officiating the World Cup quarterfinal match between England and Norway."
+    },
+    {
+      "title": "Cheryl Reeve: Lynx still Napheesa Collier's team, despite Olivia Miles' emergence - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49335028/cheryl-reeve-lynx-napheesa-collier-team-olivia-miles-emergence",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687813_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 5:01:32 PM",
+      "desc": "Lynx coach Cheryl Reeve didn't offer a timetable on the injured Napheesa Collier's return but said whenever she comes back, \"Phee\" is still the queen in Minneapolis -- and the whole team knows it."
+    },
+    {
+      "title": "Athletics All-Star 1B Nick Kurtz placed on IL with thumb sprain - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49334996/athletics-all-star-1b-nick-kurtz-placed-il-thumb-sprain",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0420%2Fr1646467_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 4:55:24 PM",
+      "desc": "Athletics slugger Nick Kurtz, who was set to start at first base for the American League at next week's All-Star Game, went on the 10-day injured list Saturday with a right thumb sprain."
+    },
     {
       "title": "Evian Championship: Lottie Woad slips out of lead as Haeran Ryu cards record round in majors",
       "source": "BBC Sport",
@@ -132,28 +188,12 @@
       "desc": "Euroleague squad Valencia announced that it had signed Mario Saint-Supery, who was a standout freshman at Gonzaga last season."
     },
     {
-      "title": "Argentina vs. Switzerland Prediction, Odds, Picks For World Cup Match",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-prediction-odds-picks-world-cup-match",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285091642-scaled.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 3:37:18 PM",
-      "desc": "Check out the odds for the Argentina vs. Switzerland quarterfinals matchup at the 2026 FIFA World Cup."
-    },
-    {
       "title": "Haeran Ryu sets LPGA major record with 60 at Evian Championship - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/golf/story/_/id/49334255/haeran-ryu-sets-lpga-major-record-60-evian-championship",
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687779_1296x729_16%2D9.jpg",
       "published": "7/11/2026, 3:23:10 PM",
       "desc": "Haeran Ryu set the scoring record for LPGA majors on Saturday with an 11-under 60, giving the South Korean a three-shot lead in the Evian Championship as she goes for a second straight major."
-    },
-    {
-      "title": "Last Night In Baseball: What&#39;s Better Than A Cycle? A Rare Cycle!",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/white-sox-tristan-peters-cycle-yankees-diamondbacks-giants-rafael-devers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/petersh1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 3:22:22 PM",
-      "desc": "Tristan Peters hit for a rare cycle, Yordan Alvarez reached a milestone in a hurry, Home Run Derby participants hit dingers, Burger King, Rafael Devers is back and more from Friday's MLB action."
     },
     {
       "title": "Japan 20-36 Ireland: Scoreline flattered Irish admits 'relieved' head coach Andy Farrell",
@@ -170,46 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg",
       "published": "7/11/2026, 3:07:29 PM",
       "desc": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann."
-    },
-    {
-      "title": "England vs India LIVE: Fifth T20, Southampton - cricket score, commentary & video highlights",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/live/c98m9eyppd6t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b6a/live/179634c0-7d33-11f1-8f06-e145dd803033.jpg",
-      "published": "7/11/2026, 2:22:23 PM",
-      "desc": "England play India in the fifth T20 at Utilita Bowl in Southampton - follow live scores, radio commentary and video highlights."
-    },
-    {
-      "title": "Jayden Adams: South Africa World Cup player dies aged 25",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "7/11/2026, 1:52:19 PM",
-      "desc": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup."
-    },
-    {
-      "title": "South Africa midfielder Jayden Adams dies aged 25, weeks after World Cup appearance - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687731_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 1:50:00 PM",
-      "desc": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed."
-    },
-    {
-      "title": "How to Watch Argentina and Messi vs. Switzerland: TV Channel, Live Stream, Time",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/argentina-vs-switzerland-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-quarterfinal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/how-to-watch-argentina-vs-switzerland-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 1:37:23 PM",
-      "desc": "Learn which TV channel or how to live stream the Argentina and Switzerland FIFA World Cup match."
-    },
-    {
-      "title": "Wimbledon 2026 LIVE: GB's Henry Patten involved in men's doubles final - watch stream, order of play & scores",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/live/cql76z9662lt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3578/live/9fb57830-7d28-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/11/2026, 1:22:26 PM",
-      "desc": "Watch live BBC coverage as Great Britain's Henry Patten contests the men's doubles final at Wimbledon alongside Finland's Harri Heliovaara."
     }
   ],
   "tech": [
@@ -511,12 +511,12 @@
     },
     {
       "rank": 4,
-      "title": "Minions & Monsters",
+      "title": "Enola Holmes 3",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
       "rank": 5,
@@ -529,12 +529,12 @@
     },
     {
       "rank": 6,
-      "title": "Enola Holmes 3",
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "url": "https://www.themoviedb.org/movie/1202033"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 7,
@@ -547,21 +547,21 @@
     },
     {
       "rank": 8,
-      "title": "The Sheep Detectives",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "url": "https://www.themoviedb.org/movie/1301421"
-    },
-    {
-      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
+      "title": "The Sheep Detectives",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "url": "https://www.themoviedb.org/movie/1301421"
     },
     {
       "rank": 10,
