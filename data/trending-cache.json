@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-12T20:51:23.839Z",
+  "updated": "2026-07-12T21:52:31.691Z",
   "news": [
+    {
+      "title": "Iran supreme leader calls for revenge after father's burial",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/11/2026, 9:07:25 PM",
+      "desc": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran."
+    },
     {
       "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
       "source": "BBC News",
@@ -8,30 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8d4/live/d7a7d610-7c98-11f1-9b18-bb5b415621a9.jpg",
       "published": "7/11/2026, 8:52:25 PM",
       "desc": "If the World Cup was a tournament for hearts and minds, the Norwegian striker would certainly win."
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
-      "published": "7/11/2026, 7:52:21 PM",
-      "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar."
-    },
-    {
-      "title": "Rachel Reeves: Andy Burnham needs a worked-through plan to govern",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4172/live/943434a0-7d24-11f1-ba31-ed66fa13cdef.jpg",
-      "published": "7/11/2026, 7:22:21 PM",
-      "desc": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM."
-    },
-    {
-      "title": "Wimbledon 2026: Linda Noskova beats Karolina Muchova in dramatic all-Czech final to win first Grand Slam title",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/860d/live/6ae71fa0-7d55-11f1-8dd5-cdcf1477b2dd.jpg",
-      "published": "7/11/2026, 6:37:19 PM",
-      "desc": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final."
     },
     {
       "title": "Newport man believed to be carrying crossbow shot by police",
@@ -64,9 +48,49 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
       "published": "7/11/2026, 2:07:22 PM",
       "desc": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup."
+    },
+    {
+      "title": "TV presenter Dermot Murnaghan dies aged 68",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b17f/live/60d9a410-7d14-11f1-b61e-1b6852ddc42f.jpg",
+      "published": "7/11/2026, 11:22:26 AM",
+      "desc": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer."
     }
   ],
   "sports": [
+    {
+      "title": "Argentina 35-21 Wales: Pumas beat Steve Tandy's side in Nations Championship",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cj9gk8179jlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f16f/live/e768ccd0-7d65-11f1-b797-19c851492c4e.jpg",
+      "published": "7/11/2026, 9:52:23 PM",
+      "desc": "Number eight Joaquin Oviedo scores two tries as Argentina overpower Wales in the Nations Championship in San Juan."
+    },
+    {
+      "title": "Who Are The Referees For Argentina vs. Switzerland?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-referee-argentina-switzerland",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2283792541-scaled.jpg?ve=1&tl=1",
+      "published": "7/11/2026, 9:22:18 PM",
+      "desc": "Argentina faces Switzerland in the World Cup quarterfinals after Lionel Messi sparked a dramatic comeback against Egypt with a goal and an assist."
+    },
+    {
+      "title": "Scottish Open: Matt Fitzpatrick leads and McIlroy toils on fog-disrupted day three",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/cpv3g37el93o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb84/live/162f5eb0-7d68-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/11/2026, 9:07:27 PM",
+      "desc": "Matt Fitzpatrick holds a share of the lead and out-of-sorts Rory McIlroy struggles in an unfinished third round at the Genesis Scottish Open where fog caused havoc."
+    },
+    {
+      "title": "Wimbledon 2026 results: Linda Noskova wins title and pays tribute to mum after victory over Karolina Muchova",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc0a/live/dbfe2d40-7d5b-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/11/2026, 9:07:25 PM",
+      "desc": "Linda Noskova produces \"one of the all-time greatest efforts on Centre Court\" to win Wimbledon - and thanks her late mother, Ivana, for inspiring her."
+    },
     {
       "title": "Norway vs. England Live Updates, Score: Latest World Cup News And Goals",
       "source": "Fox Sports",
@@ -148,22 +172,6 @@
       "desc": "Ja Morant said Saturday that his offseason trade from the Grizzlies to the Trail Blazers will give him the chance to \"start fresh\" and prove that his \"bad guy\" image is a misconception."
     },
     {
-      "title": "Argentina vs Wales LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cdxde6ewyrdt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae72/live/414390e0-798e-11f1-ba11-c3c8bc8af42b.jpg",
-      "published": "7/11/2026, 6:52:20 PM",
-      "desc": "Follow build-up, team news, scores & live text updates as Argentina host Wales in the Nations Championship at Estadio San Juan del Bicentenario, San Juan."
-    },
-    {
-      "title": "Wimbledon 2026: Linda Noskova beats Karolina Muchova in dramatic all-Czech final to win first Grand Slam title",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/860d/live/6ae71fa0-7d55-11f1-8dd5-cdcf1477b2dd.jpg",
-      "published": "7/11/2026, 6:52:17 PM",
-      "desc": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final."
-    },
-    {
       "title": "White Sox OF Tristan Peters named an AL All-Star replacement - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49335616/white-sox-tristan-peters-named-al-all-star-replacement",
@@ -194,25 +202,25 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687822_1296x729_16%2D9.jpg",
       "published": "7/11/2026, 5:50:14 PM",
       "desc": "The White Sox selected UCLA shortstop Roch Cholowsky on Saturday with the first pick of the MLB amateur draft."
-    },
-    {
-      "title": "Linda Noskova recovers from 2nd-set meltdown to win Wimbledon - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49335314/linda-noskova-recovers-2nd-set-meltdown-win-wimbledon",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687840_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 5:40:00 PM",
-      "desc": "Linda Noskova recovered from a second-set meltdown to overcome Karolina Muchova 6-2, 5-7, 6-3 in an all-Czech Wimbledon final on Saturday for her first Grand Slam trophy."
-    },
-    {
-      "title": "2026 World Cup Golden Boot Odds: Mbappé Favored After Goal vs. Morocco",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285412303-scaled.jpg?ve=1&tl=1",
-      "published": "7/11/2026, 5:07:24 PM",
-      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds after Kylian Mbappé's goal against Morocco."
     }
   ],
   "tech": [
+    {
+      "title": "AI is changing modern dating, but experts warn it's making people 'relationally stupid' - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/WOMAN-PHONE-SMILING.jpg",
+      "published": "7/11/2026, 7:00:08 PM",
+      "desc": "Relationship experts warn that using ChatGPT for dating profiles and texting is making people \"relationally stupid\" and unable to show up authentically."
+    },
+    {
+      "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
+      "image": "https://images.pushsquare.com/7e56920a966ab/large.jpg",
+      "published": "7/11/2026, 6:45:00 PM",
+      "desc": "Oh, BlOps it"
+    },
     {
       "title": "The problem with drinking too much water - Pittsburgh Post-Gazette",
       "source": "Pittsburgh Post-Gazette",
@@ -222,60 +230,44 @@
       "desc": "False"
     },
     {
-      "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963",
-      "image": "https://kotaku.com/app/uploads/2026/07/AVowed-1.jpg",
-      "published": "7/11/2026, 4:00:47 PM",
-      "desc": "Obsidian is reportedly still working on Avowed 2 as it spins up a new Fallout"
+      "title": "Woman Says Boyfriend Accidentally Revealed Dating Apps While Screen Sharing: “Tell Me Why Hinge Was There” - Yahoo",
+      "source": "The Daily Dot",
+      "url": "https://dailydot.com/woman-says-boyfriend-accidentally-revealed-dating-apps-while-screen-sharing-tell-me-why-hinge-was-there/",
+      "image": "https://s.yimg.com/lo/mysterio/api/9be5316f7c40c2d9d26fab422f75246500efb4d426ff9c356079f4bfeb405b73/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F523e7a2f042b2511787f9ee146fcb847",
+      "published": "7/11/2026, 5:00:36 PM",
+      "desc": "A Reddit user says she discovered dating apps on her boyfriend’s phone after he accidentally shared his screen during a FaceTime call. The woman shared on Re..."
     },
     {
-      "title": "‘The Mandalorian and Grogu’ Is Done, But Rotta the Hutt is Forever - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/the-mandalorian-and-grogu-is-done-but-rotta-the-hutt-is-forever-2000784379",
-      "image": "https://gizmodo.com/app/uploads/2026/04/Rotta-the-Hutt-Mandalorian-and-Grogu-1200x675.jpg",
-      "published": "7/11/2026, 2:30:53 PM",
-      "desc": "It's time for you to be your own man and go trick-or-treating as Rotta the Hutt this Halloween."
+      "title": "Saturday Pre-orders – New starter sets for Warhammer newcomers - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/tpq1ctqn/saturday-pre-orders-new-starter-sets-for-warhammer-newcomers",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/preorders-jul11-1-feature-bfqt6yhrgn.jpg",
+      "published": "7/11/2026, 4:56:25 PM",
+      "desc": "Check out this week’s pre-orders for Warhammer 40,000 and Black Library."
     },
     {
-      "title": "EU admits it cannot stop Sony killing physical disc – \"companies are free to offer games and services in the manner that they see fit\" - Eurogamer.net",
+      "title": "8 Cool Consumer Reports Approved Gadgets Under $50 - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2208156/cool-new-gadgets-consumer-reports-approved-under-50/",
+      "image": "https://www.bgr.com/img/gallery/8-cool-consumer-reports-approved-gadgets-under-50/l-intro-1783244858.jpg",
+      "published": "7/11/2026, 4:02:00 PM",
+      "desc": "Score top-tier, Consumer Reports-endorsed tech like streaming sticks and headphones from Roku, Amazon, JBL, and more — all for under $50."
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day - Eurogamer.net",
       "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
-      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-07-11-at-15.03.49.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "7/11/2026, 2:10:55 PM",
-      "desc": "The EU confirms it cannot stop Sony from scrapping physical discs, stating \"companies are free to offer games and services in the manner that they see fit\"."
+      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
+      "image": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/11/2026, 3:32:39 PM",
+      "desc": "Ubisoft tends not to share sales figures publicly – which means we can't even compare it to the sales of prior Assassin's Creed games, let alone its peers."
     },
     {
-      "title": "Five Games Are Confirmed For Xbox Game Pass In August 2026 So Far - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/07/five-games-are-confirmed-for-xbox-game-pass-in-august-2026-so-far",
-      "image": "https://images.purexbox.com/92690b4f0c846/large.jpg",
-      "published": "7/11/2026, 1:30:00 PM",
-      "desc": "An early look at what's to come"
-    },
-    {
-      "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/pokemon-company-document-shows-wanting-to-increase-price-from-60-encouraging-people-to-buy-both-versions/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-games-price-increase.jpg",
-      "published": "7/11/2026, 1:08:49 PM",
-      "desc": "An internal document from The Pokemon Company has surfaced which shows past interest in increasing the price of Pokemon games as well as encouraging people to buy both versions. Going back to the original Nintendo Switch era, Pokemon titles were $60 for each …"
-    },
-    {
-      "title": "The perfect kit for all your tiny repairs - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "published": "7/11/2026, 12:00:00 PM",
-      "desc": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more."
-    },
-    {
-      "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
-      "image": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
-      "published": "7/11/2026, 12:00:00 PM",
-      "desc": "Until new Fallout game needs them"
+      "title": "Former PlayStation Boss Says Sony Getting Rid Of Game Discs Makes Him ‘Kind Of Sad, As A Fan’ - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/former-playstation-boss-sony-game-discs-sad-2000714799",
+      "image": "https://kotaku.com/app/uploads/2021/06/554f2d880cae9dbbafd2dabfd6ad16ab-1200x675.jpg",
+      "published": "7/11/2026, 3:08:54 PM",
+      "desc": "'I think there's probably a whole lot of financial analysis that went behind this decision'"
     }
   ],
   "education": [
@@ -600,6 +592,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "Avatar: The Last Airbender",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "url": "https://www.themoviedb.org/tv/82452"
     }
   ]
 }
