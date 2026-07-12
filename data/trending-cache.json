@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-12T02:52:40.399Z",
+  "updated": "2026-07-12T06:05:52.304Z",
   "news": [
+    {
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb59/live/c4e20b70-7cd6-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/11/2026, 5:52:17 AM",
+      "desc": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
+    },
+    {
+      "title": "UK weather: Cooler for some over the weekend but heatwave continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/3250/live/b1ac3870-7c39-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/11/2026, 3:52:19 AM",
+      "desc": "The sizzling heat continues into next week despite a drop in temperatures over the weekend."
+    },
     {
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89bb/live/90ab13b0-7cbd-11f1-926f-c90d1bcfbc84.jpg",
       "published": "7/11/2026, 12:52:22 AM",
       "desc": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback."
-    },
-    {
-      "title": "Could Andy Burnham scrap stamp duty?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621jzex0gyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd9c/live/03238ad0-7abb-11f1-9510-1546718f668b.png",
-      "published": "7/11/2026, 12:37:18 AM",
-      "desc": "Andy Burnham has spoken about reforming stamp duty and council tax - what do experts think he might do when he becomes PM?"
     },
     {
       "title": "Harry and Meghan's week of chaos and confusion amid media battle",
@@ -52,12 +60,44 @@
   ],
   "sports": [
     {
+      "title": "Diamond League: Emmanuel Wanyonyi breaks men's 1,000m world record in Monaco",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cg74xrnnknro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5807/live/50a95f30-7c93-11f1-9b18-bb5b415621a9.jpg",
+      "published": "7/11/2026, 6:07:19 AM",
+      "desc": "Kenya's Emmanuel Wanyonyi breaks the 27-year-old men's 1,000m world record at the Diamond League meeting in Monaco, and Julien Alfred runs a stunning 200m."
+    },
+    {
+      "title": "World Cup 2026: Jordan Pickford - Time to finally give England goalkeeper credit he deserves",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9325/live/9e569ad0-7c80-11f1-a046-0508c8c5d104.jpg",
+      "published": "7/11/2026, 6:07:15 AM",
+      "desc": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty."
+    },
+    {
+      "title": "Bulls' Wilson 'emotional,' dominant in 35-point Summer League debut - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49330697/bulls-wilson-emotional-puts-show-35-point-summer-league-debut",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687640_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 3:55:20 AM",
+      "desc": "Bulls rookie Caleb Wilson scored 35 points in his Summer League debut on Friday night, the second most in a Las Vegas debut since the event began in 2004."
+    },
+    {
       "title": "McGregor vs Holloway 2: UFC 329 - Max Holloway completes welterweight transformation",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c4gy10403j4o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f43d/live/9ed444c0-7ccc-11f1-b17a-d1c887c882fe.png",
-      "published": "7/11/2026, 2:37:18 AM",
+      "published": "7/11/2026, 3:07:20 AM",
       "desc": "Max Holloway completes his transformation to welterweight as he prepares to face Conor McGregor in a rematch at UFC 329 on Saturday."
+    },
+    {
+      "title": "White Sox rookie center fielder Tristan Peters hits for cycle - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49330272/white-sox-rookie-tristan-peters-hits-cycle",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687623_1296x729_16%2D9.jpg",
+      "published": "7/11/2026, 2:29:53 AM",
+      "desc": "Rookie Chicago White Sox center fielder Tristan Peters hit for the cycle Friday night, becoming the franchise's first player to achieve the feat in nine years."
     },
     {
       "title": "England Reveals Plan For Quarterfinals Matchup With Norway: Stop Erling Haaland",
@@ -162,38 +202,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lamine-yamal.jpg?ve=1&tl=1",
       "published": "7/11/2026, 12:52:14 AM",
       "desc": "Spain is onto the semifinals at the World Cup, but Alexi Lalas has not been convinced by its and Lamine Yamal's performances."
-    },
-    {
-      "title": "World Cup 2026: Mikel Merino the unlikely hero again as Spain wait for Lamine Yamal show",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd94/live/52b72730-7cac-11f1-baaa-97e400ac6020.jpg",
-      "published": "7/10/2026, 11:52:25 PM",
-      "desc": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine."
-    },
-    {
-      "title": "World Cup 2026: Belgium lose to Spain and exit World Cup",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gy107g38eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f93/live/b02ba7f0-7cb2-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/10/2026, 11:52:22 PM",
-      "desc": "Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?"
-    },
-    {
-      "title": "Sources: Spurs, Victor Wembanyama reach $252 million max extension - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49328757/sources-spurs-victor-wembanyama-reach-252-million-max-extension",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0710%2Fr1687483_1296x729_16%2D9.jpg",
-      "published": "7/10/2026, 10:47:10 PM",
-      "desc": "Victor Wembanyama and the Spurs have reached agreement on a five-year, $252 million maximum rookie-scale contract extension, sources told ESPN, the third-largest rookie extension in NBA history."
-    },
-    {
-      "title": "World Cup 2026: England's Guehi, Rice & James all train before Norway game",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f88f/live/b04248c0-7ca8-11f1-ae7a-17343cbf3bfa.jpg",
-      "published": "7/10/2026, 10:37:20 PM",
-      "desc": "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway."
     }
   ],
   "tech": [
@@ -204,6 +212,14 @@
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
       "published": "7/11/2026, 12:08:51 AM",
       "desc": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up."
+    },
+    {
+      "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg",
+      "published": "7/10/2026, 9:39:00 PM",
+      "desc": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem."
     },
     {
       "title": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
@@ -222,28 +238,12 @@
       "desc": "Stop fucking things up just to shove more ads and algorithm nonsense into my face"
     },
     {
-      "title": "iPhone Ultra battery capacity leaks - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/iphone_ultra_battery_capacity_leaks-news-73674.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-battery-capacity/-952x498w6/gsmarena_000.jpg",
-      "published": "7/10/2026, 8:07:02 PM",
-      "desc": "It's smaller than the iPhone 18 Pro Max's. According to Digital Chat Station on Weibo, one of Apple's usual battery suppliers just had a pair of batteries..."
-    },
-    {
       "title": "These 10 Apps Let You Watch YouTube Without Ads - Lifehacker",
       "source": "Lifehacker.com",
       "url": "https://lifehacker.com/these-apps-let-you-skip-youtube-ads",
       "image": "https://lifehacker.com/imagery/articles/01HF2H81SVFE5ZY4VDE67PQKHP/hero-image.fill.size_1200x675.jpg",
       "published": "7/10/2026, 7:58:30 PM",
       "desc": "Skip all the annoying YouTube ads, once and for all."
-    },
-    {
-      "title": "A decade later, Pokémon Go finally made good on its original promise - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "published": "7/10/2026, 7:51:10 PM",
-      "desc": "Pokémon Go kicked off its 10th anniversary by turning its first trailer into wild in-person event."
     },
     {
       "title": "8 Incredible Speedruns You Have To Watch Right Now - Kotaku",
@@ -260,6 +260,14 @@
       "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/Honda-CB400-Super-Four-E-Clutch-3.webp",
       "published": "7/10/2026, 6:39:29 PM",
       "desc": "The brand revives a staple of its small-displacement portfolio, and it comes with the addition of approachable E-Clutch tech."
+    },
+    {
+      "title": "Report: Xbox Could Introduce Its Disc-to-Digital Game Conversion System Next Week - MP1st",
+      "source": "http://mp1st.com/category/news",
+      "url": "https://mp1st.com/news/report-xbox-could-introduce-its-disc-to-digital-game-conversion-system-next-week",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/xbox-logo-1.png",
+      "published": "7/10/2026, 6:36:08 PM",
+      "desc": "Microsoft could include its disc-to-digital game conversion system in next week's Xbox Insider update, according to Jez Corden."
     }
   ],
   "education": [
@@ -340,6 +348,15 @@
     },
     {
       "rank": 2,
+      "title": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
+    },
+    {
+      "rank": 3,
       "title": "Back to You (Radio Mix)",
       "artist": "Ricci G & Axxima",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/8d/d1/578dd1e4-7504-b47a-c90c-2158b5cabca1/cover.jpg/300x300bb.jpg",
@@ -348,22 +365,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ricci%20G%20%26%20Axxima%20Back%20to%20You%20(Radio%20Mix)"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Total Eclipse of the Heart",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
-    },
-    {
-      "rank": 4,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 5,
@@ -376,6 +384,15 @@
     },
     {
       "rank": 6,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
+      "rank": 7,
       "title": "Holding Out for a Hero",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
@@ -384,22 +401,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "It's a Heartache",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/a3/e7/e3a3e7b2-2bc1-5436-384a-559311c9ba7c/mzaf_3349608896113848569.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/its-a-heartache/1439423755?i=1439423832&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
-    },
-    {
-      "rank": 8,
-      "title": "Everything's Alright (feat. Kurt D)",
-      "artist": "Azteck & DJ Koko",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
     },
     {
       "rank": 9,
@@ -412,21 +420,21 @@
     },
     {
       "rank": 10,
+      "title": "Everything's Alright (feat. Kurt D)",
+      "artist": "Azteck & DJ Koko",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
+    },
+    {
+      "rank": 11,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 11,
-      "title": "Wonderwall (Remastered)",
-      "artist": "Oasis",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
     },
     {
       "rank": 12,
@@ -439,15 +447,6 @@
     },
     {
       "rank": 13,
-      "title": "Lost in France",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
-    },
-    {
-      "rank": 14,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
@@ -456,13 +455,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
     },
     {
+      "rank": 14,
+      "title": "Lost in France",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/d3/f3/acd3f361-0118-31f1-53ce-48e12e6f44ec/mzaf_14928233857825846391.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/lost-in-france/1439423755?i=1439423756&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Lost%20in%20France"
+    },
+    {
       "rank": 15,
-      "title": "Break Up in Reverse",
-      "artist": "Teddy Swims",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/ab/96/5fab9631-7175-db77-a854-d32582187cc3/054391214560.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/af/ea/aaafeada-1f59-c159-6ab6-e2fcba8d07c3/mzaf_18165436624107983196.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/break-up-in-reverse/6783599784?i=6783599785&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Teddy%20Swims%20Break%20Up%20in%20Reverse"
+      "title": "We're Telling 'Em (England 2026 World Cup Song)",
+      "artist": "Sonny Green",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/57/30/645730a2-34b6-bd12-886a-4407dc84767f/mzaf_6722992778494041183.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/were-telling-em-england-2026-world-cup-song/6786486790?i=6786486791&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
     }
   ],
   "movies": [
@@ -504,21 +512,21 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 6,
       "title": "Enola Holmes 3",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
       "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
       "url": "https://www.themoviedb.org/movie/1202033"
+    },
+    {
+      "rank": 6,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 7,
@@ -531,12 +539,12 @@
     },
     {
       "rank": 8,
-      "title": "The Sheep Detectives",
+      "title": "Michael",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "url": "https://www.themoviedb.org/movie/1301421"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 9,
@@ -549,15 +557,24 @@
     },
     {
       "rank": 10,
-      "title": "Michael",
+      "title": "The Sheep Detectives",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "url": "https://www.themoviedb.org/movie/1301421"
     },
     {
       "rank": 11,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 12,
       "title": "The Super Mario Galaxy Movie",
       "year": "2026",
       "cert": "PG",
