@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-11T08:42:00.662Z",
+  "lastUpdated": "2026-07-12T08:57:53.640Z",
   "stats": {
     "total": 365,
     "withCovers": 360,
     "withoutCovers": 5,
     "percentage": 99,
-    "newlyFetched": 0,
-    "alreadyCached": 365,
+    "newlyFetched": 2,
+    "alreadyCached": 363,
     "failed": 0,
-    "openLibrary": 0,
+    "openLibrary": 2,
     "googleBooks": 0
   },
   "books": {
@@ -1339,14 +1339,14 @@
       "day": 191,
       "title": "The Once and Future King",
       "author": "T.H. White",
-      "coverUrl": null,
+      "coverUrl": "https://covers.openlibrary.org/b/id/6630521-L.jpg",
       "source": "openlibrary"
     },
     "the-sword-in-the-stone-t-h--white": {
       "day": 192,
       "title": "The Sword in the Stone",
       "author": "T.H. White",
-      "coverUrl": null,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12387482-L.jpg",
       "source": "openlibrary"
     },
     "the-wizard-of-earthsea-ursula-k--le-guin": {
