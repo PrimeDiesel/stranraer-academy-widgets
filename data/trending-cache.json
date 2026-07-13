@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-13T06:21:45.091Z",
+  "updated": "2026-07-13T10:28:25.893Z",
   "news": [
+    {
+      "title": "Child killed in lorry collision in Chipping Ongar, Essex",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70y247vd2do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59bd/live/152abed0-382e-11f1-9ddc-c7cf70adab42.jpg",
+      "published": "7/12/2026, 10:37:22 AM",
+      "desc": "Detectives are appealing for any witnesses to get in touch."
+    },
+    {
+      "title": "Why Gen Z chilling red wine is socially acceptable, especially in the summer heat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzjlgr7zlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b056/live/662ab470-7c62-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/12/2026, 10:07:28 AM",
+      "desc": "Drinking a red at room temperature only is a common belief but the heatwave might have changed that."
+    },
+    {
+      "title": "Wonderwall - 'the perfect football song': Why England fans (like David Beckham) and players love singing Oasis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ff5/live/8e9f90c0-7dc4-11f1-85e2-618a4e9b93eb.jpg",
+      "published": "7/12/2026, 8:52:23 AM",
+      "desc": "David Beckham joined in with the latest Oasis singalong, following England's World Cup win in Miami."
+    },
+    {
+      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b30f/live/94143f60-7dba-11f1-beca-2b6190c460aa.jpg",
+      "published": "7/12/2026, 7:07:21 AM",
+      "desc": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says"
+    },
     {
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "source": "BBC News",
@@ -8,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
       "published": "7/12/2026, 6:07:25 AM",
       "desc": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?"
-    },
-    {
-      "title": "Typhoon Bavi: China's second major storm in a week makes landfall",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/12/2026, 6:07:22 AM",
-      "desc": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm."
     },
     {
       "title": "Newspaper headlines: 'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'",
@@ -40,33 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b716/live/fb297cd0-7c64-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/12/2026, 1:22:20 AM",
       "desc": "What is driving the UK's fall in healthy life expectancy?"
-    },
-    {
-      "title": "Bonnie Tyler superfan asked for an autograph then spent Christmas at her Mumbles home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29w2evv9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/846c/live/07c88d70-7c5e-11f1-b976-0b9c15b0ccfc.png",
-      "published": "7/11/2026, 11:52:21 PM",
-      "desc": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape."
-    },
-    {
-      "title": "Iran supreme leader calls for revenge after father's burial",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/11/2026, 9:07:25 PM",
-      "desc": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran."
-    },
-    {
-      "title": "TV presenter Dermot Murnaghan dies aged 68",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b17f/live/60d9a410-7d14-11f1-b61e-1b6852ddc42f.jpg",
-      "published": "7/11/2026, 11:22:26 AM",
-      "desc": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer."
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: England and Argentina's football rivalry",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c621y75w2x2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/14c2/live/c0979910-7ced-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/12/2026, 10:37:26 AM",
+      "desc": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry."
+    },
+    {
+      "title": "England vs India LIVE: Women's Test, Lord's, day three - cricket score, commentary & highlights",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/cj0vr4gp4mlt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba23/live/e1002340-7d59-11f1-bb02-7789df63090d.jpg",
+      "published": "7/12/2026, 9:52:24 AM",
+      "desc": "England face India in a one-off Women's Test at Lord's - follow live scores, radio commentary, video highlights and updates."
+    },
+    {
+      "title": "Jude Bellingham Perplexed By Coach Thomas Tuchel&#39;s Comments On England&#39;s Performance",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/jude-bellingham-perplexed-england-coach-thomas-tuchels-immediate-postgame-interview",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285694537-scaled.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 8:22:21 AM",
+      "desc": "Miscommunication? Not on the same page? Either way the Three Lions roared on and off the pitch on Saturday."
+    },
+    {
+      "title": "Bellingham Powers England: 4 Takeaways From Three Lions&#39; Win vs. Norway, Haaland",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-england-norway-jude-bellingham-haaland",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jude2-1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 8:22:19 AM",
+      "desc": "What we learned and can look forward to after England's win over Norway in Saturday's World Cup quarterfinal in Miami."
+    },
+    {
+      "title": "Senegal sack manager Pape Thiaw in wake of World Cup exit",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3690/live/d4ecac00-7dbc-11f1-ad4b-13d0aac581db.jpg",
+      "published": "7/12/2026, 7:37:22 AM",
+      "desc": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup."
+    },
+    {
+      "title": "England Coach Thomas Tuchel Happy With Result, Not Performance, vs. Norway",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/england-coach-thomas-tuchel-happy-result-not-performance-vs-norway",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/f39cfdc1-tuchel1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 7:22:28 AM",
+      "desc": "England coach Thomas Tuchel expected more out of his team in their 2-1 win over Norway on Saturday."
+    },
+    {
+      "title": "World Cup 2026: England to face Argentina in semi-finals - will Three Lions reach the final?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c621jnp2p63t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4e2a/live/f8b2dc60-7db5-11f1-bc79-2bad1c01c174.jpg",
+      "published": "7/12/2026, 6:22:21 AM",
+      "desc": "England beat Norway to set-up Argentina World Cup semi-final tie, with winner taking on either Spain or France in the final."
+    },
     {
       "title": "Wimbledon 2026: Jannik Sinner bids to retain men's title against Alexander Zverev",
       "source": "BBC Sport",
@@ -74,14 +130,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/058e/live/ce758420-7d5b-11f1-95e5-836a88eccb63.jpg",
       "published": "7/12/2026, 5:52:18 AM",
       "desc": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev."
-    },
-    {
-      "title": "England Coach Thomas Tuchel Happy With Result, Not Performance, vs. Norway",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-coach-thomas-tuchel-happy-result-not-performance-vs-norway",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/f39cfdc1-tuchel1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 5:52:18 AM",
-      "desc": "England coach Thomas Tuchel expected more out of his team in their 2-1 win over Norway on Saturday."
     },
     {
       "title": "England Hasn&#39;t Won The World Cup In 60 Years. Its Chance To Win Again Is Here Now.",
@@ -92,12 +140,12 @@
       "desc": "England is back in the semifinals for the second time in three World Cups — and this time, it doesn’t feel like an outlier."
     },
     {
-      "title": "World Cup 2026: England start Jude Bellingham hits heights with Messi next",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3aa/live/66ff3770-7d9f-11f1-a998-878927a5819d.jpg",
-      "published": "7/12/2026, 5:22:21 AM",
-      "desc": "Jude Bellingham against dazzled England and the World Cup with his brilliance, matching some records of the all-time records."
+      "title": "Switzerland furious as Embolo gets red card for diving after VAR review - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49339724/switzerland-breel-embolo-red-card-diving-var-argentina-2026-world-cup",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688116_1296x729_16%2D9.jpg",
+      "published": "7/12/2026, 5:22:00 AM",
+      "desc": "Switzerland forward Breel Embolo was sent off in the second half of a World Cup quarterfinal match with Argentina on Saturday night after a video review showed he was guilty of simulation."
     },
     {
       "title": "McGregor vs Holloway 2: Conor McGregor injured 69 seconds into UFC comeback",
@@ -124,36 +172,12 @@
       "desc": "Here are my four takeaways from a quarterfinal that had everything, including a red card we'll argue about for weeks."
     },
     {
-      "title": "UFC 329: Paddy Pimblett makes title claim with 52-second win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5yznne9l70o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0408/live/870f3210-7da2-11f1-a049-155ea2296701.jpg",
-      "published": "7/12/2026, 4:52:22 AM",
-      "desc": "Liverpool's Paddy Pimblett submits Benoit Saint-Denis in just 52 seconds at UFC 329 to strengthen his claim for a lightweight title shot."
-    },
-    {
       "title": "World Cup 2026: Breel Embolo sent off as result of mistaken identity rule",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg",
       "published": "7/12/2026, 4:52:19 AM",
       "desc": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup."
-    },
-    {
-      "title": "2026 World Cup Golden Boot Odds: Jude Bellingham Skyrockets After Brace",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285682386-scaled.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 4:37:25 AM",
-      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds."
-    },
-    {
-      "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/ddb1e04c-artboard-1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 4:37:24 AM",
-      "desc": "We're tracking all the scores and results at the FIFA 2026 World Cup."
     },
     {
       "title": "Best World Cup Goals: The Top 50 Goals Of The Tournament So Far",
@@ -186,33 +210,17 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284795766-scaled.jpg?ve=1&tl=1",
       "published": "7/12/2026, 4:37:22 AM",
       "desc": "The 2026 FIFA World Cup semifinals are now set. Check out the latest odds for the two matchups."
-    },
-    {
-      "title": "McGregor injures leg on opening kick vs. Holloway at UFC 329 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688129_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 4:11:25 AM",
-      "desc": "Conor McGregor's much anticipated UFC return came to a crashing halt Saturday when he injured his leg in the opening seconds of his fight with Max Holloway and was forced to retire after just 69 seconds."
-    },
-    {
-      "title": "Argentina survive Switzerland to book semifinal with England - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49339687/argentina-switzerland-2026-world-cup-julian-alvarez-england",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688133_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 3:58:00 AM",
-      "desc": "Julián Álvarez sent defending champions Argentina into the World Cup semifinals with an extra-time goal against Switzerland."
-    },
-    {
-      "title": "World Cup 2026: Tuchel fumes at 'lucky' and 'sloppy' England – can 'pure mentality' be enough?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg474ekv58o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e625/live/812ffc70-7d99-11f1-9750-97a471ba3018.jpg",
-      "published": "7/12/2026, 3:37:29 AM",
-      "desc": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway – but match-winner Jude Bellingham disagrees."
     }
   ],
   "tech": [
+    {
+      "title": "Spyro: A Realm Beyond dev explains why it’s not Spyro 4 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/spyro-a-realm-beyond-dev-explains-why-its-not-spyro-4-plus-lots-of-new-details/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Why-Spyro-a-Realm-Beyond-isnt-Spyro-4.jpg",
+      "published": "7/12/2026, 4:04:40 AM",
+      "desc": "Spyro is finally back with a brand new game with next year’s A Realm Beyond, but it technically isn’t Spyro 4 – at least in name. Toys for Bob recently commented on the naming decision. You may remember that when Crash Bandicoot was brought back with a brand …"
+    },
     {
       "title": "What Smart Glasses Can (and Can't) Do: I Wore the Top Models So You Don't Have To - PCMag",
       "source": "PCMag.com",
@@ -228,6 +236,14 @@
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/11/2026, 11:58:40 PM",
       "desc": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m."
+    },
+    {
+      "title": "Skip Pyrex: The Antique Dishware You Can Find At Thrift Stores That's A 'True Collector's Jewel' - House Digest",
+      "source": "Housedigest.com",
+      "url": "https://www.housedigest.com/2210412/skip-pyrex-antique-dishware-le-creuset-duck-terrine-thrift-stores/",
+      "image": "https://www.housedigest.com/img/gallery/skip-pyrex-the-antique-dishware-you-can-find-at-thrift-stores-thats-a-true-collectors-jewel/l-intro-1783514819.jpg",
+      "published": "7/11/2026, 11:40:00 PM",
+      "desc": "The Le Creuset Dutch Oven Terrine is unique. Shaped like a duck and no longer in production, this piece is a rare and interesting twist on plain cookware."
     },
     {
       "title": "Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com",
@@ -246,36 +262,20 @@
       "desc": "As part of a wide-ranging Famitsu interview with SEGA, president Shuji Utsumi touched upon a number of different topics, including Sonic the Hedgehog. The Japanese magazine published a lengthy discussion with the executive in this week’s issue. During their t…"
     },
     {
+      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
+      "image": "https://assets-prd.ignimgs.com/2026/07/11/wf-taudemo-screenshot-vessel-3840x2160-1783788758094.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/11/2026, 10:00:57 PM",
+      "desc": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe."
+    },
+    {
       "title": "4 Car Brands Bringing Back The Inline-6 Engine - SlashGear",
       "source": "SlashGear",
       "url": "https://www.slashgear.com/2209382/car-brands-bringing-back-inline-6-engine/",
       "image": "https://www.slashgear.com/img/gallery/4-car-brands-bringing-back-the-inline-6-engine/l-intro-1783425220.jpg",
       "published": "7/11/2026, 9:45:00 PM",
       "desc": "Discover 4 car brands bringing back the inline-6 engine. We review how automakers like Mazda, Stellantis, Mercedes-Benz, and Land Rover use the tech."
-    },
-    {
-      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’ - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "7/11/2026, 8:57:42 PM",
-      "desc": "Three years after becoming a viral sensation, the Nopia harmony machine synth will be out by the end of the year for ‘around £550.’"
-    },
-    {
-      "title": "July 14 is Officially the End of an Era for GTA Online - GameRant",
-      "source": "GameRant",
-      "url": "https://gamerant.com/gta-online-final-update-kortz-center-heist/",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/gta-online-end-of-an-era.jpg?w=1600&h=900&fit=crop",
-      "published": "7/11/2026, 8:30:15 PM",
-      "desc": "The wildly popular multiplayer game Grand Theft Auto Online is inching ever closer to the end of an era."
-    },
-    {
-      "title": "Koei Tecmo talks Pokemon Pokopia, wanted to make the best-selling Pokemon spin-off - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/koei-tecmo-talks-pokemon-pokopia-wanted-to-make-the-best-selling-pokemon-spin-off/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Pokopia-Koei-Tecmo-sales-hopes.jpg",
-      "published": "7/11/2026, 8:18:49 PM",
-      "desc": "Koei Tecmo has shared a few comments about Pokemon Pokopia’s massive success, including some lofty sales hopes the company had back when it was working on the project. Famitsu recently spoke with Koei Tecmo president and CEO Hisashi Koinuma in a wide-ranging …"
     }
   ],
   "education": [
@@ -446,21 +446,21 @@
     },
     {
       "rank": 12,
-      "title": "Forever Right Now",
-      "artist": "JERUB",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
-    },
-    {
-      "rank": 13,
       "title": "We're Telling 'Em (England 2026 World Cup Song)",
       "artist": "Sonny Green",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/57/30/645730a2-34b6-bd12-886a-4407dc84767f/mzaf_6722992778494041183.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/were-telling-em-england-2026-world-cup-song/6786486790?i=6786486791&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
+    },
+    {
+      "rank": 13,
+      "title": "Forever Right Now",
+      "artist": "JERUB",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/59/e9/5b59e9ac-7d47-3924-d6b8-56a541682326/5037300017068.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/77/6d/4b776d94-f1db-a0c6-e8ff-c564defbe74e/mzaf_4055095506953244121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/forever-right-now/6782915498?i=6782915500&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=JERUB%20Forever%20Right%20Now"
     },
     {
       "rank": 14,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
@@ -493,15 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 3,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -510,13 +501,22 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 5,
@@ -529,15 +529,6 @@
     },
     {
       "rank": 6,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 7,
       "title": "Enola Holmes 3",
       "year": "2026",
       "cert": "12",
@@ -546,7 +537,7 @@
       "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -555,25 +546,25 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 9,
-      "title": "The Super Mario Galaxy Movie",
+      "rank": 8,
+      "title": "Michael",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "url": "https://www.themoviedb.org/movie/1226863"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "The Sheep Detectives",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/TEaSqmI6TZQVimULYbingDIdXT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "url": "https://www.themoviedb.org/movie/1301421"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
