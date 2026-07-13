@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-13T02:54:23.184Z",
+  "updated": "2026-07-13T06:21:45.091Z",
   "news": [
     {
-      "title": "Prince Harry talks grief, stress and loss in final event of UK trip",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8eee/live/af1b8750-7d3d-11f1-8417-c9f35e2ce384.jpg",
-      "published": "7/12/2026, 2:37:24 AM",
-      "desc": "The Duke of Sussex rounded off his visit by meeting bereaved children and young people - and doing yoga with goats."
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
+      "published": "7/12/2026, 6:07:25 AM",
+      "desc": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?"
+    },
+    {
+      "title": "Typhoon Bavi: China's second major storm in a week makes landfall",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/12/2026, 6:07:22 AM",
+      "desc": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm."
     },
     {
       "title": "Newspaper headlines: 'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'",
@@ -42,14 +50,6 @@
       "desc": "Rob Marshall's friendship with Tyler began when he knocked on her door to ask her to sign a tape."
     },
     {
-      "title": "Rachel Reeves: Andy Burnham needs a worked-through plan to govern",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4172/live/943434a0-7d24-11f1-ba31-ed66fa13cdef.jpg",
-      "published": "7/11/2026, 10:07:25 PM",
-      "desc": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM."
-    },
-    {
       "title": "Iran supreme leader calls for revenge after father's burial",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo",
@@ -68,151 +68,159 @@
   ],
   "sports": [
     {
-      "title": "Was England The Better Team Or Was It Lucky In Its Win vs. Norway?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-better-team-lucky-its-win-vs-norway",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jude-bellingham-harry-kane.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 2:37:23 AM",
-      "desc": "Kasper Schmeichel thinks England got lucky in its win over Norway."
-    },
-    {
-      "title": "Norway Coach Defends Decision To Sub Erling Haaland Off vs. England",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/other/norway-coach-defends-decision-sub-erling-haaland-off-vs-england",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/haaaa.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 2:37:21 AM",
-      "desc": "Erling Haaland’s day ended earlier than many expected. About 15 minutes later, Norway’s run in the World Cup ended as well."
-    },
-    {
-      "title": "World Cup 2026: Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+      "title": "Wimbledon 2026: Jannik Sinner bids to retain men's title against Alexander Zverev",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cd95335dp10o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d256/live/cce243b0-7d8c-11f1-bc93-cb7def7b7e6e.jpg",
-      "published": "7/12/2026, 2:37:21 AM",
-      "desc": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted."
-    },
-    {
-      "title": "Brewers Ace Jacob Misiorowski To Miss All-Star Game Due To Arm Fatigue",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/brewers-ace-jacob-misiorowski-scratched-from-scheduled-start-on-sunday-will-miss-the-allstar-game",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/jacob_mis_horizontal.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 2:37:17 AM",
-      "desc": "Milwaukee Brewers right-hander Jacob Misiorowski will miss the All-Star Game on Tuesday night due to arm fatigue."
-    },
-    {
-      "title": "Jude Bellingham backs England stars after Thomas Tuchel criticism - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49338957/jude-bellingham-england-thomas-tuchel-criticism",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688058_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 2:28:00 AM",
-      "desc": "Jude Bellingham praised England's fighting spirit and ability to \"win dirty\" after coach Thomas Tuchel criticized their performance in beating Norway on Saturday."
-    },
-    {
-      "title": "McGregor vs Holloway 2 LIVE: UFC 329 fight UK time, ring walk, undercard, results & text commentary",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/live/c62142d18xqt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c28d/live/3846fe70-7d92-11f1-b0c0-b9b367ec5905.jpg",
-      "published": "7/12/2026, 2:22:23 AM",
-      "desc": "Follow live text updates from UFC 329 from Paddy Pimblett vs Benoit Saint-Denis before Conor McGregor vs Max Holloway in their rematch in Las Vegas."
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/058e/live/ce758420-7d5b-11f1-95e5-836a88eccb63.jpg",
+      "published": "7/12/2026, 5:52:18 AM",
+      "desc": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev."
     },
     {
       "title": "England Coach Thomas Tuchel Happy With Result, Not Performance, vs. Norway",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/england-coach-thomas-tuchel-happy-result-not-performance-vs-norway",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/f39cfdc1-tuchel1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 2:07:24 AM",
+      "published": "7/12/2026, 5:52:18 AM",
       "desc": "England coach Thomas Tuchel expected more out of his team in their 2-1 win over Norway on Saturday."
     },
     {
-      "title": "Cristopher Sanchez returns to All-Star form in Phillies' win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49339440/cristopher-sanchez-returns-all-star-form-phillies-win",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688082_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 2:02:53 AM",
-      "desc": "Rebounding from a start in which he allowed a career-worst nine earned runs in just 3 1/3 innings Monday, All-Star Cristopher Sanchez struck out seven in seven innings, as the Phillies ended the Tigers' six-game winning streak with a 4-2 victory Saturday."
+      "title": "England Hasn&#39;t Won The World Cup In 60 Years. Its Chance To Win Again Is Here Now.",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/england-world-cup-semifinals-argentina-quarterfinals-norway",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/c222881a-artboard-1-5.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 5:37:19 AM",
+      "desc": "England is back in the semifinals for the second time in three World Cups — and this time, it doesn’t feel like an outlier."
     },
     {
-      "title": "Norway 1-2 England: Jude Bellingham scores twice as Three Lions reach World Cup semi-final",
+      "title": "World Cup 2026: England start Jude Bellingham hits heights with Messi next",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cgl33l55100t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b567/live/cdc2a050-7d86-11f1-b0e9-ab2be9f135bc.jpg",
-      "published": "7/12/2026, 1:22:26 AM",
-      "desc": "Jude Bellingham scores twice as England beat Norway to reach the World Cup semi-finals, which you can watch live on BBC One on Wednesday."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3aa/live/66ff3770-7d9f-11f1-a998-878927a5819d.jpg",
+      "published": "7/12/2026, 5:22:21 AM",
+      "desc": "Jude Bellingham against dazzled England and the World Cup with his brilliance, matching some records of the all-time records."
     },
     {
-      "title": "Steveson dominates Ellison, earns first-round TKO in UFC debut - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49338746/steveson-dominates-ellison-earns-first-round-tko-ufc-debut",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688045_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 12:43:16 AM",
-      "desc": "Gable Steveson flashed some skills on the feet and didn't require a single takedown in his first-round TKO win over Elisha Ellison on Saturday in his UFC debut."
-    },
-    {
-      "title": "Argentina vs. Switzerland Live Updates, Score: Latest World Cup News And Goals",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/soccer/argentina-vs-switzerland-live-updates-score-latest-world-cup-news-goals",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1noreng-1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 12:37:26 AM",
-      "desc": "Follow Argentina vs. Switzerland live at the 2026 FIFA World Cup. Real-time score updates, key plays, and match analysis as it happens."
-    },
-    {
-      "title": "2026 World Cup Title Odds: England Surges After Win Over Norway",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285682273-scaled.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 12:37:24 AM",
-      "desc": "Here are the latest odds to win the 2026 FIFA World Cup after England's quarterfinal win over Norway."
-    },
-    {
-      "title": "From Birmingham To The World Cup: How Jude Bellingham Became An England Hero",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/from-birmingham-world-cup-how-jude-bellingham-became-england-hero",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/4960cdd5-jude1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 12:37:22 AM",
-      "desc": "Jude Bellingham, the young boy who got his start at Birmingham City, is now on top of the football world with Real Madrid and the England national team."
-    },
-    {
-      "title": "Seattle Seahawks Reportedly To Be Sold For Record $9.612B",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/khosia-family-agrees-to-purchase-defending-super-bowl-champion-seattle-for-9612b-ap-source-says",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/darnold-1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 12:37:20 AM",
-      "desc": "The Khosia family ownership group, including Vinod Khosia, has entered into a formal agreement to purchase the defending Super Bowl champion Seattle Seahawks."
-    },
-    {
-      "title": "Jacob Misiorowski won't start Sunday, will miss All-Star Game - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49338545/jacob-misiorowski-start-sunday-miss-all-star-game",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688040_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 12:25:10 AM",
-      "desc": "Brewers right-hander Jacob Misiorowski has been scratched from his scheduled start against the Pirates on Sunday because of arm fatigue and will also miss the All-Star Game on Tuesday night in Philadelphia."
-    },
-    {
-      "title": "Argentina vs Switzerland: FIFA World Cup live updates, stats & head-to-head",
+      "title": "McGregor vs Holloway 2: Conor McGregor injured 69 seconds into UFC comeback",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c4gyj35k3n3t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a754/live/f31b0ca0-7d83-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/12/2026, 12:22:21 AM",
-      "desc": "Follow live text commentary, score updates and match stats from Argentina vs Switzerland in the FIFA World Cup"
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c9w2zgpnrqeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f75/live/24d9d340-7daf-11f1-9b61-ab1eb46ffb8a.jpg",
+      "published": "7/12/2026, 5:07:20 AM",
+      "desc": "Conor McGregor's return to the octagon against Max Holloway at UFC 329 lasts just 69 seconds after the Irishman suffers a knee injury."
     },
     {
-      "title": "Jude Bellingham Scores Twice To Send England To World Cup Semifinals Over Norway",
+      "title": "World Cup 2026:",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e15f/live/51875550-7d52-11f1-8dd5-cdcf1477b2dd.jpg",
+      "published": "7/12/2026, 5:07:19 AM",
+      "desc": "World Cup 2026:"
+    },
+    {
+      "title": "Ugly Wins Still Count: 4 Takeaways From Argentina&#39;s Latest Close Call vs. Switzerland",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-vs-norway-highlights-jude-bellingham-brace-2026-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/bellingham1.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 12:22:18 AM",
-      "desc": "England is through to the 2026 FIFA World Cup semifinals following a hard-fought 2-0 win over Norway on Saturday at Miami Stadium."
+      "url": "https://www.foxsports.com/stories/soccer/ugly-wins-still-count-4-takeaways-from-argentinas-latest-close-call-vs-switzerland",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/d96958ff-takeaways1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 5:07:19 AM",
+      "desc": "Here are my four takeaways from a quarterfinal that had everything, including a red card we'll argue about for weeks."
     },
     {
-      "title": "FIFA denies ball hit wire in England's first goal vs. Norway - ESPN",
+      "title": "UFC 329: Paddy Pimblett makes title claim with 52-second win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5yznne9l70o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0408/live/870f3210-7da2-11f1-a049-155ea2296701.jpg",
+      "published": "7/12/2026, 4:52:22 AM",
+      "desc": "Liverpool's Paddy Pimblett submits Benoit Saint-Denis in just 52 seconds at UFC 329 to strengthen his claim for a lightweight title shot."
+    },
+    {
+      "title": "World Cup 2026: Breel Embolo sent off as result of mistaken identity rule",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg",
+      "published": "7/12/2026, 4:52:19 AM",
+      "desc": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup."
+    },
+    {
+      "title": "2026 World Cup Golden Boot Odds: Jude Bellingham Skyrockets After Brace",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285682386-scaled.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:25 AM",
+      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds."
+    },
+    {
+      "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/ddb1e04c-artboard-1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:24 AM",
+      "desc": "We're tracking all the scores and results at the FIFA 2026 World Cup."
+    },
+    {
+      "title": "Best World Cup Goals: The Top 50 Goals Of The Tournament So Far",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/best-world-cup-goals-top-50-goals-tournament-so-far",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1story-1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:23 AM",
+      "desc": "Here are the best goals of the World Cup so far."
+    },
+    {
+      "title": "2026 World Cup Odds: France, Argentina Favored For Finals Rematch",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/12/1408/814/gettyimages-1450091836-scaled.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:23 AM",
+      "desc": "France leads the oddsboard, but Argentina continues to rise. Check out the latest odds to reach the World Cup final."
+    },
+    {
+      "title": "Zack Wheeler Felt &#39;Disrespected&#39; By All-Star Game Invitation As Replacement",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/zack-wheeler-declines-all-star-game-invitation",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/wheeler-1.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:22 AM",
+      "desc": "Philadelphia Phillies starting pitcher Zack Wheeler has declined an invitation to join the National League All-Star roster as a replacement player."
+    },
+    {
+      "title": "2026 World Cup Semifinal Odds: France, Argentina Favored In Final Four Tilts",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-which-nations-favored-reach-semifinals",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284795766-scaled.jpg?ve=1&tl=1",
+      "published": "7/12/2026, 4:37:22 AM",
+      "desc": "The 2026 FIFA World Cup semifinals are now set. Check out the latest odds for the two matchups."
+    },
+    {
+      "title": "McGregor injures leg on opening kick vs. Holloway at UFC 329 - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49337953/england-norway-world-cup-goal-ball-camera-cable-jude-bellingham",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1688017_1296x729_16%2D9.jpg",
-      "published": "7/11/2026, 11:20:41 PM",
-      "desc": "A goal kick appeared to clip a wire over the field shortly before England's Jude Bellingham scored the tying goal against Norway in the World Cup quarterfinals on Saturday."
+      "url": "https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688129_1296x729_16%2D9.jpg",
+      "published": "7/12/2026, 4:11:25 AM",
+      "desc": "Conor McGregor's much anticipated UFC return came to a crashing halt Saturday when he injured his leg in the opening seconds of his fight with Max Holloway and was forced to retire after just 69 seconds."
+    },
+    {
+      "title": "Argentina survive Switzerland to book semifinal with England - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49339687/argentina-switzerland-2026-world-cup-julian-alvarez-england",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688133_1296x729_16%2D9.jpg",
+      "published": "7/12/2026, 3:58:00 AM",
+      "desc": "Julián Álvarez sent defending champions Argentina into the World Cup semifinals with an extra-time goal against Switzerland."
+    },
+    {
+      "title": "World Cup 2026: Tuchel fumes at 'lucky' and 'sloppy' England – can 'pure mentality' be enough?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckg474ekv58o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e625/live/812ffc70-7d99-11f1-9750-97a471ba3018.jpg",
+      "published": "7/12/2026, 3:37:29 AM",
+      "desc": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway – but match-winner Jude Bellingham disagrees."
     }
   ],
   "tech": [
+    {
+      "title": "What Smart Glasses Can (and Can't) Do: I Wore the Top Models So You Don't Have To - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/explainers/what-smart-glasses-can-and-cant-do-i-wore-top-models-so-you-dont-have-to",
+      "image": "https://i.pcmag.com/imagery/articles/06bcTjEOqGYDozTJwG1ffmQ-1.fit_lim.size_1200x630.v1783779021.jpg",
+      "published": "7/12/2026, 2:14:35 AM",
+      "desc": "From AI assistants and built-in cameras to AR displays and wearable private screens, smart glasses come in more flavors than you might think. After testing every major type, here's how they differ—and which features actually matter."
+    },
     {
       "title": "T. rex fossil could become most expensive dinosaur ever sold - BBC",
       "source": "BBC News",
@@ -222,12 +230,28 @@
       "desc": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m."
     },
     {
-      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
-      "image": "https://assets-prd.ignimgs.com/2026/07/11/wf-taudemo-screenshot-vessel-3840x2160-1783788758094.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/11/2026, 10:00:57 PM",
-      "desc": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe."
+      "title": "Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com",
+      "source": "NASCAR",
+      "url": "https://www.nascar.com/news-media/2026/07/11/craftsman-truck-series-2026-lime-rock-layne-riggs-kaden-honeycutt/",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/07/11/2026-july11-riggs-honeycutt-lime-rock-1-main-image-672x372.jpg",
+      "published": "7/11/2026, 11:07:47 PM",
+      "desc": "Kaden Honeycutt and Layne Riggs both clinched Chase spots, but their Saturday went sideways in a late restart at Lime Rock Park."
+    },
+    {
+      "title": "SEGA talks importance of Sonic, failing to reach its goal, wanted new game to sell more - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/sega-president-talks-sonic/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/SEGA-president-Sonic-the-Hedgehog-interview.jpg",
+      "published": "7/11/2026, 10:03:51 PM",
+      "desc": "As part of a wide-ranging Famitsu interview with SEGA, president Shuji Utsumi touched upon a number of different topics, including Sonic the Hedgehog. The Japanese magazine published a lengthy discussion with the executive in this week’s issue. During their t…"
+    },
+    {
+      "title": "4 Car Brands Bringing Back The Inline-6 Engine - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2209382/car-brands-bringing-back-inline-6-engine/",
+      "image": "https://www.slashgear.com/img/gallery/4-car-brands-bringing-back-the-inline-6-engine/l-intro-1783425220.jpg",
+      "published": "7/11/2026, 9:45:00 PM",
+      "desc": "Discover 4 car brands bringing back the inline-6 engine. We review how automakers like Mazda, Stellantis, Mercedes-Benz, and Land Rover use the tech."
     },
     {
       "title": "After years of teasing, the viral Nopia synth is ‘basically finished’ - The Verge",
@@ -238,44 +262,20 @@
       "desc": "Three years after becoming a viral sensation, the Nopia harmony machine synth will be out by the end of the year for ‘around £550.’"
     },
     {
-      "title": "AI is changing modern dating, but experts warn it's making people 'relationally stupid' - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/WOMAN-PHONE-SMILING.jpg",
-      "published": "7/11/2026, 7:00:08 PM",
-      "desc": "Relationship experts warn that using ChatGPT for dating profiles and texting is making people \"relationally stupid\" and unable to show up authentically."
+      "title": "July 14 is Officially the End of an Era for GTA Online - GameRant",
+      "source": "GameRant",
+      "url": "https://gamerant.com/gta-online-final-update-kortz-center-heist/",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/gta-online-end-of-an-era.jpg?w=1600&h=900&fit=crop",
+      "published": "7/11/2026, 8:30:15 PM",
+      "desc": "The wildly popular multiplayer game Grand Theft Auto Online is inching ever closer to the end of an era."
     },
     {
-      "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
-      "image": "https://images.pushsquare.com/7e56920a966ab/large.jpg",
-      "published": "7/11/2026, 6:45:00 PM",
-      "desc": "Oh, BlOps it"
-    },
-    {
-      "title": "The problem with drinking too much water - Pittsburgh Post-Gazette",
-      "source": "Pittsburgh Post-Gazette",
-      "url": "https://www.post-gazette.com/news/health/2026/07/11/exercise-associated-hyponatremia/stories/202607120001",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202607120001/1140x_a10-7_cTC/20240818JGJeffMorgantab09_1783443802.jpg",
-      "published": "7/11/2026, 5:12:51 PM",
-      "desc": "False"
-    },
-    {
-      "title": "Chasing Perfection – The Unfair Reality of the Pokemon TCG - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/?p=321803",
-      "image": "https://www.pokebeach.com/news/2026/07/smp.SM191.mewtwo_mew_gx.jpg",
-      "published": "7/11/2026, 5:01:04 PM",
-      "desc": "Hey PokeBeach readers! It’s Michael and I am happy to be back with another article.  With the conclusion of the North American International"
-    },
-    {
-      "title": "Woman Says Boyfriend Accidentally Revealed Dating Apps While Screen Sharing: “Tell Me Why Hinge Was There” - Yahoo",
-      "source": "The Daily Dot",
-      "url": "https://dailydot.com/woman-says-boyfriend-accidentally-revealed-dating-apps-while-screen-sharing-tell-me-why-hinge-was-there/",
-      "image": "https://s.yimg.com/lo/mysterio/api/9be5316f7c40c2d9d26fab422f75246500efb4d426ff9c356079f4bfeb405b73/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F523e7a2f042b2511787f9ee146fcb847",
-      "published": "7/11/2026, 5:00:36 PM",
-      "desc": "A Reddit user says she discovered dating apps on her boyfriend’s phone after he accidentally shared his screen during a FaceTime call. The woman shared on Re..."
+      "title": "Koei Tecmo talks Pokemon Pokopia, wanted to make the best-selling Pokemon spin-off - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/koei-tecmo-talks-pokemon-pokopia-wanted-to-make-the-best-selling-pokemon-spin-off/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Pokopia-Koei-Tecmo-sales-hopes.jpg",
+      "published": "7/11/2026, 8:18:49 PM",
+      "desc": "Koei Tecmo has shared a few comments about Pokemon Pokopia’s massive success, including some lofty sales hopes the company had back when it was working on the project. Famitsu recently spoke with Koei Tecmo president and CEO Hisashi Koinuma in a wide-ranging …"
     }
   ],
   "education": [
@@ -401,21 +401,21 @@
     },
     {
       "rank": 7,
-      "title": "Three Lions",
-      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
-    },
-    {
-      "rank": 8,
       "title": "Holding Out for a Hero",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
+    },
+    {
+      "rank": 8,
+      "title": "Three Lions",
+      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
     },
     {
       "rank": 9,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Midnight Sun",
-      "artist": "Zara Larsson",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/bb/60/59bb60aa-1a0b-ff4c-3343-d7cb9e7d375a/mzaf_16759827430963483039.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/midnight-sun/1817499239?i=1817499251&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Zara%20Larsson%20Midnight%20Sun"
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     }
   ],
   "movies": [
@@ -493,21 +493,21 @@
     },
     {
       "rank": 2,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 3,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 3,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 4,
@@ -556,6 +556,15 @@
     },
     {
       "rank": 9,
+      "title": "The Super Mario Galaxy Movie",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "url": "https://www.themoviedb.org/movie/1226863"
+    },
+    {
+      "rank": 10,
       "title": "The Sheep Detectives",
       "year": "2026",
       "cert": "PG",
@@ -564,7 +573,7 @@
       "url": "https://www.themoviedb.org/movie/1301421"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
