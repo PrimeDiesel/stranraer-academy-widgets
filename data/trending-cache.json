@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-14T18:04:53.021Z",
+  "updated": "2026-07-14T19:39:51.773Z",
   "news": [
     {
-      "title": "Over half of adults with learning difficulties do not live past 65, report says",
+      "title": "Judge voids Donald Trump's 'improper' $1.8b IRS settlement that gave him immunity from tax audits",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnv949z75jmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f62d/live/f1bbdb30-7eca-11f1-b647-d1fc061ff3d0.jpg",
-      "published": "7/13/2026, 5:52:23 PM",
-      "desc": "The government says the findings are stark, while a campaign group says they should be \"headline news\"."
+      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/468c/live/a01b76f0-7ede-11f1-84b4-d5196cc76857.jpg",
+      "published": "7/13/2026, 7:22:22 PM",
+      "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action."
+    },
+    {
+      "title": "Burnham cements Labour leadership with backing of 349 MPs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a8a/live/7d121e00-7ed1-11f1-84b4-d5196cc76857.jpg",
+      "published": "7/13/2026, 6:37:23 PM",
+      "desc": "The MP for Makerfield is on track to become the prime minister next week after receiving the support of the vast majority of Labour MPs."
     },
     {
       "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to walk to safety",
@@ -32,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e86/live/076e2020-7ec9-11f1-af40-3101fe5a127d.jpg",
       "published": "7/13/2026, 4:52:22 PM",
       "desc": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China."
-    },
-    {
-      "title": "Pilot writes 'I'm bored' in sky during flight from Liverpool",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5vx19ey0wo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e72/live/c0f3a990-7e9f-11f1-b62f-ff1d7cedfbfe.png",
-      "published": "7/13/2026, 3:52:19 PM",
-      "desc": "The pilot's mischievous flight path was noticed by plane spotters on the flightradar24 tracking app"
     },
     {
       "title": "Ballymena: Three people found dead in house",
@@ -68,60 +68,132 @@
   ],
   "sports": [
     {
-      "title": "2026 World Cup Title Odds: France Favored, England Surges After Quarterfinals",
+      "title": "All 5 Times Lamine Yamal Has Beaten Kylian Mbappé In Elimination Matches",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285579810-scaled.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:52:29 PM",
-      "desc": "Here are the latest odds to win the 2026 FIFA World Cup heading into the semifinals."
+      "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mbappe1-2.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 7:52:23 PM",
+      "desc": "Lamine Yamal might have a mental advantage over Kylian Mbappé going into their meeting in the 2026 FIFA World Cup semifinals."
     },
     {
-      "title": "2026 World Cup Golden Boot Odds: Mbappé Favored; Bellingham In The Mix",
+      "title": "Top 10 MLB All-Star Game Moments Since 2000, From Ichiro To Mike Trout",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285682386-scaled.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:52:24 PM",
-      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds heading into the semifinals."
+      "url": "https://www.foxsports.com/stories/mlb/top-10-mlb-all-star-game-moments",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 7:52:20 PM",
+      "desc": "Here are the best moments from the MLB All-Star Game since 2000, headlined by Cal Ripken Jr. and Torii Hunter."
     },
     {
-      "title": "2026 World Cup Odds: France, England Favored For Finals Showdown",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284675480.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:52:19 PM",
-      "desc": "Check out the latest odds to reach the World Cup final."
+      "title": "Walker Kessler says he'll 'run through a brick wall' for Lakers - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49352392/walker-kessler-says-run-brick-wall-lakers",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688798_1024x576_16%2D9.jpg",
+      "published": "7/13/2026, 7:32:02 PM",
+      "desc": "Walker Kessler, who will have a clean bill of health to start next season, said he will \"run through a brick wall\" for the Lakers after they committed both money and assets toward acquiring him."
     },
     {
-      "title": "2026 MLB Power Rankings: Where Every Team Stands Entering The All-Star Break",
+      "title": "Inside The Garage: Where There&#39;s Beef, There&#39;s Fire In Cup Series",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-power-rankings-where-every-team-stands-all-star-break",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/schwarber-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:37:36 PM",
-      "desc": "Kyle Schwarber and the Phillies have powered their way into our top five as they prepare to host the MLB All-Star Game on Tuesday."
+      "url": "https://www.foxsports.com/stories/nascar/nascar-cup-garage-hocevar-van-gisbergen",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-19-1.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 7:22:26 PM",
+      "desc": "It’s hot in the summer. It’s also hot in the NASCAR garage with plenty of drivers beefing with each other."
     },
     {
-      "title": "Spain vs. France Combined XI: Mbappé, Yamal Lead Star-Studded Team",
+      "title": "Expert World Cup Predictions For France-Spain, England-Argentina Semifinals",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-france-world-cup-combined-xi-mbappe-yamal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9esp-fra-xi-2.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:37:27 PM",
-      "desc": "Ahead of Spain and France’s World Cup semifinal, we picked a combined XI featuring Kylian Mbappé, Lamine Yamal, Michael Olise and Rodri."
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-predictions-semifinals-france-spain-argentina-england",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1arg-1.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 7:22:25 PM",
+      "desc": "Our World Cup experts make their picks for France-Spain and England-Argentina in the semifinals."
     },
     {
-      "title": "4 Takeaways From Ryan Blaney&#39;s Epic Late-Night Win At Atlanta",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/4-takeaways-from-ryan-blaney-late-night-win-atlanta",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ryan-blaney_nascar_horizontal_takeaways_atl.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 5:37:22 PM",
-      "desc": "Ryan Blaney came out on top with a gutsy victory after NASCAR's long, rainy night in Georgia."
+      "title": "Bryce Harper denies giving FanDuel consent for video to customer - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49352243/bryce-harper-denies-giving-fanduel-consent-video-customer",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1009%2Fr1398546_1296x729_16%2D9.jpg",
+      "published": "7/13/2026, 6:48:30 PM",
+      "desc": "Phillies star Bryce Harper said Monday that he did not know how FanDuel would use a personalized video he made for a customer, who has since accused the sportsbook in a lawsuit of taking advantage of his gambling addiction."
     },
     {
-      "title": "Andoni Iraola: Liverpool boss wants to give fans 'team to be proud of'",
+      "title": "2026 World Cup Golden Glove: Maignan, Simón In Heated Contest",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-golden-glove-odds-emiliano-martinez-favored-repeat",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284679973-scaled.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:22:30 PM",
+      "desc": "The 2026 FIFA World Cup Golden Glove odds are rounding into shape as the tournament reaches a conclusion."
+    },
+    {
+      "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-young-player-tournament-odds-lamine-yamal-favored",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/lamine-68.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:22:29 PM",
+      "desc": "Can anyone — or anything — stop Lamine Yamal from winning Young Player of the Tournament at the World Cup? See the odds."
+    },
+    {
+      "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Ties Messi, Bellingham Rises",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-80.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:22:28 PM",
+      "desc": "Follow the 2026 FIFA World Cup Golden Boot race with our live tracker, featuring the latest goalscoring standings, player statistics, and updates."
+    },
+    {
+      "title": "Big Bets Report: France Futures Impacting Both Miniscule, Major Wagers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/big-bets-report-france-futures-impacting-both-miniscule-major-wagers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-12.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:22:24 PM",
+      "desc": "The French favorites are playing a major role in World Cup wagers across the board. Patrick Everson reports."
+    },
+    {
+      "title": "Rams' Jackson won't face felony; case assigned for diversion - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49351981/rams-alaric-jackson-face-felony-charge-june-arrest",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688688_1296x729_16%2D9.jpg",
+      "published": "7/13/2026, 6:15:17 PM",
+      "desc": "The Rams' Alaric Jackson will not face a felony charge after he was arrested on a domestic violence charge in June, The Los Angeles County District Attorney's Office confirmed to ESPN."
+    },
+    {
+      "title": "Phillies' Kyle Schwarber to lead off for NL in All-Star Game - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49351976/phillies-kyle-schwarber-lead-nl-all-star-game",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1209%2Fr1587158_1296x729_16%2D9.jpg",
+      "published": "7/13/2026, 6:13:41 PM",
+      "desc": "The Phillies' Kyle Schwarber will lead off for the NL in the All-Star Game as the replacement for Shohei Ohtani, while Riley Greene, Ben Rice and Cody Bellinger will start for the AL."
+    },
+    {
+      "title": "2026 World Cup Golden Ball: Kylian Mbappé, Lionel Messi In Tight Race",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-golden-ball-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/mbappe1.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:07:27 PM",
+      "desc": "Check out Golden Ball race is taking shape. Check out the Player of the Tournament odds heading into the semifinals."
+    },
+    {
+      "title": "Argentina, Spain, France, England: A World Cup Semifinal Round Like No Other",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-semifinal-argentina-spain-france-england",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/0f96262f-artboard-1-1.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:07:24 PM",
+      "desc": "For the first time since FIFA rankings were introduced, each of the top four ranked teams entering the tournament have reached the semifinals."
+    },
+    {
+      "title": "Johan Manzambi transfer news: Aston Villa looking to complete a deal for Switzerland midfielder",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5yz1xx14wpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a34/live/beb9eec0-7eb6-11f1-8439-ebc9c5f19300.jpg",
-      "published": "7/13/2026, 4:52:23 PM",
-      "desc": "Andoni Iraola wants to give Liverpool fans \"a team that they can be proud of\" and says he is ready for the responsibility of such a big job."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c39ym7e788wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/502d/live/dcbc3b20-7bb0-11f1-9b70-93a7d5047ee3.jpg",
+      "published": "7/13/2026, 6:07:18 PM",
+      "desc": "Aston Villa are working on a deal for Freiburg midfielder Johan Manzambi as they attempt to hijack a move to Newcastle United."
+    },
+    {
+      "title": "Group of 11 athletes challenge new NCAA eligibility rules in suit - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-sports/story/_/id/49350890/group-11-athletes-challenge-new-ncaa-eligibility-rules-suit",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688703_1296x729_16%2D9.jpg",
+      "published": "7/13/2026, 4:13:26 PM",
+      "desc": "Eleven Division I athletes -- all who depleted their eligibility in the 2025-26 season, have filed a federal class action lawsuit alleging that the NCAA's new eligibility rules adversely affected their ability to extend their college careers."
     },
     {
       "title": "World Cup semi-final predictions: Chris Sutton predicts France v Spain and England v Argentina",
@@ -138,81 +210,17 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/077d/live/81119c50-7ec8-11f1-af40-3101fe5a127d.jpg",
       "published": "7/13/2026, 3:52:18 PM",
       "desc": "Dutch football referee Rob Dieperink dies aged 38, weeks after he was dropped from officiating at the World Cup because of a police investigation in the UK."
-    },
-    {
-      "title": "Xabi Alonso: New Chelsea manager wants to keep Enzo Fernandez",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/622e/live/5e027930-7eca-11f1-b647-d1fc061ff3d0.jpg",
-      "published": "7/13/2026, 3:37:26 PM",
-      "desc": "New Chelsea manager Xabi Alonso is unveiled at Stamford Bridge and says he wants to keep Enzo Fernandez at the club."
-    },
-    {
-      "title": "Brendon McCullum: Sacked England Test coach apologises for results",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/crkvg5y2y0zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c6d3/live/86a061a0-7ec9-11f1-af40-3101fe5a127d.jpg",
-      "published": "7/13/2026, 3:37:22 PM",
-      "desc": "Brendon McCullum apologises for a run of seven defeats in nine games which led to him being sacked as Test coach on Sunday."
-    },
-    {
-      "title": "Conor McGregor to undergo surgery, plans to fight again - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688622_1296x729_16%2D9.jpg",
-      "published": "7/13/2026, 3:25:18 PM",
-      "desc": "Conor McGregor will undergo surgery following his first-round loss to Max Holloway at UFC 329, and then he will fight again."
-    },
-    {
-      "title": "England vs India: Is women's Test cricket struggling for relevance after historic Lord's match?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cgjx3xq6182o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2845/live/dd866ce0-7eb9-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/13/2026, 2:22:22 PM",
-      "desc": "The scheduling of the game and the announcement of Brendon McCullum's sacking left the historic Lord's Test between England and India struggling for relevance, so what is the future of women's Test cricket?"
-    },
-    {
-      "title": "Ex-Kansas player Lagerald Vick charged with attempted murder - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49350117/ex-kansas-player-lagerald-vick-charged-attempted-murder",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0325%2Fr193828_1296x729_16%2D9.jpg",
-      "published": "7/13/2026, 2:13:59 PM",
-      "desc": "Lagerald Vick, a member of the Kansas Jayhawks' Final Four basketball team in 2018, has been charged with attempted first-degree murder in Tennessee."
-    },
-    {
-      "title": "UK's Joe Dean wins last-chance qualifier, final spot in Open - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49349976/uk-joe-dean-wins-last-chance-qualifier-final-spot-open",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688600_1296x729_16%2D9.jpg",
-      "published": "7/13/2026, 1:59:23 PM",
-      "desc": "Joe Dean, a former grocery delivery driver in the UK, won the inaugural last-chance qualifier on Monday to earn the final spot in the 154th Open Championship, which begins July 16."
-    },
-    {
-      "title": "Wimbledon 2026: Drama, celebrations, outfits - Arthur Fery, Novak Djokovic and Naomi Osaka among our award winners",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cyv0d7lypgyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e9d7/live/de140520-7e30-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/13/2026, 12:07:26 PM",
-      "desc": "This year's Wimbledon has been full of excitement, interesting stories and great British success - Naomi Broady runs through her favourite moments."
-    },
-    {
-      "title": "Youri Tielemans: Man Utd close to completing deal for Aston Villa midfielder",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97d9/live/9bb01d70-7ea5-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/13/2026, 11:37:26 AM",
-      "desc": "Manchester United are in advanced talks with Aston Villa over Belgium midfielder Youri Tielemans"
-    },
-    {
-      "title": "World Cup 2026: France, Spain, England & Argentina statistical analysis",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9070/live/35b6c750-7e3a-11f1-9abb-e3440c15eda8.jpg",
-      "published": "7/13/2026, 11:37:22 AM",
-      "desc": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet."
     }
   ],
   "tech": [
+    {
+      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\" - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomng2-1152x648.png",
+      "published": "7/13/2026, 4:37:14 PM",
+      "desc": "Clever coding and graphical compromises get a classic game on more classic hardware."
+    },
     {
       "title": "Dining critic's notebook: Recent standouts, from unexpected tavern bites to a Pittsburgh classic - Pittsburgh Post-Gazette",
       "source": "Pittsburgh Post-Gazette",
@@ -222,12 +230,12 @@
       "desc": "False"
     },
     {
-      "title": "It’s Ridiculous That Square Enix Is Charging Fans Full Price To Make Octopath Traveler Look Slightly Shinier - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ridiculous-square-enix-fans-full-price-octopath-traveler-upgrade-2000715245",
-      "image": "https://kotaku.com/app/uploads/2023/03/1de8efebd048d5343afb975af2d2e278.jpg",
-      "published": "7/13/2026, 3:40:16 PM",
-      "desc": "'Improved resolution' is not worth $60, Square"
+      "title": "I got obliterated in the Pokémon team's new Soulslike — and I can’t wait to play more - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/beast-of-reincarnation-preview-demo-impressions/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_screenshot-4.jpg?w=1600&h=900&fit=crop",
+      "published": "7/13/2026, 4:00:17 PM",
+      "desc": "Game Freak's action RPG is emphatically not a Pokémon game for widdle babies, but a combat-forward experience for tough customers"
     },
     {
       "title": "'Not every road bike has to be an aero spaceship' - Cervélo launches a brand-new Soloist - Cyclingnews",
@@ -254,20 +262,12 @@
       "desc": "Revelations gets a 90 on Opencritic"
     },
     {
-      "title": "Dragon's Dogma 2's controversial changes won't kill its soul - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/dragons-dogma-2-dark-arisen-dragonsplague-interview-hard-mode/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dd2da_fighter_01.jpeg?w=1600&h=900&fit=crop",
-      "published": "7/13/2026, 3:01:44 PM",
-      "desc": "Capcom is making big updates to 2024's stellar RPG Dragon's Dogma 2 with new DLC and two major updates."
-    },
-    {
-      "title": "Nintendo's next Lego set looks to be a retro Donkey Kong arcade machine - Eurogamer.net",
+      "title": "Dragon's Dogma 2 devs on the big fast travel U-turn, and wanting to \"win back the trust\" of RPG fans with the Dark Arisen DLC - Eurogamer.net",
       "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/lego-donkey-kong-arcade-machine-set-leaked",
-      "image": "https://assetsio.gnwcdn.com/DK-arcade-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "7/13/2026, 2:55:18 PM",
-      "desc": "Nintendo and Lego's ongoing collaboration has been a fruitful one so far, and the next set may be a recreation of an arcade machine that started it all."
+      "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-interview-performance-microtransactions",
+      "image": "https://assetsio.gnwcdn.com/DD2-devs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/13/2026, 3:00:00 PM",
+      "desc": "A chat with producer Naoto Oyama and director Kenta Kinoshita about Capcom's lofty plans for a huge Dark Arisen update."
     },
     {
       "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back - 404 Media",
@@ -279,6 +279,14 @@
     }
   ],
   "education": [
+    {
+      "title": "Scots pupils lose out on university places to make way for fee-paying students",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15974675/Scots-university-fee-paying-students.html",
+      "image": "https://i.dailymail.com/1s/2026/07/13/19/109992321-0-image-a-35_1783969178877.jpg",
+      "published": "7/13/2026, 7:33:15 PM",
+      "desc": "Scots pupils are being turned away from last-minute places at university in favour of people from other parts of the UK or abroad who pay tuition fees."
+    },
     {
       "title": "Could ChatGPT weaken your brain and raise your chances of dementia? Experts reveal why 'cognitive offloading' poses a risk to YOUR memory",
       "source": "Dailymail.com",
@@ -334,19 +342,20 @@
       "image": "https://i.dailymail.com/1s/2026/06/25/11/109590417-0-image-a-33_1782383340399.jpg",
       "published": "6/25/2026, 10:46:39 AM",
       "desc": "In a mixed picture across the UK, headteachers have either closed completely, sent children home early or made other adjustments such as relaxing uniform rules."
-    },
-    {
-      "title": "How heatwaves will see children miss out on school",
-      "source": "The Week Magazine",
-      "url": "https://theweek.com/education/how-heatwaves-will-see-children-miss-out-on-school",
-      "image": "https://cdn.mos.cms.futurecdn.net/fhLf6tLY9fxC6ThtSypMCd-2000-80.jpg",
-      "published": "6/24/2026, 10:33:24 AM",
-      "desc": "Modelling finds 12 days learning a year could be lost due to extreme temperatures"
     }
   ],
   "music": [
     {
       "rank": 1,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
+      "rank": 2,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -355,22 +364,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Wonderwall (Remastered)",
       "artist": "Oasis",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
-    },
-    {
-      "rank": 3,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 4,
@@ -401,6 +401,15 @@
     },
     {
       "rank": 7,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 8,
       "title": "Total Eclipse of the Heart",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
@@ -409,22 +418,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Three Lions",
       "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
-    },
-    {
-      "rank": 9,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 10,
@@ -464,21 +464,21 @@
     },
     {
       "rank": 14,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/1c/7b/d81c7b90-dfd6-5b1d-2384-5c3684d4378a/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/b0/91/5db0911f-88ce-0f38-d866-06202d2a398f/mzaf_14323368290270263725.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6771343207?i=6771343208&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 15,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
-      "rank": 15,
-      "title": "Holding Out for a Hero",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     }
   ],
   "movies": [
@@ -502,21 +502,21 @@
     },
     {
       "rank": 3,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 4,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 4,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 5,
@@ -547,12 +547,30 @@
     },
     {
       "rank": 8,
+      "title": "Enola Holmes 3",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
+    },
+    {
+      "rank": 9,
       "title": "The Sheep Detectives",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "url": "https://www.themoviedb.org/movie/1301421"
+    },
+    {
+      "rank": 10,
+      "title": "Pressure",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "url": "https://www.themoviedb.org/movie/1318413"
     }
   ],
   "tv": [
