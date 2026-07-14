@@ -1,13 +1,29 @@
 {
-  "updated": "2026-07-14T05:32:26.339Z",
+  "updated": "2026-07-14T08:07:38.176Z",
   "news": [
     {
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "title": "Teenage pianist makes history as first to pass Grade 8 'single handed'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/13/2026, 4:52:24 AM",
-      "desc": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain."
+      "url": "https://www.bbc.co.uk/news/articles/c5yznq14zxlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff0d/live/8d3f1420-7e79-11f1-ba5d-f54924dede3b.jpg",
+      "published": "7/13/2026, 7:52:20 AM",
+      "desc": "Freya Terris' achievement has inspired music exam board ABRSM to publish a new syllabus for one hand."
+    },
+    {
+      "title": "Wimbledon semi-finalist Arthur Fery invites Prince George and Princess Charlotte to play tennis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7mxj41lro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8173/live/8aa7fab0-7e1a-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/13/2026, 6:52:20 AM",
+      "desc": "The Princess of Wales congratulated Arthur Fery on his run to the semi-finals and wished him a happy birthday."
+    },
+    {
+      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df6a/live/a52c1460-7e57-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/13/2026, 6:22:24 AM",
+      "desc": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region."
     },
     {
       "title": "Mahmood to set out plan to deport grooming gang leader",
@@ -18,28 +34,12 @@
       "desc": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison."
     },
     {
-      "title": "British couple return to village at heart of deadly Spanish wildfire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3502/live/a47f3390-7e4c-11f1-bee8-53ce494e1abc.png",
-      "published": "7/13/2026, 1:52:27 AM",
-      "desc": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province."
-    },
-    {
       "title": "New era for Gibraltar with removal of border controls with Spain",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/13/2026, 1:07:16 AM",
       "desc": "It is hoped that free movement between the UK territory and Spain will provide an economic boost."
-    },
-    {
-      "title": "UK weather: Heatwave to intensify as it enters into second week",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/0561/live/85f90f10-7e0e-11f1-af03-03c890ee3910.png",
-      "published": "7/13/2026, 12:52:20 AM",
-      "desc": "After a brief drop in temperature many areas will see heat and humidity build again this week"
     },
     {
       "title": "Andy Burnham set for No 10: What Trump, Putin and others will make of him",
@@ -67,6 +67,38 @@
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: England's push for 'missing piece' as a big week awaits",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cgjxqgwqzy2t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/171c/live/ce1e7a10-7e85-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/13/2026, 7:37:27 AM",
+      "desc": "Have your say as England prepare for the final week of the 2026 Fifa World Cup with a semi-final against Argentina to come."
+    },
+    {
+      "title": "World Cup 2026: Just Fontaine, the greatest World Cup goal scorer",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c621xndyd7no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3075/live/1e1b5410-7adb-11f1-9c5e-418249f4ce83.jpg",
+      "published": "7/13/2026, 7:37:22 AM",
+      "desc": "Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28."
+    },
+    {
+      "title": "Who Are The Referees For France vs. Spain?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-referee-france-spain-ivan-barton",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2283349942-scaled.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 6:52:21 AM",
+      "desc": "Ivan Barton of El Salvador will be the head official between France vs. Spain in Dallas."
+    },
+    {
+      "title": "World Cup 2026: These are unprecedented times for England - enjoy them",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c932rqverkvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f13f/live/994b5c40-7e12-11f1-8e47-a72d6eeabcac.jpg",
+      "published": "7/13/2026, 6:07:21 AM",
+      "desc": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
+    },
     {
       "title": "Fever beat Aces again as Caitlin Clark scores 12 in 24 minutes - ESPN",
       "source": "ESPN",
@@ -156,14 +188,6 @@
       "desc": "Harry Kane came to the defense of Thomas Tuchel after the England coach delivered a scathing assessment of the Three Lions' quarterfinal victory."
     },
     {
-      "title": "Video Footage Indicates England&#39;s Jude Bellingham Still Hampered By Shoulder Injury",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/video-footage-indicates-englands-jude-bellingham-still-hampered-shoulder-injury",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2285097130-scaled.jpg?ve=1&tl=1",
-      "published": "7/12/2026, 10:52:25 PM",
-      "desc": "England fans have been left sweating over the fitness of Jude Bellingham after the Real Madrid midfielder was seen clutching his shoulder during the World Cup quarter-final against Norway. Despite undergoing corrective surgery in the past, the 23-year-old app…"
-    },
-    {
       "title": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/world-cup-college-football-france-ohio-state-spain-georgia-england-texas-argentina-alabama",
@@ -186,22 +210,6 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688465_1296x729_16%2D9.jpg",
       "published": "7/12/2026, 9:40:19 PM",
       "desc": "Orioles third baseman Blaze Alexander suffered a nondisplaced fracture in his left hand after being hit by a pitch on Sunday, manager Craig Albernaz said."
-    },
-    {
-      "title": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688428_1296x729_16%2D9.jpg",
-      "published": "7/12/2026, 8:45:00 PM",
-      "desc": "Gianni Infantino has confirmed FIFA will discuss expanding the men's World Cup to 64 teams after the 2026 tournament, saying every nation should have the chance to dream of playing at football's biggest event."
-    },
-    {
-      "title": "Next England Test coach: Flower, Trott & Langer - contenders to replace Brendon McCullum",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/61b0/live/bb6bc580-7e03-11f1-b976-0b9c15b0ccfc.png",
-      "published": "7/12/2026, 8:07:25 PM",
-      "desc": "England will consider between six and 10 names as they look to replace Brendon McCullum as Test head coach, says ECB chief executive Richard Gould."
     }
   ],
   "tech": [
@@ -375,21 +383,21 @@
     },
     {
       "rank": 5,
-      "title": "Everything's Alright (feat. Kurt D)",
-      "artist": "Azteck & DJ Koko",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
-    },
-    {
-      "rank": 6,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 6,
+      "title": "Everything's Alright (feat. Kurt D)",
+      "artist": "Azteck & DJ Koko",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
     },
     {
       "rank": 7,
@@ -411,24 +419,6 @@
     },
     {
       "rank": 9,
-      "title": "Holding Out for a Hero",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
-    },
-    {
-      "rank": 10,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 11,
       "title": "We're Telling 'Em (England 2026 World Cup Song)",
       "artist": "Sonny Green",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
@@ -437,16 +427,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
     },
     {
-      "rank": 12,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+      "rank": 10,
+      "title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -455,22 +445,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 14,
-      "title": "Dancing On My Own",
-      "artist": "Robyn",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/03/29/c20329ef-9858-7c0c-da41-89d8fa303a39/00602527588025.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/73/ff/d773ff58-7d8a-7750-45f7-75794efe63aa/mzaf_7047746028072840108.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dancing-on-my-own/1440486599?i=1440486824&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Robyn%20Dancing%20On%20My%20Own"
+      "rank": 12,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 14,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/1c/7b/d81c7b90-dfd6-5b1d-2384-5c3684d4378a/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/b0/91/5db0911f-88ce-0f38-d866-06202d2a398f/mzaf_14323368290270263725.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6771343207?i=6771343208&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 15,
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/bb/60/59bb60aa-1a0b-ff4c-3343-d7cb9e7d375a/mzaf_16759827430963483039.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/midnight-sun/1817499239?i=1817499251&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Zara%20Larsson%20Midnight%20Sun"
     }
   ],
   "movies": [
@@ -512,21 +520,21 @@
     },
     {
       "rank": 5,
-      "title": "Enola Holmes 3",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "url": "https://www.themoviedb.org/movie/1202033"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
       "rank": 7,
@@ -539,12 +547,12 @@
     },
     {
       "rank": 8,
-      "title": "The Devil Wears Prada 2",
+      "title": "Enola Holmes 3",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
       "rank": 9,
@@ -554,6 +562,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "url": "https://www.themoviedb.org/movie/1301421"
+    },
+    {
+      "rank": 10,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
