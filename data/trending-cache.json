@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-14T21:01:39.730Z",
+  "updated": "2026-07-14T22:02:17.885Z",
   "news": [
+    {
+      "title": "BBC documentary found spycams secretly filming women online",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c621kprnd3jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c290/live/94189d90-7c38-11f1-a2fb-0b92ebfbb860.jpg",
+      "published": "7/13/2026, 9:37:21 PM",
+      "desc": "What disturbed Jess the most was men sharing footage of wives, girlfriends and loved ones."
+    },
     {
       "title": "Escaped prisoner Daniel Khalife assisted by two friends, jury told",
       "source": "BBC News",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
       "published": "7/13/2026, 8:22:24 PM",
       "desc": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz."
-    },
-    {
-      "title": "Aberdeen University investigates employee's Ann Widdecombe death comments",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k39vz8vvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3173/live/2ce7b1e0-7d7a-11f1-915e-25692a244600.jpg",
-      "published": "7/13/2026, 8:07:21 PM",
-      "desc": "Aberdeen University's Heather Herbert had posted she hoped it was an \"extremely painful death\"."
     },
     {
       "title": "Judge voids Donald Trump's 'improper' $1.8b IRS settlement that gave him immunity from tax audits",
@@ -68,19 +68,59 @@
   ],
   "sports": [
     {
-      "title": "Chelsea: Xabi Alonso says 'timings' took him to Chelsea over Liverpool",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3642/live/e7d25e90-7eda-11f1-84b4-d5196cc76857.jpg",
-      "published": "7/13/2026, 9:07:27 PM",
-      "desc": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\"."
+      "title": "2026 NFL Offseason Buzz: Green Bay Packers Extend Linebacker",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:52:29 PM",
+      "desc": "Here's the latest offseason buzz and rumors around the NFL."
+    },
+    {
+      "title": "All 5 Times Lamine Yamal Has Beaten Kylian Mbappé In Elimination Matches",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mbappe1-2.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:37 PM",
+      "desc": "Lamine Yamal might have a mental advantage over Kylian Mbappé going into their meeting in the 2026 FIFA World Cup semifinals."
+    },
+    {
+      "title": "Top 10 MLB All-Star Game Moments Since 2000, From Ichiro To Mike Trout",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/top-10-mlb-all-star-game-moments",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:36 PM",
+      "desc": "Here are the best moments from the MLB All-Star Game since 2000, headlined by Cal Ripken Jr. and Torii Hunter."
+    },
+    {
+      "title": "Mbappé vs. Yamal Aside, Keepers And Defenders Will Decide France vs. Spain",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/france-spain-world-cup-semifinals-mbappe-yamal-unai-simon-mike-maignan",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-10.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:35 PM",
+      "desc": "We should expect superstars scoring goals in Tuesday's Spain-France semifinal clash. But the keepers and defense will decide the game."
+    },
+    {
+      "title": "Yamal And Mbappé Headline Blockbuster Semifinal: What To Know For France vs. Spain",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/yamal-mbappe-headline-blockbuster-semifinal-what-know-france-vs-spain",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1argsui-1.png?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:34 PM",
+      "desc": "Here is everything you need to know for Tuesday at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "Rodri Tells Lamine Yamal, Who&#39;s Battling World Cup &#39;Anxiety,&#39; To &#39;Calm Down&#39;",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/rodri-lamine-yamal-calm-down-2026-world-cup-spain-france-semifinal-match",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2284922456-scaled.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:32 PM",
+      "desc": "Spain captain Rodri has called on teenage sensation Lamine Yamal to control his \"anxiety\" for a monumental World Cup semifinal against France."
     },
     {
       "title": "New Portugal Boss Jorge Jesus: &#39;Cristiano Ronaldo Is Never Going To Be A Problem&#39;",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/portugal-new-coach-jorge-jesus-cristiano-ronaldo-world-cup-future",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2230331035-scaled.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 9:07:25 PM",
+      "published": "7/13/2026, 9:37:30 PM",
       "desc": "Portugal's new coach Jorge Jesus has wasted no time confirming that Cristiano Ronaldo remains a fundamental part of his international project."
     },
     {
@@ -88,8 +128,40 @@
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-books-hoping-spain-england-title-match",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mikel-713.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 9:07:23 PM",
+      "published": "7/13/2026, 9:37:28 PM",
       "desc": "One thing sportsbooks don't want? A rematch of the 2022 World Cup final. Patrick Everson breaks down the semifinal betting action."
+    },
+    {
+      "title": "Why England Shouldn&#39;t Fear &#39;Mortal&#39; Lionel Messi Ahead Of Semifinal Clash",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-is-mortal-england-told-why-goat-shouldnt-scare-them-as-ex-three-lions-star-backs-thomas-tuchels-side-to-end-argentinas-world-cup-title-defence",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi-down-11.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:21 PM",
+      "desc": "Lionel Messi is \"more mortal now\", former England international Gary Pallister has told GOAL, with the Three Lions considered to be capable of ending Argentina's World Cup title defense."
+    },
+    {
+      "title": "World Cup 2026: Declan Rice - England to make late call midfielder for semi-final",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f306/live/3f85fdc0-7ef1-11f1-83a7-0959f8cc10cc.jpg",
+      "published": "7/13/2026, 9:37:20 PM",
+      "desc": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina."
+    },
+    {
+      "title": "Rodri Is Confident Spain &#39;Can Beat&#39; France Again To Reach World Cup Final",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/rodri-insists-spain-can-beat-france-in-world-cup-semi-final-clash",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/rodri-1.jpg?ve=1&tl=1",
+      "published": "7/13/2026, 9:37:19 PM",
+      "desc": "Spain captain Rodri believes his side has what it takes to overcome France in their blockbuster World Cup semi-final clash in Dallas. The Manchester City midfielder is drawing confidence from recent victories over Les Bleus as La Roja aim to reach their first…"
+    },
+    {
+      "title": "Chelsea: Xabi Alonso says 'timings' took him to Chelsea over Liverpool",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3642/live/e7d25e90-7eda-11f1-84b4-d5196cc76857.jpg",
+      "published": "7/13/2026, 9:07:27 PM",
+      "desc": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\"."
     },
     {
       "title": "World Cup 2026: Chance to face Lionel Messi once in a lifetime - Nico O'Reilly",
@@ -100,76 +172,12 @@
       "desc": "England left-back Nico O'Reilly is relishing the opportunity to face Lionel Messi in Wednesday's World Cup semi-final against Argentina."
     },
     {
-      "title": "Why England Shouldn&#39;t Fear &#39;Mortal&#39; Lionel Messi Ahead Of Semifinal Clash",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-is-mortal-england-told-why-goat-shouldnt-scare-them-as-ex-three-lions-star-backs-thomas-tuchels-side-to-end-argentinas-world-cup-title-defence",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi-down-11.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 9:07:20 PM",
-      "desc": "Lionel Messi is \"more mortal now\", former England international Gary Pallister has told GOAL, with the Three Lions considered to be capable of ending Argentina's World Cup title defense."
-    },
-    {
-      "title": "Rodri Tells Lamine Yamal, Who&#39;s Battling World Cup &#39;Anxiety,&#39; To &#39;Calm Down&#39;",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/rodri-lamine-yamal-calm-down-2026-world-cup-spain-france-semifinal-match",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2284922456-scaled.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 8:52:19 PM",
-      "desc": "Spain captain Rodri has called on teenage sensation Lamine Yamal to control his \"anxiety\" for a monumental World Cup semifinal against France."
-    },
-    {
-      "title": "Put Mbappé vs. Yamal Aside. Keepers And Defenders Will Decide France vs. Spain.",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/france-spain-world-cup-semifinals-mbappe-yamal-unai-simon-mike-maignan",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-10.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 8:37:25 PM",
-      "desc": "We should expect superstars scoring goals in Tuesday's Spain-France semifinal clash. But the keepers and defense will decide the game."
-    },
-    {
-      "title": "Yamal And Mbappé Headline Blockbuster Semifinal: What To Know For France vs. Spain",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/yamal-mbappe-headline-blockbuster-semifinal-what-know-france-vs-spain",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1argsui-1.png?ve=1&tl=1",
-      "published": "7/13/2026, 8:37:23 PM",
-      "desc": "Here is everything you need to know for Tuesday at the 2026 FIFA World Cup."
-    },
-    {
-      "title": "All 5 Times Lamine Yamal Has Beaten Kylian Mbappé In Elimination Matches",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/all-5-times-lamine-yamal-has-beaten-kylian-mbappe-elimination-matches",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mbappe1-2.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 7:52:23 PM",
-      "desc": "Lamine Yamal might have a mental advantage over Kylian Mbappé going into their meeting in the 2026 FIFA World Cup semifinals."
-    },
-    {
-      "title": "Top 10 MLB All-Star Game Moments Since 2000, From Ichiro To Mike Trout",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/top-10-mlb-all-star-game-moments",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 7:52:20 PM",
-      "desc": "Here are the best moments from the MLB All-Star Game since 2000, headlined by Cal Ripken Jr. and Torii Hunter."
-    },
-    {
-      "title": "Walker Kessler says he'll 'run through a brick wall' for Lakers - ESPN",
+      "title": "New contract in tow, Austin Reaves ready for Lakers' new era - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49352392/walker-kessler-says-run-brick-wall-lakers",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688798_1024x576_16%2D9.jpg",
-      "published": "7/13/2026, 7:32:02 PM",
-      "desc": "Walker Kessler, who will have a clean bill of health to start next season, said he will \"run through a brick wall\" for the Lakers after they committed both money and assets toward acquiring him."
-    },
-    {
-      "title": "Inside The Garage: Where There&#39;s Beef, There&#39;s Fire In Cup Series",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-cup-garage-hocevar-van-gisbergen",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-19-1.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 7:22:26 PM",
-      "desc": "It’s hot in the summer. It’s also hot in the NASCAR garage with plenty of drivers beefing with each other."
-    },
-    {
-      "title": "Expert World Cup Predictions For France-Spain, England-Argentina Semifinals",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-predictions-semifinals-france-spain-argentina-england",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1arg-1.jpg?ve=1&tl=1",
-      "published": "7/13/2026, 7:22:25 PM",
-      "desc": "Our World Cup experts make their picks for France-Spain and England-Argentina in the semifinals."
+      "url": "https://www.espn.com/nba/story/_/id/49352570/new-contract-tow-austin-reaves-ready-lakers-new-era",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688804_1296x729_16%2D9.jpg",
+      "published": "7/13/2026, 8:06:35 PM",
+      "desc": "Los Angeles Lakers guard Austin Reaves, fresh off signing the most lucrative contract in NBA history for an undrafted player, spoke Monday about his new-look franchise, and how it moves forward amid the departure of LeBron James in free agency."
     },
     {
       "title": "Bryce Harper denies giving FanDuel consent for video to customer - ESPN",
@@ -202,80 +210,72 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688703_1296x729_16%2D9.jpg",
       "published": "7/13/2026, 4:13:26 PM",
       "desc": "Eleven Division I athletes -- all who depleted their eligibility in the 2025-26 season, have filed a federal class action lawsuit alleging that the NCAA's new eligibility rules adversely affected their ability to extend their college careers."
-    },
-    {
-      "title": "World Cup semi-final predictions: Chris Sutton predicts France v Spain and England v Argentina",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
-      "published": "7/13/2026, 3:52:22 PM",
-      "desc": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup."
     }
   ],
   "tech": [
     {
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\" - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomng2-1152x648.png",
-      "published": "7/13/2026, 4:37:14 PM",
-      "desc": "Clever coding and graphical compromises get a classic game on more classic hardware."
-    },
-    {
-      "title": "Dining critic's notebook: Recent standouts, from unexpected tavern bites to a Pittsburgh classic - Pittsburgh Post-Gazette",
-      "source": "Pittsburgh Post-Gazette",
-      "url": "https://www.post-gazette.com/life/dining/2026/07/13/best-dishes-pittsburgh/stories/202607100050",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202607100050/1140x_a10-7_cTC/BESTDISHES071926-1_1783708477.jpg",
-      "published": "7/13/2026, 4:23:50 PM",
-      "desc": "False"
-    },
-    {
-      "title": "I got obliterated in the Pokémon team's new Soulslike — and I can’t wait to play more - Polygon.com",
+      "title": "Pokémon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
       "source": "Polygon",
-      "url": "https://www.polygon.com/beast-of-reincarnation-preview-demo-impressions/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bor_screenshot-4.jpg?w=1600&h=900&fit=crop",
-      "published": "7/13/2026, 4:00:17 PM",
-      "desc": "Game Freak's action RPG is emphatically not a Pokémon game for widdle babies, but a combat-forward experience for tough customers"
+      "url": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/first-look_-poke-mon-winds-and-poke-mon-waves-_-announcement-trailer-0-55-screenshot-1.jpg?w=1600&h=900&fit=crop",
+      "published": "7/13/2026, 6:37:44 PM",
+      "desc": "The RPG will still feature turned-based battles, but they will reportedly unfold differently than other mainline Pokémon games"
     },
     {
-      "title": "'Not every road bike has to be an aero spaceship' - Cervélo launches a brand-new Soloist - Cyclingnews",
-      "source": "Cyclingnews.com",
-      "url": "https://www.cyclingnews.com/bikes/road/not-every-road-bike-has-to-be-an-aero-spaceship-cervelo-launches-a-brand-new-soloist/",
-      "image": "https://cdn.mos.cms.futurecdn.net/RcttdNgbPApeDmBAhZLFZ-2560-80.png",
-      "published": "7/13/2026, 3:26:48 PM",
-      "desc": "The Soloist is for the rider who meets at the cafe for the Tuesday night tear-up"
+      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-11-amazon-listing-leak-5_25cb95.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/13/2026, 6:10:00 PM",
+      "desc": "While Google’s next Tensor chipset in the Pixel 11 series isn’t expecting to be a gamechanger by any means, it..."
     },
     {
-      "title": "Destiny 2’s Demise Is ‘Existentially Threatening,’ Says ‘Warframe’ Creative Director - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/13/destiny-2s-demise-is-existentially-threatening-says-warframe-creative-director/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69b01c52f9e8cefce4816cb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "7/13/2026, 3:11:35 PM",
-      "desc": "Another game in the live-service shooter genre, Warframe, has been running in parallel with Destiny for ages, maintaining perhaps greater consistency over time,"
+      "title": "‘Deep Dive Into Kingdom Hearts’ event set for D23 2026 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/deep-dive-into-kingdom-hearts-event-set-for-d23-2026",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/KH-Event-D23_07-13-26.jpg",
+      "published": "7/13/2026, 5:45:25 PM",
+      "desc": "Disney will host a “Deep Dive Into Kingdom Hearts” event at D23 2026 on August 15 from 4:30 p.m. to 5:30 p.m. PT, the company announced."
     },
     {
-      "title": "DOOM PS5 DLC Quietly Becomes One of 2026's Best-Rated Releases - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/doom-ps5-dlc-quietly-becomes-one-of-2026s-best-rated-releases",
-      "image": "https://images.pushsquare.com/0b7902184bae1/large.jpg",
-      "published": "7/13/2026, 3:11:03 PM",
-      "desc": "Revelations gets a 90 on Opencritic"
+      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-15-in-black-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/13/2026, 5:45:00 PM",
+      "desc": "The end is near and the clock is ticking. OnePlus is reportedly going to be shut down for good in..."
     },
     {
-      "title": "Dragon's Dogma 2 devs on the big fast travel U-turn, and wanting to \"win back the trust\" of RPG fans with the Dark Arisen DLC - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-interview-performance-microtransactions",
-      "image": "https://assetsio.gnwcdn.com/DD2-devs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "7/13/2026, 3:00:00 PM",
-      "desc": "A chat with producer Naoto Oyama and director Kenta Kinoshita about Capcom's lofty plans for a huge Dark Arisen update."
+      "title": "Galaxy Z Fold 8 Ultra display crease missing in latest hands-on leak [Video] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/13/2026, 5:33:00 PM",
+      "desc": "Rumors have suggested the Galaxy Z Fold series would take a big step in removing the inner display crease left..."
     },
     {
-      "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back - 404 Media",
-      "source": "404media.co",
-      "url": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/katalyst.png",
-      "published": "7/13/2026, 2:32:58 PM",
-      "desc": "Celebrities like George Clooney have praised the expensive Katalyst suit. For me, it derailed my other exercises and made me reassess my obsession with fitness and efficiency."
+      "title": "Someone created a 'Ghost Font' that humans can read but AI can't — I had to try it for myself - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/someone-created-a-ghost-font-that-humans-can-read-but-ai-cant-i-had-to-try-it-for-myself",
+      "image": "https://cdn.mos.cms.futurecdn.net/MehSfgyfqwAVKqiRSTjAni-1920-80.jpg",
+      "published": "7/13/2026, 5:28:01 PM",
+      "desc": "Ghost Font hides messages inside moving dots that humans can read almost instantly and it exposes one of AI's biggest blind spots"
+    },
+    {
+      "title": "Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-announces-major-windows-11-search-overhaul-that-prioritizes-clearer-local-results-and-removes-ads",
+      "image": "https://cdn.mos.cms.futurecdn.net/FWMvyvs4ohgN34uScGmdLR-2560-80.jpg",
+      "published": "7/13/2026, 5:24:08 PM",
+      "desc": "Windows 11's search user experience is getting a big update, with Microsoft moving to prioritize local results, remove promotional content, and much more."
+    },
+    {
+      "title": "Ultra Unlock: 10th Anniversary Edition - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/07/ultra-unlock-10th-anniversary-edition-cover.jpeg",
+      "published": "7/13/2026, 5:05:45 PM",
+      "desc": "First Partner Pokémon with special backgrounds feature during the Ultra Unlock: 10th Anniversary event! The Pokémon GO Ultra Unlock: 10th Anniversary event runs from Tuesday, July 21, 2026, at 10:00 a.m. to Monday, July 27, 2026 at 8:00 p.m. local time. The e…"
     }
   ],
   "education": [
@@ -493,15 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 3,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -510,22 +501,31 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 4,
-      "title": "Minions & Monsters",
+      "rank": 3,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 5,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 6,
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "Enola Holmes 3",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "url": "https://www.themoviedb.org/movie/1202033"
-    },
-    {
-      "rank": 8,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 8,
+      "title": "Enola Holmes 3",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
       "rank": 9,
