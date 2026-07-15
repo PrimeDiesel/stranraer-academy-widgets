@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-15T20:10:22.240Z",
+  "updated": "2026-07-15T22:02:27.745Z",
   "news": [
     {
-      "title": "Public to be told how to prepare for cyber-attack and weather emergencies",
+      "title": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp3x37lw1ndo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea86/live/e601e770-7fa2-11f1-a795-bb5c0c21463a.jpg",
-      "published": "7/14/2026, 7:52:24 PM",
-      "desc": "The government provides an update on its national resilience plans \"should the worst ever happen\"."
+      "url": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdd0/live/6d55b4a0-7f84-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/14/2026, 9:37:23 PM",
+      "desc": "Major incidents were declared in North Wales and in Glossop, Derbyshire in the Peak District on Sunday."
+    },
+    {
+      "title": "Starmer becomes first UK PM to receive top French honour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97df/live/7d859a10-7fb2-11f1-9c5f-190f51e64b46.jpg",
+      "published": "7/14/2026, 8:37:26 PM",
+      "desc": "France's President Emmanuel Macron praised Starmer's \"decency\" and contribution to Ukraine and the security of Europe."
     },
     {
       "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
@@ -56,32 +64,128 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad84/live/22a82670-7f81-11f1-b1fb-a927e22d7e8b.jpg",
       "published": "7/14/2026, 4:07:22 PM",
       "desc": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York."
-    },
-    {
-      "title": "BBC pay 2025-2026: The full list of star salaries",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn750p4gyjgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f5c/live/0e512560-7f7b-11f1-926f-c90d1bcfbc84.png",
-      "published": "7/14/2026, 12:22:25 PM",
-      "desc": "Scott Mills and Greg James top the list of the best-paid BBC presenters in the last financial year."
     }
   ],
   "sports": [
     {
-      "title": "The Two Key Areas Where England vs. Argentina Will Ultimately Be Decided",
+      "title": "2026 World Cup Semifinal Odds: England Favored Over Argentina; Spain Wins",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/argentina-england-world-cup-semifinals-messi-bellingham-kane-preview",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ef3db8d1-artboard-1.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 8:22:29 PM",
-      "desc": "Expect this match between Argentina and England to be decided in two areas: the midfield and on the flanks."
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-which-nations-favored-reach-semifinals",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/harry-714.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:35 PM",
+      "desc": "One semifinal down, one to go. Check out the odds for the World Cup semifinals."
     },
     {
-      "title": "Commissioner Rob Manfred Defends Salary Cap Push, Says Owners Unified Amid CBA Talks",
+      "title": "2026 World Cup Golden Boot Odds: Messi Favored; Mbappé Still In Running",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/commissioner-manfred-defends-salary-cap-push-owners-unified-cba-talks",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/manfred-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 8:22:22 PM",
-      "desc": "In Philadelphia on Tuesday, Rob Manfred detailed MLB's collective bargaining proposal, making a strong public push for a salary cap."
+      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi1-5.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:34 PM",
+      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds."
+    },
+    {
+      "title": "2026 World Cup Title Odds: Spain Favored After Upset Win Over France",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/pedro-714.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:33 PM",
+      "desc": "Here are the latest odds to win the 2026 FIFA World Cup now that Spain has upset France in the first semifinal."
+    },
+    {
+      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Willson Contreras Staying Put",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/willson1.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:32 PM",
+      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
+    },
+    {
+      "title": "Spain&#39;s Lamine Yamal Dreams of World Cup Final Against Lionel Messi, Argentina",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lamine-yamal-wants-argentina-in-world-cup-final-as-spain-hero-has-eye-on-lionel-messis-jersey",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/yamal-clap1-.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:26 PM",
+      "desc": "Spain sensation Lamine Yamal has set his sights on a dream World Cup final against defending champions Argentina, revealing his desire to swap shirts with icon Lionel Messi."
+    },
+    {
+      "title": "2026 World Cup Odds: Spain Awaits Winner of Argentina-England In Final",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285515004-scaled.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:25 PM",
+      "desc": "Check out the latest odds to reach the World Cup final."
+    },
+    {
+      "title": "Lamine Yamal Reaches World Cup Final At 19. How Old Were Pelé, Maradona, Messi?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lamine-yamal-reaches-world-cup-final-19-how-old-were-pele-maradona-messi",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/teen3.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:23 PM",
+      "desc": "If Lamine Yamal wins the World Cup on Sunday, he legally wouldn't be allowed to partake in any celebratory champagne with Spain teammates."
+    },
+    {
+      "title": "Where In The World Cup Is Jameis Winston?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/jameis-winston-world-cup-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/jameisxspeedthumbnail.png?ve=1&tl=1",
+      "published": "7/14/2026, 9:52:22 PM",
+      "desc": "Here’s a look at some of the best moments from Jameis Winston’s World Cup journey."
+    },
+    {
+      "title": "World Cup 2026: France v Spain player ratings for World Cup semi-final",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1dydqedp73o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbee/live/fe91b8c0-7fbf-11f1-b890-9bba15144891.jpg",
+      "published": "7/14/2026, 9:37:23 PM",
+      "desc": "Spain produce a masterclass to see off France and reach their first World Cup final since 2010 - but who were the stars?"
+    },
+    {
+      "title": "Texans co-founder and senior chair Janice McNair dies at 89 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49361687/texans-co-founder-senior-chair-janice-mcnair-dies-89",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689222_1296x729_16%2D9.jpg",
+      "published": "7/14/2026, 9:08:37 PM",
+      "desc": "Texans co-founder and senior chair Janice S. McNair died Tuesday in Houston at age 89, the team said."
+    },
+    {
+      "title": "2026 World Cup Bracket: Spain First Team To Clinch Ticket To Final",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-final-matchups",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-cup-bracket.jpg?ve=1&tl=1",
+      "published": "7/14/2026, 9:07:22 PM",
+      "desc": "Here's how the bracket looks like at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "Sources - Roch Cholowsky gets record $10.35M bonus from White Sox - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49361630/no-1-pick-roch-cholowsky-gets-record-1035m-bonus-white-sox",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688648_1296x729_16%2D9.jpg",
+      "published": "7/14/2026, 9:04:09 PM",
+      "desc": "Roch Cholowsky, the No. 1 pick in the MLB draft, has reportedly agreed to a contract with the White Sox that includes a record-breaking $10.35M signing bonus."
+    },
+    {
+      "title": "Spain shut down France to advance to World Cup final - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49361129/spain-shut-france-advance-world-cup-final",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689254_1296x729_16%2D9.jpg",
+      "published": "7/14/2026, 9:00:00 PM",
+      "desc": "Spain beat France 2-0 in their FIFA World Cup semifinal in Arlington, Texas, on Tuesday to make it three wins in a row against their European heavyweight rival."
+    },
+    {
+      "title": "Leeds agree £34.1m fee for defender Tarik Muharemovic",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cpd3d6vx803o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57e3/live/51496620-7fbc-11f1-9c5f-190f51e64b46.jpg",
+      "published": "7/14/2026, 8:37:29 PM",
+      "desc": "Leeds United agree a £34.1m fee with Italian club Sassuolo for defender Tarik Muharemovic."
+    },
+    {
+      "title": "World Cup 2026: England have no new injury problems for Argentina semi-final",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/21d5/live/1b3dcc10-7fbc-11f1-9c5f-190f51e64b46.jpg",
+      "published": "7/14/2026, 8:37:25 PM",
+      "desc": "Jordan Henderson and Jarell Quansah are set to be the only players unavailable for England's World Cup semi-final against Argentina."
     },
     {
       "title": "Investigation into alleged battery by Jets' Smith no longer active - ESPN",
@@ -92,14 +196,6 @@
       "desc": "An investigation of Geno Smith for an incident in which a woman accused him of battery last month is no longer active and the New York Jets quarterback will not be charged."
     },
     {
-      "title": "Who Tops Zlatan Ibrahimović&#39;s &#39;King Of The Jungle&#39; Ahead Of World Cup Semifinals?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/zlatan-king-of-the-jungle-rankings-world-cup-semifinals",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/wc26-kingofthejungle.png?ve=1&tl=1",
-      "published": "7/14/2026, 7:37:27 PM",
-      "desc": "Zlatan Ibrahimović gave his 2026 World Cup semifinal round \"King of the Jungle\" power rankings."
-    },
-    {
       "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Ties Messi, Bellingham Rises",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
@@ -108,174 +204,62 @@
       "desc": "Follow the 2026 FIFA World Cup Golden Boot race with our live tracker, featuring the latest goalscoring standings, player statistics, and updates."
     },
     {
-      "title": "Is Kylian Mbappé Starting? France vs. Spain Starting Lineups",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-starting-france-vs-spain-starting-lineups",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/3e757582-mbappe1.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 7:22:20 PM",
-      "desc": "Kylian Mbappé is in France's starting lineup for Tuesday’s World Cup semifinal match against Spain after the striker exited in the 77th minute of the team's quarterfinal win over Morocco."
-    },
-    {
       "title": "Wizards shut AJ Dybantsa down for rest of NBA summer league - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nba/story/_/id/49360956/wizards-shut-aj-dybantsa-rest-nba-summer-league",
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0710%2Fr1687479_1296x729_16%2D9.jpg",
       "published": "7/14/2026, 7:15:35 PM",
       "desc": "The Wizards are shutting AJ Dybantsa down for the final two games of summer league after an impressive debut from the rookie."
-    },
-    {
-      "title": "Inside Xabi Alonso's first week at Chelsea with secret friendlies",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c20yv3jmg01o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ee15/live/e1167df0-7f68-11f1-8812-63adb81ec20b.jpg",
-      "published": "7/14/2026, 7:07:34 PM",
-      "desc": "Chelsea's entire pre-season is already mapped out by new boss Xabi Alonso, keen to make an early impact on his players before the season begins."
-    },
-    {
-      "title": "Aston Villa warned over sportswashing after signing Visit Rwanda sponsorship",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cm20211g25lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e6fe/live/2c1209a0-7faf-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/14/2026, 7:07:29 PM",
-      "desc": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record."
-    },
-    {
-      "title": "England vs. Argentina Combined XI: Lionel Messi, Harry Kane Lead Dream Lineup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-combined-xi-lionel-messi-harry-kane-lead-dream-lineup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9arg-eng-xi.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 7:07:25 PM",
-      "desc": "Ahead of Argentina and England’s World Cup semifinal, we picked a combined XI featuring Lionel Messi, Jude Bellingham, Harry Kane and Declan Rice."
-    },
-    {
-      "title": "Man Utd sign Youri Tielemans from Aston Villa on five-year deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9929gzdl2go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d655/live/78c94320-7fb5-11f1-9c5f-190f51e64b46.jpg",
-      "published": "7/14/2026, 7:07:24 PM",
-      "desc": "Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal."
-    },
-    {
-      "title": "India vs England: Shubman Gill & Axar Patel lead tourists to ODI win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c1kykzjy4lno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a407/live/5cbc3eb0-7fa8-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/14/2026, 7:07:21 PM",
-      "desc": "Brendon McCullum's reduced role as England's white-ball coach begins with a reminder of how much work there is to do on a one-day team beaten by India."
-    },
-    {
-      "title": "Who Are the Announcers for France vs. Spain in the 2026 World Cup Semifinal?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/who-announcers-france-vs-spain-2026-world-cup-semifinal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/france-vs-spain-announcers.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 6:52:28 PM",
-      "desc": "Kylian Mbappé and France meet Lamine Yamal and Spain today with a World Cup final berth on the line. Here's the full FOX broadcast team."
-    },
-    {
-      "title": "2026 NASCAR Odds: Denny Hamlin Favored For North Wilkesboro; Kyle Larson Second",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-north-wilkesboro-window-world-450",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/denny-hamlin_favorite_north-wilkesboro_nascar.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 6:52:24 PM",
-      "desc": "NASCAR is heading to North Wilkesboro for the first points race at the track in 30 years. Who will take the checkered flag? Here are the early odds."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Rays Interested In Tarik Skubal",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/skubalh1.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 6:22:17 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "France vs Spain Live Updates, Score: Latest World Cup News and Goals",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/soccer/france-vs-spain-live-updates-score-latest-world-cup-news-goals",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1noreng-2.jpg?ve=1&tl=1",
-      "published": "7/14/2026, 5:52:23 PM",
-      "desc": "Follow France vs Spain live at the 2026 FIFA World Cup. Real-time score updates, key plays, and match analysis as it happens."
-    },
-    {
-      "title": "The Open: Rory McIlroy and Scottie Scheffler on tackling sun-baked Royal Birkdale",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cp9l94e9xr7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/55f8/live/d1721ef0-7fa3-11f1-bee8-53ce494e1abc.png",
-      "published": "7/14/2026, 5:37:24 PM",
-      "desc": "Scottie Scheffler and Rory McIlroy discuss the firm and fiery conditions expected at Royal Birkdale for this week's Open Championship."
-    },
-    {
-      "title": "Tour de France results: Tadej Pogacar wins stage on Bastille Day to stretch lead",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/clywylnrdjlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c792/live/43027910-7f9b-11f1-a5f4-433bb9aa2e5a.jpg",
-      "published": "7/14/2026, 5:22:29 PM",
-      "desc": "Tadej Pogacar stretches his overall lead to more than three minutes as he races clear for his third stage win of this year's Tour de France."
     }
   ],
   "tech": [
     {
-      "title": "Dear Passengers Is Peak On An Airplane And It Wants To Be Your Next Viral ‘Friendslop’ Obsession - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/dear-passengers-is-peak-on-an-airplane-and-it-wants-to-be-your-next-viral-friendslop-obsession-2000715910",
-      "image": "https://kotaku.com/app/uploads/2026/07/ss_204b6ff3042e849cedeb0a6df8cdcea87b84039b.1920x1080-1200x675.jpg",
-      "published": "7/14/2026, 7:19:40 PM",
-      "desc": "The co-op game is coming to Steam later this year"
+      "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "image": "",
+      "published": "7/14/2026, 7:50:49 PM",
+      "desc": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon…"
     },
     {
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-      "published": "7/14/2026, 6:01:36 PM",
-      "desc": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed."
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+      "published": "7/14/2026, 7:42:27 PM",
+      "desc": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the softw…"
     },
     {
-      "title": "Plex problems prevented users from streaming movies and shows - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24437075/Plex_new_logo.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published": "7/14/2026, 5:23:25 PM",
-      "desc": "Plex confirmed issues with multiple services on Tuesday, including its free streaming movies and shows and its Plex TV API."
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+      "published": "7/14/2026, 7:39:39 PM",
+      "desc": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
     },
     {
-      "title": "Crunchyroll Store to Become Exclusive to Mega/Ultimate Fan Tiers in August - Anime News Network",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-14/crunchyroll-store-to-become-exclusive-to-mega-ultimate-fan-tiers-in-august/.239593",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg",
-      "published": "7/14/2026, 5:15:55 PM",
-      "desc": "Open orders will continue to process, including those for items released after store transitions"
-    },
-    {
-      "title": "Google announces Gemma 4 optimized for the Pixel 10’s TPU - 9to5Google",
+      "title": "Galaxy Watch 9 and Ultra 2 specs leak with Snapdragon chip, 800 mAh battery - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/14/pixel-10-gemma-4/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/14/2026, 5:10:00 PM",
-      "desc": "Google today announced Gemma 4 E2B for TPU that’s designed to run natively on the Pixel 10’s TPU. Gemma is Google's series..."
+      "url": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-mint-leak-1_f20b01.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/14/2026, 7:35:00 PM",
+      "desc": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung’s Galaxy Watch..."
     },
     {
-      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201235-1758286792027-gettyimages-2235704003-AFP_764B4VL.jpeg?v=1758286970&w=1920&h=1080",
-      "published": "7/14/2026, 5:00:20 PM",
-      "desc": "PrismML says its compressed version of Alibaba’s Qwen model uses up to 15 times less memory, potentially advancing Apple’s AI push."
+      "title": "Samsung users report bizarre Galaxy S26 Ultra defect - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-galaxy-s26-ultra-red-tint-defect",
+      "image": "https://helios-i.mashable.com/imagery/articles/03O32zx28HD8kT1a9UlIxrm/hero-image.fill.size_1200x675.v1784041104.webp",
+      "published": "7/14/2026, 7:02:15 PM",
+      "desc": "Some Android users are seeing red."
     },
     {
-      "title": "Sony's FlexStrike PS5 Fight Stick Delayed Indefinitely, Now Launches After Marvel Tokon - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/sonys-flexstrike-ps5-fight-stick-delayed-indefinitely-now-launches-after-marvel-tokon",
-      "image": "https://images.pushsquare.com/10775121b32a5/large.jpg",
-      "published": "7/14/2026, 5:00:00 PM",
-      "desc": "Fight to make it right"
-    },
-    {
-      "title": "Your iPhone might miss out on these iOS 27 features - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/14/ios-27-new-features-compatibility/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/14/2026, 4:40:00 PM",
-      "desc": "iOS 27 compatibility hasn't changed, but not every iPhone gets every feature. Here's which new features your iPhone supports."
+      "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/14/2026, 5:20:53 PM",
+      "desc": "Normally, $449.99 gets you just the Switch 2 console. But today it also gets you a free game."
     }
   ],
   "education": [
@@ -356,6 +340,15 @@
     },
     {
       "rank": 2,
+      "title": "Three Lions",
+      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
+    },
+    {
+      "rank": 3,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -364,7 +357,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
@@ -373,22 +366,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
-      "title": "Three Lions",
-      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
     },
     {
       "rank": 6,
@@ -401,6 +385,15 @@
     },
     {
       "rank": 7,
+      "title": "Vindaloo",
+      "artist": "Fat Les",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/39/e7/76/39e776b7-8f30-9c71-53ed-2831d971f9e6/0698458916181.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/52/04/e45204f6-eabc-e7d8-f8ef-f4d5f36d141e/mzaf_14571315649151294741.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/vindaloo/1435095905?i=1435095906&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fat%20Les%20Vindaloo"
+    },
+    {
+      "rank": 8,
       "title": "Rattle The Cage (feat. John 5)",
       "artist": "Nickelback",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
@@ -409,22 +402,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Rattle%20The%20Cage%20(feat.%20John%205)"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Everything's Alright (feat. Kurt D)",
       "artist": "Azteck & DJ Koko",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
-    },
-    {
-      "rank": 9,
-      "title": "Vindaloo",
-      "artist": "Fat Les",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/39/e7/76/39e776b7-8f30-9c71-53ed-2831d971f9e6/0698458916181.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/52/04/e45204f6-eabc-e7d8-f8ef-f4d5f36d141e/mzaf_14571315649151294741.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/vindaloo/1435095905?i=1435095906&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fat%20Les%20Vindaloo"
     },
     {
       "rank": 10,
@@ -446,6 +430,15 @@
     },
     {
       "rank": 12,
+      "title": "Freed from Desire",
+      "artist": "Gala",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/a3/33/70a333a9-29d8-bfde-fe2d-79d2a9a72518/mzi.hroawrfd.tif/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/c0/f5/d8c0f5a0-474a-d48c-68e7-a9710784bf0b/mzaf_14269155483972454854.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/freed-from-desire/287591338?i=287592533&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Gala%20Freed%20from%20Desire"
+    },
+    {
+      "rank": 13,
       "title": "Bones For The Crows",
       "artist": "Nickelback",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
@@ -454,7 +447,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Bones%20For%20The%20Crows"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "We're Telling 'Em (England 2026 World Cup Song)",
       "artist": "Sonny Green",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
@@ -463,22 +456,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "World In Motion",
       "artist": "New Order",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/44/d1/60/44d160c2-4ba1-8bd3-c6f9-3bfd1369c78e/contsched.ovccmyeg.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/45/70/554570bf-4b5d-6317-121c-5d3e31287198/mzaf_4323133585805502848.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/world-in-motion/42029668?i=42029705&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=New%20Order%20World%20In%20Motion"
-    },
-    {
-      "rank": 15,
-      "title": "Freed from Desire",
-      "artist": "Gala",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/a3/33/70a333a9-29d8-bfde-fe2d-79d2a9a72518/mzi.hroawrfd.tif/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/c0/f5/d8c0f5a0-474a-d48c-68e7-a9710784bf0b/mzaf_14269155483972454854.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/freed-from-desire/287591338?i=287592533&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Gala%20Freed%20from%20Desire"
     }
   ],
   "movies": [
@@ -511,12 +495,12 @@
     },
     {
       "rank": 4,
-      "title": "Enola Holmes 3",
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "url": "https://www.themoviedb.org/movie/1202033"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 5,
@@ -529,12 +513,12 @@
     },
     {
       "rank": 6,
-      "title": "Minions & Monsters",
+      "title": "The Breadwinner",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "url": "https://www.themoviedb.org/movie/1440050"
     },
     {
       "rank": 7,
@@ -547,21 +531,21 @@
     },
     {
       "rank": 8,
-      "title": "The Breadwinner",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "url": "https://www.themoviedb.org/movie/1440050"
-    },
-    {
-      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
+      "title": "Enola Holmes 3",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
     },
     {
       "rank": 10,
@@ -576,6 +560,15 @@
   "tv": [
     {
       "rank": 1,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
       "title": "Little House on the Prairie",
       "year": "2026",
       "cert": "12",
@@ -584,13 +577,13 @@
       "url": "https://www.themoviedb.org/tv/283304"
     },
     {
-      "rank": 2,
-      "title": "X-Men '97",
+      "rank": 3,
+      "title": "Avatar: The Last Airbender",
       "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
+      "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "url": "https://www.themoviedb.org/tv/82452"
     }
   ]
 }
