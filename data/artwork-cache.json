@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-15T08:27:17.839Z",
+  "lastUpdated": "2026-04-06T07:57:18.602Z",
   "stats": {
     "total": 365,
     "withImages": 363,
     "withoutImages": 2,
     "percentage": 99,
-    "newlyFetched": 23,
-    "alreadyCached": 342,
+    "newlyFetched": 24,
+    "alreadyCached": 341,
     "failed": 0,
     "sources": {
-      "wikimedia": 259,
+      "wikimedia": 295,
       "met": 1,
-      "aic": 22,
-      "school": 83
+      "aic": 23,
+      "school": 46
     }
   },
   "artworks": {
@@ -110,14 +110,14 @@
     "diego-vel-zquez-las-meninas": {
       "day": 13,
       "title": "Las Meninas",
-      "artist": "Diego Velázquez",
+      "artist": "Diego Vel\u00e1zquez",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1280px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
       "source": "wikimedia"
     },
     "jean-honor--fragonard-the-swing": {
       "day": 14,
       "title": "The Swing",
-      "artist": "Jean-Honoré Fragonard",
+      "artist": "Jean-Honor\u00e9 Fragonard",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg/1280px-Joean_Honor%C3%A9_Fragonard_-_The_Swing.jpg",
       "source": "wikimedia"
     },
@@ -131,14 +131,14 @@
     "th-odore-g-ricault-the-raft-of-the-medusa": {
       "day": 16,
       "title": "The Raft of the Medusa",
-      "artist": "Théodore Géricault",
+      "artist": "Th\u00e9odore G\u00e9ricault",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1280px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
       "source": "wikimedia"
     },
     "eug-ne-delacroix-liberty-leading-the-people": {
       "day": 17,
       "title": "Liberty Leading the People",
-      "artist": "Eugène Delacroix",
+      "artist": "Eug\u00e8ne Delacroix",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
       "source": "wikimedia"
     },
@@ -166,14 +166,14 @@
     "jean-fran-ois-millet-the-gleaners": {
       "day": 21,
       "title": "The Gleaners",
-      "artist": "Jean-François Millet",
+      "artist": "Jean-Fran\u00e7ois Millet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
       "source": "wikimedia"
     },
     "-douard-manet-olympia": {
       "day": 22,
       "title": "Olympia",
-      "artist": "Édouard Manet",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg/1280px-Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
       "source": "wikimedia"
     },
@@ -193,8 +193,8 @@
     },
     "-douard-manet-a-bar-at-the-folies-berg-re": {
       "day": 25,
-      "title": "A Bar at the Folies-Bergère",
-      "artist": "Édouard Manet",
+      "title": "A Bar at the Folies-Berg\u00e8re",
+      "artist": "\u00c9douard Manet",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg/1280px-Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
       "source": "wikimedia"
     },
@@ -221,7 +221,7 @@
     },
     "vincent-van-gogh-caf--terrace-at-night": {
       "day": 29,
-      "title": "Café Terrace at Night",
+      "title": "Caf\u00e9 Terrace at Night",
       "artist": "Vincent van Gogh",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg/1280px-Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_%28Yorck%29.jpg",
       "source": "wikimedia"
@@ -250,14 +250,14 @@
     "paul-c-zanne-the-card-players": {
       "day": 33,
       "title": "The Card Players",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1280px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
     "paul-c-zanne-mont-sainte-victoire": {
       "day": 34,
       "title": "Mont Sainte-Victoire",
-      "artist": "Paul Cézanne",
+      "artist": "Paul C\u00e9zanne",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg/1280px-La_Montagne_Sainte-Victoire_vue_de_la_carri%C3%A8re_Bib%C3%A9mus%2C_par_Paul_C%C3%A9zanne.jpg",
       "source": "wikimedia"
     },
@@ -306,14 +306,14 @@
     "salvador-dal--the-persistence-of-memory": {
       "day": 41,
       "title": "The Persistence of Memory",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Persistence-of-Memory-by-Salvador-Dali.webp",
       "source": "school"
     },
     "ren--magritte-the-son-of-man": {
       "day": 42,
       "title": "The Son of Man",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Noun_project_-_The_Son_of_Man_-_in_frame_colored.png",
       "source": "wikimedia"
     },
@@ -488,21 +488,21 @@
     "ren--magritte-the-treachery-of-images": {
       "day": 67,
       "title": "The Treachery of Images",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Rene-Magritte-The-Treachery-of-Images.jpg",
       "source": "school"
     },
     "salvador-dal--the-elephants": {
       "day": 68,
       "title": "The Elephants",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Elephants.jpg",
       "source": "school"
     },
     "salvador-dal--the-burning-giraffe": {
       "day": 69,
       "title": "The Burning Giraffe",
-      "artist": "Salvador Dalí",
+      "artist": "Salvador Dal\u00ed",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/Salvador-Dali-The-Burning-Giraffe.jpg",
       "source": "school"
     },
@@ -579,7 +579,7 @@
     "ren--magritte-the-treachery-of-images--this-is-not-a-pipe-": {
       "day": 80,
       "title": "The Treachery of Images (This is Not a Pipe)",
-      "artist": "René Magritte",
+      "artist": "Ren\u00e9 Magritte",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/03/The-Treachery-of-Images-This-is-Not-a-Pipe-by-Rene-Magritte.jpg",
       "source": "school"
     },
@@ -740,7 +740,7 @@
     "matthias-gr-newald-the-crucifixion": {
       "day": 103,
       "title": "The Crucifixion",
-      "artist": "Matthias Grünewald",
+      "artist": "Matthias Gr\u00fcnewald",
       "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/04/Matthias-Grunewald-The-Crucifixion.jpg",
       "source": "school"
     },
@@ -958,106 +958,106 @@
       "day": 135,
       "title": "The Romans Leaving Britain",
       "artist": "Ford Madox Brown",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Ford-Madox-Brown-The-Romans-Leaving-Britain.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ford_Madox_Brown%3B_a_record_of_his_life_and_work_%28IA_fordmadoxbrownre00ford%29.pdf/page1-1280px-Ford_Madox_Brown%3B_a_record_of_his_life_and_work_%28IA_fordmadoxbrownre00ford%29.pdf.jpg",
+      "source": "wikimedia"
     },
     "frederic-leighton-flaming-june": {
       "day": 136,
       "title": "Flaming June",
       "artist": "Frederic Leighton",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Frederic-Leighton-Flaming-June.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flaming_June%2C_by_Frederic_Lord_Leighton_%281830-1896%29.jpg/1280px-Flaming_June%2C_by_Frederic_Lord_Leighton_%281830-1896%29.jpg",
+      "source": "wikimedia"
     },
     "edmund-blair-leighton-the-accolade": {
       "day": 137,
       "title": "The Accolade",
       "artist": "Edmund Blair Leighton",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Edmund-Blair-Leighton-The-Accolade-scaled.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Edmund_blair_leighton_accolade.jpg/1280px-Edmund_blair_leighton_accolade.jpg",
+      "source": "wikimedia"
     },
     "edmund-blair-leighton-godspeed": {
       "day": 138,
       "title": "Godspeed",
       "artist": "Edmund Blair Leighton",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Edmund-Blair-Leighton-Godspeed.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leighton-God_Speed%21.jpg/1280px-Leighton-God_Speed%21.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-hylas-and-the-nymphs": {
       "day": 139,
       "title": "Hylas and the Nymphs",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Hylas-and-the-Nymphs.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg/1280px-Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-lady-of-shalott-looking-at-lancelot": {
       "day": 140,
       "title": "The Lady of Shalott Looking at Lancelot",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Lady-of-Shalott-Looking-at-Lancelot.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/W.E.F._Britten_-_Alfred%2C_Lord_Tennyson_-_Lady_of_Shalott.jpg/1280px-W.E.F._Britten_-_Alfred%2C_Lord_Tennyson_-_Lady_of_Shalott.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-circe-offering-the-cup-to-ulysses": {
       "day": 141,
       "title": "Circe Offering the Cup to Ulysses",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Circe-Offering-the-Cup-to-Ulysses.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-echo-and-narcissus": {
       "day": 142,
       "title": "Echo and Narcissus",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Echo-and-Narcissus.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg/1280px-John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-cleopatra": {
       "day": 143,
       "title": "Cleopatra",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-Cleopatra.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cleopatra_-_John_William_Waterhouse.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-a-mermaid": {
       "day": 144,
       "title": "A Mermaid",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-A-Mermaid.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/John_William_Waterhouse_-_MermaidFXD.jpg/1280px-John_William_Waterhouse_-_MermaidFXD.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-soul-of-the-rose": {
       "day": 145,
       "title": "The Soul of the Rose",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Soul-of-the-Rose-scaled.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg/1280px-John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-the-danaides": {
       "day": 146,
       "title": "The Danaides",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/John-William-Waterhouse-The-Danaides.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Danaides_Waterhouse_1906.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-pandora": {
       "day": 147,
       "title": "Pandora",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/ohn-William-Waterhouse-Pandora.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Argynnis_pandora_LC0052.jpg/1280px-Argynnis_pandora_LC0052.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-circe-invidiosa": {
       "day": 148,
       "title": "Circe Invidiosa",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/J._W._Waterhouse_-_Circe_Invidiosa_-_Google_Art_Project-scaled.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/John_William_Waterhouse_%22Circe_Invidiosa%22_1892.jpg/1280px-John_William_Waterhouse_%22Circe_Invidiosa%22_1892.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-saint-cecilia": {
       "day": 149,
       "title": "Saint Cecilia",
       "artist": "John William Waterhouse",
-      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/05/Waterhouse_John_William_-_Saint_Cecilia_-_1895.jpg",
-      "source": "school"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Waterhouse%2C_John_William_-_Saint_Cecilia_-_1895.jpg/1280px-Waterhouse%2C_John_William_-_Saint_Cecilia_-_1895.jpg",
+      "source": "wikimedia"
     },
     "john-william-waterhouse-gather-ye-rosebuds-while-ye-may": {
       "day": 150,
@@ -1287,36 +1287,36 @@
       "day": 182,
       "title": "The Dream of Lancelot",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sir_Edward_Burne-Jones%3B_a_record_and_review_%28IA_siredwardburnejo00bellrich%29.pdf/page1-1280px-Sir_Edward_Burne-Jones%3B_a_record_and_review_%28IA_siredwardburnejo00bellrich%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Dream-of-Lancelot.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-sleep-of-arthur-in-avalon": {
       "day": 183,
       "title": "The Sleep of Arthur in Avalon",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/1280px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Sleep-of-Arthur-in-Avalon.jpg",
+      "source": "school"
     },
     "edward-burne-jones-perseus-and-the-sea-nymphs": {
       "day": 184,
       "title": "Perseus and the Sea Nymphs",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Perseus_and_the_Sea_Nymphs_-_Edward_Burne-Jones%2C_1877.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-Perseus-and-the-Sea-Nymphs.jpg",
+      "source": "school"
     },
     "edward-burne-jones-cupid-and-psyche": {
       "day": 185,
       "title": "Cupid and Psyche",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Edward_Burne-Jones_-_Cupid_and_Psyche_-_1922P202_-_Birmingham_Museums_Trust.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-Cupid-and-Psyche.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-rock-of-doom": {
       "day": 186,
       "title": "The Rock of Doom",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Rock_of_Doom_1885-1888_Edward_Burne-Jones.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Rock-of-Doom.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-baleful-head": {
       "day": 187,
@@ -1329,848 +1329,848 @@
       "day": 188,
       "title": "The Garden of Pan",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Edward_Burne-Jones_-_The_garden_of_Pan_-_Google_Art_Project.jpg/1280px-Edward_Burne-Jones_-_The_garden_of_Pan_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Garden-of-Pan.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-wine-of-circe": {
       "day": 189,
       "title": "The Wine of Circe",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edward_Burne-Jones_-_Study_of_a_Head.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Wine-of-Circe.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-mill": {
       "day": 190,
       "title": "The Mill",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edward_Burne-Jones_-_The_Adoration_of_the_Magi_-_Google_Art_Project.jpg/1280px-Edward_Burne-Jones_-_The_Adoration_of_the_Magi_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Mill.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-garden-court": {
       "day": 191,
       "title": "The Garden Court",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Edward_Burne-Jones_%281833-1898%29_-_The_Garden_Court_%28from_the_Briar_Rose_series%29_-_K928_-_Bristol_City_Museum_%5E_Art_Gallery.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Garden-Court.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-council-chamber": {
       "day": 192,
       "title": "The Council Chamber",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Council_Chamber_1872-92_Edward_Burne-Jones.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Council-Chamber.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-rose-bower": {
       "day": 193,
       "title": "The Rose Bower",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sir_Edward_Coley_Burne-Jones%2C_Bt_-_The_Rose_Bower_-_B2019.7.4_-_Yale_Center_for_British_Art.jpg/1280px-Sir_Edward_Coley_Burne-Jones%2C_Bt_-_The_Rose_Bower_-_B2019.7.4_-_Yale_Center_for_British_Art.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Rose-Bower.jpg",
+      "source": "school"
     },
     "edward-burne-jones-laus-veneris": {
       "day": 194,
       "title": "Laus Veneris",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Laus_Veneris_by_Edward_Burne-Jones.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Laus_Veneris_by_Edward_Burne-Jones.jpg",
+      "source": "school"
     },
     "edward-burne-jones-sidonia-von-bork": {
       "day": 195,
       "title": "Sidonia von Bork",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Edward_Burne-Jones_Sidonia_von_Bork.jpg/1280px-Edward_Burne-Jones_Sidonia_von_Bork.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-Sidonia-von-Bork.jpg",
+      "source": "school"
     },
     "edward-burne-jones-clara-von-bork": {
       "day": 196,
       "title": "Clara von Bork",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Exhibition_of_the_works_of_Sir_Edward_Burne-Jones%2C_Bart._%28IA_exhibitionofwork00newgiala%29.pdf/page1-1280px-Exhibition_of_the_works_of_Sir_Edward_Burne-Jones%2C_Bart._%28IA_exhibitionofwork00newgiala%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-Clara-von-Bork.jpg",
+      "source": "school"
     },
     "edward-burne-jones-the-merciful-knight": {
       "day": 197,
       "title": "The Merciful Knight",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Edward_Burne-Jones_-_The_Merciful_Knight_-_Google_Art_Project.jpg/1280px-Edward_Burne-Jones_-_The_Merciful_Knight_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-The-Merciful-Knight.jpg",
+      "source": "school"
     },
     "edward-burne-jones-green-summer": {
       "day": 198,
       "title": "Green Summer",
       "artist": "Edward Burne-Jones",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edward_Burne-Jones_Green_Summer_%281864%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Edward-Burne-Jones-Green-Summer.jpg",
+      "source": "school"
     },
     "john-everett-millais-autumn-leaves": {
       "day": 199,
       "title": "Autumn Leaves",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Copper_Beech_Fagus_sylvatica_f._purpurea_Autumn_Leaves_Closeup_3008px.jpg/1280px-Copper_Beech_Fagus_sylvatica_f._purpurea_Autumn_Leaves_Closeup_3008px.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Autumn-Leaves.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-blind-girl": {
       "day": 200,
       "title": "The Blind Girl",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg/1280px-John_Everett_Millais_-_The_Blind_Girl%2C_1854-56.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Blind-Girl.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-order-of-release": {
       "day": 201,
       "title": "The Order of Release",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/John_Everett_Millais_-_The_Order_of_Release_1746_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_The_Order_of_Release_1746_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Order-of-Release.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-boyhood-of-raleigh": {
       "day": 202,
       "title": "The Boyhood of Raleigh",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/John_Everett_Millais_%281829-1896%29_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg/1280px-John_Everett_Millais_%281829-1896%29_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Boyhood-of-Raleigh.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-north-west-passage": {
       "day": 203,
       "title": "The North-West Passage",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/John_Everett_Millais_-_The_North-West_Passage_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_The_North-West_Passage_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-North-West-Passage.jpg",
+      "source": "school"
     },
     "john-everett-millais-bubbles": {
       "day": 204,
       "title": "Bubbles",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bubbles_by_John_Everett_Millais.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Bubbles.jpg",
+      "source": "school"
     },
     "john-everett-millais-cherry-ripe": {
       "day": 205,
       "title": "Cherry Ripe",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cherry_Ripe_-_Sir_John_Everett_Millais.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Cherry-Ripe.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-ruling-passion": {
       "day": 206,
       "title": "The Ruling Passion",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/John_everett_millais_ruling_passion.jpg/1280px-John_everett_millais_ruling_passion.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Ruling-Passion.jpg",
+      "source": "school"
     },
     "john-everett-millais-chill-october": {
       "day": 207,
       "title": "Chill October",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Chill_October.jpg/1280px-Chill_October.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Chill-October.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-vale-of-rest": {
       "day": 208,
       "title": "The Vale of Rest",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Millais_-_Das_Tal_der_Stille.jpg/1280px-Millais_-_Das_Tal_der_Stille.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Vale-of-Rest.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-black-brunswicker": {
       "day": 209,
       "title": "The Black Brunswicker",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Everett_Millais_The_Black_Brunswicker.jpg/1280px-John_Everett_Millais_The_Black_Brunswicker.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Black-Brunswicker.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-huguenot": {
       "day": 210,
       "title": "The Huguenot",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Huguenot_lovers_on_St._Bartholomew%27s_Day.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Huguenot.jpg",
+      "source": "school"
     },
     "john-everett-millais-mariana": {
       "day": 211,
       "title": "Mariana",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/John_Everett_Millais_-_Mariana_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_Mariana_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Mariana.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-return-of-the-dove-to-the-ark": {
       "day": 212,
       "title": "The Return of the Dove to the Ark",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Millais_-_Die_R%C3%BCckkehr_der_Taube_zur_Arche_Noah.jpg/1280px-Millais_-_Die_R%C3%BCckkehr_der_Taube_zur_Arche_Noah.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Return-of-the-Dove-to-the-Ark.jpg",
+      "source": "school"
     },
     "john-everett-millais-lorenzo-and-isabella": {
       "day": 213,
       "title": "Lorenzo and Isabella",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/John_Everett_Millais_-_Isabella_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_Isabella_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Lorenzo-and-Isabella.jpg",
+      "source": "school"
     },
     "john-everett-millais-christ-in-the-house-of-his-parents": {
       "day": 214,
       "title": "Christ in the House of His Parents",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_%28%60The_Carpenter%27s_Shop%27%29_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_%28%60The_Carpenter%27s_Shop%27%29_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-Christ-in-the-House-of-His-Parents.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-eve-of-st--agnes": {
       "day": 215,
       "title": "The Eve of St. Agnes",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Madeleine_undressing_%E2%80%93_Eve_of_St_Agnes%2C_John_Everett_Millais.jpg/1280px-Madeleine_undressing_%E2%80%93_Eve_of_St_Agnes%2C_John_Everett_Millais.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Eve-of-St.-Agnes.jpg",
+      "source": "school"
     },
     "john-everett-millais-the-somnambulist": {
       "day": 216,
       "title": "The Somnambulist",
       "artist": "John Everett Millais",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2017-02_Sir_John_Everett_Millais_-_A_Somnambulist.jpg/1280px-2017-02_Sir_John_Everett_Millais_-_A_Somnambulist.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/John-Everett-Millais-The-Somnambulist.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-the-crown-of-love": {
       "day": 217,
       "title": "The Crown of Love",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rossetti_-_The_poems_of_Dante_Gabriel_Rossetti._1%2C_1904.djvu/page1-1280px-Rossetti_-_The_poems_of_Dante_Gabriel_Rossetti._1%2C_1904.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-The-Crown-of-Love.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-veronica-veronese": {
       "day": 218,
       "title": "Veronica Veronese",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Veronica_Veronese_DAM.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-Veronica-Veronese.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-the-day-dream": {
       "day": 219,
       "title": "The Day Dream",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg/1280px-Dante_Gabriel_Rossetti_-_The_Day_Dream_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-The-Day-Dream.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-la-ghirlandata": {
       "day": 220,
       "title": "La Ghirlandata",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rossetti%2C_Dante_Gabriel_-_La_Ghirlandata_-_1871-1874.jpg/1280px-Rossetti%2C_Dante_Gabriel_-_La_Ghirlandata_-_1871-1874.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-La-Ghirlandata.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-monna-vanna": {
       "day": 221,
       "title": "Monna Vanna",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dante_Gabriel_Rossetti_-_Monna_Vanna.jpg/1280px-Dante_Gabriel_Rossetti_-_Monna_Vanna.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-Monna-Vanna.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-bocca-baciata": {
       "day": 222,
       "title": "Bocca Baciata",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png/1280px-Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-Bocca-Baciata.png",
+      "source": "school"
     },
     "dante-gabriel-rossetti-found": {
       "day": 223,
       "title": "Found",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Found_rossetti.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-Found.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-how-they-met-themselves": {
       "day": 224,
       "title": "How They Met Themselves",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dante_Gabriel_Rossetti_-_How_They_Met_Themselves_%281860-64_circa%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-How-They-Met-Themselves.jpg",
+      "source": "school"
     },
     "dante-gabriel-rossetti-sir-galahad-at-the-ruined-chapel": {
       "day": 225,
       "title": "Sir Galahad at the Ruined Chapel",
       "artist": "Dante Gabriel Rossetti",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dante_Gabriel_Rossetti_-_Sir_Galahad_at_the_ruined_Chapel_-_Google_Art_Project.jpg/1280px-Dante_Gabriel_Rossetti_-_Sir_Galahad_at_the_ruined_Chapel_-_Google_Art_Project.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Dante-Gabriel-Rossetti-Sir-Galahad-at-the-Ruined-Chapel.jpg",
+      "source": "school"
     },
     "jackson-pollock-number-1--1949": {
       "day": 226,
       "title": "Number 1, 1949",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Roy_and_Marie_Neuberger_collection%2C_modern_American_painting_and_sculpture.pdf/page1-1280px-Roy_and_Marie_Neuberger_collection%2C_modern_American_painting_and_sculpture.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Number-1-1949.jpg",
+      "source": "school"
     },
     "jackson-pollock-full-fathom-five": {
       "day": 227,
       "title": "Full Fathom Five",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Michael_Dan_Archer%2C_Full_Fathom_Five_%E2%80%93_Seafarer%27s_Monument_%282007%E2%80%932008%29_in_Portishead%2C_Somerset%2C_UK.jpg/1280px-Michael_Dan_Archer%2C_Full_Fathom_Five_%E2%80%93_Seafarer%27s_Monument_%282007%E2%80%932008%29_in_Portishead%2C_Somerset%2C_UK.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Full-Fathom-Five.jpg",
+      "source": "school"
     },
     "jackson-pollock-mural": {
       "day": 228,
       "title": "Mural",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Audience-members-at-dedication-of-Marian-Anderson-mural-1943.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Mural.jpg",
+      "source": "school"
     },
     "jackson-pollock-the-she-wolf": {
       "day": 229,
       "title": "The She-Wolf",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fonte_Gaia_-_she_wolf_detail.jpg/1280px-Fonte_Gaia_-_she_wolf_detail.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-The-She-Wolf.jpg",
+      "source": "school"
     },
     "jackson-pollock-eyes-in-the-heat": {
       "day": 230,
       "title": "Eyes in the Heat",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_conservation_of_vision%3B_an_essay_on_the_care_of_the_eyes-_eye-strain%2C_eye_diseases%2C_illumination%2C_improvement_%28IA_cu31924012169391%29.pdf/page1-1280px-The_conservation_of_vision%3B_an_essay_on_the_care_of_the_eyes-_eye-strain%2C_eye_diseases%2C_illumination%2C_improvement_%28IA_cu31924012169391%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Eyes-in-the-Heat.jpg",
+      "source": "school"
     },
     "jackson-pollock-easter-and-the-totem": {
       "day": 231,
       "title": "Easter and the Totem",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/14dc5686-d7ae-7fe1-ec7d-adf14eb18b53/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Easter-and-the-Totem.jpg",
+      "source": "school"
     },
     "jackson-pollock-the-deep": {
       "day": 232,
       "title": "The Deep",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-The-Deep.jpg",
+      "source": "school"
     },
     "jackson-pollock-convergence": {
       "day": 233,
       "title": "Convergence",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Convergence_Paths.jpg/1280px-Convergence_Paths.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Convergence.jpg",
+      "source": "school"
     },
     "jackson-pollock-greyed-rainbow": {
       "day": 234,
       "title": "Greyed Rainbow",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Upton_Grey_rainbow_-_geograph.org.uk_-_4494065.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Greyed-Rainbow.jpg",
+      "source": "school"
     },
     "jackson-pollock-untitled--green-silver-": {
       "day": 235,
       "title": "Untitled (Green Silver)",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://www.artic.edu/iiif/2/2e86a8a8-85f7-9112-64c7-2450d38baf0e/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Untitled-Green-Silver.jpg",
+      "source": "school"
     },
     "jackson-pollock-number-5a": {
       "day": 236,
       "title": "Number 5A",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Centennial_guide_of_the_Exposition_and_Philadelphia_.._%28IA_centennialguideo02phil%29.pdf/page1-1280px-Centennial_guide_of_the_Exposition_and_Philadelphia_.._%28IA_centennialguideo02phil%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Number-5A.jpg",
+      "source": "school"
     },
     "jackson-pollock-cathedral": {
       "day": 237,
       "title": "Cathedral",
       "artist": "Jackson Pollock",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lutheran_Cathedral_Helsinki.jpg/1280px-Lutheran_Cathedral_Helsinki.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Jackson-Pollock-Cathedral.jpg",
+      "source": "school"
     },
     "willem-de-kooning-troubled-queen": {
       "day": 238,
       "title": "Troubled Queen",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Troubled-Queen.webp",
+      "source": "school"
     },
     "willem-de-kooning-excavation": {
       "day": 239,
       "title": "Excavation",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/KailasaTemple-Cave-16-Ellora-Maharashtra-JM15.jpg/1280px-KailasaTemple-Cave-16-Ellora-Maharashtra-JM15.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Excavation.jpg",
+      "source": "school"
     },
     "willem-de-kooning-gotham-news": {
       "day": 240,
       "title": "Gotham News",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fifty_famous_stories_retold_%28IA_cu31924014495281%29.pdf/page1-1280px-Fifty_famous_stories_retold_%28IA_cu31924014495281%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Gotham-News.jpg",
+      "source": "school"
     },
     "willem-de-kooning-woman-ii": {
       "day": 241,
       "title": "Woman II",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Munch_-_Woman_II%2C_MM.G.00020-05.jpg/1280px-Munch_-_Woman_II%2C_MM.G.00020-05.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Woman-II.jpg",
+      "source": "school"
     },
     "willem-de-kooning-woman-iii": {
       "day": 242,
       "title": "Woman III",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Woman_III_-_grafitti_%28793993194%29.jpg/1280px-Woman_III_-_grafitti_%28793993194%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Woman-III.jpg",
+      "source": "school"
     },
     "willem-de-kooning-woman-iv": {
       "day": 243,
       "title": "Woman IV",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Woman_IV_-_grafitti_%28801860855%29.jpg/1280px-Woman_IV_-_grafitti_%28801860855%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Woman-IV.jpg",
+      "source": "school"
     },
     "willem-de-kooning-woman-v": {
       "day": 244,
       "title": "Woman V",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tomb_effigy_of_a_woman%2C_V%26A_London.jpg/1280px-Tomb_effigy_of_a_woman%2C_V%26A_London.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Woman-V.jpg",
+      "source": "school"
     },
     "willem-de-kooning-woman-vi": {
       "day": 245,
       "title": "Woman VI",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Annual_exhibition_of_contemporary_American_painting%2C_1959.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1959.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Woman-VI.jpg",
+      "source": "school"
     },
     "willem-de-kooning-a-tree-in-naples": {
       "day": 246,
       "title": "A Tree in Naples",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tree_House_-_Naples_Botanical_Garden_-_Naples%2C_Florida_-_DSC09625.jpg/1280px-Tree_House_-_Naples_Botanical_Garden_-_Naples%2C_Florida_-_DSC09625.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-A-Tree-in-Naples.jpg",
+      "source": "school"
     },
     "willem-de-kooning-door-to-the-river": {
       "day": 247,
       "title": "Door to the River",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_door_of_Clarence_River_Lighthouse_%28Yamba_Lighthouse%29_12.jpg/1280px-The_door_of_Clarence_River_Lighthouse_%28Yamba_Lighthouse%29_12.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Door-to-the-River.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-xxv": {
       "day": 248,
       "title": "Untitled XXV",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-XXV.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-iii": {
       "day": 249,
       "title": "Untitled III",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yehiel_Shemi_%E2%80%93_Untitled._III.jpg/1280px-Yehiel_Shemi_%E2%80%93_Untitled._III.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-III.jpg",
+      "source": "school"
     },
     "willem-de-kooning-rosy-fingered-dawn-at-louse-point": {
       "day": 250,
       "title": "Rosy-Fingered Dawn at Louse Point",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Annual_exhibition_of_contemporary_American_painting%2C_1963.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1963.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Rosy-Fingered-Dawn-at-Louse-Point.jpg",
+      "source": "school"
     },
     "willem-de-kooning-villa-borghese": {
       "day": 251,
       "title": "Villa Borghese",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sculpture_%284%29_%28Villa_Borghese%29.jpg/1280px-Sculpture_%284%29_%28Villa_Borghese%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Villa-Borghese.jpg",
+      "source": "school"
     },
     "willem-de-kooning-suburb-in-havana": {
       "day": 252,
       "title": "Suburb in Havana",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Suburb-in-Havana.jpg",
+      "source": "school"
     },
     "willem-de-kooning-montauk-highway": {
       "day": 253,
       "title": "Montauk Highway",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Montauk_Highway_marker.svg/1280px-Montauk_Highway_marker.svg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Montauk-Highway.jpg",
+      "source": "school"
     },
     "willem-de-kooning-parc-rosenberg": {
       "day": 254,
       "title": "Parc Rosenberg",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Parc-Rosenberg.jpg",
+      "source": "school"
     },
     "willem-de-kooning-bolton-landing": {
       "day": 255,
       "title": "Bolton Landing",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Annual_exhibition_of_contemporary_American_sculpture%2C_watercolors%2C_drawings%2C_1951.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_sculpture%2C_watercolors%2C_drawings%2C_1951.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Bolton-Landing.png",
+      "source": "school"
     },
     "willem-de-kooning-backyard-on-tenth-street": {
       "day": 256,
       "title": "Backyard on Tenth Street",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Annual_exhibition_of_contemporary_American_painting%2C_1972.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1972.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Backyard-on-Tenth-Street.jpg",
+      "source": "school"
     },
     "willem-de-kooning-composition": {
       "day": 257,
       "title": "Composition",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atmosphere_composition_diagram-en.svg/1280px-Atmosphere_composition_diagram-en.svg.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Composition.jpg",
+      "source": "school"
     },
     "willem-de-kooning-two-figures-in-a-landscape": {
       "day": 258,
       "title": "Two Figures in a Landscape",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renoir_-_two-figures-in-a-landscape-1866.jpg%21PinterestLarge.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Two-Figures-in-a-Landscape.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled--the-visit-": {
       "day": 259,
       "title": "Untitled (The Visit)",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Annual_exhibition_of_contemporary_American_painting%2C_1972.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1972.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-The-Visit.jpg",
+      "source": "school"
     },
     "willem-de-kooning-whose-name-was-writ-in-water": {
       "day": 260,
       "title": "Whose Name Was Writ in Water",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Poem_by_George_O%27Neil_to_Thekla_Bernays_titled_%22Missive_for_One_Whose_Name_Was_Writ_in_Water%2C%22_1927-1928_-_DPLA_-_5314daf5f29ff0b1c114ff29d79b2166.jpg/1280px-Poem_by_George_O%27Neil_to_Thekla_Bernays_titled_%22Missive_for_One_Whose_Name_Was_Writ_in_Water%2C%22_1927-1928_-_DPLA_-_5314daf5f29ff0b1c114ff29d79b2166.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Whose-Name-Was-Writ-in-Water.jpg",
+      "source": "school"
     },
     "willem-de-kooning-north-atlantic-light": {
       "day": 261,
       "title": "North Atlantic Light",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Annual_exhibition_of_contemporary_American_painting%2C_1969.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1969.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-North-Atlantic-Light.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-xxii": {
       "day": 262,
       "title": "Untitled XXII",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-XXII.jpg",
+      "source": "school"
     },
     "willem-de-kooning-pirate--untitled-ii-": {
       "day": 263,
       "title": "Pirate (Untitled II)",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/3182d5ce-6518-400d-2df4-60d3ecfcfd44/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Pirate-Untitled-II.jpg",
+      "source": "school"
     },
     "willem-de-kooning-morning--the-springs": {
       "day": 264,
       "title": "Morning: The Springs",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Morning_Glory_Spring_-_post_card_-122_%2815814638155%29.jpg/1280px-Morning_Glory_Spring_-_post_card_-122_%2815814638155%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Morning-The-Springs.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-iv": {
       "day": 265,
       "title": "Untitled IV",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-IV.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-vii": {
       "day": 266,
       "title": "Untitled VII",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Annual_exhibition_of_contemporary_American_painting%2C_1963.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1963.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-VII.jpg",
+      "source": "school"
     },
     "willem-de-kooning-untitled-viii": {
       "day": 267,
       "title": "Untitled VIII",
       "artist": "Willem de Kooning",
-      "imageUrl": "https://www.artic.edu/iiif/2/c35806db-6416-36d0-2582-d700dad29607/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Willem-de-Kooning-Untitled-VIII.jpg",
+      "source": "school"
     },
     "robert-motherwell-cloisters": {
       "day": 268,
       "title": "Cloisters",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Miscellaneous_essays_and_addresses_%28IA_cu31924027758022%29.pdf/page1-1280px-Miscellaneous_essays_and_addresses_%28IA_cu31924027758022%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Cloisters.jpg",
+      "source": "school"
     },
     "robert-motherwell-summer-open-with-mediterranean-blue": {
       "day": 269,
       "title": "Summer Open with Mediterranean Blue",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Summer-Open-with-Mediterranean-Blue.jpg",
+      "source": "school"
     },
     "robert-motherwell-open-no--122--in-scarlet-with-white-line": {
       "day": 270,
       "title": "Open No. 122: In Scarlet with White Line",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Record_of_the_Distribution_%28IA_jstor-20646836%29.pdf/page1-1280px-The_Record_of_the_Distribution_%28IA_jstor-20646836%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Open-No.-122-In-Scarlet-with-White-Line.jpg",
+      "source": "school"
     },
     "robert-motherwell-je-t-aime": {
       "day": 271,
       "title": "Je t'aime",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Annual_exhibition_of_contemporary_American_sculpture%2C_paintings%2C_watercolors%2C_1957.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_sculpture%2C_paintings%2C_watercolors%2C_1957.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Je-taime.jpg",
+      "source": "school"
     },
     "robert-motherwell-chi-ama--crede": {
       "day": 272,
       "title": "Chi Ama, Crede",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/I_Bastardi_-_ovvero%2C_I_Figli_Abbandonati_%28IA_2917051.0001.001.umich.edu%29.pdf/page1-1280px-I_Bastardi_-_ovvero%2C_I_Figli_Abbandonati_%28IA_2917051.0001.001.umich.edu%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Chi-Ama-Crede.jpg",
+      "source": "school"
     },
     "robert-motherwell-dublin-1916--with-black-and-tan": {
       "day": 273,
       "title": "Dublin 1916, with Black and Tan",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/b5829509-b31a-4422-3e9c-7a2890b26394/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Dublin-1916-with-Black-and-Tan.jpg",
+      "source": "school"
     },
     "robert-motherwell-africa": {
       "day": 274,
       "title": "Africa",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nature_%28IA_nature801909lock%29.pdf/page1-1280px-Nature_%28IA_nature801909lock%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Africa.jpg",
+      "source": "school"
     },
     "robert-motherwell-iberia": {
       "day": 275,
       "title": "Iberia",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Iberia_regions_map_%28it%29.png/1280px-Iberia_regions_map_%28it%29.png",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Iberia.webp",
+      "source": "school"
     },
     "robert-motherwell-black-on-white": {
       "day": 276,
       "title": "Black on White",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg/1280px-Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Black-on-White.jpg",
+      "source": "school"
     },
     "robert-motherwell-in-black-and-white": {
       "day": 277,
       "title": "In Black and White",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg/1280px-Model_Rosie_on_a_bed_-_In_Black_and_White_%2814192377223%29.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-In-Black-and-White.jpg",
+      "source": "school"
     },
     "robert-motherwell-pancho-villa--dead-and-alive": {
       "day": 278,
       "title": "Pancho Villa, Dead and Alive",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Pancho-Villa-Dead-and-Alive.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-voyage": {
       "day": 279,
       "title": "The Voyage",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Voyage.jpg",
+      "source": "school"
     },
     "robert-motherwell-at-five-in-the-afternoon": {
       "day": 280,
       "title": "At Five in the Afternoon",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf/page1-1280px-The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-At-Five-in-the-Afternoon.webp",
+      "source": "school"
     },
     "robert-motherwell-granada": {
       "day": 281,
       "title": "Granada",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A_guide_to_British_and_American_novels%3B_being_a_comprehensive_manual_of_all_forms_of_popular_fiction_in_Great_Britain%2C_Australasia%2C_and_America_from_its_commencement_down_to_1894_%28IA_cu31924013275247%29.pdf/page1-1280px-thumbnail.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Granada.webp",
+      "source": "school"
     },
     "robert-motherwell-seville": {
       "day": 282,
       "title": "Seville",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/A_gallery_of_famous_English_and_American_poets_%28IA_galleryoffamouse00copp%29.pdf/page1-1280px-A_gallery_of_famous_English_and_American_poets_%28IA_galleryoffamouse00copp%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Seville.jpg",
+      "source": "school"
     },
     "robert-motherwell-mediterranean-series": {
       "day": 283,
       "title": "Mediterranean Series",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1965.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Mediterranean-Series.webp",
+      "source": "school"
     },
     "robert-motherwell-beside-the-sea": {
       "day": 284,
       "title": "Beside the Sea",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf/page1-1280px-The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Beside-the-Sea.jpg",
+      "source": "school"
     },
     "robert-motherwell-summertime-in-italy": {
       "day": 285,
       "title": "Summertime in Italy",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Summertime-in-Italy.jpg",
+      "source": "school"
     },
     "robert-motherwell-wall-painting-with-stripes": {
       "day": 286,
       "title": "Wall Painting with Stripes",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Endymion._A_tale_of_Greece_%28IA_endymiontaleofgr00hirs%29.pdf/page1-1280px-Endymion._A_tale_of_Greece_%28IA_endymiontaleofgr00hirs%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Wall-Painting-with-Stripes.jpg",
+      "source": "school"
     },
     "robert-motherwell-western-air": {
       "day": 287,
       "title": "Western Air",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Air_Officer_Commanding-in-Chief%2C_Western_Air_Command%2C_Air_Marshal_D.C._Kumaria%2C_Flagging-in_the_Western_Air_Command_Motorcycle_Expedition_commemorating_the_%E2%80%98Kargil_Divas%E2%80%99_anniversary_at_Headquarters_Western_Air_Command.jpg/1280px-thumbnail.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Western-Air.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-red-skirt": {
       "day": 288,
       "title": "The Red Skirt",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Red_skirt_and_church_porch.jpg/1280px-Red_skirt_and_church_porch.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Red-Skirt.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-tearingness-of-painting": {
       "day": 289,
       "title": "The Tearingness of Painting",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://images.metmuseum.org/CRDImages/es/original/DP-28360-001.jpg",
-      "source": "met"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Tearingness-of-Painting.webp",
+      "source": "school"
     },
     "robert-motherwell-summertime-in-italy-no--2": {
       "day": 290,
       "title": "Summertime in Italy No. 2",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1967.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Summertime-in-Italy-No.-2.webp",
+      "source": "school"
     },
     "robert-motherwell-irish-elegy": {
       "day": 291,
       "title": "Irish Elegy",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf/page1-1280px-The_works_of_Robert_Tannahill_-_with_life_of_the_author%2C_and_a_memoir_of_Robert_A._Smith%2C_the_musical_composer_%28IA_worksofroberttan00tann%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Irish-Elegy.jpg",
+      "source": "school"
     },
     "robert-motherwell-mexican-night": {
       "day": 292,
       "title": "Mexican Night",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_painting%2C_1950.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Mexican-Night.jpg",
+      "source": "school"
     },
     "robert-motherwell-red-sea": {
       "day": 293,
       "title": "Red Sea",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Red-Sea.jpg",
+      "source": "school"
     },
     "robert-motherwell-rite-of-passage": {
       "day": 294,
       "title": "Rite of Passage",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Biographic_and_Descriptive_Sketches_of_Glasgow_Necropolis_%28IA_biographicdescri01blai%29.pdf/page1-1280px-Biographic_and_Descriptive_Sketches_of_Glasgow_Necropolis_%28IA_biographicdescri01blai%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Rite-of-Passage.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-spanish-picture-with-window": {
       "day": 295,
       "title": "The Spanish Picture with Window",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Annual_exhibition_of_contemporary_American_sculpture%2C_paintings%2C_watercolors%2C_drawings%2C_1958.pdf/page1-1280px-Annual_exhibition_of_contemporary_American_sculpture%2C_paintings%2C_watercolors%2C_drawings%2C_1958.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Spanish-Picture-with-Window.jpg",
+      "source": "school"
     },
     "robert-motherwell-personage-with-yellow-ochre-and-white": {
       "day": 296,
       "title": "Personage with Yellow Ochre and White",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Personage-with-Yellow-Ochre-and-White.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-french-line": {
       "day": 297,
       "title": "The French Line",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-French-Line.jpg",
+      "source": "school"
     },
     "robert-motherwell-reconciliation-elegy": {
       "day": 298,
       "title": "Reconciliation Elegy",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Reconciliation-Elegy.webp",
+      "source": "school"
     },
     "robert-motherwell-black-sounds": {
       "day": 299,
       "title": "Black Sounds",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_poetical_works_of_William_Motherwell_%28IA_poeticalworksofw01moth%29.pdf/page1-1280px-The_poetical_works_of_William_Motherwell_%28IA_poeticalworksofw01moth%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Black-Sounds.webp",
+      "source": "school"
     },
     "robert-motherwell-threatening-presence": {
       "day": 300,
       "title": "Threatening Presence",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_several_dispensations_of_the_government_and_grace_of_God_from_the_Adamic_to_the_Christian_%28microform%29_%28IA_cihm_07212%29.pdf/page1-1280px-The_several_dispensations_of_the_government_and_grace_of_God_from_the_Adamic_to_the_Christian_%28microform%29_%28IA_cihm_07212%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Threatening-Presence.webp",
+      "source": "school"
     },
     "robert-motherwell-blue-painting-lesson": {
       "day": 301,
       "title": "Blue Painting Lesson",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Blue-Painting-Lesson.jpg",
+      "source": "school"
     },
     "robert-motherwell-samurai": {
       "day": 302,
       "title": "Samurai",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kuno_Samurai_Residence_12.jpg/1280px-Kuno_Samurai_Residence_12.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Samurai.jpg",
+      "source": "school"
     },
     "robert-motherwell-summer-light-series": {
       "day": 303,
       "title": "Summer Light Series",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Summer-Light-Series.webp",
+      "source": "school"
     },
     "robert-motherwell-night-music-opus--18": {
       "day": 304,
       "title": "Night Music Opus #18",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://www.artic.edu/iiif/2/9e26e536-e41b-c7c4-1e0a-1d397cb142cd/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Night-Music-Opus-18.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-hollow-men": {
       "day": 305,
       "title": "The Hollow Men",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Celebration_of_the_centennial_anniversary_of_the_birth_of_Robert_Burns_.._%28IA_celebrationofcen00jean%29.pdf/page1-1280px-Celebration_of_the_centennial_anniversary_of_the_birth_of_Robert_Burns_.._%28IA_celebrationofcen00jean%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Hollow-Men.jpg",
+      "source": "school"
     },
     "robert-motherwell-the-poet": {
       "day": 306,
       "title": "The Poet",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-The-Poet.webp",
+      "source": "school"
     },
     "robert-motherwell-music-with-red-and-blue": {
       "day": 307,
       "title": "Music with Red and Blue",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Poetical_Works_of_William_Motherwell%2C_1849.djvu/page1-1280px-The_Poetical_Works_of_William_Motherwell%2C_1849.djvu.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Music-with-Red-and-Blue.webp",
+      "source": "school"
     },
     "robert-motherwell-emperor-of-china": {
       "day": 308,
       "title": "Emperor of China",
       "artist": "Robert Motherwell",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_book_of_eloquence-_%28IA_bookofeloquence00warn%29.pdf/page1-1280px-The_book_of_eloquence-_%28IA_bookofeloquence00warn%29.pdf.jpg",
-      "source": "wikimedia"
+      "imageUrl": "https://stranraeracademy.org/wp-content/uploads/2026/07/Robert-Motherwell-Emperor-of-China.jpg",
+      "source": "school"
     },
     "henri-matisse-red-studio": {
       "day": 309,
@@ -2230,7 +2230,7 @@
     },
     "henri-matisse-luxe--calme-et-volupt-": {
       "day": 317,
-      "title": "Luxe, Calme et Volupté",
+      "title": "Luxe, Calme et Volupt\u00e9",
       "artist": "Henri Matisse",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg/1280px-Henri_Matisse%2C_1904%2C_Luxe%2C_Calme_et_Volupt%C3%A9%2C_oil_on_canvas%2C_98.5_%C3%97_118.5_cm%2C_Mus%C3%A9e_National_d%27Art_Moderne%2C_Centre_Pompidou_%28detail_lower_left%29.jpg",
       "source": "wikimedia"
