@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-16T07:22:56.123Z",
+  "updated": "2026-07-16T12:21:08.287Z",
   "news": [
+    {
+      "title": "UK's extreme weather is the new normal - Met Office",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg",
+      "published": "7/15/2026, 11:52:26 AM",
+      "desc": "The latest report on the UK's climate warns cold mountainous areas are also being lost."
+    },
+    {
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acd7/live/1d668290-8037-11f1-86b6-ffbb9ce74513.jpg",
+      "published": "7/15/2026, 11:52:24 AM",
+      "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks."
+    },
+    {
+      "title": "Several flights diverted after plane blocks Gatwick runway",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d8f/live/9b8ebd00-8009-11f1-bb75-11c541dbc811.jpg",
+      "published": "7/15/2026, 11:07:23 AM",
+      "desc": "An Easyjet flight had to land at Stanstead Airport instead, but then became stuck there when it couldn't find fuel."
+    },
+    {
+      "title": "Xbox layoffs: What's next for the video game giant?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c932eynvq1do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e23/live/fa524280-7f8c-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/15/2026, 10:37:26 AM",
+      "desc": "The video game giant owned by Microsoft plans to let 3,200 workers go. Will it be a big reset or a system crash?"
+    },
+    {
+      "title": "Travellers warned of methanol poisoning risks in new campaign",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/410b/live/b8303310-8033-11f1-a2a1-e90920ef9667.jpg",
+      "published": "7/15/2026, 10:37:16 AM",
+      "desc": "Holidaymakers are urged to understand the dangers and symptoms of methanol poisoning."
+    },
+    {
+      "title": "Buy Now Pay Later rules to bring refunds and rejections",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d55c/live/e2e009b0-7ec0-11f1-8439-ebc9c5f19300.jpg",
+      "published": "7/15/2026, 8:22:15 AM",
+      "desc": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate."
+    },
     {
       "title": "Hosepipe ban in force for millions of households - is your area affected?",
       "source": "BBC News",
@@ -16,57 +64,73 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b0e/live/66ecdd00-7fc5-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/15/2026, 5:22:22 AM",
       "desc": "Craig and Lindsay Foreman were arrested on spying charges last January while passing through Iran on a motorcycle journey."
-    },
-    {
-      "title": "Newspaper headlines: 'You can do this' and 'Widdecombe suspect probed'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjdgdj3mmdyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eabe/live/7fc09620-7fd7-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/15/2026, 1:52:23 AM",
-      "desc": "A nervous build-up for England in the World Cup semi-finals and the investigation into the death of Ann Widdecombe lead the papers."
-    },
-    {
-      "title": "Heating oil customers to get compensation after cancelled orders and price hikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cb5/live/a97b22b0-7f95-11f1-ac71-510b51a60620.jpg",
-      "published": "7/15/2026, 12:37:20 AM",
-      "desc": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices."
-    },
-    {
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fd9/live/190796e0-7fd7-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/15/2026, 12:07:24 AM",
-      "desc": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday."
-    },
-    {
-      "title": "Trump retreat over Hormuz tolls suggests struggle to end Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
-      "published": "7/15/2026, 12:07:22 AM",
-      "desc": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months."
-    },
-    {
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c992e8g10nmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e523/live/2747eb50-7f97-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/14/2026, 11:37:20 PM",
-      "desc": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK"
-    },
-    {
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5c4/live/12555540-7f8b-11f1-a47a-d94293d2b0e4.jpg",
-      "published": "7/14/2026, 10:07:18 PM",
-      "desc": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal."
     }
   ],
   "sports": [
+    {
+      "title": "BBC Sport quiz: Who am I? Guess World Cup star footballer #38",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c9d3n10pwvqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1cc2/live/8f2cf090-7dac-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/15/2026, 11:52:20 AM",
+      "desc": "Will you get today's player in as few attempts as possible?"
+    },
+    {
+      "title": "England vs. Argentina Prediction, Odds, Picks For World Cup Match",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/england-vs-argentina-prediction-odds-picks-world-cup-match",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285295782-scaled.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:39 AM",
+      "desc": "Check out the odds for the England vs. Argentina semifinals matchup at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "Who Are The Referees For England vs. Argentina?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/who-referees-england-vs-argentina",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/4d47c095-f9ca14ce-gettyimages-2284785284-scaled.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:37 AM",
+      "desc": "Ismail Elfath will officiate England’s World Cup semifinal against Argentina, with Lionel Messi carrying a strong record in matches involving the American referee."
+    },
+    {
+      "title": "MLB Players In The 2028 Olympics? MLB, MLBPA Have Work To Do",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2028-los-angeles-olympics-mlb-mlbpa",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lah1.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:32 AM",
+      "desc": "Major League Baseball remains in early talks to have major leaguers play in the 2028 Los Angeles Olympics."
+    },
+    {
+      "title": "World Cup 2026: England v Argentina is Three Lions' biggest match since 1966",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b08a/live/5f544fe0-7fc2-11f1-b890-9bba15144891.jpg",
+      "published": "7/15/2026, 10:07:25 AM",
+      "desc": "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty explains why it is the Three Lions' biggest match since 1966."
+    },
+    {
+      "title": "Ben Stokes set to make return for Durham in One-Day Cup on Tuesday",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c24y4jvqr9qo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4505/live/cb3ac9e0-802c-11f1-a2a1-e90920ef9667.jpg",
+      "published": "7/15/2026, 9:22:24 AM",
+      "desc": "Former England captain Ben Stokes is set to play for Durham against Derbyshire in the One-Day Cup next week."
+    },
+    {
+      "title": "England v Argentina World Cup 2026 semi-final: Lionel Scaloni on politics",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn8q8n6973xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d531/live/46db08d0-801e-11f1-9317-f3c8d3f68726.jpg",
+      "published": "7/15/2026, 8:22:31 AM",
+      "desc": "Argentina manager Lionel Scaloni says he is \"not going to mix\" football and politics before his side's World Cup semi-final against England."
+    },
+    {
+      "title": "World Cup 2026: England braced for Argentina tie  - will Three Lions reach the final?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c77yp11e4r6t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6f3/live/cbfddeb0-801f-11f1-9317-f3c8d3f68726.png",
+      "published": "7/15/2026, 8:22:28 AM",
+      "desc": "England prepare to face Argentina in World Cup semi-final for chance to face Spain in Sunday's final."
+    },
     {
       "title": "World Cup 2026: What happened to David Batty?",
       "source": "BBC Sport",
@@ -76,36 +140,12 @@
       "desc": "England midfielder David Batty quickly shook off his penalty miss against Argentina in 1998. As the two teams prepare to meet in the World Cup knockout stage again, BBC Sport asks: what happened to him?"
     },
     {
-      "title": "World Cup 2026: Reaction as Spain stun favourites France to reach final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c8x2k55d1n1t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/277a/live/85fdc870-801b-11f1-9317-f3c8d3f68726.jpg",
-      "published": "7/15/2026, 7:22:25 AM",
-      "desc": "Spain booked their place in Sunday's World Cup final to face either England or Argentina after a 2-0 win against France."
-    },
-    {
-      "title": "World Cup 2026: Meet the 91-year-old Argentine journalist covering his 18th World Cup",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqj1j0x8811o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6686/live/da6db360-7f36-11f1-86c3-8fbb02fac701.jpg",
-      "published": "7/15/2026, 7:22:20 AM",
-      "desc": "Enrique Macaya Marquez has recovered every World Cup since 1958, where a 17-year-old Pele featured."
-    },
-    {
       "title": "After 7 Years Away, MLB All-Star Game MVP Cody Bellinger Relishes Return",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/mlb/after-7-years-away-mlb-all-star-game-mvp-cody-bellinger-relishes-return",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/bellinger1.jpg?ve=1&tl=1",
       "published": "7/15/2026, 6:52:16 AM",
       "desc": "Cody Bellinger won the All-Star Game MVP in his first Midsummer Classic in seven years."
-    },
-    {
-      "title": "BBC Sport quiz: Who am I? Guess World Cup star footballer #38",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9d3n10pwvqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1cc2/live/8f2cf090-7dac-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/15/2026, 6:37:26 AM",
-      "desc": "Will you get today's player in as few attempts as possible?"
     },
     {
       "title": "Silver: Kawhi Leonard probe must finish before season starts - ESPN",
@@ -148,22 +188,6 @@
       "desc": "Starting pitcher Dylan Cease had three of the American League's 15 strikeouts in a dominant three-hit shutout of the National League in a 4-0 win in Tuesday night's All-Star Game."
     },
     {
-      "title": "Junior Caminero Hit By Pitch During MLB All-Star Game, But X-Rays Negative",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/junior-caminero-injured-early-mlb-all-star-game",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/caminero.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 2:37:25 AM",
-      "desc": "Tampa Bay Rays Junior Caminero left the MLB All-Star game after being hit by a pitch in the third inning."
-    },
-    {
-      "title": "How Ice Cream Helps England Coach Thomas Tuchel Unwind As World Cup History Beckons",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/how-ice-cream-helps-england-coach-thomas-tuchel-unwind-world-cup-history-beckons",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tuchel1-1.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 2:37:24 AM",
-      "desc": "How does Thomas Tuchel stay loose at the World Cup between some of the biggest games of his coaching career? Ice cream, as it turns out."
-    },
-    {
       "title": "Top 10 NFL QBs: Josh Allen Or Patrick Mahomes At No. 1? Caleb Williams Top 5?",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/top-10-nfl-qbs-josh-allen-patrick-mahomes-no-1-caleb-williams-top-5",
@@ -186,33 +210,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35b8/live/0c49d520-7fa6-11f1-a5f4-433bb9aa2e5a.jpg",
       "published": "7/15/2026, 2:22:23 AM",
       "desc": "England's defeat to Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever."
-    },
-    {
-      "title": "Dylan Cease Throws Scoreless Inning While Mic&#39;d Up At MLB All-Star Game",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/dylan-cease-throws-while-micd-up",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cease-1.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 1:52:25 AM",
-      "desc": "Blue Jays RHP Dylan Cease threw a scoreless inning for the American League while mic'd up in the MLB All-Star Game."
-    },
-    {
-      "title": "Zlatan Ibrahimović Praises Spain Midfielder Rodri: &#39;He Puts Out Fires&#39;",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/zlatan-praises-spanish-midfielder-rodris-comeback",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/spain3.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 1:52:23 AM",
-      "desc": "Zlatan Ibrahimović lauded the remarkable comeback Rodri has made from his injury and his contribution for Spain."
-    },
-    {
-      "title": "AL 3B Junior Caminero hit by pitch, exits in third inning - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49363719/al-3b-junior-caminero-hit-pitch-exits-third-inning",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689389_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 1:45:35 AM",
-      "desc": "In the third inning of Tuesday's All-Star Game in Philadelphia, St. Louis Cardinals reliever Riley O'Brien hit Tampa Bay Rays third baseman Junior Caminero on the left hand with a 97.6 mph sinker, and the 23-year-old star went right into the AL clubhouse."
     }
   ],
   "tech": [
+    {
+      "title": "Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-announces-flex-titanium-foldable-display-unpacked",
+      "image": "https://helios-i.mashable.com/imagery/articles/04YEvKW5wPpeu3a7nOXfema/hero-image.fill.size_1200x675.v1784060184.jpg",
+      "published": "7/15/2026, 9:15:16 AM",
+      "desc": "Ahead of Galaxy Unpacked, Samsung is pulling back the curtains on a new foldable phone feature that will debut at the event."
+    },
+    {
+      "title": "60+ PS5, PS4 Games to Buy in PS Store's Massive Summer Sale - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-massive-summer-sale",
+      "image": "https://images.pushsquare.com/f9f7bea1b831b/large.jpg",
+      "published": "7/15/2026, 8:46:04 AM",
+      "desc": "PS5 and PS4 games going cheap we recommend"
+    },
+    {
+      "title": "Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease",
+      "image": "https://assetsio.gnwcdn.com/battlefield-6-season-4-cover-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/15/2026, 8:33:39 AM",
+      "desc": "Battlefield 6's upcoming season may be bringing more to the game than we initially thought, and some of it was entirely unexpected."
+    },
     {
       "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
       "source": "Krebs on Security",
@@ -238,12 +262,12 @@
       "desc": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit changing how Android app stores work in the United States."
     },
     {
-      "title": "Castlevania: Belmont’s Curse for Switch launches October 15 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/castlevania-belmonts-curse-for-switch-launches-october-15",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Castlevania-Belmonts-Curse-Switch_07-14-26.jpg",
-      "published": "7/15/2026, 1:22:34 AM",
-      "desc": "The Switch version of Castlevania: Belmont’s Curse will launch day and date with the PlayStation 5, Xbox Series, and PC (Steam, Microsoft Store) versions on October 15, publisher Konami and d…"
+      "title": "Konami Confirms Its New Castlevania Game Will Launch This October On Switch - nintendolife.com",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/konami-confirms-its-new-castlevania-game-will-launch-this-october-on-switch",
+      "image": "https://images.nintendolife.com/04176cac36776/large.jpg",
+      "published": "7/15/2026, 1:55:00 AM",
+      "desc": "Simultaneous release confirmed"
     },
     {
       "title": "LEGO Considering Bondi Blue iMac G3 Set - MacRumors",
@@ -252,30 +276,6 @@
       "image": "https://images.macrumors.com/t/gpaN9COmOklFL1B8dX9h6VBrbSo=/1600x/article-new/2025/08/LEGO-imac-g31.jpeg",
       "published": "7/15/2026, 12:12:17 AM",
       "desc": "LEGO today said the iMac G3 project submitted for consideration on its \"Ideas\" site has been moved to Parking Lot status, which means it..."
-    },
-    {
-      "title": "Switch 2 'Choose Your Game' Bundle Gets A Discount Ahead Of System Price Revision (US) - nintendolife.com",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/07/switch-2-choose-your-game-bundle-gets-a-discount-ahead-of-system-price-revision-us",
-      "image": "https://images.nintendolife.com/45bf721a25315/large.jpg",
-      "published": "7/14/2026, 11:55:00 PM",
-      "desc": "A standalone system will cost $499.99 as of September"
-    },
-    {
-      "title": "Samsung says Galaxy Z Fold 8 crease is less visible thanks to ‘Flex Titanium’ display - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/14/2026, 11:26:00 PM",
-      "desc": "The Galaxy Z Fold 8 series will get a new foldable display architecture, Samsung admits, which will improve the phone’s..."
-    },
-    {
-      "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-close-up-G-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/14/2026, 10:40:00 PM",
-      "desc": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners."
     }
   ],
   "education": [
@@ -347,15 +347,6 @@
   "music": [
     {
       "rank": 1,
-      "title": "Wonderwall (Remastered)",
-      "artist": "Oasis",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
-    },
-    {
-      "rank": 2,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -364,22 +355,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 3,
-      "title": "Sign of the Times",
-      "artist": "Harry Styles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/08/ef/4f08ef59-0bdc-3570-f0a7-c9b1ccf0102e/mzaf_7878723422757048574.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sign-of-the-times/1226021294?i=1226021297&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
+      "rank": 2,
+      "title": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
+      "rank": 4,
+      "title": "Sign of the Times",
+      "artist": "Harry Styles",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/08/ef/4f08ef59-0bdc-3570-f0a7-c9b1ccf0102e/mzaf_7878723422757048574.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/sign-of-the-times/1226021294?i=1226021297&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
     },
     {
       "rank": 5,
@@ -446,21 +446,21 @@
     },
     {
       "rank": 12,
-      "title": "Freed from Desire",
-      "artist": "Gala",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/a3/33/70a333a9-29d8-bfde-fe2d-79d2a9a72518/mzi.hroawrfd.tif/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/c0/f5/d8c0f5a0-474a-d48c-68e7-a9710784bf0b/mzaf_14269155483972454854.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/freed-from-desire/287591338?i=287592533&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Gala%20Freed%20from%20Desire"
-    },
-    {
-      "rank": 13,
       "title": "Bones For The Crows",
       "artist": "Nickelback",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/56/f6/5c56f62e-08f0-f6f9-2de5-788a04109a0e/mzaf_2003540315395599410.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bones-for-the-crows/6784018115?i=6784018119&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Bones%20For%20The%20Crows"
+    },
+    {
+      "rank": 13,
+      "title": "Freed from Desire",
+      "artist": "Gala",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/a3/33/70a333a9-29d8-bfde-fe2d-79d2a9a72518/mzi.hroawrfd.tif/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/c0/f5/d8c0f5a0-474a-d48c-68e7-a9710784bf0b/mzaf_14269155483972454854.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/freed-from-desire/287591338?i=287592533&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Gala%20Freed%20from%20Desire"
     },
     {
       "rank": 14,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "We're Telling 'Em (England 2026 World Cup Song)",
-      "artist": "Sonny Green",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/d3/77/0cd377e9-b8df-5b7c-3e6e-ee4543fd8a29/5064020509955.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/57/30/645730a2-34b6-bd12-886a-4407dc84767f/mzaf_6722992778494041183.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/were-telling-em-england-2026-world-cup-song/6786486790?i=6786486791&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Green%20We're%20Telling%20'Em%20(England%202026%20World%20Cup%20Song)"
+      "title": "Kingdom of Fear",
+      "artist": "Cameron Whitcomb",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/33/73/7e337333-0802-d7b5-8848-d20fdbdf993c/075679584731.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/8d/78/f48d788e-57d4-e94b-7700-c97bee042b69/mzaf_14738277973191120196.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/kingdom-of-fear/1887606218?i=1887606227&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Cameron%20Whitcomb%20Kingdom%20of%20Fear"
     }
   ],
   "movies": [
@@ -493,15 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 3,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -510,16 +501,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 4,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "The Breadwinner",
       "year": "2026",
       "cert": "PG",
@@ -528,16 +510,25 @@
       "url": "https://www.themoviedb.org/movie/1440050"
     },
     {
-      "rank": 6,
-      "title": "Michael",
+      "rank": 4,
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -546,42 +537,51 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
+      "rank": 7,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
       "rank": 8,
+      "title": "The Sheep Detectives",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "url": "https://www.themoviedb.org/movie/1301421"
+    },
+    {
+      "rank": 9,
       "title": "Enola Holmes 3",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
       "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
       "url": "https://www.themoviedb.org/movie/1202033"
-    },
-    {
-      "rank": 9,
-      "title": "The Super Mario Galaxy Movie",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "url": "https://www.themoviedb.org/movie/1226863"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Little House on the Prairie",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
       "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
       "url": "https://www.themoviedb.org/tv/283304"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
