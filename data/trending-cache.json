@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-16T18:07:53.638Z",
+  "updated": "2026-07-16T20:03:32.054Z",
   "news": [
+    {
+      "title": "Man arrested over social media post threatening to shoot Nigel Farage",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24c5/live/eca9a020-804e-11f1-8a74-43d9da26a654.jpg",
+      "published": "7/15/2026, 8:07:27 PM",
+      "desc": "Met Police says a man in his 20s was held in south London this week on suspicion of sending threatening communications to an MP."
+    },
+    {
+      "title": "SpaceX share price drops below stock market debut",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
+      "published": "7/15/2026, 7:22:20 PM",
+      "desc": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago."
+    },
+    {
+      "title": "The Odyssey: Christopher Nolan film starring Matt Damon and Zendaya receives rave reviews",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20y0rn9052o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/863a/live/605628b0-8034-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/15/2026, 6:07:26 PM",
+      "desc": "The film, starring Matt Damon and Zendaya, is director Sir Christopher Nolan's first since Oppenheimer."
+    },
     {
       "title": "Mocking regional accents is last form of acceptable discrimination, says MP",
       "source": "BBC News",
@@ -16,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2eca/live/3d36d150-7bf6-11f1-b5ce-7d0a3779e31e.jpg",
       "published": "7/15/2026, 5:52:38 PM",
       "desc": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson."
-    },
-    {
-      "title": "French MPs approve assisted-dying law with strict rules after years of argument",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/430a/live/7bffaa30-805e-11f1-a10f-077d9cf2208e.jpg",
-      "published": "7/15/2026, 5:52:36 PM",
-      "desc": "The bill would allow assisted dying for terminally ill adults who meet strict criteria."
     },
     {
       "title": "Boy, 14, charged with terror offence targeting London mosques",
@@ -48,25 +64,89 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c871/live/bf9f12f0-8048-11f1-8a74-43d9da26a654.png",
       "published": "7/15/2026, 2:52:22 PM",
       "desc": "Sean Carrington said if the Three Lions fail to bring the trophy home he will add the words \"only joking\"."
-    },
-    {
-      "title": "Man arrested over threatening to shoot Farage in social media post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/24c5/live/eca9a020-804e-11f1-8a74-43d9da26a654.jpg",
-      "published": "7/15/2026, 2:37:28 PM",
-      "desc": "Met Police says a man in his 20s was held in south London this week on suspicion of sending threatening communications to an MP."
-    },
-    {
-      "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2430/live/e77a8e60-804a-11f1-8a74-43d9da26a654.jpg",
-      "published": "7/15/2026, 2:22:25 PM",
-      "desc": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes."
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: Rate the players in England vs Argentina",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2w3rqp6w1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eef3/live/0eb51980-7f8a-11f1-bee8-53ce494e1abc.png",
+      "published": "7/15/2026, 8:07:23 PM",
+      "desc": "Rate the England and Argentina players out of 10 below and come back 30 minutes after full-time to see the final ratings."
+    },
+    {
+      "title": "Cowboys' George Pickens to play on $27.3M tag as deadline passes - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49367546/cowboys-george-pickens-play-273m-tag-deadline-passes",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0211%2Fr1613848_1296x729_16%2D9.jpg",
+      "published": "7/15/2026, 8:01:00 PM",
+      "desc": "Cowboys wide receiver George Pickens will officially play the 2026 season on his $27.3 million franchise tender after Wednesday's 4 p.m. ET deadline for tagged players to agree to long-term contracts passed."
+    },
+    {
+      "title": "Ryan Garcia vs Conor Benn: Briton to face WBC welterweight champion on 12 September",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/cg53j8vg9l6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d33f/live/75e9dbc0-8077-11f1-8c3e-199e0cef744c.jpg",
+      "published": "7/15/2026, 7:07:27 PM",
+      "desc": "Conor Benn's fight with WBC welterweight champion Ryan Garcia will take place at T-Mobile Arena in Las Vegas on 12 September."
+    },
+    {
+      "title": "How to Bet on the England vs Argentina Semifinal as Harry Kane and Lionel Messi Go Head to Head",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/betting/how-bet-england-vs-argentina-semifinal-harry-kane-lionel-messi-go-head-head",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jude-eng.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 7:07:25 PM",
+      "desc": "How to Bet on the England vs Argentina Semifinal as Harry Kane and Lionel Messi Go Head to Head."
+    },
+    {
+      "title": "Arsenal transfer news: Leandro Trossard joins Besiktas for £15.3m",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cddldzme6g1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fcf4/live/0b42e810-7f88-11f1-a47a-d94293d2b0e4.jpg",
+      "published": "7/15/2026, 7:07:23 PM",
+      "desc": "Arsenal forward Leandro Trossard joins Besiktas on a three-year deal."
+    },
+    {
+      "title": "Where Will Bubba Wallace&#39;s Roller Coaster Of A Season Go Next?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/bubba-wallace-23xi-jordan-2026-season",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/second-thoughts-16x9-2.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 7:07:22 PM",
+      "desc": "A controversial infraction at Atlanta sums up Bubba Wallace's season — what can go wrong seems to go wrong. Where does he go from here?"
+    },
+    {
+      "title": "Heading footballs caused Nobby Stiles' brain disease, coroner finds",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/c5yzyygmxvgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08de/live/a1e11430-7c4b-11f1-b92f-f7be89c06628.jpg",
+      "published": "7/15/2026, 6:37:38 PM",
+      "desc": "England 1966 World Cup winner Nobby Stiles died with a condition caused by heading footballs, his inquest concludes."
+    },
+    {
+      "title": "Aimee Barrett-Theron: Referee stands down after breast cancer diagnosis",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cwyq399xvv1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b2b/live/f4855fb0-8070-11f1-bf5f-a7a6eeea7412.jpg",
+      "published": "7/15/2026, 6:37:32 PM",
+      "desc": "One of the world's leading female referees, Aimee Barrett-Theron, has stood down from officiating after being diagnosed with breast cancer."
+    },
+    {
+      "title": "Scottie Scheffler favored to win Open, but bettors like Europeans - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49368485/scottie-scheffler-favored-win-open-bettors-europeans",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689599_1296x729_16%2D9.jpg",
+      "published": "7/15/2026, 6:19:41 PM",
+      "desc": "Scottie Scheffler is the betting favorite to win the Open Championship, but sportsbooks are getting action on European golfers like Matt Fitzpatrick and Tommy Fleetwood."
+    },
+    {
+      "title": "NC State's Doeren says QB Bailey could be best in country - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49368386/nc-state-doeren-says-qb-bailey-best-country",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1102%2Fr1569443_1296x729_16%2D9.jpg",
+      "published": "7/15/2026, 6:03:30 PM",
+      "desc": "Few quarterbacks in college football are better positioned for a breakthrough 2026 season than NC State's CJ Bailey."
+    },
     {
       "title": "Chris &#39;The Bear&#39; Fallica&#39;s World Cup Best Bets Today — Argentina vs. England",
       "source": "Fox Sports",
@@ -100,22 +180,6 @@
       "desc": "Soren Waerenskjold catches the big guns by surprise with a long-range sprint to win the fastest-ever stage of the Tour de France."
     },
     {
-      "title": "2026 World Cup Golden Boot Odds: Messi Favored; Mbappé Still In Running",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/soccer-2026-world-cup-odds-golden-boot",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi1-5.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 4:52:39 PM",
-      "desc": "The superstars have shined at the 2026 FIFA World Cup so far. Check out the latest Golden Boot odds."
-    },
-    {
-      "title": "2026 World Cup Odds: Spain Awaits Winner Of Argentina-England In Final",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-make-the-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2285515004-scaled.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 4:52:36 PM",
-      "desc": "Check out the latest odds to reach the World Cup final."
-    },
-    {
       "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-young-player-tournament-odds-lamine-yamal-favored",
@@ -146,136 +210,72 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi-3.jpg?ve=1&tl=1",
       "published": "7/15/2026, 4:52:28 PM",
       "desc": "Is Argentina superstar Lionel Messi retiring after the 2026 World Cup?"
-    },
-    {
-      "title": "Is There A 3rd-Place World Cup Game? Who&#39;s Playing In Bronze Game?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/third-place-world-cup-game-france",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/fifa1.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 4:52:22 PM",
-      "desc": "Is there a third-place game in the 2026 World Cup?"
-    },
-    {
-      "title": "New guidelines issued for more respectful TV camera coverage of female athletes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1425/live/df800730-7faf-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/15/2026, 4:52:17 PM",
-      "desc": "New guidelines have been released advising broadcasters on how to use more respectful camera angles when covering live female athletics events."
-    },
-    {
-      "title": "Champion Hurricanes to open the NHL season against Panthers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0615%2Fr1673565_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 3:23:39 PM",
-      "desc": "The Hurricanes will raise their second Stanley Cup championship banner on Sept. 29 before hosting the Panthers to kick off the NHL season."
-    },
-    {
-      "title": "ACC implements new tiebreaker policy for football title game - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49366844/acc-implements-new-tiebreaker-policy-football-title-game",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1216%2Fr1590173_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 2:24:39 PM",
-      "desc": "The ACC has a new tiebreaker policy for its football championship game in a move that commissioner Jim Phillips said allows the league to feature its two best teams."
-    },
-    {
-      "title": "Devils sign veteran forward Anthony Mantha to 2-year, $9.5M deal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49366716/devils-sign-veteran-forward-anthony-mantha-2-year-95m-deal",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0608%2Fr1669629_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 2:06:20 PM",
-      "desc": "The Devils have signed forward Anthony Mantha to a 2-year contract worth $9.5 million, the team announced Wednesday."
-    },
-    {
-      "title": "Steve Yzerman abruptly steps down as Red Wings GM - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49366494/steve-yzerman-abruptly-steps-red-wings-gm",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689492_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 1:36:14 PM",
-      "desc": "Steve Yzerman abruptly stepped down as general manager of the Red Wings on Wednesday."
-    },
-    {
-      "title": "The Open: R&A 'getting pretty close' to staging major at Portmarnock",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/ckg7gj67x73o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb48/live/a8669240-8041-11f1-8a74-43d9da26a654.jpg",
-      "published": "7/15/2026, 12:22:22 PM",
-      "desc": "Chief executive Mark Darbon says the R&A is \"getting pretty close\" to bringing the Open Championship to Portmarnock Golf Club in Dublin."
-    },
-    {
-      "title": "July update: 2026 top 10 prospect rankings for all 30 MLB teams - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0708%2Fr1686415_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 11:00:00 AM",
-      "desc": "Who is rising and falling in every major league farm system after the MLB draft? Kiley McDaniel digs in."
     }
   ],
   "tech": [
     {
-      "title": "OpenAI finally launches hardware… for Codex - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&strip=all&crop=0.42240779401531%2C0%2C99.155184411969%2C100&w=1200",
-      "published": "7/15/2026, 4:00:00 PM",
-      "desc": "The collaboration with Work Louder is separate from OpenAI’s main hardware project, rumored to be some kind of smart speaker."
-    },
-    {
-      "title": "Game Dev Explains Why Pictures Of His Sleeping Wife’s Face Became An RPG Boss Fight Monstrosity: ‘Mutual Trolling’ - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/game-dev-explains-why-pictures-of-his-sleeping-wifes-face-became-an-rpg-boss-fight-monstrosity-mutual-trolling-2000716194",
-      "image": "https://kotaku.com/app/uploads/2026/07/wife-monster.jpg",
-      "published": "7/15/2026, 3:45:46 PM",
-      "desc": "We're relieved to report they're a very happy couple"
-    },
-    {
-      "title": "9 PS Plus Extra, Premium Games for July 2026 Announced - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/9-ps-plus-extra-premium-games-for-july-2026-announced",
-      "image": "https://images.pushsquare.com/6ee29f5f582fb/large.jpg",
-      "published": "7/15/2026, 3:30:00 PM",
-      "desc": "Morphin time"
-    },
-    {
-      "title": "OnePlus, Once Popular with Tech Fans, to Pull Out of US and Europe - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ZzOAfFz8.4/v0/1200x800.jpg",
-      "published": "7/15/2026, 3:11:47 PM",
-      "desc": "OnePlus, a consumer electronics brand that gained a loyal following with its lineup of aggressively priced Android smartphones, will begin to cease operations in the US and Europe."
-    },
-    {
-      "title": "Samsung’s New Foldables Will Fix the Worst Thing About Their Screens - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/samsungs-new-foldables-will-fix-the-worst-thing-about-their-screens-2000785774",
-      "image": "https://gizmodo.com/app/uploads/2025/07/samsung-galaxy-z-fold-7-5-1200x675.jpg",
-      "published": "7/15/2026, 2:30:23 PM",
-      "desc": "It only took seven years."
-    },
-    {
-      "title": "Google Health outage breaks device sync for ‘all’ Fitbit & Pixel Watch users - 9to5Google",
+      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/15/google-health-outage-breaks-device-sync-for-all-fitbit-pixel-watch-users/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/15/2026, 2:25:00 PM",
-      "desc": "A widespread outage on July 15 has broken device sync for “all” Google Health users. If you woke up this..."
+      "url": "http://9to5google.com/2026/07/15/pixel-11-first-tease/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Glow-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/15/2026, 5:35:00 PM",
+      "desc": "Following the event announcement last week, Google today released the first Pixel 11 teaser. We are just under a month..."
     },
     {
-      "title": "The Duskbloods closed network test set for August 21 to 23 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/the-duskbloods-closed-network-test-set-for-august-21-to-23",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/The-Duskbloods-Network-Test_07-15-26.jpg",
-      "published": "7/15/2026, 2:24:25 PM",
-      "desc": "FromSoftware will host a closed network test for player-versus-player-versus-environment-based multiplayer action game The Duskbloods from August 21 to 23, the developer announced (2). Sign-ups wil…"
+      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267",
+      "image": "https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg",
+      "published": "7/15/2026, 5:15:31 PM",
+      "desc": "The Stadium mode is one of the best things Blizzard has done with the game, but not enough people are playing it"
     },
     {
-      "title": "Yes, ‘Palworld’ Is Better Than ‘Pokémon’ In Many Ways - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/15/yes-palworld-is-better-than-pokmon-in-many-ways/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5792c6a20c1c47dde1e050/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
-      "published": "7/15/2026, 2:11:02 PM",
-      "desc": "Pokémon fans are often laying into Palworld for being a bad clone, but it does many things better than the original."
+      "title": "Halo's Physical PS5 Disc Won't Play without a Download - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/halos-physical-ps5-disc-wont-play-without-a-download1",
+      "image": "https://images.pushsquare.com/a76e82b49c4ac/large.jpg",
+      "published": "7/15/2026, 5:15:00 PM",
+      "desc": "Campaign devolved"
+    },
+    {
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg",
+      "published": "7/15/2026, 4:55:12 PM",
+      "desc": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies."
+    },
+    {
+      "title": "Pokémon Drops Underdog Spin-Off From Its World Championships - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/pokemon-world-championships-2026-2027-unite-worlds-go-2000716258",
+      "image": "https://kotaku.com/app/uploads/2021/08/1b2a9ae2419025baf1896a038f244b91-1200x675.jpg",
+      "published": "7/15/2026, 4:31:01 PM",
+      "desc": "The 2027 World Championships tournament will be a little smaller"
+    },
+    {
+      "title": "Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop - Phoronix",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/review/razer-blade18-windows-linux",
+      "image": "https://www.phoronix.net/image.php?id=razer-blade18-windows-linux&image=razer_windows_linux_2",
+      "published": "7/15/2026, 4:15:00 PM",
+      "desc": "Earlier this month on Phoronix I reviewed the Razer Blade 18 RZ09-0582 as the first laptop Razer is certifying for Linux use via Canonical's hardware certification program for Linux."
+    },
+    {
+      "title": "Hit Superhero Comedy Game Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/hit-superhero-comedy-game-dispatch-finally-lands-on-xbox-this-month-uncensored-scenes-and-all",
+      "image": "https://assets-prd.ignimgs.com/2026/01/28/dispatchthumb-1769619936859.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/15/2026, 4:15:00 PM",
+      "desc": "Hit superhero workplace comedy game Dispatch will finally land on Xbox this month, developer AdHoc Studio has announced."
+    },
+    {
+      "title": "OnePlus shutdown reportedly goes beyond US & Europe next year, Realme exiting China - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/15/oneplus-shutdown-report-details-realme-oppo/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/15/2026, 4:13:00 PM",
+      "desc": "If you had any doubts left regarding the end of OnePlus in Europe and the US, another report is stepping..."
     }
   ],
   "education": [
@@ -347,21 +347,21 @@
   "music": [
     {
       "rank": 1,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
-    },
-    {
-      "rank": 2,
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/08/ef/4f08ef59-0bdc-3570-f0a7-c9b1ccf0102e/mzaf_7878723422757048574.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/sign-of-the-times/1226021294?i=1226021297&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
+    },
+    {
+      "rank": 2,
+      "title": "Dai Dai",
+      "artist": "Shakira & Burna Boy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
       "rank": 3,
@@ -392,21 +392,21 @@
     },
     {
       "rank": 6,
-      "title": "Three Lions",
-      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
-    },
-    {
-      "rank": 7,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 7,
+      "title": "Three Lions",
+      "artist": "David Baddiel, Frank Skinner & The Lightning Seeds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/42/f9/e342f97e-6c79-94f2-df16-e14ca2aed4c6/mzi.uzwsrmbm.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/f5/00/dcf500bc-046f-16b5-7b77-afdbc82c1923/mzaf_13349298565774674038.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/three-lions/269570016?i=269570034&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=David%20Baddiel%2C%20Frank%20Skinner%20%26%20The%20Lightning%20Seeds%20Three%20Lions"
     },
     {
       "rank": 8,
@@ -464,12 +464,12 @@
     },
     {
       "rank": 14,
-      "title": "Vindaloo",
-      "artist": "Fat Les",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/39/e7/76/39e776b7-8f30-9c71-53ed-2831d971f9e6/0698458916181.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/52/04/e45204f6-eabc-e7d8-f8ef-f4d5f36d141e/mzaf_14571315649151294741.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/vindaloo/1435095905?i=1435095906&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fat%20Les%20Vindaloo"
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 15,
@@ -502,12 +502,12 @@
     },
     {
       "rank": 3,
-      "title": "The Breadwinner",
+      "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "url": "https://www.themoviedb.org/movie/1440050"
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 4,
@@ -520,12 +520,12 @@
     },
     {
       "rank": 5,
-      "title": "Toy Story 5",
+      "title": "The Breadwinner",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "url": "https://www.themoviedb.org/movie/1440050"
     },
     {
       "rank": 6,
@@ -538,6 +538,15 @@
     },
     {
       "rank": 7,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 8,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -546,13 +555,22 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 8,
-      "title": "Michael",
+      "rank": 9,
+      "title": "The Sheep Detectives",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "url": "https://www.themoviedb.org/movie/1301421"
+    },
+    {
+      "rank": 10,
+      "title": "Enola Holmes 3",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "url": "https://www.themoviedb.org/movie/1202033"
     }
   ],
   "tv": [
