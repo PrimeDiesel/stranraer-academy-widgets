@@ -1,29 +1,29 @@
 {
-  "generated": "2026-07-16T07:34:47.005Z",
-  "day": 196,
+  "generated": "2026-07-17T07:31:59.935Z",
+  "day": 197,
   "movie": {
-    "title": "Inside Out 2",
+    "title": "Coco",
     "safe": true,
-    "cert": "U",
+    "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2024",
-    "plot": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-    "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "year": "2017",
+    "plot": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Earth, Wind & Fire-September",
+    "key": "Weezer-Buddy Holly",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/8e/19/5c8e191d-b458-fc29-54ef-bd9367835044/886447618547.jpg/600x600bb.jpg",
-    "year": "1978",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/ef/02/98ef026e-7d73-f8ce-90d0-b41371ad20aa/16UMGIM52970.rgb.jpg/600x600bb.jpg",
+    "year": "1994",
     "v": 4
   },
   "album": {
-    "key": "Santana-Abraxas",
+    "key": "Madonna-Like a Virgin",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/30/03/7f/30037fd6-3292-1806-c806-5341391c9aac/886444593038.jpg/600x600bb.jpg",
-    "year": "1970",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/80/32/8e803264-c925-14dd-3412-2d7652c3df7b/mzi.wxptosaa.jpg/600x600bb.jpg",
+    "year": "1984",
     "v": 4
   }
 }
