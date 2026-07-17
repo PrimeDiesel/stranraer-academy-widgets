@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-16T22:57:52.003Z",
+  "updated": "2026-07-17T00:01:07.438Z",
   "news": [
+    {
+      "title": "World Cup 2026: Argentina face fine for displaying Falklands banner after beating England",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+      "published": "7/15/2026, 11:37:22 PM",
+      "desc": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
+    },
     {
       "title": "'Gutted' Prince William leads tributes to defeated England team",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg",
       "published": "7/15/2026, 10:52:24 PM",
       "desc": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina."
-    },
-    {
-      "title": "Hosepipe ban in force for millions of households - is your area affected?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
-      "published": "7/15/2026, 8:37:29 PM",
-      "desc": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed."
     },
     {
       "title": "Iran threatens to block more trade routes as US launches fresh strikes",
@@ -68,20 +68,92 @@
   ],
   "sports": [
     {
-      "title": "Aimee Barrett-Theron: Referee stands down after breast cancer diagnosis",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cwyq399xvv1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b2b/live/f4855fb0-8070-11f1-bf5f-a7a6eeea7412.jpg",
-      "published": "7/15/2026, 11:07:29 PM",
-      "desc": "One of the world's leading female referees, Aimee Barrett-Theron, has stood down from officiating after being diagnosed with breast cancer."
+      "title": "Lionel Messi And Argentina Once Again Find Their Way Back From The Brink",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/argentina-world-cup-messi-england-semifinals-spain-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-82-1.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:33 PM",
+      "desc": "A team that sacrifices itself, only to rise again and destroy whatever lies in its sight. This is Lionel Messi's Argentina."
     },
     {
-      "title": "New Zealand vs Ireland: Robert Baloucoune starts as Irish recall key men for Nations Championship tie",
+      "title": "2026 World Cup Third-Place Odds: France Favored Over England",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-third-place-odds-france-england",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/4a1dc6df-france-714.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:27 PM",
+      "desc": "A third-place finish is still on the line for France and England. Check out the odds, and what to know about Saturday's powerhouse matchup."
+    },
+    {
+      "title": "Lionel Messi, Lamine Yamal Met Almost 20 Years Ago For This Delightful Photo Shoot",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/messi-yamal-faceoff-world-cup-final-wont-first-meeting",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/0926a195-messi1.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:25 PM",
+      "desc": "Argentina's Lionel Messi and Spain's Lamine Yamal go way back to long before the 2026 World Cup final."
+    },
+    {
+      "title": "Spain vs. Argentina Combined XI: Messi, Yamal Lead World Cup Final Team",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-combined-xi-messi-yamal-lead-world-cup-final-team",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9esp-arg-xi-1.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:25 PM",
+      "desc": "Ahead of the Spain vs. Argentina 2026 FIFA World Cup final, we picked a combined XI featuring Lionel Messi, Lamine Yamal, Rodri and Emiliano Martínez."
+    },
+    {
+      "title": "England Manager Thomas Tuchel Defends Strategy Following World Cup Semifinal Defeat",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/england-manager-thomas-tuchel-defends-strategy-following-world-cup-semifinal-defeat",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tuchel_horizontal.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:22 PM",
+      "desc": "England manager Thomas Tuchel felt his decision to drop back in defense was only criticized because of the result."
+    },
+    {
+      "title": "How Lionel Messi, Argentina Have Owned The Final Minutes At The World Cup",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/messi-and-argentina-have-been-kings-of-lategame-heroics-at-this-world-cup",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi-group.jpg?ve=1&tl=1",
+      "published": "7/15/2026, 11:37:21 PM",
+      "desc": "In this World Cup, Lionel Messi and Argentina have owned the final minutes on their way to the final."
+    },
+    {
+      "title": "Ryan Garcia vs Conor Benn: Briton to face WBC welterweight champion on 12 September",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c5yzyygrz16o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e44a/live/0b2990d0-8092-11f1-9946-258bcfdcbe12.jpg",
-      "published": "7/15/2026, 11:07:27 PM",
-      "desc": "Fit-again wing Robert Baloucoune returns to the Ireland line-up for Saturday's much-anticipated Nations Championship game against New Zealand in Auckland."
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/cg53j8vg9l6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d33f/live/75e9dbc0-8077-11f1-8c3e-199e0cef744c.jpg",
+      "published": "7/15/2026, 11:22:38 PM",
+      "desc": "Conor Benn's fight with WBC welterweight champion Ryan Garcia will take place at T-Mobile Arena in Las Vegas on 12 September."
+    },
+    {
+      "title": "Football gossip: Summerville, Nusa, Bouaddi, Lewis, Mbaye, Stroud",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1mymdm2rp8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1dd5/live/61eb92f0-807a-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/15/2026, 11:22:38 PM",
+      "desc": "West Ham winger Crysencio Summerville is a target for Manchester United, Arsenal are preparing an offer for Norway winger Antonio Nusa, Everton consider moving for Manchester City's Rico Lewis, plus more."
+    },
+    {
+      "title": "'Gutted' Prince William leads tributes to defeated England team",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/c5y68dgnylxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1492/live/3e0e63e0-809c-11f1-ab38-b3d1805d0663.jpg",
+      "published": "7/15/2026, 11:22:32 PM",
+      "desc": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina."
+    },
+    {
+      "title": "World Cup 2026: Argentina face fine for displaying Falklands banner after beating England",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c935pgr4dklo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+      "published": "7/15/2026, 11:22:31 PM",
+      "desc": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
+    },
+    {
+      "title": "England vs Argentina LIVE: Three Lions suffer World Cup semi-final heartbreak with loss",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c77yp11e4r6t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1533/live/2f0d9250-809f-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/15/2026, 11:22:29 PM",
+      "desc": "Watch live BBC One coverage, listen on 5 Live and get analysis, predictions, fan reaction, score updates and match stats from England v Argentina in the World Cup semi-final."
     },
     {
       "title": "The Open: R&A 'getting pretty close' to staging major at Portmarnock",
@@ -116,54 +188,6 @@
       "desc": "Just when it looked as though it was the end of the road for the GOAT, Argentina rallied in a memorable match."
     },
     {
-      "title": "Thierry Henry and Zlatan Critical Of England&#39;s Defensive Approach vs. Argentina",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/thierry-henry-and-zlatan-criticize-england-defensive-approach-against-argentina",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/thumbnail-trebby2-1.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 10:22:31 PM",
-      "desc": "Argentina had another comeback victory at this World Cup, but Thierry Henry and Zlatan Ibrahimović believe Lionel Messi's side have England coach Thomas Tuchel to thank."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Yankees Eyeing Padres Star Closer?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 10:22:30 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "Spain vs. Argentina Confirmed For World Cup Final: Here&#39;s What To Know",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-vs-england-argentina-confirmed-world-cup-final-heres-what-know",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1spaarg.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 10:22:26 PM",
-      "desc": "Here is everything you need to know about the 2026 FIFA World Cup final between Spain and Argentina."
-    },
-    {
-      "title": "College Football Offseason Buzz: Former Penn State QB Named QB1 At Virginia",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/beau_pribula_horizontal.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 10:22:24 PM",
-      "desc": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport."
-    },
-    {
-      "title": "Spain vs. Argentina: 4 Key Storylines For The 2026 World Cup Final",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-argentina-world-cup-final-key-storylines",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-83.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 10:22:18 PM",
-      "desc": "Four key storylines to know for the 2026 FIFA World Cup final between Spain and Argentina on Sunday."
-    },
-    {
-      "title": "Lionel Messi Delivers 2 Clutch Assists To Lead Argentina To Back-To-Back World Cup Finals",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-delivers-2-clutch-assists-lead-argentina-back-to-back-world-cup-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/fc53047b-messi1.jpg?ve=1&tl=1",
-      "published": "7/15/2026, 9:37:28 PM",
-      "desc": "Lionel Messi delivered two clutch assists in crunch time to lead Argentina to a 2-1 comeback win over England in the 2026 FIFA World Cup semifinals on Wednesday at Atlanta Stadium."
-    },
-    {
       "title": "2026 World Cup Title Odds: Spain Favored Over Argentina In Final",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
@@ -186,96 +210,64 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0707%2Fr1685996_1296x729_16%2D9.jpg",
       "published": "7/15/2026, 9:23:00 PM",
       "desc": "The sports world was thrilled by Argentina's dramatic 2-1 comeback win over England to advance to the World Cup Final."
-    },
-    {
-      "title": "Argentina stun England with late rally to reach World Cup final - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49369105/england-argentina-2026-fifa-world-cup-semifinal-final",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689733_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 9:04:00 PM",
-      "desc": "Argentina sealed a dramatic semifinal fightback against England at Mercedes-Benz Stadium with two goals in the final five minutes to clinch a 2-1 win and book a World Cup final clash with Spain on Sunday."
-    },
-    {
-      "title": "Sources: Alvin Kamara agrees to reworked deal to stay with Saints - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49369711/alvin-kamara-agrees-reworked-deal-stay-saints",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0504%2Fr1653530_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 8:48:41 PM",
-      "desc": "Saints running back Alvin Kamara will play for the Saints in 2026 on a reworked contract, sources confirmed to ESPN and NFL Network's Ian Rapoport."
-    },
-    {
-      "title": "Source: Jets, Perfetti avoid arbitration, agree to 5-year deal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49369676/source-jets-perfetti-avoid-arbitration-agree-5-year-deal",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1028%2Fr1406911_1296x729_16%2D9.jpg",
-      "published": "7/15/2026, 8:44:04 PM",
-      "desc": "The Winnipeg Jets and center Cole Perfetti have avoided salary arbitration with a new 5-year, $30-million contract, an NHL source told ESPN."
     }
   ],
   "tech": [
     {
-      "title": "Love And Deepspace’s Gay Fans Say It Has A Homophobia Problem - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/love-deepspace-gay-bl-ships-men-love-interests-homophobia-2000716290",
-      "image": "https://kotaku.com/app/uploads/2026/07/HMEQzNwXkAA_e2T.jpeg",
-      "published": "7/15/2026, 7:03:46 PM",
-      "desc": "The otome hit is a worldwide phenomenon directed at women, so what happens when men who like men want to try?"
-    },
-    {
-      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=960",
-      "published": "7/15/2026, 5:53:32 PM",
-      "desc": "OnePlus could also wind down its operations in India by 2027."
-    },
-    {
-      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
+      "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/15/pixel-11-first-tease/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Glow-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/15/2026, 5:35:00 PM",
-      "desc": "Following the event announcement last week, Google today released the first Pixel 11 teaser. We are just under a month..."
+      "url": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Android-17-logo-close-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/15/2026, 9:29:00 PM",
+      "desc": "Following the last release two weeks ago, Android 17 QPR1 Beta 7 is rolling out today for Pixel devices. Android..."
     },
     {
-      "title": "A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience' - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7#article",
-      "image": "https://i.insider.com/6a561c63eae3978eb7e5d31c?width=1200&format=jpeg",
-      "published": "7/15/2026, 5:25:42 PM",
-      "desc": "Alex Turner, a research scientist at Google DeepMind, said he tried to change Google executives' minds about working with the Pentagon."
+      "title": "Engineer identifies and explains every ’90s computer seen in Jurassic Park - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg",
+      "published": "7/15/2026, 9:04:22 PM",
+      "desc": "Yes, it was, in fact, a Unix system."
     },
     {
-      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267",
-      "image": "https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg",
-      "published": "7/15/2026, 5:15:31 PM",
-      "desc": "The Stadium mode is one of the best things Blizzard has done with the game, but not enough people are playing it"
-    },
-    {
-      "title": "Halo's Physical PS5 Disc Won't Play without a Download - Push Square",
+      "title": "AC Black Flag Resynced Update 1.04 Live Tomorrow, Patch Notes Revealed - Push Square",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/halos-physical-ps5-disc-wont-play-without-a-download1",
-      "image": "https://images.pushsquare.com/a76e82b49c4ac/large.jpg",
-      "published": "7/15/2026, 5:15:00 PM",
-      "desc": "Campaign devolved"
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-live-tomorrow-patch-notes-revealed",
+      "image": "https://images.pushsquare.com/69e56b9566d29/large.jpg",
+      "published": "7/15/2026, 8:00:00 PM",
+      "desc": "Available from 16th July"
     },
     {
-      "title": "PS Plus Extra Games July 2026: Avatar, Rise Of The Ronin, And Dying Light - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/two-very-big-open-world-games-and-some-ps2-deep-cuts-join-ps-plus-in-july-2026-2000716262",
-      "image": "https://kotaku.com/app/uploads/2026/07/PS-Plus-games-July-1200x675.jpg",
-      "published": "7/15/2026, 5:01:48 PM",
-      "desc": "Also Citizen Sleeper 2 is coming to PlayStation Plus' Extra tier"
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+      "published": "7/15/2026, 7:41:38 PM",
+      "desc": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
     },
     {
-      "title": "Pokémon Drops Underdog Spin-Off From Its World Championships - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pokemon-world-championships-2026-2027-unite-worlds-go-2000716258",
-      "image": "https://kotaku.com/app/uploads/2021/08/1b2a9ae2419025baf1896a038f244b91-1200x675.jpg",
-      "published": "7/15/2026, 4:31:01 PM",
-      "desc": "The 2027 World Championships tournament will be a little smaller"
+      "title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/applecare.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/15/2026, 7:04:00 PM",
+      "desc": "As Bloomberg reports, Apple has increased its monthly and annual AppleCare+ rates for new Mac and iPad customers. Here are the details."
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_galaxy_z_fold8_ultra_full_specs_leak-news-73738.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-specs-leak/-952x498w6/gsmarena_000.jpg",
+      "published": "7/15/2026, 7:00:02 PM",
+      "desc": "They are both going to be unveiled next week. We recently saw leaked renders showing Samsung's upcoming Galaxy Z Fold8 and Galaxy Z Fold8 Ultra, and now..."
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?resize=1200,675",
+      "published": "7/15/2026, 6:47:01 PM",
+      "desc": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite."
     }
   ],
   "education": [
@@ -520,21 +512,21 @@
     },
     {
       "rank": 5,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 7,
