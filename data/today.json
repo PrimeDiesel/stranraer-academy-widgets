@@ -1,29 +1,29 @@
 {
-  "generated": "2026-07-17T07:31:59.935Z",
-  "day": 197,
+  "generated": "2026-07-18T07:13:35.468Z",
+  "day": 198,
   "movie": {
-    "title": "Coco",
+    "title": "The African Queen",
     "safe": true,
     "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2017",
-    "plot": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "year": "1952",
+    "plot": "At the start of the First World War, in the middle of Africa’s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+    "poster": "https://image.tmdb.org/t/p/w500/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Weezer-Buddy Holly",
+    "key": "Hozier-Someone New",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/ef/02/98ef026e-7d73-f8ce-90d0-b41371ad20aa/16UMGIM52970.rgb.jpg/600x600bb.jpg",
-    "year": "1994",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/3c/33/503c3301-0b68-8005-bc2b-c8fe662a12d9/14UMGIM25760.rgb.jpg/600x600bb.jpg",
+    "year": "2014",
     "v": 4
   },
   "album": {
-    "key": "Madonna-Like a Virgin",
+    "key": "OneRepublic-Dreaming Out Loud",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/80/32/8e803264-c925-14dd-3412-2d7652c3df7b/mzi.wxptosaa.jpg/600x600bb.jpg",
-    "year": "1984",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5b/2c/bc5b2c34-a392-3cd2-4077-12d6b8451ba3/07UMGIM16721.rgb.jpg/600x600bb.jpg",
+    "year": "2007",
     "v": 4
   }
 }
