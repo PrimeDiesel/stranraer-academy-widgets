@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-18T07:52:36.091Z",
+  "updated": "2026-07-18T09:27:23.038Z",
   "news": [
     {
-      "title": "Rohan Dennis: Australian Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "title": "What you need to know as Andy Burnham set to become UK prime minister",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c6c/live/598b1ee0-3072-11f0-8947-7d6241f9fce9.jpg",
-      "published": "7/17/2026, 7:07:27 AM",
-      "desc": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month."
+      "url": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d73/live/071ae5b0-81ab-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/17/2026, 8:37:28 AM",
+      "desc": "He is set to replace Sir Keir Starmer as the UK's PM on Monday after winning Labour's leadership race."
+    },
+    {
+      "title": "Vahid Aberi charged with assisting Iran's intelligence service",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlyjmrzgro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32cf/live/9f407a80-1315-11f1-9b9a-9d7ed2eef502.jpg",
+      "published": "7/17/2026, 8:22:25 AM",
+      "desc": "Vahid Aberi, of Liverpool, is accused of the National Security Act offence."
     },
     {
       "title": "Catfishing victim gets payout for Tinder, TikTok and Instagram profiles",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3414/live/c7b9a8d0-8131-11f1-b525-63787292c170.jpg",
       "published": "7/17/2026, 7:07:23 AM",
       "desc": "Elha Mai Weston posed as the teenager to strike up romantic conversations on social media."
-    },
-    {
-      "title": "Prostate cancer trial using focal therapy has fewer side effects",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0410/live/9245adf0-80fc-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/17/2026, 6:37:30 AM",
-      "desc": "An NHS trial over 10 years followed nearly 3,500 men who received focal therapy, a less invasive treatment."
     },
     {
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: Thousands of tickets still available for England-France",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5yd5kv1e5ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9ee/live/4be4bd80-81bd-11f1-851a-41b6200fdab4.jpg",
+      "published": "7/17/2026, 9:37:20 AM",
+      "desc": "Around 7,000 tickets are still listed on Fifa's ticket sites for Saturday's World Cup bronze medal match between England and France."
+    },
+    {
+      "title": "World Cup 2026: World Cup rings for winners as Donald Trump to attend final",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b799/live/f014a550-81b3-11f1-bc34-d11e2a8fe857.jpg",
+      "published": "7/17/2026, 8:52:23 AM",
+      "desc": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side."
+    },
     {
       "title": "Argentina v England: How rugby union is 'booming' in football-mad Argentina",
       "source": "BBC Sport",
@@ -186,22 +202,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0716%2Fr1690214_1296x729_16%2D9.jpg",
       "published": "7/17/2026, 12:03:59 AM",
       "desc": "Pat Riley and Giannis Antetokounmpo said that they would love for LeBron James to return to the Miami Heat."
-    },
-    {
-      "title": "England vs India: Joe Root says young batters are learning on the job in ODI cricket",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/925a/live/38a0c270-815c-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/16/2026, 10:52:20 PM",
-      "desc": "England batter Joe Root explains the difficulties for young batters in 50-over cricket because of a lack of exposure to the format."
-    },
-    {
-      "title": "William Saliba: Arsenal to assess defender's back injury with surgery an option",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cp87np4282po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7644/live/e5da6f10-815f-11f1-b220-2f707fe15ddf.jpg",
-      "published": "7/16/2026, 10:07:21 PM",
-      "desc": "Arsenal will assess William Saliba's back injury when he reports back to the club after World Cup duty."
     }
   ],
   "tech": [
@@ -212,6 +212,14 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/16/2026, 10:42:00 PM",
       "desc": "Apple released the iOS 27 public beta this week, with a ton of new Siri and Apple Intelligence features. One..."
+    },
+    {
+      "title": "You can already buy the unreleased Galaxy Z Fold 8 Ultra, provided you have $13,000 - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-already-buy-the-unreleased-galaxy-z-fold-8-ultra-provided-you-have-usd13-000",
+      "image": "https://cdn.mos.cms.futurecdn.net/7fR2xDCvNQBEr2ntv8YtqM-1920-80.jpg",
+      "published": "7/16/2026, 9:43:19 PM",
+      "desc": "Samsung hasn't even unveiled the Galaxy Z Fold 8 Ultra yet, but one company is already selling a $13,000 version wrapped in football history."
     },
     {
       "title": "It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica",
@@ -238,22 +246,6 @@
       "desc": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools."
     },
     {
-      "title": "GameStop CEO Says Physical Games Are ‘Totally Irrelevant’ - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758",
-      "image": "https://kotaku.com/app/uploads/2025/11/gamestop-e1777731655117-1200x675.jpg",
-      "published": "7/16/2026, 6:49:01 PM",
-      "desc": "Ryan Cohen also claims that if GameStop and eBay merged it could create a $1 trillion business"
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
-      "published": "7/16/2026, 6:32:54 PM",
-      "desc": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images."
-    },
-    {
       "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
       "source": "Kotaku",
       "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
@@ -268,6 +260,14 @@
       "image": "https://wpassets.halowaypoint.com/wp-content/2026/07/HCE-ConceptArt-Maw-1920x1080-1.jpg",
       "published": "7/16/2026, 6:18:37 PM",
       "desc": "<p>To learn more about the art of Halo: Campaign Evolved, we sat down with Halo Studios Art Director Chris Matthews and Donnie Taylor, Halo: Campaign Evolved Art Director, to talk shop!</p>"
+    },
+    {
+      "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734",
+      "image": "https://kotaku.com/app/uploads/2026/06/marathon-vandal-1200x675.jpg",
+      "published": "7/16/2026, 5:50:07 PM",
+      "desc": "A roguelite version of Cryo Archive is set to debut in the meantime"
     }
   ],
   "education": [
@@ -375,15 +375,6 @@
     },
     {
       "rank": 5,
-      "title": "Paradise",
-      "artist": "Brandon Flowers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fe/f8/0efef8b0-439f-c70c-e2f1-1035b87b9c93/26UMGIM69978.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/50/5c/12505cb3-75da-6626-06c7-44dffcdbf083/mzaf_10567509900829230838.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/paradise/6781078037?i=6781078363&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Brandon%20Flowers%20Paradise"
-    },
-    {
-      "rank": 6,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -392,22 +383,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 7,
-      "title": "Love Sensation (Floorplan Mix)",
-      "artist": "Madonna",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/bc/7d/fcbc7d6b-c925-768d-108b-ecdbb0504135/093624815754.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/a6/c1/a7a6c187-755d-7f8a-1b37-9d12f77c68b4/mzaf_17795773556762422802.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-floorplan-mix/6791326886?i=6791326887&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20Love%20Sensation%20(Floorplan%20Mix)"
+      "rank": 6,
+      "title": "Paradise",
+      "artist": "Brandon Flowers",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fe/f8/0efef8b0-439f-c70c-e2f1-1035b87b9c93/26UMGIM69978.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/50/5c/12505cb3-75da-6626-06c7-44dffcdbf083/mzaf_10567509900829230838.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/paradise/6781078037?i=6781078363&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Brandon%20Flowers%20Paradise"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "I'd Be Lyin'",
       "artist": "Kelly Clarkson",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/f0/8f23f04d-88f0-0c4e-0514-641d2d975873/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/a1/4f/36a14f59-9802-78bd-4efb-1ade51fb8041/mzaf_13603107481370861592.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/id-be-lyin/6784410352?i=6784410353&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kelly%20Clarkson%20I'd%20Be%20Lyin'"
+    },
+    {
+      "rank": 8,
+      "title": "Love Sensation (Floorplan Mix)",
+      "artist": "Madonna",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/bc/7d/fcbc7d6b-c925-768d-108b-ecdbb0504135/093624815754.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/a6/c1/a7a6c187-755d-7f8a-1b37-9d12f77c68b4/mzaf_17795773556762422802.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-floorplan-mix/6791326886?i=6791326887&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20Love%20Sensation%20(Floorplan%20Mix)"
     },
     {
       "rank": 9,
@@ -438,15 +438,6 @@
     },
     {
       "rank": 12,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 13,
       "title": "These Alarms",
       "artist": "Snow Patrol & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2f/4a/582f4a16-048d-5cc2-e722-8ed21d8f6cc1/4099964270594.jpg/300x300bb.jpg",
@@ -455,22 +446,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20%26%20Kylie%20Minogue%20These%20Alarms"
     },
     {
-      "rank": 14,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+      "rank": 13,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Wonderwall (Remastered)",
       "artist": "Oasis",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
+    },
+    {
+      "rank": 15,
+      "title": "The Puerto Rico Song",
+      "artist": "Saxboy Billy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/9c/91/229c91aa-f6bc-b90b-3a35-71d4eb13c732/26SYMIM30323.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/d7/86/00d786a6-492d-1eae-a15b-7053fc381123/mzaf_1073314407428641012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-puerto-rico-song/6766473604?i=6766473605&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Saxboy%20Billy%20The%20Puerto%20Rico%20Song"
     }
   ],
   "movies": [
@@ -494,21 +494,21 @@
     },
     {
       "rank": 3,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 4,
       "title": "The Breadwinner",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
       "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
       "url": "https://www.themoviedb.org/movie/1440050"
+    },
+    {
+      "rank": 4,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 5,
@@ -521,24 +521,6 @@
     },
     {
       "rank": 6,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 7,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 8,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -547,27 +529,27 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 9,
-      "title": "The Sheep Detectives",
+      "rank": 7,
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "url": "https://www.themoviedb.org/movie/1301421"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 8,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Little House on the Prairie",
       "year": "2026",
       "cert": "12",
@@ -576,13 +558,13 @@
       "url": "https://www.themoviedb.org/tv/283304"
     },
     {
-      "rank": 3,
-      "title": "SpongeBob SquarePants",
-      "year": "1999",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "url": "https://www.themoviedb.org/tv/387"
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
