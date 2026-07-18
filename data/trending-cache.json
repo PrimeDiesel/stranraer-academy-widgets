@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-18T11:05:18.410Z",
+  "updated": "2026-07-18T12:00:44.624Z",
   "news": [
     {
-      "title": "UK weather: Heatwave approaches two-week mark",
+      "title": "Cairngorms wildfire burns for third day across nearly four miles",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/037f/live/20158690-81a3-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/17/2026, 10:52:24 AM",
-      "desc": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and when we might see it easing."
+      "url": "https://www.bbc.co.uk/news/articles/cr59ng05nngo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eaad/live/00530880-81c8-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/17/2026, 11:07:22 AM",
+      "desc": "Firefighters are still on the scene and an area commander says there are \"adequate resources\" to deal with the incident."
+    },
+    {
+      "title": "Bonnie Tyler funeral plans announced as fans invited to line the streets",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2372/live/770115a0-81cb-11f1-97b7-87871fc222bc.jpg",
+      "published": "7/17/2026, 11:07:17 AM",
+      "desc": "Bonnie Tyler's coffin will be brought to her Mumbles home, with fans invited to \"pay their respects\"."
     },
     {
       "title": "Andy Burnham: Five headaches for the incoming prime minister",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c361/live/c7c30720-81bf-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/17/2026, 10:22:22 AM",
       "desc": "Queen Camilla is marking her birthday with a renewed commitment to supporting children's literacy."
-    },
-    {
-      "title": "What you need to know as Andy Burnham set to become UK prime minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d73/live/071ae5b0-81ab-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/17/2026, 8:37:28 AM",
-      "desc": "He is set to replace Sir Keir Starmer as the UK's PM on Monday after winning Labour's leadership race."
     },
     {
       "title": "Catfishing victim gets payout for Tinder, TikTok and Instagram profiles",
@@ -68,20 +68,36 @@
   ],
   "sports": [
     {
+      "title": "Jarrod Bowen: West Ham captain to stay at club in Championship",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "7/17/2026, 11:22:25 AM",
+      "desc": "West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship."
+    },
+    {
+      "title": "F1 practice LIVE: Belgian Grand Prix 2026 times, results & commentary from Spa-Francorchamps",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/live/cj409qd058pt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e99b/live/76254680-81c9-11f1-97b7-87871fc222bc.jpg",
+      "published": "7/17/2026, 11:22:23 AM",
+      "desc": "Follow live text updates and listen to Sports Extra 2 commentary of first practice at the Belgian Grand Prix."
+    },
+    {
+      "title": "World Cup 2026: Thomas Tuchel did not deliver for England, but his time is not up - Alan Shearer",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8xnl908y28o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f7d1/live/ea5524f0-8163-11f1-a3a9-99558c035618.jpg",
+      "published": "7/17/2026, 11:22:22 AM",
+      "desc": "Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat."
+    },
+    {
       "title": "Top 50 Players From The 2026 World Cup Ahead Of The Final",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/world-cup-2026-top-50-players-ranked",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard_1_720.jpg?ve=1&tl=1",
       "published": "7/17/2026, 10:37:23 AM",
       "desc": "The 2026 World Cup was filled with household names delivering big moments and breakout stars who shined. Here's our ranking of the top 50."
-    },
-    {
-      "title": "WNBA: Caitlin Clark has become 'political football' says NBA's Silver",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d892/live/a61ffc50-81af-11f1-bc34-d11e2a8fe857.jpg",
-      "published": "7/17/2026, 9:52:34 AM",
-      "desc": "NBA commissioner Adam Silver believes the debate around the treatment of Indiana Fever star Caitlin Clark is \"not largely about officiating\"."
     },
     {
       "title": "World Cup 2026: Spain 2010 v Spain 2026 - how do the two XIs compare?",
@@ -100,20 +116,20 @@
       "desc": "Around 7,000 tickets are still listed on Fifa's ticket sites for Saturday's World Cup bronze medal match between England and France."
     },
     {
+      "title": "World Cup winners to be awarded 'championship rings' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49382249/world-cup-winners-awarded-championship-rings",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690339_1296x729_16%2D9.jpg",
+      "published": "7/17/2026, 9:08:51 AM",
+      "desc": "The winners of the World Cup will be awarded championship rings in addition to the traditional trophy and gold medals."
+    },
+    {
       "title": "World Cup 2026: World Cup rings for winners as Donald Trump to attend final",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b799/live/f014a550-81b3-11f1-bc34-d11e2a8fe857.jpg",
       "published": "7/17/2026, 8:52:23 AM",
       "desc": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side."
-    },
-    {
-      "title": "Argentina v England: How rugby union is 'booming' in football-mad Argentina",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbc3/live/a433a790-81ad-11f1-a41f-ff0fd93fd480.jpg",
-      "published": "7/17/2026, 7:22:23 AM",
-      "desc": "Rugby union is 'booming' in football-mad Argentina, according to Pumas head coach Felipe Contepomi."
     },
     {
       "title": "World Cup 2026: Nine stars who could move in summer transfers",
@@ -186,22 +202,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/spainfront.jpg?ve=1&tl=1",
       "published": "7/17/2026, 1:22:19 AM",
       "desc": "With the sun obstructed by haze, Spain’s players practiced ahead of the World Cup final outside in northern New Jersey while air conditions are hazardous because of smoke from Canadian wildfires."
-    },
-    {
-      "title": "Under hazy conditions, Francisco Alvarez hits 2 HR in Mets' win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49380888/under-hazy-conditions-francisco-alvarez-hits-2-hr-mets-win",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690275_1296x729_16%2D9.jpg",
-      "published": "7/17/2026, 1:17:02 AM",
-      "desc": "Francisco Alvarez homered twice, Brett Baty also went deep and the Mets defeated the Phillies 4-1 on Thursday night in the first major league game following the All-Star break."
-    },
-    {
-      "title": "Every Teenager To Start In A World Cup Final — And Win It",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/every-teenager-start-world-cup-final-and-win",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/4dcfdb44-mbappe1.jpg?ve=1&tl=1",
-      "published": "7/17/2026, 1:07:23 AM",
-      "desc": "Only three teenagers in FIFA World Cup history have started in the final and won it. Here is the full list, and the players that could join it."
     }
   ],
   "tech": [
@@ -476,21 +476,21 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 3,
@@ -521,12 +521,12 @@
     },
     {
       "rank": 6,
-      "title": "Project Hail Mary",
+      "title": "Michael",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 7,
@@ -539,12 +539,12 @@
     },
     {
       "rank": 8,
-      "title": "Michael",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
