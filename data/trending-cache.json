@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-18T22:51:50.420Z",
+  "updated": "2026-07-18T23:55:32.748Z",
   "news": [
+    {
+      "title": "I took a month of unpaid parental leave to look after my daughter for the summer holiday",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9r93n5w10o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba33/live/1a3fd810-8040-11f1-b6a0-cf44edcfbc55.jpg",
+      "published": "7/17/2026, 11:52:22 PM",
+      "desc": "Like many parents, Natalie and her husband had to combine organised childcare and annual leave to cope with the six-week break."
+    },
     {
       "title": "White House defends Argentina team over Falklands banner",
       "source": "BBC News",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ecbe/live/b46e0b20-8219-11f1-aa42-b9fc2513a2eb.jpg",
       "published": "7/17/2026, 9:37:22 PM",
       "desc": "The list of people taking on Nigel Farage contains 20 independents and a number of joke candidates."
-    },
-    {
-      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/254d/live/67655330-7934-11f1-8d20-776ad947bebb.jpg",
-      "published": "7/17/2026, 9:22:19 PM",
-      "desc": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her."
     },
     {
       "title": "Ukrainian soldiers criticise removal of popular defence minister",
@@ -67,6 +67,54 @@
     }
   ],
   "sports": [
+    {
+      "title": "How Spain Built A Foundation That Produced Its Current World Cup Stars",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/spain-system-world-cup-euro-olympics-luis-de-la-fuente",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/a33b0b6e-artboard-11.jpg?ve=1&tl=1",
+      "published": "7/17/2026, 11:52:23 PM",
+      "desc": "For Spain, there are world-class players on the roster, but the team is the star. It's been designed that way on purpose."
+    },
+    {
+      "title": "Recapping Argentina&#39;s Run To The 2026 World Cup Final",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/recapping-argentinas-run-2026-world-cup-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/e6e412b5-argentina-historic-final-run-16x9-1.jpg?ve=1&tl=1",
+      "published": "7/17/2026, 11:52:21 PM",
+      "desc": "After surviving close calls and pulling off improbable comebacks, let's take a look back at Argentina's historic run to the World Cup final."
+    },
+    {
+      "title": "White House defends Argentina team over Falklands banner",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/cx2rmjk0740o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/17/2026, 11:37:23 PM",
+      "desc": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate."
+    },
+    {
+      "title": "2026 World Cup Odds: Back Spain To Hoist World Cup Trophy",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-world-cup-final-best-bet",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/rodri_spain_will-hill_best-bet.jpg?ve=1&tl=1",
+      "published": "7/17/2026, 11:22:24 PM",
+      "desc": "Will Spain overcome defending champion Argentina in the World Cup final? Will Hill believes it's possible. Here's why."
+    },
+    {
+      "title": "2026 World Cup Odds: Bettors Backing &#39;Fairytale Finish For Messi&#39;",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-bettors-backing-fairytale-finish-messi",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lionel_messii_odds_everson_world-cup.jpg?ve=1&tl=1",
+      "published": "7/17/2026, 11:22:19 PM",
+      "desc": "Bettors are backing the Messi fairytale, but oddsmakers want Spain to lift the trophy. Patrick Everson has the Spain-Argentina betting scoop."
+    },
+    {
+      "title": "Lamine Yamal, Marc Cucurella Make Risky Promises Ahead Of 2026 World Cup Final",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lamine-yamal-marc-cucurella-make-risky-promises-ahead-2026-world-cup-final",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/2c55beac-lamine1.jpg?ve=1&tl=1",
+      "published": "7/17/2026, 11:07:19 PM",
+      "desc": "Lamine Yamal and Marc Cucurella have put added pressure on themselves ahead of Spain's World Cup final against Argentina on Sunday at New York New Jersey Stadium."
+    },
     {
       "title": "Pirates-Guardians game postponed due to poor air quality - ESPN",
       "source": "ESPN",
@@ -106,14 +154,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
       "published": "7/17/2026, 9:07:18 PM",
       "desc": "Bryson DeChambeau's bid to win the Open takes a hit after he was given a two-shot penalty on a dramatic evening at Royal Birkdale."
-    },
-    {
-      "title": "Argentina vs. Spain: The 2026 World Cup Final By The Numbers",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/argentina-vs-spain-2026-world-cup-numbers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/wc-final-by-the-numbers-16x9-2.jpg?ve=1&tl=1",
-      "published": "7/17/2026, 8:52:30 PM",
-      "desc": "Check out all the stats and facts around the historic matchup between Argentina and Spain."
     },
     {
       "title": "World Cup Winners Will Be Awarded Championship Rings For First Time Ever",
@@ -164,62 +204,62 @@
       "desc": "Jon Rahm was given a code-of-conduct warning Friday in the British Open for throwing his club after a poor tee shot on the par-3 15th hole."
     },
     {
-      "title": "Star-Studded Bronze Match: Mbappé, Bellingham Lead France-England Third-Place Game",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-france-england-bronze-third-place-mbappe-bellingham-kane",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1spaeng.jpg?ve=1&tl=1",
-      "published": "7/17/2026, 8:22:21 PM",
-      "desc": "France and England face off for the 2026 World Cup third-place match on Saturday. Here's what to know."
-    },
-    {
       "title": "Aaron Judge (rib) not fully healed, still not OK'd for baseball activities - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49386071/aaron-judge-rib-not-fully-healed-not-okd-baseball-activities",
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0531%2Fr1666169_1296x729_16%2D9.jpg",
       "published": "7/17/2026, 8:18:49 PM",
       "desc": "Aaron Judge's broken rib hasn't fully healed, and he hasn't been cleared to resume baseball activities."
-    },
-    {
-      "title": "NFL suspends Cardinals executive for violating gambling policy - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49386067/nfl-suspends-cardinals-executive-violating-gambling-policy",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0422%2Fr1322967_1296x729_16%2D9.jpg",
-      "published": "7/17/2026, 8:18:15 PM",
-      "desc": "The NFL has suspended Arizona Cardinals personnel executive Ryan Gold indefinitely for violating the league's gambling policy."
-    },
-    {
-      "title": "World Cup 2026: Wayne Rooney thinks England should stick with Thomas Tuchel",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c304ldrmmero",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d1f6/live/cb3d80e0-820c-11f1-a389-0bd432a143c3.jpg",
-      "published": "7/17/2026, 7:52:22 PM",
-      "desc": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible."
-    },
-    {
-      "title": "Spain vs. Argentina World Cup Final Weather Update, Forecast",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-final-spain-argentina-weather-forecast-smoke-aqi",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286432855-scaled.jpg?ve=1&tl=1",
-      "published": "7/17/2026, 7:37:21 PM",
-      "desc": "Ahead of Sunday's World Cup final between Argentina and Spain, here is what the weather forecast is shaping up to be."
-    },
-    {
-      "title": "Sir Garfield Sobers obituary: West Indies legendary all-rounder remembered",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/235a/live/0e9f5f20-28d7-11ef-98b5-4932e8f29bf6.jpg",
-      "published": "7/17/2026, 5:52:22 PM",
-      "desc": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game."
     }
   ],
   "tech": [
     {
-      "title": "Disney Has Started Feeding Your Kids AI Slop - Kotaku",
+      "title": "Shark’s versatile ChillPill cooling system is back to its best price - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/shark_chillpill3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/17/2026, 8:15:54 PM",
+      "desc": "Shark’s ChillPill Personal Fan and Cooling System is $99.99 ($30 off). The versatile cooling gadget combines a ten-speed fan and dry-touch evaporative mister."
+    },
+    {
+      "title": "Man with staggering $20 billion net worth put a car order in so big that Mercedes had to shut down its factory - supercarblondie.com",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/rainbow-sheikh-car-order-shut-down-mercedes-factory/",
+      "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Rainbow-Mercedes-Sheikh-featured.webp",
+      "published": "7/17/2026, 8:02:00 PM",
+      "desc": "The 'Rainbow Sheikh' has a staggering $20 billion net worth and once put in a car order that was so big, it shut down manufacturing at a Mercedes factory"
+    },
+    {
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+      "published": "7/17/2026, 7:49:53 PM",
+      "desc": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law."
+    },
+    {
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258119_Pebble_Core_2_Duo_Review_AKrales_0093.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/17/2026, 7:14:42 PM",
+      "desc": "Pebble founder Eric Migicovsky talks about reports of issues on its new e-paper smartwatches, and the short 30-day warranty they carry."
+    },
+    {
+      "title": "Pixel 11 reportedly getting ‘improved’ face unlock as 11a said to use Tensor G6 - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/17/pixel-11-face-unlock-11a-tensor-g6/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/pixel-4-face-unlock-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/17/2026, 6:49:00 PM",
+      "desc": "While we wait for the Pixel 11 launch, rumors about the Pixel 11a and even 12a are already emerging. Notably, face unlock..."
+    },
+    {
+      "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
-      "image": "https://kotaku.com/app/uploads/2026/07/foxy-ai-disney.jpg",
-      "published": "7/17/2026, 7:30:14 PM",
-      "desc": "Bluey who?"
+      "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
+      "image": "https://kotaku.com/app/uploads/2026/07/image-94.jpg",
+      "published": "7/17/2026, 6:45:39 PM",
+      "desc": "Also: that mobile version of Final Fantasy 14 has been canceled"
     },
     {
       "title": "Marathon Game Director Leaves As Player Counts Dwindle - Kotaku",
@@ -228,46 +268,6 @@
       "image": "https://kotaku.com/app/uploads/2026/04/Marathon_Vignette_Recon_07_1920x1080-1200x675.jpg",
       "published": "7/17/2026, 6:23:00 PM",
       "desc": "Joe Ziegler will depart as player counts crater"
-    },
-    {
-      "title": "Apple Music is getting a price hike - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925978/acastro_STK046_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "7/17/2026, 6:14:26 PM",
-      "desc": "Apple Music is raising prices, with the individual plan increasing to $11.99 per month from $10.99. Apple One Family and Premier plans are also more expensive."
-    },
-    {
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "published": "7/17/2026, 5:39:18 PM",
-      "desc": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to..."
-    },
-    {
-      "title": "Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/17/galaxy-z-fold-8-flip-images-leak-before-launch/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-leaks-header-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/17/2026, 3:28:00 PM",
-      "desc": "Whether Samsung wants detailed images of the Galaxy Z Fold 8 and 8 Ultra out there, they are. The latest..."
-    },
-    {
-      "title": "5 Big Changes Reportedly Coming To The iPad Lineup By 2027 - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2217494/big-changes-ipad-coming-soon/",
-      "image": "https://www.bgr.com/img/gallery/5-big-changes-reportedly-coming-to-the-ipad-lineup-by-2027/l-intro-1784300517.jpg",
-      "published": "7/17/2026, 3:04:09 PM",
-      "desc": "Apple's iPad line-up is slated to get some major changes with its 2027 releases, including upgraded accessories and the long-awaited Siri AI."
-    },
-    {
-      "title": "Battlefield 6 Gets the Top Gun Treatment in August with Special Crossover Event - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/battlefield-6-to-get-top-gun-crossover-in-august",
-      "image": "https://assets-prd.ignimgs.com/2026/07/14/bf6thumb-1784042169814.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/17/2026, 3:00:00 PM",
-      "desc": "Battlefield 6 is getting a Top Gun crossover next month."
     }
   ],
   "education": [
@@ -521,21 +521,21 @@
     },
     {
       "rank": 6,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 7,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 7,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 8,
@@ -559,21 +559,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "Little House on the Prairie",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
-      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
-      "url": "https://www.themoviedb.org/tv/283304"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Little House on the Prairie",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
+      "url": "https://www.themoviedb.org/tv/283304"
     }
   ]
 }
