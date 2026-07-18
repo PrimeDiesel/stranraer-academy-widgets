@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-18T16:59:24.528Z",
+  "updated": "2026-07-18T17:56:50.706Z",
   "news": [
+    {
+      "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51b5/live/0d76ac70-8203-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/17/2026, 6:07:22 PM",
+      "desc": "The French culture minister has told the BBC that the Bayeux Tapestry  is in \"a wonderful state\"."
+    },
+    {
+      "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75y4q61eevo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8d1/live/e4fdaef0-81f4-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/17/2026, 5:37:22 PM",
+      "desc": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days."
+    },
     {
       "title": "Burnham says he is 'finalising' cabinet ahead of becoming PM on Monday",
       "source": "BBC News",
@@ -26,28 +42,12 @@
       "desc": "The next prime minister promised nothing less than the biggest change in British politics in 40 years in his first speech as Labour leader."
     },
     {
-      "title": "Sir Garfield Sobers: West Indies cricket legend dies aged 89",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq6d421ezjdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/444d/live/42a59ff0-81f4-11f1-b6ff-e9b8db4416d1.jpg",
-      "published": "7/17/2026, 3:52:22 PM",
-      "desc": "Legendary former West Indies all-rounder Sir Garfield Sobers, regarded as one of the greatest cricketers of all time, dies aged 89."
-    },
-    {
       "title": "Mother of Henry Nowak's killer jailed for removing weapon",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1w1nnzgg2no",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f63d/live/8fe0dc80-5aa8-11f1-b277-cd187c78657d.jpg",
       "published": "7/17/2026, 3:22:21 PM",
       "desc": "Kiran Kaur is jailed after attempting to hide the knife used to kill student Henry Nowak."
-    },
-    {
-      "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75y4q61eevo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/121a/live/1536b300-81eb-11f1-b7bc-5dd9ae7a9918.jpg",
-      "published": "7/17/2026, 2:37:27 PM",
-      "desc": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days."
     },
     {
       "title": "German politician faces calls to resign over child born with US surrogate",
@@ -68,12 +68,20 @@
   ],
   "sports": [
     {
-      "title": "Leeds United sign £34.1m defender Muharemovic",
+      "title": "Aston Villa transfers: Johan Manzambi signs in club record deal",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9w0kl9rjpno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2bb7/live/2a5409f0-81f4-11f1-b6ff-e9b8db4416d1.jpg",
-      "published": "7/17/2026, 4:52:31 PM",
-      "desc": "Leeds United sign defender Tarik Muharemovic for £34.1m from Serie A side Sassuolo."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cj365336l52o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4798/live/e028a970-8203-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/17/2026, 5:52:26 PM",
+      "desc": "Unai Emery makes his first summer signing by bringing in Johan Manzambi for a club record fee of just over £50m."
+    },
+    {
+      "title": "Sir Garfield Sobers obituary: West Indies legendary all-rounder remembered",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/235a/live/0e9f5f20-28d7-11ef-98b5-4932e8f29bf6.jpg",
+      "published": "7/17/2026, 5:52:22 PM",
+      "desc": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game."
     },
     {
       "title": "World Cup final and third-place prediction: Chris Sutton's verdict on Spain v Argentina & England v France",
@@ -98,6 +106,22 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbb9/live/39302660-81fa-11f1-b81f-6b9faca7ef3f.jpg",
       "published": "7/17/2026, 4:52:20 PM",
       "desc": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time."
+    },
+    {
+      "title": "Bill Belichick: Difference in UNC 'night and day' from year ago - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49385048/bill-belichick-says-difference-unc-night-day-year-ago",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690495_1296x729_16%2D9.jpg",
+      "published": "7/17/2026, 4:48:56 PM",
+      "desc": "In the wake of a 4-8 season with few bright spots on the field, coach Bill Belichick struck an optimistic tone about the trajectory of North Carolina's football program on Friday at ACC Media Days."
+    },
+    {
+      "title": "World Cup beer sales hopping for host cities across U.S. - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49384849/world-cup-beer-sales-hopping-host-cities-us",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690494_1296x729_16%2D9.jpg",
+      "published": "7/17/2026, 4:47:00 PM",
+      "desc": "The World Cup has been a bonanza for beer in the U.S., with host cities reporting a 14% bump in sales at bars, restaurants and stadiums in the first four weeks of the tournament."
     },
     {
       "title": "Who Are The Oldest Players To Win A World Cup?",
@@ -156,14 +180,6 @@
       "desc": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina."
     },
     {
-      "title": "England could walk off if racially abused in Argentina",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cx2k46n7x1ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9427/live/abde5b50-81eb-11f1-b7bc-5dd9ae7a9918.jpg",
-      "published": "7/17/2026, 3:07:25 PM",
-      "desc": "Captain Jamie George says England are considering the prospect of walking off the pitch should any of their players suffer racial abuse against Argentina."
-    },
-    {
       "title": "The Open 2026: Lucas Herbert and Sam Burns equal major record at Royal Birkdale",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o",
@@ -194,32 +210,32 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/341f/live/ddf955e0-81cd-11f1-b976-0b9c15b0ccfc.png",
       "published": "7/17/2026, 2:07:30 PM",
       "desc": "Despite the heartbreak of a World Cup semi-final loss, there are plenty of reasons to be optimistic about England's footballing future."
-    },
-    {
-      "title": "Herbert, Burns match major record with 62s at Open Championship - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49383855/lucas-herbert-matches-major-record-62-open-championship",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690402_1296x729_16%2D9.jpg",
-      "published": "7/17/2026, 1:27:32 PM",
-      "desc": "Lucas Herbert and Sam Burns each matched the major championship scoring record of 62 on Friday in the 154th Open Championship at Royal Birkdale Golf Club."
-    },
-    {
-      "title": "Citing Superstition, Argentine President Won&#39;t Attend World Cup Final",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/fifa-2026-world-cup-argentina-spain",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/argentinah1.jpg?ve=1&tl=1",
-      "published": "7/17/2026, 12:52:21 PM",
-      "desc": "Argentine President Javier Milei says he won’t be attending the World Cup final because of superstition, and he's not the first president of Argentina to make that choice."
     }
   ],
   "tech": [
     {
-      "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=10.049166666667%2C0%2C79.901666666667%2C100&w=1200",
-      "published": "7/17/2026, 2:00:37 PM",
-      "desc": "Bethesda has announced a number of new Fallout projects, including Fallout 5, not long after Xbox was hit with mass layoffs."
+      "title": "Battlefield 6 Is Getting A Feature Not Seen In 21 Years And A Top Gun Crossover - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/battlefield-6-is-getting-a-feature-not-seen-in-21-years-and-a-top-gun-crossover/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-11.03.33-AM.png",
+      "published": "7/17/2026, 3:09:47 PM",
+      "desc": "Highway to the Battlefield zone."
+    },
+    {
+      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it. - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Remarkable-feat.jpg?resize=1200,900",
+      "published": "7/17/2026, 2:47:27 PM",
+      "desc": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good."
+    },
+    {
+      "title": "‘Fallout 5’ in Preproduction, ‘Elder Scrolls 6’ Is Bethesda’s ‘Primary Development Focus’ Following Xbox Layoffs, Studio Chief Says - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Fallout-4.png?w=1000&h=563&crop=1",
+      "published": "7/17/2026, 2:01:00 PM",
+      "desc": "Bethesda Game Studios' Todd Howard confirms \"Fallout 5\" is in the works and \"The Elder Scrolls 6\" is the studio's top priority."
     },
     {
       "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM - The Verge",
@@ -230,52 +246,36 @@
       "desc": "Microsoft’s new entry-level 13-inch Surface Laptop pairs last year’s  great hardware with a higher price and just 8GB of RAM. Thanks, RAMageddon."
     },
     {
+      "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\" - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
+      "image": "https://assetsio.gnwcdn.com/gta-boxed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/17/2026, 1:06:16 PM",
+      "desc": "Estimates suggest GTA 6 made $260 million in pre-orders in its first week alone."
+    },
+    {
+      "title": "Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/siri-ai-vs-old-siri-apple-watch-watchos-27-test/",
+      "image": "https://www.cnet.com/a/img/resize/a14452b33dda39e79dcee39937346bd0ce1f4dde/hub/2026/07/16/07588686-c305-489d-a0fe-32ba3119df43/sirioldvsnew.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published": "7/17/2026, 12:00:00 PM",
+      "desc": "The WatchOS 27 public beta is here, and Apple's revamped assistant finally does what Siri should have been doing all along."
+    },
+    {
+      "title": "Review: Culdcept BEGINS - Nintendo Switch 2 Edition - A Great Distillation Of This Addictive Series' Mechanics - nintendolife.com",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/culdcept-begins-nintendo-switch-2-edition",
+      "image": "https://images.nintendolife.com/f7ed18e069e19/1280x720.jpg",
+      "published": "7/17/2026, 12:00:00 PM",
+      "desc": "Stone culd classic"
+    },
+    {
       "title": "No, Doom maker id Software hasn't been \"nerfed into the ground and gutted\" by the Xbox cuts, insists director Hugo Martin - Eurogamer.net",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/id-software-xbox-cuts-doom",
       "image": "https://assetsio.gnwcdn.com/DOOM-SITE_5fKgryC-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "published": "7/17/2026, 10:35:48 AM",
       "desc": "Doom and Quake creator id Software tries to reassure fans it's okay following the devastating recent Xbox cuts."
-    },
-    {
-      "title": "LG TVs and monitors said to surveil users and install bloatware without asking - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/LG-TVs-and-monitors-said-to-surveil-users-and-install-bloatware-without-asking.1345261.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-UltraGear.jpg",
-      "published": "7/17/2026, 9:17:00 AM",
-      "desc": "Anyone who owns an LG smart TV must inform all guests and family members that they are being monitored – this is required by LG’s current terms of use. Meanwhile, LG monitors install potential malware and surveillance software on a connected Windows computer."
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse hands-on report - PlayStation.Blog",
-      "source": "Playstation.com",
-      "url": "https://blog.playstation.com/2026/07/17/castlevania-belmonts-curse-hands-on-report/",
-      "image": "https://blog.playstation.com/tachyon/2026/07/9ca265fd11f6f0c4b7321eb6db7f6c2f1f015cd5.png",
-      "published": "7/17/2026, 7:00:36 AM",
-      "desc": "Konami and Evil Empire get the blood pumping with slick combat in classic Castlevania."
-    },
-    {
-      "title": "Exclusive: Diagnostics log confirms iPhone 18 Pro Max camera specs ahead of launch - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Exclusive-Diagnostics-log-confirms-iPhone-18-Pro-Max-camera-specs-ahead-of-launch.1344805.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Apple/iPhone_17_Pro/aPic_Apple_iPhone_17_Pro-1320.jpg",
-      "published": "7/17/2026, 3:36:00 AM",
-      "desc": "An ISP diagnostics log, part of the trove of internal Tata Electronics files leaked in June by the World Leaks ransomware group, confirms several previously rumored iPhone 18 Pro Max camera specs ahead of Apple's official announcement."
-    },
-    {
-      "title": "Why Do Roku Remotes Have Tags – And Can You Remove Them? - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2213373/why-do-roku-remotes-have-tags-can-you-remove-them/",
-      "image": "https://www.bgr.com/img/gallery/why-do-roku-remotes-have-tags-and-can-you-remove-them/l-intro-1783946184.jpg",
-      "published": "7/16/2026, 11:17:00 PM",
-      "desc": "The little purple tags on Roku remotes are solely there for brand recognition, and though they can be removed, doing so is trickier than you might think."
-    },
-    {
-      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/16/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/16/2026, 10:42:00 PM",
-      "desc": "Apple released the iOS 27 public beta this week, with a ton of new Siri and Apple Intelligence features. One..."
     }
   ],
   "education": [
