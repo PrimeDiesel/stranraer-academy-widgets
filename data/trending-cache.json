@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-19T12:00:02.183Z",
+  "updated": "2026-07-19T13:19:47.710Z",
   "news": [
+    {
+      "title": "World Cup 2026: Joan Capdevila appeals to US President Donald Trump after travel permit denial",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1d6/live/0b64a900-828a-11f1-a23b-f5a17a30f7d0.png",
+      "published": "7/18/2026, 12:22:21 PM",
+      "desc": "Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before  Sunday's World Cup final."
+    },
     {
       "title": "Teen stuck on M25 for eight hours on first drive",
       "source": "BBC News",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6743/live/ca87eb10-8291-11f1-b45b-4f689a4d3399.png",
       "published": "7/18/2026, 11:07:19 AM",
       "desc": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\"."
-    },
-    {
-      "title": "Doctors didn't spot my condition for so long I was left permanently disabled",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0327/live/de781ca0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
-      "published": "7/18/2026, 10:22:15 AM",
-      "desc": "Actor Daneka Etchells is performing in a show which reflects her experiences of \"medical gaslighting\"."
     },
     {
       "title": "Laos says it cannot determine cause of  tourist deaths linked to methanol",
@@ -68,28 +68,60 @@
   ],
   "sports": [
     {
-      "title": "Ben Askren set for wrestling match a year after almost dying",
+      "title": "Saturday's Scottish League Cup - radio & text",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/articles/c1418mp87rdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d728/live/a66e11e0-8297-11f1-8421-87d3bb1c1a3f.jpg",
-      "published": "7/18/2026, 11:22:23 AM",
-      "desc": "Former UFC fighter Ben Askren is set to complete a remarkable recovery by competing in a wrestling match on Saturday - a year after he almost died."
+      "url": "http://www.bbc.co.uk/sport/football/live/cwye4mk3x28t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4a3/live/3b8e8ab0-82a8-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/18/2026, 1:22:25 PM",
+      "desc": "Listen to Sportsound and follow live text updates from Saturday's Scottish League Cup games."
     },
     {
-      "title": "World Cup 2026: Joan Capdevila appeals to US President Donald Trump after visa denial",
+      "title": "Watch Diamond League London LIVE: Keely Hodgkinson in 800m & Josh Kerr mile world record bid - TV coverage, results & updates",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1d6/live/0b64a900-828a-11f1-a23b-f5a17a30f7d0.png",
-      "published": "7/18/2026, 11:07:22 AM",
-      "desc": "Former Spain international Joan Capdevila asks US President Donald Trump for help after he was denied a visa to enter the United States before Sunday's World Cup final."
+      "url": "http://www.bbc.co.uk/sport/athletics/live/c89kg289gqet",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/55f2/live/9ecba9a0-82a8-11f1-84ea-29e7008b1ad8.jpg",
+      "published": "7/18/2026, 1:22:24 PM",
+      "desc": "Follow live BBC One coverage of the Diamond League as Britain's Keely Hodgkinson and Josh Kerr headline London Athletics Meet"
+    },
+    {
+      "title": "The Open round three LIVE: Bryson DeChambeau, Tommy Fleetwood and Scottie Scheffler in action",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/live/c862nzv2p54t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b39/live/8e60e170-82a3-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/18/2026, 1:22:22 PM",
+      "desc": "Follow live text updates & BBC Radio 5 Live commentary from round three of the 154th Open at Royal Birkdale."
+    },
+    {
+      "title": "Nations Championship: New Zealand 40-21 Ireland - Eden Park loss leaves Ireland with familiar sinking feeling",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ckg3nkpgx4ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a2e/live/8f44c280-8287-11f1-a23b-f5a17a30f7d0.jpg",
+      "published": "7/18/2026, 1:07:31 PM",
+      "desc": "After a six-try defeat by New Zealand in Eden Park, Ireland have now lost six games in a row against the All Blacks, France and South Africa."
+    },
+    {
+      "title": "Fiji v Scotland LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cq5pnndz4xdt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "7/18/2026, 1:07:27 PM",
+      "desc": "Follow build-up, team news, scores & live text updates as Fiji host Scotland in the Nations Championship at  Scottish Gas Murrayfield, Edinburgh."
     },
     {
       "title": "France vs. England Prediction, Odds, Picks For World Cup Match",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/france-vs-england-prediction-odds-picks-world-cup-match",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286100989-scaled.jpg?ve=1&tl=1",
-      "published": "7/18/2026, 11:07:19 AM",
+      "published": "7/18/2026, 12:52:38 PM",
       "desc": "Check out the odds for the France vs. England third-place game at the 2026 FIFA World Cup."
+    },
+    {
+      "title": "How to Watch Mbappe and France vs. England: TV Channel, Live Stream, Live",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/how-to-watch-france-vs-england-tv-channel-live-stream-july-18-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/how-to-watch-france-vs-england-16x9-1.jpg?ve=1&tl=1",
+      "published": "7/18/2026, 12:52:27 PM",
+      "desc": "France and Kylian Mbappé face England in the World Cup third-place match Saturday. Here's the time, TV channel and how to watch or stream on FOX."
     },
     {
       "title": "World Cup 2026: Life after Harry Kane - are England facing a false nine future?",
@@ -124,28 +156,12 @@
       "desc": "Follow live text and listen to radio commentaries from T20 Blast Finals Day at Edgbaston, with Northamptonshire facing Somerset and then Notts Outlaws taking on Hampshire."
     },
     {
-      "title": "New Zealand 40-21 Ireland: All Blacks punish error-strewn Irish in dominant Eden Park win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c4gk5exp8eko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2212/live/95bdb630-8287-11f1-a23b-f5a17a30f7d0.jpg",
-      "published": "7/18/2026, 10:07:23 AM",
-      "desc": "Ruthless New Zealand score five tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest."
-    },
-    {
       "title": "World Cup 2026: Lionel Messi and Tom Brady discuss 'prophetic' Lamine Yamal photos",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c5yejxqll3go",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b7f/live/8e51a230-8282-11f1-bb53-6b734700602c.jpg",
       "published": "7/18/2026, 9:22:30 AM",
       "desc": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby."
-    },
-    {
-      "title": "Caitlin Clark makes WNBA history as Indiana Fever beat Seattle Storm",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/basketball/articles/c9d8y9dn51xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4173/live/8d50c640-827d-11f1-9ffb-b1fdb5e008f5.jpg",
-      "published": "7/18/2026, 9:22:27 AM",
-      "desc": "Caitlin Clark becomes the first player in WNBA history to produce over 40 points and 10 assists as Indiana Fever defeat Seattle Storm."
     },
     {
       "title": "Yankees' Boone: Decision to stay with Cole 'falls on me' - ESPN",
@@ -194,25 +210,17 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi1-11.jpg?ve=1&tl=1",
       "published": "7/18/2026, 2:07:19 AM",
       "desc": "Tom Brady found out Lionel Messi is just as blown by the viral Lamine Yamal photoshoot picture as the next person."
-    },
-    {
-      "title": "Yankees Star Aaron Judge Will &#39;Definitely&#39; Return, But No Baseball Activities Yet",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/yankees-star-aaron-judge-will-definitely-return-no-baseball-activities-yet",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/judge1.jpg?ve=1&tl=1",
-      "published": "7/18/2026, 2:07:17 AM",
-      "desc": "Aaron Judge is convinced — adamant, even — that he will return to the Yankees lineup this year."
-    },
-    {
-      "title": "Messi on viral Yamal baby photo: 'Incredible' we're playing in World Cup final - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49387821/lionel-messi-viral-lamine-yamal-baby-photo-incredible-playing-world-cup-final",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690675_1296x729_16%2D9.jpg",
-      "published": "7/18/2026, 2:04:09 AM",
-      "desc": "Argentina captain Lionel Messi called his viral 2007 photo with a baby Lamine Yamal \"incredible\" on Friday, ahead of their historic matchup in Sunday's World Cup final."
     }
   ],
   "tech": [
+    {
+      "title": "Inside the Art of Campaign Evolved - Halo Waypoint",
+      "source": "Halowaypoint.com",
+      "url": "https://www.halowaypoint.com/news/inside-the-art-of-campaign-evolved",
+      "image": "https://wpassets.halowaypoint.com/wp-content/2026/07/HCE-ConceptArt-Maw-1920x1080-1.jpg",
+      "published": "7/18/2026, 1:34:57 PM",
+      "desc": "<p>To learn more about the art of Halo: Campaign Evolved, we sat down with Halo Studios Art Director Chris Matthews and Donnie Taylor, Halo: Campaign Evolved Art Director, to talk shop!</p>"
+    },
     {
       "title": "Column | Say More: I’m heartbroken my in-laws have chosen guns over grandkid visits - The Washington Post",
       "source": "The Washington Post",
@@ -220,6 +228,30 @@
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CJ5WWHXV2FHULDOJBU4CCROUSA.jpg&w=1440",
       "published": "7/18/2026, 12:32:34 PM",
       "desc": "Not taking the kids to visit their grandparents until they get a gun safe is the right call, but it doesn’t make it any less painful for the letter writer."
+    },
+    {
+      "title": "Sony’s flagship RGB LED TV is incredible - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268637_Sony_Bravia_9_II_TV_JHiggins_0006.jpg?quality=90&strip=all&crop=0%2C9.3677285860733%2C100%2C78.534031413613&w=1200",
+      "published": "7/18/2026, 12:30:00 PM",
+      "desc": "The Bravia 9 II is the best RGB LED TV available with game-changing features, but I’d still buy an OLED."
+    },
+    {
+      "title": "US man drives a 1,000HP Batmobile in public and it goes exactly as you'd expect - supercarblondie.com",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/road-legal-batmobile-1989-replica-movie-car/",
+      "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Batmobile-featured.webp",
+      "published": "7/18/2026, 12:03:00 PM",
+      "desc": "It's no surprise that this man was turning heads when he was driving a Batmobile in public"
+    },
+    {
+      "title": "4 Disadvantages Of Using Microsoft Word Instead Of Google Docs - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2214699/disadvantages-using-microsoft-word-instead-google-docs/",
+      "image": "https://www.bgr.com/img/gallery/4-disadvantages-of-using-microsoft-word-instead-of-google-docs/l-intro-1784041095.jpg",
+      "published": "7/18/2026, 10:47:00 AM",
+      "desc": "MS Word's Ribbon interface is not beginner-friendly, there's no free offline version, working in the cloud requires setup, and there are formatting issues."
     },
     {
       "title": "The 2000s called. They want their digital camera back - NPR",
@@ -230,52 +262,20 @@
       "desc": "Why are people who weren't born 25 years ago snapping up the digital camera of that era? Blame Taylor Swift, trend cycles, childhood nostalgia and smartphone fatigue."
     },
     {
-      "title": "Apple raises iCloud+ subscription prices in several countries - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/17/apple-raises-icloud-subscription-prices-in-several-countries/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/18/2026, 4:35:00 AM",
-      "desc": "Following recent hardware and services price increases, Apple has now raised iCloud+ prices in several countries. Here are the details."
+      "title": "Joanna Stern: An open letter to OpenAI’s secret gadget - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/gadgets/joanna-stern-open-letter-openais-secret-gadget-rcna588052",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250521-Jony-Ive-ew-137p-50f07f.jpg",
+      "published": "7/18/2026, 12:00:00 AM",
+      "desc": "ChatGPT maker OpenAI is working on its own physical device, which is shrouded in mystery — and controversy."
     },
     {
-      "title": "Steam Proves an All-Digital Future (Mostly) Works - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/should-we-fear-consoles-going-all-digital-or-does-the-pc-status-quo-prove-it-works",
-      "image": "https://assets-prd.ignimgs.com/2026/07/14/steam-digital-1784026545856.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/17/2026, 10:28:14 PM",
-      "desc": "PC gaming has been all-digital for years, but while Steam proves it can work, PlayStation owners should still be wary of losing physical discs."
-    },
-    {
-      "title": "California family sets up above-ground pool. Then they realize how dangerous it is when their daughter gets fiberglass in her foot - The Big Lead",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/swimming-pool-ladder-injurs-girl/",
-      "image": "https://www.thebiglead.com/wp-content/uploads/2026/07/California-family-sets-up-above-ground-pool.jpg",
-      "published": "7/17/2026, 10:02:32 PM",
-      "desc": "\"It had my daughter over there screaming and crying.\""
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’ - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
-      "published": "7/17/2026, 9:20:47 PM",
-      "desc": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
-    },
-    {
-      "title": "Why I Don't Recommend the Steam Deck Anymore - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/why-i-dont-recommend-the-steam-deck-anymore",
-      "image": "https://assets-prd.ignimgs.com/2023/11/08/vlcsnap-2023-11-08-15h20m42s026-1699485677675.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/17/2026, 9:19:29 PM",
-      "desc": "Ever since the Steam Deck debuted in 2022, it's been one of my favorite devices. It was relatively affordable for a handheld gaming PC, but still powerful enough to play pretty much anything I would realistically play on the go. And while I still love the thi…"
-    },
-    {
-      "title": "Obviously, Bethesda Is Remastering ‘Fallout: New Vegas’ and ‘Fallout 3’ - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
-      "image": "https://gizmodo.com/app/uploads/2026/07/FalloutS2NYimage14_30001-1200x675.jpg",
-      "published": "7/17/2026, 9:00:27 PM",
-      "desc": "The remasters have been an extremely poorly kept secret for months, but now, they're official."
+      "title": "Apple Increases Prices For Apple Music & Apple One Over \"Rising Licensing Costs\" - Deadline",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/apple-music.jpg?w=1024",
+      "published": "7/17/2026, 10:52:00 PM",
+      "desc": "Apple is raising prices for its music streaming service, Apple Music, for subscribers in the U.S. and other countries."
     }
   ],
   "education": [
@@ -374,15 +374,6 @@
     },
     {
       "rank": 4,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 5,
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
@@ -391,34 +382,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
     },
     {
+      "rank": 5,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
       "rank": 6,
-      "title": "A Man Can Cry",
-      "artist": "Noah Nine",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/e0/05/2ce00515-157a-9400-1a63-9e78c21e9cd1/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/93/6e/44936e86-d414-b065-1995-6411fdc70079/mzaf_7141514106275177216.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/a-man-can-cry/6780252037?i=6780252038&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20A%20Man%20Can%20Cry"
-    },
-    {
-      "rank": 7,
-      "title": "Everything's Alright (feat. Kurt D)",
-      "artist": "Azteck & DJ Koko",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
-    },
-    {
-      "rank": 8,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 9,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
@@ -427,22 +400,49 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
+      "rank": 7,
+      "title": "A Man Can Cry",
+      "artist": "Noah Nine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/e0/05/2ce00515-157a-9400-1a63-9e78c21e9cd1/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/93/6e/44936e86-d414-b065-1995-6411fdc70079/mzaf_7141514106275177216.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/a-man-can-cry/6780252037?i=6780252038&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20A%20Man%20Can%20Cry"
+    },
+    {
+      "rank": 8,
+      "title": "Everything's Alright (feat. Kurt D)",
+      "artist": "Azteck & DJ Koko",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
+    },
+    {
+      "rank": 9,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
       "rank": 10,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 11,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 11,
-      "title": "The Hard Way",
-      "artist": "Cameron Whitcomb",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/b7/a1/b3b7a1d8-e176-d938-2497-2df488d53575/075679604057.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/47/41/d1474134-8aa6-babd-b1ef-fa1eb1a79171/mzaf_11507969848210510910.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/the-hard-way/1829591942?i=1829591943&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Cameron%20Whitcomb%20The%20Hard%20Way"
     },
     {
       "rank": 12,
@@ -455,41 +455,41 @@
     },
     {
       "rank": 13,
-      "title": "Kingdom of Fear",
+      "title": "The Hard Way",
       "artist": "Cameron Whitcomb",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/33/73/7e337333-0802-d7b5-8848-d20fdbdf993c/075679584731.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/8d/78/f48d788e-57d4-e94b-7700-c97bee042b69/mzaf_14738277973191120196.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/kingdom-of-fear/1887606218?i=1887606227&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Cameron%20Whitcomb%20Kingdom%20of%20Fear"
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/b7/a1/b3b7a1d8-e176-d938-2497-2df488d53575/075679604057.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/47/41/d1474134-8aa6-babd-b1ef-fa1eb1a79171/mzaf_11507969848210510910.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-hard-way/1829591942?i=1829591943&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Cameron%20Whitcomb%20The%20Hard%20Way"
     },
     {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 15,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 15,
+      "title": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/a8/c8/eaa8c8c2-3927-aa05-f2f2-8798104c0365/mzaf_2256330201720040258.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wonderwall-remastered/1525933483?i=1525933490&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall%20(Remastered)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 2,
@@ -502,24 +502,6 @@
     },
     {
       "rank": 3,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 4,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 5,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -528,13 +510,31 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 5,
       "title": "The Breadwinner",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
       "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
       "url": "https://www.themoviedb.org/movie/1440050"
+    },
+    {
+      "rank": 6,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 7,
