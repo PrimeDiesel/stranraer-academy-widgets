@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-19T20:51:49.021Z",
+  "updated": "2026-07-19T21:54:25.883Z",
   "news": [
+    {
+      "title": "Cake freebie request from The Voice 'abysmal', says bakery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyre2vg08go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9a8/live/2547a810-82c4-11f1-adf9-c14531781464.png",
+      "published": "7/18/2026, 9:52:33 PM",
+      "desc": "The company behind The Voice UK apologises after asking bakery Get Baked for free food."
+    },
+    {
+      "title": "German politician resigns over surrogacy child controversy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg",
+      "published": "7/18/2026, 9:52:23 PM",
+      "desc": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed."
+    },
     {
       "title": "Andy Burnham to scrap digital ID to focus on 'helping with cost of living'",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg",
       "published": "7/18/2026, 8:37:30 PM",
       "desc": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”."
-    },
-    {
-      "title": "What is gazundering and how can it be avoided?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg",
-      "published": "7/18/2026, 6:37:23 PM",
-      "desc": "It's a small but growing problem in the property market - here's how to protect yourself."
     },
     {
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
@@ -32,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fb7/live/7337c900-82c5-11f1-adf9-c14531781464.jpg",
       "published": "7/18/2026, 5:07:22 PM",
       "desc": "Kirandeep Kaur, killed as she slept with her baby and husband, leaves behind a 'devastated' family in India."
-    },
-    {
-      "title": "Kemi Badenoch: Andy Burnham is 'people pleaser' with 'airy fairy' plans",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c304l24m0leo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cadd/live/22f86510-82bd-11f1-87aa-2bcbbeff03e6.jpg",
-      "published": "7/18/2026, 3:52:28 PM",
-      "desc": "Speaking to Laura Kuenssberg, the Conservative leader accused the incoming PM of not knowing \"what the country's priorities are\"."
     },
     {
       "title": "World Cup 2026: Joan Capdevila appeals to US President Donald Trump after travel permit denial",
@@ -67,6 +67,54 @@
     }
   ],
   "sports": [
+    {
+      "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7e1/live/ac6e4090-82ee-11f1-a54c-d7b64e5e84c2.jpg",
+      "published": "7/18/2026, 9:52:22 PM",
+      "desc": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
+    },
+    {
+      "title": "Cincinnati Reds announce new deal for All-Star Chase Burns - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49393824/cincinnati-reds-announce-new-deal-all-star-chase-burns",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690975_1296x729_16%2D9.jpg",
+      "published": "7/18/2026, 9:29:39 PM",
+      "desc": "The Cincinnati Reds signed starter Chase Burns, 23, to an $105 million, seven-year contract on Saturday, securing a long-term future for the 23-year-old right-hander who is fresh off his first All-Star Game selection."
+    },
+    {
+      "title": "Blackhawks star Connor Bedard agrees to 5-year, $75M deal - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/49393815/blackhawks-star-connor-bedard-agrees-5-year-75m-deal",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1109%2Fr1572986_1296x729_16%2D9.jpg",
+      "published": "7/18/2026, 9:27:46 PM",
+      "desc": "Chicago Blackhawks star Connor Bedard has agreed to a $75 million, five-year contract, completing a major offseason goal for the team."
+    },
+    {
+      "title": "Source: Orioles sign righty Kyle Bradish to $90M extension - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49393801/source-orioles-sign-righty-kyle-bradish-90m-extension",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0502%2Fr1327660_1296x729_16%2D9.jpg",
+      "published": "7/18/2026, 9:23:22 PM",
+      "desc": "The Orioles have agreed to a five-year extension with starting pitcher Kyle Bradish, a deal worth $90 million, a source told ESPN's Jeff Passan."
+    },
+    {
+      "title": "South Africa 43-0 Wales: Steve Tandy 'bitterly disappointed' by loss",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e42/live/27d59c90-82dd-11f1-9a15-3bb955e2f294.jpg",
+      "published": "7/18/2026, 9:22:22 PM",
+      "desc": "Steve Tandy commended his side's efforts but could not hide his disappointment with Wales' Nations Championship loss to South Africa."
+    },
+    {
+      "title": "Open 2026: Tommy Fleetwood still dreaming of emotional win as Sam Burns leads at Royal Birkdale",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/514b/live/c6cf0fe0-82e0-11f1-ae6b-3189bc758570.jpg",
+      "published": "7/18/2026, 9:22:20 PM",
+      "desc": "Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams."
+    },
     {
       "title": "Aston Villa Accepts Bid For Morgan Rogers, England Midfielder Heads To Chelsea",
       "source": "Fox Sports",
@@ -98,22 +146,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
       "published": "7/18/2026, 8:37:27 PM",
       "desc": "Notable news, notes and buzz from MLB's 2026 season."
-    },
-    {
-      "title": "Ex-Cubs 1B Rizzo snares Busch's HR from Wrigley bleachers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49393276/ex-cubs-1b-rizzo-snares-busch-hr-wrigley-bleachers",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690944_1024x576_16%2D9.jpg",
-      "published": "7/18/2026, 8:18:33 PM",
-      "desc": "Former Cubs 1B Anthony Rizzo, in the bleachers after a ceremony honoring the 2016 team, recovered current Chicago 1B Michael Busch's solo HR."
-    },
-    {
-      "title": "Open 2026: Tommy Fleetwood still dreaming of emotional win as Sam Burns leads at Royal Birkdale",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/514b/live/c6cf0fe0-82e0-11f1-ae6b-3189bc758570.jpg",
-      "published": "7/18/2026, 8:07:18 PM",
-      "desc": "Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams."
     },
     {
       "title": "Burns (-10) holds Open lead; Fox, Kim in the hunt two shots back - ESPN",
@@ -164,14 +196,6 @@
       "desc": "George Russell says a \"serious issue\" with the straight-line performance of his Mercedes is making his title fight with Kimi Antonelli \"impossible\"."
     },
     {
-      "title": "Brewers starter Brandon Woodruff to undergo shoulder surgery - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49392963/brewers-starter-brandon-woodruff-undergo-shoulder-surgery",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690917_1296x729_16%2D9.jpg",
-      "published": "7/18/2026, 7:34:21 PM",
-      "desc": "On the same day the Milwaukee Brewers gave fans Brandon Woodruff bobbleheads, the starting pitcher, 33, announced he would be undergoing another anterior capsule surgery on his right shoulder, likely ending his season, the same surgery he had in 2023."
-    },
-    {
       "title": "Tempo coach to Reese: Used phrase 'I shouldn't have used' - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49392868/brondello-apologizes-reese-using-phrase",
@@ -180,36 +204,12 @@
       "desc": "Tempo coach Sandy Brondello apologized to Angel Reese after being heard referring to Reese with a phrase that sounded like \"protected species\" to officials during a game Friday."
     },
     {
-      "title": "South Africa 43-0 Wales: Springboks ease to Nations Championship victory in Durban",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ckg9mprjrvjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fcb/live/d10e17d0-82d6-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/18/2026, 7:22:22 PM",
-      "desc": "South Africa ease to a seven-try bonus-point victory over Wales in the third round of the Nations Championship in Durban."
-    },
-    {
       "title": "2026 World Cup Golden Glove: Unai Simón Heavily Favored",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-golden-glove-odds-emiliano-martinez-favored-repeat",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/unai-714.jpg?ve=1&tl=1",
       "published": "7/18/2026, 7:07:23 PM",
       "desc": "The 2026 FIFA World Cup Golden Glove odds are rounding into shape as the tournament reaches a conclusion."
-    },
-    {
-      "title": "2026 World Cup Young Player of the Tournament Odds: Lamine Yamal Favored",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-young-player-tournament-odds-lamine-yamal-favored",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/lamine-68.jpg?ve=1&tl=1",
-      "published": "7/18/2026, 7:07:20 PM",
-      "desc": "Can anyone — or anything — stop Lamine Yamal from winning Young Player of the Tournament at the World Cup? See the odds."
-    },
-    {
-      "title": "How Spain&#39;s Men&#39;s And Women&#39;s National Teams Rose Above The Rest Of The World",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-spain-men-women-lamine-yamal-aitana-bonmati-alexia-putellas",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9spain-mw.jpg?ve=1&tl=1",
-      "published": "7/18/2026, 7:07:18 PM",
-      "desc": "As the reigning women's World Cup champ and the men playing in Sunday's final, Spain has a chance to set a new standard for sustained dominance."
     }
   ],
   "tech": [
@@ -564,15 +564,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
-      "title": "Little House on the Prairie",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
-      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
-      "url": "https://www.themoviedb.org/tv/283304"
     }
   ]
 }
