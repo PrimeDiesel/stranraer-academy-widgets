@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-21T00:01:14.931Z",
+  "updated": "2026-07-21T02:54:28.812Z",
   "news": [
+    {
+      "title": "Are you a parent missing out on £27 a week? Here's how to check",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2958/live/13ecab20-805c-11f1-a10f-077d9cf2208e.jpg",
+      "published": "7/20/2026, 2:52:26 AM",
+      "desc": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says."
+    },
+    {
+      "title": "Russia launches major ballistic-missile attack on Ukrainian cities",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "published": "7/20/2026, 2:22:21 AM",
+      "desc": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure."
+    },
+    {
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/150a/live/ddf43180-81e8-11f1-9b73-1d2c7fa8d439.jpg",
+      "published": "7/20/2026, 1:37:21 AM",
+      "desc": "Aggression against recruitment officers has become increasingly threatening, police say."
+    },
+    {
+      "title": "My fitness tracker knew I was pregnant before I did",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96bf/live/356d4010-7f8b-11f1-bee8-53ce494e1abc.png",
+      "published": "7/20/2026, 1:07:21 AM",
+      "desc": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers."
+    },
+    {
+      "title": "Newspaper headlines: 'Burnham's new era' and 'Viva España!'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxj6y7vd4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89d3/live/485c1f80-83cc-11f1-abbb-e5eedb1cfb63.png",
+      "published": "7/20/2026, 12:52:18 AM",
+      "desc": "Two stories are dominating Monday's front pages, with Andy Burnham set to become PM, and Spain winning the World Cup."
+    },
     {
       "title": "Robert Preston says it was 'too difficult' returning to Aberystwyth after his wife's death",
       "source": "BBC News",
@@ -24,128 +64,144 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
       "published": "7/19/2026, 8:07:22 PM",
       "desc": "The US military reports another death a day after two of its soldiers were killed in Jordan."
-    },
-    {
-      "title": "Thames Water lenders preparing legal challenge to potential nationalisation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c902/live/4610abb0-8386-11f1-8537-c5e158f8690c.jpg",
-      "published": "7/19/2026, 7:07:19 PM",
-      "desc": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds."
-    },
-    {
-      "title": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/030c/live/5b9c41e0-839c-11f1-8c34-fb0b540950a3.jpg",
-      "published": "7/19/2026, 6:52:23 PM",
-      "desc": "Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber."
-    },
-    {
-      "title": "Andy Burnham to promise 'more breathing room' as he takes over as PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76bd/live/c2015290-838d-11f1-a4c3-dfd0ee4be073.jpg",
-      "published": "7/19/2026, 6:07:23 PM",
-      "desc": "The Labour leader will set out his domestic priorities in his first speech from Downing Street as he becomes the seventh prime minister in 10 years on Monday."
-    },
-    {
-      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png",
-      "published": "7/19/2026, 3:22:26 PM",
-      "desc": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift."
-    },
-    {
-      "title": "Honours system is changing to recognise more working class heroes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1381/live/4ac9bf80-81dc-11f1-a290-5dcfa2e128f8.jpg",
-      "published": "7/19/2026, 2:22:17 PM",
-      "desc": "Record numbers of people from poorer backgrounds are now receiving awards."
     }
   ],
   "sports": [
     {
-      "title": "2030 World Cup Odds: Spain Favored To Repeat",
+      "title": "Hunter Goodman Hits Three Homers Against Reds To Set Rockies Franchise Record",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2030-world-cup-title-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/pau-719.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:36 PM",
-      "desc": "Can Spain repeat? Check out the opening odds for the 2030 FIFA World Cup."
+      "url": "https://www.foxsports.com/stories/mlb/hunter-goodman-hits-three-homers-against-reds-set-rockies-franchise-record",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/rockies1.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:37:27 AM",
+      "desc": "Hunter Goodman went deep three times Sunday to not only break out of a mini-homer slump but break into an exclusive Colorado Rockies club in which he’s now the founder."
     },
     {
-      "title": "Spain vs. Argentina: The Best Facts From The 2026 World Cup Final",
+      "title": "2026 World Cup Betting Recap: Tournament Betting Equaled &#39;10 Super Bowls&#39;",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-vs-argentina-best-facts-from-2026-world-cup-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/spain1-6.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:36 PM",
-      "desc": "The 2026 FIFA World Cup final made history, with Spain ultimately reigning supreme. Here's what we mean."
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-betting-recap",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/f9bfbfcb-spain-719.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:37:27 AM",
+      "desc": "Bookmakers believe the 2026 World Cup will go down as the biggest betting event in American history. Patrick Everson reports."
     },
     {
-      "title": "Lionel Messi And Argentina Show Raw Emotion After World Cup Final Defeat",
+      "title": "A Sword Behind Every Pass: Spain&#39;s Plan To Stifle Messi Came Down To Precision",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-argentina-world-cup-final-loss-spain-reaction",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi1-12.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:34 PM",
-      "desc": "Pain. Regret. Heartbreak. Lionel Messi, Argentina and its fans were going through it after losing to Spain in the 2026 World Cup final."
+      "url": "https://www.foxsports.com/stories/soccer/spain-world-cup-final-argentina-messi-rodri",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9post-final.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:37:26 AM",
+      "desc": "With a gameplan executed to perfection, Spain made Messi look like a mere mortal."
     },
     {
-      "title": "Spain, Argentina Break Out Into Brawl After 2026 FIFA World Cup Final",
+      "title": "Where In The World Cup Is Jameis Winston?",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-argentina-break-out-brawl-after-2026-fifa-world-cup-final",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gavi1.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:31 PM",
-      "desc": "Tensions flared at the end of Spain’s 1-0 victory over Argentina in the 2026 FIFA World Cup, with things getting particularly tense between Leandro Paredes and multiple Spanish players."
+      "url": "https://www.foxsports.com/stories/soccer/jameis-winston-world-cup-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/jameisxspeedthumbnail.png?ve=1&tl=1",
+      "published": "7/20/2026, 2:37:22 AM",
+      "desc": "Here’s a look at some of the best moments from Jameis Winston’s World Cup journey."
     },
     {
-      "title": "Rodri, Yamal And Spain Celebrate World Cup Final Win In Epic Fashion",
+      "title": "EA Sports FC Correctly Predicts, Another, World Cup Winner In Spain",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-world-cup-2026-argentina-rodri-yamal-celebrations-postgame-trophy-ceremony",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/yamal-5.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:29 PM",
-      "desc": "Here's how Spain celebrated winning the 2026 World Cup trophy."
+      "url": "https://www.foxsports.com/stories/soccer/ea-sports-fc-correctly-predicts-another-world-cup-winner-spain",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/esp.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:22:28 AM",
+      "desc": "As Spain topped Argentina 1-0 win in the World Cup final, EA Sports FC correctly predicted their fifth consecutive World Cup winner."
     },
     {
-      "title": "Spain&#39;s Rodri Wins Golden Ball Award For FIFA World Cup&#39;s Best Player",
+      "title": "INDYCAR Race At Nashville Postponed To Monday Due To Rain",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-rodri-spain-golden-ball",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/1b4de49b-50a26532-rodri1-scaled.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:52:26 PM",
-      "desc": "Spain midfielder Rodri has won the 2026 FIFA World Cup Golden Ball winner for the tournament's top player."
+      "url": "https://www.foxsports.com/stories/motor/indycar-race-nashville-postponed-rain",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/nashville.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:22:26 AM",
+      "desc": "INDYCAR drivers will have to wait a day to battle it out in Nashville after rain caused Sunday's race to be postponed."
     },
     {
-      "title": "Nations Championship: Argentina coach Felipe Contepomi accuses England of 'lack of respect'",
+      "title": "How Lamine Yamal&#39;s Little Brother, Keyne, Celebrated Spain&#39;s World Cup Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/how-lamine-yamals-little-brother-keyne-celebrated-spains-world-cup-win",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/keyne-yamal.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:07:22 AM",
+      "desc": "Here's how Lamine Yamal's little brother, Keyne, celebrated Spain's FIFA World Cup victory."
+    },
+    {
+      "title": "Spain&#39;s Stifling Defense Shuts Out Argentina in Messi&#39;s Potential Curtain Call",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/spains-stifling-defense-shuts-out-argentina-messis-potential-curtain-call",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/spain1-7.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 2:07:19 AM",
+      "desc": "Spain substitute Ferran Torres scored in the 106th minute to give his team a 1-0 win over defending champion Argentina in the World Cup final."
+    },
+    {
+      "title": "World Cup 2026: Lionel Scaloni leaves news conference in tears talking about his future",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cn4nvx0zxzqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46d7/live/d0a311d0-8356-11f1-8d99-f1f0cec0b1ae.jpg",
-      "published": "7/19/2026, 11:37:20 PM",
-      "desc": "Argentina heach coach Felipe Contepomi walks out of his news conference after the 31-24 defeat by England in the Nations Championship."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0d5/live/814a2e20-83ce-11f1-adc4-27fd56cf7ce1.jpg",
+      "published": "7/20/2026, 1:52:27 AM",
+      "desc": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears."
     },
     {
-      "title": "Zlatan, Thierry Henry On Spain&#39;s World Cup Victory: &#39;Football Won Today&#39;",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-argentina-world-cup-zlatan-thierry-henry",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/thumbnail-trbby-trebbycopy.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:07:24 PM",
-      "desc": "Following Spain's World Cup final victory, Zlatan Ibrahimović and Thierry Henry praised La Roja."
+      "title": "World Cup 2026: Spain's Lamine Yamal completes football with victory over Argentina",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3af6/live/b9aa30c0-83d4-11f1-ad7d-c7f9656ee7bb.jpg",
+      "published": "7/20/2026, 1:52:26 AM",
+      "desc": "Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears."
     },
     {
-      "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Goes Back-To-Back",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-golden-boot-tracker",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-80.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:07:21 PM",
-      "desc": "Follow the 2026 FIFA World Cup Golden Boot race with our live tracker, featuring the latest goalscoring standings, player statistics, and updates."
+      "title": "World Cup 2026: 16 titles in five years - why Spain are a dominant force",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c39elvrye40o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg",
+      "published": "7/20/2026, 1:52:25 AM",
+      "desc": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time."
     },
     {
-      "title": "Lionel Messi In Tears As Spain Celebrates World Final Triumph Over Argentina",
+      "title": "Spain’s Young Core Makes Them ‘Dangerous’ After World Cup Win, Says Kasper Schmeichel",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-tears-spain-celebrates-world-win-over-argentina",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/39d1a66f-messi1.jpg?ve=1&tl=1",
-      "published": "7/19/2026, 11:07:17 PM",
-      "desc": "Lionel Messi was overcome with emotion as Spain celebrated its win over Argentina in the 2026 FIFA World Cup final on Sunday at New York New Jersey Stadium."
+      "url": "https://www.foxsports.com/stories/soccer/kasper-schmeichel-says-spains-young-core-makes-them-dangerous-after-world-cup-win",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286242796-1.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 1:52:18 AM",
+      "desc": "Spain deserves all of the praise for its World Cup final victory over Argentina on Sunday, according to FOX Sports' \"World Cup Now.\""
+    },
+    {
+      "title": "Lionel Messi in tears, future unclear after World Cup final loss - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49405653/lionel-messi-argentina-spain-2026-world-cup-final",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691578_1296x729_16%2D9.jpg",
+      "published": "7/20/2026, 1:33:00 AM",
+      "desc": "Lionel Messi was left in tears after he was unable to conjure up one more piece of magic to save Argentina from defeat to Spain in Sunday's World Cup final at MetLife Stadium."
+    },
+    {
+      "title": "World Cup final: How Donald Trump, Justin Bieber and Shakira starred",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/881e/live/84b7ac00-83cd-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/20/2026, 1:07:19 AM",
+      "desc": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+    },
+    {
+      "title": "Spain hero Ferran Torres on World Cup winning goal: 'Destiny was written' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49405801/spain-hero-ferran-torres-world-cup-2026-winning-goal-destiny-was-written-argentina",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691568_1296x729_16%2D9.jpg",
+      "published": "7/19/2026, 11:57:00 PM",
+      "desc": "Spain forward Ferran Torres said \"destiny was written\" after firing his country to World Cup glory against Argentina."
+    },
+    {
+      "title": "Rodri wins World Cup Golden Ball as Spain dominate awards - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49404995/2026-world-cup-golden-ball-spain-unai-simon-pau-cubarsi",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691540_2_1296x729_16%2D9.jpg",
+      "published": "7/19/2026, 11:25:00 PM",
+      "desc": "Spain claimed a hat trick of individual awards after beating Argentina to claim their second World Cup title on Sunday at MetLife Stadium."
+    },
+    {
+      "title": "Kylian Mbappé wins Golden Boot at 2026 World Cup after Lionel Messi's goalless final - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49397919/kylian-mbappe-wins-golden-boot-2026-world-cup-lionel-messi-goalless-final",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0709%2Fr1687020_1296x729_16%2D9.jpg",
+      "published": "7/19/2026, 11:03:00 PM",
+      "desc": "Kylian Mbappé has won the 2026 World Cup Golden Boot with 10 goals after Lionel Messi failed to score in Sunday's final against Spain."
     },
     {
       "title": "Cardinals executive to appeal ban for violating NFL's gambling policy - ESPN",
@@ -154,65 +210,33 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0422%2Fr1322967_1296x729_16%2D9.jpg",
       "published": "7/19/2026, 11:01:52 PM",
       "desc": "Cardinals personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's Gambling Policy, his attorney said."
-    },
-    {
-      "title": "Carlos Alcaraz, Caleb Williams lead reaction to Spain's World Cup win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49402823/2026-fifa-world-cup-final-argentina-spain-social-media-reaction",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691456_1296x729_16%2D9.jpg",
-      "published": "7/19/2026, 10:41:00 PM",
-      "desc": "Spain hoisted the FIFA World Cup Trophy on Sunday afternoon with a 1-0 win over Argentina thanks to Ferran Torres' extra time goal."
-    },
-    {
-      "title": "World Cup 2026: Kylian Mbappe becomes first player to win Golden Boot twice",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a21/live/f2d6a7c0-83b1-11f1-a653-459bdcde0787.jpg",
-      "published": "7/19/2026, 10:22:19 PM",
-      "desc": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament."
-    },
-    {
-      "title": "Spain edge Argentina after extra time to win 2nd World Cup title - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49403084/2026-world-cup-final-spain-argentina-score-ferran-torres",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691510_1296x729_16%2D9.jpg",
-      "published": "7/19/2026, 10:02:00 PM",
-      "desc": "Ferran Torres clinched Spain's second men's World Cup title with an extra-time winner against reigning world champions Argentina in a bad-tempered final."
-    },
-    {
-      "title": "Reese appreciates Brondello's apology; 'grateful' for WNBA's ban - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49403126/reese-appreciates-brondello-apology-grateful-ban",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691412_1024x576_16%2D9.jpg",
-      "published": "7/19/2026, 8:40:35 PM",
-      "desc": "Angel Reese said she appreciated Sandy Brondello's apology for referring to her as a \"protected species\" but also was grateful to the WNBA for suspending Brondello for one game."
-    },
-    {
-      "title": "Scorching-hot Red Sox rout Rays for 13th straight victory - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49403082/scorching-hot-red-sox-rout-rays-13th-straight-victory",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691414_1296x729_16%2D9.jpg",
-      "published": "7/19/2026, 8:35:05 PM",
-      "desc": "Willson Contreras hit a two-run homer, Sonny Gray gave up one run and five hits over six innings, and the Red Sox beat the Rays 6-1 on Sunday for their 13th win in a row."
-    },
-    {
-      "title": "World Cup final 2026: Rate the Spain and Argentina players",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9cf2/live/ab89d8f0-837b-11f1-b976-0b9c15b0ccfc.png",
-      "published": "7/19/2026, 8:07:23 PM",
-      "desc": "Rate the Spain and Argentina players out of 10 below and come back 30 minutes after full-time to see the final ratings."
-    },
-    {
-      "title": "Bueckers nets 25 before exiting Wings' win after collision - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49402805/bueckers-nets-25-exiting-wings-win-collision",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691391_1296x729_16%2D9.jpg",
-      "published": "7/19/2026, 8:03:53 PM",
-      "desc": "Paige Bueckers had 25 points before leaving following a scary collision, Arike Ogunbowale scored six of her 20 down the stretch, and the Wings defeated the Sparks 90-82 on Sunday to extend their winning streak to a franchise-record six games."
     }
   ],
   "tech": [
+    {
+      "title": "Kingdom Hearts' Canceled Mobile Game's Intro May Have Leaked - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536",
+      "image": "https://kotaku.com/app/uploads/2023/11/58051c3169b6a993768dc17824b7e5c6-1200x675.jpg",
+      "published": "7/20/2026, 1:41:15 AM",
+      "desc": "Kingdom Hearts: Missing-Link was a canceled mobile game that would have tied into the upcoming fourth mainline game in the series"
+    },
+    {
+      "title": "NYT Strands hints, answers for July 19, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-july-19-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/02zBM2PTVPukLZrYYfvJAut/hero-image.fill.size_1200x675.v1784300892.jpg",
+      "published": "7/20/2026, 12:11:59 AM",
+      "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle."
+    },
+    {
+      "title": "iOS 27 makes your iPhone faster in 30+ ways - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/19/2026, 11:07:00 PM",
+      "desc": "iOS 27 speeds up your iPhone across Photos, Safari, Camera, and more. Here are all the performance improvements Apple has outlined."
+    },
     {
       "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date - Forbes",
       "source": "Forbes",
@@ -220,6 +244,14 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "7/19/2026, 10:22:43 PM",
       "desc": "As rumors build, analysis of every fall iPhone release indicates one date above other possibilities."
+    },
+    {
+      "title": "How to Stop Google Maps From Displaying Your Home to Strangers - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/how-to-stop-google-maps-from-displaying-your-home-to-strangers/",
+      "image": "https://www.cnet.com/a/img/resize/1d4af65287145c5dada74f9aab48feb54947a796/hub/2024/05/16/f8613753-241f-4b5b-926b-46ace82e946f/blurhomegooglemaps.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published": "7/19/2026, 9:30:00 PM",
+      "desc": "A straightforward privacy request to Google can remove your home from Street View entirely. Here's the step-by-step process."
     },
     {
       "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet) - The Verge",
@@ -244,38 +276,6 @@
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-auto-kia-niro-ev-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/19/2026, 8:30:00 PM",
       "desc": "It’s anything but wide at this point, but we’re finally seeing signs of Android Auto rolling out support for a..."
-    },
-    {
-      "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/19/2026, 8:10:00 PM",
-      "desc": "A new report reveals Apple developed two unreleased Mac Pro models before discontinuing the line, including one powered by Intel."
-    },
-    {
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rsz_1233241238.webp?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-      "published": "7/19/2026, 7:26:06 PM",
-      "desc": "With the $35 Kodak EC35 Reto Project makes the film photography renaissance more affordable."
-    },
-    {
-      "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-      "image": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/19/2026, 7:23:11 PM",
-      "desc": "Executives at Xbox have once again attempted to clarify the company's approach to exclusives, promising that \"Gears of War: E-Day and Clockwork Revolution are not the only titles\" it's planning."
-    },
-    {
-      "title": "The Air India First Class Lounge Delhi Is Delightful… What A Treat! - One Mile at a Time",
-      "source": "One Mile at a Time",
-      "url": "https://onemileatatime.com/insights/air-india-first-lounge-delhi/",
-      "image": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/Air-India-First-Lounge-Delhi-8.jpeg",
-      "published": "7/19/2026, 7:15:44 PM",
-      "desc": "The first class section of the Air India Maharaja Lounge Delhi is incredible, and the airline knocked it out of the park. Well done!"
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 3,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 4,
@@ -419,51 +419,6 @@
     },
     {
       "rank": 9,
-      "title": "Everything's Alright (feat. Kurt D)",
-      "artist": "Azteck & DJ Koko",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
-    },
-    {
-      "rank": 10,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 11,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 12,
-      "title": "Midnight Sun",
-      "artist": "Zara Larsson",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/bb/60/59bb60aa-1a0b-ff4c-3343-d7cb9e7d375a/mzaf_16759827430963483039.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/midnight-sun/1817499239?i=1817499251&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Zara%20Larsson%20Midnight%20Sun"
-    },
-    {
-      "rank": 13,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 14,
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
@@ -472,27 +427,63 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
     },
     {
-      "rank": 15,
+      "rank": 10,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 11,
+      "title": "Everything's Alright (feat. Kurt D)",
+      "artist": "Azteck & DJ Koko",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
+    },
+    {
+      "rank": 12,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    },
+    {
+      "rank": 13,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 14,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 15,
+      "title": "A Man Can Cry",
+      "artist": "Noah Nine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/e0/05/2ce00515-157a-9400-1a63-9e78c21e9cd1/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/93/6e/44936e86-d414-b065-1995-6411fdc70079/mzaf_7141514106275177216.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/a-man-can-cry/6780252037?i=6780252038&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20A%20Man%20Can%20Cry"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,13 +492,22 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 3,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
       "rank": 4,
@@ -553,6 +553,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
@@ -582,6 +591,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 4,
+      "title": "Little House on the Prairie",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
+      "url": "https://www.themoviedb.org/tv/283304"
     }
   ]
 }
