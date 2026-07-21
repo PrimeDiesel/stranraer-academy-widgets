@@ -1,21 +1,29 @@
 {
-  "updated": "2026-07-21T21:11:30.046Z",
+  "updated": "2026-07-21T22:58:33.097Z",
   "news": [
     {
-      "title": "Hosepipe ban extended to Surrey, Sussex, Hampshire and Berkshire",
+      "title": "Russian warship carried out firing exercise off Plymouth coast",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vg3geg3qmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3346/live/5217e8d0-715a-11f1-909a-0f95894a566f.jpg",
-      "published": "7/20/2026, 8:37:22 PM",
-      "desc": "South East Water says customers in Sussex, Surrey, Hampshire and Berkshire will face a ban."
+      "url": "https://www.bbc.co.uk/news/articles/ce970jryrk3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79a1/live/1d43ad00-8484-11f1-b4a3-ff90d93e1201.jpg",
+      "published": "7/20/2026, 11:07:24 PM",
+      "desc": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes."
     },
     {
-      "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+      "title": "Trump imposes 50% tariff on Canadian imports",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce19/live/e13a84e0-8443-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/20/2026, 7:07:20 PM",
-      "desc": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey."
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/20/2026, 10:07:18 PM",
+      "desc": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours."
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg",
+      "published": "7/20/2026, 9:52:25 PM",
+      "desc": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
     },
     {
       "title": "Who's in Andy Burnham's new Labour cabinet?",
@@ -60,11 +68,51 @@
   ],
   "sports": [
     {
+      "title": "4 Takeaways From Alex Palou&#39;s Win At A Hot Nashville",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/alex-palou-win-nashville-4-takeaways",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cd444a4a-artboard-1.png?ve=1&tl=1",
+      "published": "7/20/2026, 11:07:26 PM",
+      "desc": "Alex Palou outlasted a frustrated Josef Newgarden, while David Malukas recovered from injury for a strong finish. Here are takeaways from Nashville."
+    },
+    {
+      "title": "Nations Championship: England's Ben Earl calls for brutal change after \"brutal\" schedule",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f654/live/71d40340-8486-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/20/2026, 10:37:19 PM",
+      "desc": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition."
+    },
+    {
+      "title": "From Messi To Ronaldo, The 2026 World Cup Marked The End Of A Legendary Era",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/from-messi-ronaldo-2026-world-cup-marked-end-legendary-era",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/95fdd97b-artboard-1-8.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 10:07:37 PM",
+      "desc": "The 2026 FIFA World Cup marked stamped the stars of the next generation, but it was also the farewell for some of the game's all-time greats."
+    },
+    {
+      "title": "Pep Guardiola Offered Italy Coach Role By Paolo Maldini, Leonardo In Person",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/pep-guardiola-offered-italy-manager-job-in-face-to-face-meeting-with-paolo-maldini-and-leonardo",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2250524282-scaled-e1784575780866.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 10:07:36 PM",
+      "desc": "Pep Guardiola has reportedly been offered the chance to become Italy's next head coach after holding face-to-face talks with Paolo Maldini and Leonardo in Barcelona. However, the former Manchester City boss has repeatedly insisted he is enjoying his sabbatica…"
+    },
+    {
+      "title": "Belgium Parts Ways With Rudi Garcia Following World Cup Quarterfinal Appearance",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/belgium-part-ways-with-head-coach-rudi-garcia-despite-strong-result-at-2026-world-cup",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284985478-scaled-e1784577828290.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 10:07:35 PM",
+      "desc": "The Royal Belgian Football Association (RBFA) has confirmed that head coach Rudi Garcia's contract will not be extended beyond the 2026 World Cup."
+    },
+    {
       "title": "Marc Cucurella To Get Luis De La Fuente&#39;s Face Tattooed After World Cup Triumph",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/marc-cucurella-confirms-he-will-get-tattoo-of-luis-de-la-fuentes-face-as-spain-hero-sticks-to-pre-world-cup-promise",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2161430715-scaled-e1784579337553.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 9:07:28 PM",
+      "published": "7/20/2026, 10:07:35 PM",
       "desc": "Marc Cucurella has reaffirmed his commitment to fulfilling one of the most unusual promises of the World Cup following the Spanish national team's final victory over Argentina."
     },
     {
@@ -72,7 +120,7 @@
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/world-cup-messi-bellingham-haaland-usa-cape-verde",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9fav-wc.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 9:07:27 PM",
+      "published": "7/20/2026, 10:07:34 PM",
       "desc": "Our favorite and most unforgettable moments from the 2026 World Cup, from dazzling comebacks to shining stars."
     },
     {
@@ -80,8 +128,48 @@
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/college-football-all-century-team-vince-young-tim-tebow-qb-who-gets-nod-wr",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/s2ia2ysfjny2wioh_1.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 9:07:21 PM",
+      "published": "7/20/2026, 10:07:32 PM",
       "desc": "Who are the best players at each position in college football since the turn of the century? Joel Klatt named his All-Century Team."
+    },
+    {
+      "title": "Alexi Lalas’ Best XI From The Epic 2026 World Cup",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-best-xi-spain-argentina-messi-rodri-mbappe-haaland",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/wc26-top25-notext.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 10:07:24 PM",
+      "desc": "FOX Sports analyst Alexi Lalas picked his World Cup Best XI after Spain beat Argentina to win the 2026 title."
+    },
+    {
+      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Dodgers Acquire Reliever Seth Halvorsen",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
+      "published": "7/20/2026, 10:07:19 PM",
+      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
+    },
+    {
+      "title": "World Cup 2026: Spain celebrate World Cup triumph in Madrid",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cgje79d6q64o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/965b/live/9a484b00-8482-11f1-b4a3-ff90d93e1201.jpg",
+      "published": "7/20/2026, 10:07:18 PM",
+      "desc": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup."
+    },
+    {
+      "title": "World Matchplay Darts 2026: Luke Humphries suffers shock first-round loss to Cameron Menzies",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c431/live/62436e70-8481-11f1-b4a3-ff90d93e1201.jpg",
+      "published": "7/20/2026, 9:52:24 PM",
+      "desc": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies."
+    },
+    {
+      "title": "New coach Stein says Kentucky will win big 'because of me' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49412824/new-coach-stein-says-kentucky-win-big-me",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691919_1024x576_16%2D9.jpg",
+      "published": "7/20/2026, 9:50:24 PM",
+      "desc": "Kentucky coach Will Stein says he has the right blueprint to win and that the Wildcats will have success \"because of me.\""
     },
     {
       "title": "Bedard hoping to see a Chicago Blackhawks' reunion with Kane - ESPN",
@@ -90,54 +178,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691889_1296x729_16%2D9.jpg",
       "published": "7/20/2026, 8:46:27 PM",
       "desc": "On the day the Blackhawks star met with the media after signing his new contract, Chicago's Connor Bedard made his pitch to winger Patrick Kane to return to the United Center, sign with the club he began his NHL career with, and chase another Stanley Cup."
-    },
-    {
-      "title": "Pep Guardiola Offered Italy Coach Role By Paolo Maldini, Leonardo In Person",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/pep-guardiola-offered-italy-manager-job-in-face-to-face-meeting-with-paolo-maldini-and-leonardo",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2250524282-scaled-e1784575780866.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 8:07:27 PM",
-      "desc": "Pep Guardiola has reportedly been offered the chance to become Italy's next head coach after holding face-to-face talks with Paolo Maldini and Leonardo in Barcelona. However, the former Manchester City boss has repeatedly insisted he is enjoying his sabbatica…"
-    },
-    {
-      "title": "Police Seek Those Responsible For Breaking Into Saquon Barkley&#39;s Home",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/philadelphia-eagles-saquon-barkley-break-in-police",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/barkleyh1.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 7:52:31 PM",
-      "desc": "Police are searching for people responsible for a weekend break-in at the home of Philadelphia Eagles running back Saquon Barkley."
-    },
-    {
-      "title": "Lionel Messi Shares Heartfelt Message To Argentina Fans After World Cup Defeat",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-final-lionel-messi-defeat-spain",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286807215-scaled-e1784573918880.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 7:52:29 PM",
-      "desc": "Following Argentina's World Cup final loss to Spain, Lionel Messi shared an emotional Instagram post thanking fans for their support through the tournament."
-    },
-    {
-      "title": "Despite Michigan&#39;s Titles, Warde Manuel Is Being Held Accountable For Scandalous Tenure",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/michigan-warde-manuel-sherrone-moore-harbaugh-stalions",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9michigan-4.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 7:52:28 PM",
-      "desc": "Michigan's AD Warde Manuel will be out at the end of the year, and that's the right move for the Wolverines."
-    },
-    {
-      "title": "Argentina&#39;s Post-Messi Era Begins Now: Who Inherits World Cup Throne?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/argentina-lionel-messi-world-cup-2030-nico-paz-franco-mastantuono",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9arg-post.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 7:52:25 PM",
-      "desc": "Tough conversations in Buenos Aire start now. Argentina must look at a future without Lionel Messi."
-    },
-    {
-      "title": "From Messi To Ronaldo, The 2026 World Cup Marked The End Of A Legendary Era",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/from-messi-ronaldo-2026-world-cup-marked-end-legendary-era",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/95fdd97b-artboard-1-8.jpg?ve=1&tl=1",
-      "published": "7/20/2026, 7:52:18 PM",
-      "desc": "The 2026 FIFA World Cup marked stamped the stars of the next generation, but it was also the farewell for some of the game's all-time greats."
     },
     {
       "title": "FIFA to investigate violent clash between Spain and Argentina after World Cup final - ESPN",
@@ -156,22 +196,6 @@
       "desc": "Lionel Messi says \"the pain is immense\" and that it \"will take time to heal\" after Argentina lost 1-0 to Spain in the World Cup final."
     },
     {
-      "title": "Packers, DL Devonte Wyatt reach 3-year, $57M extension - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49411888/packers-dl-devonte-wyatt-reach-3-year-57m-extension",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0914%2Fr1545457_1296x729_16%2D9.jpg",
-      "published": "7/20/2026, 7:27:50 PM",
-      "desc": "The Packers and defensive lineman Devonte Wyatt have agreed to terms on a three-year, $57 million contract extension with a $20 million signing bonus, his agency, Win Sports Group, told NFL Network's Ian Rapoport on Monday."
-    },
-    {
-      "title": "Chelsea step up interest in Crystal Palace's Lacroix",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c8xnpxy5v8vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c43/live/932350f0-8463-11f1-8cf4-43aed99842b4.jpg",
-      "published": "7/20/2026, 6:37:27 PM",
-      "desc": "Chelsea accelerate their interest in defender Maxence Lacroix after a fresh round of talks with Crystal Palace."
-    },
-    {
       "title": "Pep Guardiola in reported talks with Italy - would England come calling?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o",
@@ -186,22 +210,6 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1101%2Fr1568995_1296x729_16%2D9.jpg",
       "published": "7/20/2026, 6:30:30 PM",
       "desc": "Free agent forward Matisse Thybulle has agreed on a one-year, $3.3 million deal to sign with the Los Angeles Lakers, sources told ESPN."
-    },
-    {
-      "title": "World Cup 2026: Could Argentina face action after post-final trouble?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg",
-      "published": "7/20/2026, 5:07:17 PM",
-      "desc": "Argentina are likely to face a Fifa investigation following the ugly scenes at the end of the World Cup final."
-    },
-    {
-      "title": "LIV sued by tech company over unpaid invoices, lost revenue - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49410735/liv-sued-tech-company-unpaid-invoices-lost-revenue",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0726%2Fr1524020_1296x729_16%2D9.jpg",
-      "published": "7/20/2026, 4:56:31 PM",
-      "desc": "LIV Golf is being sued for over $1 million by Mobii Systems Group Limited, a Canadian-based technology company that supplied the circuit's \"Any Shot, Any Time\" broadcast features."
     }
   ],
   "tech": [
@@ -366,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 5,
       "title": "Everything's Alright (feat. Kurt D)",
       "artist": "Azteck & DJ Koko",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%20%26%20DJ%20Koko%20Everything's%20Alright%20(feat.%20Kurt%20D)"
+    },
+    {
+      "rank": 5,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 6,
@@ -420,24 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 11,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 12,
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
@@ -446,7 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
@@ -455,7 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
@@ -464,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
+      "rank": 13,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 14,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    },
+    {
       "rank": 15,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
@@ -488,7 +496,7 @@
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/kjNlN0gFNHRLUAfOs3AeNynUFKQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
     },
@@ -497,7 +505,7 @@
       "title": "The Mandalorian and Grogu",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/v8YL38gaYWGEq7w50y1mfiaskmZ.jpg",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "url": "https://www.themoviedb.org/movie/1228710"
     },
@@ -521,30 +529,30 @@
     },
     {
       "rank": 6,
-      "title": "The Breadwinner",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "url": "https://www.themoviedb.org/movie/1440050"
-    },
-    {
-      "rank": 7,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 8,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 7,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 8,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
@@ -574,15 +582,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
       "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
       "url": "https://www.themoviedb.org/tv/2122"
-    },
-    {
-      "rank": 4,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
