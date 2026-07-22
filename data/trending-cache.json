@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-22T17:21:27.083Z",
+  "updated": "2026-07-22T19:22:02.558Z",
   "news": [
+    {
+      "title": "Who's in Andy Burnham's new Labour cabinet?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ede/live/8badd4d0-8463-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/21/2026, 6:52:25 PM",
+      "desc": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham"
+    },
+    {
+      "title": "Sackings, cabinet surprises and policies: Andy Burnham's first 24 hours as PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjz907pppo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de4e/live/d1d06e80-8528-11f1-ab22-73eaf3ea17bb.jpg",
+      "published": "7/21/2026, 5:52:23 PM",
+      "desc": "The new prime minister enters Number 10 in a flurry of activity - but he is still facing calls for a snap election."
+    },
+    {
+      "title": "Burnham tells cabinet to tackle living costs at first meeting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93dd/live/ba678f00-8521-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/21/2026, 5:37:30 PM",
+      "desc": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity."
+    },
+    {
+      "title": "Brazil's Amazon sees sharp decline of area burned in 2025",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg",
+      "published": "7/21/2026, 5:37:26 PM",
+      "desc": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985."
+    },
     {
       "title": "How a former Blue Peter presenter stunned America's Got Talent judges",
       "source": "BBC News",
@@ -8,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e250/live/8ba64ec0-84e7-11f1-993e-3dec65835866.jpg",
       "published": "7/21/2026, 4:52:21 PM",
       "desc": "Joel M made the judges' personal items disappear on the latest series of America's Got Talent."
-    },
-    {
-      "title": "Lindt's Easter chocolate sales fall after price hike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d419/live/28162270-8516-11f1-a08a-6d526d664753.jpg",
-      "published": "7/21/2026, 4:22:25 PM",
-      "desc": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises."
     },
     {
       "title": "St Mellons crash: Police break up row between dead woman's family and mechanic",
@@ -34,39 +58,79 @@
       "desc": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup."
     },
     {
-      "title": "Ryanair broken window may have been caused by 'foreign object'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cbb/live/a414ae00-8507-11f1-8b9b-a724b687bb3b.jpg",
-      "published": "7/21/2026, 2:07:21 PM",
-      "desc": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft."
-    },
-    {
       "title": "Row escalates in Ukraine over army chief's future",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9701/live/c3da9000-84f9-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/21/2026, 1:22:20 PM",
       "desc": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday."
-    },
-    {
-      "title": "Angela Rayner: Labour's working-class warrior bounces back",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlz3p0ryylo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9dbc/live/016bda30-84f7-11f1-aefd-63161e2ad075.jpg",
-      "published": "7/21/2026, 1:07:22 PM",
-      "desc": "The potential contender to replace Keir Starmer is now back in the cabinet under Andy Burnham."
-    },
-    {
-      "title": "Whitehall officials offered move to No 10 North in Manchester",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca4f/live/7282e170-84f5-11f1-ae95-69a18db8092b.jpg",
-      "published": "7/21/2026, 12:37:23 PM",
-      "desc": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands."
     }
   ],
   "sports": [
+    {
+      "title": "INDYCAR Power Rankings: Look Out, Here Comes Josef Newgarden",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/indycar-power-rankings-josef-newgarden-rises-after-nashville",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9-25.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 7:07:20 PM",
+      "desc": "Look out! Josef Newgarden is soaring but so is an injured David Malukas."
+    },
+    {
+      "title": "2026 NFL Odds: Which Division Loser Can Go Worst To First?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-division-loser-can-go-worst-first",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ward-721.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 6:52:25 PM",
+      "desc": "Which last-place division finisher has a chance to reverse course next season? See the odds for if a team can go worst to first."
+    },
+    {
+      "title": "Harbaugh on RB Skattebo's flubbed flip: 'At least stick it' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49419051/harbaugh-rb-skattebo-flubbed-flip-least-stick-it",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1118%2Fr1577055_1296x729_16%2D9.jpg",
+      "published": "7/21/2026, 6:44:23 PM",
+      "desc": "Giants coach John Harbaugh teased that Cam Skattebo needs to at least stick the landing if he's going to attempt backflips on his surgically repaired ankle."
+    },
+    {
+      "title": "Panthers' Moton sidelined indefinitely with blood clot in lung - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49418899/panthers-moton-sidelined-indefinitely-blood-clot-lung",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692150_1296x729_16%2D9.jpg",
+      "published": "7/21/2026, 6:23:30 PM",
+      "desc": "Panthers starting right tackle Taylor Moton was diagnosed with a blood clot in his lung late last month and will miss regular-season time, the team announced Tuesday."
+    },
+    {
+      "title": "Ben Stokes: Former England skipper hits century on Durham return in One-Day Cup win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cd0xedekm7no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1a3/live/2f95b610-8529-11f1-ab22-73eaf3ea17bb.jpg",
+      "published": "7/21/2026, 6:07:30 PM",
+      "desc": "Ben Stokes marks his return to competitive cricket for the first time since retiring from Test matches with a stunning century to help Durham beat Derbyshire in the One-Day Cup."
+    },
+    {
+      "title": "Alex Golesh's goal to return Auburn football to national relevance - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49418733/alex-golesh-goal-return-auburn-football-national-relevance",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692141_1296x729_16%2D9.jpg",
+      "published": "7/21/2026, 5:55:54 PM",
+      "desc": "Alex Golesh, Auburn's fourth coach since 2019, said he knows he's on the clock as he tries to sell recruits on a vision for quickly returning Auburn to national relevance."
+    },
+    {
+      "title": "Champions League qualifiers LIVE: Sturm Graz v Hearts - radio, text updates, team news, reaction & stats",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cnvnyn0j2r5t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0c8/live/03862350-8526-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/21/2026, 5:52:27 PM",
+      "desc": "Listen to Sportsound commentary and follow live text updates as Hearts face Austrian's Sturm Graz in the Champions League second qualifying round."
+    },
+    {
+      "title": "NASCAR Power Rankings: Joey Logano Is Back But Watch Out For SVG",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/nascar-power-rankings-joey-logano-is-back-eyes-on-svg",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/power-rankings-16x9-nascar-14.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 5:37:23 PM",
+      "desc": "Joey Logano finally found his way back into the rankings, but there's another driver who's proving he might not be just a one-trick pony."
+    },
     {
       "title": "Tour de France: Remco Evenepoel cuts Tadej Pogacar's lead at the top of the general classification with time-trial win on stage 16",
       "source": "BBC Sport",
@@ -140,142 +204,70 @@
       "desc": "A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool."
     },
     {
-      "title": "Georgia RB Dante Dowdell hospitalized after ATV accident - ESPN",
+      "title": "Mammoth sign defenseman John Marino to 8-year, $54M extension - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49418321/georgia-rb-dante-dowdell-hospitalized-atv-accident",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692119_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 4:34:56 PM",
-      "desc": "Georgia running back Dante Dowdell was involved in an ATV accident and is being treated for serious injuries at a hospital in Atlanta, Bulldogs coach Kirby Smart confirmed to ESPN on Tuesday."
-    },
-    {
-      "title": "2026 NFL Odds: Which RB Will Lead League In Rushing Yards, Touchdowns?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-rb-will-lead-league-rushing-yards-touchdowns",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gibbs-720.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 3:52:26 PM",
-      "desc": "Who will lead the NFL in rushing yards and touchdowns in 2026? Check out the latest odds."
-    },
-    {
-      "title": "Anthony Taylor: Premier League referee announces retirement",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c87e/live/377c0a50-8506-11f1-aa7a-11be4e3a8eab.jpg",
-      "published": "7/21/2026, 3:52:20 PM",
-      "desc": "Anthony Taylor announces his retirement from refereeing with immediate effect - ending a 20-year career."
-    },
-    {
-      "title": "Dolphins, All-Pro LB Jordyn Brooks reach 3-year, $51.3M extension - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49417979/dolphins-all-pro-lb-jordyn-brooks-reach-3-year-513m-extension",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692100_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 3:41:56 PM",
-      "desc": "The Dolphins and linebacker Jordyn Brooks have agreed to a three-year, $51.3 million extension with $35 million guaranteed, agent Erik Burkhardt told ESPN's Adam Schefter."
-    },
-    {
-      "title": "Open champ Ryan Fox says fast play in golf 'not that difficult' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49417764/open-champ-ryan-fox-says-fast-play-golf-not-difficult",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691330_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 3:16:18 PM",
-      "desc": "Ryan Fox took all of 22 seconds to take his winning putt at the Open Championship, becoming the new face of playing quickly in a sport that could use a good example."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Angels&#39; Plans? Tigers Buyers?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 3:07:24 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "2026 NFL Uniforms: New York Jets Wearing White Helmets For Home Opener",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-uniform-changes",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 3:07:21 PM",
-      "desc": "Here are the teams that have unveiled new uniforms for the 2026 NFL season."
-    },
-    {
-      "title": "Brandon McNulty unhurt after pre-trial driver confrontation - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/story/_/id/49417518/brandon-mcnulty-unhurt-pre-trial-driver-confrontation",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692082_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 2:52:48 PM",
-      "desc": "An angry motorist confronted American rider Brandon McNulty before Tuesday's time trial at the Tour de France, but McNulty was unhurt."
-    },
-    {
-      "title": "2026 MLB Milestones and Records Tracker: Nolan Arenado Gets 2,000th Hit",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-milestones-records-tracker",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/nolan2.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 2:37:27 PM",
-      "desc": "We're keeping track of all the major milestones reached and records broken in MLB this season. Here's the latest!"
+      "url": "https://www.espn.com/nhl/story/_/id/49418211/mammoth-sign-defenseman-john-marino-8-year-54m-extension",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692115_1296x729_16%2D9.jpg",
+      "published": "7/21/2026, 4:36:00 PM",
+      "desc": "The Utah Mammoth have signed defenseman John Marino to an 8-year, $54M extension, the team announced Tuesday."
     }
   ],
   "tech": [
     {
-      "title": "The Sims 4 Update: Official Patch Notes (July 21st, 2026 Release) - Sims Community",
-      "source": "Simscommunity.info",
-      "url": "https://simscommunity.info/2026/07/21/the-sims-4-update-official-patch-notes-july-21st-2026-release/",
-      "image": "https://simscommunity.info/wp-content/uploads/2025/01/ts4newupdateFE2025-1.jpg",
-      "published": "7/21/2026, 5:00:03 PM",
-      "desc": "The Sims Team has just released a brand new The Sims 4 Update across PC, Mac, Xbox and Playstation supported consoles. Releasing the new Autosave and Save"
-    },
-    {
-      "title": "Meet a Devious Pixie Who’ll Trade Treasures for Teeth in This Brand New the Blood of Dawnwalker Quest Gameplay - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-gameplay-pixie-quest",
-      "image": "https://assets-prd.ignimgs.com/2026/07/20/blood-of-dawnwalker-pixie-quest-blogroll-1784547417659.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/21/2026, 4:00:00 PM",
-      "desc": "Check out some brand new quest gameplay from The Blood of Dawnwalker, featuring a devious pixie who's obsessed with teeth."
-    },
-    {
-      "title": "Hasbro's Big Video Game Push Is Already Struggling - Kotaku",
+      "title": "Xbox VP Leaves Just 3 Months After Joining Asha Sharma's Team - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018",
-      "image": "https://kotaku.com/app/uploads/2026/05/Exodus-1200x675.jpg",
-      "published": "7/21/2026, 3:56:00 PM",
-      "desc": "Well, that didn't last long"
+      "url": "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135",
+      "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+      "published": "7/21/2026, 7:41:18 PM",
+      "desc": "Jared Palmer had joined Xbox from Microsoft's CoreAI division"
     },
     {
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage - 404 Media",
-      "source": "404media.co",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/chris-nagahama-vVhhfvVTerY-unsplash-2.jpg",
-      "published": "7/21/2026, 3:24:03 PM",
-      "desc": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it."
+      "title": "dBrand Announces 9 Steam Machine Skins That Are Now Available - Steam Deck HQ",
+      "source": "Steamdeckhq.com",
+      "url": "https://steamdeckhq.com/news/dbrand-announces-9-steam-machine-skins/",
+      "image": "https://steamdeckhq.com/wp-content/uploads/2026/07/Terminal-1-1024x683.webp",
+      "published": "7/21/2026, 6:58:23 PM",
+      "desc": "dBrand has announced 9 new skins for the Steam Machine, and some of them look incredible."
     },
     {
-      "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming - The Verge",
+      "title": "Anyone in Bluetooth Range Can Unlock Cars, Kill Engines Through Alarms Owners May Never Have Paid For - The Drive",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/anyone-in-bluetooth-range-can-unlock-cars-kill-engines-through-alarms-owners-may-never-have-paid-for",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1290148260-1.jpg?quality=85&w=1200",
+      "published": "7/21/2026, 5:38:02 PM",
+      "desc": "A dealer-installed alarm in two million cars is vulnerable to hackers. Worse yet, owners may not even know their car has one."
+    },
+    {
+      "title": "Nearly every Kindle is steeply discounted at Best Buy - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257857_Samsung_Galaxy_Z_Fold_7_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "published": "7/21/2026, 3:20:33 PM",
-      "desc": "Reports of a new wider Galaxy Z Fold 8 model suggest Samsung is ready to take a risk before Apple’s foldable iPhone arrives."
+      "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Kindle-Paperwhite.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/21/2026, 5:13:23 PM",
+      "desc": "Best Buy is discounting almost every Kindle. We also found deals on the Google Pixel Watch 2, Pixel 7, the Ring Battery Doorbell 2K, and Indoor Cam Plus."
     },
     {
-      "title": "TreeSize won’t renew perpetual-license support unless users subscribe - Ars Technica",
+      "title": "Steam Deck sales are losing steam since May's price hike - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
-      "published": "7/21/2026, 3:18:23 PM",
-      "desc": "Current economic conditions\" have shifted TreeSize's business model."
+      "url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
+      "published": "7/21/2026, 5:12:34 PM",
+      "desc": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate."
     },
     {
-      "title": "Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLkCQ3EjhyXs/v1/1200x800.jpg",
-      "published": "7/21/2026, 3:10:36 PM",
-      "desc": "Apple Inc. is preparing to introduce Apple Upgrade, a leasing program that will mark one of the biggest-ever changes to how the company sells devices."
+      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257981_Techwoven_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published": "7/21/2026, 5:12:06 PM",
+      "desc": "Apple is planning to launch a new Apple Upgrade program for leasing iPhones, iPads, Mac, and Apple Watches, while discontinuing the current iPhone Upgrade Program."
     },
     {
-      "title": "XBOX and Meta: More Ways to Enjoy XBOX Game Pass - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/07/21/xbox-game-pass-meta-horizon/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/Wall-blur-55fe37bc577fc7e61d16.jpg",
-      "published": "7/21/2026, 3:00:21 PM",
-      "desc": "Starting today, eligible Meta Horizon+ subscribers now get a starter edition of XBOX Game Pass – find out more inside."
+      "title": "Darkest Dungeon is getting its first dollop of DLC in several years, as the gloomy old RPG celebrates its 10th birthday - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/darkest-dungeon-the-fires-edge-dlc-reveal",
+      "image": "https://assetsio.gnwcdn.com/Darkest-Dungeon-2---The-Fire's-Edge.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/21/2026, 4:13:15 PM",
+      "desc": "Red Hook Studios has surprised fans of the first Darkest Dungeon with a new DLC pack that will add two heroes from the sequel and more."
     }
   ],
   "education": [
@@ -369,7 +361,7 @@
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright-feat-kurt-d/6787283656?i=6787283660&uo=4",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
@@ -484,15 +476,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 2,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -501,22 +484,31 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 3,
-      "title": "Spider-Man: Brand New Day",
+      "rank": 2,
+      "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "The Mandalorian and Grogu",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
+      "rank": 4,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 5,
@@ -529,59 +521,68 @@
     },
     {
       "rank": 6,
-      "title": "Minions & Monsters",
+      "title": "Supergirl",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 7,
+      "title": "The Breadwinner",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "url": "https://www.themoviedb.org/movie/1440050"
+    },
+    {
+      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
-      "title": "The Devil Wears Prada 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
-    },
-    {
-      "rank": 9,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Spooky in Love",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
       "url": "https://www.themoviedb.org/tv/298610"
+    },
+    {
+      "rank": 2,
+      "title": "Avatar: The Last Airbender",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "url": "https://www.themoviedb.org/tv/82452"
+    },
+    {
+      "rank": 3,
+      "title": "SpongeBob SquarePants",
+      "year": "1999",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "url": "https://www.themoviedb.org/tv/387"
+    },
+    {
+      "rank": 4,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
