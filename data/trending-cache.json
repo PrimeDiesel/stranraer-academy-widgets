@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-23T21:06:02.778Z",
+  "updated": "2026-07-23T22:58:15.186Z",
   "news": [
+    {
+      "title": "I have the M4 motorway in my Port Talbot back garden",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99l28kndr8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1063/live/a93f3930-858a-11f1-823e-ab1811245d2b.png",
+      "published": "7/22/2026, 9:52:24 PM",
+      "desc": "It was built over people's homes 60 years ago, but what's it like to live in the shadow of the M4?"
+    },
     {
       "title": "Karen Carter: Police formally investigate woman after Brit stabbed to death in French village",
       "source": "BBC News",
@@ -42,14 +50,6 @@
       "desc": "Islington is a snapshot of a trend playing out across inner London, Britain and much of the world."
     },
     {
-      "title": "Burnham says he will review early prisoner release scheme",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ed2/live/943da5d0-85bc-11f1-a407-4750df4c0797.jpg",
-      "published": "7/22/2026, 12:22:24 PM",
-      "desc": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\"."
-    },
-    {
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o",
@@ -68,12 +68,68 @@
   ],
   "sports": [
     {
+      "title": "Anthony Joshua v Kristian Prenga: British heavyweight boxer not ready to move on from death of friends",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/czjl3em4g74o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec97/live/a7141d90-8613-11f1-8e8c-eb6617e7b8b5.jpg",
+      "published": "7/22/2026, 10:52:24 PM",
+      "desc": "Anthony Joshua says he is not ready for the loss of his two close friends and team members to \"sink in yet\" as he prepares for his first fight since their death."
+    },
+    {
+      "title": "WNBA, WNBPA meeting addressed 'abusive messages' to players - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49427707/wnba-union-meeting-addressed-racist-hateful-abusive-messages-directed-players",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692578_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 10:23:26 PM",
+      "desc": "The WNBA and players' association held a videoconference Tuesday to discuss a variety of issues, including recent \"racist, hateful, and abusive messages directed at players,\" according to a joint statement released Wednesday."
+    },
+    {
+      "title": "Tennessee beats out Ohio State for prized RB Gabriel Georges - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49427532/tennessee-beats-ohio-state-prized-rb-gabriel-georges",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0715%2Fr1198254_800x450_16%2D9.jpg",
+      "published": "7/22/2026, 9:54:28 PM",
+      "desc": "David Gabriel Georges, ESPN's No. 2 running back and No. 14 overall prospect in 2027, announced his pledge to Tennessee over Ohio State and Ole Miss on Wednesday night, ending a contentious, monthslong recruiting battle."
+    },
+    {
+      "title": "Winnipeg Jets poke fun at Miami Heat's LeBron presser link mistake - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/49426703/winnipeg-jets-lebron-james-miami-heat-press-conference-link-mistake-fun-troll",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0630%2Fr1682113_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 9:16:00 PM",
+      "desc": "The Miami Heat's late-night mistake led to an NHL franchise to make some jokes."
+    },
+    {
+      "title": "LeBron James: Miami Heat mistakenly post 'introductory press conference' video",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/c4gjwwny0zgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be0a/live/c74dda90-8606-11f1-b9cd-6338e3c7c965.jpg",
+      "published": "7/22/2026, 9:07:23 PM",
+      "desc": "Miami Heat mistakenly post a link on YouTube to LeBron James' 'introductory press conference' despite the NBA great not yet deciding where he will play next season."
+    },
+    {
       "title": "William Saliba: Arsenal and France defender set for spell on the sidelines with back injury",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ae5/live/df2c8db0-860a-11f1-8577-d306e957ffb1.jpg",
       "published": "7/22/2026, 8:52:18 PM",
       "desc": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France."
+    },
+    {
+      "title": "Salvador Perez ties George Brett's Royals record with 317th HR - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49426984/salvador-perez-ties-george-brett-royals-record-317th-hr",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692541_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 8:44:00 PM",
+      "desc": "Salvador Perez tied the Royals' franchise home run record with his 317th homer Wednesday."
+    },
+    {
+      "title": "World Cup betting in U.S. equivalent of '10 Super Bowls' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49426841/world-cup-betting-us-equivalent-10-super-bowls",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691652_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 8:39:00 PM",
+      "desc": "Sportsbooks and technology providers across the United States sports betting industry report that this year's World Cup produced record handle for a soccer tournament across the board and even rivaled other major prolonged sporting events."
     },
     {
       "title": "Mateus Fernandes scores stunning goal on first Tottenham appearance",
@@ -100,14 +156,6 @@
       "desc": "The Red Sox won their 15th straight game to match a club record for the longest winning streak in team history from 80 years ago, beating the Orioles 6-3 in the opener of a doubleheader on Wednesday afternoon."
     },
     {
-      "title": "Ole Miss' Golding on LSU's Kiffin: 'Lane and I are great' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49426559/ole-miss-golding-lsu-kiffin-lane-great",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692521_1296x729_16%2D9.jpg",
-      "published": "7/22/2026, 7:37:34 PM",
-      "desc": "Ole Miss coach Pete Golding didn't hold back in his first appearance at SEC Media Days on Wednesday, saying his relationship with LSU coach Lane Kiffin is good while defending his program against tampering allegations by Clemson coach Dabo Swinney."
-    },
-    {
       "title": "Casemiro Signs Joins Inter Miami As MLS Launches Investigation Into Tampering",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/casemiro-signs-with-inter-miami-but-mls-investigating-the-club-for-possible-tampering",
@@ -130,14 +178,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/denny-hamlin_favorite_brickyard_nascar_odds.jpg?ve=1&tl=1",
       "published": "7/22/2026, 6:52:21 PM",
       "desc": "Will Denny Hamlin find his way into Victory Lane for the fifth time this season when Cup goes to Indy? Here are the odds for the Brickyard 400."
-    },
-    {
-      "title": "Royals' Bobby Witt Jr. placed on IL for first time in career - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49426277/royals-bobby-witt-jr-placed-il-first-career",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0605%2Fr1668562_1296x729_16%2D9.jpg",
-      "published": "7/22/2026, 6:51:57 PM",
-      "desc": "Royals shortstop Bobby Witt Jr. has gone on the injured list for the first time in his five-year career as he deals with lower back tightness."
     },
     {
       "title": "Jon Sumrall says Florida QB doesn't 'need to be Tim Tebow' - ESPN",
@@ -170,46 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2277755884.jpg?ve=1&tl=1",
       "published": "7/22/2026, 6:37:25 PM",
       "desc": "Santos superstar Neymar was a notable absentee for his club's big match as he was spotted at a poker tournament."
-    },
-    {
-      "title": "Salary Too High? Italy Willing To Make &#39;Exception&#39; To Hire Pep Guardiola",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/italy-willing-to-make-salary-exception-for-pep-guardiola-as-figc-president-confirms-talks-with-ex-man-city-boss",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2277471948-scaled.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:37:21 PM",
-      "desc": "The Italian Football Federation (FIGC) has confirmed that Pep Guardiola is a primary candidate to take over as the next head coach of the Azzurri."
-    },
-    {
-      "title": "Kansas City Chiefs Unveil Details, Visuals For New Stadium",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/chiefs-new-stadium-details",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/chiefs1.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:22:24 PM",
-      "desc": "The Kansas City Chiefs released details regarding their investment in a new stadium that will open in 2031."
-    },
-    {
-      "title": "Spain&#39;s Fabian Ruiz, Gavi Get Their Weight In Tomatoes After World Cup Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-tomatoes-world-cup-fabian-ruiz-gavi",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tomato8-scaled.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:22:21 PM",
-      "desc": "Two players and nearly 300 pounds of tomatoes were part of Spain's ongoing revelry after its World Cup win."
-    },
-    {
-      "title": "Toue de France 2026: Why anti doping tests are being carried out at night",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/c7vge10vnm8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b07/live/c71345a0-8521-11f1-97e8-4f50dea2b016.jpg",
-      "published": "7/22/2026, 5:37:23 PM",
-      "desc": "Drug testing at cycling's biggest race, the Tour de France is in the spotlight following a series of night-time anti-doping tests on the sport's biggest names."
-    },
-    {
-      "title": "NASCAR Chase Tracker: Ryan Blaney Clinches; 13 Spots Remain",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-playoff-tracker-the-chase",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/postseason-tracker-16x9-nascar.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 5:37:20 PM",
-      "desc": "NASCAR is returning to The Chase postseason format. So which drivers are in, out or on the bubble?"
     }
   ],
   "tech": [
@@ -553,15 +553,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
-    },
-    {
-      "rank": 9,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
     }
   ],
   "tv": [
