@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-22T23:05:25.809Z",
+  "updated": "2026-07-23T00:10:39.621Z",
   "news": [
+    {
+      "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg",
+      "published": "7/21/2026, 11:37:20 PM",
+      "desc": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts."
+    },
     {
       "title": "Iran war has cost US $37.5bn so far, Hegseth says",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/21/2026, 10:52:26 PM",
       "desc": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war."
-    },
-    {
-      "title": "Ryanair broken window may have been caused by 'foreign object'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cbb/live/a414ae00-8507-11f1-8b9b-a724b687bb3b.jpg",
-      "published": "7/21/2026, 8:52:23 PM",
-      "desc": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft."
     },
     {
       "title": "Ukraine Russia war: Zelensky sacks top army commander after days of protests",
@@ -68,6 +68,78 @@
   ],
   "sports": [
     {
+      "title": "Georgia RB Dante Dowdell Sidelined Indefinitely Following Off-Field Incident",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/georgia-rb-dante-dowdell-sidelined-indefinitely-following-off-field-incident",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/georgia1.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:52:27 PM",
+      "desc": "Georgia running back Dante Dowdell was injured in a recent off-campus accident, and Bulldogs coach Kirby Smart told reporters Tuesday at SEC media days that he will be indefinitely sidelined."
+    },
+    {
+      "title": "Below The Belt Injury Forces Athletics To Place Joshua Kuroda-Grauer On IL",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/below-belt-injury-forces-athletics-place-joshua-kuroda-grauer-il",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jkg_horizontal.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:52:25 PM",
+      "desc": "Athletics infielder Joshua Kuroda-Grauer placed on 10-day injured list with \"ruptured testicle.\""
+    },
+    {
+      "title": "Tyrese Haliburton legally ties knot with longtime fiancée Jade Jones - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49420236/tyrese-haliburton-jade-jones-married-legally-courthouse-indiana-pacers-iowa-state",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692225_1296x729_16%2D9.jpg",
+      "published": "7/21/2026, 11:42:00 PM",
+      "desc": "Before their official wedding ceremony takes place in August, Tyrese Haliburton and Jade Jones tied the legal knot."
+    },
+    {
+      "title": "Emiliano Martinez Considers Argentina Retirement After Final Loss",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/emiliano-martinez-considers-argentina-retirement-after-final-loss",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2286219345-scaled.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:31 PM",
+      "desc": "Emi Martinez has hinted he could bring his Argentina career to an end after the Albiceleste lost the World Cup final to Spain."
+    },
+    {
+      "title": "CONMEBOL President Claims 2030 World Cup Will Be 64-Team Tournament",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/conmebol-president-claims-2030-world-cup-will-be-a-64-team-tournament",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2266940811.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:30 PM",
+      "desc": "CONMEBOL president Alejandro Dominguez has claimed on social media that the 2030 World Cup will expand to an unprecedented 64-team tournament."
+    },
+    {
+      "title": "New Portugal Coach Jorge Jesus Says He Won&#39;t Make Drastic Changes To Squad",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/new-portugal-coach-jorge-jesus-says-he-wont-make-drastic-changes-squad",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/1600-3.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:23 PM",
+      "desc": "Portugal's new head coach Jorge Jesus insisted that he will not be making changes to the squad following their World Cup exit."
+    },
+    {
+      "title": "Zlatan Critiques Spain&#39;s Failure To Defend Teammates After Post-Final Brawl",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/zlatan-critiques-spains-failure-defend-teammates-after-post-final-brawl",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GOAL20-20Multiple20Images20-20220Split20-20Facebook213.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:21 PM",
+      "desc": "Zlatan Ibrahimovic took aim at Leandro Paredes and Spain's players after the World Cup final's turbulent end in New Jersey."
+    },
+    {
+      "title": "Liberty Coach Jamey Chadwell &#39;Feels Best Since 2023&#39; Despite Ongoing Medical Recovery",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/liberty-coach-jamey-chadwell-feels-best-since-2023-despite-ongoing-medical-recovery",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/liberty1-1.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:20 PM",
+      "desc": "Liberty coach Jamey Chadwell says he feels the best he has since the 2023 season while still dealing with some limitations for what has been called a \"serious but treatable medical condition\" that required surgery at the beginning of this year."
+    },
+    {
+      "title": "Georgia&#39;s Kirby Smart Focused On What Wins Games, Not CFB&#39;s Off-Field Debates",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/georgia-bulldogs-kirby-smart-knows-his-voice-as-the-dean-of-sec-coaches-only-gets-heard-if-georgia-keeps-winning",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/smart.jpg?ve=1&tl=1",
+      "published": "7/21/2026, 11:22:17 PM",
+      "desc": "He’s the dean of Southeastern Conference coaches who also has two national titles at on his resume, so what Georgia’s Kirby Smart says about the state of college football is bound to resonate outside his own state"
+    },
+    {
       "title": "What can Hearts pick from debris of ongoing summer of hurt?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cz05re7pe7ko",
@@ -84,20 +156,20 @@
       "desc": "Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club."
     },
     {
+      "title": "Stephen Curry first active player to have own exhibit in HOF - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49420676/stephen-curry-first-active-player-own-exhibit-hof",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666763_1024x576_16%2D9.jpg",
+      "published": "7/21/2026, 10:43:32 PM",
+      "desc": "Stephen Curry will become the first active player to be honored at the Naismith Basketball Hall of Fame with his own exhibit when it opens to the public Friday."
+    },
+    {
       "title": "World Matchplay: Luke Littler throws nine-darter in thrilling win over Nathan Aspinall at Winter Gardens in Blackpool",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/darts/articles/cn9nge10504o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e0f0/live/6d207b50-854c-11f1-97e0-ef2c0092e63e.jpg",
       "published": "7/21/2026, 10:37:26 PM",
       "desc": "World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall."
-    },
-    {
-      "title": "2026 College Football Playoff Odds: Irish Heavily Favored To Make Field",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2249247694-scaled.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 10:37:25 PM",
-      "desc": "College Football Playoff odds have hit the market. See which squads are favored to make the 12-team postseason tournament."
     },
     {
       "title": "AFC Bournemouth: Chelsea have £64m bid rejected for Alex Scott",
@@ -124,22 +196,6 @@
       "desc": "Luka Modric is preparing to sign a new one-year contract extension with AC Milan and will officially retire from international duty with Croatia this October."
     },
     {
-      "title": "From Curaçao To Cape Verde, The Small But Mighty Nations Made The World Cup Special",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/from-curacao-cape-verde-small-mighty-nations-made-world-cup-special",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/21cde48d-16x9small-nation-1.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 9:52:19 PM",
-      "desc": "We'll never forget the memorable performances from Curacao, Cape Verde and more."
-    },
-    {
-      "title": "Here&#39;s To The Best World Cup Of All Time. The Memories Will Live Forever.",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-usa-memories-spain-messi-bellingham-balogun",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9wc-1st_perso.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 9:37:29 PM",
-      "desc": "Until this summer, I couldn’t have picked a favorite World Cup experience if my life depended on it."
-    },
-    {
       "title": "Josh Kerr: Mile world record holder sets sights on Commonwealth Games in Glasgow",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/athletics/articles/cpwenrd8pvlo",
@@ -148,68 +204,12 @@
       "desc": "Josh Kerr didn't dream about being the fastest person ever to run a mile when he was a kid. He dreamed of pulling on a Scotland vest in the Commonwealth Games."
     },
     {
-      "title": "SEC&#39;s Shift To 9-Game Conference Schedule Pauses Some Longtime Rivalries",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/sec-schedule-florida-tennessee-alabama-lsu",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lsuh1.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 9:37:27 PM",
-      "desc": "Some of the Southeastern Conference's longest rivalries are on hiatus thanks to a major scheduling change."
-    },
-    {
       "title": "The Hundred 2026 results: Sam Curran leads MI London to victory over Sunrisers Leeds",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/articles/cm2glr5v0glo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/88b2/live/26b64ae0-8543-11f1-93c0-f1247987e7f1.jpg",
       "published": "7/21/2026, 9:37:25 PM",
       "desc": "Sam Curran takes two wickets and hits an unbeaten half-century as MI London beat Sunrisers Leeds in the men's Hundred opener."
-    },
-    {
-      "title": "Years From Now, What Will You Remember From The 2026 World Cup?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-final-spain-argentina-messi-vozinha-mbappe-haaland-bellingham",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/one-shining-moment.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 9:37:24 PM",
-      "desc": "I'm already reminiscing about the summer of 2026 and the World Cup that was."
-    },
-    {
-      "title": "Chelsea sign £117m Morgan Rogers - what will he bring to Xabi Alonso's side?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c155/live/3935ccd0-8549-11f1-95a9-e19e9bf09e34.jpg",
-      "published": "7/21/2026, 9:37:20 PM",
-      "desc": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?"
-    },
-    {
-      "title": "MLB Players Propose Expanded Draft Eligibility, Moving Draft Date, More",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-players-proposal-mlbpa-draft",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbs2-1.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 9:37:20 PM",
-      "desc": "MLB players proposed expanding eligibility for the amateur draft, maintaining 20 rounds of selections and much more."
-    },
-    {
-      "title": "MLBPA calls to preserve draft system after owners' proposal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49420153/mlbpa-calls-preserve-draft-system-owners-proposal",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692208_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 9:25:33 PM",
-      "desc": "After MLB proposed cutting the draft from 20 to 12 rounds, slashing amateur signing bonuses by more than $150 million and preventing high schoolers from entering, the MLBPA called to preserve the current system while opening more doors to younger players."
-    },
-    {
-      "title": "Fudd, Mabrey, Howard among WNBA All-Star 3-point contestants - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49420142/fudd-mabrey-howard-wnba-all-star-3-point-contestants",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0505%2Fr1653984_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 9:21:52 PM",
-      "desc": "Azzi Fudd will participate in the 3-point contest as part of WNBA All-Star Weekend in Chicago, joined by Rhyne Howard, Marina Mabrey, Bridget Carleton, Natisha Hiedeman and Janelle Salaun."
-    },
-    {
-      "title": "Andoni Iraola: Liverpool have 'obvious' areas to address in transfer market - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49419902/andoni-iraola-liverpool-obvious-areas-address-transfer-market",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692198_1296x729_16%2D9.jpg",
-      "published": "7/21/2026, 9:11:00 PM",
-      "desc": "Liverpool head coach Andoni Iraola has said the club have \"obvious\" areas to address in the transfer market as he seeks to bolster his squad ahead of the new season."
     }
   ],
   "tech": [
@@ -494,21 +494,21 @@
     },
     {
       "rank": 3,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 4,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 4,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
       "rank": 5,
@@ -536,15 +536,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
     }
   ],
   "tv": [
