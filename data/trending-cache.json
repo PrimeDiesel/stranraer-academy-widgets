@@ -1,6 +1,46 @@
 {
-  "updated": "2026-07-23T07:34:03.130Z",
+  "updated": "2026-07-23T10:24:42.014Z",
   "news": [
+    {
+      "title": "Food prices have fallen – but inflation expected to rise from here",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9fc/live/b4c56850-859a-11f1-a6e0-e3aa80f742c2.jpg",
+      "published": "7/22/2026, 10:22:18 AM",
+      "desc": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary."
+    },
+    {
+      "title": "Will your job be replaced by AI? Here are the roles most affected",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f9/live/4b60d010-85a5-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/22/2026, 10:07:29 AM",
+      "desc": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening."
+    },
+    {
+      "title": "New Prince George photo released for his 13th birthday",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a67b/live/93aa5690-85a8-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/22/2026, 9:07:30 AM",
+      "desc": "It's a big year for the young prince, who will start secondary school at the elite Eton College in September."
+    },
+    {
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c7e/live/17a04300-859b-11f1-a6e0-e3aa80f742c2.jpg",
+      "published": "7/22/2026, 9:07:27 AM",
+      "desc": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+    },
+    {
+      "title": "PC Andrew Harper killers may be eligible for early release",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89nxj4d5pqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg",
+      "published": "7/22/2026, 8:37:23 AM",
+      "desc": "PC Harper, 28, sustained fatal injuries while responding to a quad bike theft in Berkshire in 2019."
+    },
     {
       "title": "Military kit prompts breast-fit concerns among women troops",
       "source": "BBC News",
@@ -24,56 +64,56 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e498/live/becdc880-8593-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/22/2026, 6:37:18 AM",
       "desc": "The defence secretary and Mahmood were also heard making jokes about the new justice secretary."
-    },
-    {
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg",
-      "published": "7/22/2026, 6:22:18 AM",
-      "desc": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court."
-    },
-    {
-      "title": "Newspaper headlines: 'Burnham's power play' and Widdecombe 'hit 21 times with a hammer'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kv3xd8j1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89f7/live/91a81200-8568-11f1-b77f-cdbd6f8d03de.png",
-      "published": "7/22/2026, 1:52:23 AM",
-      "desc": "The papers are dominated by reports about the former MP's death and the prime minister's first full day in office."
-    },
-    {
-      "title": "I have the M4 motorway in my Port Talbot back garden",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c99l28kndr8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3307/live/cfc6a650-84dc-11f1-b976-0b9c15b0ccfc.png",
-      "published": "7/22/2026, 12:52:20 AM",
-      "desc": "It was built over people's homes 60 years ago, but what's it like to live in the shadow of the M4?"
-    },
-    {
-      "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42d/live/6ae98c00-8529-11f1-8e99-5b188ca4e1b3.jpg",
-      "published": "7/22/2026, 12:37:35 AM",
-      "desc": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food."
-    },
-    {
-      "title": "More women in their 20s are getting type 2 diabetes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13dc/live/eb3abd90-84d2-11f1-8a1f-271692b35cb6.jpg",
-      "published": "7/22/2026, 12:37:29 AM",
-      "desc": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for."
     }
   ],
   "sports": [
     {
-      "title": "Women's Super League: Newcastle in talks to sign Leanne Kiernan",
+      "title": "Tonda Eckert: Southampton boss charged by FA over spygate",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cr49lgg014ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d7e3/live/7abdc950-8459-11f1-8cf4-43aed99842b4.jpg",
-      "published": "7/22/2026, 6:52:19 AM",
-      "desc": "Newcastle United are in advanced talks to sign Republic of Ireland forward Leanne Kiernan from Liverpool."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c93480l4ex7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "7/22/2026, 10:37:22 AM",
+      "desc": "Southampton head coach Tonda Eckert is charged by the Football Association for his role in the Spygate scandal."
+    },
+    {
+      "title": "Pep Guardiola: Italian football federation president confirms talks",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czxqdv4818yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1b0b/live/e475ae30-85ad-11f1-9454-77c2271a5b4a.jpg",
+      "published": "7/22/2026, 10:22:26 AM",
+      "desc": "Pep Guardiola has held talks about becoming Italy head coach, Italian Football Federation president Giovanni Malago has confirmed."
+    },
+    {
+      "title": "Women's Super League: Arsenal sign Spain goalkeeper Misa Rodriguez on free",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d09/live/57f5cb00-8550-11f1-82c8-79209299e29b.jpg",
+      "published": "7/22/2026, 9:37:22 AM",
+      "desc": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer."
+    },
+    {
+      "title": "Newcastle: Where are club in bid to be the best by 2030?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckg30v0llpxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9d5/live/2bf1d3a0-84e2-11f1-a438-ffa327228da5.jpg",
+      "published": "7/22/2026, 9:07:20 AM",
+      "desc": "As the fifth anniversary of Newcastle's takeover approaches, BBC Sport assesses whether the project to be \"the best\" is still on track."
+    },
+    {
+      "title": "Commonwealth Games: Five big names to look out for at Glasgow 2026",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b88/live/aa17dfe0-841f-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/22/2026, 8:37:21 AM",
+      "desc": "These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow."
+    },
+    {
+      "title": "Who is Caoimhin Agyarko? The unbeaten prospect fighting on Anthony Joshua's undercard",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/cyvly3l5l2zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/06c5/live/dffc2390-81f5-11f1-b6ff-e9b8db4416d1.jpg",
+      "published": "7/22/2026, 8:07:31 AM",
+      "desc": "Belfast's Caoimhin Agyarko's dream is to become Ireland's first black professional boxing champion and he can reach his goal when he challenges Josh Kelly for the IBF light-middleweight title on Saturday."
     },
     {
       "title": "BBC Sport quiz: Who am I? Guess Premier League footballer number two",
@@ -170,49 +210,17 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692225_1296x729_16%2D9.jpg",
       "published": "7/21/2026, 11:42:00 PM",
       "desc": "Before their official wedding ceremony takes place in August, Tyrese Haliburton and Jade Jones tied the legal knot."
-    },
-    {
-      "title": "Emiliano Martinez Considers Argentina Retirement After Final Loss",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/emiliano-martinez-considers-argentina-retirement-after-final-loss",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2286219345-scaled.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 11:22:31 PM",
-      "desc": "Emi Martinez has hinted he could bring his Argentina career to an end after the Albiceleste lost the World Cup final to Spain."
-    },
-    {
-      "title": "CONMEBOL President Claims 2030 World Cup Will Be 64-Team Tournament",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/conmebol-president-claims-2030-world-cup-will-be-a-64-team-tournament",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2266940811.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 11:22:30 PM",
-      "desc": "CONMEBOL president Alejandro Dominguez has claimed on social media that the 2030 World Cup will expand to an unprecedented 64-team tournament."
-    },
-    {
-      "title": "New Portugal Coach Jorge Jesus Says He Won&#39;t Make Drastic Changes To Squad",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/new-portugal-coach-jorge-jesus-says-he-wont-make-drastic-changes-squad",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/1600-3.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 11:22:23 PM",
-      "desc": "Portugal's new head coach Jorge Jesus insisted that he will not be making changes to the squad following their World Cup exit."
-    },
-    {
-      "title": "Zlatan Critiques Spain&#39;s Failure To Defend Teammates After Post-Final Brawl",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/zlatan-critiques-spains-failure-defend-teammates-after-post-final-brawl",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GOAL20-20Multiple20Images20-20220Split20-20Facebook213.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 11:22:21 PM",
-      "desc": "Zlatan Ibrahimovic took aim at Leandro Paredes and Spain's players after the World Cup final's turbulent end in New Jersey."
-    },
-    {
-      "title": "Liberty Coach Jamey Chadwell &#39;Feels Best Since 2023&#39; Despite Ongoing Medical Recovery",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/liberty-coach-jamey-chadwell-feels-best-since-2023-despite-ongoing-medical-recovery",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/liberty1-1.jpg?ve=1&tl=1",
-      "published": "7/21/2026, 11:22:20 PM",
-      "desc": "Liberty coach Jamey Chadwell says he feels the best he has since the 2023 season while still dealing with some limitations for what has been called a \"serious but treatable medical condition\" that required surgery at the beginning of this year."
     }
   ],
   "tech": [
+    {
+      "title": "Garmin just launched the screen-free Cirqa Smart Band, and it looks a lot like Whoop - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/garmin-cirqa-smart-band-launch-price-specs",
+      "image": "https://helios-i.mashable.com/imagery/articles/04ZaQ8AoqmluZf4uWBl9jfg/hero-image.fill.size_1200x675.v1784645134.png",
+      "published": "7/22/2026, 9:17:25 AM",
+      "desc": "But unlike the Whoop, it's subscription-free."
+    },
     {
       "title": "Langrisser: Sea of Sword first gameplay trailer, details, and screenshots - Gematsu",
       "source": "Gematsu",
@@ -246,6 +254,14 @@
       "desc": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked."
     },
     {
+      "title": "New technique enables LIGO to peer farther into the distant universe - Phys.org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-07-technique-enables-ligo-peer-distant.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-technique-enables.jpg",
+      "published": "7/21/2026, 10:30:07 PM",
+      "desc": "Scientists at the University of California, Riverside, have developed a new way to help gravitational-wave observatories see farther into the universe by solving one of their biggest challenges: tiny heat-induced distortions in the massive mirrors at the hear…"
+    },
+    {
       "title": "35 Times Old People Posted Things On The Internet So Wildly Inappropriate That I May Genuinely Never Be The Same Again - buzzfeed.com",
       "source": "Buzzfeed",
       "url": "https://www.buzzfeed.com/daves4/funny-posts-from-old-people-july-2026",
@@ -260,22 +276,6 @@
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-closeup-on-case-and-watch-face.jpg",
       "published": "7/21/2026, 9:53:00 PM",
       "desc": "A fresh leak purports to reveal the full specs sheet of the Galaxy Watch 9 and Watch Ultra 2, as well as likely European pricing."
-    },
-    {
-      "title": "Apple's $634M payment to Masimo now set in stone after Judge tosses appeal - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/21/apples-634m-payment-to-masimo-now-set-in-stone-after-judge-tosses-appeal",
-      "image": "https://photos5.appleinsider.com/gallery/68319-144015-Series-11-back-xl.jpg",
-      "published": "7/21/2026, 9:23:00 PM",
-      "desc": "The Masimo trial ultimately failed to get a permanent ban on Apple Watch sales or use of the blood oxygen sensor, but the final verdict will have Apple pay $634M to Masimo's new owner Danaher after the appeal was rejected."
-    },
-    {
-      "title": "Google Teases Gemini 4 Release - Droid Life",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/07/21/google-drops-gemini-flash-3-6-on-us-teases-gemini-4/",
-      "image": "",
-      "published": "7/21/2026, 9:07:28 PM",
-      "desc": ""
     }
   ],
   "education": [
@@ -374,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 5,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 6,
@@ -410,21 +410,21 @@
     },
     {
       "rank": 8,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 9,
       "title": "Leave the lamp on Lord",
       "artist": "Gravel & Grace",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/13/2a/8e132a8b-7a0c-1813-2845-9f5db3e44963/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8c/3f/158c3f09-9eca-9546-015d-7c800f569c7b/mzaf_11690209707038950822.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/leave-the-lamp-on-lord/6792222773?i=6792222774&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Gravel%20%26%20Grace%20Leave%20the%20lamp%20on%20Lord"
+    },
+    {
+      "rank": 9,
+      "title": "Mama, I still call your name",
+      "artist": "Noah Nine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/37/d9/d537d916-bba0-c2ba-eff7-2a92b29cfafa/mzaf_12667572801336679829.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/mama-i-still-call-your-name/6771263844?i=6771263846&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
     },
     {
       "rank": 10,
@@ -437,6 +437,15 @@
     },
     {
       "rank": 11,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 12,
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/0c/1e/65/0c1e65b2-5c37-032a-f064-aa9c8e42af50/886446451992.jpg/300x300bb.jpg",
@@ -445,7 +454,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Harry%20Styles%20Sign%20of%20the%20Times"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "The Puerto Rico Song",
       "artist": "Saxboy Billy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/9c/91/229c91aa-f6bc-b90b-3a35-71d4eb13c732/26SYMIM30323.rgb.jpg/300x300bb.jpg",
@@ -454,31 +463,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Saxboy%20Billy%20The%20Puerto%20Rico%20Song"
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 15,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
-      "rank": 14,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 15,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
@@ -502,15 +502,6 @@
     },
     {
       "rank": 3,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 4,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -519,22 +510,31 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 5,
-      "title": "The Devil Wears Prada 2",
+      "rank": 4,
+      "title": "The Mandalorian and Grogu",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 6,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 7,
@@ -547,23 +547,23 @@
     },
     {
       "rank": 8,
-      "title": "Minions & Monsters",
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "King of the Hill",
-      "year": "1997",
+      "title": "X-Men '97",
+      "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-      "url": "https://www.themoviedb.org/tv/2122"
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     },
     {
       "rank": 2,
@@ -573,15 +573,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
       "url": "https://www.themoviedb.org/tv/298610"
-    },
-    {
-      "rank": 3,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
