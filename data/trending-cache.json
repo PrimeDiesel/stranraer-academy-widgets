@@ -1,21 +1,29 @@
 {
-  "updated": "2026-07-24T20:21:02.180Z",
+  "updated": "2026-07-24T22:05:47.821Z",
   "news": [
     {
-      "title": "Burnham pauses early prison release scheme",
+      "title": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/481b/live/7941df10-86c7-11f1-bf7f-25405e28486d.jpg",
-      "published": "7/23/2026, 7:07:20 PM",
-      "desc": "The prime minister says no prisoners will be released until a review has been conducted."
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg",
+      "published": "7/23/2026, 9:37:23 PM",
+      "desc": "A new bill would let the US government order the shutdown AI models that pose a major public threat."
     },
     {
-      "title": "Burnham tells Swinney independence is 'off limits' at Glasgow Commonwealth Games meeting",
+      "title": "US announces fresh raft of tariffs on overseas goods",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26ff/live/0157e6a0-86b0-11f1-a0b6-435e4178a497.jpg",
-      "published": "7/23/2026, 6:52:21 PM",
-      "desc": "The heads of the UK, Scottish and Welsh governments came together ahead of the opening of the Glasgow Commonwealth Games."
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
+      "published": "7/23/2026, 9:37:21 PM",
+      "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+    },
+    {
+      "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1e2542wno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e8a8/live/03af29d0-86c0-11f1-9d73-41a48912c4b7.jpg",
+      "published": "7/23/2026, 8:22:26 PM",
+      "desc": "An Iranian military group has issued a warning to the UK over allowing US forces to use British bases for strikes on Iran."
     },
     {
       "title": "West Mersea beach tragedy victims were trying to help boy",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0013/live/3408c450-86ad-11f1-8e17-395fea5a1d61.png",
       "published": "7/23/2026, 6:52:17 PM",
       "desc": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say."
-    },
-    {
-      "title": "Grant Shapps blocked from standing again for the Conservatives",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/615c/live/951d24c0-868a-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "7/23/2026, 4:37:25 PM",
-      "desc": "Kemi Badenoch tells the BBC she leads a \"new party full of new people\" as ex-MP is rejected as a candidate."
     },
     {
       "title": "Senior ministers and aides set to work from No 10 North",
@@ -68,20 +68,124 @@
   ],
   "sports": [
     {
+      "title": "Aston Villa season preview: Can Unai Emery work magic again?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c3b7/live/a20aebc0-853d-11f1-ab57-69b83adbeeff.jpg",
+      "published": "7/23/2026, 9:22:32 PM",
+      "desc": "Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans."
+    },
+    {
+      "title": "2026-2027 College Basketball Offseason Buzz: Minnesota Extends Coach Niko Medved",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-basketball/college-basketball-2026-2027-buzz-news-injuries-transfers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/freemanh1.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:22:30 PM",
+      "desc": "We're tracking notable injuries, news and happenings across men's and women's college basketball during the 2026-2027 offeason."
+    },
+    {
+      "title": "Jermain Defoe: Former England striker leaves role as Woking manager after four months",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c304d47ql6jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ef2/live/a5dd9620-86d3-11f1-8749-89447c313de6.jpg",
+      "published": "7/23/2026, 9:22:29 PM",
+      "desc": "Former England and Tottenham striker Jermain Defoe has described his first managerial job as an \"eye-opening experience\" following his departure from National League side Woking after just four months and nine matches in charge."
+    },
+    {
+      "title": "Alex Bowman To Race For Hendrick In 2027 And Then Retire",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/alex-bowman-driver-hendrick-2027-retire",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/abow2.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:22:22 PM",
+      "desc": "Alex Bowman will drive the No. 48 car for Hendrick Motorsports in 2027 and then retire from full-time racing competition."
+    },
+    {
+      "title": "Skubal says he wants to finish season with Tigers and win WS - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49435177/skubal-says-wants-finish-season-tigers-win-ws",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2Fr1692942_1024x576_16%2D9.jpg",
+      "published": "7/23/2026, 9:10:28 PM",
+      "desc": "Tarik Skubal said he prefers to finish season with Detroit and win the World Series"
+    },
+    {
+      "title": "Fernando Mendoza Signs $57.27M Rookie Contract With Las Vegas Raiders",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/raiders-fernando-mendoza-signs-rookie-contract",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/fernando2.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:07:38 PM",
+      "desc": "Quarterback and 2026 No. 1 pick Fernando Mendoza has reportedly signed a $57.27 million rookie contract with the Las Vegas Raiders."
+    },
+    {
+      "title": "Panthers Edge Rusher Nic Scourton Reportedly Out For 2026 After Training Camp Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/panthers-edge-rusher-nic-scourton-reportedly-out-2026-after-training-camp-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/scourton1.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:07:37 PM",
+      "desc": "Carolina Panthers second-year outside linebacker Nic Scourton was carted off the practice field with a right knee injury during the team’s first day of training camp."
+    },
+    {
+      "title": "With Judge&#39;s Timeline Uncertain, Yankees Faces a Deadline Balancing Act",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/yankees-aaron-judge-injury-trade-deadline",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/judgemain.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:07:32 PM",
+      "desc": "The race in the AL East has gotten tighter, adding pressure to the Yankees to make a deadline deal."
+    },
+    {
+      "title": "Will Lionel Messi Or Cristiano Ronaldo Play In The 2030 World Cup?: &#39;Too Much Demand&#39;",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/will-lionel-messi-cristiano-ronaldo-play-2030-world-cup-too-much-demand",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GOAL20-20Multiple20Images20-20220Split20-20Facebook20-202026-07-03T101544.126.png?ve=1&tl=1",
+      "published": "7/23/2026, 9:07:29 PM",
+      "desc": "Lionel Messi and Cristiano Ronaldo are likely to have taken in their \"last dance\" at the World Cup finals,."
+    },
+    {
+      "title": "Lane Kiffin Admits In-Season Coaching Carousel Needs Guardrails for Future Coaches",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/lane-kiffin-admits-in-season-coaching-carousel-needs-guardrails-future-coaches",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/kiffin1.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 9:07:26 PM",
+      "desc": "One notable backer of the “Lane Kiffin Rule\" winding its way through Congress turns out to be Lane Kiffin himself."
+    },
+    {
+      "title": "Manning taking ownership at Texas after season of adversity - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49435141/manning-taking-ownership-texas-season-adversity",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691887_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 8:56:18 PM",
+      "desc": "Texas quarterback Arch Manning spent his offseason getting healthy, but he also added a key intangible to his game - taking ownership of the team."
+    },
+    {
+      "title": "Italy In Talks With Pep Guardiola, Carlo Ancelotti To Coach National Team",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/italy-in-crisis-federation-sounds-out-pep-guardiola-and-carlo-ancelotti-for-coach",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2149019720-scaled-e1784838481726.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 8:52:20 PM",
+      "desc": "The Italian soccer federation has talked to Pep Guardiola and Carlo Ancelotti about leading the national team."
+    },
+    {
+      "title": "Carolina Panthers Unveil Rengderings For Expanded $1.3 Billion Stadium Renovation",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/carolina-panthers-unveil-expanded1-3-billion-stadium-renovation-plan",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/public-release-overall-2-1-e1784833725283.png?ve=1&tl=1",
+      "published": "7/23/2026, 8:37:19 PM",
+      "desc": "The Panthers released renderings of their renovated stadium on Thursday as they hope to host major events in the future."
+    },
+    {
+      "title": "Ravens waive rookie Diego Pavia to make room for Ethan Pocic - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49434956/ravens-waive-rookie-diego-pavia-make-room-ethan-pocic",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2Fr1692927_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 8:25:37 PM",
+      "desc": "The Ravens waived rookie quarterback Diego Pavia on Thursday to make room for veteran center Ethan Pocic, who officially signed his free agent contract."
+    },
+    {
       "title": "Anthony Joshua vs Kristian Prenga: Briton embraces comeback spotlight before fight in Saudi Arabia",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/boxing/articles/cqx79102n4xo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5099/live/2ba6c680-86c7-11f1-bf7f-25405e28486d.jpg",
       "published": "7/23/2026, 7:37:21 PM",
       "desc": "Anthony Joshua appears relaxed and encourages a sizeable Albanian contingent, supporting his opponent, to bring their \"energy\" for his comeback fight on Saturday."
-    },
-    {
-      "title": "Lucas Herbert Breaks Course Record With 11-Under Round 1 At LIV Golf UK",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/golf/liv-golf-uk-round-1-leaderboard-lucas-herbert-record",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/herbert1.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 7:22:19 PM",
-      "desc": "Lucas Herbert fired a course-record 61 at LIV Golf UK as Ripper GC topped the leaderboard at JCB."
     },
     {
       "title": "INDYCAR Silly Season Tracker: Rahal Sells Charter To Dreyer &amp; Reinbold",
@@ -106,113 +210,17 @@
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
       "published": "7/23/2026, 6:37:25 PM",
       "desc": "Follow updates as the Commonwealth Games begins in Glasgow, with an opening ceremony at The Hydro."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Angels Fire Sale Coming?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 6:22:40 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "2026 NFL Win Totals: Over/Unders For All 32 Squads",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-win-totals-over-unders-all-32-squads",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/02/1408/814/hutchinson.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 6:22:28 PM",
-      "desc": "Check out the win totals and Over/Under odds for all 32 teams heading into the 2026 NFL season."
-    },
-    {
-      "title": "Conference League qualifying - Motherwell in action after Hibs lose",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c0l5pn0epd2t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "7/23/2026, 6:22:27 PM",
-      "desc": "Follow live coverage of Conference League qualifying matches, with Motherwell at home to HB Torshavn after a shock loss for Hibernian away to Malisheva."
-    },
-    {
-      "title": "Robert Lewandowski Explains Why Lamine Yamal Did Not Perform His Best With Spain",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/world-cup-fifa-soccer-robert-lewandowski-explains-why-lamine-yamal-was-unable-to-produce-his-best-at-2026-world-cup-with-barcelona-wonderkid-playing-more-of-a-support-in-spains-historic-triumph",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2286971496.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 6:22:24 PM",
-      "desc": "Former Barcelona striker Robert Lewandowski explained Lamine Yamals's inability to produce his best during his time with Spain."
-    },
-    {
-      "title": "Real Madrid Contact Manchester City To Deny Rodri Transfer Reports",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/soccer-real-madrid-contact-man-city-to-deny-rodri-approach-as-transfer-agreement-reports-leave-spanish-giants-fuming",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2278156318-scaled.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 6:22:21 PM",
-      "desc": "Real Madrid have reportedly contacted Man City to deny an approach for Rodri following reports of a pre-transfer agreement."
-    },
-    {
-      "title": "Will Mick Schumacher Get A Second INDYCAR Season?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/mick-schumacher-second-indycar-season",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/16x9-26.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 5:37:27 PM",
-      "desc": "The transition from Formula 1 to INDYCAR hasn't been a seamless one for Mick Schumacher, leaving his future in the series in doubt."
-    },
-    {
-      "title": "Good And Bad, Lane Kiffin Is The Answer — And LSU Is Betting Big On It",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/lane-kiffin-lsu-ole-miss-contract-salary",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2284358281-scaled.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 5:37:24 PM",
-      "desc": "Lane Kiffin has a history of burning college football bridges, but LSU bet big on him anyway."
-    },
-    {
-      "title": "Antoine Griezmann Scores In MLS Debut For Orlando City",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/antoine-griezmann-scores-mls-debut-orlando-city",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/griezmann1.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 5:37:18 PM",
-      "desc": "Antoine Griezmann scored in his MLS debut, and Orlando City beat the San Jose Earthquakes 4-0 on Wednesday night in the first game for both teams since before the World Cup break."
-    },
-    {
-      "title": "Elliot Anderson: Man City newcomer's rise to England star and record signing",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac02/live/30042b00-86b8-11f1-bb58-d3ffca85db6d.jpg",
-      "published": "7/23/2026, 5:22:28 PM",
-      "desc": "Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing."
-    },
-    {
-      "title": "JJ Gabriel, 15, could make Man Utd debut in Rosenborg friendly after senior call-up",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ce85j3mgl06o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/55f0/live/0bb97940-867b-11f1-8c77-df97511a6b05.jpg",
-      "published": "7/23/2026, 5:07:32 PM",
-      "desc": "Manchester United teenager JJ Gabriel, 15, could make senior debut on Friday after receiving call-up for Rosenborg friendly."
-    },
-    {
-      "title": "Raiders sign No. 1 pick Fernando Mendoza to rookie contract - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49433918/raiders-sign-no-1-pick-fernando-mendoza-rookie-contract",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2Fr1692866_1296x729_16%2D9.jpg",
-      "published": "7/23/2026, 5:07:30 PM",
-      "desc": "The Raiders have signed No. 1 pick Fernando Mendoza to his four-year, $57.27 million fully guaranteed contract with a fifth-year option."
-    },
-    {
-      "title": "Bruno Guimaraes: Arsenal set to bid £70m for Newcastle midfielder",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpq8lpj530po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4d4/live/c251d6c0-86b2-11f1-bb58-d3ffca85db6d.jpg",
-      "published": "7/23/2026, 5:07:24 PM",
-      "desc": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes."
-    },
-    {
-      "title": "Coach Silverfield seeks to reverse Arkansas' 'loser mentality' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49433894/coach-silverfield-seeks-reverse-arkansas-loser-mentality",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0622%2Fr1677792_1296x729_16%2D9.jpg",
-      "published": "7/23/2026, 5:03:39 PM",
-      "desc": "New coach Ryan Silverfield said he walked into a program with \"a loser mentality\" at Arkansas, and his biggest challenge in Year 1 has been changing expectations within the building."
     }
   ],
   "tech": [
+    {
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-1152x648.jpg",
+      "published": "7/23/2026, 8:47:33 PM",
+      "desc": "App is installed through Windows Update when certain LG monitors connect to a PC."
+    },
     {
       "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
       "source": "CNET",
@@ -230,12 +238,28 @@
       "desc": "While AMD EPYC 9005 'Turin' launched just under two years ago, it has aged remarkably well."
     },
     {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published": "7/23/2026, 5:00:00 PM",
+      "desc": "OpenAI is rolling out ChatGPT Health to everyone, allowing more people to connect their medical records and health data to the chatbot."
+    },
+    {
       "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/psdisc-1024x648.jpg",
       "published": "7/23/2026, 4:25:46 PM",
       "desc": "Circana numbers show US gamers overwhelmingly voting with their wallets."
+    },
+    {
+      "title": "Halo Support 'Investigating' Issues With Premium Upgrade For Campaign Evolved - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/07/this-issue-should-be-resolved-halo-premium-upgrade-seemingly-fixed-for-campaign-evolved",
+      "image": "https://images.purexbox.com/1e68e40c5cb8d/large.jpg",
+      "published": "7/23/2026, 4:25:31 PM",
+      "desc": "It launched with problems across Xbox and PC"
     },
     {
       "title": "Google will now let you sign in to your account with a selfie video - TechCrunch",
@@ -246,36 +270,12 @@
       "desc": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer."
     },
     {
-      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
-      "image": "https://helios-i.mashable.com/imagery/articles/00JVJ0hlb1CKWbvkvYN3PDv/hero-image.fill.size_1200x675.v1784726690.jpg",
-      "published": "7/23/2026, 4:00:13 PM",
-      "desc": "Samsung said the highly anticipated glasses will arrive in the fall"
-    },
-    {
       "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
       "source": "The Verge",
       "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "7/23/2026, 4:00:00 PM",
       "desc": "Xbox Insiders can stream certain games from their libraries for free with an ad-supported cloud gaming option Microsoft is testing."
-    },
-    {
-      "title": "Halo: Campaign Evolved Comparison Shows Difference Between Xbox Series X And Series S - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/07/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-series-s",
-      "image": "https://images.purexbox.com/7386050807aee/large.jpg",
-      "published": "7/23/2026, 4:00:00 PM",
-      "desc": "How the Xbox versions stack up"
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg",
-      "published": "7/23/2026, 3:34:43 PM",
-      "desc": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America."
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Mama, I still call your name",
-      "artist": "Noah Nine",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/37/d9/d537d916-bba0-c2ba-eff7-2a92b29cfafa/mzaf_12667572801336679829.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mama-i-still-call-your-name/6771263844?i=6771263846&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
-    },
-    {
-      "rank": 3,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 3,
+      "title": "Mama, I still call your name",
+      "artist": "Noah Nine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/37/d9/d537d916-bba0-c2ba-eff7-2a92b29cfafa/mzaf_12667572801336679829.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/mama-i-still-call-your-name/6771263844?i=6771263846&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
     },
     {
       "rank": 4,
@@ -383,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 6,
       "title": "Fireflies",
       "artist": "Martin Garrix & U2",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
@@ -400,13 +391,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 7,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 8,
@@ -437,21 +437,21 @@
     },
     {
       "rank": 11,
-      "title": "Burn it Down",
-      "artist": "Shaboozey & Leon Bridges",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/7c/51/2a7c5105-1de5-b847-52c3-ac85450fcacd/199316583137_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/c9/96/00c99649-d53f-10e5-de7b-50799d75a7cd/mzaf_6826422240484496940.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/burn-it-down/1894906682?i=1894906693&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shaboozey%20%26%20Leon%20Bridges%20Burn%20it%20Down"
-    },
-    {
-      "rank": 12,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 12,
+      "title": "Burn it Down",
+      "artist": "Shaboozey & Leon Bridges",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/7c/51/2a7c5105-1de5-b847-52c3-ac85450fcacd/199316583137_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/c9/96/00c99649-d53f-10e5-de7b-50799d75a7cd/mzaf_6826422240484496940.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/burn-it-down/1894906682?i=1894906693&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shaboozey%20%26%20Leon%20Bridges%20Burn%20it%20Down"
     },
     {
       "rank": 13,
@@ -464,21 +464,21 @@
     },
     {
       "rank": 14,
-      "title": "Leave the lamp on Lord",
-      "artist": "Gravel & Grace",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/13/2a/8e132a8b-7a0c-1813-2845-9f5db3e44963/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8c/3f/158c3f09-9eca-9546-015d-7c800f569c7b/mzaf_11690209707038950822.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/leave-the-lamp-on-lord/6792222773?i=6792222774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Gravel%20%26%20Grace%20Leave%20the%20lamp%20on%20Lord"
-    },
-    {
-      "rank": 15,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 15,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     }
   ],
   "movies": [
@@ -520,24 +520,15 @@
     },
     {
       "rank": 5,
-      "title": "Moana",
+      "title": "The Dink",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
       "rank": 6,
-      "title": "The Super Mario Galaxy Movie",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "url": "https://www.themoviedb.org/movie/1226863"
-    },
-    {
-      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -546,7 +537,25 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
+      "rank": 7,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
       "rank": 8,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -555,45 +564,18 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 9,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
       "rank": 10,
-      "title": "Project Hail Mary",
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Spooky in Love",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-      "url": "https://www.themoviedb.org/tv/298610"
-    },
-    {
-      "rank": 2,
-      "title": "King of the Hill",
-      "year": "1997",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-      "url": "https://www.themoviedb.org/tv/2122"
-    },
-    {
-      "rank": 3,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
