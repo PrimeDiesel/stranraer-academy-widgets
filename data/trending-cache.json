@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-24T02:54:33.866Z",
+  "updated": "2026-07-24T05:51:39.173Z",
   "news": [
+    {
+      "title": "'What was their crime?': BBC visits Iran school in Minab where strike killed 120 children",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a4d/live/49c03a00-8656-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/23/2026, 5:37:19 AM",
+      "desc": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab."
+    },
+    {
+      "title": "Most sewage spills in England may be illegal, new research suggests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6e/live/65772b70-85f0-11f1-8ade-a7a676c613b9.jpg",
+      "published": "7/23/2026, 4:37:20 AM",
+      "desc": "The new analysis from a prominent water campaigner emerged after secret court documents were leaked."
+    },
+    {
+      "title": "Houthis claim attack on Saudi tankers in Red Sea",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+      "published": "7/23/2026, 3:22:15 AM",
+      "desc": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
+    },
     {
       "title": "Why nobody seems to be able to make their mind up about e-scooters",
       "source": "BBC News",
@@ -40,33 +64,41 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37bb/live/4f2cc100-85f9-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/23/2026, 12:22:23 AM",
       "desc": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports."
-    },
-    {
-      "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg",
-      "published": "7/23/2026, 12:07:18 AM",
-      "desc": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early."
-    },
-    {
-      "title": "Glasgow set to welcome the world for scaled back Commonwealth Games",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czj8zjnzw4po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4291/live/08b95270-8427-11f1-8aab-7b42b0ff0499.jpg",
-      "published": "7/22/2026, 11:07:23 PM",
-      "desc": "Athletes from 74 countries and territories will compete for 215 gold medals over 10 days of competition."
-    },
-    {
-      "title": "Karen Carter: Police formally investigate woman after Brit stabbed to death in French village",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35aa/live/922bad20-26d9-11f0-85de-91766b10dcb6.jpg",
-      "published": "7/22/2026, 7:22:23 PM",
-      "desc": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade."
     }
   ],
   "sports": [
+    {
+      "title": "Elliot Anderson and Morgan Rogers - Why English midfielders are so in demand",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/511a/live/06cf37f0-85e3-11f1-8ade-a7a676c613b9.jpg",
+      "published": "7/23/2026, 5:37:15 AM",
+      "desc": "Elliot Anderson and Morgan Rogers both sold for record transfer fees for midfielders, so why are English midfielders so in demand?"
+    },
+    {
+      "title": "Trade for Skubal? Stand Pat? The Dodgers Can Afford Any Option At Trade Deadline",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/trade-skubal-stand-pat-why-dodgers-can-go-any-direction-want-deadline",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/5dce6caf-skubaldodgers.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 5:07:25 AM",
+      "desc": "The Dodgers have no glaring needs at the deadline, but they have the resources to push as far as they want in their quest to three-peat."
+    },
+    {
+      "title": "Red Sox Win Streak Halted At 15, Fall Short Of Franchise Mark In Loss To O&#39;s",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/orioles-halt-red-soxs-franchise-recordtying-15-game-win-streak-with-51-win-to-split-twinbill",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/redsox-scaled.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 5:07:24 AM",
+      "desc": "The Baltimore Orioles ended Boston’s franchise record-tying 15-game winning streak."
+    },
+    {
+      "title": "Fever's Clark earns 7th technical foul; one away from 1-game ban - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49429632/fever-clark-earns-7th-technical-foul-one-away-1-game-ban",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0625%2Fr1679137_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 4:56:44 AM",
+      "desc": "Fever guard Caitlin Clark is one technical foul away from an automatic one-game suspension after she picked up her seventh of the season after jawing with Connecticut's Saniya Rivers on Wednesday night."
+    },
     {
       "title": "Orioles end Red Sox's record-tying 15-game winning streak - ESPN",
       "source": "ESPN",
@@ -148,22 +180,6 @@
       "desc": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France."
     },
     {
-      "title": "Salvador Perez ties George Brett's Royals record with 317th HR - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49426984/salvador-perez-ties-george-brett-royals-record-317th-hr",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692541_1296x729_16%2D9.jpg",
-      "published": "7/22/2026, 8:44:00 PM",
-      "desc": "Salvador Perez tied the Royals' franchise home run record with his 317th homer Wednesday."
-    },
-    {
-      "title": "Mateus Fernandes scores stunning goal on first Tottenham appearance",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c1l14em6j3dt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c76/live/172037c0-8602-11f1-b3d1-d772829dc047.jpg",
-      "published": "7/22/2026, 8:22:34 PM",
-      "desc": "Mateus Fernandes scores a superb goal from distance on his Tottenham debut as Spurs beat MK Dons in a behind-closed-doors pre-season friendly."
-    },
-    {
       "title": "World Matchplay 2026: Cameron Menzies receives medical care after being taken ill on stage",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo",
@@ -194,25 +210,25 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/denny-hamlin_favorite_brickyard_nascar_odds.jpg?ve=1&tl=1",
       "published": "7/22/2026, 6:52:21 PM",
       "desc": "Will Denny Hamlin find his way into Victory Lane for the fifth time this season when Cup goes to Indy? Here are the odds for the Brickyard 400."
-    },
-    {
-      "title": "10 Premier League Transfers You May Have Missed During The World Cup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/chelseas-new-full-back-newcastles-anthony-gordon-replacement-and-10-premier-league-transfers-you-may-have-missed-during-the-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/Transfers20you20might20have20missed.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:37:31 PM",
-      "desc": "Business never sleeps, however, and several deals have gone under the radar during the 2026 World Cup."
-    },
-    {
-      "title": "Mexico Icon Guillermo Ochoa Retires, Joins Messi And Ronaldo In Rare Feat",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/legendary-mexico-goalkeeper-guillermo-ochoa-retires-at-41-after-joining-lionel-messi-cristiano-ronaldo-in-world-cup-history-books",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2284249263-scaled.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:37:28 PM",
-      "desc": "Mexico icon Guillermo Ochoa has officially announced his retirement from active competition."
     }
   ],
   "tech": [
+    {
+      "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
+      "image": "https://helios-i.mashable.com/imagery/articles/00bmlFYXKkX5DOgEBjGTUKx/hero-image.fill.size_1200x675.v1784656829.jpg",
+      "published": "7/23/2026, 4:50:40 AM",
+      "desc": "Sorry, no Classic model this year."
+    },
+    {
+      "title": "Splatoon Raiders Switch 2 Launch Update Out Now, Here Are The Patch Notes - nintendolife.com",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-switch-2-launch-update-out-now-here-are-the-patch-notes",
+      "image": "https://images.nintendolife.com/cdfe6b221aabf/large.jpg",
+      "published": "7/23/2026, 1:30:00 AM",
+      "desc": "The hunt begins"
+    },
     {
       "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET",
       "source": "CNET",
@@ -220,6 +236,14 @@
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-17.jpg",
       "published": "7/22/2026, 10:45:00 PM",
       "desc": "Samsung's book-style foldable could be better suited to the way we actually browse the internet and watch videos."
+    },
+    {
+      "title": "Pixel Watch 5 specs leak with no chip upgrade, but more RAM - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/22/pixel-watch-5-specs-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-Watch-5-specs-leak-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/22/2026, 9:44:00 PM",
+      "desc": "The Pixel Watch 5 is expected to look identical to last year's model, but the similarities might also extend to the specs and chip."
     },
     {
       "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
@@ -238,12 +262,12 @@
       "desc": "Google’s Pixel 11 series has leaked pretty extensively at this point, but another new leak has just hit the web..."
     },
     {
-      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
-      "image": "https://helios-i.mashable.com/imagery/articles/00JVJ0hlb1CKWbvkvYN3PDv/hero-image.fill.size_1200x675.v1784726690.jpg",
-      "published": "7/22/2026, 5:30:25 PM",
-      "desc": "Samsung said the highly anticipated glasses will arrive in the fall"
+      "title": "Hasbro reveals The Legend of Zelda: Heroes of Hyrule toys [update: pre-orders live] - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/hasbro-reveals-the-legend-of-zelda-heroes-of-hyrule-toys/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Heroes-of-Hyrule-toys.jpg",
+      "published": "7/22/2026, 6:39:58 PM",
+      "desc": "Original: The wait is over, as Hasbro has officially revealed the first images of its new The Legend of Zelda action figure line, known as Heroes of Hyrule. The collectibles are based on The Legend of Zelda: Tears of the Kingdom, rather than the upcoming live…"
     },
     {
       "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
@@ -252,22 +276,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "7/22/2026, 4:35:58 PM",
       "desc": "The MacBook Neo may be getting an upgrade with a new processor, more memory, and new colors, but Apple will also likely raise the price."
-    },
-    {
-      "title": "Splatoon Raiders 1.1.0 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/splatoon-raiders-1-1-0-update-out-now-patch-notes/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Splatoon-Raiders-1.1.0-update.jpg",
-      "published": "7/22/2026, 12:24:18 PM",
-      "desc": "Splatoon Raiders has released a day one update with version 1.1.0, and you can check out the patch notes here."
-    },
-    {
-      "title": "Sony's decision to kill off PlayStation discs could destroy the $7.2bn used game market, according to analysts - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/used-video-game-market-at-risk-sony-killing-playstation-discs",
-      "image": "https://assetsio.gnwcdn.com/discs-playstation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "7/22/2026, 12:19:08 PM",
-      "desc": "Sony decided to kill discs at a time when everyone is concerned about affordability, and it may take out the pre-owned games market along with it."
     }
   ],
   "education": [
@@ -366,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Leave the lamp on Lord",
-      "artist": "Gravel & Grace",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/13/2a/8e132a8b-7a0c-1813-2845-9f5db3e44963/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8c/3f/158c3f09-9eca-9546-015d-7c800f569c7b/mzaf_11690209707038950822.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/leave-the-lamp-on-lord/6792222773?i=6792222774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Gravel%20%26%20Grace%20Leave%20the%20lamp%20on%20Lord"
-    },
-    {
-      "rank": 5,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 5,
+      "title": "Leave the lamp on Lord",
+      "artist": "Gravel & Grace",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/13/2a/8e132a8b-7a0c-1813-2845-9f5db3e44963/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8c/3f/158c3f09-9eca-9546-015d-7c800f569c7b/mzaf_11690209707038950822.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/leave-the-lamp-on-lord/6792222773?i=6792222774&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Gravel%20%26%20Grace%20Leave%20the%20lamp%20on%20Lord"
     },
     {
       "rank": 6,
@@ -429,15 +437,6 @@
     },
     {
       "rank": 11,
-      "title": "These Alarms",
-      "artist": "Snow Patrol & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2f/4a/582f4a16-048d-5cc2-e722-8ed21d8f6cc1/4099964270594.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/a4/8a/63a48a76-6623-4446-1529-927d0cb05432/mzaf_3365435072013702547.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/these-alarms/6778102323?i=6778102328&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20%26%20Kylie%20Minogue%20These%20Alarms"
-    },
-    {
-      "rank": 12,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
@@ -446,16 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
-      "rank": 13,
-      "title": "Sad Songs And Lawsuits",
-      "artist": "Paul Heaton",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/2b/fd/2c2bfdc4-5b5a-ed03-a5b4-a966f573c795/26UMGIM53350.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/8e/90/b48e90d3-c1bd-a76b-2698-0b7d8dc16b81/mzaf_13990404380491114422.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sad-songs-and-lawsuits/6771022069?i=6771022076&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Paul%20Heaton%20Sad%20Songs%20And%20Lawsuits"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -464,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 13,
+      "title": "Asleep Talking",
+      "artist": "Magnus Ferrell",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/06/a3/1906a390-b3f1-739c-a5aa-8cd6a840b6fc/26UMGIM43253.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/a1/60/4fa16043-1fe3-077f-015e-44c82f61f148/mzaf_6753293093767603633.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/asleep-talking/1892157897?i=1892157901&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Magnus%20Ferrell%20Asleep%20Talking"
+    },
+    {
+      "rank": 14,
+      "title": "These Alarms",
+      "artist": "Snow Patrol & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2f/4a/582f4a16-048d-5cc2-e722-8ed21d8f6cc1/4099964270594.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/a4/8a/63a48a76-6623-4446-1529-927d0cb05432/mzaf_3365435072013702547.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/these-alarms/6778102323?i=6778102328&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20%26%20Kylie%20Minogue%20These%20Alarms"
+    },
+    {
       "rank": 15,
-      "title": "The Puerto Rico Song",
-      "artist": "Saxboy Billy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/9c/91/229c91aa-f6bc-b90b-3a35-71d4eb13c732/26SYMIM30323.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/00/d7/86/00d786a6-492d-1eae-a15b-7053fc381123/mzaf_1073314407428641012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/the-puerto-rico-song/6766473604?i=6766473605&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Saxboy%20Billy%20The%20Puerto%20Rico%20Song"
+      "title": "Sad Songs And Lawsuits",
+      "artist": "Paul Heaton",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/2b/fd/2c2bfdc4-5b5a-ed03-a5b4-a966f573c795/26UMGIM53350.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/8e/90/b48e90d3-c1bd-a76b-2698-0b7d8dc16b81/mzaf_13990404380491114422.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/sad-songs-and-lawsuits/6771022069?i=6771022076&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Paul%20Heaton%20Sad%20Songs%20And%20Lawsuits"
     }
   ],
   "movies": [
@@ -512,21 +520,21 @@
     },
     {
       "rank": 5,
+      "title": "The Dink",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
+    },
+    {
+      "rank": 6,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 6,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 7,
@@ -539,12 +547,12 @@
     },
     {
       "rank": 8,
-      "title": "The Devil Wears Prada 2",
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     }
   ],
   "tv": [
@@ -559,6 +567,15 @@
     },
     {
       "rank": 2,
+      "title": "King of the Hill",
+      "year": "1997",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "url": "https://www.themoviedb.org/tv/2122"
+    },
+    {
+      "rank": 3,
       "title": "Spooky in Love",
       "year": "2026",
       "cert": "12",
