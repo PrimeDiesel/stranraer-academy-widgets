@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-24T05:51:39.173Z",
+  "updated": "2026-07-24T08:29:26.571Z",
   "news": [
+    {
+      "title": "London link-ups: What's behind teenage mass gatherings?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyyxpy13do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4788/live/6c73b320-8655-11f1-8bc3-95f8c3a93002.png",
+      "published": "7/23/2026, 7:37:23 AM",
+      "desc": "In March hundreds of teens running down Clapham High Street hit news headlines - but what actually happened?"
+    },
+    {
+      "title": "Police officer was violent rapist who attacked women over 14 years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/23/2026, 5:52:30 AM",
+      "desc": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated."
+    },
     {
       "title": "'What was their crime?': BBC visits Iran school in Minab where strike killed 120 children",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a4d/live/49c03a00-8656-11f1-bee8-53ce494e1abc.jpg",
       "published": "7/23/2026, 5:37:19 AM",
       "desc": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab."
-    },
-    {
-      "title": "Most sewage spills in England may be illegal, new research suggests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6e/live/65772b70-85f0-11f1-8ade-a7a676c613b9.jpg",
-      "published": "7/23/2026, 4:37:20 AM",
-      "desc": "The new analysis from a prominent water campaigner emerged after secret court documents were leaked."
     },
     {
       "title": "Houthis claim attack on Saudi tankers in Red Sea",
@@ -56,17 +64,49 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41e4/live/9d09f630-85fa-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/23/2026, 12:22:25 AM",
       "desc": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible."
-    },
-    {
-      "title": "Airport drop-off fees up by a third - here are the priciest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37bb/live/4f2cc100-85f9-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/23/2026, 12:22:23 AM",
-      "desc": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports."
     }
   ],
   "sports": [
+    {
+      "title": "Wolves: Striker Tolu Arokodare forces training to be cancelled",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/452a/live/296641b0-85dd-11f1-9837-c51febdbeb82.jpg",
+      "published": "7/23/2026, 8:37:22 AM",
+      "desc": "Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch."
+    },
+    {
+      "title": "UFC: Jessica Andrade says she is working as a delivery driver to earn money",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/crmr7e7r328o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/022e/live/0e190860-8660-11f1-93cb-95d7eb12ec49.jpg",
+      "published": "7/23/2026, 7:22:15 AM",
+      "desc": "Jessica Andrade says she will do \"whatever it takes\" to earn a living as she recovers from injury.\n\nhas been working as a delivery driver to earn extra money while she is recovering from injury."
+    },
+    {
+      "title": "How to Watch LIV Golf United Kingdom 2026: Dates, Times, TV Channel, Streaming",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/golf/how-watch-liv-golf-united-kingdom-2026-dates-times-tv-channel-streaming",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/watch-liv-golf-uk.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 6:52:18 AM",
+      "desc": "LIV Golf heads to England this weekend for LIV Golf United Kingdom. Here's the schedule, TV channel and how to stream all four rounds."
+    },
+    {
+      "title": "Commonwealth Games: Netball's basketball roots and 2032 Olympic dreams",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/netball/articles/cze9zwlwy42o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c92/live/9bd81010-85b1-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/23/2026, 6:37:18 AM",
+      "desc": "Derived from basketball and developed by teenagers in late-Victorian England, netball is sport's great misunderstood \"girly game\". It could be heading to the Olympics in 2032."
+    },
+    {
+      "title": "Is 2026 the Commonwealth Games' last dance or a future-proofing revamp?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/articles/cj9dnk2p2dlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/209c/live/f463b0d0-85a8-11f1-a300-4537eea2be58.jpg",
+      "published": "7/23/2026, 6:07:18 AM",
+      "desc": "It's been going for 96 years - but many doubted the 2026 Commonwealth Games, which open in Glasgow on Thursday, would happen. So what could the future hold for the event?"
+    },
     {
       "title": "Elliot Anderson and Morgan Rogers - Why English midfielders are so in demand",
       "source": "BBC Sport",
@@ -170,46 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be0a/live/c74dda90-8606-11f1-b9cd-6338e3c7c965.jpg",
       "published": "7/22/2026, 9:07:23 PM",
       "desc": "Miami Heat mistakenly post a link on YouTube to LeBron James' 'introductory press conference' despite the NBA great not yet deciding where he will play next season."
-    },
-    {
-      "title": "William Saliba: Arsenal and France defender set for spell on the sidelines with back injury",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ae5/live/df2c8db0-860a-11f1-8577-d306e957ffb1.jpg",
-      "published": "7/22/2026, 8:52:18 PM",
-      "desc": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France."
-    },
-    {
-      "title": "World Matchplay 2026: Cameron Menzies receives medical care after being taken ill on stage",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/618d/live/305f6ca0-8603-11f1-b3d1-d772829dc047.jpg",
-      "published": "7/22/2026, 8:22:21 PM",
-      "desc": "Cameron Menzies needs medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday."
-    },
-    {
-      "title": "Casemiro Signs Joins Inter Miami As MLS Launches Investigation Into Tampering",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/casemiro-signs-with-inter-miami-but-mls-investigating-the-club-for-possible-tampering",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2283889811-scaled-e1784745093737.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 7:07:21 PM",
-      "desc": "Brazil midfielder and five-time Champions League winner Casemiro joins Inter Miami as Major League Soccer investigates whether the reigning league champion engaged in tampering."
-    },
-    {
-      "title": "Casemiro: Inter Miami being investigated for tampering after signing ex-Manchester United midfielder",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7168/live/714cd7f0-85f1-11f1-8ade-a7a676c613b9.jpg",
-      "published": "7/22/2026, 6:52:26 PM",
-      "desc": "Major League Soccer says it is investigating allegations of tampering by Inter Miami after the club signed Brazil midfielder Casemiro."
-    },
-    {
-      "title": "2026 NASCAR Odds: Denny Hamlin Favored For Brickyard 400; Larson One To Watch",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-indianapolis-brickyard-400",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/denny-hamlin_favorite_brickyard_nascar_odds.jpg?ve=1&tl=1",
-      "published": "7/22/2026, 6:52:21 PM",
-      "desc": "Will Denny Hamlin find his way into Victory Lane for the fifth time this season when Cup goes to Indy? Here are the odds for the Brickyard 400."
     }
   ],
   "tech": [
@@ -392,21 +392,21 @@
     },
     {
       "rank": 6,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 7,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 7,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 8,
@@ -455,21 +455,21 @@
     },
     {
       "rank": 13,
-      "title": "Asleep Talking",
-      "artist": "Magnus Ferrell",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/06/a3/1906a390-b3f1-739c-a5aa-8cd6a840b6fc/26UMGIM43253.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/a1/60/4fa16043-1fe3-077f-015e-44c82f61f148/mzaf_6753293093767603633.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/asleep-talking/1892157897?i=1892157901&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Magnus%20Ferrell%20Asleep%20Talking"
-    },
-    {
-      "rank": 14,
       "title": "These Alarms",
       "artist": "Snow Patrol & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2f/4a/582f4a16-048d-5cc2-e722-8ed21d8f6cc1/4099964270594.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/a4/8a/63a48a76-6623-4446-1529-927d0cb05432/mzaf_3365435072013702547.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/these-alarms/6778102323?i=6778102328&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20%26%20Kylie%20Minogue%20These%20Alarms"
+    },
+    {
+      "rank": 14,
+      "title": "Asleep Talking",
+      "artist": "Magnus Ferrell",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/06/a3/1906a390-b3f1-739c-a5aa-8cd6a840b6fc/26UMGIM43253.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/a1/60/4fa16043-1fe3-077f-015e-44c82f61f148/mzaf_6753293093767603633.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/asleep-talking/1892157897?i=1892157901&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Magnus%20Ferrell%20Asleep%20Talking"
     },
     {
       "rank": 15,
@@ -493,21 +493,21 @@
     },
     {
       "rank": 2,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 3,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
       "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 3,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 4,
@@ -547,12 +547,12 @@
     },
     {
       "rank": 8,
-      "title": "Minions & Monsters",
+      "title": "The Devil Wears Prada 2",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
     }
   ],
   "tv": [
@@ -567,21 +567,21 @@
     },
     {
       "rank": 2,
-      "title": "King of the Hill",
-      "year": "1997",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-      "url": "https://www.themoviedb.org/tv/2122"
-    },
-    {
-      "rank": 3,
       "title": "Spooky in Love",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
       "url": "https://www.themoviedb.org/tv/298610"
+    },
+    {
+      "rank": 3,
+      "title": "King of the Hill",
+      "year": "1997",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "url": "https://www.themoviedb.org/tv/2122"
     }
   ]
 }
