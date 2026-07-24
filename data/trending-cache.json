@@ -1,9 +1,349 @@
 {
-  "updated": "2026-07-24T11:05:41.172Z",
-  "news": [],
-  "sports": [],
-  "tech": [],
-  "education": [],
+  "updated": "2026-07-24T12:24:58.437Z",
+  "news": [
+    {
+      "title": "Police missed chance to examine Manchester synagogue attacker's phone",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3d3507ng37o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db06/live/4846a370-8684-11f1-b60e-a7e0943a9c78.jpg",
+      "published": "7/23/2026, 12:22:23 PM",
+      "desc": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack."
+    },
+    {
+      "title": "Millionaires ask Andy Burnham to tax them more",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a2a/live/73191cf0-8674-11f1-8c77-df97511a6b05.jpg",
+      "published": "7/23/2026, 10:22:18 AM",
+      "desc": "Former footballer Gary Lineker and producer Brian Eno write to the new PM telling him \"we can afford it\"."
+    },
+    {
+      "title": "Cwmbran mum run over by own car while saving cat, inquest hears",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djneeywno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eca0/live/a095c9b0-8676-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/23/2026, 9:37:31 AM",
+      "desc": "Jacqueline Davies was able to dial 999 after the incident, but died in hospital the following day."
+    },
+    {
+      "title": "Around 12,000 evacuated in France fires as firefighter killed in Italy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17db/live/d97d13d0-8673-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/23/2026, 9:37:30 AM",
+      "desc": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
+    },
+    {
+      "title": "London link-ups: What's behind teenage mass gatherings?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyyxpy13do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4788/live/6c73b320-8655-11f1-8bc3-95f8c3a93002.png",
+      "published": "7/23/2026, 7:37:23 AM",
+      "desc": "In March hundreds of teens running down Clapham High Street hit news headlines - but what actually happened?"
+    },
+    {
+      "title": "Police officer was violent rapist who attacked women over 14 years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "7/23/2026, 5:52:30 AM",
+      "desc": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated."
+    },
+    {
+      "title": "'What was their crime?': BBC visits Iran school in Minab where strike killed 120 children",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a4d/live/49c03a00-8656-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/23/2026, 5:37:19 AM",
+      "desc": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab."
+    },
+    {
+      "title": "Airport drop-off fees up by a third - here are the priciest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37bb/live/4f2cc100-85f9-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/23/2026, 12:22:23 AM",
+      "desc": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Commonwealth Games: Katerina Johnson-Thompson out injured - why do athletes keep withdrawing?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1cf/live/2b5a5600-868c-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/23/2026, 12:37:27 PM",
+      "desc": "Olympic silver medallist Katarina Johnson-Thompson pulls out of the Commonwealth Games because of injury."
+    },
+    {
+      "title": "Leeds United: Leeds in talks to sign goalkeeper James Trafford from Manchester City",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/clyl7eve9ddo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da7c/live/51374ce0-868f-11f1-a8a9-6d36c8f2857e.jpg",
+      "published": "7/23/2026, 12:37:22 PM",
+      "desc": "Leeds United are in discussions with Manchester City to sign goalkeeper James Trafford."
+    },
+    {
+      "title": "Tyreek Hill posts workout video, says still 'no power' in leg - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49431301/tyreek-hill-posts-workout-video-says-no-power-leg",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0619%2Fr1508481_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 11:41:21 AM",
+      "desc": "Tyreek Hill posted a workout video in which he discussed his ongoing recovery from a dislocated knee and multiple ligament tears, saying he still has \"no power\" in his left leg."
+    },
+    {
+      "title": "Newcastle: Aladji Bamba £34m deal agreed with Monaco",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr593z81lqno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4771/live/107a3170-8682-11f1-b60e-a7e0943a9c78.jpg",
+      "published": "7/23/2026, 10:52:27 AM",
+      "desc": "Midfielder Aladji Bamba is due to arrive on Thursday for a medical and to sign a long-term contract."
+    },
+    {
+      "title": "Norway FA chief to file ethics complaint, says FIFA's Infantino must admit Folarin Balogun 'error' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49430499/norway-fa-chief-gianni-infantino-admit-folarin-balogun-error-donald-trump-complaint",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0705%2Fr1684950_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 9:51:00 AM",
+      "desc": "The president of the the Norwegian Football Federation (NFF) has said she will ask her board to pursue a formal ethics complaint over the suspension of Folarin Balogun's World Cup ban."
+    },
+    {
+      "title": "LIV Golf future: Martin Kaymer expresses doubts about circuit",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c8dn9rpev80o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b30d/live/97278f00-866f-11f1-93cb-95d7eb12ec49.jpg",
+      "published": "7/23/2026, 9:22:21 AM",
+      "desc": "Martin Kaymer says it is \"highly unlikely\" LIV Golf's 2026 team championship will take place as he expresses doubt over the circuit's future."
+    },
+    {
+      "title": "Ashes 2027 fixtures: England-Australia men's and women's series to start in June",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c1e1zl2qgpxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17d4/live/7b642f00-8668-11f1-926f-c90d1bcfbc84.png",
+      "published": "7/23/2026, 9:07:23 AM",
+      "desc": "England's men will not play an Ashes Test against Australia in the north of England next summer."
+    },
+    {
+      "title": "World Cup 2026: Fabian Ruiz and Gavi get weight in tomatoes for win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cvg840jye74o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b526/live/da1a9c10-8662-11f1-93cb-95d7eb12ec49.jpg",
+      "published": "7/23/2026, 8:52:19 AM",
+      "desc": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca."
+    },
+    {
+      "title": "UFC: Jessica Andrade says she is working as a delivery driver to earn money",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/crmr7e7r328o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/022e/live/0e190860-8660-11f1-93cb-95d7eb12ec49.jpg",
+      "published": "7/23/2026, 7:22:15 AM",
+      "desc": "Jessica Andrade says she will do \"whatever it takes\" to earn a living as she recovers from injury.\n\nhas been working as a delivery driver to earn extra money while she is recovering from injury."
+    },
+    {
+      "title": "How to Watch LIV Golf United Kingdom 2026: Dates, Times, TV Channel, Streaming",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/golf/how-watch-liv-golf-united-kingdom-2026-dates-times-tv-channel-streaming",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/watch-liv-golf-uk.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 6:52:18 AM",
+      "desc": "LIV Golf heads to England this weekend for LIV Golf United Kingdom. Here's the schedule, TV channel and how to stream all four rounds."
+    },
+    {
+      "title": "Commonwealth Games: Netball's basketball roots and 2032 Olympic dreams",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/netball/articles/cze9zwlwy42o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c92/live/9bd81010-85b1-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/23/2026, 6:37:18 AM",
+      "desc": "Derived from basketball and developed by teenagers in late-Victorian England, netball is sport's great misunderstood \"girly game\". It could be heading to the Olympics in 2032."
+    },
+    {
+      "title": "Elliot Anderson and Morgan Rogers - Why English midfielders are so in demand",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/511a/live/06cf37f0-85e3-11f1-8ade-a7a676c613b9.jpg",
+      "published": "7/23/2026, 5:37:15 AM",
+      "desc": "Elliot Anderson and Morgan Rogers both sold for record transfer fees for midfielders, so why are English midfielders so in demand?"
+    },
+    {
+      "title": "Trade for Skubal? Stand Pat? The Dodgers Can Afford Any Option At Trade Deadline",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/trade-skubal-stand-pat-why-dodgers-can-go-any-direction-want-deadline",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/5dce6caf-skubaldodgers.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 5:07:25 AM",
+      "desc": "The Dodgers have no glaring needs at the deadline, but they have the resources to push as far as they want in their quest to three-peat."
+    },
+    {
+      "title": "Red Sox Win Streak Halted At 15, Fall Short Of Franchise Mark In Loss To O&#39;s",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/orioles-halt-red-soxs-franchise-recordtying-15-game-win-streak-with-51-win-to-split-twinbill",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/redsox-scaled.jpg?ve=1&tl=1",
+      "published": "7/23/2026, 5:07:24 AM",
+      "desc": "The Baltimore Orioles ended Boston’s franchise record-tying 15-game winning streak."
+    },
+    {
+      "title": "Fever's Clark earns 7th technical foul; one away from 1-game ban - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49429632/fever-clark-earns-7th-technical-foul-one-away-1-game-ban",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0625%2Fr1679137_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 4:56:44 AM",
+      "desc": "Fever guard Caitlin Clark is one technical foul away from an automatic one-game suspension after she picked up her seventh of the season after jawing with Connecticut's Saniya Rivers on Wednesday night."
+    },
+    {
+      "title": "Orioles end Red Sox's record-tying 15-game winning streak - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49428964/orioles-end-red-sox-record-tying-15-game-winning-streak",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2Fr1692665_1296x729_16%2D9.jpg",
+      "published": "7/23/2026, 2:32:07 AM",
+      "desc": "The Orioles ended Boston's franchise record-tying 15-game winning streak in the nightcap of a doubleheader Wednesday."
+    },
+    {
+      "title": "Charlie Woods out at U.S. Junior Amateur after camera click - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49427951/charlie-woods-us-junior-amateur-camera-click",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0210%2Fr1613397_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 11:17:17 PM",
+      "desc": "Charlie Woods failed to reach match play in the U.S. Junior Amateur after being bothered by the clicking sound of a phone camera during his third shot of the first playoff hole."
+    },
+    {
+      "title": "Yankees' Caballero hit with pitch clock violation in crackdown - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49427759/yankees-caballero-hit-pitch-clock-violation-crackdown",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692584_1296x729_16%2D9.jpg",
+      "published": "7/22/2026, 10:40:03 PM",
+      "desc": "Yankees shortstop José Caballero was charged with a pitch clock violation in the sixth inning that led to a strikeout and the ejection of hitting coach James Rowson on Wednesday."
+    }
+  ],
+  "tech": [
+    {
+      "title": "Google now lets you sign in to your account using a selfie video - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/23/2026, 10:00:00 AM",
+      "desc": "Capturing a short selfie video of your moving face is Google’s latest approach to streamlining access to your account."
+    },
+    {
+      "title": "The fight for the future of foldable phones is here - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-Samsung-fold-aa-538-e8ca18.jpg",
+      "published": "7/23/2026, 4:30:00 AM",
+      "desc": "Samsung has owned the market for foldable phones. Now Apple is getting in on it. NBC News chief tech analyst Joanna Stern breaks it down."
+    },
+    {
+      "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
+      "image": "https://helios-i.mashable.com/imagery/articles/00bmlFYXKkX5DOgEBjGTUKx/hero-image.fill.size_1200x675.v1784656829.jpg",
+      "published": "7/23/2026, 1:12:05 AM",
+      "desc": "Sorry, no Classic model this year."
+    },
+    {
+      "title": "MacBook Neo 2: Here’s everything we know so far - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/23/2026, 12:55:00 AM",
+      "desc": "Apple's next MacBook Neo is reportedly coming in 2027 with the better performance, new colors, and more. Here's everything we know."
+    },
+    {
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
+      "published": "7/22/2026, 8:36:19 PM",
+      "desc": "First four compatible titles can be run with an 11-year-old graphics card."
+    },
+    {
+      "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8 - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/22/2026, 7:41:00 PM",
+      "desc": "The Galaxy Z Fold 8 and Flip 8 are the first devices with Gemini Intelligence, as well as Gemini Nano 4..."
+    },
+    {
+      "title": "Disgaea Creator Explains Why Physical Games Are So Important - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/disagaea-creator-says-playstation-might-as-well-stop-making-consoles-if-its-going-to-stop-making-discs-2000718456",
+      "image": "https://kotaku.com/app/uploads/2026/07/disgaea-1200x675.jpg",
+      "published": "7/22/2026, 7:18:58 PM",
+      "desc": "The former NIS president had some harsh words for the decision"
+    },
+    {
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published": "7/22/2026, 7:13:21 PM",
+      "desc": "Code found in an iOS 27 beta would reportedly allow Apple to put financed devices in “Restricted Mode,” blocking access to nearly all apps."
+    }
+  ],
+  "education": [
+    {
+      "title": "New words – 20 July 2026",
+      "source": "Cambridge.org",
+      "url": "https://dictionaryblog.cambridge.org/2026/07/20/new-words-20-july-2026/",
+      "image": "https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/07/graduation-creep.jpg?fit=600%2C400&ssl=1",
+      "published": "7/20/2026, 6:00:13 AM",
+      "desc": "graduation creep noun [U] /ˌgrædʒ.uˈeɪ.ʃᵊn ˌkriːp/ the trend for graduation ceremonies to be held for pupils and students at lower levels of education and not just for university graduates Previously, events like these may have involved little more than a sin…"
+    },
+    {
+      "title": "Scots pupils lose out on university places to make way for fee-paying students",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15974675/Scots-university-fee-paying-students.html",
+      "image": "https://i.dailymail.com/1s/2026/07/13/19/109992321-0-image-a-35_1783969178877.jpg",
+      "published": "7/13/2026, 7:33:15 PM",
+      "desc": "Scots pupils are being turned away from last-minute places at university in favour of people from other parts of the UK or abroad who pay tuition fees."
+    },
+    {
+      "title": "Could ChatGPT weaken your brain and raise your chances of dementia? Experts reveal why 'cognitive offloading' poses a risk to YOUR memory",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/health/article-15974055/chatgpt-ai-dementia-risk-expert-warning.html",
+      "image": "https://i.dailymail.com/1s/2026/07/13/15/109987039-0-image-a-13_1783954654687.jpg",
+      "published": "7/13/2026, 4:01:50 PM",
+      "desc": "It's fair to say the AI revolution is well and truly under way in homes, schools, universities and businesses across the UK."
+    },
+    {
+      "title": "Meningitis B: Teenagers warned ‘don’t leave it to chance’ and to get jab after deadly university outbreaks",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/life-style/health-and-families/health-news/meningitis-b-vaccine-nhs-pharmacy-university-b3013482.html",
+      "image": "https://static.the-independent.com/2026/07/12/17/01KXAK896JZ3FB403ASFQ20J74.jpg?trim=168,0,168,0&width=1200&height=800&crop=1200:800",
+      "published": "7/12/2026, 11:01:00 PM",
+      "desc": "The risk of MenB for first-year university students is about seven times higher than people a similar age who did not go to university"
+    },
+    {
+      "title": "Recalibrate basic education",
+      "source": "The Punch",
+      "url": "https://punchng.com/recalibrate-basic-education/",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/Tunji-Alausa-1062x598-1.webp",
+      "published": "7/6/2026, 12:06:25 AM",
+      "desc": "Nigeria plans to overhaul its basic education system, moving to a 12-year model. Discover the reasons behind the change and its potential impact on student\n\nRead More: https://punchng.com/recalibrate-basic-education/"
+    },
+    {
+      "title": "Another Christian private school announces closure",
+      "source": "Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/another-christian-private-school-announces-closure",
+      "image": "https://www.christiantoday.com/media/original/thumbnail/14/51/145183.png",
+      "published": "7/3/2026, 12:14:00 PM",
+      "desc": "Around 100 schools are believed to have closed following Labour's VAT raid."
+    },
+    {
+      "title": "Attorney General launches free Rule of Law lesson plans for every school in England and Wales",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/attorney-general-launches-free-rule-of-law-lesson-plans-for-every-school-in-england-and-wales",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "published": "7/2/2026, 4:46:53 PM",
+      "desc": "Free, classroom-ready lesson plans on the rule of law are now available to every school in the UK, following a new partnership between the Attorney General's Office, Oak National Academy and the Association for Citizenship Teachers."
+    },
+    {
+      "title": "Boys Are So Unprepared by the Education System That They’re Hitting High School Unable to Read Anything More Challenging That a Children’s Book",
+      "source": "Futurism",
+      "url": "https://futurism.com/future-society/teen-boys-reading-children-books",
+      "image": "https://futurism.com/wp-content/uploads/2026/06/teen-boys-reading-children-books.jpg?w=1200",
+      "published": "7/1/2026, 12:45:46 PM",
+      "desc": "This \"is a clear call to action.\"\nThe post Boys Are So Unprepared by the Education System That They’re Hitting High School Unable to Read Anything More Challenging That a Children’s Book appeared first on Futurism."
+    }
+  ],
   "music": [
     {
       "rank": 1,
@@ -171,15 +511,6 @@
     },
     {
       "rank": 4,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 5,
       "title": "The Mandalorian and Grogu",
       "year": "2026",
       "cert": "12A",
@@ -188,7 +519,7 @@
       "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
@@ -197,22 +528,13 @@
       "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
-      "rank": 7,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
-      "title": "The Devil Wears Prada 2",
+      "rank": 6,
+      "title": "Michael",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
