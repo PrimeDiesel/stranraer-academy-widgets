@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-25T09:02:24.431Z",
+  "updated": "2026-07-25T10:37:10.913Z",
   "news": [
+    {
+      "title": "How much is Edinburgh's tourist tax and who pays it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8j37839o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/986c/live/814a9620-86a9-11f1-a0b6-435e4178a497.jpg",
+      "published": "7/24/2026, 10:22:31 AM",
+      "desc": "The Scottish capital has become the first city in the country to introduce a charge for overnight stays."
+    },
+    {
+      "title": "Southport killer Axel Rudakubana manipulating the system, families' lawyer says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg",
+      "published": "7/24/2026, 10:22:23 AM",
+      "desc": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire."
+    },
     {
       "title": "Angela Rayner rules out rent controls in England",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dad3/live/0e54c2b0-872d-11f1-9733-edfe8d3e29a7.jpg",
       "published": "7/24/2026, 7:37:20 AM",
       "desc": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight."
-    },
-    {
-      "title": "How the Gordie Howe bridge became symbol of a strained US-Canada relationship",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4821/live/4efd41f0-86bc-11f1-bee8-53ce494e1abc.jpg",
-      "published": "7/24/2026, 6:37:21 AM",
-      "desc": "The new Gordie Howe International Bridge between Michigan and Ontario is about to open, but Donald Trump's latest tariffs on Canada have muted celebrations."
     },
     {
       "title": "Hero swimmer helped two children at West Mersea beach tragedy",
@@ -56,17 +64,49 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff64/live/f3c8cc20-8673-11f1-8c77-df97511a6b05.jpg",
       "published": "7/24/2026, 12:52:19 AM",
       "desc": "Andrea Urmston knew she had an adopted brother, only to discover he was already her closest friend."
-    },
-    {
-      "title": "Newspaper headlines: 'Burnham eager to get drilling' and 'Tardis fit for a King'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gzgewv0vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66e3/live/ffbeb920-86e8-11f1-8df9-7fca7a97281e.png",
-      "published": "7/24/2026, 12:07:13 AM",
-      "desc": "The papers are focusing on different aspects of Andy Burnham's first week in the top job."
     }
   ],
   "sports": [
+    {
+      "title": "Harry Kane: Bayern Munich to open new contract talks with England captain",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cly5d2n2879o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53b9/live/a31396b0-8741-11f1-a10e-a5d4f08bc20c.jpg",
+      "published": "7/24/2026, 9:52:33 AM",
+      "desc": "Harry Kane is set to begin talks over a new Bayern Munich contract, with Barcelona and various Saudi Arabian clubs reportedly interested in the England captain."
+    },
+    {
+      "title": "Pep Guardiola: Ex-Manchester City manager says no to Italy job",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/88f9/live/81e5a190-8741-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/24/2026, 9:52:27 AM",
+      "desc": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy."
+    },
+    {
+      "title": "World Cup 2026: Jurgen Klopp must sway doubters in Germany rebuild",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de13/live/50669790-7f09-11f1-b84f-df00e7069bf1.jpg",
+      "published": "7/24/2026, 9:52:25 AM",
+      "desc": "Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet."
+    },
+    {
+      "title": "Chelsea transfer news: Maxence Lacroix deal agreed with Crystal Palace",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd09/live/db2fbe10-873d-11f1-a10e-a5d4f08bc20c.jpg",
+      "published": "7/24/2026, 9:37:21 AM",
+      "desc": "Chelsea agree deal to sign France defender Maxence Lacroix from Crystal Palace after two impressive seasons."
+    },
+    {
+      "title": "Newcastle: Aladji Bamba £34m deal completed",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr593z81lqno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4771/live/107a3170-8682-11f1-b60e-a7e0943a9c78.jpg",
+      "published": "7/24/2026, 9:37:18 AM",
+      "desc": "Newcastle United have signed Monaco midfielder Aladji Bamba for a fee which could rise to £34m."
+    },
     {
       "title": "Joshua vs Prenga: The 24 hours which will make or break British super-fight",
       "source": "BBC Sport",
@@ -82,14 +122,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/58ae/live/ba5e7140-8724-11f1-9733-edfe8d3e29a7.jpg",
       "published": "7/24/2026, 6:37:25 AM",
       "desc": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney."
-    },
-    {
-      "title": "BBC Sport quiz: Who am I? Guess Premier League footballer #4",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx2d52rr559o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0bd9/live/088569b0-85b2-11f1-926f-c90d1bcfbc84.png",
-      "published": "7/24/2026, 6:07:27 AM",
-      "desc": "Will you get today's player in as few attempts as possible?"
     },
     {
       "title": "Being a women's football fan: What's working and what's missing?",
@@ -178,38 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/sankeyh1.jpg?ve=1&tl=1",
       "published": "7/23/2026, 10:52:29 PM",
       "desc": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport."
-    },
-    {
-      "title": "2026 NFL Odds: Which QB Will Lead League In Passing Yards, Touchdowns?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-qb-will-lead-league-passing-yards-touchdowns",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/burrow-720.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 10:52:28 PM",
-      "desc": "The odds say Joe Burrow is expected to have another dominant season under center."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Joe Mixon Tells Former Teammates His NFL Career Is Over",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 10:52:26 PM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "Giants Receiver Malik Nabers Avoids PUP List To Begin Training Camp",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/giants-receiver-malik-nabers-avoids-pup-list-begin-training-camp",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2236655999-scaled-e1784844646243.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 10:52:24 PM",
-      "desc": "New York Giants wide receiver Malik Nabers will avoid starting training camp on the PUP list as he continues recovering from a torn ACL."
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ravens-723.jpg?ve=1&tl=1",
-      "published": "7/23/2026, 10:52:22 PM",
-      "desc": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds heading into the 2026 season."
     }
   ],
   "tech": [
@@ -544,15 +544,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
-      "title": "The Devil Wears Prada 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
     }
   ],
   "tv": [
@@ -564,24 +555,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
       "url": "https://www.themoviedb.org/tv/298610"
-    },
-    {
-      "rank": 2,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 3,
-      "title": "King of the Hill",
-      "year": "1997",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-      "url": "https://www.themoviedb.org/tv/2122"
     }
   ]
 }
