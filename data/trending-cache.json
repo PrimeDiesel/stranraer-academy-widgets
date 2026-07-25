@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-25T20:54:12.090Z",
+  "updated": "2026-07-25T21:57:38.635Z",
   "news": [
+    {
+      "title": "Huge explosion and fire rip through Essex industrial site",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c972/live/8556aad0-87a1-11f1-838a-ddd3555e63a1.jpg",
+      "published": "7/24/2026, 9:22:19 PM",
+      "desc": "A major incident was declared as 100 firefighters battled a huge blaze south of Chelmsford."
+    },
+    {
+      "title": "Why Jimothy the raccoon has become a mega meme online",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f4/live/05f5eed0-876b-11f1-ad88-45636c6b0d72.jpg",
+      "published": "7/24/2026, 9:07:22 PM",
+      "desc": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram."
+    },
     {
       "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
       "source": "BBC News",
@@ -48,25 +64,41 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd77/live/2d94c7b0-8773-11f1-b430-afa19a42b819.jpg",
       "published": "7/24/2026, 6:07:22 PM",
       "desc": "The Royal Commission of Wales said some of these known sites have not been seen clearly in decades."
-    },
-    {
-      "title": "PlayStation Network down, leaving thousands unable to play digital games",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
-      "published": "7/24/2026, 5:37:35 PM",
-      "desc": "Sony's status page read that it was \"working to resolve the issue as soon as possible\"."
-    },
-    {
-      "title": "Andy Burnham's first week pledges - how much do they add up to?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7db1/live/f4591780-866e-11f1-926f-c90d1bcfbc84.png",
-      "published": "7/24/2026, 5:22:23 PM",
-      "desc": "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for"
     }
   ],
   "sports": [
+    {
+      "title": "Belgium Appoints Bayern Munich Legend Mark van Bommel As New Men&#39;s Head Coach",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/belgium-appoints-bayern-munich-legend-mark-van-bommel-new-mens-head-coach",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/imago-image.jpeg20charsetutf-8-2-scaled.jpg?ve=1&tl=1",
+      "published": "7/24/2026, 9:07:26 PM",
+      "desc": "The Belgian Football Association has named former Bayern Munich legend Mark van Bommel as the new head coach of the Red Devils."
+    },
+    {
+      "title": "France Star Michael Olise Shocks Fans In New York, Plays Pickup Match In Socks",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/france-star-michael-olise-shocks-fans-new-york-plays-pickup-match-socks",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2286229602-scaled.jpg?ve=1&tl=1",
+      "published": "7/24/2026, 9:07:24 PM",
+      "desc": "Bayern Munich winger Michael Olise surprised local football fans in New York City by taking part in a public recreational match."
+    },
+    {
+      "title": "Chelsea Closing In On $69 Million Deal For France Center Back Maxence Lacroix",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/chelsea-closing-69-million-deal-france-center-back-maxence-lacroix",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ab95b991-ab95b991-imago-image.jpeg20charsetutf-8-4-scaled.jpg?ve=1&tl=1",
+      "published": "7/24/2026, 9:07:21 PM",
+      "desc": "Chelsea are on the verge of completing a £52 million deal for Crystal Palace center back Maxence Lacroix."
+    },
+    {
+      "title": "Chiefs Star QB Patrick Mahomes Cleared For Practice Ahead Of Training Camp",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-star-qb-patrick-mahomes-cleared-practice-ahead-training-camp",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/patrick-mahomes-horiz-1.jpg?ve=1&tl=1",
+      "published": "7/24/2026, 9:07:19 PM",
+      "desc": "Patrick Mahomes has been cleared for practice as he continues his recovery from the ACL and LCL injury he suffered in Week 15."
+    },
     {
       "title": "Rams Target Super Bowl Champs During Uniform Reveal. Is Aaron Donald&#39;s Return Next?",
       "source": "Fox Sports",
@@ -124,14 +156,6 @@
       "desc": "CBS NFL analyst and former Dallas Cowboys quarterback Tony Romo has been arrested on suspicion of operating a vehicle while under the influence."
     },
     {
-      "title": "Alex Bowman To Retire After 2027 Citing Injuries As Reason",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/alex-bowman-driver-hendrick-2027-retire",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/abow2.jpg?ve=1&tl=1",
-      "published": "7/24/2026, 6:22:28 PM",
-      "desc": "Alex Bowman will drive the No. 48 car for Hendrick Motorsports in 2027 and then retire from full-time racing competition."
-    },
-    {
       "title": "2026 NFL MVP Odds: Josh Allen Favored, Burrow Rising",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
@@ -154,22 +178,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0615%2Fr1673442_1296x729_16%2D9.jpg",
       "published": "7/24/2026, 6:10:29 PM",
       "desc": "John Tortorella admits he was \"disappointed\" by the Golden Knights' decision not to retain him after their surprising run to the Stanley Cup Final but says he is already thinking about another coaching opportunity."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Mike Vrabel Gives Christian Gonzalez Contract Update",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "7/24/2026, 5:52:26 PM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "Mike Vrabel: DeAndre Hopkins Considering Joining Patriots&#39; Coaching Staff",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-mike-vrabel-deandre-hopkins-coach",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/deandre-hopkins.jpg?ve=1&tl=1",
-      "published": "7/24/2026, 5:52:18 PM",
-      "desc": "Could DeAndre Hopkins be mulling a move to coaching? Patriots head coach Mike Vrabel mentioned that it's a possibility."
     },
     {
       "title": "Michael Kim cards 15th-ever 59 in PGA Tour history at 3M Open - ESPN",
@@ -202,17 +210,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8669/live/86843ab0-8767-11f1-aec4-5d4d96e3f4ec.jpg",
       "published": "7/24/2026, 4:22:23 PM",
       "desc": "Adrian Newey says the new Aston Martin had showed \"promising results\" in its first on-track session at the Hungarian Grand Prix."
-    },
-    {
-      "title": "2026 NBA Finals Odds: 76ers Rise After LeBron James&#39; Shocking Arrival",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lebron-724.jpg?ve=1&tl=1",
-      "published": "7/24/2026, 4:22:20 PM",
-      "desc": "See the updated NBA title odds now that the 76ers have landed two superstars in one offseason."
     }
   ],
   "tech": [
+    {
+      "title": "Roku raises streaming stick prices by up to 60 percent - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg",
+      "published": "7/24/2026, 7:41:06 PM",
+      "desc": "Roku blames RAM shortage after CEO called it \"great\" for business in May."
+    },
+    {
+      "title": "'See You in the Sequel': Halo 2 Remake All But Confirmed - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/see-you-in-the-sequel-halo-2-remake-all-but-confirmed",
+      "image": "https://images.pushsquare.com/aa8614350d2ac/large.jpg",
+      "published": "7/24/2026, 6:22:10 PM",
+      "desc": "Bonus cutscene in Legendary ending"
+    },
     {
       "title": "Google confirms Pixel 11 price increase, reveals ‘dedicated’ effort to make Android more RAM-efficient - 9to5Google",
       "source": "9to5google.com",
@@ -220,6 +236,22 @@
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-family-top-down-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/24/2026, 6:03:00 PM",
       "desc": "Ahead of the Pixel 11 launch, the Google hardware division detailed how it's impacted by the “severe, supplier-driven RAM memory crisis.”"
+    },
+    {
+      "title": "Nothing calls ‘fake news’ on shutdown report while confirming key changes - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/24/nothing-shutdown-report-denial/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/24/2026, 5:35:00 PM",
+      "desc": "Following a report earlier today, Nothing says that it is not exiting markets, but it is making some key changes..."
+    },
+    {
+      "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028 - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028",
+      "image": "https://assetsio.gnwcdn.com/tomb-raider-catalyst-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/24/2026, 5:06:13 PM",
+      "desc": "Amazon head of gaming Jeffrey Gattis broke the news following the company's decision to delay its Tomb Raider 1 \"reimagining\" into next year."
     },
     {
       "title": "PlayStation Network down, leaving thousands of gamers unable to play - BBC",
@@ -238,44 +270,12 @@
       "desc": "Japanese digital download codes for GTA 6 expire less than six months after launch"
     },
     {
-      "title": "Lara Croft's Newest PS5 Game Tomb Raider Catalyst Delayed to 2028 - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/lara-crofts-newest-ps5-game-tomb-raider-catalyst-delayed-to-2028",
-      "image": "https://images.pushsquare.com/ce0bf0052d232/large.jpg",
-      "published": "7/24/2026, 4:15:00 PM",
-      "desc": "Made to wait for Croft's next adventure"
-    },
-    {
-      "title": "Pokémon Champions Regulation M-B Double Battles Overview - Pokemon.com",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/features/pokemon-champions-regulation-m-b-double-battles-overview",
-      "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/strategy/2026/regulation-m-b/pokemon-champions-169.png",
-      "published": "7/24/2026, 3:19:12 PM",
-      "desc": "Mega-Evolved Pokémon dominate the landscape. Which will rise to the top at upcoming competitions?"
-    },
-    {
-      "title": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
-      "image": "https://images.macrumors.com/t/3zzm7VcAA2sRjc5kWZgZmdLwbEI=/2000x/article-new/2024/09/iphone-16-teal.jpg",
-      "published": "7/24/2026, 3:10:00 PM",
-      "desc": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could..."
-    },
-    {
-      "title": "Boox’s New Tiny E-Reader Could Shake Up the Market - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/booxs-new-tiny-e-reader-could-shake-up-the-market-2000790361",
-      "image": "https://gizmodo.com/app/uploads/2026/07/picco-1200x675.jpg",
-      "published": "7/24/2026, 2:35:44 PM",
-      "desc": "The Boox Picco will be the company's smallest e-reader yet."
-    },
-    {
-      "title": "5 Galaxy Z Fold 8 features the iPhone Ultra Fold will struggle to top - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-features-iphone-fold-cant-top",
-      "image": "https://helios-i.mashable.com/imagery/articles/06VheAwzJHKLMXg6qCqXWkb/hero-image.fill.size_1200x675.v1784845585.jpg",
-      "published": "7/24/2026, 2:31:27 PM",
-      "desc": "Apple's rumored foldable may have a steep hill to climb."
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
+      "published": "7/24/2026, 3:41:44 PM",
+      "desc": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services."
     }
   ],
   "education": [
@@ -493,21 +493,21 @@
     },
     {
       "rank": 2,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 3,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
       "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 3,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
       "rank": 4,
@@ -538,21 +538,30 @@
     },
     {
       "rank": 7,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 8,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
