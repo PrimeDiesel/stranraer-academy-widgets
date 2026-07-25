@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-25T21:57:38.635Z",
+  "updated": "2026-07-25T22:56:44.206Z",
   "news": [
+    {
+      "title": "Firefighters battle Madrid blaze, as thousands evacuated in France and Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aed2/live/0070b2b0-87a7-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "7/24/2026, 10:22:27 PM",
+      "desc": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
+    },
     {
       "title": "Huge explosion and fire rip through Essex industrial site",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c972/live/8556aad0-87a1-11f1-838a-ddd3555e63a1.jpg",
       "published": "7/24/2026, 9:22:19 PM",
       "desc": "A major incident was declared as 100 firefighters battled a huge blaze south of Chelmsford."
-    },
-    {
-      "title": "Why Jimothy the raccoon has become a mega meme online",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f4/live/05f5eed0-876b-11f1-ad88-45636c6b0d72.jpg",
-      "published": "7/24/2026, 9:07:22 PM",
-      "desc": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram."
     },
     {
       "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
@@ -68,6 +68,54 @@
   ],
   "sports": [
     {
+      "title": "Commonwealth Games 2026 RECAP Glasgow - Duncan Scott wins gold, Gabriel Langton alarming gymnastics fall",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/live/cq81lp8e5yqt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b214/live/e6907a50-878e-11f1-9428-e17279226993.jpg",
+      "published": "7/24/2026, 10:52:21 PM",
+      "desc": "Follow live text updates, results and medal table from day one from the Commonwealth Games in Glasgow."
+    },
+    {
+      "title": "3M Open: Michael Kim feels 'pretty cool' after a historic round of 59",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/cpvw4kev14mo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22a2/live/80ee5760-8790-11f1-9d55-0b6742729f5d.jpg",
+      "published": "7/24/2026, 10:52:18 PM",
+      "desc": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under par round of 59 at the 3M Open in Minnesota."
+    },
+    {
+      "title": "Packers CEO says financial bump needed to stay competitive - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49442413/packers-ceo-says-financial-bump-needed-stay-competitive",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0210%2Fr53354_1296x729_16%2D9.jpg",
+      "published": "7/24/2026, 10:13:16 PM",
+      "desc": "Packers president/CEO Ed Policy says adjustments may be necessary as the NFL's only publicly owned franchise attempts to remain financially competitive in the long term."
+    },
+    {
+      "title": "Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691795_1296x729_16%2D9.jpg",
+      "published": "7/24/2026, 10:01:45 PM",
+      "desc": "Chiefs quarterback Patrick Mahomes has been cleared to fully participate in training camp after knee surgery last year."
+    },
+    {
+      "title": "Former President Obama surprises WNBA All-Stars at practice - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49442330/former-president-obama-surprises-wnba-all-stars-practice",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0724%2Fr1693339_1296x729_16%2D9.jpg",
+      "published": "7/24/2026, 9:54:09 PM",
+      "desc": "Former President Barack Obama visited with WNBA All-Stars on Friday, professing his fandom for the women's game and taking photos with the players, including Caitlin Clark and Angel Reese."
+    },
+    {
+      "title": "WNBPA's Nneka Ogwumike says union, league rebuilding trust - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49442324/wnbpa-nneka-ogwumike-says-union-league-rebuilding-trust",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0724%2Fr1693341_1296x729_16%2D9.jpg",
+      "published": "7/24/2026, 9:51:31 PM",
+      "desc": "WNBPA president Nneka Ogwumike said the union and league are working to rebuild trust after having positive talks about the WNBA's need to address harassment of players."
+    },
+    {
       "title": "Belgium Appoints Bayern Munich Legend Mark van Bommel As New Men&#39;s Head Coach",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/belgium-appoints-bayern-munich-legend-mark-van-bommel-new-mens-head-coach",
@@ -108,14 +156,6 @@
       "desc": "The Rams want all the smoke, and a league source told us that they could get Aaron Donald back this season."
     },
     {
-      "title": "3M Open: Michael Kim feels 'pretty cool' after a historic round of 59",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cpvw4kev14mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22a2/live/80ee5760-8790-11f1-9d55-0b6742729f5d.jpg",
-      "published": "7/24/2026, 7:37:21 PM",
-      "desc": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under par round of 59 at the 3M Open in Minnesota."
-    },
-    {
       "title": "Italy Legend Andrea Pirlo Set To Be Named Men&#39;s National Team Coach",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/italy-legend-andrea-pirlo-set-named-mens-national-team-coach",
@@ -138,14 +178,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/luis1.jpg?ve=1&tl=1",
       "published": "7/24/2026, 7:22:21 PM",
       "desc": "As FIFA investigates Argentina’s conduct after the World Cup final, Spain coach Luis de la Fuente described the incidents as “unacceptable.\""
-    },
-    {
-      "title": "Source: Ex-Cowboys QB Will Grier returns as offensive assistant - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49441578/source-ex-cowboys-qb-grier-returns-offensive-assistant",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0724%2Fr1693311_1296x729_16%2D9.jpg",
-      "published": "7/24/2026, 7:20:06 PM",
-      "desc": "Retired quarterback Will Grier is starting his next NFL path, joining the Cowboys as an offensive assistant, a source told ESPN."
     },
     {
       "title": "CBS NFL analyst Tony Romo arrested on suspicion of OWI - ESPN",
@@ -172,44 +204,12 @@
       "desc": "Germany has hired Jürgen Klopp to coach its national team, giving the ex-Liverpool manager a daunting task to turn around the fortunes of a squad which failed yet again at the World Cup."
     },
     {
-      "title": "Tortorella 'disappointed' by Vegas' decision, hopes for next job - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49441224/tortorella-disappointed-vegas-decision-hopes-next-job",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0615%2Fr1673442_1296x729_16%2D9.jpg",
-      "published": "7/24/2026, 6:10:29 PM",
-      "desc": "John Tortorella admits he was \"disappointed\" by the Golden Knights' decision not to retain him after their surprising run to the Stanley Cup Final but says he is already thinking about another coaching opportunity."
-    },
-    {
       "title": "Michael Kim cards 15th-ever 59 in PGA Tour history at 3M Open - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/golf/story/_/id/49441099/michael-kim-cards-15th-ever-59-pga-tour-history-3m-open",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0921%2Fr1548909_1296x729_16%2D9.jpg",
       "published": "7/24/2026, 5:41:02 PM",
       "desc": "Michael Kim carded the 15th 59 in PGA Tour history on Friday, making a 24-foot putt for birdie on the 18th hole at the 3M Open."
-    },
-    {
-      "title": "Tour de France 2026: Tadej Pogacar wins on Alpe d'Huez",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/c2elrwxe941o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7bc5/live/f1ad46d0-877e-11f1-a6cf-7dd9e08d50d6.jpg",
-      "published": "7/24/2026, 5:37:24 PM",
-      "desc": "Defending Tour de France champion Tadej Pogacar is on the verge of winning a record-equalling fifth Tour de France after taking a storming victory on stage 19 to Alpe d'Huez."
-    },
-    {
-      "title": "Tyson Fury vs Mariusz Wach: Briton wins low-key warm-up to keep Anthony Joshua fight on track",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/cy5dnnq1l0po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0263/live/7e29a1d0-877f-11f1-a6cf-7dd9e08d50d6.jpg",
-      "published": "7/24/2026, 5:37:20 PM",
-      "desc": "Tyson Fury stops Mariusz Wach in a low-key bout in Thailand attended by no more than 1,500 fans - and which was not televised live anywhere in the world."
-    },
-    {
-      "title": "Hungarian Grand Prix: Charles Leclerc fastest as Lance Stroll's Aston Martin has suspension failure in first practice",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8669/live/86843ab0-8767-11f1-aec4-5d4d96e3f4ec.jpg",
-      "published": "7/24/2026, 4:22:23 PM",
-      "desc": "Adrian Newey says the new Aston Martin had showed \"promising results\" in its first on-track session at the Hungarian Grand Prix."
     }
   ],
   "tech": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 3,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
       "rank": 4,
@@ -401,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "Been By Now",
-      "artist": "Morgan Wallen",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/8e/e7/d48ee7e8-0c76-ca27-7222-aa4d2b048dc2/mzaf_11704984347411785772.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/been-by-now/6792676858?i=6792676860&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Been%20By%20Now"
-    },
-    {
-      "rank": 8,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -418,22 +409,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 9,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+      "rank": 8,
+      "title": "Been By Now",
+      "artist": "Morgan Wallen",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/8e/e7/d48ee7e8-0c76-ca27-7222-aa4d2b048dc2/mzaf_11704984347411785772.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/been-by-now/6792676858?i=6792676860&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Been%20By%20Now"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
+      "rank": 10,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
       "rank": 11,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Mama, I still call your name",
-      "artist": "Noah Nine",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/37/d9/d537d916-bba0-c2ba-eff7-2a92b29cfafa/mzaf_12667572801336679829.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mama-i-still-call-your-name/6771263844?i=6771263846&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     }
   ],
   "movies": [
@@ -538,6 +538,15 @@
     },
     {
       "rank": 7,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -546,22 +555,13 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
-    },
-    {
-      "rank": 9,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
