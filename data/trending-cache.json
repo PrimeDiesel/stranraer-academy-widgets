@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-25T06:19:27.238Z",
+  "updated": "2026-07-25T09:02:24.431Z",
   "news": [
+    {
+      "title": "Angela Rayner rules out rent controls in England",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09ac/live/d14dc4e0-8734-11f1-a42c-83dd67bf1cb2.jpg",
+      "published": "7/24/2026, 9:07:22 AM",
+      "desc": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market."
+    },
+    {
+      "title": "France orders evacuation of Cap Ferret peninsula as hundreds flee wildfires",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dad3/live/0e54c2b0-872d-11f1-9733-edfe8d3e29a7.jpg",
+      "published": "7/24/2026, 7:37:20 AM",
+      "desc": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight."
+    },
+    {
+      "title": "How the Gordie Howe bridge became symbol of a strained US-Canada relationship",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4821/live/4efd41f0-86bc-11f1-bee8-53ce494e1abc.jpg",
+      "published": "7/24/2026, 6:37:21 AM",
+      "desc": "The new Gordie Howe International Bridge between Michigan and Ontario is about to open, but Donald Trump's latest tariffs on Canada have muted celebrations."
+    },
+    {
+      "title": "Hero swimmer helped two children at West Mersea beach tragedy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly89wrmdxyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a72e/live/94e0f590-86cb-11f1-8749-89447c313de6.jpg",
+      "published": "7/24/2026, 6:22:18 AM",
+      "desc": "Witnesses say the unnamed rescuer dove into the water three times to save the children."
+    },
     {
       "title": "Fifty women come forward saying they were pressured into swinging",
       "source": "BBC News",
@@ -8,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddd4/live/8f5f2fd0-85de-11f1-9837-c51febdbeb82.jpg",
       "published": "7/24/2026, 5:37:21 AM",
       "desc": "Women told the BBC their partners had pushed or coerced them into having sex with other men."
-    },
-    {
-      "title": "Commonwealth Games: King Charles III emerges from the Tardis as Glasgow 2026 Games begin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ffe9/live/a599bc10-86e3-11f1-a4b5-5bff16c7b9ab.jpg",
-      "published": "7/24/2026, 4:22:22 AM",
-      "desc": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow."
     },
     {
       "title": "UK mortgage rates rise to highest level for a month as global tensions persist",
@@ -34,39 +58,31 @@
       "desc": "Andrea Urmston knew she had an adopted brother, only to discover he was already her closest friend."
     },
     {
-      "title": "UK complacent about war threat, warns BAE Systems' boss",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cf8/live/60e4b350-86a6-11f1-a0b6-435e4178a497.jpg",
-      "published": "7/24/2026, 12:22:21 AM",
-      "desc": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn"
-    },
-    {
       "title": "Newspaper headlines: 'Burnham eager to get drilling' and 'Tardis fit for a King'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c75gzgewv0vo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66e3/live/ffbeb920-86e8-11f1-8df9-7fca7a97281e.png",
       "published": "7/24/2026, 12:07:13 AM",
       "desc": "The papers are focusing on different aspects of Andy Burnham's first week in the top job."
-    },
-    {
-      "title": "Burnham to spend first day working from No 10 North",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvyr76973o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14b9/live/8c842050-86c3-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "7/23/2026, 10:07:18 PM",
-      "desc": "Various ministers are also set to work regularly from the northern branch of Downing Street."
-    },
-    {
-      "title": "US announces fresh raft of tariffs on overseas goods",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg",
-      "published": "7/23/2026, 9:37:21 PM",
-      "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
     }
   ],
   "sports": [
+    {
+      "title": "Joshua vs Prenga: The 24 hours which will make or break British super-fight",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/515e/live/efac3070-869e-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/24/2026, 6:52:22 AM",
+      "desc": "BBC Sport looks at how a proposed bout between Tyson Fury and Anthony Joshua hinges on a 24-hour-period between Friday and Saturday."
+    },
+    {
+      "title": "Cristian Volpato: Australia midfielder allegedly tests positive for cocaine after speeding in Sydney",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/58ae/live/ba5e7140-8724-11f1-9733-edfe8d3e29a7.jpg",
+      "published": "7/24/2026, 6:37:25 AM",
+      "desc": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney."
+    },
     {
       "title": "BBC Sport quiz: Who am I? Guess Premier League footballer #4",
       "source": "BBC Sport",
@@ -194,40 +210,48 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ravens-723.jpg?ve=1&tl=1",
       "published": "7/23/2026, 10:52:22 PM",
       "desc": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds heading into the 2026 season."
-    },
-    {
-      "title": "Trump hails Dodgers at second White House visit: 'One of the great brands' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/story/_/id/49435696/trump-hails-dodgers-white-house",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
-      "published": "7/23/2026, 10:39:00 PM",
-      "desc": "President Donald Trump feted Shohei Ohtani, Freddie Freeman and the World Series champion Los Angeles Dodgers at the White House on Thursday, calling the team \"one of the great brands anywhere in the world\" during a Rose Garden event."
-    },
-    {
-      "title": "Aston Villa season preview: Can Unai Emery work magic again?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c3b7/live/a20aebc0-853d-11f1-ab57-69b83adbeeff.jpg",
-      "published": "7/23/2026, 10:22:25 PM",
-      "desc": "Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans."
     }
   ],
   "tech": [
     {
-      "title": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition ‘Overview’ trailer - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/xenoblade-chronicles-2-nintendo-switch-2-edition-overview-trailer",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Xenoblade-Chronicles-2-Switch-2_07-23-26.jpg",
-      "published": "7/24/2026, 1:12:08 AM",
-      "desc": "Publisher Nintendo and developer Monolith Soft have released a two-minute overview trailer for Xenoblade Chronicles 2 – Nintendo Switch 2 Edition, which is due out digitally on July 30 and ph…"
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK109_microsoft.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/24/2026, 9:20:09 AM",
+      "desc": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups."
     },
     {
-      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=800&q=75",
-      "published": "7/23/2026, 11:37:05 PM",
-      "desc": "Microsoft launched MAI-Image-2.5-Pro and MAI-Voice-2-Flash, new in-house AI models designed to cut GPU costs, power Bing, Excel, Copilot and Dynamics, and reduce reliance on OpenAI."
+      "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator",
+      "image": "https://assetsio.gnwcdn.com/Niikawa-discs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/24/2026, 9:07:36 AM",
+      "desc": "Disgaea creator Sohei Niikawa has strong thoughts on Sony's planned move away from physical media."
+    },
+    {
+      "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
+      "source": "Pokebeach.com",
+      "url": "https://www.pokebeach.com/2026/07/storm-emeralda-all-76-main-set-cards-revealed",
+      "image": "https://www.pokebeach.com/news/2026/07/050396_P_MREKKUUZAIEKKUSU_Pgay.jpg",
+      "published": "7/24/2026, 8:10:26 AM",
+      "desc": "All 76 cards from Storm Emeralda have been officially revealed! The set stars Mega Rayquaza ex and will release in Japan on July 31st as their sixth"
+    },
+    {
+      "title": "Xenoblade Chronicles 2 - Switch 2 Edition Overview Reveals New Pyra & Mythra Outfits, Merc Assault And Momo - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-switch-2-edition-overview-reveals-new-pyra-and-mythra-outfits-merc-assault-and-momo",
+      "image": "https://images.nintendolife.com/6424c83b51456/large.jpg",
+      "published": "7/24/2026, 1:30:00 AM",
+      "desc": "Rex and Pyra return next week"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Galaxy-Z-Fold-8-Ultra-vs-Galaxy-Z-Fold-7.png",
+      "published": "7/23/2026, 11:50:18 PM",
+      "desc": "The Galaxy Z Fold 8 Ultra improves where it matters, but the new price might sting."
     },
     {
       "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
@@ -238,44 +262,20 @@
       "desc": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone..."
     },
     {
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-1152x648.jpg",
-      "published": "7/23/2026, 8:47:33 PM",
-      "desc": "App is installed through Windows Update when certain LG monitors connect to a PC."
+      "title": "Aston Martin’s New Stunning GT Will Even Make 007 Come out of Hibernation - Gear Patrol",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/cars/aston-martin-reveals-celebratory-vanquish-v12-coupe-volante/",
+      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/2027-Aston-Martin-Vanquish-25th-Anniversary-LEAD-1.webp",
+      "published": "7/23/2026, 10:01:45 PM",
+      "desc": "Aston Martin reveals its new exclusive set of limited-production Vanquish models, all to commemorate the model's 25th anniversary."
     },
     {
-      "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-16.jpg",
-      "published": "7/23/2026, 7:26:21 PM",
-      "desc": "Samsung's new book-style foldable phone is making a strong first impression, but I'm still testing how it holds up in everyday use."
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-      "published": "7/23/2026, 5:00:00 PM",
-      "desc": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
-    },
-    {
-      "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
-      "image": "https://images.macrumors.com/t/G-GXCYX2TnB74aUY3f1w4k8ejcs=/1776x/article-new/2026/07/geekbench-7.jpg",
-      "published": "7/23/2026, 5:00:00 PM",
-      "desc": "Primate Labs today announced the launch of Geekbench 7, the newest version of the popular benchmarking suite for CPU and GPU performance.  ..."
-    },
-    {
-      "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/psdisc-1024x648.jpg",
-      "published": "7/23/2026, 4:25:46 PM",
-      "desc": "Circana numbers show US gamers overwhelmingly voting with their wallets."
+      "title": "The Grade A Refurb Nintendo Switch 2 Mario Kart World Console Bundle Just Dropped to $419 at Woot - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-mario-kart-world-gaming-console-deal-july-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/20/nintendoswitch2mariokart-1784573609094.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/23/2026, 8:27:07 PM",
+      "desc": "New $20 price drop on top of last week's already excellent deal."
     }
   ],
   "education": [
@@ -374,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Fireflies",
-      "artist": "Martin Garrix & U2",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
-    },
-    {
-      "rank": 5,
       "title": "Been By Now",
       "artist": "Morgan Wallen",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/8e/e7/d48ee7e8-0c76-ca27-7222-aa4d2b048dc2/mzaf_11704984347411785772.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/been-by-now/6792676858?i=6792676860&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Been%20By%20Now"
+    },
+    {
+      "rank": 5,
+      "title": "Fireflies",
+      "artist": "Martin Garrix & U2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
     },
     {
       "rank": 6,
@@ -401,21 +401,21 @@
     },
     {
       "rank": 7,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 8,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 8,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 9,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
@@ -558,12 +558,30 @@
   "tv": [
     {
       "rank": 1,
+      "title": "Spooky in Love",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "url": "https://www.themoviedb.org/tv/298610"
+    },
+    {
+      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "King of the Hill",
+      "year": "1997",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "url": "https://www.themoviedb.org/tv/2122"
     }
   ]
 }
