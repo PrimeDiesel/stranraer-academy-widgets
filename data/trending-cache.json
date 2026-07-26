@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-25T22:56:44.206Z",
+  "updated": "2026-07-26T00:01:42.454Z",
   "news": [
+    {
+      "title": "Tintwistle Moor fire burning one month on is 'the size of a small town'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwpvq6q03o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f68e/live/8ccf4190-875c-11f1-95ec-a30de4e448c4.png",
+      "published": "7/24/2026, 11:52:21 PM",
+      "desc": "More than a month on, and firefighting shows no sign of immediate end at Tintwistle Moor."
+    },
+    {
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+      "published": "7/24/2026, 11:37:21 PM",
+      "desc": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance."
+    },
+    {
+      "title": "Ukraine's Zelensky struggles to fix crisis over removal of defence minister Fedorov",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
+      "published": "7/24/2026, 11:37:17 PM",
+      "desc": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
+    },
+    {
+      "title": "Commonwealth Games 2026: Gabriel Langton injury overshadows gymnastics silver",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f983/live/f269bf90-87ab-11f1-8c66-158b9f0049ad.jpg",
+      "published": "7/24/2026, 11:22:16 PM",
+      "desc": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026."
+    },
     {
       "title": "Firefighters battle Madrid blaze, as thousands evacuated in France and Spain",
       "source": "BBC News",
@@ -8,22 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aed2/live/0070b2b0-87a7-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "7/24/2026, 10:22:27 PM",
       "desc": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
-    },
-    {
-      "title": "Huge explosion and fire rip through Essex industrial site",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c972/live/8556aad0-87a1-11f1-838a-ddd3555e63a1.jpg",
-      "published": "7/24/2026, 9:22:19 PM",
-      "desc": "A major incident was declared as 100 firefighters battled a huge blaze south of Chelmsford."
-    },
-    {
-      "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1670/live/e28b44c0-8799-11f1-9d55-0b6742729f5d.jpg",
-      "published": "7/24/2026, 8:52:19 PM",
-      "desc": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading."
     },
     {
       "title": "ICC top prosecutor removed over sexual misconduct allegations",
@@ -42,22 +58,6 @@
       "desc": "An Irish court is told the accused, Isobella Perrie Sullivan, is studying to become a barrister."
     },
     {
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
-      "published": "7/24/2026, 7:37:23 PM",
-      "desc": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
-    },
-    {
-      "title": "Man tells of attempt to save drowning girl and mum at West Mersea",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b08f/live/67c42bc0-877c-11f1-b430-afa19a42b819.jpg",
-      "published": "7/24/2026, 6:37:17 PM",
-      "desc": "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday."
-    },
-    {
       "title": "Heatwave reveals lost archaeological sites across Wales",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn8n99241y3o",
@@ -68,20 +68,20 @@
   ],
   "sports": [
     {
-      "title": "Commonwealth Games 2026 RECAP Glasgow - Duncan Scott wins gold, Gabriel Langton alarming gymnastics fall",
+      "title": "Glasgow 2026 Commonwealth Games: Duncan Scott overcomes pressure and Tom Dean to give Scotland golden start",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/live/cq81lp8e5yqt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b214/live/e6907a50-878e-11f1-9428-e17279226993.jpg",
-      "published": "7/24/2026, 10:52:21 PM",
-      "desc": "Follow live text updates, results and medal table from day one from the Commonwealth Games in Glasgow."
+      "url": "http://www.bbc.co.uk/sport/articles/cdx8255g8qqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c708/live/65d35210-8799-11f1-9d55-0b6742729f5d.jpg",
+      "published": "7/24/2026, 11:07:23 PM",
+      "desc": "Scotland's Duncan Scott thrilled a home crowd with his swim to gold at Tollcross on the first full day of competition at the Commonwealth Games."
     },
     {
-      "title": "3M Open: Michael Kim feels 'pretty cool' after a historic round of 59",
+      "title": "Commonwealth Games 2026: Gabriel Langton injury overshadows gymnastics silver",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cpvw4kev14mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22a2/live/80ee5760-8790-11f1-9d55-0b6742729f5d.jpg",
-      "published": "7/24/2026, 10:52:18 PM",
-      "desc": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under par round of 59 at the 3M Open in Minnesota."
+      "url": "http://www.bbc.co.uk/sport/articles/c151qlnzw05o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f983/live/f269bf90-87ab-11f1-8c66-158b9f0049ad.jpg",
+      "published": "7/24/2026, 11:07:20 PM",
+      "desc": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026."
     },
     {
       "title": "Packers CEO says financial bump needed to stay competitive - ESPN",
@@ -214,12 +214,12 @@
   ],
   "tech": [
     {
-      "title": "Roku raises streaming stick prices by up to 60 percent - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg",
-      "published": "7/24/2026, 7:41:06 PM",
-      "desc": "Roku blames RAM shortage after CEO called it \"great\" for business in May."
+      "title": "Meta just created a moderation nightmare for its smart glasses - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268667_meta_glasses_spying_posters_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/24/2026, 7:23:44 PM",
+      "desc": "After public backlash, Instagram is banning some content filmed using Meta’s smart glasses. Enforcing the rules will be difficult."
     },
     {
       "title": "'See You in the Sequel': Halo 2 Remake All But Confirmed - Push Square",
@@ -238,14 +238,6 @@
       "desc": "Ahead of the Pixel 11 launch, the Google hardware division detailed how it's impacted by the “severe, supplier-driven RAM memory crisis.”"
     },
     {
-      "title": "Nothing calls ‘fake news’ on shutdown report while confirming key changes - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/24/nothing-shutdown-report-denial/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/24/2026, 5:35:00 PM",
-      "desc": "Following a report earlier today, Nothing says that it is not exiting markets, but it is making some key changes..."
-    },
-    {
       "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028 - Eurogamer.net",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028",
@@ -262,12 +254,12 @@
       "desc": "Sony's status page read that it was \"working to resolve the issue as soon as possible\"."
     },
     {
-      "title": "GTA 6 download codes expire only 170 days after launch in Japan - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/gta-6-download-codes-expire-only-170-days-after-launch-in-japan/",
-      "image": "https://www.videogameschronicle.com/files/2026/06/image001.jpg",
-      "published": "7/24/2026, 4:38:08 PM",
-      "desc": "Japanese digital download codes for GTA 6 expire less than six months after launch"
+      "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run",
+      "image": "https://assetsio.gnwcdn.com/world-of-warcraft-dev-fired-boss-instakills-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/24/2026, 4:08:17 PM",
+      "desc": "Blizzard have fired a World Of Warcraft developer after dev-only insta-kill spells were used to take out bosses for regular players during a dungeon run."
     },
     {
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug - BleepingComputer",
@@ -276,6 +268,14 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
       "published": "7/24/2026, 3:41:44 PM",
       "desc": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services."
+    },
+    {
+      "title": "007: First Light’s first content update is available now - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/007-first-lights-first-content-update-is-available-now/",
+      "image": "https://www.videogameschronicle.com/files/2026/07/007-First-Light-Update-1_-Behind-Enemy-Lines-0-17-screenshot.jpg",
+      "published": "7/24/2026, 3:30:49 PM",
+      "desc": "The first content patch of 007: First Light's Year One content roadmap is available now on all platforms"
     }
   ],
   "education": [
@@ -502,21 +502,21 @@
     },
     {
       "rank": 3,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 4,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 4,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
       "rank": 5,
@@ -529,15 +529,6 @@
     },
     {
       "rank": 6,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 7,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -546,13 +537,22 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 8,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 9,
@@ -582,6 +582,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "Avatar: The Last Airbender",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "url": "https://www.themoviedb.org/tv/82452"
     }
   ]
 }
