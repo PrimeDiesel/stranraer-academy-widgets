@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-26T13:24:40.017Z",
+  "updated": "2026-07-26T15:06:27.737Z",
   "news": [
     {
-      "title": "Glasgow 2026 Commonwealth Games: Eilish McColgan to miss Glasgow Games defence after foot fracture",
+      "title": "Twenty firefighters taken to hospital after Rettendon explosion",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "7/25/2026, 1:37:25 PM",
-      "desc": "Scotland's Eilish McColgan will miss out on the chance to defend her Commonwealth Games 10,000m title in her home country after failing to recover sufficently from a foot fracture."
+      "url": "https://www.bbc.co.uk/news/articles/cg4dkwgker3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1541/live/f98c6380-8829-11f1-b2ab-0dd01740f9f6.png",
+      "published": "7/25/2026, 2:22:19 PM",
+      "desc": "Essex's chief fire officer praises crews' courage after a blaze spreads to a fertiliser store."
+    },
+    {
+      "title": "Commonwealth Games: Sean McCann, brother of Madeleine, reaches Commonwealth final",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/80f9/live/a99cd4a0-881e-11f1-981c-7d4dd1ef3d1d.jpg",
+      "published": "7/25/2026, 1:52:22 PM",
+      "desc": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games."
     },
     {
       "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50cf/live/22a907f0-8820-11f1-981c-7d4dd1ef3d1d.jpg",
       "published": "7/25/2026, 12:22:23 PM",
       "desc": "Families visiting France from the UK and elsewhere have told the BBC how their holidays have become evacuation missions."
-    },
-    {
-      "title": "Who could be the next Graham Norton, and does the BBC even need one?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0fe/live/09c4e010-8519-11f1-bf4e-6b2bb6027b0a.jpg",
-      "published": "7/25/2026, 9:52:25 AM",
-      "desc": "The presenter said she was \"incredibly grateful\" for the opportunity but simply \"too nervous to enjoy it\"."
     },
     {
       "title": "BuzzBallz are 'greenwashing' say recycling experts",
@@ -68,20 +68,28 @@
   ],
   "sports": [
     {
+      "title": "Joshua vs Prenga prediction: Predictions for heavyweight fight from fighters and pundits",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/ce3q23ke22qo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/986f/live/9c7db670-8794-11f1-9d55-0b6742729f5d.jpg",
+      "published": "7/25/2026, 3:07:24 PM",
+      "desc": "Figures from the boxing world give their predictions for Saturday's heavyweight fight between Anthony Joshua and Kristian Prenga."
+    },
+    {
+      "title": "Newcastle: Eddie Howe unsure on Bruno Guimaraes future amid Arsenal interest",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdrvxm682yko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b29/live/2d1f2010-8803-11f1-a311-5da3a8a1de78.jpg",
+      "published": "7/25/2026, 3:07:21 PM",
+      "desc": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes."
+    },
+    {
       "title": "Malaysia set to host F1 race in October as replacement for Bahrain Grand Prix called off earlier this year",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f94/live/9b3240e0-8827-11f1-bc76-7fa6f858478c.jpg",
       "published": "7/25/2026, 1:37:33 PM",
       "desc": "Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season."
-    },
-    {
-      "title": "Glasgow 2026 Commonwealth Games: Eilish McColgan to miss Glasgow Games defence after foot fracture",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "7/25/2026, 1:37:29 PM",
-      "desc": "Scotland's Eilish McColgan will miss out on the chance to defend her Commonwealth Games 10,000m title in her home country after failing to recover sufficently from a foot fracture."
     },
     {
       "title": "Commonwealth Games 2026 LIVE: Glasgow - live text updates, results and medal table from day two",
@@ -202,72 +210,64 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0210%2Fr53354_1296x729_16%2D9.jpg",
       "published": "7/24/2026, 10:13:16 PM",
       "desc": "Packers president/CEO Ed Policy says adjustments may be necessary as the NFL's only publicly owned franchise attempts to remain financially competitive in the long term."
-    },
-    {
-      "title": "Chiefs' Patrick Mahomes fully cleared for camp, feeling 'amazing' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49442364/chiefs-patrick-mahomes-fully-cleared-training-camp-feeling-amazing",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691795_1296x729_16%2D9.jpg",
-      "published": "7/24/2026, 10:01:45 PM",
-      "desc": "Chiefs quarterback Patrick Mahomes has been cleared to fully participate in training camp after knee surgery last year."
     }
   ],
   "tech": [
     {
-      "title": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg",
-      "published": "7/25/2026, 9:31:09 AM",
-      "desc": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide."
+      "title": "10 Desk Gadgets That Just Work - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2220363/desk-gadgets-just-work/",
+      "image": "https://www.bgr.com/img/gallery/10-desk-gadgets-that-just-work/l-intro-1784675690.jpg",
+      "published": "7/25/2026, 2:02:00 PM",
+      "desc": "From smart speakers and mechanical keyboards to webcams and battery backups, these practical, effective desk gadgets make every workday more productive."
     },
     {
-      "title": "Chess on wheels: The psychology of the Tour de France - BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/future/article/20260723-chess-on-wheels-the-psychology-of-the-tour-de-france",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0p0fw0t.jpg",
-      "published": "7/25/2026, 9:01:25 AM",
-      "desc": "The Tour de France, which finishes this weekend, is regarded as one of the world's toughest cycle races. Winning it is a psychological as well as a physical test."
+      "title": "Final Fantasy XIV Online Releases For Switch 2 On 4th August 2026 - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-xiv-online-releases-for-switch-2-on-4th-august-2026",
+      "image": "https://images.nintendolife.com/c0bb5d4e3ace1/large.jpg",
+      "published": "7/25/2026, 1:30:00 PM",
+      "desc": "Pre-orders are now live"
     },
     {
-      "title": "Forget expensive sleepbuds. Buy this pillow instead - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2665.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "published": "7/25/2026, 7:00:00 AM",
-      "desc": "Don’t bother buying $200 sleepbuds when a $50 pillow designed to relieve pain from new ear piercings works with your existing earbuds for a quarter of the price."
+      "title": "‘God Of War: Laufey’ And ‘Fable’ Play PS5-Xbox Release Date Chicken - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/25/god-of-war-laufey-and-fable-play-ps5-xbox-release-date-chicken/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2038bd5aabe360d09de189/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published": "7/25/2026, 1:18:09 PM",
+      "desc": "Fable, the storied Xbox IP, is about to go up against arguably PlayStation’s strongest: God of War with its Laufey release date."
     },
     {
-      "title": "Everything Announced at the God of War Laufey SDCC Panel | Comic Con 2026 - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/everything-announced-at-the-god-of-war-laufey-sdcc-panel-comic-con-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/07/25/godofwarlaufey-sdcc-blogroll-1784944558125.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/25/2026, 2:02:00 AM",
-      "desc": "IGN’s live reporting of San Diego Comic-Con 2026 continues, this time from the front row of the God of War Laufey panel."
+      "title": "I’m using my phone way less, and it’s making me happier - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/25/im-using-my-phone-way-less-and-its-making-me-happier/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-10-Pro-XL.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/25/2026, 1:00:00 PM",
+      "desc": "After some soul searching I realised my phone use is absolutely out of control and some changes were needed."
     },
     {
-      "title": "'MacBook Ultra' Coming Soon With These 12 New Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
-      "image": "https://images.macrumors.com/t/qHnR_OCMn27N8NId-_x0Q08pxIU=/1644x/article-new/2026/07/macbook-ultra.jpg",
-      "published": "7/25/2026, 1:00:00 AM",
-      "desc": "Apple's first high-end MacBook redesign in five years is expected to arrive in the near future, bringing a run of firsts to the Mac.  ..."
+      "title": "How AI is becoming part of the American family - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+      "image": "https://images.axios.com/J6wY3Sk6KFj4HcMEXzm4MiHiZU4=/0x0:1920x1080/1366x768/2026/07/24/1784915236674.jpeg",
+      "published": "7/25/2026, 12:44:22 PM",
+      "desc": "AI is evolving from an on-demand assistant into an always-on presence that remembers, anticipates and increasingly acts like a member of the family."
     },
     {
-      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
-      "published": "7/25/2026, 12:23:11 AM",
-      "desc": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+      "title": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-z-flip-8-preorder-deals",
+      "image": "https://helios-i.mashable.com/imagery/articles/02C5Q5dUBFifjrhLcGMA6Vr/hero-image.fill.size_1200x675.v1784903727.jpg",
+      "published": "7/25/2026, 12:34:04 PM",
+      "desc": "Three foldables from Samsung are here."
     },
     {
-      "title": "iOS 27: All the New iCloud Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-icloud/",
-      "image": "https://images.macrumors.com/t/Oj2-MOVN-HKD5LYKies25pQb53E=/2500x/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
-      "published": "7/24/2026, 10:54:44 PM",
-      "desc": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct iCloud improvements like..."
+      "title": "Castlevania: Belmont’s Curse gets first Nintendo Switch screenshots, frame rate confirmed - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/castlevania-belmonts-curse-gets-first-nintendo-switch-screenshots/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-Belmonts-Curse-Switch-screenshots.jpg",
+      "published": "7/25/2026, 12:03:29 PM",
+      "desc": "The first Nintendo Switch screenshots for Castlevania: Belmont’s Curse are in, and depending on who you ask, this version of the game might be looking a little rough. Pre-orders for the title started on the Nintendo eShop this week. That’s brought us six diff…"
     }
   ],
   "education": [
@@ -512,21 +512,21 @@
     },
     {
       "rank": 5,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 6,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture.",
       "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 6,
+      "title": "The Dink",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
       "rank": 7,
@@ -539,21 +539,21 @@
     },
     {
       "rank": 8,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
