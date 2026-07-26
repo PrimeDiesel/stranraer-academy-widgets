@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-26T15:06:27.737Z",
+  "updated": "2026-07-26T17:03:15.946Z",
   "news": [
+    {
+      "title": "Cairngorm residents say wildfire response 'too slow'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b31b/live/29938250-8845-11f1-8c27-e3d42f185061.jpg",
+      "published": "7/25/2026, 4:52:28 PM",
+      "desc": "Nethy Bridge residents were evacuated on Friday and a major incident was declared."
+    },
+    {
+      "title": "Police investigate donations by Richard Tice company to Reform UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg",
+      "published": "7/25/2026, 4:37:23 PM",
+      "desc": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
+    },
     {
       "title": "Twenty firefighters taken to hospital after Rettendon explosion",
       "source": "BBC News",
@@ -48,25 +64,73 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "7/25/2026, 7:22:21 AM",
       "desc": "The government wants to relax wedding laws so couples can get married almost anywhere."
-    },
-    {
-      "title": "ADHD has rewired the workplace - these are the consequences",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e35e/live/f25d0fd0-8773-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/25/2026, 7:22:18 AM",
-      "desc": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?"
-    },
-    {
-      "title": "Gangs, violence and dumped dead animals: The hidden world of illegal hare hunts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ecbb/live/2f920700-8762-11f1-b8ee-9b3c26ad07bb.png",
-      "published": "7/25/2026, 5:52:22 AM",
-      "desc": "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds."
     }
   ],
   "sports": [
+    {
+      "title": "Lucas Herbert Has 4-Shot Lead On Bryson DeChambeau After Round 2 Of LIV Golf UK",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/golf/liv-golf-uk-round-2-leaderboard-herbert-dechambeau",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ef9c1a52-herbert2.jpg?ve=1&tl=1",
+      "published": "7/25/2026, 4:52:24 PM",
+      "desc": "Lucas Herbert has built a four-shot lead over Bryson DeChambeau after Round 2 of LIV Golf UK."
+    },
+    {
+      "title": "Tour de France 2026: Tadej Pogacar set for record fifth win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fafa/live/c3de77d0-883f-11f1-8c27-e3d42f185061.png",
+      "published": "7/25/2026, 4:37:26 PM",
+      "desc": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez."
+    },
+    {
+      "title": "Hungarian Grand Prix: Lando Norris beats Lewis Hamilton to pole with Kimi Antonelli fourth",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c4gv02vyzv4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c03d/live/1a83e4b0-883d-11f1-a9d5-2325bced2146.jpg",
+      "published": "7/25/2026, 4:37:23 PM",
+      "desc": "McLaren's Lando Norris takes his first grand prix pole position of 2026, beating Lewis Hamilton with the final lap of the session in Hungary."
+    },
+    {
+      "title": "Last Night In Baseball: Astros Roar Back, Pitching Gems And A Midwest Stunner",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/astros-comeback-braves-giants-tarik-skubal-yankees-dodgers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-11.jpg?ve=1&tl=1",
+      "published": "7/25/2026, 4:22:23 PM",
+      "desc": "The Astros had an eight-run inning, Tarik Skubal is back on track, the Rockies shocked the Brewers, Rōki Sasaki was electric and more from Friday's MLB action."
+    },
+    {
+      "title": "Malaysia set to host rescheduled Bahrain Grand Prix in October - sources - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/49431245/malaysia-set-host-rescheduled-bahrain-grand-prix-october-sources-formula-1",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0131%2Fr1284842_2_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 4:19:00 PM",
+      "desc": "This year's Formula 1 season finale is set to take place at the home circuit of Lewis Hamilton's Ferrari team in Imola if the scheduled final two rounds in Qatar and Abu Dhabi cannot be staged."
+    },
+    {
+      "title": "49ers' Shanahan to be limited in camp after car crash - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49446662/49ers-shanahan-limited-camp-car-accident",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1022%2Fr1404330_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 4:02:00 PM",
+      "desc": "49ers coach Kyle Shanahan suffered significant injuries in a car crash during his summer break in mid-July that now will leave him limited as the team opens training camp."
+    },
+    {
+      "title": "Kraft: Patriots' Gonzalez has offer to be 'highest-paid' CB ever - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49447151/kraft-patriots-gonzalez-offer-highest-paid-cb-ever",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0626%2Fr1680117_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 3:46:39 PM",
+      "desc": "Patriots owner Robert Kraft says the team has made an offer to CB Christian Gonzalez that would \"make him the highest-paid player to ever play that position in the NFL.\""
+    },
+    {
+      "title": "Tour de France final stage shortened amid wildfires in country - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/olympics/story/_/id/49446998/tour-de-france-final-stage-shortened-amid-wildfires-country",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0624%2Fr1028584_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 3:22:36 PM",
+      "desc": "The Tour de France's final stage is being slashed in length by a third to divert officers to the fight against wildfires in the country's southwest."
+    },
     {
       "title": "Joshua vs Prenga prediction: Predictions for heavyweight fight from fighters and pundits",
       "source": "BBC Sport",
@@ -100,36 +164,20 @@
       "desc": "Follow live text updates, results and medal table updates on day two from the Commonwealth Games in Glasgow."
     },
     {
+      "title": "Former NFL guard Jordan Devey, 38, died by suicide, family says - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49445904/former-nfl-guard-jordan-devey-38-died-suicide-family-says",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0815%2Fbos_a_brady_mb_1296x729.jpg",
+      "published": "7/25/2026, 11:58:30 AM",
+      "desc": "Former NFL guard Jordan Devey died this week at the age of 38, with family saying the Super Bowl champion with the Patriots died by suicide."
+    },
+    {
       "title": "Man Utd: Could Mason Mount be the final piece in midfield puzzle?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f10e/live/84e71c50-87f2-11f1-b8ee-9b3c26ad07bb.jpg",
       "published": "7/25/2026, 11:22:21 AM",
       "desc": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games."
-    },
-    {
-      "title": "Tottenham players not 'happy' and 'proud' to stay should leave - Roberto de Zerbi",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cdewlp710l0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/371f/live/ec62a970-880c-11f1-afbe-b9a38c21b1d6.jpg",
-      "published": "7/25/2026, 10:37:23 AM",
-      "desc": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave."
-    },
-    {
-      "title": "F1 practice LIVE: Hungarian Grand Prix 2026 times, results & commentary from the Hungaroring",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/live/cjd8nr2pn77t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a0ee/live/85bceea0-880d-11f1-afbe-b9a38c21b1d6.jpg",
-      "published": "7/25/2026, 10:22:25 AM",
-      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra 2 commentary of final practice for the Hungarian Grand Prix."
-    },
-    {
-      "title": "Noah Lyles wins 100m at US championships in world-leading 9.79s",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/c3d38zkx59jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a785/live/eeb85810-87f2-11f1-ab0e-efa86eca3823.jpg",
-      "published": "7/25/2026, 7:07:19 AM",
-      "desc": "Noah Lyles runs a world-leading 9.79 seconds as he claims an impressive victory in the 100m at the US athletics championships."
     },
     {
       "title": "President Donald Trump says NBA star LeBron James 'maybe a racist'",
@@ -162,57 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/brissett.jpg?ve=1&tl=1",
       "published": "7/25/2026, 2:37:17 AM",
       "desc": "Arizona Cardinals quarterback Jacoby Brissett participated in Thursday's workout after a quiet offseason due to contract uncertainty."
-    },
-    {
-      "title": "Wings' Fudd tops Fire's Carleton to win WNBA 3-point shootout - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49443477/wings-fudd-tops-fire-carleton-win-wnba-3-point-shootout",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693396_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 1:38:38 AM",
-      "desc": "Wings guard Azzi Fudd edged the Fire's Bridget Carleton to become the first rookie to win the WNBA All-Star 3-point contest on Friday night."
-    },
-    {
-      "title": "Mets' Juan Soto exits game with left calf soreness, set for MRI - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49443306/mets-juan-soto-leaves-game-vs-dodgers-left-calf-soreness",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0422%2Fr1647413_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 1:11:51 AM",
-      "desc": "Mets star Juan Soto is scheduled to undergo an MRI on his left calf Saturday after he was removed from Friday's 4-2 loss to the Los Angeles Dodgers in the sixth inning with soreness."
-    },
-    {
-      "title": "Sha'Carri Richardson, Noah Lyles win 100m at U.S. championships - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/trackandfield/story/_/id/49443171/shacarri-richardson-noah-lyles-surge-100-meter-wins-us-track-field-championships",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693393_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 12:57:39 AM",
-      "desc": "Sha'Carri Richardson and Noah Lyles surged to 100-meter wins at the U.S. track and field championships on Friday night."
-    },
-    {
-      "title": "Where To Find Ecuador&#39;s Stars After The 2026 World Cup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/where-find-ecuadors-stars-after-2026-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/caicedo1.jpg?ve=1&tl=1",
-      "published": "7/25/2026, 12:22:20 AM",
-      "desc": "Here's what's next for Ecuador's top players after the 2026 World Cup."
-    },
-    {
-      "title": "Where To Find Croatia&#39;s Stars After The 2026 FIFA World Cup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/where-find-croatia-stars-after-2026-fifa-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/modric1.jpg?ve=1&tl=1",
-      "published": "7/25/2026, 12:22:17 AM",
-      "desc": "So what's next for the players who led Croatia to the last 16?"
-    },
-    {
-      "title": "Packers CEO says financial bump needed to stay competitive - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49442413/packers-ceo-says-financial-bump-needed-stay-competitive",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0210%2Fr53354_1296x729_16%2D9.jpg",
-      "published": "7/24/2026, 10:13:16 PM",
-      "desc": "Packers president/CEO Ed Policy says adjustments may be necessary as the NFL's only publicly owned franchise attempts to remain financially competitive in the long term."
     }
   ],
   "tech": [
+    {
+      "title": "Six Years Ago, I Indulged My Husband’s Biggest Fantasy. Now It’s Eating Me Alive. - Slate",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2026/07/male-advice-fantasy-men-lingerie-cross-dressing.html",
+      "image": "https://compote.slate.com/images/396291bf-e427-48c9-a603-14208da6bd8e.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "published": "7/25/2026, 4:00:00 PM",
+      "desc": "Once ... just once ... I'd like to try anything else."
+    },
+    {
+      "title": "LG users complain about unwanted ads on TVs and gaming monitors - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
+      "image": "https://helios-i.mashable.com/imagery/articles/05HlF0RNUarz89Qh586ZWnZ/hero-image.fill.size_1200x675.v1784920083.jpg",
+      "published": "7/25/2026, 2:32:30 PM",
+      "desc": "Even Microsoft is irked by LG's advertising."
+    },
+    {
+      "title": "Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/25/google-maps-immersive-navigation-android-auto-speedometer-rollout-more/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/25/2026, 2:15:00 PM",
+      "desc": "Google Maps appears to be opening the floodgates on the rollout of Immersive Navigation and support for a speedometer in..."
+    },
     {
       "title": "10 Desk Gadgets That Just Work - bgr.com",
       "source": "BGR",
@@ -220,6 +244,14 @@
       "image": "https://www.bgr.com/img/gallery/10-desk-gadgets-that-just-work/l-intro-1784675690.jpg",
       "published": "7/25/2026, 2:02:00 PM",
       "desc": "From smart speakers and mechanical keyboards to webcams and battery backups, these practical, effective desk gadgets make every workday more productive."
+    },
+    {
+      "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/tech/article/chatgpt-health-lawsuit-22359513.php",
+      "image": "https://s.hdnux.com/photos/01/66/72/55/31173465/3/rawImage.jpg",
+      "published": "7/25/2026, 2:01:45 PM",
+      "desc": "OpenAI released ChatGPT Health a day after a San Francisco lawsuit alleged ChatGPT medical advice nearly killed a man."
     },
     {
       "title": "Final Fantasy XIV Online Releases For Switch 2 On 4th August 2026 - Nintendo Life",
@@ -236,38 +268,6 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/6a2038bd5aabe360d09de189/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "7/25/2026, 1:18:09 PM",
       "desc": "Fable, the storied Xbox IP, is about to go up against arguably PlayStation’s strongest: God of War with its Laufey release date."
-    },
-    {
-      "title": "I’m using my phone way less, and it’s making me happier - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/25/im-using-my-phone-way-less-and-its-making-me-happier/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-10-Pro-XL.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/25/2026, 1:00:00 PM",
-      "desc": "After some soul searching I realised my phone use is absolutely out of control and some changes were needed."
-    },
-    {
-      "title": "How AI is becoming part of the American family - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
-      "image": "https://images.axios.com/J6wY3Sk6KFj4HcMEXzm4MiHiZU4=/0x0:1920x1080/1366x768/2026/07/24/1784915236674.jpeg",
-      "published": "7/25/2026, 12:44:22 PM",
-      "desc": "AI is evolving from an on-demand assistant into an always-on presence that remembers, anticipates and increasingly acts like a member of the family."
-    },
-    {
-      "title": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-z-flip-8-preorder-deals",
-      "image": "https://helios-i.mashable.com/imagery/articles/02C5Q5dUBFifjrhLcGMA6Vr/hero-image.fill.size_1200x675.v1784903727.jpg",
-      "published": "7/25/2026, 12:34:04 PM",
-      "desc": "Three foldables from Samsung are here."
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse gets first Nintendo Switch screenshots, frame rate confirmed - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/castlevania-belmonts-curse-gets-first-nintendo-switch-screenshots/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-Belmonts-Curse-Switch-screenshots.jpg",
-      "published": "7/25/2026, 12:03:29 PM",
-      "desc": "The first Nintendo Switch screenshots for Castlevania: Belmont’s Curse are in, and depending on who you ask, this version of the game might be looking a little rough. Pre-orders for the title started on the Nintendo eShop this week. That’s brought us six diff…"
     }
   ],
   "education": [
@@ -357,21 +357,21 @@
     },
     {
       "rank": 3,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 4,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 4,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 5,
@@ -402,12 +402,12 @@
     },
     {
       "rank": 8,
-      "title": "Fireflies",
-      "artist": "Martin Garrix & U2",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
       "rank": 9,
@@ -420,12 +420,12 @@
     },
     {
       "rank": 10,
-      "title": "Ordinary",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+      "title": "Fireflies",
+      "artist": "Martin Garrix & U2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
     },
     {
       "rank": 11,
@@ -438,12 +438,12 @@
     },
     {
       "rank": 12,
-      "title": "Sweet July",
-      "artist": "Take That",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
+      "title": "These Alarms",
+      "artist": "Snow Patrol & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2f/4a/582f4a16-048d-5cc2-e722-8ed21d8f6cc1/4099964270594.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/a4/8a/63a48a76-6623-4446-1529-927d0cb05432/mzaf_3365435072013702547.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/these-alarms/6778102323?i=6778102328&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20%26%20Kylie%20Minogue%20These%20Alarms"
     },
     {
       "rank": 13,
@@ -456,21 +456,21 @@
     },
     {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 15,
       "title": "Been By Now",
       "artist": "Morgan Wallen",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/8e/e7/d48ee7e8-0c76-ca27-7222-aa4d2b048dc2/mzaf_11704984347411785772.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/been-by-now/6792676858?i=6792676860&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Morgan%20Wallen%20Been%20By%20Now"
+    },
+    {
+      "rank": 15,
+      "title": "Sweet July",
+      "artist": "Take That",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
     }
   ],
   "movies": [
@@ -516,26 +516,26 @@
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture.",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
       "rank": 6,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 7,
+      "title": "The Dink",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
       "rank": 8,
