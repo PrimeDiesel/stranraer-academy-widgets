@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-26T20:10:18.049Z",
+  "updated": "2026-07-26T22:00:11.832Z",
   "news": [
+    {
+      "title": "County Monaghan: Man charged over bomb in car",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fdd/live/b0b60bc0-8775-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/25/2026, 9:52:21 PM",
+      "desc": "The Dublin man appeared at the Criminal Courts of Justice on Saturday evening."
+    },
+    {
+      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/25/2026, 9:37:29 PM",
+      "desc": "Police say an intensive manhunt is under way after the incident in Berlin's city centre."
+    },
     {
       "title": "ADHD has rewired the workplace - these are the consequences",
       "source": "BBC News",
@@ -10,28 +26,12 @@
       "desc": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?"
     },
     {
-      "title": "County Monaghan: Man charged over intercepted bomb in car",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fdd/live/b0b60bc0-8775-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/25/2026, 7:07:25 PM",
-      "desc": "The man in his 40s is due to appear at the Criminal Courts of Justice on Saturday."
-    },
-    {
       "title": "More than 250,000 evacuated as wildfires rage in France and Spain",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
       "published": "7/25/2026, 5:52:18 PM",
       "desc": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
-    },
-    {
-      "title": "Cairngorm residents say wildfire response 'too slow'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b31b/live/29938250-8845-11f1-8c27-e3d42f185061.jpg",
-      "published": "7/25/2026, 4:52:28 PM",
-      "desc": "Nethy Bridge residents were evacuated on Friday and a major incident was declared."
     },
     {
       "title": "Police investigate donations by Richard Tice company to Reform UK",
@@ -67,6 +67,46 @@
     }
   ],
   "sports": [
+    {
+      "title": "MLB 2026 Buzz: Mets Place Juan Soto On IL; Ranger Suárez Back For Red Sox",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "7/25/2026, 9:52:26 PM",
+      "desc": "Notable news, notes and buzz from MLB's 2026 season."
+    },
+    {
+      "title": "Football gossip: Vinicius Jr, Alvarez, Romero, Diomande, Kone, Fernandes",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c678/live/ca703d20-885f-11f1-b2ab-0dd01740f9f6.png",
+      "published": "7/25/2026, 9:52:19 PM",
+      "desc": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more."
+    },
+    {
+      "title": "49ers GM Lynch focused on 'players that are here,' not WR Aiyuk - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49449057/49ers-gm-lynch-focused-players-here-not-wr-aiyuk",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0608%2Fr1669910_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 8:57:29 PM",
+      "desc": "49ers GM John Lynch had little to say Saturday about the status of estranged receiver Brandon Aiyuk, choosing instead to \"focus on the players that are here.\""
+    },
+    {
+      "title": "Arsenal Mulling Move For Real Madrid, Brazil Star Vinícius Júnior",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/arsenal-consider-launching-vinicius-jr-bid-as-real-madrid-forwards-contract-saga-drags-on",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/GettyImages-2275505398.jpg?ve=1&tl=1",
+      "published": "7/25/2026, 8:52:22 PM",
+      "desc": "Arsenal have emerged as shock contenders to land Real Madrid superstar Vinicius Junior as his contract stand-off at the Santiago Bernabeu continues."
+    },
+    {
+      "title": "LeBron James rode 'emotional roller coaster' before decision - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49448932/lebron-james-rode-emotional-roller-coaster-decision",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0724%2Fr1693257_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 8:28:01 PM",
+      "desc": "Rich Paul called the lead up to LeBron James' decision to join the Sixers an \"emotional roller coaster\" that didn't end until early Friday morning."
+    },
     {
       "title": "2026 MLB Milestones and Records Tracker: Salvador Perez New Royals HR Leader",
       "source": "Fox Sports",
@@ -132,14 +172,6 @@
       "desc": "Salvador Perez, third on baseball's list of home runs among active players who have played for one team, hit his 318th career homer on Saturday afternoon, breaking George Brett's franchise record in the Kansas City Royals' 3-2 win over the Detroit Tigers."
     },
     {
-      "title": "Magomed Ankalaev dominates Bogdan Guskov in bounce-back win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49448560/magomed-ankalaev-dominates-bogdan-guskov-bounce-back-win",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693624_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 7:25:42 PM",
-      "desc": "In his first appearance since losing the UFC's light heavyweight championship in October, Magomed Ankalaev looked as dominant as ever on Saturday -- and will now wait to see if it's enough for a title shot."
-    },
-    {
       "title": "Retired Donald in 'regimented process' for possible Rams return - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49448508/retired-donald-regimented-process-possible-rams-return",
@@ -164,14 +196,6 @@
       "desc": "New England Patriots owner Robert Kraft revealed that the team has made a record contract extension offer to cornerback Christian Gonzalez."
     },
     {
-      "title": "Vozinha to sign for Colo Colo after stellar World Cup - president - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0615%2Fr1673689_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 6:36:59 PM",
-      "desc": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said."
-    },
-    {
       "title": "49ers Coach Kyle Shanahan Hurt In Car Crash, Limited As Training Camp Opens",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/kyle-shanahan-car-crash-49ers-coach",
@@ -186,33 +210,57 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-11.jpg?ve=1&tl=1",
       "published": "7/25/2026, 5:22:22 PM",
       "desc": "The Astros had an eight-run inning, Tarik Skubal is back on track, the Rockies shocked the Brewers, Rōki Sasaki was electric and more from Friday's MLB action."
-    },
-    {
-      "title": "Lucas Herbert Has 4-Shot Lead On Bryson DeChambeau After Round 2 Of LIV Golf UK",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/golf/liv-golf-uk-round-2-leaderboard-herbert-dechambeau",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ef9c1a52-herbert2.jpg?ve=1&tl=1",
-      "published": "7/25/2026, 5:22:21 PM",
-      "desc": "Lucas Herbert has built a four-shot lead over Bryson DeChambeau after Round 2 of LIV Golf UK."
-    },
-    {
-      "title": "Tour de France 2026: Tadej Pogacar set for record fifth win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fafa/live/c3de77d0-883f-11f1-8c27-e3d42f185061.png",
-      "published": "7/25/2026, 4:37:26 PM",
-      "desc": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez."
-    },
-    {
-      "title": "49ers' Shanahan to be limited in camp after car crash - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49446662/49ers-shanahan-limited-camp-car-accident",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1022%2Fr1404330_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 4:02:00 PM",
-      "desc": "49ers coach Kyle Shanahan suffered significant injuries in a car crash during his summer break in mid-July that now will leave him limited as the team opens training camp."
     }
   ],
   "tech": [
+    {
+      "title": "Our First Look At Absolute Superman #25, At San Diego Comic-Con - Bleeding Cool News",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/comics/our-first-look-at-absolute-superman-25-at-san-diego-comic-con/",
+      "image": "https://bleedingcool.com/wp-content/uploads/2026/07/HOGVZbyaEAA6wfx-2000x1125.jpg",
+      "published": "7/25/2026, 9:03:13 PM",
+      "desc": "Shown off at the DC Absolute Universe panel at San Diego Comic-Con today were the upcoming twenty-fifth issues of Absolute Batman, Absolute Wonder Woman and Absolute Superman, with triple gatefold covers… and here's the one for Absolute Superman #25 as we wil…"
+    },
+    {
+      "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3abc7fcec11b769501ce25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published": "7/25/2026, 9:03:00 PM",
+      "desc": "As another heat dome is predicted in the U.S., Sony’s wearable air conditioner has just arrived. Here’s all you need to know."
+    },
+    {
+      "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,6.913700090708,100,86.172599818584",
+      "published": "7/25/2026, 6:13:36 PM",
+      "desc": "The Pixel 11 is just the latest victim of RAMageddon as Google all but confirms a price hike."
+    },
+    {
+      "title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
+      "image": "https://kotaku.com/app/uploads/2026/07/deluxekiss-1200x675.jpg",
+      "published": "7/25/2026, 6:08:45 PM",
+      "desc": "Each room in an unnamed hourly establishment was outfitted with a fully functioning 'Famicombox,' resurrecting rumors that a former Nintendo president dabbled in some after hours assignments"
+    },
+    {
+      "title": "iPhone 18 won’t debut this fall, here’s why - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/25/2026, 5:35:00 PM",
+      "desc": "We’re about two months away from Apple’s annual iPhone debut in September. This year, though, will be a bit different...."
+    },
+    {
+      "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/nintendoswitch2_splatoonraiders_scrn_33.jpg?w=1600&h=900&fit=crop",
+      "published": "7/25/2026, 4:00:11 PM",
+      "desc": "Donkey Kong Bananza, Kirby Air Riders, and Splatoon Raiders all show us what Nintendo is able to do with a more powerful console."
+    },
     {
       "title": "Six Years Ago, I Indulged My Husband’s Biggest Fantasy. Now It’s Eating Me Alive. - Slate",
       "source": "Slate Magazine",
@@ -222,52 +270,12 @@
       "desc": "Once ... just once ... I'd like to try anything else."
     },
     {
-      "title": "LG users complain about unwanted ads on TVs and gaming monitors - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
-      "image": "https://helios-i.mashable.com/imagery/articles/05HlF0RNUarz89Qh586ZWnZ/hero-image.fill.size_1200x675.v1784920083.jpg",
-      "published": "7/25/2026, 2:32:30 PM",
-      "desc": "Even Microsoft is irked by LG's advertising."
-    },
-    {
-      "title": "Google Maps rolling out Immersive Navigation, speedometer in Android Auto to more users - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/25/google-maps-immersive-navigation-android-auto-speedometer-rollout-more/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/25/2026, 2:15:00 PM",
-      "desc": "Google Maps appears to be opening the floodgates on the rollout of Immersive Navigation and support for a speedometer in..."
-    },
-    {
-      "title": "10 Desk Gadgets That Just Work - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2220363/desk-gadgets-just-work/",
-      "image": "https://www.bgr.com/img/gallery/10-desk-gadgets-that-just-work/l-intro-1784675690.jpg",
-      "published": "7/25/2026, 2:02:00 PM",
-      "desc": "From smart speakers and mechanical keyboards to webcams and battery backups, these practical, effective desk gadgets make every workday more productive."
-    },
-    {
-      "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
-      "source": "SFGate",
-      "url": "https://www.sfgate.com/tech/article/chatgpt-health-lawsuit-22359513.php",
-      "image": "https://s.hdnux.com/photos/01/66/72/55/31173465/3/rawImage.jpg",
-      "published": "7/25/2026, 2:01:45 PM",
-      "desc": "OpenAI released ChatGPT Health a day after a San Francisco lawsuit alleged ChatGPT medical advice nearly killed a man."
-    },
-    {
-      "title": "Final Fantasy XIV Online Releases For Switch 2 On 4th August 2026 - Nintendo Life",
+      "title": "Castlevania: Belmont's Curse Will Run At 30fps On Switch - Nintendo Life",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-xiv-online-releases-for-switch-2-on-4th-august-2026",
-      "image": "https://images.nintendolife.com/c0bb5d4e3ace1/large.jpg",
-      "published": "7/25/2026, 1:30:00 PM",
-      "desc": "Pre-orders are now live"
-    },
-    {
-      "title": "‘God Of War: Laufey’ And ‘Fable’ Play PS5-Xbox Release Date Chicken - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/25/god-of-war-laufey-and-fable-play-ps5-xbox-release-date-chicken/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2038bd5aabe360d09de189/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "7/25/2026, 1:18:09 PM",
-      "desc": "Fable, the storied Xbox IP, is about to go up against arguably PlayStation’s strongest: God of War with its Laufey release date."
+      "url": "https://www.nintendolife.com/news/2026/07/castlevania-belmonts-curse-will-run-at-30fps-on-switch",
+      "image": "https://images.nintendolife.com/11f04d0e347ab/large.jpg",
+      "published": "7/25/2026, 3:20:09 PM",
+      "desc": "Konami's 2D action-exploration game arrives this October"
     }
   ],
   "education": [
@@ -420,15 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "Fireflies",
-      "artist": "Martin Garrix & U2",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
-    },
-    {
-      "rank": 11,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
@@ -437,16 +436,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
-      "rank": 12,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "rank": 11,
+      "title": "Fireflies",
+      "artist": "Martin Garrix & U2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/60/85/79608529-9677-3363-f320-e0d8318e67d1/823375299752_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/9b/2e/3f9b2ea4-3d25-bc5c-243c-7424b2147171/mzaf_4601546857204070584.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fireflies/6788997127?i=6788997128&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Martin%20Garrix%20%26%20U2%20Fireflies"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
@@ -455,22 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
+      "rank": 13,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+    },
+    {
       "rank": 14,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 15,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 15,
-      "title": "Sweet July",
-      "artist": "Take That",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
     }
   ],
   "movies": [
@@ -530,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 8,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 9,
