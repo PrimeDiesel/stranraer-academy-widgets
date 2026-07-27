@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-26T22:59:27.044Z",
+  "updated": "2026-07-27T00:00:46.062Z",
   "news": [
     {
-      "title": "County Monaghan: Man charged over bomb in car",
+      "title": "Anthony Joshua vs Kristian Prenga: Briton suffers two knockdowns in first round but wins in second",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fdd/live/b0b60bc0-8775-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/25/2026, 9:52:21 PM",
-      "desc": "The Dublin man appeared at the Criminal Courts of Justice on Saturday evening."
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/832e/live/5c104b50-887c-11f1-b630-5dc42db23290.jpg",
+      "published": "7/25/2026, 11:52:29 PM",
+      "desc": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round."
     },
     {
-      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "title": "What Love Island tells us about the changing face of dating",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/25/2026, 9:37:29 PM",
-      "desc": "Police say an intensive manhunt is under way after the incident in Berlin's city centre."
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6805/live/5b30d6d0-86c6-11f1-8c61-e72dd81a46e3.jpg",
+      "published": "7/25/2026, 11:52:28 PM",
+      "desc": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture"
     },
     {
-      "title": "ADHD has rewired the workplace - these are the consequences",
+      "title": "Commonwealth Games 2026: Adam Ramsay-Peaty in tears after bronze medal",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e35e/live/f25d0fd0-8773-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/25/2026, 8:07:21 PM",
-      "desc": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?"
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6335/live/aa87b3c0-8874-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/25/2026, 11:52:26 PM",
+      "desc": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow."
     },
     {
       "title": "More than 250,000 evacuated as wildfires rage in France and Spain",
@@ -67,6 +67,46 @@
     }
   ],
   "sports": [
+    {
+      "title": "Anthony Joshua vs Kristian Prenga: Briton suffers two knockdowns in first round but wins in second",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/832e/live/5c104b50-887c-11f1-b630-5dc42db23290.jpg",
+      "published": "7/25/2026, 11:22:17 PM",
+      "desc": "Anthony Joshua suffers two knockdowns before recovering to dramatically stop Kristian Prenga in the second round."
+    },
+    {
+      "title": "Malaysia set to host F1 race in October as replacement for Bahrain Grand Prix called off earlier this year",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c3w01yvp218o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f94/live/9b3240e0-8827-11f1-bc76-7fa6f858478c.jpg",
+      "published": "7/25/2026, 11:07:18 PM",
+      "desc": "Malaysia is set to hold a grand prix in October as a replacement for the Bahrain race that was called off earlier this season."
+    },
+    {
+      "title": "Commonwealth Games 2026: Adam Ramsay-Peaty in tears after bronze medal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6335/live/aa87b3c0-8874-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/25/2026, 11:07:15 PM",
+      "desc": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow."
+    },
+    {
+      "title": "Ohtani skips bullpen session Saturday as Dodgers stay cautious - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49449846/ohtani-skips-bullpen-session-saturday-dodgers-stay-cautious",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693693_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 10:46:58 PM",
+      "desc": "Dodgers manager Dave Roberts said Shohei Ohtani experienced \"a little bit of regression after his last bullpen session Wednesday and the team opted to have him skip Saturday's session as he continues to deal with left knee discomfort."
+    },
+    {
+      "title": "Anthony Joshua survives two knockdowns to KO Kristian Prenga - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/boxing/story/_/id/49449387/anthony-joshua-survives-two-knockdowns-ko-kristian-prenga",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693695_1296x729_16%2D9.jpg",
+      "published": "7/25/2026, 10:42:00 PM",
+      "desc": "Anthony Joshua marked his return to the ring with a dramatic Round 2 knockout victory over Kristian Prenga on Saturday."
+    },
     {
       "title": "Will Lionel Messi Play In MLS All-Star Game? Latest On Inter Miami Star&#39;s Status",
       "source": "Fox Sports",
@@ -164,62 +204,30 @@
       "desc": "Cape Verde goalkeeper Vozinha, who earned plaudits for his feats during the World Cup, is set to join Chilean side Colo Colo."
     },
     {
-      "title": "Joshua vs Prenga LIVE:  Boxing fight UK time, ring walk, undercard, results & radio commentary",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/live/c9367kpk4rlt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ef0/live/4f60c2f0-8862-11f1-bbce-b5e49cfdff88.jpg",
-      "published": "7/25/2026, 8:07:25 PM",
-      "desc": "Follow live text updates from Anthony Joshua vs Kristian Prenga as heavyweights fight in Saudi Arabia."
-    },
-    {
       "title": "Hungarian Grand Prix: Lando Norris cautious despite pole as qualifying 'falls apart' for Lewis Hamilton",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc17/live/ec1dc6b0-8858-11f1-a7ab-8b30adf0800a.jpg",
       "published": "7/25/2026, 8:07:22 PM",
       "desc": "Lando Norris has an opportunity to win his first grand prix of the year in Hungary, but Lewis Hamilton says his positivity is being tested after another penalty."
-    },
-    {
-      "title": "Perez passes Brett with 318 homers as a Kansas City Royal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49448590/perez-passes-brett-318-homers-kansas-city-royal",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693627_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 7:31:13 PM",
-      "desc": "Salvador Perez, third on baseball's list of home runs among active players who have played for one team, hit his 318th career homer on Saturday afternoon, breaking George Brett's franchise record in the Kansas City Royals' 3-2 win over the Detroit Tigers."
-    },
-    {
-      "title": "Retired Donald in 'regimented process' for possible Rams return - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49448508/retired-donald-regimented-process-possible-rams-return",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0322%2Fr1308713_1296x729_16%2D9.jpg",
-      "published": "7/25/2026, 7:20:28 PM",
-      "desc": "Coach Sean McVay says former Rams defensive tackle Aaron Donald is putting himself through a \"very strict, regimented process\" as he considers a return to the playing field."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: A&#39;s Sign Former Cy Young Winner",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
-      "published": "7/25/2026, 6:52:22 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "Patriots Owner Robert Kraft: We&#39;ve Made Historic Offer To Christian Gonzalez",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/christian-gonzalez-extension-rumors-patriots-owner-robert-kraft",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gonzalez1.jpg?ve=1&tl=1",
-      "published": "7/25/2026, 6:52:18 PM",
-      "desc": "New England Patriots owner Robert Kraft revealed that the team has made a record contract extension offer to cornerback Christian Gonzalez."
     }
   ],
   "tech": [
     {
-      "title": "Our First Look At Absolute Superman #25, At San Diego Comic-Con - Bleeding Cool News",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/comics/our-first-look-at-absolute-superman-25-at-san-diego-comic-con/",
-      "image": "https://bleedingcool.com/wp-content/uploads/2026/07/HOGVZbyaEAA6wfx-2000x1125.jpg",
-      "published": "7/25/2026, 9:03:13 PM",
-      "desc": "Shown off at the DC Absolute Universe panel at San Diego Comic-Con today were the upcoming twenty-fifth issues of Absolute Batman, Absolute Wonder Woman and Absolute Superman, with triple gatefold covers… and here's the one for Absolute Superman #25 as we wil…"
+      "title": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/24/adc3997b-f258-4908-a85b-b5900206efcb/thumbnail/1200x630/1c4c3e69d2919d65f26379621b3f95dc/gettyimages-1645690310.jpg",
+      "published": "7/25/2026, 11:10:03 PM",
+      "desc": "OpenAI announced a dedicated space in ChatGPT for sharing medical records, Health in ChatGPT. Health and AI experts lay out the pros and cons."
+    },
+    {
+      "title": "'If People Want That, I Think Companies Should Provide It' — Rockstar Co-Founder Shares His Thoughts on the Conversation Around Physical Game Releases - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/rockstar-co-founder-says-if-people-want-physical-game-releases-then-companies-should-provide-it",
+      "image": "https://assets-prd.ignimgs.com/2026/07/25/dan-houser-1785019173656.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/25/2026, 10:56:51 PM",
+      "desc": "Rockstar Games co-founder Dan Houser believes that, if players want their games released on physical media, then \"companies should provide it.\""
     },
     {
       "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
@@ -228,6 +236,22 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/6a3abc7fcec11b769501ce25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "7/25/2026, 9:03:00 PM",
       "desc": "As another heat dome is predicted in the U.S., Sony’s wearable air conditioner has just arrived. Here’s all you need to know."
+    },
+    {
+      "title": "Warren Spector’s Thick As Thieves Ends Support After Two Months - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
+      "image": "https://kotaku.com/app/uploads/2026/07/thickthieves-1180x675.jpg",
+      "published": "7/25/2026, 9:02:55 PM",
+      "desc": "After significant layoffs at the studio, the leaner Thief successor is hoping to continue with peer-to-peer servers"
+    },
+    {
+      "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
+      "image": "https://kotaku.com/app/uploads/2026/07/splatsaviors-1200x675.jpg",
+      "published": "7/25/2026, 8:23:00 PM",
+      "desc": "Nothing sizzles quite like fashioning a biblically accurate balloon animal and watching it become a kill box"
     },
     {
       "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
@@ -252,30 +276,6 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/25/2026, 5:35:00 PM",
       "desc": "We’re about two months away from Apple’s annual iPhone debut in September. This year, though, will be a bit different...."
-    },
-    {
-      "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/nintendoswitch2_splatoonraiders_scrn_33.jpg?w=1600&h=900&fit=crop",
-      "published": "7/25/2026, 4:00:11 PM",
-      "desc": "Donkey Kong Bananza, Kirby Air Riders, and Splatoon Raiders all show us what Nintendo is able to do with a more powerful console."
-    },
-    {
-      "title": "Six Years Ago, I Indulged My Husband’s Biggest Fantasy. Now It’s Eating Me Alive. - Slate",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2026/07/male-advice-fantasy-men-lingerie-cross-dressing.html",
-      "image": "https://compote.slate.com/images/396291bf-e427-48c9-a603-14208da6bd8e.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "published": "7/25/2026, 4:00:00 PM",
-      "desc": "Once ... just once ... I'd like to try anything else."
-    },
-    {
-      "title": "Castlevania: Belmont's Curse Will Run At 30fps On Switch - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/07/castlevania-belmonts-curse-will-run-at-30fps-on-switch",
-      "image": "https://images.nintendolife.com/11f04d0e347ab/large.jpg",
-      "published": "7/25/2026, 3:20:09 PM",
-      "desc": "Konami's 2D action-exploration game arrives this October"
     }
   ],
   "education": [
