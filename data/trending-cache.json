@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-28T11:58:57.469Z",
+  "updated": "2026-07-28T14:09:13.555Z",
   "news": [
+    {
+      "title": "Mersea beach tragedy relative says strong tide caused tragedy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3d3kj318vyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0013/live/3408c450-86ad-11f1-8e17-395fea5a1d61.png",
+      "published": "7/27/2026, 1:52:19 PM",
+      "desc": "Shahin Ahmed's seven-year-old son remains in a critical condition after being pulled from the water."
+    },
+    {
+      "title": "How wildfires in France and Spain may affect your travel plans",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd7b/live/3c068830-89ab-11f1-a44b-5525937994ba.jpg",
+      "published": "7/27/2026, 12:37:24 PM",
+      "desc": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
+    },
     {
       "title": "The Odyssey: Millions see leaked copy of movie on X",
       "source": "BBC News",
@@ -34,22 +50,6 @@
       "desc": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained."
     },
     {
-      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f7f/live/39e43050-899e-11f1-8c68-81d45f5a03af.jpg",
-      "published": "7/27/2026, 10:07:17 AM",
-      "desc": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant."
-    },
-    {
-      "title": "Man in lobster suit hunted over Alexandra Palace darts attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dngne3n9yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e66/live/694321b0-898c-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "7/27/2026, 9:37:27 AM",
-      "desc": "Images are released of a man thought to have attacked another man at the World Darts Championship."
-    },
-    {
       "title": "Bill Oddie: The Goodies and Springwatch star dies at 85",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo",
@@ -68,6 +68,78 @@
   ],
   "sports": [
     {
+      "title": "Bilal Fawaz: British light-middleweight champion fighting for a British passport",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce2a/live/37480fa0-8693-11f1-9e03-bdd14c1ce63a.jpg",
+      "published": "7/27/2026, 2:22:24 PM",
+      "desc": "British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary."
+    },
+    {
+      "title": "How to Watch TBT Today: Schedule, TV Channel, Streaming for Monday, July 27",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/other/how-watch-tbt-today-schedule-tv-channel-streaming-monday-july-27",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tbt-htw-scaled.jpg?ve=1&tl=1",
+      "published": "7/27/2026, 1:52:24 PM",
+      "desc": "TBT has two games today, a Vegas Bracket quarterfinal and an Alumni Bracket semifinal. Here's the schedule and how to watch both on FS1."
+    },
+    {
+      "title": "Sources: Wife of Chiefs' Eric Bieniemy shot at couple's home - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49462234/sources-wife-chiefs-eric-bieniemy-shot-couple-home",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0102%2Fr648048_1296x729_16%2D9.jpg",
+      "published": "7/27/2026, 1:46:18 PM",
+      "desc": "The wife of Chiefs offensive coordinator Eric Bieniemy was shot at the couple's home in Virginia, sources told ESPN."
+    },
+    {
+      "title": "English football agrees trial to end goalkeeper tactical timeout",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/441f/live/daf7c2b0-850f-11f1-a08a-6d526d664753.jpg",
+      "published": "7/27/2026, 1:37:23 PM",
+      "desc": "English football is set to implement a radical trial to try to eradicate the goalkeeper tactical timeout this season, BBC Sport can reveal."
+    },
+    {
+      "title": "Danny Welbeck: Chelsea in talks to sign Brighton forward",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/337d/live/5210b680-89bc-11f1-965a-d70ca8fc6275.jpg",
+      "published": "7/27/2026, 1:37:19 PM",
+      "desc": "Chelsea are in talks to sign Brighton & Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge."
+    },
+    {
+      "title": "Sound Smart: 7 QBs Already On The Hot Seat, Plus Other Key Insights As NFL Camps Open",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/behind-scenes-rams-training-camp-7-qbs-hot-seat",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/sound-smart-16x9-1.jpg?ve=1&tl=1",
+      "published": "7/27/2026, 1:22:19 PM",
+      "desc": "Seven QBs and three 2025 playoff teams under pressure entering camp, plus Rams coach Sean McVay reveals what he looks for in his players."
+    },
+    {
+      "title": "Scottie Scheffler: Why has world number one stopped winning tournaments?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/cm2ge4pv94lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bcd5/live/472f6700-89b9-11f1-ba35-adcc7c70146e.jpg",
+      "published": "7/27/2026, 1:22:18 PM",
+      "desc": "World number one Scottie Scheffler has not won a tournament since January, but what's the reason?"
+    },
+    {
+      "title": "Mercedes driver scout involved in discovering Kimi Antonelli to join Red Bull",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0648/live/bf3054e0-8364-11f1-a0d2-c70a9d6f1fff.jpg",
+      "published": "7/27/2026, 12:52:22 PM",
+      "desc": "The Mercedes driver scout involved in discovering Kimi Antonelli is leaving the team to join rivals Red Bull."
+    },
+    {
+      "title": "UNC football GM Michael Lombardi on paid administrative leave - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49461839/unc-football-gm-michael-lombardi-paid-administrative-leave",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0727%2Fr1694250_1296x729_16%2D9.jpg",
+      "published": "7/27/2026, 12:40:29 PM",
+      "desc": "North Carolina football GM Michael Lombardi, a top aide to coach Bill Belichick, has been placed on paid administrative leave by the university."
+    },
+    {
       "title": "Tyson Fury v Anthony Joshua fight closer but hurdles still to clear",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/boxing/articles/ckg3xj2j27mo",
@@ -84,28 +156,12 @@
       "desc": "Follow live text updates, scores, results and medal table updates on day four from the Commonwealth Games in Glasgow."
     },
     {
-      "title": "Women's Super League: Brighton captain Maisie Symonds signs new deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ca0/live/00c939c0-89a6-11f1-a85a-79136c2d298e.jpg",
-      "published": "7/27/2026, 11:37:19 AM",
-      "desc": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term."
-    },
-    {
       "title": "1 Big Ten Football Storyline To Watch For Each Team Ahead Of Media Days",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/big-ten-media-days-indiana-michigan-ohio-state-oregon",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/big10-football-preview-9x16-1.png?ve=1&tl=1",
       "published": "7/27/2026, 11:22:25 AM",
       "desc": "From defending national champion Indiana to teams looking to bounce back, here's a very early look at Big Ten football."
-    },
-    {
-      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/news/articles/c4g49r2338xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01fc/live/7b3dc190-89a5-11f1-8a9d-b9e590fcf96d.jpg",
-      "published": "7/27/2026, 11:22:21 AM",
-      "desc": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup."
     },
     {
       "title": "Vinicius Jr: Real Madrid contract talks and Arsenal interest - what next for Brazil international?",
@@ -124,12 +180,12 @@
       "desc": "Stanford football players announced Monday the formation of a chapter of the College Football Players Association, which is pushing to eventually unionize college athletes."
     },
     {
-      "title": "Micky van de Ven: Tottenham spending highlights 'new ambition' after 'unacceptable' season",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f2a2/live/b16d1670-8988-11f1-88b2-635548373e92.jpg",
-      "published": "7/27/2026, 9:52:19 AM",
-      "desc": "Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season."
+      "title": "Big stories of the NFL 2026 offseason, from Garrett to Kelce - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49447669/2026-nfl-offseason-catchup-myles-garrett-aj-brown-travis-kelce-wedding-highlight",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2F260727_nfl_nfl%2Doffseason_16x9.jpg",
+      "published": "7/27/2026, 10:00:00 AM",
+      "desc": "With training camps opening across the NFL, here's a cheat sheet on what you might have missed this offseason."
     },
     {
       "title": "World Cup 2026: Gianni Infantino tells Fifa critics to 'meditate, pray or watch football'",
@@ -154,128 +210,72 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg",
       "published": "7/27/2026, 6:07:22 AM",
       "desc": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest."
-    },
-    {
-      "title": "Sources: Nuggets matching OKC's offer sheet to Spencer Jones - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49459602/sources-nuggets-matching-okc-offer-sheet-spencer-jones",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0124%2Fr1604889_1296x729_16%2D9.jpg",
-      "published": "7/27/2026, 3:03:36 AM",
-      "desc": "The Nuggets are matching the Thunder's fully guaranteed two-year, $12 million offer sheet to Spencer Jones, sources said."
-    },
-    {
-      "title": "Carlos Beltrán, Andruw Jones, Jeff Kent Enshrined In Baseball Hall Of Fame",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/beltran-jones-and-kent-pay-tribute-to-home-and-family-during-baseball-hall-of-fame-inductions",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2287145153-1-scaled.jpg?ve=1&tl=1",
-      "published": "7/27/2026, 1:07:21 AM",
-      "desc": "Puerto Rico and Curaçao may be small islands, but the support they showed was massive as elite center fielders Carlos Beltrán and Andruw Jones were inducted into the Baseball Hall of Fame Sunday."
-    },
-    {
-      "title": "4 Takeaways From Corey Heim&#39;s Masterful Brickyard 400 Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/corey-heim-brickyard-400-win-23xi",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-2.png?ve=1&tl=1",
-      "published": "7/27/2026, 12:22:19 AM",
-      "desc": "It's Heim Time once again as Corey Heim earned his second victory of the season — this time winning the famed Brickyard 400."
-    },
-    {
-      "title": "49ers’ Kyle Shanahan Makes Brief Appearance At Training Camp After Car Crash",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-kyle-shanahan-makes-brief-appearance-training-camp-after-car-crash",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/49ers.jpg?ve=1&tl=1",
-      "published": "7/27/2026, 12:22:17 AM",
-      "desc": "Coach Kyle Shanahan walked onto the practice field and stood next to general manager John Lynch, watching his San Francisco 49ers practice for about 30 minutes."
-    },
-    {
-      "title": "Lucas Herbert Secures Historic LIV Golf Win As Ripper GC Claims Team Title in UK",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/golf/lucas-herbert-secures-historic-liv-golf-win-ripper-gc-claims-team-title-uk",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/golf.jpg?ve=1&tl=1",
-      "published": "7/26/2026, 11:07:26 PM",
-      "desc": "Lucas Herbert didn't just win LIV Golf United Kingdom Presented by JCB. He rewrote the LIV Golf record book doing it."
-    },
-    {
-      "title": "With Patrick Mahomes Healthy, Andy Reid Revives Early Camp Start For Chiefs",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/a-reset-in-kansas-city-andy-reid-brings-chiefs-rookies-and-qbs-in-early-again-after-a-611-collapse",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2287622206-scaled-e1785104931539.jpg?ve=1&tl=1",
-      "published": "7/26/2026, 11:07:20 PM",
-      "desc": "Kansas City Chiefs coach Andy Reid decided to bring rookies and quarterbacks into training camp early this year, something he had eschewed during their recent playoff seasons."
-    },
-    {
-      "title": "Mets beat Dodgers as Peralta likely makes last start for New York - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49458355/mets-beat-dodgers-peralta-likely-last-start-new-york",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0726%2Fr1694080_1296x729_16%2D9.jpg",
-      "published": "7/26/2026, 10:27:00 PM",
-      "desc": "With the Aug. 3 trade deadline looming and New York's postseason chances dashed, Freddy Peralta, a free agent this offseason, knew he likely took the mound Sunday for the final time in a Mets uniform."
     }
   ],
   "tech": [
     {
-      "title": "Column | I’m a doctor. Here’s why I wear sunblock indoors. - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2026/07/27/doctor-heres-why-i-wear-sunblock-indoors/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/S7EZLP22U6ZGP7AGACYMAXHZR4.jpg&w=1440",
-      "published": "7/27/2026, 10:32:30 AM",
-      "desc": "Plus, four tips for buying an effective sunscreen."
+      "title": "Cleanse the Mortal Realms with the new Warhammer Heroes - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_1-feature-dicy5lxr6v.jpg",
+      "published": "7/27/2026, 1:58:11 PM",
+      "desc": "The new season of Warhammer Heroes miniatures is revealed."
     },
     {
-      "title": "This Week’s Japanese Game Releases: Halo: Campaign Evolved, Village in the Shade, more - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-halo-campaign-evolved-village-in-the-shade-more",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Weekly-Japanese-Game-Releases_07-26-26.jpg",
-      "published": "7/27/2026, 3:26:58 AM",
-      "desc": "Halo: Campaign Evolved for PlayStation 5, Xbox Series, and PC, and Village in the Shade for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game relea…"
+      "title": "Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/xbox-outage-july-2026",
+      "image": "https://assetsio.gnwcdn.com/Xbox-down-custom-image-burning.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/27/2026, 1:26:55 PM",
+      "desc": "Shortly after PlayStation Network's outage last week, Xbox's online services are facing trouble too, with the support team saying work is underway."
     },
     {
-      "title": "Apple Watch Series 12 and Ultra 4: What to expect - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/26/2026, 11:43:00 PM",
-      "desc": "The Apple Watch Series 12 and Ultra 4 are reportedly in late-stage testing. Here's what to expect, including a long-awaited chip upgrade."
+      "title": "Big STALKER 2 Overhaul Coming 20th August in 2.0 Patch and First DLC - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/big-stalker-2-overhaul-coming-20th-august-in-2-0-patch-and-first-dlc",
+      "image": "https://images.pushsquare.com/0a6d43a608cf1/large.jpg",
+      "published": "7/27/2026, 1:00:00 PM",
+      "desc": "Hardcore shooter expanded and improved"
     },
     {
-      "title": "Preorders Are Live for Hasbro’s The Legend of Zelda Figures – Here’s Where You Can Grab Them - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/preorder-hasbro-the-legend-of-zelda-figures",
-      "image": "https://assets-prd.ignimgs.com/2026/07/24/hasbro-the-legend-of-zelda-heroes-of-hyrule-link1-1784895147476.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/26/2026, 10:50:49 PM",
-      "desc": "Hasbro's The Legend of Zelda figures of Link, Zelda, and Ganondorf are now available to preorder from select retailers. With a release date of May 1 next year, we've broken down where they're available to buy right now."
-    },
-    {
-      "title": "Samsung Galaxy S27 leak hints at pricier retail bet - thestreet.com",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/samsung-galaxy-s27-leak-hints-at-pricier-retail-bet",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTI1ODI3/south-koreas-president-lee-jae-myung-national-briefing-on-three-major-mega-projects.jpg?profile=share16-9",
-      "published": "7/26/2026, 10:47:00 PM",
-      "desc": "Samsung may be giving shoppers one Galaxy too many"
-    },
-    {
-      "title": "31 People Who Didn’t Realize How Horrifically They Failed Until It Was Already Too Late - BuzzFeed",
-      "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/angelicaamartinez/funny-fails-2026-july",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/23/00/thumb/zNlZEUvK7.jpg?crop=2999:1570;0,2%26downsize=1250:*",
-      "published": "7/26/2026, 10:31:02 PM",
-      "desc": "Deep sigh!"
-    },
-    {
-      "title": "Siri AI continues to get better as iOS 27 Developer Beta 4 is released - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/siri-ai-gets-better-with-latest-beta-update_id182128",
+      "title": "AI wearable watches you to predict what you need - Fox News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KR01kQkRVSm0yZFR6d2NHaE51U193NmJWQUdjVG9rYnlLQmxMTEVCREdYOW1UMU9mTVZTTVZscExDV1RZRF9ZU2d0NHU3UzZhcUVPbE1lLU4ydGwwbHh0SFQ0dlEwYWNwdDBiY2130gFzQVVfeXFMUFBidlc3UURBWmN4aEg2dlhxS3JkMEtVR19TY0xiaWFnQm9TRGxLQzZaQWRUcnhsVHZEYnVIZHZ6RjE5Sk5VYWwzOUhpOHo4bWxvQjVJQVZhSldqY3VQVDNiWi1Mb3B2M2N2SGlQVmpYREE0QQ?oc=5",
       "image": "",
-      "published": "7/26/2026, 9:55:19 PM",
+      "published": "7/27/2026, 12:00:47 PM",
       "desc": ""
     },
     {
-      "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "7/26/2026, 9:41:44 PM",
-      "desc": "The integration of health data into consumer AI platforms is rapidly growing."
+      "title": "August’s Miniature of the Month and Collectable Coin Revealed - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/t8wdopoj/augusts-miniature-of-the-month-and-collectable-coin-revealed",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/motm-jul27-1-feature-6ouxlxdjti.jpg",
+      "published": "7/27/2026, 11:58:14 AM",
+      "desc": "Find out what goodies you can grab next month in your local Warhammer store."
+    },
+    {
+      "title": "'The Way It Was Meant to Be Heard': Tone-Deaf Sony Pushes Vinyl Turntable After Killing Physical Games - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/the-way-it-was-meant-to-be-heard-tone-deaf-sony-pushes-vinyl-turntable-after-killing-physical-games",
+      "image": "https://images.pushsquare.com/d7f21d4811ddc/large.jpg",
+      "published": "7/27/2026, 11:45:00 AM",
+      "desc": "Now's not the time"
+    },
+    {
+      "title": "\"4 or maybe even 5 instalments\" If you want Remakes of older Final Fantasy games, prepare for them to be even bigger than the FF7 Remake trilogy - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/final-fantasy-remakes-multiple-installments-hamaguchi-yoshida",
+      "image": "https://assetsio.gnwcdn.com/ff7-r-ff-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/27/2026, 11:44:46 AM",
+      "desc": "Final Fantasy 14's Naoki 'Yoshi-P' Yoshida has been thinking out loud about what future remakes could look like in the FF series."
+    },
+    {
+      "title": "PlayStation ‘Blackout’ Planned In August To Protest Discless Future - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/fans-try-to-mount-playstation-blackout-week-to-protest-sonys-disc-less-future-2000719435",
+      "image": "https://kotaku.com/app/uploads/2026/07/playstation-games-1200x675.jpg",
+      "published": "7/27/2026, 11:08:23 AM",
+      "desc": "The PSBlackout organizers are asking PlayStations to refrain from logging into and purchasing any content on PlayStation platforms from August 23 to August 30"
     }
   ],
   "education": [
@@ -401,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 8,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
@@ -418,7 +409,43 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
     },
     {
+      "rank": 8,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
       "rank": 9,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
+    },
+    {
+      "rank": 10,
+      "title": "You're So Vain",
+      "artist": "Carly Simon",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/2e/4e/c42e4e98-0316-1e17-0ca3-b2acd11e5738/mzi.dnscdjwg.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/39/86/23398655-95d7-21ef-4a85-d21d6c90dedf/mzaf_5704829619668255519.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/youre-so-vain/271649381?i=271649387&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20You're%20So%20Vain"
+    },
+    {
+      "rank": 11,
+      "title": "Nobody Does It Better",
+      "artist": "Carly Simon",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/9b/b1/b89bb197-0012-dbe5-5f25-efae35ec628c/05099969735950.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/3a/8f/eb3a8fcd-8e55-e20a-5b12-b10d7736f092/mzaf_6801118947317646849.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/nobody-does-it-better/715595015?i=715595121&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20Nobody%20Does%20It%20Better"
+    },
+    {
+      "rank": 12,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
@@ -427,7 +454,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
-      "rank": 10,
+      "rank": 13,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -436,60 +463,33 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 11,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 12,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 13,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
       "rank": 14,
-      "title": "I Just Might",
-      "artist": "Bruno Mars",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/ef/58/86ef584b-cb46-43df-12e3-fce4b436688c/mzaf_10081886156675578892.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-just-might/1866732792?i=1866732800&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bruno%20Mars%20I%20Just%20Might"
-    },
-    {
-      "rank": 15,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 15,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Supergirl",
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 2,
@@ -502,12 +502,12 @@
     },
     {
       "rank": 3,
-      "title": "Disclosure Day",
+      "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "poster": "https://image.tmdb.org/t/p/w342/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 4,
@@ -556,23 +556,13 @@
     },
     {
       "rank": 9,
-      "title": "The Devil Wears Prada 2",
+      "title": "Moana",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
-  "tv": [
-    {
-      "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    }
-  ]
+  "tv": []
 }
