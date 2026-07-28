@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-28T06:28:06.396Z",
+  "updated": "2026-07-28T09:37:14.840Z",
   "news": [
+    {
+      "title": "Behind the scenes at No 10 as Andy Burnham becomes prime minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/27/2026, 8:52:19 AM",
+      "desc": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power."
+    },
+    {
+      "title": "Two people die after large emergency response on Newquay beach",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50b0/live/b2e6d9a0-8992-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/27/2026, 8:37:24 AM",
+      "desc": "A man and a woman both died at the scene after being recovered from the sea off Cornwall."
+    },
+    {
+      "title": "Three dead after shooting at Bite of Seattle food festival",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5827/live/cc10fa80-8980-11f1-91d4-8f29e4485c46.jpg",
+      "published": "7/27/2026, 7:37:19 AM",
+      "desc": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody."
+    },
     {
       "title": "Legacy funeral boss Robert Bush has shown no remorse, says victim",
       "source": "BBC News",
@@ -10,36 +34,12 @@
       "desc": "Robert Bush is being sentenced later for a string of offences, including denying proper burials."
     },
     {
-      "title": "Andy Burnham pledges continued support for Ukraine ahead of Zelensky visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/27/2026, 5:52:21 AM",
-      "desc": "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
-    },
-    {
-      "title": "Behind the scenes at No 10 as Andy Burnham becomes prime minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/27/2026, 5:52:19 AM",
-      "desc": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power."
-    },
-    {
       "title": "Andy Burnham tells BBC NHS 'will collapse' without social care reform",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c163/live/37ae8280-8918-11f1-9303-cf4043796b6f.jpg",
       "published": "7/27/2026, 5:22:21 AM",
       "desc": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system."
-    },
-    {
-      "title": "France and Spain fires: Macron calls crisis meeting as wildfires threaten Bordeaux",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e4/live/a5e80750-894d-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/27/2026, 3:52:25 AM",
-      "desc": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate."
     },
     {
       "title": "Would you choose £50,000 over the chance of £1m?",
@@ -68,12 +68,28 @@
   ],
   "sports": [
     {
-      "title": "Women's Matchplay darts 2026 results: Beau Greaves beats Fallon Sherrock to claim third title",
+      "title": "World Cup 2026: Gianni Infantino tells Fifa critics to 'meditate, pray or watch football'",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/darts/articles/cy9wvxqqj40o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/78b0/live/9769a7a0-890d-11f1-84f3-d921f52926a2.jpg",
-      "published": "7/27/2026, 6:07:25 AM",
-      "desc": "Beau Greaves wins the Women's World Matchplay for the third time after coming through a thrilling last-leg decider to beat Fallon Sherrock."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz0515973gpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d0be/live/28678820-8987-11f1-88b2-635548373e92.jpg",
+      "published": "7/27/2026, 8:22:23 AM",
+      "desc": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup."
+    },
+    {
+      "title": "Morgan Rogers: Chelsea boss Xabi Alonso has 'plan' for record signing to play alongside Cole Palmer",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd8d/live/9cd85070-897f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/27/2026, 8:07:28 AM",
+      "desc": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer."
+    },
+    {
+      "title": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0611%2Fr1671041_1296x729_16%2D9.jpg",
+      "published": "7/27/2026, 6:46:00 AM",
+      "desc": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\""
     },
     {
       "title": "Yan Diomande: Real Madrid agree terms with RB Leipzig winger as PSG interest ends",
@@ -194,25 +210,25 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0726%2Fr1694067_1296x729_16%2D9.jpg",
       "published": "7/26/2026, 9:46:23 PM",
       "desc": "Different paths took Andruw Jones, Carlos Beltran and Jeff Kent to Cooperstown, but on Sunday they officially arrived."
-    },
-    {
-      "title": "Football gossip: Barcola, Vinicius Jr, Guimaraes, Savinho, Diomande, Salah",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cly5189yjgdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/675f/live/f737b7b0-8932-11f1-b8ee-9b3c26ad07bb.png",
-      "published": "7/26/2026, 9:22:24 PM",
-      "desc": "Paris St-Germain want £145m for Bradley Barcola, Real Madrid set Vinicius Jr price and Arsenal to accelerate Bruno Guimaraes talks, plus more."
-    },
-    {
-      "title": "Kazuyoshi Miura: World's oldest professional footballer, 59, scores first goal in nearly four years",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3r087181ndo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e19d/live/3a982b90-8931-11f1-b684-d3f861a1f4cf.jpg",
-      "published": "7/26/2026, 9:22:21 PM",
-      "desc": "Kazuyoshi Miura, the world's oldest professional footballer, scores his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United."
     }
   ],
   "tech": [
+    {
+      "title": "Column | I’m a doctor. Here’s why I wear sunblock indoors. - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/07/27/doctor-heres-why-i-wear-sunblock-indoors/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/S7EZLP22U6ZGP7AGACYMAXHZR4.jpg&w=1440",
+      "published": "7/27/2026, 10:32:30 AM",
+      "desc": "Plus, four tips for buying an effective sunscreen."
+    },
+    {
+      "title": "This Week’s Japanese Game Releases: Halo: Campaign Evolved, Village in the Shade, more - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-halo-campaign-evolved-village-in-the-shade-more",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Weekly-Japanese-Game-Releases_07-26-26.jpg",
+      "published": "7/27/2026, 3:26:58 AM",
+      "desc": "Halo: Campaign Evolved for PlayStation 5, Xbox Series, and PC, and Village in the Shade for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game relea…"
+    },
     {
       "title": "Apple Watch Series 12 and Ultra 4: What to expect - 9to5Mac",
       "source": "9to5Mac",
@@ -220,6 +236,22 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/26/2026, 11:43:00 PM",
       "desc": "The Apple Watch Series 12 and Ultra 4 are reportedly in late-stage testing. Here's what to expect, including a long-awaited chip upgrade."
+    },
+    {
+      "title": "Preorders Are Live for Hasbro’s The Legend of Zelda Figures – Here’s Where You Can Grab Them - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/preorder-hasbro-the-legend-of-zelda-figures",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/hasbro-the-legend-of-zelda-heroes-of-hyrule-link1-1784895147476.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "7/26/2026, 10:50:49 PM",
+      "desc": "Hasbro's The Legend of Zelda figures of Link, Zelda, and Ganondorf are now available to preorder from select retailers. With a release date of May 1 next year, we've broken down where they're available to buy right now."
+    },
+    {
+      "title": "Samsung Galaxy S27 leak hints at pricier retail bet - thestreet.com",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/samsung-galaxy-s27-leak-hints-at-pricier-retail-bet",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTI1ODI3/south-koreas-president-lee-jae-myung-national-briefing-on-three-major-mega-projects.jpg?profile=share16-9",
+      "published": "7/26/2026, 10:47:00 PM",
+      "desc": "Samsung may be giving shoppers one Galaxy too many"
     },
     {
       "title": "31 People Who Didn’t Realize How Horrifically They Failed Until It Was Already Too Late - BuzzFeed",
@@ -230,52 +262,20 @@
       "desc": "Deep sigh!"
     },
     {
+      "title": "Siri AI continues to get better as iOS 27 Developer Beta 4 is released - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/siri-ai-gets-better-with-latest-beta-update_id182128",
+      "image": "",
+      "published": "7/26/2026, 9:55:19 PM",
+      "desc": ""
+    },
+    {
       "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare - Forbes",
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "7/26/2026, 9:41:44 PM",
       "desc": "The integration of health data into consumer AI platforms is rapidly growing."
-    },
-    {
-      "title": "Miyamoto Says Players No Longer Care About Hardware Specs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415",
-      "image": "https://kotaku.com/app/uploads/2026/07/nintendocdi-1088x675.jpg",
-      "published": "7/26/2026, 9:20:11 PM",
-      "desc": "Gaming trends have the Mario creator feeling that cutting edge graphics and performance are no longer the priority for customers, and the evidence seems to be on his side"
-    },
-    {
-      "title": "5 Masterpiece GameCube Games No One Remembers - Comic Book Resources",
-      "source": "CBR - Comic Book Resources",
-      "url": "https://www.cbr.com/masterpiece-gamecube-games-no-one-remembers/",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/gamecube-with-controller.jpg?w=1600&h=900&fit=crop",
-      "published": "7/26/2026, 9:15:15 PM",
-      "desc": "Everyone remembers perfect GameCube classics like Twilight Princess and Mario Kart Double Dash, but there are other masterpieces no one remembers."
-    },
-    {
-      "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/jackery-fridgeguard-review",
-      "image": "https://helios-i.mashable.com/imagery/articles/01oepACVAMrzVN6WEoNO7g7/hero-image.fill.size_1200x675.v1784839974.jpg",
-      "published": "7/26/2026, 9:03:43 PM",
-      "desc": "Rest easy the fridge will keep cooling during the next power outage with zero effort on your part."
-    },
-    {
-      "title": "7 Key Garmin Cirqa Questions Answered By Garmin - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/26/7-key-garmin-cirqa-questions-answered-by-garmin/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a638b09d314b7840c1a6114/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "7/26/2026, 8:49:20 PM",
-      "desc": "Garmin clears up some FAQs about the Garmin Cirqa, its latest tracker, including exactly who should consider buying one. And it is not absolutely everyone."
-    },
-    {
-      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "7/26/2026, 7:36:38 PM",
-      "desc": "They’re expected be revealed next June at WWDC."
     }
   ],
   "education": [
@@ -419,21 +419,21 @@
     },
     {
       "rank": 9,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 10,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 10,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 11,
@@ -446,24 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 13,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 14,
       "title": "Run Run River (Angels Above Me)",
       "artist": "David Guetta, Alok & Stick Figure",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/a1/35/09a13588-ffae-8cd6-2cfb-01a46de24404/196874439463.jpg/300x300bb.jpg",
@@ -472,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=David%20Guetta%2C%20Alok%20%26%20Stick%20Figure%20Run%20Run%20River%20(Angels%20Above%20Me)"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 14,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
+    },
+    {
+      "rank": 15,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
@@ -493,42 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 3,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 4,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 5,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 6,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -537,16 +501,34 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 7,
-      "title": "Project Hail Mary",
+      "rank": 3,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 5,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
+      "rank": 6,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -555,16 +537,25 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
-      "rank": 9,
-      "title": "The Devil Wears Prada 2",
+      "rank": 7,
+      "title": "The Dink",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 9,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
