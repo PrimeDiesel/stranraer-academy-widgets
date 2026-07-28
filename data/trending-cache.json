@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-28T22:05:11.424Z",
+  "updated": "2026-07-28T23:11:04.630Z",
   "news": [
+    {
+      "title": "Love Island UK crowns winners of 13th series",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2c3/live/8c858960-8a04-11f1-bf17-1d06aa0f4f93.jpg",
+      "published": "7/27/2026, 10:52:18 PM",
+      "desc": "For the first time in the history of the UK series, only three couples were in the final after several twists."
+    },
     {
       "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
       "source": "BBC News",
@@ -26,14 +34,6 @@
       "desc": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
     },
     {
-      "title": "Funeral director breached families&#x27; trust &#x27;on industrial scale&#x27;",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo",
-      "image": "",
-      "published": "7/27/2026, 4:52:04 PM",
-      "desc": ""
-    },
-    {
       "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o",
@@ -50,23 +50,55 @@
       "desc": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
     },
     {
-      "title": "Teen denies record English Channel migrant dinghy crossing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8enp0y1r68o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fbd/live/34e077e0-8777-11f1-b430-afa19a42b819.jpg",
-      "published": "7/27/2026, 3:37:29 PM",
-      "desc": "Chan Mathok Atak, 19, from Sudan, is accused of endangering another during a sea journey to the UK."
-    },
-    {
       "title": "Carly Simon reveals Parkinson's diagnosis",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fac7/live/ad429a40-89c2-11f1-965a-d70ca8fc6275.jpg",
       "published": "7/27/2026, 2:37:22 PM",
       "desc": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing."
+    },
+    {
+      "title": "Bill Oddie: The Goodies and Springwatch star dies at 85",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cd6/live/3468e870-899c-11f1-8c68-81d45f5a03af.jpg",
+      "published": "7/27/2026, 9:37:21 AM",
+      "desc": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist."
     }
   ],
   "sports": [
+    {
+      "title": "Yan Diomande: Real Madrid agree terms with RB Leipzig winger as PSG interest ends",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg",
+      "published": "7/27/2026, 11:07:29 PM",
+      "desc": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest."
+    },
+    {
+      "title": "LeBron James: Philadelphia 76ers confirm signing after Los Angeles Lakers exit",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/articles/cx27r0me3zno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b082/live/7473b620-8780-11f1-a6cf-7dd9e08d50d6.jpg",
+      "published": "7/27/2026, 11:07:24 PM",
+      "desc": "The Philadelphia 76ers have confirmed the signing of NBA superstar LeBron James."
+    },
+    {
+      "title": "Two-time Pro Bowl DT Vita Vea requests trade from Buccaneers - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49465466/two-pro-bowl-dt-vita-vea-requests-trade-buccaneers",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1125%2Fr1580333_1296x729_16%2D9.jpg",
+      "published": "7/27/2026, 10:38:21 PM",
+      "desc": "Defensive tackle Vita Vea has requested a trade from the Tampa Bay Buccaneers after failed attempts at a contract extension, his agent, Collin Roberts, told ESPN on Monday."
+    },
+    {
+      "title": "West Indies v Pakistan: Justin Greaves takes five wickets for none in incredible spell",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cx2rjv5599go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c59b/live/fcc4f120-8a09-11f1-a2ba-7751a2cb915b.jpg",
+      "published": "7/27/2026, 10:37:22 PM",
+      "desc": "West Indies all-rounder Justin Greaves takes five wickets without conceding a run during an incredible spell of bowling on day three of the first Test against Pakistan."
+    },
     {
       "title": "Yankees lose Bellinger for 4-6 weeks with hamstring strain - ESPN",
       "source": "ESPN",
@@ -116,14 +148,6 @@
       "desc": "Notable news, notes and buzz from MLB's 2026 season."
     },
     {
-      "title": "Commonwealth Games 2026: Adam Ramsay-Peaty says 'nothing makes sense' after another bronze",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1be7/live/c8308860-89f6-11f1-ad85-33848ec6bcfe.jpg",
-      "published": "7/27/2026, 8:52:23 PM",
-      "desc": "Adam Ramsay-Peaty says \"nothing makes sense\" as he again has to settle for bronze at the Commonwealth Games in Glasgow."
-    },
-    {
       "title": "Lucas Glover took off shoes after complaints about metal spikes - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/golf/story/_/id/49464903/lucas-glover-took-shoes-complaints-metal-spikes",
@@ -156,14 +180,6 @@
       "desc": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer."
     },
     {
-      "title": "Source: 'Chicharito' set to join expansion USL side in Dallas - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49464491/chicharito-set-join-expansion-usl-side-dallas",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0727%2Fr1694399_1296x729_16%2D9.jpg",
-      "published": "7/27/2026, 8:02:00 PM",
-      "desc": "Mexico's all-time leading goalscorer Jaiver \"Chicharito\" Hernandez is signing for USL Championship expansion team Atletico Dallas, a source told ESPN Mexico."
-    },
-    {
       "title": "US Open 2026: Novak Djokovic and Aryna Sabalenka set to play together in US Open mixed doubles",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/tennis/articles/czrj8mdj4kxo",
@@ -194,80 +210,72 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cabral1.jpg?ve=1&tl=1",
       "published": "7/27/2026, 7:07:24 PM",
       "desc": "Cape Verde has made more World Cup history with Sidny Lopes Cabral winning the public vote for goal of the tournament."
-    },
-    {
-      "title": "Andrea Pirlo Out of Contention For Italy Job Over Russian Betting Deal",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/andrea-pirlo-out-of-contention-for-italy-job-amid-flap-over-deal-with-russian-betting-firm",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2152908570-scaled-e1785178041296.jpg?ve=1&tl=1",
-      "published": "7/27/2026, 7:07:18 PM",
-      "desc": "Andrea Pirlo is out of contention for the Italy job amid political concerns over a sponsorship deal with a Russian betting firm."
-    },
-    {
-      "title": "UNC Football Under Investigation By College Sports Commission",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-north-carolina-bill-belichick-mike-lombardi",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/belichickh1.jpg?ve=1&tl=1",
-      "published": "7/27/2026, 7:07:15 PM",
-      "desc": "UNC football is under investigation by the College Sports Commission, and its GM is now on paid administrative lead."
     }
   ],
   "tech": [
     {
-      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse - Ars Technica",
+      "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1920&h=1080",
+      "published": "7/27/2026, 11:46:25 PM",
+      "desc": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5."
+    },
+    {
+      "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-s27-ultra-battery-capacities-leak/-952x498w6/gsmarena_000.jpg",
+      "published": "7/27/2026, 11:31:02 PM",
+      "desc": "Samsung may finally be adopting silicon carbon anodes for its flagship phones. A few days ago we heard some new details about the Galaxy S27 family's..."
+    },
+    {
+      "title": "Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579",
+      "image": "https://kotaku.com/app/uploads/2026/07/dragon-age.jpg",
+      "published": "7/27/2026, 11:00:22 PM",
+      "desc": "Hard to argue with that"
+    },
+    {
+      "title": "A Pokémon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575",
+      "image": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
+      "published": "7/27/2026, 9:07:53 PM",
+      "desc": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find"
+    },
+    {
+      "title": "Trek Voluntarily Imposes E-Bike Speed Standards - Pinkbike",
+      "source": "Pinkbike.com",
+      "url": "https://www.pinkbike.com/news/trek-voluntarily-imposes-e-bike-speed-standards.html",
+      "image": "https://ep1.pinkbike.org/p4pb28549322/p4pb28549322.jpg",
+      "published": "7/27/2026, 8:51:48 PM",
+      "desc": "All Trek e-mountain bikes sold in the US will have a 20mph maximum pedal assist speed."
+    },
+    {
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-      "published": "7/27/2026, 6:34:40 PM",
-      "desc": "NASA has not made substantial investments in thermal protection research for decades."
+      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
+      "published": "7/27/2026, 8:32:45 PM",
+      "desc": "These are likely the last updates of note before Apple's bigger fall updates."
     },
     {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
+      "title": "Xbox is down: Major outages stop sign-in, game launches - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/xbox-is-down-game-launching-issuses",
+      "image": "https://helios-i.mashable.com/imagery/articles/07oCk8CRWr1Hrt24ev5MPoS/hero-image.fill.size_1200x675.v1785178083.jpg",
+      "published": "7/27/2026, 8:20:33 PM",
+      "desc": "First the PlayStation network goes down, now this."
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
-      "published": "7/27/2026, 6:32:11 PM",
-      "desc": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-    },
-    {
-      "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
-      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "published": "7/27/2026, 5:27:06 PM",
-      "desc": "Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems that came out in September. iOS 26.6 comes a month..."
-    },
-    {
-      "title": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280291466-e1785169611667.jpg?resize=1200,600",
-      "published": "7/27/2026, 5:20:00 PM",
-      "desc": "The topics of the chats, which seem to have been inadvertently exposed, ranged from erotica to programming chats to work notes to fake book reviews."
-    },
-    {
-      "title": "The 'it' toy for Christmas 2026 dropped today (and it'll probably sell out soon) - USA Today",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/shopping/parenting/2026/07/27/kids-are-obsessed-with-the-toniebox-and-it-just-got-smaller-and-cheaper/91063319007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/27/USAT/91064996007-coasters-5-6-x-4-in.png?crop=1799,1012,x0,y0&width=1799&height=1012&format=pjpg&auto=webp",
-      "published": "7/27/2026, 4:59:00 PM",
-      "desc": "The Toniebox Lite just launched, offering a smaller and cheaper way for kids to enjoy screen-free entertainment from their favorite characters."
-    },
-    {
-      "title": "Xbox Outage Locks Players out of Games and Accounts for Over 12 Hours - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/351116/xbox-outage-locks-players-out-of-games-and-accounts-for-over-12-hours",
-      "image": "https://www.techpowerup.com/img/qbh6tz57Jax4HMu7.jpg",
-      "published": "7/27/2026, 4:58:42 PM",
-      "desc": "Following a similar story relating to PlayStation Account server errors just a few days prior, on the launch of the Marvel Tōkon: Fighting Souls beta, Xbox has seemingly run into issues during the advanced access launch of Halo: Campaign Evolved. The resultin…"
-    },
-    {
-      "title": "Huge PS5 game sale will help you stock up on physical discs before they disappear - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/ps5-spider-man-ghost-tsushima-game-sales-amazon-best-buy-gamestop/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/spider-man-2.jpg?w=1600&h=900&fit=crop",
-      "published": "7/27/2026, 4:50:11 PM",
-      "desc": "From Marvel's Spider-Man to God of War, the sale includes a ton of PS5 first-party bangers via some of the biggest retailers around."
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/facepalm-statue.jpg?resize=1200,688",
+      "published": "7/27/2026, 8:19:42 PM",
+      "desc": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
     }
   ],
   "education": [
@@ -393,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
-      "rank": 8,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -410,13 +409,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
+    },
+    {
+      "rank": 9,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
       "rank": 10,
@@ -429,12 +437,12 @@
     },
     {
       "rank": 11,
-      "title": "Nobody Does It Better",
-      "artist": "Carly Simon",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/9b/b1/b89bb197-0012-dbe5-5f25-efae35ec628c/05099969735950.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/3a/8f/eb3a8fcd-8e55-e20a-5b12-b10d7736f092/mzaf_6801118947317646849.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/nobody-does-it-better/715595015?i=715595121&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20Nobody%20Does%20It%20Better"
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
       "rank": 12,
@@ -447,12 +455,12 @@
     },
     {
       "rank": 13,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "Nobody Does It Better",
+      "artist": "Carly Simon",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/9b/b1/b89bb197-0012-dbe5-5f25-efae35ec628c/05099969735950.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/3a/8f/eb3a8fcd-8e55-e20a-5b12-b10d7736f092/mzaf_6801118947317646849.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/nobody-does-it-better/715595015?i=715595121&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20Nobody%20Does%20It%20Better"
     },
     {
       "rank": 14,
@@ -485,21 +493,21 @@
     },
     {
       "rank": 2,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 3,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 3,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 4,
@@ -512,21 +520,21 @@
     },
     {
       "rank": 5,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 6,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 6,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     },
     {
       "rank": 7,
@@ -554,15 +562,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 10,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": []
