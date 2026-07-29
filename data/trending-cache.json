@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-29T14:12:19.434Z",
+  "updated": "2026-07-29T16:22:33.645Z",
   "news": [
+    {
+      "title": "Virgin Atlantic plane engineer dies after accident at Heathrow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8q63v26lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5312/live/26c130a0-8a83-11f1-83c5-cf36fe4b083e.jpg",
+      "published": "7/28/2026, 4:07:21 PM",
+      "desc": "The Met Police is investigating the circumstances of how Georgie Buxton died from injuries sustained while working on a jet."
+    },
+    {
+      "title": "Powell says student loan system at top of her in-tray",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l064xe52o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f653/live/273d6be0-8a8b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/28/2026, 3:22:22 PM",
+      "desc": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\"."
+    },
     {
       "title": "Richard Hammond fined £999 after being caught speeding twice",
       "source": "BBC News",
@@ -42,31 +58,79 @@
       "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
     },
     {
-      "title": "Second home owners 'feel unwelcome' while locals struggle to buy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq4xd0zdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9258/live/2d1f8b80-8a43-11f1-926c-a9a2a308d61e.jpg",
-      "published": "7/28/2026, 9:37:22 AM",
-      "desc": "Are second homes - a hotly contested topic in Wales - pricing young people out of areas they grew up in?"
-    },
-    {
       "title": "Naga Munchetty swaps BBC One's Breakfast for Radio 5 Live Breakfast",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45b6/live/9edf9dd0-8a5e-11f1-b6c7-397f42881d1e.jpg",
       "published": "7/28/2026, 9:07:21 AM",
       "desc": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast."
-    },
-    {
-      "title": "Attachment theory explained and how to become secure",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnv95790mgpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "7/28/2026, 12:52:24 AM",
-      "desc": "Attachment theory is everywhere right now, but what is it and how can you use it to improve your relationships?"
     }
   ],
   "sports": [
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Ravens, Rams Open As Favorites",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/afc-nfc-title.jpg?ve=1&tl=1",
+      "published": "7/28/2026, 4:07:21 PM",
+      "desc": "Winning your conference must come before winning the Super Bowl. Check out the early AFC and NFC title odds."
+    },
+    {
+      "title": "World Cup: Uefa furious at reports Fifa plan to sell stakes in tournament",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8xng9894z0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03c2/live/50869960-8a93-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/28/2026, 3:52:28 PM",
+      "desc": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup."
+    },
+    {
+      "title": "Madden NFL 27 Ratings: Who Are The 10 Highest-Rated Rookies In This Year&#39;s Game?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/madden-nfl-27-ratings-who-10-highest-rated-rookies-years-game",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2272868984-scaled-e1785195352680.jpg?ve=1&tl=1",
+      "published": "7/28/2026, 3:37:20 PM",
+      "desc": "Who are the 10 highest-rated rookies in \"Madden NFL 27?\" Here's the full list, which doesn't include Fernando Mendoza."
+    },
+    {
+      "title": "Kyle Shanahan nearly lost eye in car crash, says friend Chris Simms - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49470176/kyle-shanahan-nearly-lost-eye-car-crash-says-friend-chris-simms",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0116%2Fr1601542_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 3:10:44 PM",
+      "desc": "Kye Shanahan nearly lost an eye as a result of his car crash earlier this month, according to Chris Simms, who is close friends with the 49ers coach."
+    },
+    {
+      "title": "Celtic make Denmark striker Kasper Hogh their record signing",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "7/28/2026, 3:07:35 PM",
+      "desc": "Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract."
+    },
+    {
+      "title": "Ohio State, JPMorganChase reach lucrative jersey patch deal - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-sports/story/_/id/49469951/ohio-state-jpmorganchase-reach-lucrative-jersey-patch-deal",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1230%2Fr1594892_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 2:40:26 PM",
+      "desc": "Ohio State is entering a partnership with JPMorganChase that includes jersey patches for all 36 teams and will yield nearly $17 million per year for the athletic program."
+    },
+    {
+      "title": "Sources: No real progress in Mayfield, Buccaneers contract talks - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49469946/sources-no-real-progress-mayfield-buccaneers-contract-talks",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1210%2Fr1587793_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 2:39:06 PM",
+      "desc": "The Buccaneers and Baker Mayfield have not made significant progress on a new contract as the quarterback's stated deadline for a new deal approaches, sources told ESPN."
+    },
+    {
+      "title": "Italy appoint Roberto Mancini: What is behind managerial mess?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cddj2m5m0p0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b98/live/4ec17980-8a82-11f1-83c5-cf36fe4b083e.jpg",
+      "published": "7/28/2026, 2:37:19 PM",
+      "desc": "Chaos consumed Italian football as Paolo Maldini and Leonardo resigned during the search for a manager – can Roberto Mancini now bring calm on being given the role?"
+    },
     {
       "title": "Italy: Roberto Mancini appointed manager for second time",
       "source": "BBC Sport",
@@ -100,28 +164,20 @@
       "desc": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport."
     },
     {
+      "title": "Roberto Mancini returning as new Italy coach - federation chief - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49469345/roberto-mancini-tapped-manage-italy-federation-chief",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1018%2Fr1562087_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 1:49:00 PM",
+      "desc": "Roberto Mancini is close to becoming the new Italy head coach, the president of the country's football federation has said."
+    },
+    {
       "title": "Commonwealth Games 2026 LIVE: Glasgow - live text updates, results, medal table",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/live/czj8rzmmxd7t",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/14c1/live/8ba3a280-8a80-11f1-83c5-cf36fe4b083e.jpg",
       "published": "7/28/2026, 1:22:19 PM",
       "desc": "Follow live text updates, scores, results, medal table on day five of the Commonwealth Games in Glasgow."
-    },
-    {
-      "title": "Commonwealth Games 2026: Brock Whiston wins gold as ill father Gel makes rare visit",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/swimming/articles/c1j158npk99o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b643/live/73ad6200-8a77-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/28/2026, 12:52:39 PM",
-      "desc": "Para-swimmer Brock Whiston says she wanted to make her father Gel proud as he watched poolside for the first time in 17 years."
-    },
-    {
-      "title": "Manchester City: Rodri out for 'short period' after back surgery",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c1j158w2dxlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3297/live/9e070ec0-8a77-11f1-b7a2-89c39e80e970.jpg",
-      "published": "7/28/2026, 12:52:22 PM",
-      "desc": "Manchester City midfielder Rodri will be sidelined for a \"short period of rehabilitation\" following back surgery on Monday."
     },
     {
       "title": "2026 NFL Power Rankings: Where Every Team Stands Heading Into Training Camp",
@@ -154,120 +210,72 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0206%2Fr1287589_1296x729_16%2D9.jpg",
       "published": "7/28/2026, 11:24:00 AM",
       "desc": "Shohei Ohtani's former interpreter initially told a reporter that the Dodgers slugger had agreed to cover his massive gambling debt but reversed course less than 24 hours later, according to newly released audio."
-    },
-    {
-      "title": "'Finger-clicking' cheating claim in Saltburn-Norton match investigated",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b97a/live/5728bd90-8a5f-11f1-b6c7-397f42881d1e.jpg",
-      "published": "7/28/2026, 10:07:36 AM",
-      "desc": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind."
-    },
-    {
-      "title": "Commonwealth Games 2026: Adam Ramsay-Peaty wins bronze again - can he get back to top?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ba0/live/5efe3a30-8a42-11f1-a87e-ff10766e36d9.jpg",
-      "published": "7/28/2026, 10:07:34 AM",
-      "desc": "Can Adam Ramsay-Peaty return to the top after a disappointing Commonwealth Games or is the end nigh for Britain's former Olympic champion?"
-    },
-    {
-      "title": "Zinedine Zidane: Former Real Madrid manager appointed as France head coach",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef95/live/876e9fa0-8a65-11f1-ac9f-1f034932402d.jpg",
-      "published": "7/28/2026, 10:07:20 AM",
-      "desc": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team."
-    },
-    {
-      "title": "France announce Zinedine Zidane as new coach, replacing Didier Deschamps - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49431120/france-announce-zinedine-zidane-new-coach-replacing-didier-deschamps",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694552_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 9:38:00 AM",
-      "desc": "Zinedine Zidane has been appointed as France's new coach, the French Football Federation has announced."
-    },
-    {
-      "title": "Chloe Kelly: What next for Arsenal and England forward?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb40/live/04b14cc0-89cf-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "7/28/2026, 8:37:20 AM",
-      "desc": "Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Vikings Expected To Sign Hybrid S/LB Jamal Adams",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 2:22:25 AM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "Griffin Conine's walk-off hit snaps Marlins' 12-game skid - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49466459/griffin-conine-walk-hit-vs-phillies-snaps-marlins-franchise-worst-12-game-losing-streak",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694496_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 2:17:04 AM",
-      "desc": "Griffin Conine hit a walk-off run-scoring single to lift the Marlins past the Philadelphia Phillies 8-7 on Monday and end Miami's franchise-record 12-game losing streak."
     }
   ],
   "tech": [
     {
-      "title": "PlayStation Veteran Explains Why Sony Closed Japan Studio - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737",
-      "image": "https://kotaku.com/app/uploads/2024/01/c3c6df4f0ca23fb5905e684d946ed8fc-1200x675.jpg",
-      "published": "7/28/2026, 11:32:32 AM",
-      "desc": "Even SIE's former president, Shuhei Yoshida, thinks its 'unbelievable' that the company chose to shut down Japan Studio"
+      "title": "New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year",
+      "image": "https://assetsio.gnwcdn.com/empty-desk-luke-chesser-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "7/28/2026, 1:44:03 PM",
+      "desc": "\"The pace of layoffs is accelerating faster than our models initially predicted\""
     },
     {
-      "title": "What your internet provider, websites and advertisers see - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/tech/what-your-internet-provider-websites-advertisers-see",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/woman-looking-at-phone-sofa.jpg",
-      "published": "7/28/2026, 11:08:24 AM",
-      "desc": "Your internet provider, websites and advertisers can track your browsing activity even without you posting online. Here's how to limit what they see."
+      "title": "Google Pixel 11 leak details battery sizes & where some prices will technically drop - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/28/google-pixel-11-battery-size-uk-price-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-11-pro-onl-9-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/28/2026, 1:30:00 PM",
+      "desc": "As if we’ve not seen enough already, yet another leak is reiterating some Pixel 11 details, including the higher starting..."
     },
     {
-      "title": "Polar bear pulls seal pup onto ice then backs away. The reason why is extraordinary - BBC Wildlife Magazine",
-      "source": "Discoverwildlife.com",
-      "url": "https://www.discoverwildlife.com/animal-facts/polar-bear-seal-pup-svalbard",
-      "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/b63dab4d-1aed-451b-94ab-ecae6aefebc2/thumbnails/878fb457-a7f3-4233-b5ec-d5ae6a6c991b.jpeg?w=1200",
-      "published": "7/28/2026, 8:53:44 AM",
-      "desc": "Mother seals usually stay close to their pups and this polar bear tried to use that fact to its advantage."
+      "title": "Pokémon GO Fest: Mega Finale Announced - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/07/go-fest-mega-finale.jpg",
+      "published": "7/28/2026, 1:11:50 PM",
+      "desc": "Just when you thought Pokémon GO Fest was over for another year, it turns out one more global adventure is still ahead! Mark your calendars for Pokémon GO Fest 2026: Mega Finale, happening September 5th and 6th, 2026. We don't know any details yet, but Scopel…"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost - The Hacker News",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg",
-      "published": "7/28/2026, 6:07:00 AM",
-      "desc": "Microsoft launches MAI-Cyber-1-Flash inside MDASH, routing up to 90% of tasks to the model while GPT-5.4 handles the hardest 10%."
+      "title": "15 years ago, 4 letters changed Magic forever — and one new ability backfired - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/mtg-magic-2012-15th-anniversary-dies-hexproof/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/lord-of-the-unreal-mtg-art.jpg?w=1200&h=675&fit=crop",
+      "published": "7/28/2026, 1:00:12 PM",
+      "desc": "Magic 2012 introduced a revolutionary new term, but its other major innovation proved too powerful for its own good."
     },
     {
-      "title": "Hugging Face Has a Deepfake Nudes Problem - WIRED",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-      "image": "https://media.wired.com/photos/6a67cfe8ebdb87bfb99d53b1/191:100/w_1280,c_limit/Seucirty_Hugging%20Face%20Has%20a%20Deepfake%20Nudes%20Problem_v1.jpg",
-      "published": "7/28/2026, 5:30:00 AM",
-      "desc": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software."
+      "title": "Apple Set to Make Big Smart Home Push With Siri AI at Center - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip7mda0bGc_g/v1/1200x800.jpg",
+      "published": "7/28/2026, 1:00:00 PM",
+      "desc": "Apple Inc., after spending years as a laggard in the smart home market, is preparing a dramatic new push into the category with fresh devices and software."
     },
     {
-      "title": "Ubisoft Adds Free PC License to Xbox Digital Game Purchases - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/351127/ubisoft-adds-free-pc-license-to-xbox-digital-game-purchases",
-      "image": "https://www.techpowerup.com/img/JGzgVxVLxPxMzt59.jpg",
-      "published": "7/27/2026, 11:38:27 PM",
-      "desc": "There has been a lot of talk recently about both the merit of platform exclusive games and digital games, and Microsoft's latest partnership with Ubisoft seems to be a move to support both its Xbox platform on PC and console as well as its digital game sales.…"
+      "title": "Microsoft Starts Offering Free PC Versions of Your Ubisoft Games on Xbox - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/07/microsoft-starts-offering-free-pc-versions-of-your-ubisoft-games-on-xbox",
+      "image": "https://images.digitalfoundry.net/732447f2c2823/large.jpg",
+      "published": "7/28/2026, 1:00:00 PM",
+      "desc": "Some restrictions apply, read article for details."
     },
     {
-      "title": "Update: Xbox Online Services Fully Restored After Hours-Long Outage - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/2026/07/27/update-xbox-online-services-fully-restored-after-hours-long-outage",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
-      "published": "7/27/2026, 11:25:36 PM",
-      "desc": "Several online services, including playing digital games, are affected."
+      "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108196406-1757444394145-gettyimages-2234535273-_75a6447_06m2k3uf.jpeg?v=1757444467&w=1920&h=1080",
+      "published": "7/28/2026, 12:18:55 PM",
+      "desc": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage."
+    },
+    {
+      "title": "Leaks Point to Return of 4GB GPUs as AI Flash Memory Crisis Worsens - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/07/leaks-point-to-return-of-4gb-gpus-as-ai-flash-memory-crisis-worsens",
+      "image": "https://images.digitalfoundry.net/e8dc223242a48/large.jpg",
+      "published": "7/28/2026, 12:16:00 PM",
+      "desc": "Welcome back to 2022."
     }
   ],
   "education": [
@@ -348,21 +356,21 @@
     },
     {
       "rank": 2,
+      "title": "Here She Comes",
+      "artist": "Airbourne",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/d5/f3/4cd5f33d-1f4f-078c-60de-f791d58bbae5/5401148009262_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/ed/96/d5ed9676-b00d-4dc8-5bed-64626a20ff48/mzaf_18435086556390280614.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/here-she-comes/1890143388?i=1890143401&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Airbourne%20Here%20She%20Comes"
+    },
+    {
+      "rank": 3,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 3,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 4,
@@ -375,6 +383,15 @@
     },
     {
       "rank": 5,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 6,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -383,7 +400,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -392,7 +409,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
@@ -401,7 +418,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -410,7 +427,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Mama, I still call your name",
       "artist": "Noah Nine",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
@@ -419,7 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
@@ -428,22 +445,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 12,
-      "title": "Ordinary",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
       "rank": 13,
@@ -456,21 +464,21 @@
     },
     {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 15,
-      "title": "Run Run River (Angels Above Me)",
-      "artist": "David Guetta, Alok & Stick Figure",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/a1/35/09a13588-ffae-8cd6-2cfb-01a46de24404/196874439463.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/5b/78/3f5b7833-6d6a-7643-6d36-0a6f2ad3d479/mzaf_9703224888931226695.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/run-run-river-angels-above-me/6775605306?i=6775605307&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=David%20Guetta%2C%20Alok%20%26%20Stick%20Figure%20Run%20Run%20River%20(Angels%20Above%20Me)"
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     }
   ],
   "movies": [
@@ -512,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 6,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -529,7 +528,25 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
+      "rank": 6,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
       "rank": 7,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 8,
       "title": "The Dink",
       "year": "2026",
       "cert": "12",
@@ -538,31 +555,13 @@
       "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 9,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 10,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
