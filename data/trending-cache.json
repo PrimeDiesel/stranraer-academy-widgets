@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-29T02:44:04.793Z",
+  "updated": "2026-07-29T05:53:44.859Z",
   "news": [
     {
-      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "title": "On patrol with drug police in Ecuador, where even colleagues can't be trusted",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/28/2026, 2:52:21 AM",
-      "desc": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg",
+      "published": "7/28/2026, 5:37:23 AM",
+      "desc": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
+    },
+    {
+      "title": "'I just found all the classified stuff downstairs' - Biden to ghostwriter",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d22/live/4a472780-8a2b-11f1-8577-7fb0b5f56b15.jpg",
+      "published": "7/28/2026, 4:22:19 AM",
+      "desc": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps."
     },
     {
       "title": "Johnson & Johnson offers to pay $5.5bn to settle baby powder lawsuits",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg",
       "published": "7/28/2026, 2:22:21 AM",
       "desc": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
-    },
-    {
-      "title": "UK weather: Fourth heatwave of the year under way",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/41a3/live/3e4c4490-89ce-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/28/2026, 2:07:22 AM",
-      "desc": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week."
     },
     {
       "title": "Attachment theory explained and how to become secure",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Commonwealth Games 2026: Adam Ramsay-Peaty says 'nothing makes sense' after another bronze",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/swimming/articles/cqlx2r3l6z3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1be7/live/c8308860-89f6-11f1-ad85-33848ec6bcfe.jpg",
+      "published": "7/28/2026, 5:52:21 AM",
+      "desc": "Adam Ramsay-Peaty says \"nothing makes sense\" as he again has to settle for bronze at the Commonwealth Games in Glasgow."
+    },
+    {
+      "title": "Chelsea transfer news: Henderson, Welbeck, Lacroix - why do Blues want older players now?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3e8/live/0ae8fb40-89db-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/28/2026, 5:52:19 AM",
+      "desc": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth."
+    },
+    {
+      "title": "Curtis Mead exits Red Sox debut with left wrist contusion - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49466895/curtis-mead-exits-red-sox-debut-left-wrist-contusion",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694513_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 4:00:37 AM",
+      "desc": "Infielder Curtis Mead, 25, acquired from the Washington Nationals last week, left his first game with the Boston Red Sox on Monday after being hit on the left wrist by a pitch in the fourth inning of a 4-2 victory over the Athletics at Sutter Health Park."
+    },
     {
       "title": "2026 NFL Offseason Buzz: Vikings Expected To Sign Hybrid S/LB Jamal Adams",
       "source": "Fox Sports",
@@ -148,14 +172,6 @@
       "desc": "Extension talks between Vita Vea and the Tampa Bay Buccaneers have officially hit a wall and the star defensive tackle is now requesting a trade."
     },
     {
-      "title": "Yan Diomande: Real Madrid agree terms with RB Leipzig winger as PSG interest ends",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg",
-      "published": "7/27/2026, 11:07:29 PM",
-      "desc": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest."
-    },
-    {
       "title": "LeBron James: Philadelphia 76ers confirm signing after Los Angeles Lakers exit",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/articles/cx27r0me3zno",
@@ -194,32 +210,24 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/sonny-gray_red-sox_odds_boston_al.jpg?ve=1&tl=1",
       "published": "7/27/2026, 9:37:18 PM",
       "desc": "Bettors are backing Boston to win the AL since the Red Sox have been on a heater. Here are the latest odds, along with expert insight."
-    },
-    {
-      "title": "MLB 2026 Buzz: Ronald Acuña Jr. Returns To Braves After 7-Week Absence",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
-      "published": "7/27/2026, 8:52:24 PM",
-      "desc": "Notable news, notes and buzz from MLB's 2026 season."
-    },
-    {
-      "title": "John Stones: England defender in advanced talks to join Inter Milan",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e023/live/496d6e50-89f4-11f1-ad85-33848ec6bcfe.jpg",
-      "published": "7/27/2026, 8:07:23 PM",
-      "desc": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer."
     }
   ],
   "tech": [
     {
-      "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1920&h=1080",
-      "published": "7/27/2026, 11:46:25 PM",
-      "desc": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5."
+      "title": "Everything We Know About MacBook Ultra's All-New Design - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/",
+      "image": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "published": "7/28/2026, 1:00:00 AM",
+      "desc": "Apple's next high-end laptop is expected to bring the most substantial external changes to the MacBook Pro line since 2021. No renders, case..."
+    },
+    {
+      "title": "Pitch Black Set Review - PokeBeach",
+      "source": "Pokebeach.com",
+      "url": "https://www.pokebeach.com/2026/07/pitch-black-set-review",
+      "image": "https://www.pokebeach.com/news/2026/07/me5_en_075_std.jpg",
+      "published": "7/28/2026, 12:33:42 AM",
+      "desc": "Pitch Black has just released and it will be showcased for the first time at the upcoming World Championships. Personally, I think this set is one of the"
     },
     {
       "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
@@ -246,6 +254,14 @@
       "desc": "Hard to argue with that"
     },
     {
+      "title": "Some people's chats with Claude AI found publicly available online - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+      "published": "7/27/2026, 10:14:04 PM",
+      "desc": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible."
+    },
+    {
       "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
       "source": "Polygon",
       "url": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/",
@@ -254,20 +270,12 @@
       "desc": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving it."
     },
     {
-      "title": "A Pokémon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575",
-      "image": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
-      "published": "7/27/2026, 9:07:53 PM",
-      "desc": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find"
-    },
-    {
-      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
-      "published": "7/27/2026, 8:32:45 PM",
-      "desc": "These are likely the last updates of note before Apple's bigger fall updates."
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "published": "7/27/2026, 9:56:14 PM",
+      "desc": "Microsoft says tools cost less than competing ones and outperform them, too."
     }
   ],
   "education": [
@@ -393,21 +401,21 @@
     },
     {
       "rank": 7,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 8,
       "title": "Sweet July",
       "artist": "Take That",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
+    },
+    {
+      "rank": 8,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
       "rank": 9,
@@ -420,6 +428,15 @@
     },
     {
       "rank": 10,
+      "title": "Mama, I still call your name",
+      "artist": "Noah Nine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/75/55/fb7555b6-a7b7-9209-20e3-3ca1b439c5ea/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/37/d9/d537d916-bba0-c2ba-eff7-2a92b29cfafa/mzaf_12667572801336679829.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/mama-i-still-call-your-name/6771263844?i=6771263846&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Noah%20Nine%20Mama%2C%20I%20still%20call%20your%20name"
+    },
+    {
+      "rank": 11,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -428,25 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 11,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
       "rank": 12,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 13,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
@@ -455,22 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
+      "rank": 13,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
       "rank": 14,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+    },
+    {
+      "rank": 15,
       "title": "You're So Vain",
       "artist": "Carly Simon",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/2e/4e/c42e4e98-0316-1e17-0ca3-b2acd11e5738/mzi.dnscdjwg.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/39/86/23398655-95d7-21ef-4a85-d21d6c90dedf/mzaf_5704829619668255519.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/youre-so-vain/271649381?i=271649387&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20You're%20So%20Vain"
-    },
-    {
-      "rank": 15,
-      "title": "Nobody Does It Better",
-      "artist": "Carly Simon",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/9b/b1/b89bb197-0012-dbe5-5f25-efae35ec628c/05099969735950.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/3a/8f/eb3a8fcd-8e55-e20a-5b12-b10d7736f092/mzaf_6801118947317646849.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/nobody-does-it-better/715595015?i=715595121&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Carly%20Simon%20Nobody%20Does%20It%20Better"
     }
   ],
   "movies": [
@@ -479,27 +487,27 @@
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 2,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 3,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 3,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 4,
@@ -548,15 +556,6 @@
     },
     {
       "rank": 9,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 10,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
@@ -565,5 +564,15 @@
       "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
+    }
+  ]
 }
