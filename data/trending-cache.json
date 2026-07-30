@@ -1,13 +1,37 @@
 {
-  "updated": "2026-07-30T03:16:30.961Z",
+  "updated": "2026-07-30T06:30:04.021Z",
   "news": [
     {
-      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "title": "Ticket prices set to rise as Heathrow able to recover runway money",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6172/live/97bbb000-8a51-11f1-8aea-37a02a7d69e8.jpg",
-      "published": "7/29/2026, 3:07:25 AM",
-      "desc": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75ba/live/c1afe420-8b15-11f1-ad6a-6171441778fb.jpg",
+      "published": "7/29/2026, 6:37:21 AM",
+      "desc": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers."
+    },
+    {
+      "title": "Unauthorised car park near Stansted Airport grows after notice",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c393/live/2ecb6840-8689-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "7/29/2026, 6:07:18 AM",
+      "desc": "Customers says they returned from their holidays to find their cars damaged and dirty."
+    },
+    {
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c8/live/4a9ae6d0-8a6d-11f1-924e-bfa32777c3ff.jpg",
+      "published": "7/29/2026, 5:22:20 AM",
+      "desc": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+    },
+    {
+      "title": "Report on Jewish diaspora finds biggest rise in antisemitism in UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd240eelmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e549/live/a967d9c0-8ac2-11f1-b95c-97479b8cd0d1.jpg",
+      "published": "7/29/2026, 4:22:20 AM",
+      "desc": "The report also says 2025 was the deadliest year for Jews living outside Israel in more than 30 years."
     },
     {
       "title": "Burnham invites Tories and Lib Dems to talks about social care",
@@ -16,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c40/live/1ded3950-8aac-11f1-951f-a70d41b77a63.jpg",
       "published": "7/29/2026, 2:37:19 AM",
       "desc": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care."
-    },
-    {
-      "title": "Burnham has no scope to increase borrowing, think tank warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc77/live/c4407fe0-8aae-11f1-951f-a70d41b77a63.jpg",
-      "published": "7/29/2026, 2:22:16 AM",
-      "desc": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them."
     },
     {
       "title": "Newspaper headlines: 'Workers face new tax' and 'Fury over Fifa plan'",
@@ -42,22 +58,6 @@
       "desc": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel."
     },
     {
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg",
-      "published": "7/29/2026, 12:52:21 AM",
-      "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
-    },
-    {
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8625/live/297e27a0-84fa-11f1-8b9b-a724b687bb3b.jpg",
-      "published": "7/29/2026, 12:37:18 AM",
-      "desc": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce."
-    },
-    {
       "title": "The evidence that shows today's 20-somethings really do have it worse",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o",
@@ -67,6 +67,78 @@
     }
   ],
   "sports": [
+    {
+      "title": "Yan Diomande: Winger's rapid rise to record Real Madrid deal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd30/live/3e248620-8a6f-11f1-924e-bfa32777c3ff.jpg",
+      "published": "7/29/2026, 6:37:23 AM",
+      "desc": "Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing."
+    },
+    {
+      "title": "BBC Sport quiz: Who am I? Guess Premier League footballer #9",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5ydrlg3rjpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d7c/live/c4d89570-85b1-11f1-b976-0b9c15b0ccfc.png",
+      "published": "7/29/2026, 6:22:24 AM",
+      "desc": "Will you get today's player in as few attempts as possible?"
+    },
+    {
+      "title": "Ekaterina Alexandrova: Russian tennis player collapses on court amid 34C heat",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c80nk83k88vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c186/live/9bda3d10-8b0e-11f1-9afb-bb99db1ea8ef.jpg",
+      "published": "7/29/2026, 5:52:21 AM",
+      "desc": "World number 19 Ekaterina Alexandrova collapses on court and had to retire from her first-round match at the Memphis Classic due to high temperatures."
+    },
+    {
+      "title": "Dallas Cowboys, Jerry Jones Highlight Positive Outlook Ahead Of Training Camp",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/dallas-cowboys-jerry-jones-highlight-positive-outlook-ahead-training-camp",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jerry.jpg?ve=1&tl=1",
+      "published": "7/29/2026, 5:52:21 AM",
+      "desc": "Unlike recent years, the Cowboys didn't bring drama with them when they arrived in Southern California for the start of trianing camp."
+    },
+    {
+      "title": "Chelsea transfer news: Brighton striker Danny Welbeck set for medical",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c935lvyeykwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0239/live/738eba30-8aea-11f1-9f39-d7991a790868.jpg",
+      "published": "7/29/2026, 5:52:18 AM",
+      "desc": "Brighton striker Danny Welbeck is given permission to have a medical at Stamford Bridge as his move to Chelsea moves closer."
+    },
+    {
+      "title": "Aston Villa: Villa youngsters show promise despite defeat to Real Sociedad",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cg4dv0qyvzvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/91df/live/a03d7e80-8abe-11f1-9997-a1a12b7801e6.jpg",
+      "published": "7/29/2026, 5:37:30 AM",
+      "desc": "Youngsters Brian Madjo and George Hemmings scored in Aston Villa's defeat to Real Sociedad."
+    },
+    {
+      "title": "Commonwealth Games 2026: Madias Ngake - Olympian to cleaner to Glasgow",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a04f/live/c82176b0-85e4-11f1-9837-c51febdbeb82.jpg",
+      "published": "7/29/2026, 5:37:27 AM",
+      "desc": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to competing for England at Glasgow 2026."
+    },
+    {
+      "title": "As deadline nears, Bryce Harper says Phillies 'need some help' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49477042/as-trade-deadline-nears-phillies-bryce-harper-says-think-need-some-help",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0729%2Fr1695018_1296x729_16%2D9.jpg",
+      "published": "7/29/2026, 5:00:31 AM",
+      "desc": "With the Phillies now 3-8 since the All-Star break, Bryce Harper was blunt when asked if the team needs reinforcements as the Aug. 3 trade deadline approaches."
+    },
+    {
+      "title": "Red Sox Infielder Curtis Mead To Miss Time With Broken Left Wrist Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/red-sox-infielder-curtis-mead-miss-time-broken-left-wrist-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/redsox1.jpg?ve=1&tl=1",
+      "published": "7/29/2026, 4:37:20 AM",
+      "desc": "Curtis Mead will miss an undetermined amount of time with a left wrist injury suffered in his first game with the Boston Red Sox"
+    },
     {
       "title": "NFL Catchup: Extensions Galore, Rodgers Makes Another Statement &amp; Raiders&#39; QB Battle",
       "source": "Fox Sports",
@@ -82,6 +154,22 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0729%2Fr1694971_1296x729_16%2D9.jpg",
       "published": "7/29/2026, 2:12:27 AM",
       "desc": "Toronto Blue Jays pitcher Shane Bieber, a former Cy Young Award winner, issued walks to six of the nine batters he faced Tuesday night, including three with the bases loaded, before departing after two-thirds of an inning against the Washington Nationals."
+    },
+    {
+      "title": "Dodgers' Ohtani says knee improving but bicep still an issue - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49475955/ohtani-mound-return-air-dodgers-get-healthier",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0723%2Fr1692670_1296x729_16%2D9.jpg",
+      "published": "7/29/2026, 2:10:13 AM",
+      "desc": "While the Dodgers -- including Enrique Hernandez, Edwin Diaz, Blake Snell, Will Smith and Tyler Gasnow -- continue to get healthier, the mound return of Shohei Ohtani remains in question."
+    },
+    {
+      "title": "Ole Miss sues LSU's Umanmielen, Harper for breach of contract - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49475144/ole-miss-sues-former-players-princewill-umanmielen-devin-harper-now-lsu-breach-contract",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694910_1296x729_16%2D9.jpg",
+      "published": "7/28/2026, 11:57:10 PM",
+      "desc": "Ole Miss is seeking close to $1 million in penalties from former players Princewill Umanmielen and Devin Harper, who signed revenue sharing contracts to return to the Rebels this season before joining former coach Lane Kiffin at LSU."
     },
     {
       "title": "MLB 2026 Buzz: Curtis Mead Placed On 10-Day IL With A Broken Left Wrist",
@@ -116,103 +204,23 @@
       "desc": "Micah Parsons is on the PUP list to start training camp. Here's what to know about the Packers' star's injury."
     },
     {
-      "title": "Are there already worrying signs for Wouter Vrancken's Hearts?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3094/live/92dd7f20-8ad6-11f1-b1e6-67a795388f41.jpg",
-      "published": "7/28/2026, 11:37:22 PM",
-      "desc": "Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination."
-    },
-    {
       "title": "Commonwealth Games 2026: Soppy socks & a slathering of deep heat - rain causes chaos in Glasgow",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc75/live/2a0c9500-8ad9-11f1-9539-41ab4e295e9f.jpg",
       "published": "7/28/2026, 11:37:20 PM",
       "desc": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances."
-    },
-    {
-      "title": "It Just Means More: Boasting Big Ten&#39;s Success, Tony Pettiti Vouches For CFP Expansion",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/just-means-more-boasting-big-tens-success-tony-pettiti-vouches-cfp-expansion",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tony-petitti.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 11:07:27 PM",
-      "desc": "Big Ten commissioner Tony Pettiti believes a 24-team playoff increases the prestige for college football's postseason."
-    },
-    {
-      "title": "What&#39;s Next For USA After 2026 World Cup? Jozy Altidore, Clint Dempsey Weigh In",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-world-cup-belgium-loss-clint-dempsey-jozy-altidore",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/29856afb-artboard-1.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 11:07:25 PM",
-      "desc": "USA legends-turned-World Cup broadcasters Jozy Altidore and Clint Dempsey weigh in on the tournament's legacy."
-    },
-    {
-      "title": "Browns&#39; Denzel Ward Now NFL&#39;s Highest-Paid CB With $62.2 Million Extension",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/denzel-ward-becomes-nfls-highest-paid-cornerback-browns-62-2-million-extension",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/browns1.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 11:07:23 PM",
-      "desc": "The Cleveland Browns and Denzel Ward have agreed on a two-year, $62.2 million extension that will make him the league's highest paid cornerback."
-    },
-    {
-      "title": "Tony Petitti reiterates Big Ten desire for '27 24-team CFP - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49474525/tony-petitti-reiterates-big-10-desire-24-team-cfp-27",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694881_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 10:55:22 PM",
-      "desc": "Speaking on the first day of his conference's media days gathering, Big Ten commissioner Tony Petitti on Tuesday doubled down on his league's push for a 24-team College Football Playoff in time for 2027, saying \"the faster it goes, the easier it will be.\""
-    },
-    {
-      "title": "Red Sox to put Curtis Mead on IL as test shows broken wrist - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49474507/reports-red-sox-put-curtis-mead-il-broken-wrist",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694513_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 10:51:00 PM",
-      "desc": "Follow-up tests Tuesday on new Red Sox INF Curtis Mead revealed a fractured left wrist."
-    },
-    {
-      "title": "MLB Trade Deadline Predictions For Skubal And Other Top Targets",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-predictions-skubal-miller",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/skubalmain2.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 10:22:25 PM",
-      "desc": "Let's make some predictions on where the top trade candidates will land before the Aug. 3 deadline."
-    },
-    {
-      "title": "West Indies vs Pakistan: Jayden Seales takes 5-20 as hosts take first Test by 90 runs",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cvg09e84z8do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0aca/live/e27c3fa0-8ac5-11f1-801b-9163afadd44a.jpg",
-      "published": "7/28/2026, 10:22:22 PM",
-      "desc": "Jayden Seales takes 5-20 in second innings as West Indies' pace attack ruthlessly blow away Pakistan to secure a 90-run victory just after tea on day four of the first Test."
-    },
-    {
-      "title": "Who Are The NFL&#39;s Highest-Paid Players at Each Position?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/who-nfls-highest-paid-players-each-position",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/liveblog-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/28/2026, 10:22:21 PM",
-      "desc": "Jalen Carter and Denzel Ward were the latest players to become the highest-paid stars at their respective position."
-    },
-    {
-      "title": "Jets' Smith rues being 'distraction' after dispute with girlfriend - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49474294/jets-smith-rues-being-distraction-dispute-girlfriend",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0623%2Fr1678176_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 10:10:57 PM",
-      "desc": "Jets quarterback Geno Smith said he regretted being a \"distraction\" to the team after a dispute last month with a former girlfriend went viral on social media and resulted in a police investigation."
-    },
-    {
-      "title": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691798_1296x729_16%2D9.jpg",
-      "published": "7/28/2026, 9:58:00 PM",
-      "desc": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors."
     }
   ],
   "tech": [
+    {
+      "title": "Claude Chats Popped Up in Google Search Results. How to See If Yours Are Public - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/claude-chats-popped-up-in-google-search-results-see-if-yours-are-public",
+      "image": "https://i.pcmag.com/imagery/articles/05u1IxE2YaIXruh3K1JhrEP-1.fit_lim.size_1200x630.v1785181774.jpg",
+      "published": "7/28/2026, 8:53:11 PM",
+      "desc": "Chats posted online by Claude users briefly appeared in Google search results over the weekend. Here's how to check whether you've shared any chats and revoke access."
+    },
     {
       "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors",
       "source": "MacRumors",
@@ -268,14 +276,6 @@
       "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Xbox-Gamescom_07-28-26.jpg",
       "published": "7/28/2026, 6:39:57 PM",
       "desc": "Xbox has announced its plans for Gamescom 2026, which will run from August 26 to 30 at Koelenmesse in Cologne, Germany, including first-party and third-party titles playable at its booth, and live …"
-    },
-    {
-      "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Crazy-Taxi-CNT_07-28-26.jpg",
-      "published": "7/28/2026, 5:59:35 PM",
-      "desc": "SEGA will host a closed network test for Crazy Taxi: World Tour across PlayStation 5, Xbox Series, and PC from September 11 at 5:00 p.m. PT / 8:00 p.m. ET to September 13 at 5:00 p.m. PT / 8:00 p.m…"
     }
   ],
   "education": [
@@ -392,21 +392,21 @@
     },
     {
       "rank": 6,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 7,
       "title": "Falling Slowly",
       "artist": "Glen Hansard & Markéta Irglová",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/ac/45/b9ac459d-73cc-d882-2c80-eedff7767565/dj.uyllvkrw.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/37/1d/93371ded-9973-e608-f31b-8618f49b4739/mzaf_11613273655005975509.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/falling-slowly/254347531?i=254347632&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Glen%20Hansard%20%26%20Mark%C3%A9ta%20Irglov%C3%A1%20Falling%20Slowly"
+    },
+    {
+      "rank": 7,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 8,
@@ -428,21 +428,21 @@
     },
     {
       "rank": 10,
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
-      "rank": 11,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 11,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
       "rank": 12,
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 8,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 8,
+      "title": "The Dink",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
       "rank": 9,
@@ -562,15 +562,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 10,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
