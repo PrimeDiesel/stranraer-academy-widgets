@@ -1,13 +1,53 @@
 {
-  "updated": "2026-07-31T16:46:40.093Z",
+  "updated": "2026-07-31T18:21:35.122Z",
   "news": [
     {
-      "title": "Palestine Action ban to be reviewed by Supreme Court",
+      "title": "Food stall closed after dozens report falling ill at Truck Festival",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87n321w9qlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1315/live/d346b740-8c2d-11f1-9fe2-97492b603d93.jpg",
-      "published": "7/30/2026, 4:37:22 PM",
-      "desc": "The UK's highest court gives Palestine Action permission to appeal the government's proscription of the group under anti-terrorism legislation."
+      "url": "https://www.bbc.co.uk/news/articles/c4gwd90pv6lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb55/live/90f65cd0-6945-11f0-a7f4-dbef2f2cc595.jpg",
+      "published": "7/30/2026, 6:07:35 PM",
+      "desc": "Dozens reported falling ill after eating food from the Yorky Roast stall at Truck Festival."
+    },
+    {
+      "title": "British Airways flight called mayday on approach to Heathrow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89dd/live/c63fb180-8c3e-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/30/2026, 6:07:26 PM",
+      "desc": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings."
+    },
+    {
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac59/live/96fbf5d0-8c3b-11f1-89bb-9b3e3c6f25f4.jpg",
+      "published": "7/30/2026, 6:07:23 PM",
+      "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
+    },
+    {
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "7/30/2026, 6:07:19 PM",
+      "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
+    },
+    {
+      "title": "Greens review social media operation as Polanski row rumbles on",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4669/live/fd625a80-8c36-11f1-89bb-9b3e3c6f25f4.jpg",
+      "published": "7/30/2026, 5:37:21 PM",
+      "desc": "The Green Party is grappling with how to manage its social media following a controversial post by its leader."
+    },
+    {
+      "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/656d/live/f6c95880-8c32-11f1-89bb-9b3e3c6f25f4.jpg",
+      "published": "7/30/2026, 5:07:28 PM",
+      "desc": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling."
     },
     {
       "title": "How the UK's extreme heat is shifting the conversation about air-con",
@@ -18,55 +58,87 @@
       "desc": "Should we embrace air conditioning despite its costs and consequences?"
     },
     {
-      "title": "Five-year-old dead after being found in water",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy74n388vk7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e3b/live/2ece8370-e591-11f0-bb65-6152e605acc9.jpg",
-      "published": "7/30/2026, 3:22:28 PM",
-      "desc": "West Mercia Police says the missing child was found unresponsive."
-    },
-    {
       "title": "Drought declared for whole of Wales amid sustained high temperatures",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b68/live/37bfd650-8654-11f1-8bc3-95f8c3a93002.jpg",
       "published": "7/30/2026, 2:52:23 PM",
       "desc": "Wales is on course for its driest July on record in almost 190 years."
-    },
-    {
-      "title": "Greek police probe 'foul play' in death of woman found in suitcase",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a27/live/aa58ee00-8c16-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/30/2026, 2:07:20 PM",
-      "desc": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July."
-    },
-    {
-      "title": "Four people die trying to cross Channel in small boats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e34c/live/b9083d30-591b-11f1-96dc-73641c5ce48f.jpg",
-      "published": "7/30/2026, 1:52:26 PM",
-      "desc": "French officials said the people had died in two separate incidents off its coast overnight."
-    },
-    {
-      "title": "UK warned about 'explosive diarrhoea' cyclospora infection",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgv614qn2do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64fc/live/9ebf33b0-8c02-11f1-9dc7-8f4fc2aa9fe5.jpg",
-      "published": "7/30/2026, 12:07:24 PM",
-      "desc": "The UK is seeing a sharp rise in cases - 67 since April - with many of them among travellers returning from Mexico."
-    },
-    {
-      "title": "Zendaya and Tom Holland: Their decade-long Spider-Man romance in pictures",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kel0yv11o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5704/live/937bd6c0-8bee-11f1-9127-6b0fc0b6fa67.jpg",
-      "published": "7/30/2026, 11:37:18 AM",
-      "desc": "A look back at 10 years of Spider-Man movie premieres for the newlyweds."
     }
   ],
   "sports": [
+    {
+      "title": "Minimum 10-game ban for players found guilty of discrimination – FA",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/61f7/live/9a580a30-8c1c-11f1-94b2-05bc97107049.jpg",
+      "published": "7/30/2026, 6:07:20 PM",
+      "desc": "Players found guilty of discrimination will face a ban of at least 10 matches under strengthened Football Association rules."
+    },
+    {
+      "title": "Panthers WR Brazzell to have season-ending surgery, source says - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49489959/panthers-wr-brazzell-season-ending-surgery-source-says",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695628_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 5:55:10 PM",
+      "desc": "Panthers rookie wide receiver Chris Brazzell II will undergo season-ending surgery on his torn LCL in his left knee, a source told ESPN, confirming a report by The Athletic."
+    },
+    {
+      "title": "Carolina Panthers Over/Under Win Total: Can Bryce Young Take Another Leap?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/carolina-panthers-over-under-win-total",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/1408/814/bryce-young-h.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:52:23 PM",
+      "desc": "Check out the 2026 O/U win total for the Panthers, who won 8 games last season and won the NFC South."
+    },
+    {
+      "title": "Peter Malnati shoots 9-under 61 for early lead at final Rocket Classic - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49489776/peter-malnati-shoots-9-61-early-lead-final-rocket-classic",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695619_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 5:30:17 PM",
+      "desc": "Peter Malnati shot a 9-under 61 to take the lead among the early starters Thursday in the first round of the final Rocket Classic."
+    },
+    {
+      "title": "Tampa Bay Buccaneers Over/Under Win Total: Will They Bounce Back In 2026?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-over-under-win-total",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/01/1408/814/baker-mayfield-16x9-1.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:22:38 PM",
+      "desc": "Check out the 2026 O/U win total for the Buccaneers, who won 8 games last season and finished second in the NFC South."
+    },
+    {
+      "title": "2026 MLB Trade Deadline: Every Contender&#39;s Biggest Need, Player Fits",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-every-contenders-biggest-need-player-fits",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/047b85fa-skubal1.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:22:38 PM",
+      "desc": "Each contender’s biggest need and one possible target who could fit the mold at the MLB trade deadline."
+    },
+    {
+      "title": "Madden NFL 27 Ratings: Who Are The 10 Highest-Rated Defenses In This Year&#39;s Game?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/madden-nfl-27-ratings-who-10-highest-rated-defenses-years-game",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/myles-garrett.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:22:31 PM",
+      "desc": "Who has the best defense in the league? EA Sports revealed the top 10 defenses for \"Madden NFL 27\" on Thursday."
+    },
+    {
+      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Skubal Move Likely? Greene Trade?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:22:28 PM",
+      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
+    },
+    {
+      "title": "Biggest MLB Trade Deadline Steals And Blockbusters Of The 21st Century",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/biggest-mlb-trade-deadline-steals-blockbusters-21st-century",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/7d407ba6-mlb1.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 5:22:24 PM",
+      "desc": "Here are the top 10 most impactful MLB Trade Deadline deals since 2000."
+    },
     {
       "title": "Thursday's Conference League - Motherwell & Hibs in action, radio commentary & live text",
       "source": "BBC Sport",
@@ -74,6 +146,14 @@
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
       "published": "7/30/2026, 4:52:19 PM",
       "desc": "Listen to Sportsound and follow live text updates as Motherwell and Hibernian seek to reach the Conference League third qualifying round."
+    },
+    {
+      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695587_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 4:48:07 PM",
+      "desc": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp."
     },
     {
       "title": "Liverpool: Harvey Elliott ready to seize 'second chance' at Anfield",
@@ -100,22 +180,6 @@
       "desc": "Here are the three best MLB trade deadline destinations for New York Mets right-hander Freddy Peralta."
     },
     {
-      "title": "GM Andrew Berry 'hopeful' Browns can reunite with Jadeveon Clowney - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49489309/gm-andrew-berry-hopeful-browns-reunite-jadeveon-clowney",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0224%2Fr1135619_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 4:22:19 PM",
-      "desc": "Browns general manager Andrew Berry said he is \"hopeful\" the team will sign Jadeveon Clowney after the veteran defensive end visited the facility Wednesday."
-    },
-    {
-      "title": "With Multiple Frontrunners, A Consecutive Heisman Win Would Validate Big Ten Dominance",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/heisman-trophy-big-ten-cohen-column",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-28.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 4:07:38 PM",
-      "desc": "If the Big Ten takes home a second straight Heisman Trophy, it could have a similar impact to winning the last three national championships."
-    },
-    {
       "title": "Last Night In Baseball: The Tigers Blew What Might Be Tarik Skubal&#39;s Last Start",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/mlb/tarik-skubal-trade-deadline-tigers-orioles",
@@ -140,76 +204,12 @@
       "desc": "The NL MVP was all but decided ... until it wasn't. Can Shohei Ohtani repeat, or is PCA the best bet? See Will Hill's pick."
     },
     {
-      "title": "Source: Bengals' Shemar Stewart suffered hyperextended knee - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49489169/source-bengals-shemar-stewart-suffered-hyperextended-knee",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0814%2Fr1531802_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 3:58:00 PM",
-      "desc": "Bengals defensive end Shemar Stewart, who was carted off the field with a left leg injury during the first day of training camp, suffered a hyperextended knee and will have treatment, a source told ESPN's Adam Schefter and NFL Network's Ian Rapoport."
-    },
-    {
       "title": "Police: Tony Romo had open bottle of alcohol in car when arrested - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49489175/police-tony-romo-had-open-bottle-alcohol-car-arrested",
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0713%2Fr230616_1296x729_16%2D9.jpg",
       "published": "7/30/2026, 3:56:52 PM",
       "desc": "CBS NFL analyst and former Cowboys quarterback Tony Romo had an open container of alcohol in his vehicle when he was arrested last week on suspicion of driving under the influence, police say."
-    },
-    {
-      "title": "Alan Shearer: Challenging times ahead for Newcastle after Eddie Howe exit",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg",
-      "published": "7/30/2026, 3:52:38 PM",
-      "desc": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe."
-    },
-    {
-      "title": "Live: Uefa to boycott World Cup if Fifa plans go through",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c4gd8yz23j0t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4a8/live/e9961170-8c29-11f1-9488-69577cd5e4e0.jpg",
-      "published": "7/30/2026, 3:52:25 PM",
-      "desc": "All 55 Uefa countries have voted to support a World Cup boycott in protest against Fifa's proposed deal to sell stakes to private investment."
-    },
-    {
-      "title": "Fifa World Cup: Uefa to boycott tournament if Gianni Infantino's investment plans go through",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "7/30/2026, 3:22:22 PM",
-      "desc": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions."
-    },
-    {
-      "title": "Bruno Guimaraes: Arsenal closing in on Newcastle captain",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1db/live/8274e610-8c1f-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "7/30/2026, 3:07:24 PM",
-      "desc": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m."
-    },
-    {
-      "title": "UEFA to boycott all FIFA competitions to protest World Cup private equity plan - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0101%2Fr1272500_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 2:36:22 PM",
-      "desc": "UEFA on Thursday voted to boycott all FIFA competitions in protest against FIFA president Gianni Infantino's plan for selling a stake in World Cup revenue to private investors."
-    },
-    {
-      "title": "Bill Belichick declines comment on Michael Lombardi as UNC opens investigation - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49488420/bill-belichick-declines-comment-michael-lombardi-unc-opens-investigation",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0203%2Fr1447110_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 2:11:17 PM",
-      "desc": "Bill Belichick avoided questions about Michael Lombardi after North Carolina announced it has opened an investigation into the Tar Heels GM."
-    },
-    {
-      "title": "Storm fined, co-owner can't attend games after fan confrontation - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49488391/storm-fined-co-owner-attend-games-fan-confrontation",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0509%2Fr1490133_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 2:03:58 PM",
-      "desc": "The WNBA has fined the Storm and suspended co-owner Celeste Keaton from attending the team's next five home games after her exchange with two fans during Tuesday's matchup with the Fever."
     }
   ],
   "tech": [
@@ -511,21 +511,21 @@
     },
     {
       "rank": 4,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 5,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 5,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
     },
     {
       "rank": 6,
@@ -547,21 +547,21 @@
     },
     {
       "rank": 8,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 10,
