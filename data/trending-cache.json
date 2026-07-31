@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-31T18:21:35.122Z",
+  "updated": "2026-07-31T20:21:18.929Z",
   "news": [
+    {
+      "title": "Diane Abbott readmitted into Labour Party after suspension",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54ad/live/81988240-8c3f-11f1-89bb-9b3e3c6f25f4.jpg",
+      "published": "7/30/2026, 7:52:22 PM",
+      "desc": "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed."
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "7/30/2026, 6:37:30 PM",
+      "desc": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
+    },
     {
       "title": "Food stall closed after dozens report falling ill at Truck Festival",
       "source": "BBC News",
@@ -34,28 +50,12 @@
       "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
     },
     {
-      "title": "Greens review social media operation as Polanski row rumbles on",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4669/live/fd625a80-8c36-11f1-89bb-9b3e3c6f25f4.jpg",
-      "published": "7/30/2026, 5:37:21 PM",
-      "desc": "The Green Party is grappling with how to manage its social media following a controversial post by its leader."
-    },
-    {
       "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/656d/live/f6c95880-8c32-11f1-89bb-9b3e3c6f25f4.jpg",
       "published": "7/30/2026, 5:07:28 PM",
       "desc": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling."
-    },
-    {
-      "title": "How the UK's extreme heat is shifting the conversation about air-con",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/555e/live/7e207690-8b4f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/30/2026, 4:07:21 PM",
-      "desc": "Should we embrace air conditioning despite its costs and consequences?"
     },
     {
       "title": "Drought declared for whole of Wales amid sustained high temperatures",
@@ -68,20 +68,124 @@
   ],
   "sports": [
     {
-      "title": "Minimum 10-game ban for players found guilty of discrimination – FA",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/61f7/live/9a580a30-8c1c-11f1-94b2-05bc97107049.jpg",
-      "published": "7/30/2026, 6:07:20 PM",
-      "desc": "Players found guilty of discrimination will face a ban of at least 10 matches under strengthened Football Association rules."
+      "title": "Bryce Harper, Andy Roddick And Other Investors Join Jimmie Johnson&#39;s NASCAR Team",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/jimmie-johnson-bryce-harper-guy-fieri-legacy-nascar",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/jimmieh1.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 8:22:18 PM",
+      "desc": "Seven-time NASCAR Cup Series champion Jimmie Johnson is adding some big-time winners to his race team."
     },
     {
-      "title": "Panthers WR Brazzell to have season-ending surgery, source says - ESPN",
+      "title": "Football gossip: Delap, Bouaddi, Hall, Rushworth, Sangare, Rulli",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdx857g7rx8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9aca/live/949e2eb0-8c46-11f1-b2ab-0dd01740f9f6.png",
+      "published": "7/30/2026, 8:07:22 PM",
+      "desc": "Three Premier League clubs are watching Chelsea's Liam Delap, Manchester City are closing in on rising star Ayyoub Bouaddi, plus more."
+    },
+    {
+      "title": "Florida collector pulls 1-of-1 Ohtani card, then sells for $10M+ - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49489959/panthers-wr-brazzell-season-ending-surgery-source-says",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695628_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 5:55:10 PM",
-      "desc": "Panthers rookie wide receiver Chris Brazzell II will undergo season-ending surgery on his torn LCL in his left knee, a source told ESPN, confirming a report by The Athletic."
+      "url": "https://www.espn.com/mlb/story/_/id/49490740/florida-collector-pulls-1-1-ohtani-card-sells-10m+",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666712_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 7:39:33 PM",
+      "desc": "A memorabilia collector in Florida pulled a 1-of-1 Shohei Ohtani Dual Gold Logoman Autograph card and proceeded to sell it for more than $10 million, according to the buyer."
+    },
+    {
+      "title": "Indiana's Curt Cignetti says Big Ten is 'best league in football' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49490739/indiana-curt-cignetti-says-big-ten-best-league-football",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695663_1277x718_16%2D9.jpg",
+      "published": "7/30/2026, 7:39:08 PM",
+      "desc": "Indiana coach Curt Cignetti, armed with statistical evidence, said the Big Ten doesn't \"run a hype machine\" and is \"the best league in football.\""
+    },
+    {
+      "title": "Atlanta Falcons Over/Under Win Total: Can Kevin Stefanski Turn Things Around?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/atlanta-falcons-over-under-win-total",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/bijan2.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 7:37:24 PM",
+      "desc": "Check out the 2026 O/U win total for the Falcons, who won 8 games last season and finished third in the NFC South."
+    },
+    {
+      "title": "West Ham: Amanda Staveley holds talks over buying 25% stake in Championship club",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b965/live/dbf92160-8c47-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "7/30/2026, 7:22:31 PM",
+      "desc": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham."
+    },
+    {
+      "title": "NASCAR Silly Season Tracker: RFK Picks Up Ryan Preece&#39;s Option For 2027",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/nascar-silly-season-tracker-2026-2027",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286820755-scaled.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 6:52:34 PM",
+      "desc": "Ryan Preece is staying with RFK for another season. Here's the latest from NASCAR's silly season."
+    },
+    {
+      "title": "New Orleans Saints Over/Under Win Total: Ready To Take Next Step?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/new-orleans-saints-over-under-win-total",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1408/814/gettyimages-2172417506-scaled.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 6:52:27 PM",
+      "desc": "Check out the 2026 O/U win total for the Saints, who won 6 games last season and finished fourth in the NFC South."
+    },
+    {
+      "title": "2026 Super Bowl Odds: Rams Favored Heading Into Training Camp",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mvp.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 6:52:25 PM",
+      "desc": "Let’s take a look at the updated 2026 Super Bowl odds heading into training camp."
+    },
+    {
+      "title": "Women's Open: World's best step up as Jeeno Thitikul leads",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c5ywgvy808no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42d1/live/4c147340-8c35-11f1-89bb-9b3e3c6f25f4.jpg",
+      "published": "7/30/2026, 6:52:24 PM",
+      "desc": "World number two Jeeno Thitikul leads the first round of the AIG Women's Open by two shots after a spectacular seven-under 64 at Royal Lytham & St Anne's."
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Early Favorite",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mahomes_comeback-player_horizontal_odds.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 6:52:23 PM",
+      "desc": "Patrick Mahomes is the early favorite to win NFL Comeback Player of the Year. Which other players are near the top of the board? Here's the latest."
+    },
+    {
+      "title": "John Stones: Ex-Man City defender joins Inter Milan on free transfer",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da88/live/dbebb4b0-8c17-11f1-94b2-05bc97107049.jpg",
+      "published": "7/30/2026, 6:52:22 PM",
+      "desc": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract."
+    },
+    {
+      "title": "Former Cal Bakersfield coach gets prison for pimping, child porn convictions - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49490112/kevin-mays-csb-pimping-prison",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0304%2Fr1623113_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 6:33:00 PM",
+      "desc": "Former Cal State Bakersfield assistant Kevin Mays was sentenced to four years in prison on charges of pimping, possessing youth or child pornography and drug possession while armed."
+    },
+    {
+      "title": "Sean Payton tearfully accepts Drew Brees' invitation to introduce QB for HOF - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49490175/sean-payton-tearfully-accepts-drew-brees-invitation-introduce-qb-hof",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0102%2Fr483965_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 6:20:30 PM",
+      "desc": "Sean Payton will present Drew Brees into the Pro Football Hall of Fame."
+    },
+    {
+      "title": "Source: WNBA won't punish Bueckers, Reese for apparent wager - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49490102/source-wnba-punish-bueckers-reese-apparent-wager",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695630_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 6:16:17 PM",
+      "desc": "WNBA stars Paige Bueckers and Angel Reese will not be disciplined for what appeared to be a friendly wager ahead of Wednesday's matchup, a league source told ESPN."
     },
     {
       "title": "Carolina Panthers Over/Under Win Total: Can Bryce Young Take Another Leap?",
@@ -92,20 +196,12 @@
       "desc": "Check out the 2026 O/U win total for the Panthers, who won 8 games last season and won the NFC South."
     },
     {
-      "title": "Peter Malnati shoots 9-under 61 for early lead at final Rocket Classic - ESPN",
+      "title": "Falcons WR Drake London's proposal to Sofia Gabay included Taco Bell - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49489776/peter-malnati-shoots-9-61-early-lead-final-rocket-classic",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695619_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 5:30:17 PM",
-      "desc": "Peter Malnati shot a 9-under 61 to take the lead among the early starters Thursday in the first round of the final Rocket Classic."
-    },
-    {
-      "title": "Tampa Bay Buccaneers Over/Under Win Total: Will They Bounce Back In 2026?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-over-under-win-total",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/01/1408/814/baker-mayfield-16x9-1.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 5:22:38 PM",
-      "desc": "Check out the 2026 O/U win total for the Buccaneers, who won 8 games last season and finished second in the NFC South."
+      "url": "https://www.espn.com/nfl/story/_/id/49489536/drake-london-atlanta-falcons-engagement-sofia-gabay-taco-bell",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695608_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 5:35:00 PM",
+      "desc": "The Atlanta Falcons wide receiver had a creative way of proposing to his girlfriend -- hot sauce and all."
     },
     {
       "title": "2026 MLB Trade Deadline: Every Contender&#39;s Biggest Need, Player Fits",
@@ -114,112 +210,64 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/047b85fa-skubal1.jpg?ve=1&tl=1",
       "published": "7/30/2026, 5:22:38 PM",
       "desc": "Each contender’s biggest need and one possible target who could fit the mold at the MLB trade deadline."
-    },
-    {
-      "title": "Madden NFL 27 Ratings: Who Are The 10 Highest-Rated Defenses In This Year&#39;s Game?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/madden-nfl-27-ratings-who-10-highest-rated-defenses-years-game",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/myles-garrett.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 5:22:31 PM",
-      "desc": "Who has the best defense in the league? EA Sports revealed the top 10 defenses for \"Madden NFL 27\" on Thursday."
-    },
-    {
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Skubal Move Likely? Greene Trade?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mlbdeadlineh.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 5:22:28 PM",
-      "desc": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day."
-    },
-    {
-      "title": "Biggest MLB Trade Deadline Steals And Blockbusters Of The 21st Century",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/biggest-mlb-trade-deadline-steals-blockbusters-21st-century",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/7d407ba6-mlb1.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 5:22:24 PM",
-      "desc": "Here are the top 10 most impactful MLB Trade Deadline deals since 2000."
-    },
-    {
-      "title": "Thursday's Conference League - Motherwell & Hibs in action, radio commentary & live text",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c05qn3gdjr8t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "7/30/2026, 4:52:19 PM",
-      "desc": "Listen to Sportsound and follow live text updates as Motherwell and Hibernian seek to reach the Conference League third qualifying round."
-    },
-    {
-      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695587_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 4:48:07 PM",
-      "desc": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp."
-    },
-    {
-      "title": "Liverpool: Harvey Elliott ready to seize 'second chance' at Anfield",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cp30lp0z4qpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d740/live/775b6b60-8c23-11f1-b947-9b4cd2356dd8.jpg",
-      "published": "7/30/2026, 4:37:25 PM",
-      "desc": "Harvey Elliott discusses his \"tough\" loan spell at Aston Villa and why he's determined to enjoy his football again at Liverpool."
-    },
-    {
-      "title": "Michael Vaughan: England Test captaincy could be 'exactly what Joe Root needs'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c862/live/30ede4f0-8c2d-11f1-9fe2-97492b603d93.jpg",
-      "published": "7/30/2026, 4:37:20 PM",
-      "desc": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time."
-    },
-    {
-      "title": "3 Best MLB Trade Deadline Fits For Mets Starter Freddy Peralta",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/freddy-peralta-trade-rumors-mets-cubs-diamondbacks-phillies",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/peralta1.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 4:22:19 PM",
-      "desc": "Here are the three best MLB trade deadline destinations for New York Mets right-hander Freddy Peralta."
-    },
-    {
-      "title": "Last Night In Baseball: The Tigers Blew What Might Be Tarik Skubal&#39;s Last Start",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/tarik-skubal-trade-deadline-tigers-orioles",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/9e005319-skubalh1.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 4:07:30 PM",
-      "desc": "The Tigers blew it, the Marlins swept the Phillies, the White Sox came back to win in extras, Salvador Perez hit a triple (!) and more from Wednesday's MLB action."
-    },
-    {
-      "title": "MLB 2026 Buzz: Detroit Tigers Call Up Former No. 3 Overall Pick",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 4:07:26 PM",
-      "desc": "Notable news, notes and buzz from MLB's 2026 season."
-    },
-    {
-      "title": "2026 MLB Odds: Can Ohtani Hold Off PCA In NL MVP Race?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-can-ohtani-hold-off-pca-nl-mvp-race",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/shohei-730.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 4:07:22 PM",
-      "desc": "The NL MVP was all but decided ... until it wasn't. Can Shohei Ohtani repeat, or is PCA the best bet? See Will Hill's pick."
-    },
-    {
-      "title": "Police: Tony Romo had open bottle of alcohol in car when arrested - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49489175/police-tony-romo-had-open-bottle-alcohol-car-arrested",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0713%2Fr230616_1296x729_16%2D9.jpg",
-      "published": "7/30/2026, 3:56:52 PM",
-      "desc": "CBS NFL analyst and former Cowboys quarterback Tony Romo had an open container of alcohol in his vehicle when he was arrested last week on suspicion of driving under the influence, police say."
     }
   ],
   "tech": [
     {
-      "title": "Free Xbox Games: WWE 2K26 and two more games are this weekend's Free Play Days titles - TrueAchievements",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/free-play-days-july-30-2026",
-      "image": "https://www.trueachievements.com/imgs/177169/free-play-days-july-30-2026.jpg",
-      "published": "7/30/2026, 3:34:26 PM",
-      "desc": "It's time to look at this weekend's Free Play Days games, and Game Pass subscribers can now check out WWE 2K26 and two more games on Xbox."
+      "title": "Chrome may get faster updates with no restart required - arstechnica.com",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
+      "published": "7/30/2026, 7:26:56 PM",
+      "desc": "The last two versions of Chrome have included more patches than the previous 23 combined."
+    },
+    {
+      "title": "Pixel Watch 5 leaks in official-looking images with same charging system - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/30/pixel-watch-5-angles-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-Watch-5-leak-cover-Blass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/30/2026, 6:21:00 PM",
+      "desc": "The latest Pixel Watch 5 leak today provides further confirmation that the external design and case will be identical to the last generation."
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’ - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+      "published": "7/30/2026, 6:05:21 PM",
+      "desc": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+    },
+    {
+      "title": "Apple is about to launch Home product overhaul I’ve wanted for years - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/30/2026, 5:29:00 PM",
+      "desc": "Apple’s major new push into Home products will reportedly kick off soon, and I’m thrilled by what rumors say is coming."
+    },
+    {
+      "title": "Do Not Buy The War Crime N64 - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/war-crime-n64-palmer-luckey-m64-modretro/",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/The-ModRetro-M64-Special-Announcement--1RJjppZwrXvKw--00-08-51.png",
+      "published": "7/30/2026, 5:07:41 PM",
+      "desc": "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project."
+    },
+    {
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6608d2c0-7707-4156-82ca-a44b58a90bd1_1440x800.jpg?quality=90&strip=all&crop=0%2C2.8795811518325%2C100%2C94.240837696335&w=1200",
+      "published": "7/30/2026, 4:57:39 PM",
+      "desc": "Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold, a new Pixel Watch, and new Pixel Buds."
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft_Teams.jpg",
+      "published": "7/30/2026, 3:56:33 PM",
+      "desc": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations."
     },
     {
       "title": "DJI Osmo Pocket 4P Lab Test: Rolling Shutter, Dynamic Range and Exposure Latitude - CineD",
@@ -228,54 +276,6 @@
       "image": "https://www.cined.com/content/uploads/2026/07/Osmo-Pocket-4P-Lab-Test-featured.jpg",
       "published": "7/30/2026, 3:26:12 PM",
       "desc": "DJI Osmo Pocket 4P Lab Test by CineD, testing rolling shutter, dynamic range and exposure latitude in D-Log and D-Log2."
-    },
-    {
-      "title": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/30/2026, 3:08:00 PM",
-      "desc": "Here are the key differences between the newly launched Apple Upgrade and the discontinued iPhone Upgrade Program."
-    },
-    {
-      "title": "First Ride: Pole Hiisi With Maxon Air S Motor - Pinkbike",
-      "source": "Pinkbike.com",
-      "url": "https://www.pinkbike.com/news/first-ride-pole-hiisi-with-maxon-air-s-motor.html",
-      "image": "https://ep1.pinkbike.org/p4pb30064640/p4pb30064640.jpg",
-      "published": "7/30/2026, 3:01:00 PM",
-      "desc": "A bougie e-bike that won't do all the work for you."
-    },
-    {
-      "title": "There's an under-the-radar utility stock on Josh Brown's list that's ready to break out - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/theres-an-under-the-radar-utility-stock-on-josh-browns-list-thats-ready-to-break-out.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108134771-1778156346714-108134771-1745331114782-IMG_5789.jpg?v=1778156360&w=1920&h=1080",
-      "published": "7/30/2026, 3:00:01 PM",
-      "desc": "Josh Brown and Sean Russo take a look at this utility name on their list."
-    },
-    {
-      "title": "Exclusive: Tesla Model 3 and Model Y Are Getting Upgraded Wireless Phone Chargers - Not a Tesla App",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4505/exclusive-tesla-model-3-and-model-y-are-getting-upgraded-wireless-phone-chargers",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-us-cabin-1785421356.webp/083c46c8aadb07875e11b77a32df9e9c/model-y-l-us-cabin-1785421356.jpg",
-      "published": "7/30/2026, 2:44:00 PM",
-      "desc": "Tesla to bring the Model Y L’s actively cooled wireless charging to its complete vehicle lineup."
-    },
-    {
-      "title": "Google says Pixel battery drain should be fixed in July and September updates - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/30/google-pixel-battery-drain-fix-update-problems/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-25-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/30/2026, 2:40:00 PM",
-      "desc": "Google Pixel users have been running into battery drain issues for the past few months but, with the latest and..."
-    },
-    {
-      "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button - 404 Media",
-      "source": "404media.co",
-      "url": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
-      "image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGxpbmtlZGlufGVufDB8fHx8MTc4NTQyMTY3NXww&ixlib=rb-4.1.0&q=80&w=2000",
-      "published": "7/30/2026, 2:35:54 PM",
-      "desc": "Following 404 Media's reporting on how LinkedIn is full of AI slop, the platform is giving users a chance to report it when they see it."
     }
   ],
   "education": [
@@ -347,21 +347,21 @@
   "music": [
     {
       "rank": 1,
-      "title": "Give Me Joy",
-      "artist": "Elle Limebear",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/03/0a/33030a06-bb43-aae1-30c1-73fbba2fea97/26UMGIM55825.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c0/8b/c1c08b61-e6ec-aaff-6c66-e79ee74b7693/mzaf_1197058901940628812.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/give-me-joy/6786918232?i=6786918234&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Elle%20Limebear%20Give%20Me%20Joy"
-    },
-    {
-      "rank": 2,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+    },
+    {
+      "rank": 2,
+      "title": "Give Me Joy",
+      "artist": "Elle Limebear",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/03/0a/33030a06-bb43-aae1-30c1-73fbba2fea97/26UMGIM55825.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c0/8b/c1c08b61-e6ec-aaff-6c66-e79ee74b7693/mzaf_1197058901940628812.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/give-me-joy/6786918232?i=6786918234&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Elle%20Limebear%20Give%20Me%20Joy"
     },
     {
       "rank": 3,
@@ -383,21 +383,21 @@
     },
     {
       "rank": 5,
-      "title": "Falling Slowly",
-      "artist": "Glen Hansard & Markéta Irglová",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/ac/45/b9ac459d-73cc-d882-2c80-eedff7767565/dj.uyllvkrw.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/37/1d/93371ded-9973-e608-f31b-8618f49b4739/mzaf_11613273655005975509.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/falling-slowly/254347531?i=254347632&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Glen%20Hansard%20%26%20Mark%C3%A9ta%20Irglov%C3%A1%20Falling%20Slowly"
-    },
-    {
-      "rank": 6,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 6,
+      "title": "Falling Slowly",
+      "artist": "Glen Hansard & Markéta Irglová",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/ac/45/b9ac459d-73cc-d882-2c80-eedff7767565/dj.uyllvkrw.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/37/1d/93371ded-9973-e608-f31b-8618f49b4739/mzaf_11613273655005975509.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/falling-slowly/254347531?i=254347632&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Glen%20Hansard%20%26%20Mark%C3%A9ta%20Irglov%C3%A1%20Falling%20Slowly"
     },
     {
       "rank": 7,
@@ -410,15 +410,6 @@
     },
     {
       "rank": 8,
-      "title": "dark heaven",
-      "artist": "PRESIDENT",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/8d/60/508d606b-88a2-7def-5dd3-e5a37f38326f/075679576392.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/9f/a3/759fa3ec-d46b-2c73-6a4b-011bf9031327/mzaf_11664601127421229031.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dark-heaven/6769905842?i=6769906141&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=PRESIDENT%20dark%20heaven"
-    },
-    {
-      "rank": 9,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -427,7 +418,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -436,22 +427,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 11,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+      "rank": 10,
+      "title": "dark heaven",
+      "artist": "PRESIDENT",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/8d/60/508d606b-88a2-7def-5dd3-e5a37f38326f/075679576392.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/9f/a3/759fa3ec-d46b-2c73-6a4b-011bf9031327/mzaf_11664601127421229031.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dark-heaven/6769905842?i=6769906141&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=PRESIDENT%20dark%20heaven"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
+    },
+    {
+      "rank": 12,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     },
     {
       "rank": 13,
@@ -538,12 +538,12 @@
     },
     {
       "rank": 7,
-      "title": "Project Hail Mary",
+      "title": "The Dink",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     },
     {
       "rank": 8,
@@ -556,21 +556,30 @@
     },
     {
       "rank": 9,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 10,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 11,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 10,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
     }
   ],
   "tv": [
@@ -582,6 +591,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
