@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T05:14:41.720Z",
-  "nextUpdate": "2026-07-31T05:14:41.720Z",
+  "lastUpdated": "2026-07-31T05:41:09.873Z",
+  "nextUpdate": "2026-08-01T05:41:09.873Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "Foyle Young Poets",
-      "organisation": "The Poetry Society",
-      "category": "writing",
-      "ageRange": "11-17",
-      "description": "Submit up to 3 poems on any theme. 100 winners published in anthology.",
-      "link": "https://poetrysociety.org.uk/",
-      "deadline": "2026-07-31"
-    },
     {
       "title": "UKMT Maths Challenge - Senior",
       "organisation": "UK Maths Trust",
@@ -168,6 +159,15 @@
       "description": "Write an essay in philosophy, politics, economics, history, psychology, theology or law.",
       "link": "https://www.johnlockeinstitute.com/",
       "deadline": "2027-06-30"
+    },
+    {
+      "title": "Foyle Young Poets",
+      "organisation": "The Poetry Society",
+      "category": "writing",
+      "ageRange": "11-17",
+      "description": "Submit up to 3 poems on any theme. 100 winners published in anthology.",
+      "link": "https://poetrysociety.org.uk/",
+      "deadline": "2027-07-31"
     },
     {
       "title": "CREST Awards",
