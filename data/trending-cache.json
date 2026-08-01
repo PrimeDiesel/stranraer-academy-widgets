@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-31T22:07:14.545Z",
+  "updated": "2026-08-01T00:02:50.542Z",
   "news": [
+    {
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "7/30/2026, 11:37:19 PM",
+      "desc": "Israel and Hamas have yet to comment on the announcement."
+    },
+    {
+      "title": "Nirmal Purja: Ex-Royal Marine among 10 climbers feared missing after avalanche in Pakistan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "7/30/2026, 11:22:20 PM",
+      "desc": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+    },
     {
       "title": "Andy Burnham to give regional mayors share of income tax",
       "source": "BBC News",
@@ -34,14 +50,6 @@
       "desc": "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed."
     },
     {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "7/30/2026, 6:37:30 PM",
-      "desc": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
-    },
-    {
       "title": "British Airways flight called mayday on approach to Heathrow",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o",
@@ -56,24 +64,56 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac59/live/96fbf5d0-8c3b-11f1-89bb-9b3e3c6f25f4.jpg",
       "published": "7/30/2026, 6:07:23 PM",
       "desc": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
-    },
-    {
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "7/30/2026, 6:07:19 PM",
-      "desc": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
     }
   ],
   "sports": [
     {
-      "title": "NASCAR Silly Season Tracker: RFK Picks Up Ryan Preece&#39;s Option For 2027",
+      "title": "MLB 2026 Buzz: Orioles Acquire Jake Rogers",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-silly-season-tracker-2026-2027",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286820755-scaled.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 10:07:23 PM",
-      "desc": "Ryan Preece is staying with RFK for another season. Here's the latest from NASCAR's silly season."
+      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 11:52:22 PM",
+      "desc": "Notable news, notes and buzz from MLB's 2026 season."
+    },
+    {
+      "title": "Chicago Bears Over/Under Win Total: Can Caleb Williams&#39; Heroics Continue?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/chicago-bears-over-under-win-total",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/caleb-williams.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 11:52:20 PM",
+      "desc": "Check out the 2026 O/U win total for the Bears, who won 11 games last season and finished first in the NFC North."
+    },
+    {
+      "title": "Fermín López Shares Emotional Toll Of Missing Spain&#39;s World Cup Run To Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/i-was-at-my-peak-fermin-lopez-recovering-from-the-worst-summer-of-his-life-as-barcelona-star-admits-he-needed-help-dealing-with-missing-spains-world-cup-success",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2270452883-scaled-e1785453416494.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 11:52:18 PM",
+      "desc": "Fermín López has revealed he endured \"the worst summer\" of his life after an injury ruled him out of Spain's World Cup-winning campaign."
+    },
+    {
+      "title": "England&#39;s John Stones Arrives In Italy To Finalize Transfer To Inter Milan",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/john-stones-excited-to-be-here-as-ex-man-city-defender-arrives-in-milan-to-complete-inter-transfer",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2286150529-scaled-e1785454238650.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 11:52:16 PM",
+      "desc": "John Stones has touched down in Italy as he prepares to finalise a high-profile move to Serie A champions Inter Milan."
+    },
+    {
+      "title": "What Could Stop Rams&#39; Super Team? Their Matthew Stafford Succession Plan",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/what-could-stop-rams-super-team-matthew-stafford-succession-plan",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/ty-simpson-matthew-stafford.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 10:22:21 PM",
+      "desc": "First-round pick Ty Simpson and Stetson Bennett are battling it out for backup QB role, but Rams could use a more experienced alternative behind Matthew Stafford."
+    },
+    {
+      "title": "Saints WR Chris Olave Agrees To 4-Year Extension Reportedly Worth Over $100M",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/saints-wr-chris-olave-agrees-4-year-extension-reportedly-worth-over-100m",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/saints.jpg?ve=1&tl=1",
+      "published": "7/30/2026, 10:22:18 PM",
+      "desc": "After spending the season proving he can lead the New Orleans Saints' offense, Chris Olave is being rewarded like a true star."
     },
     {
       "title": "Gianni Infantino: Can Fifa president survive after Uefa threatens World Cup boycott?",
@@ -132,6 +172,14 @@
       "desc": "Palo Alto Police said neither party was provided preferential treatment after the July 14 crash that seriously injured Niners coach Kyle Shanahan."
     },
     {
+      "title": "Twins' Kody Clemens blasts walk-off grand slam vs. Royals - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49491240/twins-kody-clemens-blasts-walk-grand-slam-vs-royals",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695689_1296x729_16%2D9.jpg",
+      "published": "7/30/2026, 8:43:32 PM",
+      "desc": "Kody Clemens hit a grand slam with two outs and two strikes in the ninth as the Twins beat the Royals 4-3 after being no-hit by Noah Cameron through six innings."
+    },
+    {
       "title": "Bryce Harper, Andy Roddick And Other Investors Join Jimmie Johnson&#39;s NASCAR Team",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nascar/jimmie-johnson-bryce-harper-guy-fieri-legacy-nascar",
@@ -162,57 +210,25 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695663_1277x718_16%2D9.jpg",
       "published": "7/30/2026, 7:39:08 PM",
       "desc": "Indiana coach Curt Cignetti, armed with statistical evidence, said the Big Ten doesn't \"run a hype machine\" and is \"the best league in football.\""
-    },
-    {
-      "title": "Atlanta Falcons Over/Under Win Total: Can Kevin Stefanski Turn Things Around?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/atlanta-falcons-over-under-win-total",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/bijan2.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 7:37:24 PM",
-      "desc": "Check out the 2026 O/U win total for the Falcons, who won 8 games last season and finished third in the NFC South."
-    },
-    {
-      "title": "West Ham: Amanda Staveley holds talks over buying 25% stake in Championship club",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b965/live/dbf92160-8c47-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "7/30/2026, 7:22:31 PM",
-      "desc": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham."
-    },
-    {
-      "title": "New Orleans Saints Over/Under Win Total: Ready To Take Next Step?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/new-orleans-saints-over-under-win-total",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1408/814/gettyimages-2172417506-scaled.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 6:52:27 PM",
-      "desc": "Check out the 2026 O/U win total for the Saints, who won 6 games last season and finished fourth in the NFC South."
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams Favored Heading Into Training Camp",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mvp.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 6:52:25 PM",
-      "desc": "Let’s take a look at the updated 2026 Super Bowl odds heading into training camp."
-    },
-    {
-      "title": "Women's Open: World's best step up as Jeeno Thitikul leads",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c5ywgvy808no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42d1/live/4c147340-8c35-11f1-89bb-9b3e3c6f25f4.jpg",
-      "published": "7/30/2026, 6:52:24 PM",
-      "desc": "World number two Jeeno Thitikul leads the first round of the AIG Women's Open by two shots after a spectacular seven-under 64 at Royal Lytham & St Anne's."
-    },
-    {
-      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Early Favorite",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/mahomes_comeback-player_horizontal_odds.jpg?ve=1&tl=1",
-      "published": "7/30/2026, 6:52:23 PM",
-      "desc": "Patrick Mahomes is the early favorite to win NFL Comeback Player of the Year. Which other players are near the top of the board? Here's the latest."
     }
   ],
   "tech": [
+    {
+      "title": "Tim Cook says Apple may charge for AI Siri - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
+      "image": "https://images.axios.com/-yDvKvWPJcgtmlq3ujDoj47HZ34=/0x0:1920x1080/1366x768/2025/06/25/1750875816002.jpeg",
+      "published": "7/30/2026, 10:10:31 PM",
+      "desc": "Heavy users of Apple Intelligence may need an iCloud+ subscription"
+    },
+    {
+      "title": "Xbox CEO says the team has one year to start growing again - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "7/30/2026, 10:10:13 PM",
+      "desc": "In a memo obtained by The Verge, CEO Asha Sharma told staff by the end of June 2027, “we will return XBOX to player and revenue growth.” Sharma’s memo follows a major restructuring."
+    },
     {
       "title": "The disc is not the game: Physical releases increasingly require extra downloads - Ars Technica",
       "source": "Ars Technica",
@@ -222,20 +238,20 @@
       "desc": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet."
     },
     {
-      "title": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches - Yahoo Finance",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-nearly-2-195302646.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "published": "7/30/2026, 7:53:02 PM",
-      "desc": "Investors are weighing expected double-digit revenue growth against margins, component costs and Apple's new device-leasing strategy."
-    },
-    {
       "title": "Casio’s Tiny Ring Watch Is Now a Full-Blown Oura Alternative - Gizmodo",
       "source": "Gizmodo.com",
       "url": "https://gizmodo.com/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative-2000793116",
       "image": "https://gizmodo.com/app/uploads/2026/07/Casio-CRW-H001-1200x675.jpg",
       "published": "7/30/2026, 7:30:55 PM",
       "desc": "The CRW-H001 can track heart rate, blood oxygen, and sleep and vibrate when you receive a notification."
+    },
+    {
+      "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "7/30/2026, 7:13:00 PM",
+      "desc": "iPhone 18 Pro could make a major transition away from Qualcomm modems in favor of an Apple-designed C2. Here’s the latest update."
     },
     {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI - TechCrunch",
@@ -260,22 +276,6 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "7/30/2026, 5:29:00 PM",
       "desc": "Apple’s major new push into Home products will reportedly kick off soon, and I’m thrilled by what rumors say is coming."
-    },
-    {
-      "title": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/30/pixel-11-series-leaks-with-seemingly-official-renders-includes-all-matte-pixel-11-pro-gallery/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Pixel-10-Pro-XL-in-hand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "7/30/2026, 5:20:00 PM",
-      "desc": "Fresh off some leaks showcasing the Pixel 11 Pro Fold in official-looking renders, we’re getting new looks at all three..."
-    },
-    {
-      "title": "Do Not Buy The War Crime N64 - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/war-crime-n64-palmer-luckey-m64-modretro/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/The-ModRetro-M64-Special-Announcement--1RJjppZwrXvKw--00-08-51.png",
-      "published": "7/30/2026, 5:07:41 PM",
-      "desc": "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project."
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Give Me Joy",
-      "artist": "Elle Limebear",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/03/0a/33030a06-bb43-aae1-30c1-73fbba2fea97/26UMGIM55825.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c0/8b/c1c08b61-e6ec-aaff-6c66-e79ee74b7693/mzaf_1197058901940628812.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/give-me-joy/6786918232?i=6786918234&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Elle%20Limebear%20Give%20Me%20Joy"
-    },
-    {
-      "rank": 3,
       "title": "Everlasting",
       "artist": "Armin van Buuren & SACHA",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/da/8a/91da8a04-5fe5-2ac7-714e-ebc6f1751f8b/8718522630811.png/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/2e/63/e12e630d-ba9a-b5b7-f3c4-e5a823aa2ed2/mzaf_14877706359153728445.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everlasting/6791224131?i=6791224132&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Armin%20van%20Buuren%20%26%20SACHA%20Everlasting"
+    },
+    {
+      "rank": 3,
+      "title": "Give Me Joy",
+      "artist": "Elle Limebear",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/03/0a/33030a06-bb43-aae1-30c1-73fbba2fea97/26UMGIM55825.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c0/8b/c1c08b61-e6ec-aaff-6c66-e79ee74b7693/mzaf_1197058901940628812.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/give-me-joy/6786918232?i=6786918234&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Elle%20Limebear%20Give%20Me%20Joy"
     },
     {
       "rank": 4,
@@ -428,15 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "dark heaven",
-      "artist": "PRESIDENT",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/8d/60/508d606b-88a2-7def-5dd3-e5a37f38326f/075679576392.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/9f/a3/759fa3ec-d46b-2c73-6a4b-011bf9031327/mzaf_11664601127421229031.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dark-heaven/6769905842?i=6769906141&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=PRESIDENT%20dark%20heaven"
-    },
-    {
-      "rank": 11,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
@@ -445,7 +436,25 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     },
     {
+      "rank": 11,
+      "title": "dark heaven",
+      "artist": "PRESIDENT",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/8d/60/508d606b-88a2-7def-5dd3-e5a37f38326f/075679576392.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/9f/a3/759fa3ec-d46b-2c73-6a4b-011bf9031327/mzaf_11664601127421229031.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dark-heaven/6769905842?i=6769906141&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=PRESIDENT%20dark%20heaven"
+    },
+    {
       "rank": 12,
+      "title": "Sweet July",
+      "artist": "Take That",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
+    },
+    {
+      "rank": 13,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
@@ -454,22 +463,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     },
     {
-      "rank": 13,
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
       "rank": 14,
-      "title": "Sweet July",
-      "artist": "Take That",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/74/f4/bb74f49c-ecee-3e37-c385-07db3c63dc3a/26UMGIM67380.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/f8/f9/5bf8f999-7cf8-5301-74a3-9aa07ef9fba4/mzaf_6969425375881538360.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sweet-july/6777175213?i=6777175474&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Sweet%20July"
+      "title": "Happiness Is So Sad",
+      "artist": "Swedish House Mafia & Lykke Li",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/19/9c/cf199c26-6f59-a4b6-4309-c597ceea14d2/14006.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/b4/73/20b4735b-8821-db34-9d98-042b09d3836b/mzaf_5234972172603467106.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/happiness-is-so-sad/6792537373?i=6792537379&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Swedish%20House%20Mafia%20%26%20Lykke%20Li%20Happiness%20Is%20So%20Sad"
     },
     {
       "rank": 15,
@@ -538,15 +538,6 @@
     },
     {
       "rank": 7,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 8,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -555,31 +546,31 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
+      "rank": 8,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
       "rank": 9,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 10,
-      "title": "The Dink",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "url": "https://www.themoviedb.org/movie/1361774"
-    },
-    {
-      "rank": 11,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 10,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
