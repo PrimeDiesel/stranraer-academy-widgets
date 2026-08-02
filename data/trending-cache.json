@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T19:15:35.189Z",
+  "updated": "2026-08-02T20:56:40.622Z",
   "news": [
     {
       "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
@@ -68,12 +68,76 @@
   ],
   "sports": [
     {
-      "title": "Commonwealth Games 2026: Neil Fachie survives painful crash to take another gold after Wales 'poke bear'",
+      "title": "UFC Serbia: Uros Medic earns stunning 30-second win against Daniel Rodriguez",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/c3v03v5zyv4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9a4/live/9163ee50-8dd2-11f1-9319-fb45d9ebe605.jpg",
-      "published": "8/1/2026, 7:22:22 PM",
-      "desc": "Neil Fachie won his second gold medal of these Commonwealth Games on an afternoon of high drama and painful scrapes in Glasgow."
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/ce97rzevgyjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5b12/live/164ec9a0-8de7-11f1-92c6-e748252fe919.jpg",
+      "published": "8/1/2026, 8:52:22 PM",
+      "desc": "Uros Medic puts on a statement performance to stop Daniel Rodriguez in just 30 seconds at the UFC's first event in Belgrade, Serbia."
+    },
+    {
+      "title": "Grading MLB Trade Deadline Deals: Will Doval Improve Pirates Bullpen?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-grades",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/grades3.jpg?ve=1&tl=1",
+      "published": "8/1/2026, 8:37:25 PM",
+      "desc": "We're grading the deals ahead of Monday's MLB trade deadline."
+    },
+    {
+      "title": "MLB 2026 Buzz: Seattle Mariners Place Luke Raley On IL",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "8/1/2026, 8:37:23 PM",
+      "desc": "Notable news, notes and buzz from MLB's 2026 season."
+    },
+    {
+      "title": "Kevin Durant compares 76ers' star power to his Warriors teams - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49507136/kevin-durant-compares-76ers-star-power-warriors-teams",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0416%2Fr1644719_1296x729_16%2D9.jpg",
+      "published": "8/1/2026, 8:34:24 PM",
+      "desc": "Kevin Durant compared the new-look 76ers to his Warriors teams in terms of offensive firepower after Philly adding LeBron James in free agency."
+    },
+    {
+      "title": "Pre-season friendly: Tzolis scores as Arsenal start pre-season with win over Girona",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cy45kl7k0wzt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e667/live/83e82dc0-8de3-11f1-92c6-e748252fe919.jpg",
+      "published": "8/1/2026, 8:07:27 PM",
+      "desc": "Christos Tzolis shows Arsenal fans a glimpse of what may be to come as he scores on his first Gunners appearance in their opening pre-season win against Girona."
+    },
+    {
+      "title": "Confident Will Levis OK competing for Titans' backup QB spot - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49506954/confident-levis-ok-competing-titans-backup-qb-spot",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0801%2Fr1696424_1296x729_16%2D9.jpg",
+      "published": "8/1/2026, 8:00:51 PM",
+      "desc": "Tennessee Titans quarterback Will Levis, entering his fourth season, still believes he's \"a dang good quarterback\" in the NFL, he told reporters Saturday, as he continues to battle for the team's backup position behind former No. 1 pick Cam Ward."
+    },
+    {
+      "title": "Lottie Woad & Charley Hull in contention heading into final round of Open",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c3v03v02xgwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/15ae/live/8e1482f0-8dd7-11f1-b8ee-9b3c26ad07bb.png",
+      "published": "8/1/2026, 7:37:25 PM",
+      "desc": "England's Lottie Woad and Charley Hull are both in contention going into the final round of the AIG Women's Open at Royal Lytham and St Annes."
+    },
+    {
+      "title": "Aberdeen vs Heart of Midlothian: Scottish Premiership radio commentary, updates & match report",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cx2jx0dxj3zt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/1/2026, 7:37:24 PM",
+      "desc": "Aberdeen score twice in injury time in a pulsating climax to their Scottish Premiership win over Hearts at Pittodrie."
+    },
+    {
+      "title": "Joe Root in 'very different place' over England Test cricket captaincy",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcf6/live/6fd8efa0-8dd3-11f1-9a0a-41f096ccc96e.jpg",
+      "published": "8/1/2026, 7:37:14 PM",
+      "desc": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago."
     },
     {
       "title": "New York Yankees Reportedly Send Pitcher Camilo Doval To Pittsburgh Pirates",
@@ -140,76 +204,12 @@
       "desc": "Kansas City receiver Cyrus Allen sustained a lower left leg injury Saturday during a special teams drill."
     },
     {
-      "title": "Deshaun Watson: Preseason is 'great opportunity' after injuries - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49505809/deshaun-watson-preseason-great-opportunity-injuries",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0613%2Fr1672316_1296x729_16%2D9.jpg",
-      "published": "8/1/2026, 5:34:12 PM",
-      "desc": "Browns quarterback Deshaun Watson said the preseason will be a \"great opportunity\" after a pair of Achilles surgeries that have sidelined him for almost two years."
-    },
-    {
-      "title": "Brenford transfer news: Mamadou Sangare joins for club record fee",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0acf/live/05b9ff80-8dc7-11f1-99b6-11db6bdc35da.jpg",
-      "published": "8/1/2026, 5:22:22 PM",
-      "desc": "Brentford confirmed the signing of Mali midfielder Mamadou Sangare from Lens for a club record fee."
-    },
-    {
       "title": "49ers WR Pearsall to have season-ending knee surgery - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49505715/49ers-wr-pearsall-season-ending-knee-surgery",
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1130%2Fr1582720_1296x729_16%2D9.jpg",
       "published": "8/1/2026, 5:14:04 PM",
       "desc": "San Francisco 49ers wide receiver Ricky Pearsall is expected to undergo season-ending surgery on the nagging PCL injury that dates back to last season and will be out for the year, GM John Lynch told reporters Saturday."
-    },
-    {
-      "title": "Danny Welbeck: Chelsea confirm signing of striker from Brighton",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c4f/live/43a58230-8dc5-11f1-99b6-11db6bdc35da.jpg",
-      "published": "8/1/2026, 4:52:21 PM",
-      "desc": "Chelsea complete the signing of Brighton striker Danny Welbeck."
-    },
-    {
-      "title": "West Ham United: David Gold's family agree sale of 25% stake to Amanda Staveley consortium",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cwyle0nl810o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "8/1/2026, 4:07:21 PM",
-      "desc": "Former West Ham co-owner David Gold's daughter Vanessa confirms plans to sell shares to a consortium headed by ex-Newcastle co-owner Amanda Staveley."
-    },
-    {
-      "title": "Bills safety Gardner-Johnson carted off with leg injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49505167/bills-safety-gardner-johnson-carted-leg-injury",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0801%2Fr1696313_1296x729_16%2D9.jpg",
-      "published": "8/1/2026, 3:52:32 PM",
-      "desc": "Bills safety C.J. Gardner-Johnson was carted to the locker room after suffering a lower-body injury during Saturday's training camp practice."
-    },
-    {
-      "title": "Ryan McAidoo: Winger impresses Enzo Maresca in first match",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c75g4gg02dko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c6e/live/9659c340-8db8-11f1-b693-83c79a4907ca.jpg",
-      "published": "8/1/2026, 3:52:20 PM",
-      "desc": "Despite Manchester City's penalty-shootout defeat by Inter Milan, teenager Ryan McAidoo grabs the opportunity to show manager Enzo Maresca what he can do."
-    },
-    {
-      "title": "WR DeAndre Hopkins hired as Georgia Tech assistant WR coach - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49504555/wr-deandre-hopkins-hired-georgia-tech-assistant-wr-coach",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0919%2Fr1548139_1296x729_16%2D9.jpg",
-      "published": "8/1/2026, 2:03:32 PM",
-      "desc": "Five-time All-Pro wide receiver DeAndre Hopkins has joined Georgia Tech as assistant wide receivers coach but says he isn't retiring as a player yet."
-    },
-    {
-      "title": "Saturday's Scottish football - radio & text",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cy9w08d1rvxt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ab4/live/d32c3180-8a58-11f1-b8ee-9b3c26ad07bb.png",
-      "published": "8/1/2026, 1:52:21 PM",
-      "desc": "Listen to Sportsound and follow live text commentary of Saturday's Scottish Premiership and Championship fixtures."
     }
   ],
   "tech": [
@@ -383,21 +383,21 @@
     },
     {
       "rank": 5,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 6,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 6,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 7,
@@ -410,21 +410,21 @@
     },
     {
       "rank": 8,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 9,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 9,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 10,
@@ -437,15 +437,6 @@
     },
     {
       "rank": 11,
-      "title": "hate that i made you love me",
-      "artist": "Ariana Grande",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
-    },
-    {
-      "rank": 12,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
@@ -454,16 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     },
     {
-      "rank": 13,
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -472,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 13,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
+    },
+    {
+      "rank": 14,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
+    },
+    {
       "rank": 15,
-      "title": "Give Me Joy",
-      "artist": "Elle Limebear",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/03/0a/33030a06-bb43-aae1-30c1-73fbba2fea97/26UMGIM55825.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/c0/8b/c1c08b61-e6ec-aaff-6c66-e79ee74b7693/mzaf_1197058901940628812.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/give-me-joy/6786918232?i=6786918234&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Elle%20Limebear%20Give%20Me%20Joy"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -520,21 +520,21 @@
     },
     {
       "rank": 5,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 6,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 6,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
     },
     {
       "rank": 7,
@@ -562,26 +562,35 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 10,
+      "title": "The Dink",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Batman: Caped Crusader",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
