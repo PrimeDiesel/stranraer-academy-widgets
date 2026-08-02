@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-02T12:03:51.086Z",
+  "updated": "2026-08-02T13:46:19.635Z",
   "news": [
     {
-      "title": "How scientists finally confirmed rare pink seaweed as new species",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian ship",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067d/live/adc26530-8d7e-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/1/2026, 11:37:21 AM",
-      "desc": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e537/live/b81c7060-8d8e-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "8/1/2026, 1:07:21 PM",
+      "desc": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+    },
+    {
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fbc/live/a59013d0-8da1-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/1/2026, 12:37:21 PM",
+      "desc": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
       "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
@@ -56,17 +64,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9e4/live/5ef93bf0-8c15-11f1-94b2-05bc97107049.jpg",
       "published": "8/1/2026, 7:52:19 AM",
       "desc": "Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages."
-    },
-    {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/1/2026, 5:52:23 AM",
-      "desc": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     }
   ],
   "sports": [
+    {
+      "title": "Dundee United 1-1 Rangers: Same start but different outlook at Derek McInnes era begins",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/944f/live/79a8cd30-8d28-11f1-aae3-4d73737a2782.jpg",
+      "published": "8/1/2026, 1:37:35 PM",
+      "desc": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United."
+    },
+    {
+      "title": "Football gossip: Guimaraes, Jones, Romero, Nwaneri, Vinicius Jr, Hornicek, Kone",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c07rpvkym70o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5db2/live/2cbb8a60-8d34-11f1-b8ee-9b3c26ad07bb.png",
+      "published": "8/1/2026, 1:37:29 PM",
+      "desc": "Arsenal and Newcastle agree Bruno Guimaraes fee, Inter Milan increase Curtis Jones bid and Cristian Romero explores Spanish move, plus more."
+    },
+    {
+      "title": "Commonwealth Games 2026 LIVE: Glasgow - live text updates, scores, results, medal table updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/live/cn8q0wj55dgt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d19/live/73ebbff0-8dab-11f1-9e26-8164f877b701.jpg",
+      "published": "8/1/2026, 1:37:25 PM",
+      "desc": "Follow live text updates, scores, results, medal table updates on day nine from the Commonwealth Games in Glasgow."
+    },
+    {
+      "title": "Commonwealth Games 2006: Josh Kerr v Jake Wightman? Or will Australians spoil mile party?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/c4gw6z2w5xdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2be2/live/34e8d0b0-8d27-11f1-b8ee-9b3c26ad07bb.png",
+      "published": "8/1/2026, 1:22:39 PM",
+      "desc": "The Commonwealth Games men's mile is infused with intrigue and history - and as the event returns in Glasgow it looks set for a compelling final."
+    },
+    {
+      "title": "Pre-season friendly LIVE: Manchester United vs Atletico Madrid - text commentary, score updates & match stats",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c62xn53ndy1t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/729a/live/5ec31700-8da5-11f1-9e26-8164f877b701.jpg",
+      "published": "8/1/2026, 1:22:32 PM",
+      "desc": "Follow live text commentary, score updates and match stats as Manchester United take on Atletico Madrid in a pre-season friendly in Stockholm."
+    },
+    {
+      "title": "Gianni Infantino and five days that shook football - and the echoes of European Super League",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8rny2p6144o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ccb4/live/7545ce50-8d82-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/1/2026, 1:22:21 PM",
+      "desc": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions."
+    },
     {
       "title": "Pre-season friendly LIVE: Manchester City vs Inter Milan - text commentary, score updates & match stats",
       "source": "BBC Sport",
@@ -74,22 +122,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c679/live/b6f0a850-8d93-11f1-ad0a-97d08cd1c3c1.jpg",
       "published": "8/1/2026, 11:37:34 AM",
       "desc": "Follow live text commentary, score updates and match stats as Manchester City take on Inter Milan in a pre-season friendly in Hong Kong, in Enzo Maresca's first game in charge."
-    },
-    {
-      "title": "Cameron Norrie beaten by Denis Shapovalov in Los Cabos semi-final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cgjeyppnjyxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4b2/live/ba147500-8d7c-11f1-8521-4fc7b65031c2.jpg",
-      "published": "8/1/2026, 10:52:32 AM",
-      "desc": "Cameron Norrie's promising run at the Los Cabos Open in Mexico ends with a three-set semi-final defeat by defending champion Denis Shapovalov."
-    },
-    {
-      "title": "Commonwealth Games 2026: England beaten by New Zealand in netball semi-final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/netball/articles/c151l288y9xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f32/live/a4c5f5c0-8d90-11f1-800e-433295bded5e.jpg",
-      "published": "8/1/2026, 10:52:22 AM",
-      "desc": "England's netballers miss out on a place in the Commonwealth Games gold-medal match after a 61-54 semi-final defeat by a powerful New Zealand side."
     },
     {
       "title": "Sydney Super Cup LIVE: Chelsea vs Tottenham Hotspur - text commentary, score updates, match stats & head-to-head",
@@ -106,14 +138,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2c1/live/dd857660-8cfa-11f1-b8ee-9b3c26ad07bb.jpg",
       "published": "8/1/2026, 10:07:19 AM",
       "desc": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies."
-    },
-    {
-      "title": "Commonwealth Games 2026 LIVE: Glasgow - live text updates, scores, results, medal table updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/live/cn8q0wj55dgt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a627/live/6bfaaed0-8d35-11f1-aefc-452bbec23b56.jpg",
-      "published": "8/1/2026, 8:07:27 AM",
-      "desc": "Follow live text updates, scores, results, medal table updates on day nine from the Commonwealth Games in Glasgow."
     },
     {
       "title": "Liverpool training under Andoni Iraola: Intensity, smiles and Robert Lewandowski",
@@ -178,33 +202,25 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/1408/814/roberts-dugout.jpg?ve=1&tl=1",
       "published": "7/31/2026, 11:37:22 PM",
       "desc": "The Dodgers, as well as a few surprise contenders, have become major sportsbook liabilities ahead of the trade deadline. Patrick Everson breaks it down."
-    },
-    {
-      "title": "Infantino scraps FIFA World Cup sell-off plan after backlash - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695715_1296x729_16%2D9.jpg",
-      "published": "7/31/2026, 11:37:00 PM",
-      "desc": "FIFA president Gianni Infantino has scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European Nations."
-    },
-    {
-      "title": "Same start but different outlook at Rangers era begins for McInnes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/944f/live/79a8cd30-8d28-11f1-aae3-4d73737a2782.jpg",
-      "published": "7/31/2026, 11:22:21 PM",
-      "desc": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United."
-    },
-    {
-      "title": "Football gossip: Nwaneri, Romero, Jones, Vinicius Jr, Hornicek, Kone",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c07rpvkym70o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1741/live/7eedc600-8d2e-11f1-b2ab-0dd01740f9f6.png",
-      "published": "7/31/2026, 10:52:22 PM",
-      "desc": "AC Milan make Ethan Nwaneri contact, Inter Milan increase their Curtis Jones bid and Cristian Romero is exploring a move to Spain, plus more."
     }
   ],
   "tech": [
+    {
+      "title": "The Switch 2 is already starting to show its seams - polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/switchboard-clair-obscur-expedition-33-switch-2/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/clair-obscur-eiffel-tower.jpg?w=1600&h=900&fit=crop",
+      "published": "8/1/2026, 1:00:12 PM",
+      "desc": "Despite the Nintendo Switch 2 getting some miracle ports of huge games, some developers are still struggling to get their games on the console."
+    },
+    {
+      "title": "Instapaper, the OG reading app, just got a big update - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published": "8/1/2026, 12:00:00 PM",
+      "desc": "Plus: Spider-Man: Brand New Day, Pastebot 3, Halo Campaign Evolved, Leafy Corner, and more in this week’s Installer newsletter."
+    },
     {
       "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
       "source": "Mashable",
@@ -212,6 +228,14 @@
       "image": "https://helios-i.mashable.com/imagery/articles/049MVbZZjnF8ZvepJCLSTHw/hero-image.fill.size_1200x675.v1785178768.jpg",
       "published": "8/1/2026, 9:46:15 AM",
       "desc": "What's up with Google's next batch of flagships?"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
+      "published": "8/1/2026, 6:29:00 AM",
+      "desc": "Microsoft links hijacked hotel Wi-Fi to fake updates that deliver CornFlake, steal cloud tokens, and abuse device codes to target travelers."
     },
     {
       "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
@@ -222,44 +246,20 @@
       "desc": "A new leak points to a silicon-carbon battery and a redesigned camera island for Samsung's next Ultra model."
     },
     {
+      "title": "iPad Air Could Finally Be Redesigned Next Year - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
+      "image": "https://images.macrumors.com/t/n8uKVgvfhZ6YJOytHxoojM6b0IM=/1960x/article-new/2025/03/M3-iPad-Air.jpg",
+      "published": "8/1/2026, 1:00:00 AM",
+      "desc": "The iPad Air has looked the same since 2020, making it the longest-running design in Apple's tablet lineup. There is a reasonable case that 2027..."
+    },
+    {
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC - The Verge",
       "source": "The Verge",
       "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-sharge-disk-pro-2-sean-hollister-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "7/31/2026, 10:09:11 PM",
       "desc": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even works with the Nintendo Switch 2."
-    },
-    {
-      "title": "EA FC 27 Drops Official Career Mode Deep Dive Trailer Featuring New Gameplay - Bleacher Report",
-      "source": "Bleacher Report",
-      "url": "https://bleacherreport.com/articles/25460359-ea-fc-27-drops-official-career-mode-deep-dive-trailer-featuring-new-gameplay",
-      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-07/assets_2026_07_1784295093_copy-of-ea_fc27_ult_keyart_rgb_16x9_1920x1080_alt_0.jpg?w=1120&h=630",
-      "published": "7/31/2026, 9:56:15 PM",
-      "desc": "The hype for EA FC 27 continues to build with EA Sports dropping a new deep dive trailer for career mode in this year's game."
-    },
-    {
-      "title": "A London Startup Is Selling Permanent Stick-On Tattoos—and It Wants to Do Mail Order - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/a-london-startup-is-selling-permanent-stick-on-tattoos-and-it-wants-to-do-mail-order-2000793432",
-      "image": "https://gizmodo.com/app/uploads/2026/07/cipherx-tattoo-1200x675.png",
-      "published": "7/31/2026, 8:59:30 PM",
-      "desc": "Concerned parents of the world, unite."
-    },
-    {
-      "title": "Even after the RAM crisis ends, the era of affordable gaming hardware is gone for good. - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/the-500-console-is-dead",
-      "image": "https://assets-prd.ignimgs.com/2026/07/31/gaminghardwarenevercheapagain-blogroll-1785528740411.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "7/31/2026, 8:54:51 PM",
-      "desc": "Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as they are, but regardless of how we got here, there’s no denying it’s an absolutely terrible time to be in the market for a new gaming console or PC. Even worse i…"
-    },
-    {
-      "title": "Tiny Difference in Username Sent Innocent Man to Prison - newser.com",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393891/missing-underscore-in-name-sent-innocent-man-to-prison.html",
-      "image": "https://cdn.newser.com/image/1702492-12-20260731145933.jpeg",
-      "published": "7/31/2026, 7:35:00 PM",
-      "desc": "Canadian man served 18 months because police didn't notice difference in underscores"
     }
   ],
   "education": [
@@ -394,6 +394,15 @@
     },
     {
       "rank": 8,
+      "title": "Happiness Is So Sad",
+      "artist": "Swedish House Mafia & Lykke Li",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/19/9c/cf199c26-6f59-a4b6-4309-c597ceea14d2/14006.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/b4/73/20b4735b-8821-db34-9d98-042b09d3836b/mzaf_5234972172603467106.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/happiness-is-so-sad/6792537373?i=6792537379&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Swedish%20House%20Mafia%20%26%20Lykke%20Li%20Happiness%20Is%20So%20Sad"
+    },
+    {
+      "rank": 9,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -402,22 +411,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 9,
-      "title": "Falling Slowly",
-      "artist": "Glen Hansard & Markéta Irglová",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/ac/45/b9ac459d-73cc-d882-2c80-eedff7767565/dj.uyllvkrw.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/37/1d/93371ded-9973-e608-f31b-8618f49b4739/mzaf_11613273655005975509.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/falling-slowly/254347531?i=254347632&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Glen%20Hansard%20%26%20Mark%C3%A9ta%20Irglov%C3%A1%20Falling%20Slowly"
-    },
-    {
       "rank": 10,
-      "title": "Happiness Is So Sad",
-      "artist": "Swedish House Mafia & Lykke Li",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/19/9c/cf199c26-6f59-a4b6-4309-c597ceea14d2/14006.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/b4/73/20b4735b-8821-db34-9d98-042b09d3836b/mzaf_5234972172603467106.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/happiness-is-so-sad/6792537373?i=6792537379&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Swedish%20House%20Mafia%20%26%20Lykke%20Li%20Happiness%20Is%20So%20Sad"
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 11,
@@ -430,15 +430,6 @@
     },
     {
       "rank": 12,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 13,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
@@ -447,22 +438,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     },
     {
-      "rank": 14,
-      "title": "stupid song",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
+      "rank": 13,
+      "title": "Falling Slowly",
+      "artist": "Glen Hansard & Markéta Irglová",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/ac/45/b9ac459d-73cc-d882-2c80-eedff7767565/dj.uyllvkrw.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/37/1d/93371ded-9973-e608-f31b-8618f49b4739/mzaf_11613273655005975509.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/falling-slowly/254347531?i=254347632&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Glen%20Hansard%20%26%20Mark%C3%A9ta%20Irglov%C3%A1%20Falling%20Slowly"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 15,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     }
   ],
   "movies": [
@@ -513,12 +513,12 @@
     },
     {
       "rank": 6,
-      "title": "The Devil Wears Prada 2",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 7,
@@ -531,12 +531,12 @@
     },
     {
       "rank": 8,
-      "title": "Project Hail Mary",
+      "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
       "rank": 9,
@@ -549,12 +549,12 @@
     },
     {
       "rank": 10,
-      "title": "Moana",
+      "title": "The Dink",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "url": "https://www.themoviedb.org/movie/1361774"
     }
   ],
   "tv": [
@@ -566,6 +566,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 2,
+      "title": "The Ark",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/rec774m02XNLSjU9qm5z6UUfMRl.jpg",
+      "overview": "100 years in the future, planetary colonization missions have begun as a necessity to help secure the survival of the human race. The first of these missions on a spacecraft known as Ark One encounters a catastrophic event causing massive destruction and loss of life. With more than a year left to go before reaching their target planet, a lack of life-sustaining supplies and loss of leadership, the remaining crew must become the best versions of themselves to stay on course and survive.",
+      "url": "https://www.themoviedb.org/tv/47663"
     }
   ]
 }
