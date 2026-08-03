@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-03T18:51:51.747Z",
+  "updated": "2026-08-03T20:27:33.005Z",
   "news": [
     {
-      "title": "Commonwealth Games 2026: Emma Finucane sets record with fourth gold",
+      "title": "'We are not lonely': Solitude as a new aspirational lifestyle",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/214b/live/d6ca6f80-8e8d-11f1-9e23-3d6751ef6e4b.jpg",
-      "published": "8/2/2026, 6:22:19 PM",
-      "desc": "Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games."
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75c5/live/1df356c0-8dc0-11f1-8e90-d5da5aa44106.jpg",
+      "published": "8/2/2026, 8:37:24 PM",
+      "desc": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate."
     },
     {
       "title": "Massive Attack responds after Singapore ban over Palestine display",
@@ -68,6 +68,110 @@
   ],
   "sports": [
     {
+      "title": "Sources: Jadeveon Clowney reaches deal to reunite with Texans - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49514656/sources-jadeveon-clowney-reaches-deal-reunite-texans",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1118%2Fr1577061_1296x729_16%2D9.jpg",
+      "published": "8/2/2026, 8:08:45 PM",
+      "desc": "Jadeveon Clowney is returning to the Texans, the team that selected him No. 1 overall in the 2014 NFL draft, sources told NFL Network's Ian Rapoport and Mike Garafolo on Sunday."
+    },
+    {
+      "title": "A Blues Surprise: Veteran Striker Danny Welbeck Joins Chelsea",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/ive-got-that-fire-in-my-belly-chelsea-complete-shock-signing-of-35-year-old-danny-welbeck-on-a-two-year-deal",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/GettyImages-2275329955-scaled.jpg?ve=1&tl=1",
+      "published": "8/2/2026, 8:07:25 PM",
+      "desc": "Chelsea have stunned the football world by announcing the signing of veteran striker Danny Welbeck from Brighton & Hove Albion."
+    },
+    {
+      "title": "What could full season of Martin O'Neill at Celtic look like?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8j2ngnevz3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf38/live/3a422db0-7a1a-11f1-8233-417a25d303da.jpg",
+      "published": "8/2/2026, 7:52:36 PM",
+      "desc": "Martin O'Neill has vowed to \"drive forward together\" and \"not rest on past success\", so what could a full season with the Northern Irishman at the helm look like?"
+    },
+    {
+      "title": "Lee Reeves: Irish boxer in 'critical but stable' condition after Dublin fight",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e49a/live/97a6d9a0-8e9d-11f1-98e9-7bce254b4c15.jpg",
+      "published": "8/2/2026, 7:52:35 PM",
+      "desc": "Irish boxer Lee Reeves is in a \"critical but stable\" condition in hospital after he was stretchered out of the ring in Dublin on Saturday."
+    },
+    {
+      "title": "Chelsea sign Strasbourg midfielder Valentin Barco",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0a2/live/785fbb00-8e9f-11f1-98e9-7bce254b4c15.jpg",
+      "published": "8/2/2026, 7:52:35 PM",
+      "desc": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal."
+    },
+    {
+      "title": "Commonwealth Games 2026: Emma Finucane wins fourth gold and leads Wales into closing ceremony",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e551/live/205cdaa0-8e9a-11f1-8ceb-4b76ef213a3d.jpg",
+      "published": "8/2/2026, 7:52:32 PM",
+      "desc": "Emma Finucane creates history by winning a fourth track cycling Commonwealth Games gold and leads Wales into closing ceremony."
+    },
+    {
+      "title": "Commonwealth Games Glasgow 2026 LIVE - updates and colour as Simple Minds & Delta Goodrem perform at Hydro",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/live/cpvwld924g9t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1988/live/29eb8f40-8e99-11f1-8ceb-4b76ef213a3d.jpg",
+      "published": "8/2/2026, 7:52:31 PM",
+      "desc": "Follow updates as the Commonwealth Games ends with the closing ceremony in Glasgow."
+    },
+    {
+      "title": "Women's Open 2026: Shiho Kuwaki Kuwaki defeats Esther Henseleit in play-off to triumph",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbd8/live/86e4e100-8ea9-11f1-a68c-771276d7cf5d.jpg",
+      "published": "8/2/2026, 7:52:31 PM",
+      "desc": "Shiho Kuwaki holds her nerve to beat Esther Henseleit after two play-off holes to become the second consecutive Japanese player to win the Women's Open."
+    },
+    {
+      "title": "Pre-season friendly LIVE: Liverpool v Leeds United - text commentary, score updates and match stats",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c5yvxvy9q2lt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6d09/live/c4f57080-8eaa-11f1-a68c-771276d7cf5d.jpg",
+      "published": "8/2/2026, 7:52:23 PM",
+      "desc": "Follow live text commentary, score updates and match stats as Liverpool take on Leeds United in a pre-season friendly in Chicago"
+    },
+    {
+      "title": "Fever-Lynx game attracts rallies for, against Cunningham - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49514434/fever-lynx-game-attracts-rallies-cunningham",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696795_1296x729_16%2D9.jpg",
+      "published": "8/2/2026, 7:41:56 PM",
+      "desc": "A crowd of critics and supporters of Indiana guard Sophie Cunningham's stance on transgender participation in women's sports gathered around and inside Target Center on Sunday afternoon as the Indiana Fever faced the Minnesota Lynx in Minneapolis."
+    },
+    {
+      "title": "Jose Mourinho Talks Vinicius Junior&#39;s Real Madrid Future Amid Arsenal Links",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/jose-mourinho-confirms-vinicius-junior-will-join-real-madrid-soon-amid-arsenal-transfer-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/GettyImages-2275690731-scaled.jpg?ve=1&tl=1",
+      "published": "8/2/2026, 7:37:20 PM",
+      "desc": "Jose Mourinho has provided a definitive update on the future of Vinicius Junior following Real Madrid's pre-season clash with Fiorentina."
+    },
+    {
+      "title": "Tigers in 'weird place' after trading ace Tarik Skubal - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49514337/tigers-weird-place-trading-ace-tarik-skubal",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696802_1024x576_16%2D9.jpg",
+      "published": "8/2/2026, 7:30:51 PM",
+      "desc": "The Tigers said their goodbyes to ace Tarik Skubal and now must turn their focus to an uncertain final two months of the season as they try to make a playoff push without their best player."
+    },
+    {
+      "title": "What&#39;s Next For The MLB Trade Deadline After The Dodgers Landed Tarik Skubal?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-whats-next-update-tarik-skubal",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/mlb-16x9-1.jpg?ve=1&tl=1",
+      "published": "8/2/2026, 7:07:20 PM",
+      "desc": "Tarik Skubal is off the board. How does that affect the MLB trade deadline? Let's break it down."
+    },
+    {
       "title": "Mets Reportedly Trade Freddy Peralta To The Tampa Bay Rays",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/mlb/mets-reportedly-trade-freddy-peralta-tampa-bay-rays",
@@ -76,12 +180,12 @@
       "desc": "Freddy Peralta will find out if a change of scenery can salvage a tough 2026 following a deadline trade."
     },
     {
-      "title": "Hibernian vs Motherwell: Scottish Premiership radio commentary, updates & match report",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cpvwkwv2e07t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/2/2026, 6:22:23 PM",
-      "desc": "Listen to Sportsound and follow live text commentary, score updates and match report from Hibernian vs Motherwell in the Scottish Premiership."
+      "title": "Shiho Kuwaki wins Women's British Open on second playoff hole - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49513981/shiho-kuwaki-wins-women-british-open-second-playoff-hole",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696770_1024x576_16%2D9.jpg",
+      "published": "8/2/2026, 6:50:20 PM",
+      "desc": "Shiho Kuwaki saved par to stay alive in a sudden-death playoff Sunday and won with a par on the second extra hole to claim the Women's British Open over Esther Henseleit."
     },
     {
       "title": "Sources: Rays acquire Freddy Peralta in trade with Mets - ESPN",
@@ -106,113 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
       "published": "8/2/2026, 5:52:24 PM",
       "desc": "Notable news, notes and buzz from MLB's 2026 season."
-    },
-    {
-      "title": "What happened to the 'star' signings your club never made?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y32lgr67no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e7a/live/ccbf0990-8d09-11f1-bbc4-4d8950e3863d.jpg",
-      "published": "8/2/2026, 5:52:23 PM",
-      "desc": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through."
-    },
-    {
-      "title": "The Hundred 2025 results: Ben Duckett and Amir lead Rockets to win over Sunrisers",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c1l18jr3py9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5175/live/e16503f0-8e8e-11f1-9e23-3d6751ef6e4b.jpg",
-      "published": "8/2/2026, 4:52:20 PM",
-      "desc": "Ben Duckett strikes a half-century and takes a sharp diving catch to remove England team-mate Harry Brook as Trent Rockets beat Sunrisers Leeds by five runs."
-    },
-    {
-      "title": "Padraig Harrington denied by Zach Johnson in Portugal Invitational",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c24mrrr6yz7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2a85/live/00c98180-8e80-11f1-a08e-c37b61ea8821.jpg",
-      "published": "8/2/2026, 4:37:19 PM",
-      "desc": "Zach Johnson holds off Padraig Harrington at The Els Club in the first officially sanctioned Champions Tour event held in Portugal."
-    },
-    {
-      "title": "Commonwealth Games 2026: Emma Finucane sets record with fourth gold",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/32fa/live/c94efde0-8e6e-11f1-8f96-0352b5c66e86.jpg",
-      "published": "8/2/2026, 4:07:26 PM",
-      "desc": "Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games."
-    },
-    {
-      "title": "Chelsea: Xabi Alonso heals Real Madrid scars to lead Blues' senior revolution",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cz7d138ew59o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c847/live/29351d20-8dc0-11f1-8e90-d5da5aa44106.jpg",
-      "published": "8/2/2026, 4:07:23 PM",
-      "desc": "Xavi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity."
-    },
-    {
-      "title": "2026 World Series Odds: Dodgers Become Heavier Favorites After Skubal Deal",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-series-odds-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/2/2026, 3:07:16 PM",
-      "desc": "How many times can the rich get richer? See the latest World Series odds after Tarik Skubal was traded to the Dodgers."
-    },
-    {
-      "title": "Experts urge new rules to prevent heatstroke in linemen - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/high-school/story/_/id/49508604/experts-urge-new-rules-prevent-heat-stroke-linemen",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0920%2Fr1389331_1296x729_16%2D9.jpg",
-      "published": "8/2/2026, 3:00:00 PM",
-      "desc": "As football practices get underway amid hotter-than-normal temperatures, two organizations are calling for a different approach to prevent heatstroke in linemen, who make up 90% of heatstroke deaths in high school and college."
-    },
-    {
-      "title": "Three-time Pro Bowl guard Andrus Peat announces NFL retirement - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49512520/three-pro-bowl-guard-andrus-peat-announces-nfl-retirement",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401421_1296x729_16%2D9.jpg",
-      "published": "8/2/2026, 2:38:45 PM",
-      "desc": "Andrus Peat, a three-time Pro Bowl selection over 11 NFL seasons, has announced his retirement from the NFL."
-    },
-    {
-      "title": "Biggest MLB Trade Deadline Deals, Steals And Blockbusters Of The 21st Century",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/biggest-mlb-trade-deadline-steals-blockbusters-21st-century",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/7d407ba6-mlb1.jpg?ve=1&tl=1",
-      "published": "8/2/2026, 2:22:22 PM",
-      "desc": "Here are the top 10 most impactful MLB Trade Deadline deals since 2000."
-    },
-    {
-      "title": "AIG Women's Open LIVE: Leaderboard, latest scores and Charley Hull, Nelly Korda & Lottie Woad in final round action",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/live/c1w1dp5exl2t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/abef/live/95c8fa10-8e6a-11f1-8f96-0352b5c66e86.jpg",
-      "published": "8/2/2026, 1:07:26 PM",
-      "desc": "Full live text coverage and BBC Radio 5 Sports Extra commentary of the 50th AIG Women's Open at Royal Lytham & St Annes."
-    },
-    {
-      "title": "Sophie Woods completes Via Alpina endurance challenge in record 29 days",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/articles/cg7mdjkrr22o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc73/live/7af18710-8e6b-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/2/2026, 12:52:27 PM",
-      "desc": "Ultra-runner Sophie Woods runs 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina - one of the world's toughest endurance challenges."
-    },
-    {
-      "title": "TBT Schedule Today: How to Watch La Familia vs. Davis Steel Championship, TV, Stream",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/other/tbt-schedule-today-how-watch-la-familia-vs-davis-steel-championship-tv-stream",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/tbt-aug-2-article-image.png?ve=1&tl=1",
-      "published": "8/2/2026, 12:22:23 PM",
-      "desc": "La Familia faces Davis Steel in the $2 million TBT Championship on FOX. Here’s the start time, TV channel and streaming information for Sunday, Aug. 2."
-    },
-    {
-      "title": "Aug. 2 update! Ranking top 2026 MLB trade deadline candidates - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49082474/ranking-mlb-trade-deadline-candidates-top-100-skubal-chapman-peralta-arraez",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692068_2_1296x729_16%2D9.jpg",
-      "published": "8/2/2026, 12:00:00 PM",
-      "desc": "Which difference-makers are available? Here are the big names your team could be targeting, with a few new additions near the top."
     }
   ],
   "tech": [
+    {
+      "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-logo-2025-02.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/2/2026, 7:14:00 PM",
+      "desc": "The voice search button accessible from the Google bar found on most Android homescreens is getting a big redesign."
+    },
+    {
+      "title": "If You’re Struggling to Find a MacBook Air Right Now, This Is Probably Why - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why-2000793739",
+      "image": "https://gizmodo.com/app/uploads/2026/03/M5-MacBook-Air-review-02-1200x675.jpg",
+      "published": "8/2/2026, 7:00:31 PM",
+      "desc": "You'll never guess what's reportedly causing the shortage."
+    },
+    {
+      "title": "Windows 11's WinUI 3 modernization just reached one of its oldest legacy tools, meet the new Print Management - Windows Latest",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/08/02/windows-11s-winui-3-modernization-just-reached-one-of-its-oldest-legacy-tools-meet-the-new-print-management/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11s-new-WinUI-3-based-Print-Management-app-replacing-the-legacy-MMC-printer-admin-tool.jpg",
+      "published": "8/2/2026, 5:33:15 PM",
+      "desc": "Windows 11's WinUI 3 modernization reaches Print Management, an early Insider test replacing the decades-old MMC-based printer admin tool."
+    },
     {
       "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
       "source": "Forbes",
@@ -222,60 +246,36 @@
       "desc": "A new report suggests when Apple will announce its key September event, revealing when the iPhone 18 Pro will go on sale."
     },
     {
-      "title": "PlayStation Petition Loses Steam Even As Sony Doubles Down on Disc Decision - Insider Gaming",
-      "source": "Insider-gaming.com",
-      "url": "https://insider-gaming.com/playstation-petition-loses-steam-sony-double-down-disc/",
-      "image": "https://insider-gaming.com/wp-content/uploads/2024/05/playstation-state-of-play.jpg",
-      "published": "8/2/2026, 2:29:33 PM",
-      "desc": "Sony Interactive Entertainment has not backed down from the decision to scrap discs, but the energy in the debate is already waning."
+      "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/2/2026, 4:18:00 PM",
+      "desc": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at the forefront of the product...."
     },
     {
-      "title": "Xgimi MemoMind One Review: You Don’t Want Smart Glasses That Record Everything You Say - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058",
-      "image": "https://gizmodo.com/app/uploads/2026/07/Xgimi-Memomind-One-review-18-1200x675.jpg",
-      "published": "8/2/2026, 2:00:04 PM",
-      "desc": "I tested Xgimi's MemoMind One, and I don't think I ever want to venture down that path again."
+      "title": "Xbox prices are increasing by up to €200 or £170 - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+      "published": "8/2/2026, 4:14:20 PM",
+      "desc": "Microsoft’s struggling Xbox console continues to see unprecedented price bumps in the face of RAM and storage shortages."
     },
     {
-      "title": "Apple Maps vs. Google Maps vs. Waze: Which CarPlay App Wins? - Geeky Gadgets",
-      "source": "Geeky Gadgets",
-      "url": "https://www.geeky-gadgets.com/best-carplay-navigation-app/",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/Apple-Maps-vs.-Google-Maps-vs.-Waze.jpg",
-      "published": "8/2/2026, 1:01:51 PM",
-      "desc": "Which CarPlay navigation app deserves your dashboard? We test Google Maps' new 3D buildings directly against Waze and the iOS 27 Apple Maps."
+      "title": "Remember Pokémon Ruby? Game Boy Advance Remake Is on the Way - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/remember-pokemon-ruby-game-boy-advance-remake-is-on-the-way",
+      "image": "https://i.pcmag.com/imagery/articles/05vBUqakWQQyGO0VeUnKaIx-1.fit_lim.size_1200x630.v1785673937.jpg",
+      "published": "8/2/2026, 3:15:35 PM",
+      "desc": "Though it won't support vintage cartridges, Ayaneo's Android handheld will emulate classic console titles while retaining the general look and feel of the 2001 Nintendo handheld."
     },
     {
-      "title": "I almost returned my Google Fitbit Air for broken sleep tracking until I changed one setting - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/i-almost-returned-google-fitbit-air-broken-sleep-tracking-until-i-changed-setting/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/woman-sleeping-while-wearing-a-blue-google-fitbit-air-tracker-device.jpg?w=1600&h=900&fit=crop",
-      "published": "8/2/2026, 12:30:15 PM",
-      "desc": "A single tweak in Google Health revived the sleep points I'd been missing"
-    },
-    {
-      "title": "I almost downloaded another app until I found this Samsung Camera feature - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/i-almost-downloaded-another-app-until-i-found-this-samsung-camera-feature/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-phone-scanning-a-book-page-with-the-camera-app.png?w=1600&h=900&fit=crop",
-      "published": "8/2/2026, 12:15:15 PM",
-      "desc": "It's not perfect, and that's the point"
-    },
-    {
-      "title": "I tracked sleep with Galaxy Watch Ultra 2, Fitbit Air, and Oura Ring 5. This is the one I'd buy - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/i-tracked-sleep-with-the-galaxy-watch-ultra-2-fitbit-air-and-oura-ring-5/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-watch-ultra-2-fitbit-oura-ring-5-desk-2.JPG?w=1600&h=900&fit=crop",
-      "published": "8/2/2026, 12:00:16 PM",
-      "desc": "Which one should you share your bed with?"
-    },
-    {
-      "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-8-02-26/",
-      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/kef-ls-luxe-speakers-lead.webp",
-      "published": "8/2/2026, 12:00:00 PM",
-      "desc": "Catching you up on the past week’s most notable product releases."
+      "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire - Phoronix",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3",
+      "image": "https://www.phoronix.net/image.php?id=2026&image=intel_starfire_linux_1",
+      "published": "8/2/2026, 2:32:00 PM",
+      "desc": "Intel recently announced Starfire as their new Panther Lake derived, space-grade SoC designed for extreme environments.."
     }
   ],
   "education": [
@@ -520,24 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 6,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 7,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
@@ -546,7 +528,7 @@
       "url": "https://www.themoviedb.org/movie/454639"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -555,18 +537,45 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 9,
-      "title": "Minions & Monsters",
+      "rank": 7,
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 8,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
+      "rank": 9,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
     {
       "rank": 1,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
       "title": "Batman: Caped Crusader",
       "year": "2024",
       "cert": "12",
@@ -575,22 +584,13 @@
       "url": "https://www.themoviedb.org/tv/125909"
     },
     {
-      "rank": 2,
-      "title": "Spooky in Love",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-      "url": "https://www.themoviedb.org/tv/298610"
-    },
-    {
       "rank": 3,
-      "title": "Futurama",
-      "year": "1999",
+      "title": "X-Men '97",
+      "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
