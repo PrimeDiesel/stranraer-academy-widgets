@@ -1,29 +1,29 @@
 {
-  "generated": "2026-08-04T07:58:48.485Z",
-  "day": 215,
+  "generated": "2026-08-05T07:59:52.212Z",
+  "day": 216,
   "movie": {
-    "title": "Guys and Dolls",
+    "title": "How to Train Your Dragon: The Hidden World",
     "safe": true,
-    "cert": "U",
+    "cert": "PG",
     "source": "tmdb-uk",
-    "year": "1955",
-    "plot": "In New York, a gambler is challenged to take a Salvation Army missionary to Havana, and unexpectedly they fall for each other. And the bet has a hidden motive ... classic song and dance ensues!",
-    "poster": "https://image.tmdb.org/t/p/w500/mrSM6laJJLBVdMdWfeNRa1innnk.jpg",
+    "year": "2019",
+    "plot": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+    "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Dashboard Confessional-Hands Down",
+    "key": "Buddy Holly-Peggy Sue",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/58/66/695866d8-9160-3c6f-9648-4496b5bf4259/00602577678554.rgb.jpg/600x600bb.jpg",
-    "year": "2003",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b3/22/7d/b3227d85-f79c-770b-aa55-879a09a436ec/00602567823575.rgb.jpg/600x600bb.jpg",
+    "year": "1958",
     "v": 4
   },
   "album": {
-    "key": "Pyotr Ilyich Tchaikovsky-The Nutcracker",
+    "key": "Thievery Corporation-The Mirror Conspiracy",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/f0/ab/08f0ab24-ecb5-89cd-cdb3-b99e4c54fc4a/7340027042687.jpg/600x600bb.jpg",
-    "year": "2008",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/40/03/12400331-5482-2e41-3c7f-3326d43dac74/00792755856253_Cover.jpg/600x600bb.jpg",
+    "year": "2000",
     "v": 4
   }
 }
