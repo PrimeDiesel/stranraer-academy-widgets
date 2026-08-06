@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-06T05:49:45.870Z",
+  "updated": "2026-08-06T08:37:36.510Z",
   "news": [
     {
-      "title": "Russia launches ballistic missile and drone strike on Kyiv",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 17",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/5/2026, 5:22:23 AM",
-      "desc": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city."
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0786/live/81ac7650-909b-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/5/2026, 8:37:25 AM",
+      "desc": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
+    },
+    {
+      "title": "The cost of being single – and how friends are teaming up to beat it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg",
+      "published": "8/5/2026, 8:07:20 AM",
+      "desc": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden."
+    },
+    {
+      "title": "From flip flops to fisherman's sandals: Are your summer sandals killing your feet?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvney840l9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d58a/live/63e61300-9097-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/5/2026, 7:07:23 AM",
+      "desc": "They may keep your feet cool but some styles could be doing more harm than good."
     },
     {
       "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
       "published": "8/5/2026, 4:07:23 AM",
       "desc": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027."
-    },
-    {
-      "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37d6/live/e830b450-9077-11f1-a061-371d24dd4faa.jpg",
-      "published": "8/5/2026, 3:07:20 AM",
-      "desc": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister."
     },
     {
       "title": "Newspaper headlines: 'Profits of war' and 'super-rain'",
@@ -56,32 +64,48 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/065c/live/4963c000-8cd6-11f1-b8ee-9b3c26ad07bb.jpg",
       "published": "8/5/2026, 12:07:28 AM",
       "desc": "Kim Hutchison says she was \"petrified\" to see a man in just shorts at the end of her bed in a Dundee Travelodge."
-    },
-    {
-      "title": "Armed man arrested at Trump's golf course ahead of president's visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/661a/live/99befec0-905f-11f1-b342-759a22dbd459.jpg",
-      "published": "8/5/2026, 12:07:26 AM",
-      "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
     }
   ],
   "sports": [
+    {
+      "title": "Tour de France Femmes 2026: Officials check riders' clothing amid concerns about bra padding",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/cvg0krdek3zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf73/live/e972e170-8fec-11f1-a10e-47119dd4425c.jpg",
+      "published": "8/5/2026, 8:37:23 AM",
+      "desc": "Officials at the Tour de France Femmes Avec Zwift will check the clothing worn by riders to prevent attempts to make \"aerodynamic gains\"."
+    },
+    {
+      "title": "Chelsea transfer news: Blues nearing deal for Rayo Vallecano defender Pep Chavarria",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gygn47rpmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2d8/live/8a7a95d0-804e-11f1-8a74-43d9da26a654.jpg",
+      "published": "8/5/2026, 8:22:21 AM",
+      "desc": "Chelsea are closing in on an agreement with Rayo Vallecano for defender Pep Chavarria."
+    },
+    {
+      "title": "Bruno Guimaraes: Arsenal close in on transfer for Newcastle captain",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/455e/live/63811700-9094-11f1-8bde-ef5552781449.jpg",
+      "published": "8/5/2026, 7:37:24 AM",
+      "desc": "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes."
+    },
+    {
+      "title": "Marcus Rashford: Will he return to Man Utd - and what impact would he have?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx25y63wr51o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/227a/live/97a1cd40-9021-11f1-b783-f784376ffc11.jpg",
+      "published": "8/5/2026, 6:37:24 AM",
+      "desc": "Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not."
+    },
     {
       "title": "Bradley Barcola: Why Liverpool want PSG winger for £100m",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5589/live/c84f3cd0-8ffd-11f1-b2a2-11d8521bf2f1.jpg",
-      "published": "8/5/2026, 5:37:27 AM",
+      "published": "8/5/2026, 6:37:20 AM",
       "desc": "With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield."
-    },
-    {
-      "title": "NBA Europe to take UK to 'another level', says New York Knicks' OG Anunoby",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf47/live/58de0010-9030-11f1-80c2-a3019a753e48.jpg",
-      "published": "8/5/2026, 5:22:22 AM",
-      "desc": "The planned launch of a bespoke European NBA league has the potential to take basketball in the United Kingdom to the \"next level\", says the New York Knicks' OG Anunoby."
     },
     {
       "title": "Yankees SS George Lombard Jr. homers in debut, joining brother - ESPN",
@@ -186,30 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/artboard-1-29.jpg?ve=1&tl=1",
       "published": "8/4/2026, 10:37:23 PM",
       "desc": "Which NFL players are under the most pressure ahead of the 2026 season? We ranked 15 who must deliver big this year."
-    },
-    {
-      "title": "Football gossip: Reijnders, Balogun, Vinicius Jr, Savinho, Gakpo, Neto, Chavarria",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cy8mvgp179po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46b5/live/ef0d4970-9043-11f1-b8ee-9b3c26ad07bb.png",
-      "published": "8/4/2026, 10:22:36 PM",
-      "desc": "Nottingham Forest eye Tijjani Reijnders, Spurs want Savinho and Nicolas Jackson, Real Madrid resume Vinicius Jr contract talks, plus more."
-    },
-    {
-      "title": "The Hundred 2026 results: Sunrisers Leeds post record total as Harry Brook hits 15-ball fifty",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c2lqpyv9g7qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30bc/live/6c87def0-903b-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/4/2026, 10:22:35 PM",
-      "desc": "Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit."
-    },
-    {
-      "title": "Chad le Clos: South Africa swimmer's home destroyed by fatal fire after he sets Commonwealth Games record",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/swimming/articles/c141p18xl30o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/472e/live/3fb00b70-903e-11f1-a691-e5bd21941ac1.jpg",
-      "published": "8/4/2026, 10:22:29 PM",
-      "desc": "Chad le Clos reveals his apartment in South Africa was destroyed by a fatal fire in a \"heartbreaking tragedy\" - the night after he became the most decorated athlete in Commonwealth Games history."
     }
   ],
   "tech": [
@@ -230,6 +230,22 @@
       "desc": "Following the huge success of the film Smokey and the Bandit, Burt Reynolds struck a deal with GM for a free Pontiac Trans Am a year, but something went wrong"
     },
     {
+      "title": "CarPlay is Coming to Pontoon Boats - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/04/carplay-is-coming-to-pontoon-boats/",
+      "image": "https://images.macrumors.com/t/Wb6Jjk2ALd5cN6_tB-9YPlurbss=/2000x/article-new/2026/08/carplay-pontoon-crest-balise.jpg",
+      "published": "8/4/2026, 11:49:42 PM",
+      "desc": "MasterCraft Boat Holdings today said it is adding CarPlay to its upcoming Crest and Balise Pontoons. The company is working with Savvy Navvy to bring..."
+    },
+    {
+      "title": "Big Walk Just Hit A Major Milestone On PS Plus - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/big-walk-just-hit-a-major-milestone-on-ps-plus/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk.jpg",
+      "published": "8/4/2026, 10:42:27 PM",
+      "desc": "The follow-up title from the developers of Untitled Goose Game has achieved a critical high upon its debut on PS Plus Essential."
+    },
+    {
       "title": "Everything Apple Is Expected to Announce in September - MacRumors",
       "source": "MacRumors",
       "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
@@ -246,28 +262,12 @@
       "desc": "You might still find a few leftover units at third-party retailers, but the brand is officially out of the North American market."
     },
     {
-      "title": "Fans Upset Over Some New Vinyl Records Missing Content And Final Mixes - Kotaku",
+      "title": "Minecraft Adds Concrete Stairs After Making Fans Wait Nearly A Decade And People Are Excited - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/physical-media-fans-are-sick-of-expensive-vinyl-albums-with-unfinished-tracks-or-missing-songs-a-bait-and-switch-isnt-cool-2000721582",
-      "image": "https://kotaku.com/app/uploads/2026/08/record.jpg",
-      "published": "8/4/2026, 6:15:53 PM",
-      "desc": "Artists like Olivia Rodrigo and Raye are catching flak from collectors and fans for selling incomplete records"
-    },
-    {
-      "title": "Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/04/android-17-august-pixel-update/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-camera-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/4/2026, 6:12:00 PM",
-      "desc": "Google is rolling out the August 2026 security patch for Android 17 on the Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a."
-    },
-    {
-      "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever - Yahoo Tech",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
-      "image": "https://s.yimg.com/lo/mysterio/api/aa0b272d63981e699a18c1259e6a636eff79ca6b75899de264b66a9d63e43c34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F7cc5f3d3a61dbf7a2ca43e7287b6cf44",
-      "published": "8/4/2026, 5:48:00 PM",
-      "desc": "\"0/10... Useless for perverts.\""
+      "url": "https://kotaku.com/minecraft-adds-concrete-stairs-after-making-fans-wait-nearly-a-decade-and-people-are-excited-2000721630",
+      "image": "https://kotaku.com/app/uploads/2026/08/minecraftslavb.jpg",
+      "published": "8/4/2026, 7:15:19 PM",
+      "desc": "Concrete slabs and stairs are included in the recent snapshot update"
     }
   ],
   "education": [
@@ -412,15 +412,6 @@
     },
     {
       "rank": 10,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 11,
       "title": "Everlasting",
       "artist": "Armin van Buuren & SACHA",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/da/8a/91da8a04-5fe5-2ac7-714e-ebc6f1751f8b/8718522630811.png/300x300bb.jpg",
@@ -429,22 +420,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Armin%20van%20Buuren%20%26%20SACHA%20Everlasting"
     },
     {
-      "rank": 12,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+      "rank": 11,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 13,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
       "rank": 14,
@@ -560,21 +560,21 @@
     },
     {
       "rank": 2,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 3,
       "title": "Batman: Caped Crusader",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 3,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
