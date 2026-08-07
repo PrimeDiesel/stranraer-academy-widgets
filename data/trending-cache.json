@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-07T18:58:52.051Z",
+  "updated": "2026-08-07T19:53:13.770Z",
   "news": [
+    {
+      "title": "Thousands of rail passengers hit by power failure disruption",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dda8/live/d2df1990-91c4-11f1-8c3a-e79d623d823a.jpg",
+      "published": "8/6/2026, 7:52:22 PM",
+      "desc": "Stranded passengers have described their \"nightmare\" journeys and being evacuated from trains."
+    },
     {
       "title": "Artificial Intelligence used to design brand new viruses",
       "source": "BBC News",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4709/live/099eecc0-8b54-11f1-8322-5bf52455cf04.jpg",
       "published": "8/6/2026, 6:52:21 PM",
       "desc": "Alex Jenkinson, 39, is accused of causing the former duke to \"fear unlawful violence\" as he walked his dogs."
-    },
-    {
-      "title": "Brenda Fricker: Oscar-winner's funeral takes place in Dublin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w07qejvj1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46cb/live/258e8830-9182-11f1-b59e-3d7a9337129d.jpg",
-      "published": "8/6/2026, 6:37:26 PM",
-      "desc": "Fricker won the Oscar for best supporting actress in 1990 for her performance in My Left Foot."
     },
     {
       "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
@@ -68,12 +68,60 @@
   ],
   "sports": [
     {
-      "title": "Jagiellonia Białystok vs Rangers: Nicolas Raksin 'fit and available' for Europa League trip",
+      "title": "How Is The Justin Herbert-Mike McDaniel Partnership? 4 Takeaways From Chargers Camp",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/how-justin-herbert-mike-mcdaniel-partnership-4-takeaways-from-chargers-camp",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/mike-mcdaniel-justin-herbert.jpg?ve=1&tl=1",
+      "published": "8/6/2026, 7:52:30 PM",
+      "desc": "Justin Herbert building chemistry with new offensive coordinator Mike McDaniel has been one of the highlights of Chargers training camp."
+    },
+    {
+      "title": "Midseason NASCAR Prospect Rankings: Top 20 Drivers With Best Shot At Cup Ride",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2026-midseason-cup-prospect-list-brent-crews-jesse-love-layne-riggs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/midseason-prospect-rankings-16x9-nascar.png?ve=1&tl=1",
+      "published": "8/6/2026, 7:52:29 PM",
+      "desc": "From Rajah Caruth to Jesse Love, Keelan Harvick to Brent Crews, here's the latest on which drivers have the best chance to move up to Cup."
+    },
+    {
+      "title": "College Football Offseason Buzz: Thomas Castellanos Suing For 5th Year Of Eligibility",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cfbbuzzh.jpg?ve=1&tl=1",
+      "published": "8/6/2026, 7:52:27 PM",
+      "desc": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport."
+    },
+    {
+      "title": "Micky van de Ven: Tottenham defender close to agreeing new five-year contract",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cy74pk18p05t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/6/2026, 6:37:33 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Jagiellonia Białystok vs Rangers in the UEFA Europa League"
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5y3j1k8053o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe27/live/6f332be0-91c7-11f1-8c3a-e79d623d823a.jpg",
+      "published": "8/6/2026, 7:37:22 PM",
+      "desc": "Micky van de Ven is close to agreeing a new five-year contract with Tottenham Hotspur."
+    },
+    {
+      "title": "Sources: Anthony Davis, Wizards table contract talks until season starts - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49547027/sources-anthony-davis-wizards-table-contract-talks-season-starts",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0416%2Fr1644796_1296x729_16%2D9.jpg",
+      "published": "8/6/2026, 7:31:34 PM",
+      "desc": "The Wizards and Anthony Davis' agent, Rich Paul, have decided to wait on talks for a potential extension until after the season starts, sources told ESPN."
+    },
+    {
+      "title": "MLB Cy Young Race: Jacob Misiorowski&#39;s Historic Stretch Continues",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-cy-young-race",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cyyoung1.jpg?ve=1&tl=1",
+      "published": "8/6/2026, 7:07:31 PM",
+      "desc": "Jacob Misiorowski has increased his gap as the NL Cy Young favorite. Check out the latest."
+    },
+    {
+      "title": "Women's Super League: St Helens 6-44 Wigan Warriors - Wigan hammer Saints",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/cx2dplp1gjzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bcc2/live/c3f3e950-91bb-11f1-bab9-173de0e7d358.jpg",
+      "published": "8/6/2026, 7:07:19 PM",
+      "desc": "Wigan Warriors kick off the new Super Four format of the Women's Super League with a thumping 44-6 win at St Helens."
     },
     {
       "title": "Tour de France Femmes: Kimberley Le Court wins stage six as Marlen Reusser retains yellow jersey",
@@ -162,54 +210,6 @@
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
       "published": "8/6/2026, 4:52:30 PM",
       "desc": "Listen to Sportsound and follow live text updates from Thursday's four European qualifiers involving Scottish clubs."
-    },
-    {
-      "title": "Gianni Infantino: Uefa says Fifa's backing of its president 'changes nothing'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
-      "published": "8/6/2026, 4:52:23 PM",
-      "desc": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
-    },
-    {
-      "title": "2026 MLB Odds: 5 Best Post-Trade Deadline Bets",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-5-best-post-trade-deadline-bets",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/shota-86.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 4:22:24 PM",
-      "desc": "Will Hill delivers his five MLB best bets post-trade deadline. See his pick for the World Series matchup and the winner."
-    },
-    {
-      "title": "Last Night In Baseball: The Cubs Swept The Reeling Dodgers",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/cubs-dodgers-losing-streak-red-sox-braves",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/pcah1.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 4:22:19 PM",
-      "desc": "The Dodgers lost again, the Braves and Red Sox did not, new acquisitions do their best, a big Cleveland debut, a huge defensive play and more from Wednesday's MLB action."
-    },
-    {
-      "title": "Coco Gauff supports 'fairness' in WTA test, not 'animosity' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49545552/coco-gauff-supports-fairness-wta-test-not-animosity",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0806%2Fr1698378_1296x729_16%2D9.jpg",
-      "published": "8/6/2026, 3:40:08 PM",
-      "desc": "Coco Gauff said she supports \"fairness in women's sports\" but criticized how the WTA's gene-testing creates \"animosity towards the trans community.\""
-    },
-    {
-      "title": "2027 NASCAR Cup Series Schedule Tracker: Where &amp; When Will NASCAR Race?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2027-nascar-cup-series-schedule-tracker-where-when-will-nascar-race",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/schedule-tracker_nascar_2027.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 3:37:25 PM",
-      "desc": "Where and when will NASCAR race in 2027? Here are the latest schedule updates."
-    },
-    {
-      "title": "2026 NFL Hall of Fame Game: How to Watch Panthers vs. Cardinals, Kickoff Time, Date",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-hall-fame-game-how-watch-panthers-vs-cardinals-kickoff-time-date",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/48f99dbf-2026-nfl-hall-of-fame-game-1920x1080-1.png?ve=1&tl=1",
-      "published": "8/6/2026, 3:37:23 PM",
-      "desc": "Find out everything you need to know about the 2026 NFL Pro Football Hall of Fame Game featuring the Panthers and Cardinals."
     }
   ],
   "tech": [
@@ -487,21 +487,21 @@
     },
     {
       "rank": 4,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 5,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "url": "https://www.themoviedb.org/movie/980431"
-    },
-    {
-      "rank": 5,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 6,
@@ -523,15 +523,6 @@
     },
     {
       "rank": 8,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -540,13 +531,13 @@
       "url": "https://www.themoviedb.org/movie/1314481"
     },
     {
-      "rank": 10,
-      "title": "The Mandalorian and Grogu",
+      "rank": 9,
+      "title": "Michael",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
@@ -561,12 +552,12 @@
     },
     {
       "rank": 2,
-      "title": "My Life with the Walter Boys",
-      "year": "2023",
+      "title": "Batman: Caped Crusader",
+      "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "url": "https://www.themoviedb.org/tv/199001"
+      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "url": "https://www.themoviedb.org/tv/125909"
     }
   ]
 }
