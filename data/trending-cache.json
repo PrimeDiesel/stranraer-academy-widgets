@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T10:59:32.444Z",
+  "updated": "2026-08-07T11:46:16.386Z",
   "news": [
     {
       "title": "Michelin-star restaurant Ynyshir gets five-star hygiene rating back",
@@ -214,28 +214,12 @@
   ],
   "tech": [
     {
-      "title": "Phantom Blade Zero pre-orders open August 11 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/08/phantom-blade-zero-pre-orders-open-august-11",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/PB0-Pre-Orders_08-05-26.jpg",
-      "published": "8/6/2026, 2:00:59 AM",
-      "desc": "Pre-orders for Phantom Blade Zero will open on August 11 at 7:00 p.m. PT / 10:00 p.m. ET alongside the release of an 11-minute trailer, developer S-GAME announced."
-    },
-    {
       "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
       "source": "Mashable",
       "url": "https://mashable.com/tech/samsung-galaxy-z-foldables-break-sales-records-korea-europe",
       "image": "https://helios-i.mashable.com/imagery/articles/04MU8YLieh4SnQZQji07ChT/hero-image.fill.size_1200x675.v1785960797.jpg",
       "published": "8/5/2026, 11:07:03 PM",
       "desc": "Will we finally see foldable phones enter the mainstream?"
-    },
-    {
-      "title": "Minecraft Arrives On Switch 2 This October, Digital Upgrade Path Confirmed - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/minecraft-arrives-on-switch-2-this-october-digital-upgrade-path-confirmed",
-      "image": "https://images.nintendolife.com/0dbc4b4f42471/large.jpg",
-      "published": "8/5/2026, 11:05:00 PM",
-      "desc": "Featuring the Vibrant Visuals graphics upgrade"
     },
     {
       "title": "Full Teardown Of A 2026 Amazon Fire Stick HD - Hackaday",
@@ -246,12 +230,12 @@
       "desc": "After the release of Google’s Chromecast so-called ‘streaming sticks’ have remained a popular form factor, even though such technology is these days part of ‘smart’ TV…"
     },
     {
-      "title": "'I Was So Disappointed' — GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar",
-      "image": "https://assets-prd.ignimgs.com/2026/08/05/gta-steve-haines-1785966835318.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/5/2026, 10:00:11 PM",
-      "desc": "Actor Robert Bogue, who played FIB agent Steve Haines in Grand Theft Auto 5, says he auditioned for 60 roles in GTA 6, but he was ultimately ignored by Rockstar Games."
+      "title": "Halo Studios hit by layoffs just days after Halo: Campaign Evolved launch - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/halo/halo-studios-is-the-latest-xbox-games-studio-to-be-hit-by-layoffs-just-days-after-campaign-evolved-launch-as-reports-reveal-troubled-development",
+      "image": "https://cdn.mos.cms.futurecdn.net/VqP76GcpWXZmVVaCkv8DoN-1920-80.jpg",
+      "published": "8/5/2026, 10:49:41 PM",
+      "desc": "A number of developers previously employed at Halo Studios have posted on LinkedIn confirming layoffs at the studio."
     },
     {
       "title": "Google Is Finally Shutting Down the Google Assistant. Here's What Android Users Need to Know - inc.com",
@@ -268,6 +252,22 @@
       "image": "https://images.pushsquare.com/59ce5aca2dbee/large.jpg",
       "published": "8/5/2026, 9:30:00 PM",
       "desc": "Important notice"
+    },
+    {
+      "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners",
+      "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/5/2026, 9:14:21 PM",
+      "desc": "Minecraft is getting a proper Nintendo Switch 2 version very soon, and Switch 1 owners will be entitled to an upgrade"
+    },
+    {
+      "title": "Next Xbox console will play every generation according to leaked Microsoft memo - Dexerto",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/gaming/next-xbox-console-will-play-every-generation-according-to-leaked-microsoft-memo-3395110/",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/05/Xbox.jpg",
+      "published": "8/5/2026, 8:22:13 PM",
+      "desc": "The next generation of Xbox could be Microsoft’s most backwards-compatible console yet after a newly leaked internal memo was revealed."
     },
     {
       "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
@@ -504,15 +504,6 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 6,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
@@ -521,7 +512,7 @@
       "url": "https://www.themoviedb.org/movie/454639"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
@@ -530,22 +521,31 @@
       "url": "https://www.themoviedb.org/movie/936075"
     },
     {
+      "rank": 7,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
       "rank": 8,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "url": "https://www.themoviedb.org/movie/1314481"
-    },
-    {
-      "rank": 9,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
