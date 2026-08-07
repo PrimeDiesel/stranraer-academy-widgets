@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-07T09:00:15.276Z",
+  "updated": "2026-08-07T10:02:42.716Z",
   "news": [
+    {
+      "title": "Meredith Kercher's sister criticises Amanda Knox Edinburgh Festival show",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b525/live/ee101880-9166-11f1-8d49-afb9c19de776.jpg",
+      "published": "8/6/2026, 9:52:14 AM",
+      "desc": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh."
+    },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is 'in final stages'",
       "source": "BBC News",
@@ -40,14 +48,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg",
       "published": "8/6/2026, 3:37:21 AM",
       "desc": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
-    },
-    {
-      "title": "Newspaper headlines: 'Plagiarism row professor resigns' and 'West End stab rampage'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkezxzz7xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/083f/live/a88d8030-9121-11f1-b2ab-0dd01740f9f6.png",
-      "published": "8/6/2026, 12:52:23 AM",
-      "desc": "A Cambridge University professor's resignation dominates many of Thursday's papers."
     },
     {
       "title": "Why phones on loudspeaker may become just another noise",
@@ -214,14 +214,6 @@
   ],
   "tech": [
     {
-      "title": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
-      "image": "https://images.nintendolife.com/dee3b0a6977ca/large.jpg",
-      "published": "8/6/2026, 2:15:00 AM",
-      "desc": "The game arrives on Switch 2 this September"
-    },
-    {
       "title": "Phantom Blade Zero pre-orders open August 11 - Gematsu",
       "source": "Gematsu",
       "url": "https://www.gematsu.com/2026/08/phantom-blade-zero-pre-orders-open-august-11",
@@ -238,20 +230,20 @@
       "desc": "Will we finally see foldable phones enter the mainstream?"
     },
     {
+      "title": "Minecraft Arrives On Switch 2 This October, Digital Upgrade Path Confirmed - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/minecraft-arrives-on-switch-2-this-october-digital-upgrade-path-confirmed",
+      "image": "https://images.nintendolife.com/0dbc4b4f42471/large.jpg",
+      "published": "8/5/2026, 11:05:00 PM",
+      "desc": "Featuring the Vibrant Visuals graphics upgrade"
+    },
+    {
       "title": "Full Teardown Of A 2026 Amazon Fire Stick HD - Hackaday",
       "source": "Hackaday",
       "url": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/",
       "image": "https://hackaday.com/wp-content/uploads/2026/08/amazon_fire_stick_hd_internals_electronupdate_youtube.jpg",
       "published": "8/5/2026, 11:00:00 PM",
       "desc": "After the release of Google’s Chromecast so-called ‘streaming sticks’ have remained a popular form factor, even though such technology is these days part of ‘smart’ TV…"
-    },
-    {
-      "title": "Halo Studios hit by layoffs just days after Halo: Campaign Evolved launch - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/halo/halo-studios-is-the-latest-xbox-games-studio-to-be-hit-by-layoffs-just-days-after-campaign-evolved-launch-as-reports-reveal-troubled-development",
-      "image": "https://cdn.mos.cms.futurecdn.net/VqP76GcpWXZmVVaCkv8DoN-1920-80.jpg",
-      "published": "8/5/2026, 10:49:41 PM",
-      "desc": "A number of developers previously employed at Halo Studios have posted on LinkedIn confirming layoffs at the studio."
     },
     {
       "title": "'I Was So Disappointed' — GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar - IGN",
@@ -276,6 +268,14 @@
       "image": "https://images.pushsquare.com/59ce5aca2dbee/large.jpg",
       "published": "8/5/2026, 9:30:00 PM",
       "desc": "Important notice"
+    },
+    {
+      "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/5/2026, 8:04:00 PM",
+      "desc": "Apple Watch Ultra 4 is coming next month, here are three rumored new features that I’m especially excited about."
     }
   ],
   "education": [
@@ -560,21 +560,12 @@
     },
     {
       "rank": 2,
-      "title": "Batman: Caped Crusader",
-      "year": "2024",
+      "title": "My Life with the Walter Boys",
+      "year": "2023",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "url": "https://www.themoviedb.org/tv/125909"
-    },
-    {
-      "rank": 3,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
+      "poster": "https://image.tmdb.org/t/p/w342/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
