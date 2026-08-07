@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-07T05:41:05.607Z",
+  "updated": "2026-08-07T07:17:22.466Z",
   "news": [
+    {
+      "title": "Michelin-star restaurant Ynyshir gets five star hygeine rating back",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqk1w1vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cea9/live/f225f410-9154-11f1-a649-9747aa0331f7.jpg",
+      "published": "8/6/2026, 6:07:21 AM",
+      "desc": "Ynyshir got a one-star food hygiene rating from inspectors but has since been restored to five stars."
+    },
+    {
+      "title": "The 'education gap' hiding in picture-perfect Cornwall and Devon",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39e7n8rvd2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1570/live/98a94660-90ca-11f1-822b-5340fee140e1.jpg",
+      "published": "8/6/2026, 5:52:26 AM",
+      "desc": "Behind the South West's postcard image, poverty and isolation are limiting opportunities for many young people."
+    },
+    {
+      "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2e3/live/dad2dc90-90f7-11f1-b2ab-0dd01740f9f6.png",
+      "published": "8/6/2026, 5:52:25 AM",
+      "desc": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700."
+    },
     {
       "title": "Shorts, strappy tops, sandals: Can my boss tell me what to wear in summer?",
       "source": "BBC News",
@@ -26,14 +50,6 @@
       "desc": "A Cambridge University professor's resignation dominates many of Thursday's papers."
     },
     {
-      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfe4/live/164aada0-8f29-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/6/2026, 12:22:16 AM",
-      "desc": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
-    },
-    {
       "title": "Why phones on loudspeaker may become just another noise",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o",
@@ -48,25 +64,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6afe/live/2a95c280-ab4b-11f0-aa13-0b0479f6f42a.jpg",
       "published": "8/5/2026, 11:37:23 PM",
       "desc": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal."
-    },
-    {
-      "title": "New walk-in mental health centres to open in banks and libraries across England",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12f3/live/6670ee10-910f-11f1-b61e-4f9456542bbf.jpg",
-      "published": "8/5/2026, 10:07:18 PM",
-      "desc": "Government plans network of nearly 200 specialist services to help those facing mental health crises."
-    },
-    {
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/5/2026, 9:52:23 PM",
-      "desc": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\"."
     }
   ],
   "sports": [
+    {
+      "title": "Ferran Torres' Barcelona future uncertain after comments spark backlash",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2r5v3ykjyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31e3/live/422dfbf0-90bb-11f1-b8f3-bf6a2c059a9b.jpg",
+      "published": "8/6/2026, 7:07:22 AM",
+      "desc": "Ferran Torres has come under fire from Barcelona supporters after leaving the door open to a potential move away from the club."
+    },
+    {
+      "title": "Players who turned World Cup heroics into big transfers",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cj4kqdy4w4eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2165/live/4a6970e0-909f-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/6/2026, 6:37:24 AM",
+      "desc": "BBC Sport looks back at some of the players whose standout performances at the World Cup earned a big transfer."
+    },
+    {
+      "title": "Why Tottenham want Liverpool forward Cody Gakpo",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c98vnel56q6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4812/live/9829b1c0-90ac-11f1-b35a-3be58eca94a8.jpg",
+      "published": "8/6/2026, 6:37:20 AM",
+      "desc": "The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side."
+    },
     {
       "title": "Washington's Lucas Jumalon, 22, captures WSOP main event - ESPN",
       "source": "ESPN",
@@ -186,30 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
       "published": "8/5/2026, 10:22:23 PM",
       "desc": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made."
-    },
-    {
-      "title": "2026 AL, NL MVP Odds: PCA Even With Ohtani After Cubs Sweep Dodgers",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-al-nl-mvp-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/a1556cd3-16x9-5.jpg?ve=1&tl=1",
-      "published": "8/5/2026, 10:22:21 PM",
-      "desc": "What was thought to be a foregone MVP conclusion in the NL is now a nip-and-tuck race. See the latest odds."
-    },
-    {
-      "title": "Infantino sorry for 'errors' but gets FIFA board's 'full support' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0805/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05/dm_260805_COM_SOC_Analysis_Was_Figo_right_to_criticise_FIFA_president_Infantino3F__GLOBAL_2026-08-05.jpg",
-      "published": "8/5/2026, 10:13:14 PM",
-      "desc": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a summit held in Morocco \"reaffirmed their full support\" for his presidency."
-    },
-    {
-      "title": "Football gossip: Diomande, Mbaye, Asencio, Ruggeri, Charles, Konsa, Tchouameni",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cr59z307my1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81b5/live/148b98c0-90fb-11f1-b2ab-0dd01740f9f6.png",
-      "published": "8/5/2026, 9:52:29 PM",
-      "desc": "Real Madrid reach £120m agreement for Yan Diomande, Liverpool explore move for Ibrahim Mbaye and Aston Villa reach agreement to sign Matteo Ruggeri."
     }
   ],
   "tech": [
@@ -367,21 +367,21 @@
     },
     {
       "rank": 5,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 6,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 7,
@@ -403,15 +403,6 @@
     },
     {
       "rank": 9,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 10,
       "title": "Baby Kool (Evelyn)",
       "artist": "Nothing But Thieves",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/4e/b9/1a4eb90b-e7a3-e79a-a133-0be9324213db/196874245224.jpg/300x300bb.jpg",
@@ -420,16 +411,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Nothing%20But%20Thieves%20Baby%20Kool%20(Evelyn)"
     },
     {
-      "rank": 11,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+      "rank": 10,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "On 2nite",
       "artist": "Silva Bumpa",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/ee/af/50eeaf04-22c6-8a83-1fa7-12e8e8c08146/196874442296.jpg/300x300bb.jpg",
@@ -438,22 +429,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Silva%20Bumpa%20On%202nite"
     },
     {
-      "rank": 13,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+      "rank": 12,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
+    },
+    {
+      "rank": 14,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 15,
@@ -504,15 +504,6 @@
     },
     {
       "rank": 5,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -521,16 +512,16 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 7,
-      "title": "Michael",
+      "rank": 6,
+      "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -539,7 +530,7 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -560,12 +551,21 @@
     },
     {
       "rank": 2,
-      "title": "My Life with the Walter Boys",
-      "year": "2023",
+      "title": "Batman: Caped Crusader",
+      "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "url": "https://www.themoviedb.org/tv/199001"
+      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 3,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
