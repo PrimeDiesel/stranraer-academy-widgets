@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-08T10:34:53.342Z",
+  "updated": "2026-08-08T11:29:32.317Z",
   "news": [
+    {
+      "title": "Girl, 11, found dead after major search launched at beauty spot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gy5vpp9go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/842a/live/f1a71fe0-9240-11f1-afba-01cbe043dea0.png",
+      "published": "8/7/2026, 10:52:25 AM",
+      "desc": "Emergency crews were called to Gore Water in Midlothian after the alarm was raised on Thursday afternoon."
+    },
     {
       "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?"
     },
     {
-      "title": "Newspaper headlines: 'Tories to end social housing for foreigners' and 'Bottoms down'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4214/live/361e2d20-91ed-11f1-a7ab-8b30adf0800a.png",
-      "published": "8/7/2026, 12:37:22 AM",
-      "desc": "The Conservatives' social housing plans and Westminster City Council's pub proposals lead Friday's papers."
-    },
-    {
       "title": "Meta told to pay another $567m in New Mexico child safety lawsuit",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
@@ -68,12 +68,36 @@
   ],
   "sports": [
     {
-      "title": "Gianni Infantino: Uefa says Fifa's backing of its president 'changes nothing'",
+      "title": "Cristian Romero: Atletico Madrid hold talks over move for Tottenham captain",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
-      "published": "8/7/2026, 10:22:22 AM",
-      "desc": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4e3/live/96bb1990-924c-11f1-a6ce-afeee273b42e.jpg",
+      "published": "8/7/2026, 11:07:20 AM",
+      "desc": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer."
+    },
+    {
+      "title": "Myles Lewis-Skelly's push to be Arsenal's starting midfielder",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c15171py593o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36be/live/d0f7f380-9247-11f1-afba-01cbe043dea0.jpg",
+      "published": "8/7/2026, 10:37:27 AM",
+      "desc": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield."
+    },
+    {
+      "title": "David Sullivan expected to attend West Ham's EFL Cup tie v Portsmouth despite advice not to",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c36d8w5g080o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fc5/live/9b7aae30-9230-11f1-af4d-5164294a85c7.jpg",
+      "published": "8/7/2026, 10:37:20 AM",
+      "desc": "David Sullivan is expected to attend Saturday's EFL Cup first-round tie against Portsmouth despite being advised to stay away from home matches at the London Stadium."
+    },
+    {
+      "title": "Footballer Ivan Toney charged with assault at Soho nightclub",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/cpw9nz7qwyqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1159/live/91037b10-9241-11f1-afba-01cbe043dea0.jpg",
+      "published": "8/7/2026, 10:37:16 AM",
+      "desc": "The 30-year-old former Brentford striker is due to appear in court next month."
     },
     {
       "title": "4 INDYCAR Drivers With Realistic Shots At Catching Alex Palou For The Title",
@@ -122,14 +146,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2acf/live/263ce210-91ad-11f1-9c12-47c0acd34ba6.jpg",
       "published": "8/7/2026, 5:52:24 AM",
       "desc": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?"
-    },
-    {
-      "title": "Football gossip: Spence, Zirkzee, Mbaye, Mudryk, Elias, Diatta, Catamo",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqlxkxken3po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1c7/live/c8e51040-91d6-11f1-a7ab-8b30adf0800a.png",
-      "published": "8/7/2026, 5:22:21 AM",
-      "desc": "Liverpool have no intention of pursuing Djed Spence this summer, Juventus looking to secure Joshua Zirkzee on loan, Arsenal and Manchester United send scouts to watch Kaua Elias, plus more."
     },
     {
       "title": "Rookie QB Carson Beck delivers efficient debut for Cardinals - ESPN",
@@ -194,22 +210,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0319%2Fr1466250_1296x729_16%2D9.jpg",
       "published": "8/7/2026, 3:24:43 AM",
       "desc": "Kawhi Leonard had an undisclosed sponsorship agreement allegedly worth millions of dollars with the company that designed the Clippers' video board, Pablo Torre reported on his podcast on Thursday."
-    },
-    {
-      "title": "Sean McVay praises Aaron Donald as Rams await DT's decision - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49549627/sean-mcvay-praises-aaron-donald-rams-await-dt-decision",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0322%2Fr1308713_1296x729_16%2D9.jpg",
-      "published": "8/7/2026, 2:32:58 AM",
-      "desc": "Rams coach Sean McVay said he doesn't have an answer to whether Aaron Donald will come out of retirement this season but said their former defensive tackle \"looked outstanding\" during his workout with the team Tuesday."
-    },
-    {
-      "title": "Midseason NASCAR Prospect Rankings: Top 20 Drivers With Best Shot At Cup Ride",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-midseason-cup-prospect-list-brent-crews-jesse-love-layne-riggs",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/midseason-prospect-rankings-16x9-nascar.png?ve=1&tl=1",
-      "published": "8/7/2026, 1:52:25 AM",
-      "desc": "From Rajah Caruth to Jesse Love, Keelan Harvick to Brent Crews, here's the latest on which drivers have the best chance to move up to Cup."
     }
   ],
   "tech": [
@@ -376,21 +376,21 @@
     },
     {
       "rank": 6,
-      "title": "RESCUER",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/a2/a6/71a2a618-b0ba-6c00-4592-cd1eb24720c4/mzaf_2499962097773439667.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rescuer/6773456078?i=6773456232&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
-    },
-    {
-      "rank": 7,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 7,
+      "title": "RESCUER",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/a2/a6/71a2a618-b0ba-6c00-4592-cd1eb24720c4/mzaf_2499962097773439667.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rescuer/6773456078?i=6773456232&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
     },
     {
       "rank": 8,
@@ -412,21 +412,21 @@
     },
     {
       "rank": 10,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 11,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 11,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 12,
@@ -448,21 +448,21 @@
     },
     {
       "rank": 14,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 15,
       "title": "This & That",
       "artist": "Stray Kids",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/05/aa/c005aa79-a3a7-6e28-48e2-4c5e72eff603/8809928957357_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/f5/b8/8df5b8a3-fe55-d7c7-3fae-2204f3d0c3b2/mzaf_5363118532112498639.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/this-that/6781751949?i=6781751957&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Stray%20Kids%20This%20%26%20That"
-    },
-    {
-      "rank": 15,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d7/b9/2fd7b90f-e0cd-33ed-e8c8-28664c39659c/054391210180.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/3b/1c/7f3b1c49-4a41-c04e-a230-bc840f788f8d/mzaf_14392854895313660868.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798881398?i=6798881399&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     }
   ],
   "movies": [
@@ -557,15 +557,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
