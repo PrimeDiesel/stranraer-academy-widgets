@@ -1,29 +1,29 @@
 {
-  "generated": "2026-08-07T06:40:21.318Z",
-  "day": 218,
+  "generated": "2026-08-08T06:02:59.359Z",
+  "day": 219,
   "movie": {
-    "title": "The Hobbit: An Unexpected Journey",
+    "title": "Jingle All the Way",
     "safe": true,
-    "cert": "12A",
+    "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2012",
-    "plot": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-    "poster": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+    "year": "1996",
+    "plot": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
+    "poster": "https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Lit-My Own Worst Enemy",
+    "key": "My Chemical Romance-Welcome to the Black Parade",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4e/00/21/4e0021aa-f0d1-95f5-436e-7a6464f2b891/00602517806993.rgb.jpg/600x600bb.jpg",
-    "year": "2008",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/77/b6/c877b67f-969d-2ce2-5e4f-77a13595ba26/mzi.rksqjkbb.jpg/600x600bb.jpg",
+    "year": "2006",
     "v": 4
   },
   "album": {
-    "key": "Creedence Clearwater Revival-Cosmo's Factory",
+    "key": "Mazzy Star-So Tonight That I Might See",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/81/ca/f381ca2b-0779-4102-2c64-8b2563eedb96/00888072355996.rgb.jpg/600x600bb.jpg",
-    "year": "1970",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
+    "year": "1993",
     "v": 4
   }
 }
