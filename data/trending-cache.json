@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-08T19:31:02.667Z",
+  "updated": "2026-08-08T20:31:31.694Z",
   "news": [
+    {
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/7/2026, 7:52:23 PM",
+      "desc": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
+    },
     {
       "title": "Why have obesity rates doubled since 1993?",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "Services have been stopping for longer at stations to allow passengers to get off and use toilets on platforms."
     },
     {
-      "title": "Streeting 'sickened' by sex abuse claims at Army college",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8en51le9e1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61a1/live/ee7e9da0-926a-11f1-9f0c-8d4ddef91df6.jpg",
-      "published": "8/7/2026, 3:22:26 PM",
-      "desc": "The defence secretary promises to look into what went wrong at the college in North Yorkshire."
-    },
-    {
       "title": "William Orbit: Madonna and Blur producer dies aged 69",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp9ej0el7veo",
@@ -68,6 +68,30 @@
   ],
   "sports": [
     {
+      "title": "EFL Cup LIVE: Follow first round ties as Middlesbrough, Wrexham & Wolves in action - scores, radio commentary & text updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cr7k4gyggpdt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a8c2/live/cf326760-9297-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/7/2026, 8:07:23 PM",
+      "desc": "Listen to BBC radio commentaries and follow live text updates as Middlesbrough, Wrexham and Wolves in action in the EFL Cup first round."
+    },
+    {
+      "title": "Andrew Flintoff: Former all-rounder leaves England Lions head coach role",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cpw9nvzkxexo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17dd/live/72cae370-9289-11f1-9e22-67b4720e20ea.jpg",
+      "published": "8/7/2026, 8:07:17 PM",
+      "desc": "Former England all-rounder Andrew Flintoff steps down as head coach of England Lions."
+    },
+    {
+      "title": "Sources: Extension makes Titans' Peter Skoronski top-paid guard - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49555284/sources-extension-makes-titans-peter-skoronski-top-paid-guard",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698884_1296x729_16%2D9.jpg",
+      "published": "8/7/2026, 7:35:23 PM",
+      "desc": "The Titans have signed Peter Skoronski to a four-year, $100 million extension, making him the highest-paid guard in the NFL, sources told NFL Network."
+    },
+    {
       "title": "Packers HC Matt LaFleur On Hot Seat Despite Extension? Colin Cowherd Explains",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/colin-cowherd-matt-lafleur-take-packers-super-bowl",
@@ -76,28 +100,20 @@
       "desc": "Even with a new contract, is Green Bay Packers head coach Matt LaFleur on the hot seat? Colin Cowherd thinks they have an issue."
     },
     {
+      "title": "Cousins, Crosby scuffle during Raiders practice on Friday - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49555077/raiders-cousins-crosby-scuffle-friday-practice",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0718%2Fr1360305_1296x729_16%2D9.jpg",
+      "published": "8/7/2026, 6:58:22 PM",
+      "desc": "Raiders quarterback Kirk Cousins and star pass rusher Maxx Crosby got into a scuffle late in practice Friday before their teammates quickly jumped in and separated them."
+    },
+    {
       "title": "WNBPA emphasizes inclusion amidst focus on transgender athletes - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49554912/wnbpa-emphasizes-inclusion-amidst-focus-transgender-athletes",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698861_1024x576_16%2D9.jpg",
       "published": "8/7/2026, 6:40:49 PM",
       "desc": "The Women's National Basketball Players Association (WNBPA) released a statement, emphasizing diversity and inclusion while saying the organization \"will not be used as political pawns.\""
-    },
-    {
-      "title": "EFL Cup LIVE: Follow first round ties as Middlesbrough, Wrexham & Wolves in action - scores, radio commentary & text updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cr7k4gyggpdt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1b1/live/62818c50-928c-11f1-9e22-67b4720e20ea.jpg",
-      "published": "8/7/2026, 6:37:23 PM",
-      "desc": "Listen to BBC radio commentaries and follow live text updates as Middlesbrough, Wrexham and Wolves in action in the EFL Cup first round."
-    },
-    {
-      "title": "Andrew Flintoff: Former all-rounder leaves England Lions head coach role",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cpw9nvzkxexo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17dd/live/72cae370-9289-11f1-9e22-67b4720e20ea.jpg",
-      "published": "8/7/2026, 6:22:18 PM",
-      "desc": "Former England all-rounder Andrew Flintoff steps down as head coach of England Lions."
     },
     {
       "title": "Ex-NBA star Monta Ellis named Alcorn State basketball GM - ESPN",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/niemann2.jpg?ve=1&tl=1",
       "published": "8/7/2026, 2:07:20 PM",
       "desc": "Joaquin Niemann fired a bogey-free 64 Round 1 to grab a two-shot lead at LIV Golf New York Bedminster."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Bills Extend O&#39;Cyrus Torrence",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "8/7/2026, 1:37:35 PM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "College Football Offseason Buzz: USC Loses Starting Center To Injury",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/cfbbuzzh.jpg?ve=1&tl=1",
-      "published": "8/7/2026, 1:37:31 PM",
-      "desc": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport."
     }
   ],
   "tech": [
@@ -557,6 +557,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "My Life with the Walter Boys",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
