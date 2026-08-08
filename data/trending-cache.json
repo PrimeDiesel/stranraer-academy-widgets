@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-08T05:42:44.266Z",
+  "updated": "2026-08-08T06:54:27.492Z",
   "news": [
+    {
+      "title": "BBC News quiz of the week: Ed Sheeran got in trouble with the DVLA over which make of classic car?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx6yj56y6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8243/live/919838e0-91b0-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/7/2026, 6:22:17 AM",
+      "desc": "How much attention did you pay to what happened in the world over the past seven days?"
+    },
     {
       "title": "Officer says he's 'appalled' PC Harper's killers could be released early",
       "source": "BBC News",
@@ -56,17 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2d2/live/d094fb50-91ec-11f1-a12f-8b7b5ef58f56.jpg",
       "published": "8/7/2026, 12:07:24 AM",
       "desc": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
-    },
-    {
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg",
-      "published": "8/6/2026, 6:52:24 PM",
-      "desc": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
     }
   ],
   "sports": [
+    {
+      "title": "FA Cup: Zeph Thomas - the football journeyman who has racked up 39 moves",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/122c/live/c8dae170-91b2-11f1-9c12-47c0acd34ba6.jpg",
+      "published": "8/7/2026, 6:37:25 AM",
+      "desc": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years."
+    },
+    {
+      "title": "Who will exit Chelsea? How Blues could cut 41-man squad",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c0jle24ln68o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2acf/live/263ce210-91ad-11f1-9c12-47c0acd34ba6.jpg",
+      "published": "8/7/2026, 5:52:24 AM",
+      "desc": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?"
+    },
     {
       "title": "Bruno Guimaraes: Jaissle not part of Newcastle captain's Arsenal decision",
       "source": "BBC Sport",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/jeremiyah-love-surprise-team.jpg?ve=1&tl=1",
       "published": "8/6/2026, 10:22:20 PM",
       "desc": "The Cardinals face the longest Super Bowl odds, but many key members of their organization expressed confidence to us that they will make the playoffs."
-    },
-    {
-      "title": "Another New Highest-Paid RB: Lions Agree To Record Extension With Jahmyr Gibbs",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/jahmyr-gibbs-lions-extension-highest-paid-running-backs",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/jahmyr-gibbs.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 9:52:26 PM",
-      "desc": "The Detroit Lions have reportedly signed star running back Jahmyr Gibbs to an extension"
-    },
-    {
-      "title": "Benfica 6-1 Hearts: Vrancken's side suffer first-leg mauling in Lisbon",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c4gkwlj5pjnt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/6/2026, 9:52:24 PM",
-      "desc": "Hearts are outclassed by Portuguese giants Benfica as the Tynecastle side fall to their joint heaviest European defeat in the first leg of their Europa League third qualifying round tie."
     }
   ],
   "tech": [
@@ -457,12 +457,12 @@
     },
     {
       "rank": 15,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d7/b9/2fd7b90f-e0cd-33ed-e8c8-28664c39659c/054391210180.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/3b/1c/7f3b1c49-4a41-c04e-a230-bc840f788f8d/mzaf_14392854895313660868.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798881398?i=6798881399&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     }
   ],
   "movies": [
@@ -477,15 +477,6 @@
     },
     {
       "rank": 2,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 3,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -494,16 +485,16 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 4,
-      "title": "Toy Story 5",
+      "rank": 3,
+      "title": "Supergirl",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -512,7 +503,7 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
@@ -521,7 +512,7 @@
       "url": "https://www.themoviedb.org/movie/454639"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -530,22 +521,22 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
-      "rank": 8,
-      "title": "The Devil Wears Prada 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 8,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
@@ -569,6 +560,15 @@
     },
     {
       "rank": 3,
+      "title": "Batman: Caped Crusader",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "url": "https://www.themoviedb.org/tv/125909"
+    },
+    {
+      "rank": 4,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
