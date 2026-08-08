@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-08T01:42:57.095Z",
+  "updated": "2026-08-08T03:26:48.868Z",
   "news": [
+    {
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ef0/live/b3519660-91b6-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/7/2026, 1:52:27 AM",
+      "desc": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
+    },
     {
       "title": "Trump again limits US birthright citizenship with new executive orders",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
     },
     {
-      "title": "Met Police boss admits mistake over Jason Arday plagiarism row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd9y99grzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31d9/live/9d693a30-91a0-11f1-964d-6f76397ea067.jpg",
-      "published": "8/6/2026, 4:37:19 PM",
-      "desc": "Sir Mark Rowley says his force \"dropped the ball\" after it investigated a reporter looking into claims about Jason Arday."
-    },
-    {
       "title": "Boxer charged with killing aid worker in Athens after his wife gave police 'key' details",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Sean McVay praises Aaron Donald as Rams await DT's decision - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49549627/sean-mcvay-praises-aaron-donald-rams-await-dt-decision",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0322%2Fr1308713_1296x729_16%2D9.jpg",
+      "published": "8/7/2026, 2:32:58 AM",
+      "desc": "Rams coach Sean McVay said he doesn't have an answer to whether Aaron Donald will come out of retirement this season but said their former defensive tackle \"looked outstanding\" during his workout with the team Tuesday."
+    },
+    {
+      "title": "Midseason NASCAR Prospect Rankings: Top 20 Drivers With Best Shot At Cup Ride",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2026-midseason-cup-prospect-list-brent-crews-jesse-love-layne-riggs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/midseason-prospect-rankings-16x9-nascar.png?ve=1&tl=1",
+      "published": "8/7/2026, 1:52:25 AM",
+      "desc": "From Rajah Caruth to Jesse Love, Keelan Harvick to Brent Crews, here's the latest on which drivers have the best chance to move up to Cup."
+    },
     {
       "title": "Deion Sanders Takes Colorado On The Road To Build Team Chemistry In Colorado Springs",
       "source": "Fox Sports",
@@ -164,14 +180,6 @@
       "desc": "Jahmyr Gibbs and the Lions reached agreement on a three-year, $67.5 million deal that could be worth up to $75.75 million and includes $51.5 million guaranteed, agent Todd France told ESPN's Adam Schefter and NFL Network's Ian Rapoport."
     },
     {
-      "title": "Jets QB Geno Smith Tries Out Red Glare-Reducing Contacts At Training Camp",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/geno-smiths-red-sun-glaretackling-contacts-are-a-sight-to-see-at-jets-camp",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/gettyimages-2288201996-scaled-e1786048414297.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 9:07:27 PM",
-      "desc": "Geno Smith is seeing things differently with the New York Jets thanks to red contact lenses he's wearing during training camp."
-    },
-    {
       "title": "Jahmyr Gibbs Returns To Practice Field For First Time At Lions Training Camp",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/jahmyr-gibbs-returns-practice-field-first-time-lions-training-camp",
@@ -202,14 +210,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0806%2Fr1698486_2_1296x729_16%2D9.jpg",
       "published": "8/6/2026, 8:29:15 PM",
       "desc": "As he prepares to enter the Pro Football Hall of Fame, Larry Fitzgerald has not formally or officially stepped away from football or the Cardinals and he has no plans to do so."
-    },
-    {
-      "title": "Micky van de Ven: Tottenham defender close to agreeing new five-year contract",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y3j1k8053o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe27/live/6f332be0-91c7-11f1-8c3a-e79d623d823a.jpg",
-      "published": "8/6/2026, 7:37:22 PM",
-      "desc": "Micky van de Ven is close to agreeing a new five-year contract with Tottenham Hotspur."
     }
   ],
   "tech": [
@@ -385,21 +385,21 @@
     },
     {
       "rank": 7,
-      "title": "Tiger's Blood",
-      "artist": "Brandon Flowers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fe/f8/0efef8b0-439f-c70c-e2f1-1035b87b9c93/26UMGIM69978.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/e7/e0/6fe7e038-d5f2-3d64-79a1-9743e8b32a29/mzaf_11865482723975341427.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tigers-blood/6781078037?i=6781078053&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Brandon%20Flowers%20Tiger's%20Blood"
-    },
-    {
-      "rank": 8,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 8,
+      "title": "Tiger's Blood",
+      "artist": "Brandon Flowers",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fe/f8/0efef8b0-439f-c70c-e2f1-1035b87b9c93/26UMGIM69978.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/e7/e0/6fe7e038-d5f2-3d64-79a1-9743e8b32a29/mzaf_11865482723975341427.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/tigers-blood/6781078037?i=6781078053&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Brandon%20Flowers%20Tiger's%20Blood"
     },
     {
       "rank": 9,
@@ -430,6 +430,15 @@
     },
     {
       "rank": 12,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 13,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
@@ -438,22 +447,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 14,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 15,
@@ -486,15 +486,6 @@
     },
     {
       "rank": 3,
-      "title": "Avatar Aang: The Last Airbender",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
-    },
-    {
-      "rank": 4,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -503,25 +494,7 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 5,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 6,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -530,7 +503,43 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
+      "rank": 5,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 7,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
       "rank": 8,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
+    },
+    {
+      "rank": 9,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
@@ -551,21 +560,12 @@
     },
     {
       "rank": 2,
-      "title": "My Life with the Walter Boys",
-      "year": "2023",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "url": "https://www.themoviedb.org/tv/199001"
-    },
-    {
-      "rank": 3,
-      "title": "Batman: Caped Crusader",
+      "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "url": "https://www.themoviedb.org/tv/125909"
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
