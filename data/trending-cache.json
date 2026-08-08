@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-07T23:34:46.584Z",
+  "updated": "2026-08-08T01:42:57.095Z",
   "news": [
+    {
+      "title": "Trump again limits US birthright citizenship with new executive orders",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
+      "published": "8/7/2026, 12:52:18 AM",
+      "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
+    },
+    {
+      "title": "Newspaper headlines: 'Tories to end social housing for foreigners' and 'Bottoms down'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4214/live/361e2d20-91ed-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/7/2026, 12:37:22 AM",
+      "desc": "The Conservatives' social housing plans and Westminster City Council's pub proposals lead Friday's papers."
+    },
+    {
+      "title": "Meta told to pay another $567m in New Mexico child safety lawsuit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2d2/live/d094fb50-91ec-11f1-a12f-8b7b5ef58f56.jpg",
+      "published": "8/7/2026, 12:07:24 AM",
+      "desc": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
+    },
     {
       "title": "Thousands of rail passengers hit by power failure disruption",
       "source": "BBC News",
@@ -16,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg",
       "published": "8/6/2026, 6:52:24 PM",
       "desc": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor chased by stalker, court hears",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy457z28d19o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4709/live/099eecc0-8b54-11f1-8322-5bf52455cf04.jpg",
-      "published": "8/6/2026, 6:52:21 PM",
-      "desc": "Alex Jenkinson, 39, is accused of causing the former duke to \"fear unlawful violence\" as he walked his dogs."
     },
     {
       "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
@@ -48,25 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b273/live/5c68f2e0-91a1-11f1-964d-6f76397ea067.jpg",
       "published": "8/6/2026, 4:22:25 PM",
       "desc": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
-    },
-    {
-      "title": "Arrests and injuries amid Thetford anti-immigration protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b6d/live/ff0397e0-919b-11f1-9c53-0382b914b78c.jpg",
-      "published": "8/6/2026, 4:22:19 PM",
-      "desc": "Norfolk Police attend two nights of disorder in Thetford as MP condemns \"ugly scenes\"."
-    },
-    {
-      "title": "Trump denies US munitions shortage and said he'd seek to jail 'leakers'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
-      "published": "8/6/2026, 3:52:18 PM",
-      "desc": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
     }
   ],
   "sports": [
+    {
+      "title": "Deion Sanders Takes Colorado On The Road To Build Team Chemistry In Colorado Springs",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/deion-sanders-takes-colorado-road-build-team-chemistry-colorado-springs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/deion.jpg?ve=1&tl=1",
+      "published": "8/7/2026, 12:22:21 AM",
+      "desc": "Deion “Coach Prime\" Sanders loves taking his Colorado Buffaloes to Fountain Fort Carson High School for workouts and bonding."
+    },
+    {
+      "title": "Fever's Caitlin Clark: Trust gut when addressing political issues - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49548868/fever-caitlin-clark-trust-gut-addressing-political-issues",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0514%2Fr1657937_1296x729_16%2D9.jpg",
+      "published": "8/7/2026, 12:16:01 AM",
+      "desc": "Fever guard Caitlin Clark said Thursday that it is up to individuals to \"speak when you feel like you want to speak\" and that she is \"trying to navigate life\" as a 24-year-old."
+    },
     {
       "title": "Old habits haunt Rangers in early McInnes tenure",
       "source": "BBC Sport",
@@ -148,14 +164,6 @@
       "desc": "Jahmyr Gibbs and the Lions reached agreement on a three-year, $67.5 million deal that could be worth up to $75.75 million and includes $51.5 million guaranteed, agent Todd France told ESPN's Adam Schefter and NFL Network's Ian Rapoport."
     },
     {
-      "title": "INDYCAR Silly Season Tracker: Marcus Ericsson Signs Andretti Global Extension",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-silly-season-scott-dixon-felix-rosenqvist",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/marcus_ericsson_extension_indycar_news.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 9:07:28 PM",
-      "desc": "Some of the biggest names in INDYCAR — including a past champion — will be making moves after the 2026 season. Here's where things stand."
-    },
-    {
       "title": "Jets QB Geno Smith Tries Out Red Glare-Reducing Contacts At Training Camp",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/geno-smiths-red-sun-glaretackling-contacts-are-a-sight-to-see-at-jets-camp",
@@ -202,17 +210,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe27/live/6f332be0-91c7-11f1-8c3a-e79d623d823a.jpg",
       "published": "8/6/2026, 7:37:22 PM",
       "desc": "Micky van de Ven is close to agreeing a new five-year contract with Tottenham Hotspur."
-    },
-    {
-      "title": "Sources: Anthony Davis, Wizards table contract talks until season starts - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49547027/sources-anthony-davis-wizards-table-contract-talks-season-starts",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0416%2Fr1644796_1296x729_16%2D9.jpg",
-      "published": "8/6/2026, 7:31:34 PM",
-      "desc": "The Wizards and Anthony Davis' agent, Rich Paul, have decided to wait on talks for a potential extension until after the season starts, sources told ESPN."
     }
   ],
   "tech": [
+    {
+      "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Splatoon-Raiders-1.1.1-update.jpg",
+      "published": "8/7/2026, 12:41:07 AM",
+      "desc": "Splatoon Raiders gets its first post-launch update with version 1.1.1, and here are the patch notes from Nintendo."
+    },
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "published": "8/6/2026, 10:43:53 PM",
+      "desc": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event - theverge.com",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "published": "8/6/2026, 9:15:47 PM",
+      "desc": "Comedian Trevor Noah will host August 12th’s Made by Google event for Pixel hardware. Other celebrities like Alex Cooper and Stephen Curry will appear, too."
+    },
     {
       "title": "Destiny 2 Modder Bringing Back Old, Cut Locations And Fans Are So Happpy - Kotaku",
       "source": "Kotaku",
@@ -220,14 +244,6 @@
       "image": "https://kotaku.com/app/uploads/2026/08/destiny23.jpg",
       "published": "8/6/2026, 8:45:17 PM",
       "desc": "Soon you'll be able return to past memories once more"
-    },
-    {
-      "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielbTm6._hjo/v0/1200x800.jpg",
-      "published": "8/6/2026, 7:59:38 PM",
-      "desc": "A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality, and likely cost more than $300, according to people familiar with the matter."
     },
     {
       "title": "Why Normal People Aren’t Using AI Agents - WIRED",
@@ -238,44 +254,28 @@
       "desc": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do."
     },
     {
-      "title": "Tesla Rolls Out New Maps Update in North America - Not a Tesla App",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4548/tesla-rolls-out-new-maps-update-in-north-america",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/2025/navigation_bar_recommended_destinations.png/0bc4152320d0abb7d598d63fb8cb0f58/navigation_bar_recommended_destinations.jpg",
-      "published": "8/6/2026, 5:54:00 PM",
-      "desc": "The new map data package brings updated street layouts, revised speed limits, and points of interest across to Tesla vehicles across the continent"
+      "title": "Fading Echo coming to Switch 2 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/fading-echo-coming-to-switch-2",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Fading-Echo-Switch-2_08-06-26.jpg",
+      "published": "8/6/2026, 7:30:56 PM",
+      "desc": "Fast-paced desert punk action adventure game Fading Echo will launch for Switch 2 alongside its PlayStation 5 and Xbox Series versions in 2026, publisher New Tales and development subsidiary Emeter…"
     },
     {
-      "title": "5 Lawsuits Accusing PlayStation Of Being Anti-Competitive, Explained - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141",
-      "image": "https://kotaku.com/app/uploads/2026/08/playstation-1200x675.jpg",
-      "published": "8/6/2026, 5:44:00 PM",
-      "desc": "Here's how these anti-compete lawsuits are playing out"
+      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
+      "published": "8/6/2026, 6:20:32 PM",
+      "desc": "The anomaly originated at the main oxygen valve on one of the BE-4 engines.\""
     },
     {
-      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-      "published": "8/6/2026, 5:34:42 PM",
-      "desc": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
-      "title": "Google reveals who is hosting Pixel 11 launch event and other guests - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/06/pixel-11-launch-host/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/made-by-google-2024-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/6/2026, 5:31:00 PM",
-      "desc": "With Made by Google 2026 taking place in less than a week, the company today revealed who is hosting: Trevor Noah."
-    },
-    {
-      "title": "Square Enix teases Octopath Traveler 3, aware of high expectations for the game - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/square-enix-teases-octopath-traveler-3-aware-of-high-expectations-for-the-game/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Octopath-Traveler-3-2.jpg",
-      "published": "8/6/2026, 4:46:22 PM",
-      "desc": "Developers of the Octopath Traveler series all but confirmed Octopath Traveler 3 for the future in a new interview."
+      "title": "OpenAI and four rivals just agreed on one standard for AI agents - The Next Web",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.jpg",
+      "published": "8/6/2026, 6:12:25 PM",
+      "desc": "OpenAI, Amazon, Microsoft, Cursor and Vercel launched Agent Plugins, an open standard letting an agent extension run across ChatGPT, Copilot and more."
     }
   ],
   "education": [
@@ -439,12 +439,12 @@
     },
     {
       "rank": 13,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d7/b9/2fd7b90f-e0cd-33ed-e8c8-28664c39659c/054391210180.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/3b/1c/7f3b1c49-4a41-c04e-a230-bc840f788f8d/mzaf_14392854895313660868.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798881398?i=6798881399&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
       "rank": 14,
@@ -457,12 +457,12 @@
     },
     {
       "rank": 15,
-      "title": "This & That",
-      "artist": "Stray Kids",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/05/aa/c005aa79-a3a7-6e28-48e2-4c5e72eff603/8809928957357_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/f5/b8/8df5b8a3-fe55-d7c7-3fae-2204f3d0c3b2/mzaf_5363118532112498639.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/this-that/6781751949?i=6781751957&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Stray%20Kids%20This%20%26%20That"
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d7/b9/2fd7b90f-e0cd-33ed-e8c8-28664c39659c/054391210180.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/3b/1c/7f3b1c49-4a41-c04e-a230-bc840f788f8d/mzaf_14392854895313660868.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798881398?i=6798881399&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     }
   ],
   "movies": [
@@ -486,15 +486,6 @@
     },
     {
       "rank": 3,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 4,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -503,7 +494,25 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
+      "rank": 4,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
       "rank": 5,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -512,7 +521,16 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 8,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
@@ -542,12 +560,12 @@
     },
     {
       "rank": 3,
-      "title": "X-Men '97",
+      "title": "Batman: Caped Crusader",
       "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
+      "poster": "https://image.tmdb.org/t/p/w342/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "url": "https://www.themoviedb.org/tv/125909"
     }
   ]
 }
