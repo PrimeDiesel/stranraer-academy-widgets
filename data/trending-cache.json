@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:42:24.598Z",
+  "updated": "2026-08-08T09:38:57.050Z",
   "news": [
     {
       "title": "Trump again limits US birthright citizenship with new executive orders",
@@ -67,6 +67,14 @@
     }
   ],
   "sports": [
+    {
+      "title": "Footballer Ivan Toney charged with assault at Soho nightclub",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/cpw9nz7qwyqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1159/live/91037b10-9241-11f1-afba-01cbe043dea0.jpg",
+      "published": "8/7/2026, 9:37:20 AM",
+      "desc": "The 30-year-old former Brentford striker is due to appear in court next month."
+    },
     {
       "title": "Bruno Guimaraes: Jaissle not part of Newcastle captain's Arsenal decision",
       "source": "BBC Sport",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/deion.jpg?ve=1&tl=1",
       "published": "8/7/2026, 12:22:21 AM",
       "desc": "Deion “Coach Prime\" Sanders loves taking his Colorado Buffaloes to Fountain Fort Carson High School for workouts and bonding."
-    },
-    {
-      "title": "Mateo Kovačić Supports England&#39;s Elliot Anderson Joining Manchester City",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/its-a-great-signing-mateo-kovacic-backs-116m-new-boy-elliot-anderson-to-shine-at-manchester-city-soccer",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/eliot-anderson.jpg?ve=1&tl=1",
-      "published": "8/6/2026, 11:07:14 PM",
-      "desc": "Mateo Kovacic praises Manchester City’s record summer signing Elliot Anderson after high-profile move to Etihad Stadium."
     }
   ],
   "tech": [
@@ -220,6 +220,14 @@
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Wear-OS-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "8/7/2026, 3:10:00 AM",
       "desc": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency."
+    },
+    {
+      "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid",
+      "image": "https://images.axios.com/3EWLGC0rbJqIU0XVPJzNwxuwb8c=/0x56:3803x2195/1366x768/2026/08/06/1786034604750.jpeg",
+      "published": "8/7/2026, 1:38:52 AM",
+      "desc": "The upgrades will help both paid and free users."
     },
     {
       "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
@@ -268,14 +276,6 @@
       "image": "https://kotaku.com/app/uploads/2026/08/destiny23.jpg",
       "published": "8/6/2026, 8:45:17 PM",
       "desc": "Soon you'll be able return to past memories once more"
-    },
-    {
-      "title": "Fading Echo coming to Switch 2 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/08/fading-echo-coming-to-switch-2",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Fading-Echo-Switch-2_08-06-26.jpg",
-      "published": "8/6/2026, 7:30:56 PM",
-      "desc": "Fast-paced desert punk action adventure game Fading Echo will launch for Switch 2 alongside its PlayStation 5 and Xbox Series versions in 2026, publisher New Tales and development subsidiary Emeter…"
     }
   ],
   "education": [
@@ -522,12 +522,12 @@
     },
     {
       "rank": 7,
-      "title": "Toy Story 5",
+      "title": "Michael",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 8,
@@ -540,12 +540,12 @@
     },
     {
       "rank": 9,
-      "title": "Michael",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
