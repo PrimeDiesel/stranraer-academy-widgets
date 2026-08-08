@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-08T15:30:41.987Z",
+  "updated": "2026-08-08T16:34:43.716Z",
   "news": [
     {
-      "title": "Jared Leto: Campaigners call for concerts to be cancelled",
+      "title": "Appeals court halts Trump's ballroom project paving way for Supreme Court showdown",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n0ynygzno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc40/live/32d9cb60-924c-11f1-a6ce-afeee273b42e.jpg",
-      "published": "8/7/2026, 3:22:29 PM",
-      "desc": "The musician - who denies the claims - is due to perform with his band at two of the UK's biggest arenas next year."
+      "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fd7/live/be914890-9274-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/7/2026, 4:22:24 PM",
+      "desc": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said."
+    },
+    {
+      "title": "Lumo train services between London and Stirling running with no toilets",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lzy85ywdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66da/live/01c1dd60-9274-11f1-b7a2-c7c91f255a18.jpg",
+      "published": "8/7/2026, 4:07:29 PM",
+      "desc": "Services have been stopping for longer at stations to allow passengers to get off and use toilets on platforms."
     },
     {
       "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -42,14 +50,6 @@
       "desc": "Westminster Council is under fire as part of its plans to update a licensing policy. Why?"
     },
     {
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ce6/live/d3c457f0-925d-11f1-b9ff-37ae3aba3894.jpg",
-      "published": "8/7/2026, 12:52:21 PM",
-      "desc": "The incident raised questions about how a disrupted power supply can have such a widespread impact."
-    },
-    {
       "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o",
@@ -68,6 +68,38 @@
   ],
   "sports": [
     {
+      "title": "Bayern Munich 2-1 Aston Villa: Joao Gomes on target but Unai Emery's side lose friendly",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cp9e8l5e173t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52d7/live/2082b0d0-9279-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/7/2026, 4:22:24 PM",
+      "desc": "Luis Diaz scores the decisive goal as Aston Villa are beaten by Bayern Munich in their pre-season friendly in Hong Kong."
+    },
+    {
+      "title": "Last Night In Baseball: Red Sox Sweep The Season Series Against The White Sox",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/red-sox-white-sox-cubs-pete-crow-armstrong-ronald-acuna-braves",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/redsoxh1.jpg?ve=1&tl=1",
+      "published": "8/7/2026, 4:22:23 PM",
+      "desc": "The Red Sox swept the season series against the White Sox, the Cubs ran it off, Ronald Acuña Jr. got two homers with some help, Austin Hedges does his best Ohtani impression and more from Thursday's MLB action."
+    },
+    {
+      "title": "2026 MLB Odds: Will Yordan Alvarez Win The Triple Crown?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-will-yordan-alvarez-win-triple-crown",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/alvarez-87.jpg?ve=1&tl=1",
+      "published": "8/7/2026, 4:22:19 PM",
+      "desc": "Houston's superstar has a chance to make history at the plate. Will he do it? See the odds."
+    },
+    {
+      "title": "Barcelona friendly: Spanish champions cancel game in Morocco after Ceuta border crisis",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf08/live/bb6b9f90-9269-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/7/2026, 3:37:21 PM",
+      "desc": "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta."
+    },
+    {
       "title": "Chris &quot;The Bear&quot; Fallica&#39;s Best College Football Win, Win-Total Bets",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-best-college-football-win-win-total-bets",
@@ -84,12 +116,12 @@
       "desc": "Notable news, notes and buzz from MLB's 2026 season."
     },
     {
-      "title": "Martin O'Neill: Celtic boss out of hospital, but 'no timeline' for return",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx27gxl31zwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbb4/live/7b9d0c60-9268-11f1-b6ba-b1426aca59a9.jpg",
-      "published": "8/7/2026, 2:37:23 PM",
-      "desc": "Celtic assistant manager Shaun Maloney says there is \"no timeline\" for Martin O'Neill's return from the \"small procedure\" the boss underwent in hospital and the 74-year-old will \"make the call\" about whether he will be in the dugout for Sunday's trip to Kilma…"
+      "title": "OL Cole Hutson rejoins Texas after getting fifth year - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49553712/ol-cole-hutson-rejoins-texas-getting-fifth-year",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698808_1296x729_16%2D9.jpg",
+      "published": "8/7/2026, 3:15:43 PM",
+      "desc": "Offensive lineman Cole Hutson, following minicamp participation with the Browns and Cowboys, has returned to Texas after regaining a fifth year of eligibility."
     },
     {
       "title": "The Hundred 2026 results: Marcus Trescothick chat helped restore form - Jos Buttler",
@@ -148,22 +180,6 @@
       "desc": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer."
     },
     {
-      "title": "Myles Lewis-Skelly's push to be Arsenal's starting midfielder",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c15171py593o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36be/live/d0f7f380-9247-11f1-afba-01cbe043dea0.jpg",
-      "published": "8/7/2026, 10:37:27 AM",
-      "desc": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield."
-    },
-    {
-      "title": "David Sullivan expected to attend West Ham's EFL Cup tie v Portsmouth despite advice not to",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c36d8w5g080o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fc5/live/9b7aae30-9230-11f1-af4d-5164294a85c7.jpg",
-      "published": "8/7/2026, 10:37:20 AM",
-      "desc": "David Sullivan is expected to attend Saturday's EFL Cup first-round tie against Portsmouth despite being advised to stay away from home matches at the London Stadium."
-    },
-    {
       "title": "Footballer Ivan Toney charged with assault at Soho nightclub",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/news/articles/cpw9nz7qwyqo",
@@ -194,22 +210,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698610_1296x729_16%2D9.jpg",
       "published": "8/7/2026, 5:19:49 AM",
       "desc": "Carson Beck completed 15 of 19 passes for 188 yards and a touchdown for a quarterback rating of 125.4 in the Cardinals' 33-30 loss to the Panthers in the Hall of Fame Game."
-    },
-    {
-      "title": "Why Colin Cowherd Argues Jaxson Dart&#39;s &#39;Wow&#39; Moments Can Boost Giants",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/why-colin-cowherd-argues-jaxson-darts-wow-moments-can-boost-giants",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-2.jpg?ve=1&tl=1",
-      "published": "8/7/2026, 4:37:16 AM",
-      "desc": "Under new head coach John Harbaugh, quarterback Jaxson Dart and his 'wow' moments could be the answer to the New York Giants success this season."
-    },
-    {
-      "title": "Carson Beck, Haynes King Take Center Stage In Hall Of Fame Game",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/carson-beck-haynes-king-steal-spotlight-electric-hall-fame-game-debuts",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/cadinals.jpg?ve=1&tl=1",
-      "published": "8/7/2026, 4:37:13 AM",
-      "desc": "Rookie quarterbacks Carson Beck and Haynes King gave fans a Hall of Fame Game performance they won't soon forget."
     }
   ],
   "tech": [
@@ -543,6 +543,15 @@
     },
     {
       "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
       "title": "My Life with the Walter Boys",
       "year": "2023",
       "cert": "12",
