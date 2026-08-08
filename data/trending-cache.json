@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-08T11:29:32.317Z",
+  "updated": "2026-08-08T12:50:14.129Z",
   "news": [
+    {
+      "title": "Data breach investigation into Minnie Merriman's medical records",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/101e/live/90167790-90c3-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/7/2026, 12:07:26 PM",
+      "desc": "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath."
+    },
+    {
+      "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg",
+      "published": "8/7/2026, 12:07:22 PM",
+      "desc": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\"."
+    },
     {
       "title": "Girl, 11, found dead after major search launched at beauty spot",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/842a/live/f1a71fe0-9240-11f1-afba-01cbe043dea0.png",
       "published": "8/7/2026, 10:52:25 AM",
       "desc": "Emergency crews were called to Gore Water in Midlothian after the alarm was raised on Thursday afternoon."
-    },
-    {
-      "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4735/live/22c19430-9240-11f1-afba-01cbe043dea0.jpg",
-      "published": "8/7/2026, 10:22:28 AM",
-      "desc": "The student says she had to climb over a school fence to flee the shooting which killed five teachers."
     },
     {
       "title": "Guinness: 162-year-old bottle of stout found off the coast of Dover",
@@ -32,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1159/live/91037b10-9241-11f1-afba-01cbe043dea0.jpg",
       "published": "8/7/2026, 9:52:27 AM",
       "desc": "The 30-year-old former Brentford striker is due to appear in court next month."
-    },
-    {
-      "title": "Trump again limits US birthright citizenship with new executive orders",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "published": "8/7/2026, 7:37:24 AM",
-      "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
     },
     {
       "title": "Officer says he's 'appalled' PC Harper's killers could be released early",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Mohamed Salah: Why Liverpool legend chose Trabzonspor",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ab49/live/e97c1070-9171-11f1-8810-9d3a9a0bc00a.jpg",
+      "published": "8/7/2026, 12:22:23 PM",
+      "desc": "Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football."
+    },
+    {
+      "title": "Rodri: Man City open to selling midfielder for £60m",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/articles/clyj1rgdnpxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fd3/live/49335860-9240-11f1-afba-01cbe043dea0.jpg",
+      "published": "8/7/2026, 12:07:22 PM",
+      "desc": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain, sources have told BBC Sport."
+    },
     {
       "title": "Cristian Romero: Atletico Madrid hold talks over move for Tottenham captain",
       "source": "BBC Sport",
@@ -108,14 +124,6 @@
       "desc": "Which drivers could actually, seriously, catch Alex Palou in the INDYCAR championship race's final push?"
     },
     {
-      "title": "Bruno Guimaraes: Jaissle not part of Newcastle captain's Arsenal decision",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c62el1507p1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c6b5/live/1422c490-919a-11f1-a688-c53fce8a1b26.jpg",
-      "published": "8/7/2026, 8:52:23 AM",
-      "desc": "Newcastle United manager Matthias Jaissle says a decision about Bruno Guimaraes' future was \"already made\" by the time he first met the club's departing captain."
-    },
-    {
       "title": "Gianni Infantino: Mexico defies Concacaf to join Argentina in supporting Fifa president",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go",
@@ -138,14 +146,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/122c/live/c8dae170-91b2-11f1-9c12-47c0acd34ba6.jpg",
       "published": "8/7/2026, 6:37:25 AM",
       "desc": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years."
-    },
-    {
-      "title": "Who will exit Chelsea? How Blues could cut 41-man squad",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c0jle24ln68o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2acf/live/263ce210-91ad-11f1-9c12-47c0acd34ba6.jpg",
-      "published": "8/7/2026, 5:52:24 AM",
-      "desc": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?"
     },
     {
       "title": "Rookie QB Carson Beck delivers efficient debut for Cardinals - ESPN",
@@ -495,6 +495,15 @@
     },
     {
       "rank": 4,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 5,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -503,22 +512,13 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 6,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
     },
     {
       "rank": 7,
@@ -531,15 +531,6 @@
     },
     {
       "rank": 8,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 9,
       "title": "The Devil Wears Prada 2",
       "year": "2026",
       "cert": "12A",
@@ -557,6 +548,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "My Life with the Walter Boys",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
