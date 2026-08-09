@@ -1,29 +1,29 @@
 {
-  "generated": "2026-08-08T06:02:59.359Z",
-  "day": 219,
+  "generated": "2026-08-09T06:05:17.586Z",
+  "day": 220,
   "movie": {
-    "title": "Jingle All the Way",
+    "title": "Luca",
     "safe": true,
-    "cert": "PG",
+    "cert": "U",
     "source": "tmdb-uk",
-    "year": "1996",
-    "plot": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
-    "poster": "https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
+    "year": "2021",
+    "plot": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+    "poster": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "My Chemical Romance-Welcome to the Black Parade",
+    "key": "Lynyrd Skynyrd-Sweet Home Alabama",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/77/b6/c877b67f-969d-2ce2-5e4f-77a13595ba26/mzi.rksqjkbb.jpg/600x600bb.jpg",
-    "year": "2006",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/65/a4/e065a400-9d76-753f-e56d-4538de93ac05/06UMGIM01482.rgb.jpg/600x600bb.jpg",
+    "year": "1974",
     "v": 4
   },
   "album": {
-    "key": "Mazzy Star-So Tonight That I Might See",
+    "key": "Steely Dan-Aja",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
-    "year": "1993",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/3c/54/c23c5414-20d1-7aea-f0f5-187974c58d65/23UMGIM79990.rgb.jpg/600x600bb.jpg",
+    "year": "1977",
     "v": 4
   }
 }
