@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-09T06:57:56.076Z",
+  "updated": "2026-08-09T07:54:27.274Z",
   "news": [
+    {
+      "title": "This Olympian curbed his unhealthy porn habit - here are the signs and steps to recovery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89n8j5e32do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea09/live/c84ef840-927a-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/8/2026, 7:52:23 AM",
+      "desc": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help."
+    },
     {
       "title": "Digital cameras and wired earphones are back - and 'a bit more real'",
       "source": "BBC News",
@@ -56,32 +64,24 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
       "published": "8/7/2026, 8:52:21 PM",
       "desc": "No arrests were made at the time and the investigation was closed."
-    },
-    {
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/7/2026, 7:52:23 PM",
-      "desc": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
     }
   ],
   "sports": [
     {
-      "title": "Rodri: Man City reject Barcelona's opening bid for midfielder",
+      "title": "Carabao Cup: Goals galore - the most astonishing scorelines in competition's history",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/articles/clyj1rgdnpxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fd3/live/49335860-9240-11f1-afba-01cbe043dea0.jpg",
-      "published": "8/8/2026, 7:07:20 AM",
-      "desc": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5y02m99evro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b905/live/418aa430-9275-11f1-b7a2-c7c91f255a18.png",
+      "published": "8/8/2026, 7:37:21 AM",
+      "desc": "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season."
     },
     {
-      "title": "Premier League: Why do the world's best footballers move elsewhere?",
+      "title": "Barcelona friendly: Spanish champions cancel game in Morocco after Ceuta border crisis",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1688/live/dc961210-9244-11f1-afba-01cbe043dea0.jpg",
-      "published": "8/8/2026, 7:07:19 AM",
-      "desc": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?"
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf08/live/bb6b9f90-9269-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/8/2026, 7:22:21 AM",
+      "desc": "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta."
     },
     {
       "title": "LIV Golf New York: Round 2 Recap",
@@ -214,6 +214,14 @@
   ],
   "tech": [
     {
+      "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/08/08/heres-when-apple-will-reveal-its-iphone-18-pro-special-event-date/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68da390866f01d6a514d7a67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published": "8/8/2026, 8:11:00 AM",
+      "desc": "Apple’s next iPhones will go on sale in just over a month. But when should you start looking out for the confirmation of the special event? Here’s all you need to know."
+    },
+    {
       "title": "Onimusha: Way of the Sword gets first Nintendo Switch 2 gameplay - Nintendo Everything",
       "source": "Nintendoeverything.com",
       "url": "https://nintendoeverything.com/onimusha-way-of-the-sword-getsnintendo-switch-2-gameplay/",
@@ -222,12 +230,36 @@
       "desc": "First gameplay has emerged for the Nintendo Switch 2 version of Onimusha: Way of the Sword, which is launching very soon. Footage is available for both docked play and handheld mode. You can even get a quick look at the optional mouse controls Capcom is inclu…"
     },
     {
+      "title": "Madden NFL 27 Review So Far - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/madden-nfl-27-review",
+      "image": "https://assets-prd.ignimgs.com/2026/08/07/madden-27-blogroll-1786140251291.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/7/2026, 10:15:21 PM",
+      "desc": "The gridiron calls once again."
+    },
+    {
+      "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records",
+      "image": "https://assets-prd.ignimgs.com/2026/06/24/ultimate-edition-01-1782295792416.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/7/2026, 9:09:07 PM",
+      "desc": "Strauss Zelnick, boss of Rockstar parent company Take-Two, has defended the company’s decision not to release GTA 6 on a physical disc, insisting when it comes to big games, discs “don’t really make sense for the consumer.”"
+    },
+    {
       "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine - MacRumors",
       "source": "MacRumors",
       "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
       "image": "https://images.macrumors.com/t/grQ1yBVB7iuzgmqpZOucl49cL3w=/1600x/article-new/2026/08/dopamine.jpg",
       "published": "8/7/2026, 8:56:41 PM",
       "desc": "After 326 days, iOS 26 has received its first jailbreak, thanks to the developers behind the popular Dopamine jailbreak.  Lars Fröder, better known..."
+    },
+    {
+      "title": "Who Gets Left Behind In Sony’s All-Digital Future? - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/who-gets-left-behind-in-sonys-all-digital-future/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/4540889-9441912227-ps5-p.webp",
+      "published": "8/7/2026, 8:28:50 PM",
+      "desc": "We spoke to rural players, librarians, global gamers, and tournament organizers, and the consensus isn't what you'd expect."
     },
     {
       "title": "THQ Nordic Showcase 2026: New Worlds, New Stories, New Games, and New Discounts - XBOX Wire",
@@ -244,38 +276,6 @@
       "image": "https://images.macrumors.com/t/F2kYDFy67nzPowC2IcDGjq538es=/1600x/article-new/2026/08/AirPods-Ultra-Mock.jpg",
       "published": "8/7/2026, 7:06:12 PM",
       "desc": "According to various reports from sources such as Bloomberg's Mark Gurman and Macworld's Filipe Espósito, Apple is planning to release up to..."
-    },
-    {
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
-      "published": "8/7/2026, 6:00:02 PM",
-      "desc": "19 new maps continue the story from MachineGames' other campaign additions."
-    },
-    {
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "8/7/2026, 5:43:34 PM",
-      "desc": "Microsoft Edge is ending support for Manifest V2 extensions like uBlock Origin starting this month."
-    },
-    {
-      "title": "A new survey shows the scale of Xbox's fall vs. PlayStation — and the scale of Asha Sharma's opportunity - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/a-new-survey-shows-the-scale-of-xboxs-fall-vs-playstation-and-the-scale-of-asha-sharmas-opportunity",
-      "image": "https://cdn.mos.cms.futurecdn.net/wXFyRSiA67dhPCATysihrf-2560-80.jpg",
-      "published": "8/7/2026, 5:42:49 PM",
-      "desc": "New data from Statista Research shows how much Xbox has fallen against PlayStation in the U.S., but also the scale of the opportunity."
-    },
-    {
-      "title": "iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID - appleinsider.com",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id",
-      "image": "https://media.appleinsider.com/gallery/68445-144289-68124-143594-67400-141876-iphone18procolorarray-xl-xl-(1)-xl.jpg",
-      "published": "8/7/2026, 5:16:00 PM",
-      "desc": "Apple's iPhone 18 Pro is right around the corner, and the rumor mill started earlier than normal. Here's what you need to know."
     }
   ],
   "education": [
@@ -557,6 +557,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "My Life with the Walter Boys",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
