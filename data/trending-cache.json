@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-09T07:54:27.274Z",
+  "updated": "2026-08-09T08:44:19.463Z",
   "news": [
+    {
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
+      "published": "8/8/2026, 8:22:25 AM",
+      "desc": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
+    },
+    {
+      "title": "Bristol Airport disruption a 'shambles' as flights restart",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1lyg94w9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/343e/live/88137d90-92e9-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/8/2026, 8:07:21 AM",
+      "desc": "Flights are restarting with delays and diversions after 14 hours of cancellations."
+    },
     {
       "title": "This Olympian curbed his unhealthy porn habit - here are the signs and steps to recovery",
       "source": "BBC News",
@@ -18,14 +34,6 @@
       "desc": "We're surrounded by more advanced tech in 2026, so why are young people going back to basics?"
     },
     {
-      "title": "The phone book that led us to Assad's spy chief in hiding",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
-      "published": "8/8/2026, 6:52:19 AM",
-      "desc": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
-    },
-    {
       "title": "Full body MOTs - the future of healthcare or a headache for the NHS?",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko",
@@ -40,14 +48,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f81/live/c4f72410-9261-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "8/8/2026, 1:22:19 AM",
       "desc": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak."
-    },
-    {
-      "title": "Gianni Infantino denies claims Uefa paid off alleged 'lover'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aba1/live/af50b570-92a4-11f1-adf3-d72106e899cc.jpg",
-      "published": "8/7/2026, 11:37:22 PM",
-      "desc": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation."
     },
     {
       "title": "Hunter Biden says pardon was 'not good' for America or his father's legacy",
@@ -495,15 +495,6 @@
     },
     {
       "rank": 4,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 5,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
@@ -512,7 +503,7 @@
       "url": "https://www.themoviedb.org/movie/980431"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -521,13 +512,22 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
       "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 7,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     },
     {
       "rank": 8,
@@ -537,6 +537,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 9,
+      "title": "THE RIBBON HERO",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
+    },
+    {
+      "rank": 10,
+      "title": "The Devil Wears Prada 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "url": "https://www.themoviedb.org/movie/1314481"
     }
   ],
   "tv": [
