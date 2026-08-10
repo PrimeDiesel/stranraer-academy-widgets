@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-10T19:55:36.078Z",
+  "updated": "2026-08-10T20:43:12.663Z",
   "news": [
+    {
+      "title": "Hot weather reveals hidden history across the South",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8en5p2r3w5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01f1/live/e9ba4ee0-9256-11f1-b4dc-f3d0b9f07ec5.jpg",
+      "published": "8/9/2026, 8:52:23 PM",
+      "desc": "The hot summer reveals parch marks from centuries old structures at sites including Blenheim Palace."
+    },
+    {
+      "title": "Harry Potter fans force power link diversion to avoid Dobby's grave",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42db/live/874ab0d0-9411-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/9/2026, 8:37:20 PM",
+      "desc": "Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview."
+    },
     {
       "title": "Drones spotted over German base days after Leipzig bomb incident",
       "source": "BBC News",
@@ -8,22 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
       "published": "8/9/2026, 5:07:27 PM",
       "desc": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
-    },
-    {
-      "title": "Hot weather reveals hidden history across the South",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8en5p2r3w5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01f1/live/e9ba4ee0-9256-11f1-b4dc-f3d0b9f07ec5.jpg",
-      "published": "8/9/2026, 4:07:31 PM",
-      "desc": "The hot summer reveals parch marks from centuries old structures at sites including Blenheim Palace."
-    },
-    {
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
-      "published": "8/9/2026, 4:07:28 PM",
-      "desc": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
     },
     {
       "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
@@ -67,6 +67,14 @@
     }
   ],
   "sports": [
+    {
+      "title": "OnlyBulls IndyCar Grand Prix of Portland Live Updates, Results:",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/motor/onlybulls-indycar-grand-prix-portland-live-updates-results",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar-live-blog.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 8:22:23 PM",
+      "desc": "Follow along for live updates of INDYCar's OnlyBulls Grand Prix of Portland."
+    },
     {
       "title": "Chelsea pre-season: What we learned about Xabi Alonso's side during their summer tour",
       "source": "BBC Sport",
@@ -202,14 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b234/live/13b36eb0-9410-11f1-bc11-d9696db7ebba.jpg",
       "published": "8/9/2026, 4:52:20 PM",
       "desc": "Mikel Arteta said the signing of Bruno Guimaraes will help Arsenal go to the \"next level\" and hints that the Gunners are not done with their summer transfer activity."
-    },
-    {
-      "title": "Saints' Dillon Radunz out for season because of torn ACL - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49568453/saints-dillon-radunz-season-torn-acl",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699556_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 4:43:25 PM",
-      "desc": "Saints guard Dillon Radunz is out for the season with a torn ACL."
     }
   ],
   "tech": [
