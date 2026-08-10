@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T22:38:11.036Z",
+  "updated": "2026-08-10T23:36:06.017Z",
   "news": [
+    {
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f17/live/97f8e9d0-9446-11f1-a1a8-4d53418920cd.jpg",
+      "published": "8/9/2026, 11:22:13 PM",
+      "desc": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs."
+    },
     {
       "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
       "source": "BBC News",
@@ -56,23 +64,23 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af04/live/d5346d20-93e6-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "8/9/2026, 12:52:23 PM",
       "desc": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
-    },
-    {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
-      "published": "8/9/2026, 12:22:15 PM",
-      "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
     }
   ],
   "sports": [
     {
-      "title": "OnlyBulls IndyCar Grand Prix of Portland Live Updates, Results: Wheel-To-Wheel Action Taking Place",
+      "title": "Jose Mourinho agreed to replace Sir Alex Ferguson at Man Utd in 2013",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr7kldj1583o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d39f/live/c0bbd8b0-91cf-11f1-abbf-613e9d231927.jpg",
+      "published": "8/9/2026, 11:22:17 PM",
+      "desc": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary."
+    },
+    {
+      "title": "OnlyBulls IndyCar Grand Prix of Portland Live Updates, Results: Final Race Results",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/motor/onlybulls-indycar-grand-prix-portland-live-updates-results-wheel-to-wheel-action-taking-place",
+      "url": "https://www.foxsports.com/live-blog/motor/onlybulls-indycar-grand-prix-portland-live-updates-results-final-race-results",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar-live-blog.jpg?ve=1&tl=1",
-      "published": "8/9/2026, 10:37:20 PM",
+      "published": "8/9/2026, 11:07:21 PM",
       "desc": "Follow along for live updates of INDYCar's OnlyBulls Grand Prix of Portland."
     },
     {
@@ -98,14 +106,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699719_1296x729_16%2D9.jpg",
       "published": "8/9/2026, 10:34:29 PM",
       "desc": "Athletics shortstop Jacob Wilson, 24, set an MLB record for his position on Sunday at Fenway Park, playing his 111th consecutive errorless game, surpassing former Baltimore Orioles infielder Mike Bordick, who authored a 110-game stretch in 2002."
-    },
-    {
-      "title": "Lionel Messi misses Inter Miami defeat after death of father",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/023e/live/4e91ed30-93c6-11f1-8b64-d7ef958ad168.jpg",
-      "published": "8/9/2026, 10:07:20 PM",
-      "desc": "Lionel Messi misses Inter Miami's Leagues Cup defeat by Monterrey on Saturday night after the death of his father."
     },
     {
       "title": "LIV Golf New York: Joaquin Niemann wins as Jon Rahm secures season title",
@@ -214,6 +214,14 @@
   ],
   "tech": [
     {
+      "title": "Sony Will Remain Mum On PlayStation Disc Making Process - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
+      "image": "https://kotaku.com/app/uploads/2026/08/sonycdsecrets-976x675.jpg",
+      "published": "8/9/2026, 8:51:08 PM",
+      "desc": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate future"
+    },
+    {
       "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
       "source": "Android Central",
       "url": "https://www.androidcentral.com/phones/live/made-by-google-2026-launch-live-pixel-11-pixel-11-pro-fold-pixel-watch-5-gemini-and-all-the-news",
@@ -238,44 +246,28 @@
       "desc": "Your GeForce NOW session may be hiding more than you think. A modder has demonstrated a way to access the Windows desktop underneath"
     },
     {
-      "title": "Steam Deck can now do something Sony usually charges £200 for thanks to this new cloud-streaming app - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
-      "image": "https://assetsio.gnwcdn.com/release-asobi-remote-play-for-steam-deck-machine-linux-is-v0-mtu29gka8zhh1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/9/2026, 4:16:25 PM",
-      "desc": "A new cloud-streaming app that lets players stream PlayStation games to their Steam Deck and Steam Machine without a PS5 has just opened a playtest."
+      "title": "I used Gemini to plan and budget my vacation; I'm never doing it any other way - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/gemini-vacation-planning-budget/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/gemini-prompt-for-vacation-planning-shown-above-travel-and-budget-items.png?w=1600&h=900&fit=crop",
+      "published": "8/9/2026, 5:30:16 PM",
+      "desc": "I no longer plan short trips extensively"
     },
     {
-      "title": "Amazon’s $86 2-in-1 laptop and tablet has fully-integrated AI features - thestreet.com",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/shopping/aiprotablet-10-inch-android-16-tablet-amazon",
-      "image": "",
-      "published": "8/9/2026, 4:15:00 PM",
-      "desc": ""
+      "title": "The Chinese Smart Glasses Proving That Smart Glasses Can Be Repairable - Hackaday",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2026/08/09/the-chinese-smart-glasses-proving-that-smart-glasses-can-be-repairable/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/08/rokid_smart_glasses_teardown_ifixit_youtube.jpg",
+      "published": "8/9/2026, 5:00:00 PM",
+      "desc": "It’s often claimed that wearable devices cannot have user-replaceable batteries or even be serviceable at all due to how compact and waterproof they must be, yet there are plenty of examples …"
     },
     {
-      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
-      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "published": "8/9/2026, 3:55:37 PM",
-      "desc": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg's Mark..."
-    },
-    {
-      "title": "This Battlefield 6 player somehow got a full refund with 470 hours on the clock - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
-      "image": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/9/2026, 3:28:46 PM",
-      "desc": "A Battlefield 6 player \"upset\" at the removal of the popular Rush mode claims to have secured a full refund from Steam despite having clocked up 470 hours."
-    },
-    {
-      "title": "Bride cautions others before wedding day about risky beauty treatments: 'Pain wasn't worth it' - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/health/bride-cautions-others-before-wedding-day-risky-beauty-treatments-pain-wasnt-worth-it",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/polly-bibby-eye-reaction.jpg",
-      "published": "8/9/2026, 3:05:40 PM",
-      "desc": "A young bride's eyes swelled shut with yellow discharge hours after getting eyelash extensions for her wedding — landing her in a hospital emergency room."
+      "title": "These 20+ Games Are Coming To Xbox Next Week (August 10-14) - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-august-10-14",
+      "image": "https://images.purexbox.com/6f28080c279d0/large.jpg",
+      "published": "8/9/2026, 4:46:00 PM",
+      "desc": "Including multiple new Game Pass titles"
     }
   ],
   "education": [
@@ -448,21 +440,21 @@
     },
     {
       "rank": 14,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 15,
       "title": "Jamaican (Bam Bam)",
       "artist": "HUGEL & SOLTO (FR)",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+    },
+    {
+      "rank": 15,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     }
   ],
   "movies": [
@@ -522,15 +514,6 @@
     },
     {
       "rank": 7,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -539,22 +522,31 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 9,
-      "title": "Moana",
+      "rank": 8,
+      "title": "THE RIBBON HERO",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 10,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
