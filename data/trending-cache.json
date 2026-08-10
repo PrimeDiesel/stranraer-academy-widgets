@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T13:10:12.647Z",
+  "updated": "2026-08-10T14:59:43.783Z",
   "news": [
+    {
+      "title": "Bristol artist Banksy's works cost taxpayers nearly £150k",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b09/live/88e263b0-8e72-11f1-98c2-039438173617.jpg",
+      "published": "8/9/2026, 2:52:25 PM",
+      "desc": "FOI requests reveal Banksy artworks have cost taxpayers almost £150,000, with costs still rising."
+    },
     {
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai."
     },
     {
-      "title": "'Minion Man' paints over obscene graffiti on Salford estate",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwr78yxro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b39/live/8d307d80-8cc4-11f1-97f5-93fc85ee9dc4.jpg",
-      "published": "8/9/2026, 7:52:22 AM",
-      "desc": "Martin Withers earned his nickname after painting bollards to look like the famous yellow Minions."
-    },
-    {
       "title": "Zainab Jiwa: My viral moment with Zendaya at The Odyssey premiere",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo",
@@ -68,20 +68,60 @@
   ],
   "sports": [
     {
-      "title": "Louis Page: Manchester United working on deal to sign Leicester teenager",
+      "title": "Kilmarnock 1-5 Celtic: Kasper Hogh scores hat-trick in Scottish Premiership win",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4986/live/c759ac60-93e6-11f1-8231-7d4e2048054e.jpg",
-      "published": "8/9/2026, 1:07:20 PM",
-      "desc": "Manchester United are working on a deal to sign Leicester teenager Louis Page."
+      "url": "http://www.bbc.co.uk/sport/football/live/cwj03el5943nt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/9/2026, 3:07:37 PM",
+      "desc": "Kasper Hogh scores his first Celtic goals as his hat-trick secures a thumping win away to Kilmarnock in the Scottish Premiership."
     },
     {
-      "title": "Celtic's Martin O'Neill misses Kilmarnock match after hospital stay",
+      "title": "EFL Cup first round LIVE: Mansfield Town vs Sheffield United - text commentary, score updates, match stats & head-to-head",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czrj01k81mxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/381d/live/36784cc0-93ea-11f1-8231-7d4e2048054e.jpg",
-      "published": "8/9/2026, 12:52:22 PM",
-      "desc": "Celtic's Martin O'Neill misses Kilmarnock match after hospital stay"
+      "url": "http://www.bbc.co.uk/sport/football/live/ck9q91z80g8et",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dff7/live/f5e43d50-9401-11f1-a10f-45ed743c6e4b.jpg",
+      "published": "8/9/2026, 3:07:30 PM",
+      "desc": "Follow live text commentary, score updates and match stats as Mansfield Town take on Sheffield United in the first round of the EFL Cup."
+    },
+    {
+      "title": "Johor Darul Ta'zim 3-3 Chelsea: Liam Delap scores twice in pre-season draw",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6rrveygzr58t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5cef/live/4d95f4a0-9400-11f1-a10f-45ed743c6e4b.jpg",
+      "published": "8/9/2026, 3:07:26 PM",
+      "desc": "Liam Delap scores his first Chelsea goals since January as Xabi Alonso's side draw with Johor Darul Ta'zim in the final match of their pre-season tour."
+    },
+    {
+      "title": "Brazilian side Coritiba wear shirts with name of English fan who has MND",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce04/live/dc9ad040-93f5-11f1-a10f-45ed743c6e4b.png",
+      "published": "8/9/2026, 2:52:24 PM",
+      "desc": "Brazilian top flight club Coritiba wear the name of an English fan from Norwich on their shirts to raise awareness of motor neurone disease."
+    },
+    {
+      "title": "Shea Charles: Fulham agree £30m fee for Southampton midfielder",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/906c/live/4ef88fb0-93f1-11f1-bd38-f1deaeb1a5de.jpg",
+      "published": "8/9/2026, 2:22:26 PM",
+      "desc": "Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical."
+    },
+    {
+      "title": "Manchester City vs Atletico Madrid: Club Friendlies stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cwlyj93m832jt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/71d3/live/bc2d5a10-93f7-11f1-a10f-45ed743c6e4b.jpg",
+      "published": "8/9/2026, 2:22:21 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester City vs Atletico Madrid in the Club Friendlies"
+    },
+    {
+      "title": "Panthers sign Kyle Trask as QB3 after Haynes King injury - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49567742/panthers-sign-kyle-trask-qb3-haynes-king-injury",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0807%2Fr1207621_1296x729_16%2D9.jpg",
+      "published": "8/9/2026, 2:19:08 PM",
+      "desc": "The Panthers signed Kyle Trask as a third quarterback on Sunday with Hall of Fame game hero Haynes King expected to miss time with a hamstring injury."
     },
     {
       "title": "Scottish Premiership LIVE: Kilmarnock v Celtic, Rangers v Hibernian, Hearts v Dundee United & Motherwell v Falkirk",
@@ -114,30 +154,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42fa/live/5a7f1660-9324-11f1-be7f-7379a19ef5b2.jpg",
       "published": "8/9/2026, 8:22:16 AM",
       "desc": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?"
-    },
-    {
-      "title": "Best new kits 2026-27 - vote for your top 10",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4g630klknjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bdfe/live/50e65800-90a6-11f1-b8ee-9b3c26ad07bb.png",
-      "published": "8/9/2026, 7:37:23 AM",
-      "desc": "BBC Sport have rounded up some of the best new kits released by clubs around the world over the summer - vote for your top 10"
-    },
-    {
-      "title": "Trent Alexander-Arnold: Will Real Madrid career be revived by Jose Mourinho?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/746c/live/6fd77660-9270-11f1-be40-e93959facbbc.jpg",
-      "published": "8/9/2026, 6:07:19 AM",
-      "desc": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho."
-    },
-    {
-      "title": "Dodgers snap seven-game skid, defeat Diamondbacks in 10 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49565652/dodgers-snap-seven-game-skid-defeat-diamondbacks-10",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699425_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 4:36:43 AM",
-      "desc": "It took 10 innings, but the first-place Los Angeles Dodgers snapped a seven-game losing streak Saturday night at Chase Field, outlasting the Arizona Diamondbacks 2-1 in a game that saw Kyle Tucker hit a solo homer to break a scoreless tie in the eighth."
     },
     {
       "title": "Jobe returns from Tommy John surgery, leads Tigers to win - ESPN",
@@ -194,14 +210,6 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0808%2Fr1699197_1296x729_16%2D9.jpg",
       "published": "8/8/2026, 9:01:09 PM",
       "desc": "Sky's DiJonai Carrington was assessed a Flagrant 2 and ejected after a hard foul across the face and neck area of Indiana Fever guard Sophie Cunningham during the first quarter of Saturday afternoon's game"
-    },
-    {
-      "title": "Brees, Fitzgerald, Kuechly enter Pro Football Hall of Fame - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49562701/brees-fitzgerald-kuechly-enter-pro-football-hall-fame",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0808%2Fr1699214_1024x576_16%2D9.jpg",
-      "published": "8/8/2026, 7:54:55 PM",
-      "desc": "Drew Brees, Larry Fitzgerald and Luke Kuechly were among those inducted into the Pro Football Hall of Fame on Saturday."
     }
   ],
   "tech": [
@@ -368,21 +376,21 @@
     },
     {
       "rank": 6,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 7,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 7,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 8,
@@ -395,21 +403,21 @@
     },
     {
       "rank": 9,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 10,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 10,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 11,
@@ -422,15 +430,6 @@
     },
     {
       "rank": 12,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 13,
       "title": "RESCUER",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
@@ -439,7 +438,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
@@ -448,13 +447,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
+      "rank": 14,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
+    },
+    {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     }
   ],
   "movies": [
@@ -469,15 +477,6 @@
     },
     {
       "rank": 2,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 3,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -486,34 +485,7 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 4,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 5,
-      "title": "Avatar Aang: The Last Airbender",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
-    },
-    {
-      "rank": 6,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -522,13 +494,58 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 5,
+      "title": "THE RIBBON HERO",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
+    },
+    {
+      "rank": 6,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 7,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 8,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 9,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     }
   ],
   "tv": [
@@ -543,15 +560,6 @@
     },
     {
       "rank": 2,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 3,
       "title": "My Life with the Walter Boys",
       "year": "2023",
       "cert": "12",
