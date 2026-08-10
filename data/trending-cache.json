@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-09T23:32:25.880Z",
+  "updated": "2026-08-10T01:53:08.214Z",
   "news": [
+    {
+      "title": "Bristol artist Banksy's works cost taxpayers nearly £150k",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b09/live/88e263b0-8e72-11f1-98c2-039438173617.jpg",
+      "published": "8/9/2026, 1:22:25 AM",
+      "desc": "FOI requests reveal Banksy artworks have cost taxpayers almost £150,000, with costs still rising."
+    },
+    {
+      "title": "EastEnders' Kellie Bright to leave after 13 years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre40875r9vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f457/live/cb829300-938d-11f1-b788-9fbad6065b57.jpg",
+      "published": "8/9/2026, 1:22:24 AM",
+      "desc": "The former Old Vic landlady Linda Carter is set to leave Walford."
+    },
+    {
+      "title": "Zainab Jiwa: My viral moment with Zendaya at The Odyssey premiere",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d83/live/def80170-9245-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/9/2026, 1:07:23 AM",
+      "desc": "TikTok creator Zainab Jiwa seems to be giving Hollywood A-listers on the red carpet a run for their money."
+    },
+    {
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/9/2026, 12:52:21 AM",
+      "desc": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
+    },
+    {
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "8/9/2026, 12:37:21 AM",
+      "desc": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+    },
     {
       "title": "Why PC Andrew Harper's death touched so many",
       "source": "BBC News",
@@ -24,49 +64,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0be/live/6ec0ba10-937f-11f1-a7ab-8b30adf0800a.jpg",
       "published": "8/8/2026, 11:37:21 PM",
       "desc": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\"."
-    },
-    {
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
-      "published": "8/8/2026, 8:07:18 PM",
-      "desc": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
-    },
-    {
-      "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a4b/live/113aaac0-9345-11f1-a35f-039358cea467.jpg",
-      "published": "8/8/2026, 5:37:22 PM",
-      "desc": "The former first minister also told a podcast she would not visit her estranged husband in prison."
-    },
-    {
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f06/live/529a9080-933f-11f1-a35f-039358cea467.jpg",
-      "published": "8/8/2026, 4:52:22 PM",
-      "desc": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
-    },
-    {
-      "title": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d36d/live/3e8a07c0-930c-11f1-a52f-31e1c3a4e20b.jpg",
-      "published": "8/8/2026, 10:52:18 AM",
-      "desc": "The professional dancers, who married in 2003, both spent several series on the BBC programme."
-    },
-    {
-      "title": "Digital cameras and wired earphones are back - and 'a bit more real'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly599xlllyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b730/live/951cf6c0-9248-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/8/2026, 7:07:19 AM",
-      "desc": "We're surrounded by more advanced tech in 2026, so why are young people going back to basics?"
     }
   ],
   "sports": [
+    {
+      "title": "5 Takeaways From The 2026 Pro Football Hall Of Fame Ceremony",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-pro-football-hall-fame-ceremony-drew-brees-larry-fitzgerald",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/ufl-16x9-2.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 1:22:24 AM",
+      "desc": "Here's what to know from the 2026 Pro Football Hall of Fame class, which was inducted in Canton on Saturday."
+    },
+    {
+      "title": "Commanders Tackle Laremy Tunsil To Miss &#39;Significant&#39; Time With Tricep Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/commanders-tackle-laremy-tunsil-miss-significant-time-tricep-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/tunsil_horizomntal-1.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 1:22:19 AM",
+      "desc": "Washington Commanders tackle Laremy Tunsil sustained a tricep injury at Saturday's practice that could sideline him for an extended period of time."
+    },
+    {
+      "title": "Joaquin Niemann Continues To Lead At LIV Golf New York",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/golf/joaquin-niemann-continues-lead-liv-golf-new-york",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/jn_horiz.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 1:22:16 AM",
+      "desc": "Joaquin Niemann and Torque GC held their lead after Round 3 at LIV Golf New York."
+    },
+    {
+      "title": "Athletics end Red Sox's bid for second 10-game win streak - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49564412/athletics-end-red-sox-bid-second-10-game-win-streak",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699367_2_1024x576_16%2D9.jpg",
+      "published": "8/9/2026, 1:00:48 AM",
+      "desc": "The Boston Red Sox failed in their bid for a second winning streak of 10 or more games in the same season, losing to the Athletics 7-3 on Saturday."
+    },
+    {
+      "title": "Sources: Commanders LT Laremy Tunsil suffers torn triceps - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49564238/commanders-lt-laremy-tunsil-suffers-torn-triceps",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699334_1296x729_16%2D9.jpg",
+      "published": "8/9/2026, 12:30:53 AM",
+      "desc": "Washington Commanders left tackle Laremy Tunsil suffered a torn triceps in practice, will likely require surgery and will miss at least a significant portion of the regular season, a source told NFL Network's Mike Garafolo and Steve Wyche on Saturday."
+    },
+    {
+      "title": "Matthias Jaissle: Newcastle start with friendly win under new manager",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c3049pl53yyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e07d/live/ac76f160-937c-11f1-aa7e-95eea9450f67.jpg",
+      "published": "8/8/2026, 11:52:20 PM",
+      "desc": "It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away."
+    },
     {
       "title": "Lionel Messi misses Inter Miami game after father's death - ESPN",
       "source": "ESPN",
@@ -92,22 +140,6 @@
       "desc": "Callum Simpson reclaims the British and Commonwealth super-middleweight titles as he earns a unanimous decision in his rematch with Troy Williamson."
     },
     {
-      "title": "Fever's Clark gets 8th tech after bumping ref, faces 1-game ban - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49563703/fever-clark-gets-8th-tech-bumping-ref-faces-1-game-ban",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0808%2Fr1699302_1296x729_16%2D9.jpg",
-      "published": "8/8/2026, 10:45:03 PM",
-      "desc": "Fever star Caitlin Clark was hopeful the league would rescind her eighth technical foul of the season, which would trigger an automatic one-game suspension."
-    },
-    {
-      "title": "Valencia 1-2 Newcastle: How players rated in Matthias Jaissle's first friendly",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gk75keg1lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/279b/live/39d944c0-936b-11f1-9e56-57116c7a4d90.jpg",
-      "published": "8/8/2026, 9:22:18 PM",
-      "desc": "Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?"
-    },
-    {
       "title": "Sky's Carrington tossed after hard foul on Fever's Cunningham - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49563141/sky-carrington-tossed-hard-foul-fever-cunningham",
@@ -124,14 +156,6 @@
       "desc": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more."
     },
     {
-      "title": "Kyle Shanahan nears full strength, plans to coach preseason opener - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49562792/kyle-shanahan-nears-full-strength-plans-coach-preseason-opener",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0116%2Fr1601546_1296x729_16%2D9.jpg",
-      "published": "8/8/2026, 8:07:35 PM",
-      "desc": "Kyle Shanahan intends to coach the 49ers' preseason opener against the Titans as he closes in on full recovery from last month's car crash."
-    },
-    {
       "title": "Brees, Fitzgerald, Kuechly enter Pro Football Hall of Fame - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49562701/brees-fitzgerald-kuechly-enter-pro-football-hall-fame",
@@ -146,14 +170,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0107%2Fr798846_1296x729_16%2D9.jpg",
       "published": "8/8/2026, 7:53:22 PM",
       "desc": "Tommy John, the namesake for the elbow surgery of many top MLB players, did not attend the Yankees' Old-Timer's Day as he shared a vague message about his health."
-    },
-    {
-      "title": "Ohio State lands top pocket passer in 2028 class Vargas - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49562580/ohio-state-lands-top-pocket-passer-2028-class-vargas",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
-      "published": "8/8/2026, 7:42:43 PM",
-      "desc": "Four-star quarterback Christopher Vargas, the top-ranked pocket passer in the 2028 cycle, committed to Ohio State on Saturday."
     },
     {
       "title": "Youri Tielemans: Man Utd mifielder impresses on debut against PSG",
@@ -194,33 +210,9 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/273d2064-messi1.jpg?ve=1&tl=1",
       "published": "8/8/2026, 6:37:26 PM",
       "desc": "Jorge Messi, the father of soccer superstar and Argentina captain Lionel Messi, has died."
-    },
-    {
-      "title": "Tour de France Femmes: Demi Vollering wins stage eight to take lead for final day",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/cvg8jedd8x1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1efd/live/7395aa40-9349-11f1-a35f-039358cea467.jpg",
-      "published": "8/8/2026, 5:37:22 PM",
-      "desc": "Demi Vollering races clear to win stage eight of the Tour de France Femmes and snatch the leader's yellow jersey with just one stage remaining."
-    },
-    {
-      "title": "Eagles Star Tackle Lane Johnson: This Is &#39;Probably&#39; My Last Season",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/lane-johnson-future-eagles-2026-season",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/lane2.jpg?ve=1&tl=1",
-      "published": "8/8/2026, 5:22:20 PM",
-      "desc": "Philadelphia Eagles star right tackle Lane Johnson said the 2026 NFL season will \"potentially\" be his last in the sport."
     }
   ],
   "tech": [
-    {
-      "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
-      "image": "https://assets-prd.ignimgs.com/2026/06/30/ss-11a281028fce729b2ee4ac1dba64c652bcb4c07e-1920x1080-1782779581025.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/8/2026, 8:06:50 PM",
-      "desc": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\""
-    },
     {
       "title": "Why you should buy iPhone 17 Pro now instead of waiting - 9to5mac.com",
       "source": "9to5Mac",
@@ -238,28 +230,12 @@
       "desc": "A trip into Canada has turned up an extraordinary piece of Mopar history: a 1970 Plymouth GTX equipped with the 440 Six Barrel V8, a four-speed manual, and a..."
     },
     {
-      "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/804106/2027-dodge-charger-super-bee-sixpack-engine-specs-details/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzGOB/s1/2027-dodge-charger-super-bee-launch-edition-front-3-4.jpg",
-      "published": "8/8/2026, 4:33:15 PM",
-      "desc": "The 2027 Dodge Super Bee is the most powerful Charger Sixpack yet with a revised twin-turbocharged engine and significant cooling upgrades. Here are the performance details."
-    },
-    {
       "title": "Pixel 11 Pro XL shows up in hands-on leak days ahead of launch [Gallery] - 9to5Google",
       "source": "9to5google.com",
       "url": "http://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-matte-black-leak-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "8/8/2026, 4:15:00 PM",
       "desc": "With just a few days left to go before Google’s Pixel 11 launch event, a hands-on leak has shown off..."
-    },
-    {
-      "title": "5 Streaming Devices Cheaper Than The Roku Ultra (After The Price Hike) - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2228651/streaming-devices-cheaper-roku-ultra-price-hike/",
-      "image": "https://www.bgr.com/img/gallery/5-streaming-devices-cheaper-than-the-roku-ultra-after-the-price-hike/l-intro-1785443652.jpg",
-      "published": "8/8/2026, 3:47:00 PM",
-      "desc": "Streaming devices that serve as worthwhile alternatives to the Roku Ultra but don't cost as much include TiVo Stream 4K Onn 4K Plus, and Roku Stream Stick 4K."
     },
     {
       "title": "Why You Should Think Twice Before Buying That '10,000 Lumen' Flashlight - SlashGear",
@@ -276,6 +252,30 @@
       "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/08/the-unbearable-weight-of-massive-talent-psycho-4k-blu-ray.jpg?w=1600&h=900&fit=crop",
       "published": "8/8/2026, 3:00:12 PM",
       "desc": "There will be need to worry about upgrading those collections"
+    },
+    {
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+      "published": "8/8/2026, 3:00:00 PM",
+      "desc": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames."
+    },
+    {
+      "title": "Talking Point: Xbox Is Getting Its Own Platinum Trophy, But What Will Make It Different? - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/08/talking-point-xbox-is-getting-its-own-platinum-trophy-but-what-will-make-it-different",
+      "image": "https://images.purexbox.com/2726123b00399/large.jpg",
+      "published": "8/8/2026, 3:00:00 PM",
+      "desc": "What would we call them? Diamond Achievements?"
+    },
+    {
+      "title": "Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/pixel-watch-4-45mm-34.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/8/2026, 2:45:00 PM",
+      "desc": "Google's Pixel Watch 5 is set to copy a key element from the Fitbit Air in the latest leak around the upcoming smartwatch."
     }
   ],
   "education": [
@@ -403,15 +403,6 @@
     },
     {
       "rank": 9,
-      "title": "Babydoll",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
-    },
-    {
-      "rank": 10,
       "title": "RESCUER",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
@@ -420,16 +411,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
     },
     {
-      "rank": 11,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+      "rank": 10,
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
@@ -438,16 +429,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     },
     {
-      "rank": 13,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+      "rank": 12,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
@@ -456,13 +447,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     },
     {
+      "rank": 14,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
       "rank": 15,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     }
   ],
   "movies": [
@@ -486,12 +486,12 @@
     },
     {
       "rank": 3,
-      "title": "Project Hail Mary",
+      "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     },
     {
       "rank": 4,
@@ -504,12 +504,12 @@
     },
     {
       "rank": 5,
-      "title": "Avatar Aang: The Last Airbender",
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 6,
@@ -522,15 +522,6 @@
     },
     {
       "rank": 7,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 8,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -539,13 +530,22 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 9,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
