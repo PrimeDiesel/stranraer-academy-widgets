@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T05:28:09.723Z",
+  "updated": "2026-08-10T07:43:09.515Z",
   "news": [
+    {
+      "title": "What it's like to chase solar eclipses around the world",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd69wn5ny3eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44a4/live/22637860-9271-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/9/2026, 6:37:23 AM",
+      "desc": "For many, a total solar eclipse is a once-in-a-lifetime experience. But for a dedicated few, it's a deep passion."
+    },
     {
       "title": "Perez Hilton faces long recovery after self-harm live stream",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
       "published": "8/9/2026, 5:07:14 AM",
       "desc": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-    },
-    {
-      "title": "Bristol artist Banksy's works cost taxpayers nearly £150k",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b09/live/88e263b0-8e72-11f1-98c2-039438173617.jpg",
-      "published": "8/9/2026, 1:22:25 AM",
-      "desc": "FOI requests reveal Banksy artworks have cost taxpayers almost £150,000, with costs still rising."
     },
     {
       "title": "EastEnders' Kellie Bright to leave after 13 years",
@@ -68,11 +68,27 @@
   ],
   "sports": [
     {
+      "title": "Best new kits 2026-27 - vote for your top 10",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4g630klknjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bdfe/live/50e65800-90a6-11f1-b8ee-9b3c26ad07bb.png",
+      "published": "8/9/2026, 7:37:23 AM",
+      "desc": "BBC Sport have rounded up some of the best new kits released by clubs around the world over the summer - vote for your top 10"
+    },
+    {
+      "title": "Aryna Sabalenka and Cameron Norrie lose at Canadian Open",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c98vqj4zl9vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27d2/live/de682290-93bb-11f1-bd88-5b03d31c2a96.jpg",
+      "published": "8/9/2026, 7:22:23 AM",
+      "desc": "World number one Aryna Sabalenka suffers a surprise defeat at the Canadian Open, while Britain's Cameron Norrie also bows out in the last 16 in Toronto."
+    },
+    {
       "title": "Trent Alexander-Arnold: Will Real Madrid career be revived by Jose Mourinho?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/746c/live/6fd77660-9270-11f1-be40-e93959facbbc.jpg",
-      "published": "8/9/2026, 5:37:21 AM",
+      "published": "8/9/2026, 6:07:19 AM",
       "desc": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho."
     },
     {
@@ -140,28 +156,12 @@
       "desc": "Adam Vinatieri took a lighthearted jab at former New England Patriots coach Bill Belichick and girlfriend Jordon Hudson at his Hall of Fame speech."
     },
     {
-      "title": "Callum Simpson beats Troy Williamson in rematch to reclaim super-middleweight titles",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/c7vgjdry18jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b90/live/417bed90-937a-11f1-98f6-7b84e67b36bd.jpg",
-      "published": "8/8/2026, 11:07:20 PM",
-      "desc": "Callum Simpson reclaims the British and Commonwealth super-middleweight titles as he earns a unanimous decision in his rematch with Troy Williamson."
-    },
-    {
       "title": "Sky's Carrington tossed after hard foul on Fever's Cunningham - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49563141/sky-carrington-tossed-hard-foul-fever-cunningham",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0808%2Fr1699197_1296x729_16%2D9.jpg",
       "published": "8/8/2026, 9:01:09 PM",
       "desc": "Sky's DiJonai Carrington was assessed a Flagrant 2 and ejected after a hard foul across the face and neck area of Indiana Fever guard Sophie Cunningham during the first quarter of Saturday afternoon's game"
-    },
-    {
-      "title": "Football gossip: Rodri, Romero, Diomande, Torres, McNeil, Johnson, Ruggeri",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/93bd/live/af99c1c0-9367-11f1-870d-5d08c49babb2.png",
-      "published": "8/8/2026, 8:52:22 PM",
-      "desc": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more."
     },
     {
       "title": "Brees, Fitzgerald, Kuechly enter Pro Football Hall of Fame - ESPN",
@@ -194,17 +194,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/raiders1.jpg?ve=1&tl=1",
       "published": "8/8/2026, 6:37:29 PM",
       "desc": "Raiders QB Kirk Cousins and star DE Maxx Crosby were suspended from team drills at practice Saturday following their fight the day before."
-    },
-    {
-      "title": "2026 MLB Division Winner Odds: Astros, Red Sox, White Sox Thriving",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-division-winner-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/boston-88.jpg?ve=1&tl=1",
-      "published": "8/8/2026, 6:37:28 PM",
-      "desc": "See the latest division winner odds, with a few teams performing well above expectations."
     }
   ],
   "tech": [
+    {
+      "title": "Minecraft's Latest Update Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/minecrafts-latest-update-is-now-live-here-are-the-full-patch-notes",
+      "image": "https://images.nintendolife.com/bb11f1a26be26/large.jpg",
+      "published": "8/9/2026, 5:00:00 AM",
+      "desc": "Gameplay improvements, Switch fixes and more"
+    },
+    {
+      "title": "Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection - Daring Fireball",
+      "source": "Daringfireball.net",
+      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "published": "8/9/2026, 3:20:04 AM",
+      "desc": "My disdain for astrology is so utter, and my esteem for Godier’s previous work so high, that it simply never occurred to me that he might have actually made and submitted to the App Store an astrology app, let alone that he’d then feign surprise and frustrati…"
+    },
+    {
+      "title": "MLB Gameday: Astros 2, Padres 3 Final Score (08/08/2026) - MLB.com",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/gameday/astros-vs-padres/2026/08/08/823267/final",
+      "image": "https://midfield.mlbstatic.com/v1/teams-matchup/117-135/ar_16:9/w_1440",
+      "published": "8/9/2026, 2:39:21 AM",
+      "desc": "Follow MLB results with FREE box scores, pitch-by-pitch strikezone info, and Statcast data for Astros vs. Padres at Petco Park"
+    },
     {
       "title": "First Nintendo Switch 2 gameplay revealed for The Elder Scrolls 4: Oblivion Remastered - Nintendo Everything",
       "source": "Nintendoeverything.com",
@@ -214,20 +230,20 @@
       "desc": "The Elder Scrolls 4: Oblivion Remastered just received its first gameplay on Nintendo Switch - check it out here."
     },
     {
-      "title": "iPhone Ultra colors: New leak reveals silver and dark blue - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/9/2026, 12:41:00 AM",
-      "desc": "A new accessory leak suggests the iPhone Ultra may launch in silver and dark blue. Here's the latest ahead of next month's launch."
+      "title": "Apple tests iOS 26.6.1 update - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/ios-26.6.1-update-incoming_id182458",
+      "image": "",
+      "published": "8/9/2026, 12:24:57 AM",
+      "desc": ""
     },
     {
-      "title": "7 Best Tech Gadgets of August 2026 - Yanko Design",
-      "source": "Yanko Design",
-      "url": "https://www.yankodesign.com/2026/08/08/7-best-tech-gadgets-of-august-2026/",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/tech-gadgets-of-aug-2026/7_best_tech_gadgets_yanko_design_hero.jpg",
-      "published": "8/8/2026, 11:30:09 PM",
-      "desc": "August arrives with a lineup that feels genuinely considered. Not every gadget this month is chasing a headline spec or fighting for shelf space. Some of the mo"
+      "title": "Did Caviar just spill the beans on the iPhone Ultra and the iPhone 18 Pro design, specs and release date? - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/did_caviar_just_spill_the_beans_on_the_iphone_ultra_and_the_iphone_18_pro_design_specs_and_release_d-news-74082.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/caviar-iphone-18-pro-iphone-ultra-leak/-952x498w6/gsmarena_001.jpg",
+      "published": "8/8/2026, 11:31:02 PM",
+      "desc": "The luxury phone customizer has fresh new “insider” details pages alongside its now-live pre-orders for the phones. It’s not uncommon for Caviar to kick..."
     },
     {
       "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs - IGN",
@@ -238,36 +254,12 @@
       "desc": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\""
     },
     {
-      "title": "Does the Galaxy Z Fold 8 owe its success to the iPhone Ultra? - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-z-fold-8-vs-apple-iphone-ultra_id182456",
-      "image": "https://m-cdn.phonearena.com/images/article/182456-wide-two_1200/Does-the-Galaxy-Z-Fold-8-owe-its-success-to-the-iPhone-Ultra.jpg",
-      "published": "8/8/2026, 10:18:32 PM",
-      "desc": "Is Apple the reason the Fold 8 turned out so great?"
-    },
-    {
-      "title": "Pokemon Pokopia director explains why Ditto was chosen as the game’s protagonist - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/pokemon-pokopia-director-ditto/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Pokopia-Ditto.jpg",
-      "published": "8/8/2026, 10:05:50 PM",
-      "desc": "The director of Pokemon Pokopia has shared a lengthy explanation as to why Ditto was chosen to be the star of the game."
-    },
-    {
-      "title": "3 Audio Brands You Might Not Realize Are Owned By Bose - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2228662/audio-brands-owned-by-bose/",
-      "image": "https://www.bgr.com/img/gallery/3-audio-brands-you-might-not-realize-are-owned-by-bose/l-intro-1785521455.jpg",
-      "published": "8/8/2026, 9:47:00 PM",
-      "desc": "Bose owns more than its own speakers and headphones. Here are three premium audio brands now under its umbrella following a major acquisition."
-    },
-    {
-      "title": "iOS 27: The easiest beta to forget about - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/8/2026, 9:23:00 PM",
-      "desc": "We’ve had iOS 27 in our hands for about two months now. Of course, it’s a beta – and the..."
+      "title": "I upgraded from the M1 MacBook Air to the M5, and here’s what changed for me - Digital Trends",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/i-upgraded-from-the-m1-macbook-air-to-the-m5-and-heres-what-changed-for-me/",
+      "image": "https://www.digitaltrends.com/tachyon/2026/08/M5-MacBook-Air-on-a-sofa-cushion-scaled-e1786230588879.jpg?resize=1200%2C630",
+      "published": "8/8/2026, 11:09:00 PM",
+      "desc": "After four years with my M1 MacBook Air, the M5 changed more about my daily workflow than I expected."
     }
   ],
   "education": [
@@ -404,6 +396,15 @@
     },
     {
       "rank": 10,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 11,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
@@ -412,22 +413,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
-    },
-    {
-      "rank": 12,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 13,
@@ -440,21 +432,21 @@
     },
     {
       "rank": 14,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 15,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 15,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     }
   ],
   "movies": [
@@ -478,51 +470,6 @@
     },
     {
       "rank": 3,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 4,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 5,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 6,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 7,
-      "title": "Avatar Aang: The Last Airbender",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
-    },
-    {
-      "rank": 8,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
@@ -531,13 +478,40 @@
       "url": "https://www.themoviedb.org/movie/936075"
     },
     {
-      "rank": 9,
-      "title": "Moana",
+      "rank": 4,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 5,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 7,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
     }
   ],
   "tv": [
