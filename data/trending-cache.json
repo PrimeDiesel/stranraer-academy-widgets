@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-10T21:42:02.137Z",
+  "updated": "2026-08-10T22:38:11.036Z",
   "news": [
+    {
+      "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d32/live/771865c0-93b4-11f1-b525-07c57113250b.jpg",
+      "published": "8/9/2026, 10:52:19 PM",
+      "desc": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise."
+    },
     {
       "title": "Daniel Kinahan: Suspected crime boss appears before Special Criminal Court",
       "source": "BBC News",
@@ -56,17 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
       "published": "8/9/2026, 12:22:15 PM",
       "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
-    },
-    {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/9/2026, 11:07:27 AM",
-      "desc": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
     }
   ],
   "sports": [
+    {
+      "title": "OnlyBulls IndyCar Grand Prix of Portland Live Updates, Results: Wheel-To-Wheel Action Taking Place",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/motor/onlybulls-indycar-grand-prix-portland-live-updates-results-wheel-to-wheel-action-taking-place",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar-live-blog.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 10:37:20 PM",
+      "desc": "Follow along for live updates of INDYCar's OnlyBulls Grand Prix of Portland."
+    },
+    {
+      "title": "Women's World Cup 2027: Algeria, Cameroon, Malawi & Morocco qualify",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b716/live/bc5f3650-9435-11f1-8115-21d8ce2e9f35.jpg",
+      "published": "8/9/2026, 10:37:19 PM",
+      "desc": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa Cup of Nations."
+    },
+    {
+      "title": "Brewers’ Jacob Misiorowski Hits 200 Strikeouts In 2026; 2nd-Fastest In MLB History",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/brewers-jacob-misiorowski-hits-200-strikeouts-2026-2nd-fastest-mlb-history",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/jacob-mis.jpg?ve=1&tl=1",
+      "published": "8/9/2026, 10:37:17 PM",
+      "desc": "Milwaukee Brewers ace Jacob Misiorowski became the second-fastest pitcher in MLB history to reach 200 strikeouts in a single season."
+    },
+    {
+      "title": "Athletics' Wilson sets record with 111 errorless games in row - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49570864/athletics-wilson-sets-record-111-errorless-games-row",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699719_1296x729_16%2D9.jpg",
+      "published": "8/9/2026, 10:34:29 PM",
+      "desc": "Athletics shortstop Jacob Wilson, 24, set an MLB record for his position on Sunday at Fenway Park, playing his 111th consecutive errorless game, surpassing former Baltimore Orioles infielder Mike Bordick, who authored a 110-game stretch in 2002."
+    },
+    {
+      "title": "Lionel Messi misses Inter Miami defeat after death of father",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/023e/live/4e91ed30-93c6-11f1-8b64-d7ef958ad168.jpg",
+      "published": "8/9/2026, 10:07:20 PM",
+      "desc": "Lionel Messi misses Inter Miami's Leagues Cup defeat by Monterrey on Saturday night after the death of his father."
+    },
+    {
+      "title": "LIV Golf New York: Joaquin Niemann wins as Jon Rahm secures season title",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c4gjqyw1zy3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/409b/live/81eb94f0-943a-11f1-9d11-1f2db2945808.jpg",
+      "published": "8/9/2026, 10:07:17 PM",
+      "desc": "Joaquin Niemann leads throughout to win the LIV Golf New York event while Jon Rahm secures his third straight season title."
+    },
+    {
+      "title": "Lynx's Kayla McBride sets single-game 3-point record with 10 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49570631/lynx-kayla-mcbride-sets-single-game-3-point-record-10",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699713_1024x576_16%2D9.jpg",
+      "published": "8/9/2026, 9:58:06 PM",
+      "desc": "Minnesota Lynx guard Kayla McBride set the WNBA single-game record by making 10 3-pointers Sunday in a 103-90 victory over the Dallas Wings."
+    },
     {
       "title": "Who’s Next For Pro Football Hall Of Fame? Forecasting Who Could Be Inducted In 2027",
       "source": "Fox Sports",
@@ -74,14 +130,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/08.07-hall-of-fame-nfl-16x9-1.png?ve=1&tl=1",
       "published": "8/9/2026, 9:52:20 PM",
       "desc": "Who will be inducted into the Pro Football Hall of Fame next year? We forecast who has the best chances."
-    },
-    {
-      "title": "OnlyBulls IndyCar Grand Prix of Portland Live Updates, Results: Alex Palou Takes Control Early",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/motor/onlybulls-indycar-grand-prix-portland-live-updates-results-alex-palou-takes-control-early",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar-live-blog.jpg?ve=1&tl=1",
-      "published": "8/9/2026, 9:52:19 PM",
-      "desc": "Follow along for live updates of INDYCar's OnlyBulls Grand Prix of Portland."
     },
     {
       "title": "Football gossip: Endrick, Kane, Barcola, Rashford, Gakpo, Camara, Seys",
@@ -162,54 +210,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0122%2Fr47215_1296x729_16%2D9.jpg",
       "published": "8/9/2026, 6:10:13 PM",
       "desc": "Don Nelson, the second winningest coach in NBA history and a five-time champion as a player, died at the age of 86 on Sunday."
-    },
-    {
-      "title": "Lucas Digne: PSG sign Aston Villa defender in £8.5m deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fb06/live/a905a0b0-8a6e-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/9/2026, 6:07:20 PM",
-      "desc": "France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Saints’ Dillon Radunz Out For Season With Torn ACL",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "8/9/2026, 5:37:20 PM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "Liverpool: Reds 'cannot sustain level', says Andoni Iraola",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3r0zzpw5gjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51a0/live/38459610-9413-11f1-b4da-0be53cc0f1b5.jpg",
-      "published": "8/9/2026, 5:37:20 PM",
-      "desc": "After throwing away a two-goal lead for the second match in a row, Andoni Iraola says his Liverpool side \"cannot sustain the level we want\"."
-    },
-    {
-      "title": "Demi Vollering wins the Women's Tour de France for 2nd time - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/cycling/story/_/id/49568634/demi-vollering-wins-women-tour-de-france-2nd",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699573_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 5:11:37 PM",
-      "desc": "Dutch rider Demi Vollering won the Women's Tour de France for the second time after riding to victory in Sunday's ninth and final stage to extend her winning margin."
-    },
-    {
-      "title": "The Hundred 2026 results: Sunrisers Leeds close to qualification after Welsh Fire win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e55/live/369a8580-9410-11f1-bc11-d9696db7ebba.jpg",
-      "published": "8/9/2026, 5:07:22 PM",
-      "desc": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a comprehensive 71-run win over Welsh Fire."
-    },
-    {
-      "title": "Teddy Bridgewater leaves Lions to likely retire again, coach says - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49568593/teddy-bridgewater-leaves-lions-likely-retire-again-coach-says",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699567_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 5:03:57 PM",
-      "desc": "Quarterback Teddy Bridgewater is stepping away from the Detroit Lions and is likely to retire from the NFL, coach Dan Campbell said Sunday."
     }
   ],
   "tech": [
@@ -513,15 +513,6 @@
     },
     {
       "rank": 6,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 7,
       "title": "Masters of the Universe",
       "year": "2026",
       "cert": "12A",
@@ -530,7 +521,25 @@
       "url": "https://www.themoviedb.org/movie/454639"
     },
     {
+      "rank": 7,
+      "title": "THE RIBBON HERO",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
+    },
+    {
       "rank": 8,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 9,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
@@ -539,7 +548,7 @@
       "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Michael",
       "year": "2026",
       "cert": "12A",
