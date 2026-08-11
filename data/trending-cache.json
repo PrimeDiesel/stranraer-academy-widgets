@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-11T13:07:43.240Z",
+  "updated": "2026-08-11T14:58:30.277Z",
   "news": [
+    {
+      "title": "We should smile at our dogs - a new scientific study reveals why",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1808/live/41067ee0-94cc-11f1-8189-057951e10a11.jpg",
+      "published": "8/10/2026, 3:07:24 PM",
+      "desc": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling."
+    },
+    {
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 1:52:24 PM",
+      "desc": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion."
+    },
     {
       "title": "Mars Bar from the 1990s found during house clearance",
       "source": "BBC News",
@@ -26,28 +42,12 @@
       "desc": "Craig and Lindsay Foreman's family say they were on hunger strike for 93 and 84 days, respectively."
     },
     {
-      "title": "Police seize limited edition £3.7m Ferrari in supercar crackdown",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c629g2w56rpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20d3/live/d3e63dd0-948c-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 10:37:25 AM",
-      "desc": "Ninety vehicles worth more than £8m were seized in a weekend operation in central London."
-    },
-    {
       "title": "Record 230 people cross English Channel in one small boat",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe01/live/39c68090-949e-11f1-9ade-bb7c8a2b6bc0.jpg",
       "published": "8/10/2026, 10:22:28 AM",
       "desc": "The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats."
-    },
-    {
-      "title": "Thames Water gave finance chief a £1m signing-on fee",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be7c/live/8dac15b0-9491-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 9:52:25 AM",
-      "desc": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company."
     },
     {
       "title": "Travelodge staff gave domestic abuser key to his victim's room",
@@ -68,12 +68,60 @@
   ],
   "sports": [
     {
-      "title": "ICC criticised for 'disrespectful' changes to World Cup by Cricket Scotland and KNCB",
+      "title": "NASCAR Chase Tracker: 12 Spots Remain With 3 Races To Go",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-playoff-tracker-the-chase",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/postseason-tracker-16x9-nascar.jpg?ve=1&tl=1",
+      "published": "8/10/2026, 3:07:23 PM",
+      "desc": "NASCAR is returning to The Chase postseason format. So which drivers are in, out or on the bubble?"
+    },
+    {
+      "title": "Source: Lions' Cade Mays (wrist) expected to miss 8-10 weeks - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49574921/lions-cade-mays-wrist-expected-miss-8-10-weeks",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1699913_1296x729_16%2D9.jpg",
+      "published": "8/10/2026, 2:42:50 PM",
+      "desc": "Lions starting center Cade Mays has a wrist injury that will cause him to miss a significant amount of time, coach Dan Campbell said Monday."
+    },
+    {
+      "title": "Russian Athletics files new claim with Cas challenging World Athletics sanctions",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cvgwkl5g181o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f159/live/350ec3e0-94a9-11f1-afe9-fb1a837ec5d9.png",
-      "published": "8/10/2026, 12:22:22 PM",
-      "desc": "The cricket boards of Scotland and the Netherlands criticise the International Cricket Council for structural changes made to men's 50-over World Cup."
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/c20dqn7wzd3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f3e3/live/b697d690-94bd-11f1-adb5-bd19050a74a5.jpg",
+      "published": "8/10/2026, 1:52:22 PM",
+      "desc": "The Russian Athletics Ferderation files a new claim with the Court of Arbitration for Sport to challenge the sanctions imposed by World Athletics."
+    },
+    {
+      "title": "Jeff Bezos & Liverpool: Consortium including American advances talks",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/10/2026, 1:37:21 PM",
+      "desc": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told."
+    },
+    {
+      "title": "Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f94c/live/0cb4c8a0-94b2-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/10/2026, 1:22:18 PM",
+      "desc": "The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision."
+    },
+    {
+      "title": "Sources: Bears' Luther Burden III expected to miss preseason - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49574301/sources-bears-luther-burden-iii-expected-miss-preseason",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1699886_1296x729_16%2D9.jpg",
+      "published": "8/10/2026, 12:44:29 PM",
+      "desc": "Bears receiver Luther Burden III is expected to miss the preseason with a groin injury, but the team believes he'll be ready for Week 1 vs. Carolina, sources told ESPN."
+    },
+    {
+      "title": "Sources: Patriots, TE Hunter Henry agree to 2-year extension - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49574198/sources-patriots-te-hunter-henry-agree-2-year-extension",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0112%2Fr1599541_1296x729_16%2D9.jpg",
+      "published": "8/10/2026, 12:27:43 PM",
+      "desc": "The Patriots and standout TE Hunter Henry, 31, have agreed on a two-year contract extension, sources told NFL Network's Ian Rapoport. The deal is worth up to $20 million, $14.5 million guaranteed, sources told ESPN's Adam Schefter."
     },
     {
       "title": "Commanders star LT Laremy Tunsil to have triceps surgery - ESPN",
@@ -162,54 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/ty-gibbs_horizontal_takeaways_iowa_pockrass.jpg?ve=1&tl=1",
       "published": "8/10/2026, 2:37:15 AM",
       "desc": "After winning at Iowa, Ty Gibbs said he and his team finally \"got it.\" Christopher Bell, on the other hand, settled for second ... again."
-    },
-    {
-      "title": "Mexico beats U.S. in Concacaf U20 final after questionable red card - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49571657/mexico-beats-us-concacaf-u20-final",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1699774_1296x729_16%2D9.jpg",
-      "published": "8/10/2026, 2:24:00 AM",
-      "desc": "Mexico won its second Concacaf U20 Championship in a row after beating the United States 2-0 at Estadio Azteca in the final on Sunday."
-    },
-    {
-      "title": "NFL Catchup: Big OT News In The NFC East, Bills Debut New Looks, Lions On QB Carousel",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-big-ot-news-nfc-east-bills-debut-new-looks-lions-qb-carousel",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/lane-tunsil-nfl-catchup.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 1:07:27 AM",
-      "desc": "With the Hall of Fame Game in the rearview, NFL training camps continue across the league as teams continue to deal with roster adjustments, injuries and much more."
-    },
-    {
-      "title": "4 Takeaways As Alex Palou&#39;s Portland Victory Gives Him Championship Control",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/4-takeaways-alex-palou-victory-portland-controls-title-destiny",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar_takeaways_palou_portland_bob-pockrass.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 1:07:24 AM",
-      "desc": "With his huge win at Portland, Alex Palou is quickly driving his destiny toward a fifth INDYCAR championship."
-    },
-    {
-      "title": "LIV Golf New York: Joaquin Niemann Captures Historic Ninth Title In Final-Round Finish",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/golf/liv-golf-new-york-joaquin-niemann-captures-historic-ninth-title-final-round-finish",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/golf.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 12:37:23 AM",
-      "desc": "Torque GC Captain Joaquin Niemann extended his record to nine tournament wins with a clutch back-nine performance to shoot a 2-under 69 and win by three shots."
-    },
-    {
-      "title": "2026 MLB Playoff Picture, Bracket, Standings: Cubs, Red Sox, Braves Surge",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-postseason-races-standings-wild-card",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/playoff-picture1.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 12:37:21 AM",
-      "desc": "A weekly look at MLB's standings and how they are informing the postseason picture."
-    },
-    {
-      "title": "Jackson Koivun, 21, clinches final FedEx Cup playoff spot - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49571307/jackson-koivun-21-clinches-final-fedex-cup-playoff-spot",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699752_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 11:52:09 PM",
-      "desc": "Jackson Koivun, who left Auburn in June and won the 3M Open in only his third start, narrowly hung on to the 70th spot and goes from college to the postseason in only two months."
     }
   ],
   "tech": [
@@ -468,15 +468,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -485,13 +476,22 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
       "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 3,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 4,
@@ -504,15 +504,6 @@
     },
     {
       "rank": 5,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -521,16 +512,7 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 7,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -539,22 +521,31 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 9,
-      "title": "Masters of the Universe",
+      "rank": 7,
+      "title": "THE RIBBON HERO",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
-      "rank": 10,
-      "title": "The Devil Wears Prada 2",
+      "rank": 8,
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     }
   ],
   "tv": [
