@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-11T03:45:38.880Z",
+  "updated": "2026-08-11T05:10:15.021Z",
   "news": [
+    {
+      "title": "Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
+      "published": "8/10/2026, 4:52:16 AM",
+      "desc": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
+    },
     {
       "title": "Alexandria Ocasio-Cortez reveals she is freezing her eggs and hasn't 'ruled out' presidential run",
       "source": "BBC News",
@@ -48,14 +56,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f17/live/97f8e9d0-9446-11f1-a1a8-4d53418920cd.jpg",
       "published": "8/9/2026, 11:22:13 PM",
       "desc": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs."
-    },
-    {
-      "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrjkm68xlno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d32/live/771865c0-93b4-11f1-b525-07c57113250b.jpg",
-      "published": "8/9/2026, 10:52:19 PM",
-      "desc": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise."
     },
     {
       "title": "Daniel Kinahan: Suspected crime boss appears before Special Criminal Court",
@@ -214,6 +214,14 @@
   ],
   "tech": [
     {
+      "title": "How Does Your Samsung Galaxy Watch Measure Antioxidant Levels? - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2229118/how-samsung-galaxy-watch-antioxidant-sensor-works/",
+      "image": "https://www.bgr.com/img/gallery/how-does-your-samsung-galaxy-watch-measure-antioxidant-levels/l-intro-1785348021.jpg",
+      "published": "8/10/2026, 2:50:24 AM",
+      "desc": "You might not know this, but your Samsung Galaxy smartwatch has a function to measure your antioxidant levels, which it does with special LEDs."
+    },
+    {
       "title": "7 Common Issues With The Toyota GR Corolla Hot Hatch - SlashGear",
       "source": "SlashGear",
       "url": "https://www.slashgear.com/2230733/common-issues-toyota-gr-corolla/",
@@ -244,14 +252,6 @@
       "image": "",
       "published": "8/9/2026, 10:50:49 PM",
       "desc": ""
-    },
-    {
-      "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week - Phoronix",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Linux-7.2-rc7-Released",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=linux_72_rc7",
-      "published": "8/9/2026, 10:14:00 PM",
-      "desc": "Linux 7.2-rc7 is now available for testing as we close in on the official Linux 7.2 release hopefully next weekend."
     },
     {
       "title": "Sony Will Remain Mum On PlayStation Disc Making Process - Kotaku",
@@ -331,21 +331,21 @@
   "music": [
     {
       "rank": 1,
-      "title": "Love Sensation (Afterhours Mix)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
-    },
-    {
-      "rank": 2,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+    },
+    {
+      "rank": 2,
+      "title": "Love Sensation (Afterhours Mix)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
     },
     {
       "rank": 3,
@@ -421,15 +421,6 @@
     },
     {
       "rank": 11,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 12,
       "title": "RESCUER",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
@@ -438,13 +429,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 13,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
       "rank": 14,
@@ -457,12 +457,12 @@
     },
     {
       "rank": 15,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     }
   ],
   "movies": [
@@ -522,24 +522,6 @@
     },
     {
       "rank": 7,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
-    },
-    {
-      "rank": 8,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 9,
       "title": "THE RIBBON HERO",
       "year": "2026",
       "cert": "12",
@@ -548,13 +530,31 @@
       "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
-      "rank": 10,
-      "title": "Toy Story 5",
+      "rank": 8,
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 9,
+      "title": "Masters of the Universe",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "url": "https://www.themoviedb.org/movie/454639"
+    },
+    {
+      "rank": 10,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
@@ -581,7 +581,7 @@
       "title": "My Life with the Walter Boys",
       "year": "2023",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
       "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
       "url": "https://www.themoviedb.org/tv/199001"
     }
