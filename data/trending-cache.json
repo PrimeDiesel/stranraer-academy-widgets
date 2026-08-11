@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-11T14:58:30.277Z",
+  "updated": "2026-08-11T16:02:02.825Z",
   "news": [
+    {
+      "title": "New weight loss pill approved for use in UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f7b/live/8cac1af0-94ca-11f1-8dc4-8907761852f3.png",
+      "published": "8/10/2026, 4:07:23 PM",
+      "desc": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
+    },
     {
       "title": "We should smile at our dogs - a new scientific study reveals why",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings."
     },
     {
-      "title": "Craig and Lindsay Foreman end hunger strike in Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8x4n9gd3ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df05/live/89b9de10-6a7a-11f1-8e56-530bbb41ec43.jpg",
-      "published": "8/10/2026, 12:22:17 PM",
-      "desc": "Craig and Lindsay Foreman's family say they were on hunger strike for 93 and 84 days, respectively."
-    },
-    {
       "title": "Record 230 people cross English Channel in one small boat",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno",
@@ -68,6 +68,62 @@
   ],
   "sports": [
     {
+      "title": "Last Night In Baseball: Braves Avoid Yankees Sweep With Extra-Innings W",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/braves-yankees-diamondbacks-dodgers-brewers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/bravesh1.jpg?ve=1&tl=1",
+      "published": "8/10/2026, 4:07:26 PM",
+      "desc": "The Braves beat the Yankees, the Dodgers can't shake their struggles, Bo Bichette had a huge game, Kyle Schwarber went deep twice and more from Sunday's MLB action."
+    },
+    {
+      "title": "Emilio Gay: England hopeful opener will be fit for Pakistan series",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cpd75xqj99go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18e0/live/c643ec30-94ce-11f1-8189-057951e10a11.jpg",
+      "published": "8/10/2026, 3:52:29 PM",
+      "desc": "Opener Emilio Gay will have further treatment on a shoulder injury this week in a bid to be available for the first Test against Pakistan."
+    },
+    {
+      "title": "Aston Villa in talks to sign Joao Palhinha from Bayern Munich",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc28/live/c0d42090-94cd-11f1-8189-057951e10a11.jpg",
+      "published": "8/10/2026, 3:52:24 PM",
+      "desc": "Aston Villa are in talks over a move for Bayern Munich midfielder Joao Palhinha."
+    },
+    {
+      "title": "WNBA transgender row: Sophie Cunningham and Enes Kanter Freedom speak out",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e90d/live/cd2e7850-94cc-11f1-8dc4-8907761852f3.jpg",
+      "published": "8/10/2026, 3:52:21 PM",
+      "desc": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules mean they can enter the 2027 Draft."
+    },
+    {
+      "title": "2026 NFL Preseason Odds Week 1: Lines, Spreads For All 16 Games",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-preseason-odds-week-1-lines-spreads-all-16-games",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/10/1408/814/dak-1014.jpg?ve=1&tl=1",
+      "published": "8/10/2026, 3:52:19 PM",
+      "desc": "Check out th odds, spreads and totals for all 16 preseason Week 1 games."
+    },
+    {
+      "title": "2026 College Football Rankings: Oregon Or Notre Dame At No. 1 In Preseason Top 25?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-rankings-oregon-notre-dame-no-1-preseason-top-25",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/fsdnjks0328.jpg?ve=1&tl=1",
+      "published": "8/10/2026, 3:22:28 PM",
+      "desc": "FOX Sports' Joel Klatt released his preseason college football top 25 rankings."
+    },
+    {
+      "title": "Liverpool: Should fans be worried about Andoni Iraola's fitness comments?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3060/live/83fd9be0-94c5-11f1-9730-59a19ad5a9b7.jpg",
+      "published": "8/10/2026, 3:22:15 PM",
+      "desc": "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?"
+    },
+    {
       "title": "NASCAR Chase Tracker: 12 Spots Remain With 3 Races To Go",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nascar/2026-nascar-playoff-tracker-the-chase",
@@ -76,20 +132,20 @@
       "desc": "NASCAR is returning to The Chase postseason format. So which drivers are in, out or on the bubble?"
     },
     {
+      "title": "OC Eric Bieniemy returns to Chiefs after shooting of wife - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49574977/oc-eric-bieniemy-returns-chiefs-shooting-wife",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0808%2Fr1207840_1296x729_16%2D9.jpg",
+      "published": "8/10/2026, 2:54:08 PM",
+      "desc": "Chiefs offensive coordinator Eric Bieniemy returned to the team Monday after a two-week absence following the shooting of his wife. Bieniemy's son Elijah, 27, has been charged in the shooting."
+    },
+    {
       "title": "Source: Lions' Cade Mays (wrist) expected to miss 8-10 weeks - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49574921/lions-cade-mays-wrist-expected-miss-8-10-weeks",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1699913_1296x729_16%2D9.jpg",
       "published": "8/10/2026, 2:42:50 PM",
       "desc": "Lions starting center Cade Mays has a wrist injury that will cause him to miss a significant amount of time, coach Dan Campbell said Monday."
-    },
-    {
-      "title": "Russian Athletics files new claim with Cas challenging World Athletics sanctions",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/c20dqn7wzd3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f3e3/live/b697d690-94bd-11f1-adb5-bd19050a74a5.jpg",
-      "published": "8/10/2026, 1:52:22 PM",
-      "desc": "The Russian Athletics Ferderation files a new claim with the Court of Arbitration for Sport to challenge the sanctions imposed by World Athletics."
     },
     {
       "title": "Jeff Bezos & Liverpool: Consortium including American advances talks",
@@ -132,14 +188,6 @@
       "desc": "Commanders star left tackle Laremy Tunsil will undergo surgery to repair a torn triceps and is expected to miss significant time."
     },
     {
-      "title": "Jacy got 'carried away' as goal celebration goes wrong",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d015/live/02235460-948f-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 11:52:27 AM",
-      "desc": "Brazilian player Jacy says he got \"carried away\" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense."
-    },
-    {
       "title": "Championship all-stars to global gamble – will Ipswich Town's approach work?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo",
@@ -156,126 +204,78 @@
       "desc": "Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries."
     },
     {
-      "title": "Dwight McNeil & Brennan Johnson: Everton and Crystal Palace agree swap deal for pair",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c617/live/b99bfca0-93fe-11f1-870d-5d08c49babb2.png",
-      "published": "8/10/2026, 10:52:19 AM",
-      "desc": "Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction."
-    },
-    {
       "title": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1558924_1296x729_16%2D9.jpg",
       "published": "8/10/2026, 9:44:00 AM",
       "desc": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup"
-    },
-    {
-      "title": "Gianni Infantino: Fifa accused of breaking trust 'through deception'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c78gl599jn4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbd5/live/9ca987b0-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 9:22:16 AM",
-      "desc": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation."
-    },
-    {
-      "title": "M11: The team behind Keely Hodgkinson's golden rise and pursuit of 800m world record",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5a21/live/e9f9ee90-9488-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/10/2026, 7:52:31 AM",
-      "desc": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record."
-    },
-    {
-      "title": "Andoni Iraola: What we have learned from Liverpool's start under new boss",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6495/live/392ff930-926a-11f1-9f0c-8d4ddef91df6.jpg",
-      "published": "8/10/2026, 5:52:21 AM",
-      "desc": "Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?"
-    },
-    {
-      "title": "Are The Phillies The Dodgers&#39; Biggest Challenger? We Examine The NL Post-Deadline",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/phillies-dodgers-biggest-challenger-we-examine-nl-post-deadline",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/mlb-16x9-4.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 3:22:21 AM",
-      "desc": "How does the National League look one week after the trade deadline? Our writers break it down."
-    },
-    {
-      "title": "4 Takeaways From Ty Gibbs&#39; Victory In Iowa Corn Country",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/4-takeaways-from-ty-gibbs-victory-iowa-bell-second",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/ty-gibbs_horizontal_takeaways_iowa_pockrass.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 2:37:15 AM",
-      "desc": "After winning at Iowa, Ty Gibbs said he and his team finally \"got it.\" Christopher Bell, on the other hand, settled for second ... again."
     }
   ],
   "tech": [
     {
-      "title": "Burnout Revenge Is Actually the Best One - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one",
-      "image": "https://assets-prd.ignimgs.com/2026/08/10/burnout-revenge-blog-1786358503441.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/10/2026, 11:19:40 AM",
-      "desc": "Burnout Revenge is actually the best one."
-    },
-    {
-      "title": "PSA: Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/08/psa-steam-machine-and-steam-controller-customers-in-europe-hit-by-cyber-attack",
-      "image": "https://images.digitalfoundry.net/7eb71780f601a/large.jpg",
-      "published": "8/10/2026, 11:15:00 AM",
-      "desc": "\"Expect fake messages that mention your hardware order and appear to come from Valve.\""
-    },
-    {
-      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss - Eurogamer.net",
+      "title": "\"They don't understand art\" - id Software lead slams Xbox, says it's \"impossible\" to make games like 2016's Doom now - Eurogamer.net",
       "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-      "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/10/2026, 10:22:30 AM",
-      "desc": "In an unprecedented move for video games, Rockstar is debuting a new GTA 6 trailer exclusively on subscription service Netflix. Will you watch it there?"
+      "url": "https://www.eurogamer.net/id-software-slams-xbox-interview-impossible-aaa-games",
+      "image": "https://assetsio.gnwcdn.com/doom_image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/10/2026, 3:27:43 PM",
+      "desc": "id's lead services provider Chris Hayes spoke to the Well Played podcast about the studio, and the problems he has with the company post-layoffs."
     },
     {
-      "title": "Ford's fastest ever Mustang is so wide it had to use legal loophole to avoid being treated the same way as a truck - supercarblondie.com",
-      "source": "Supercarblondie.com",
-      "url": "https://supercarblondie.com/ford-mustang-gtd-so-wide-it-needed-legal-loophole-to-get-around-regulations/",
-      "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Ford-Mustang-GTD-featured-image.webp",
-      "published": "8/10/2026, 8:14:00 AM",
-      "desc": "The 2025 Ford Mustang GTD is so wide that Ford had to rely on a legal loophole to get around an unusual US vehicle regulation"
+      "title": "Revealed – New Ork Nobz and Warbikes are coming - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/ovhxxpnh/revealed-new-ork-nobz-and-warbikes-are-coming",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/1-feature-2eppm5toka.jpg",
+      "published": "8/10/2026, 2:57:59 PM",
+      "desc": "Elite Orks are coming for Warhammer 40,000."
     },
     {
-      "title": "Square Enix Reportedly Halted a Nearly Finished Final Fantasy IX Remake and Has Now Pivoted Away from Mining Its Past - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/square-enix-halted-final-fantasy-9-remake-pivot/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Final-Fantasy-IX-HD-1920x1080.jpeg",
-      "published": "8/10/2026, 8:00:15 AM",
-      "desc": "Square Enix reportedly halted a nearly finished Final Fantasy IX remake and has now pivoted away from mining the franchise's back catalog."
+      "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "8/10/2026, 2:27:23 PM",
+      "desc": "The Keychron K2 HE 75-percent Hall effect keyboard is $103.99. We also found deals on Gigabyte’s Aero X16 gaming laptop, Hoto electric screwdrivers, and more."
     },
     {
-      "title": "Asking Eric: My parents are ditching the family for Florida - I’m not happy about it - AL.com",
-      "source": "AL.com",
-      "url": "https://www.al.com/advice/2026/08/asking-eric-my-parents-are-ditching-the-family-for-florida-im-not-happy-about-it.html",
-      "image": "",
-      "published": "8/10/2026, 8:00:00 AM",
-      "desc": ""
+      "title": "The Next Black Myth Game Won't Use AI to Speed Up Development - pushsquare.com",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/the-next-black-myth-game-wont-use-ai-to-speed-up-development",
+      "image": "https://images.pushsquare.com/0e2138d91ac66/large.jpg",
+      "published": "8/10/2026, 2:00:00 PM",
+      "desc": "AI've had it up to here"
     },
     {
-      "title": "Counter-Strike: Global Offensive March 2019 source code reportedly leaked - videocardz.com",
+      "title": "Sean Murray suggests No Man's Sky follow-up Light No Fire is quite far along, but he's 'learned a very important lesson' about speaking too soon - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/no-mans-sky-boss-sean-murray-updates-on-light-no-fire",
+      "image": "https://assetsio.gnwcdn.com/light-no-fire-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/10/2026, 1:34:01 PM",
+      "desc": "Three years after Light No Fire's unveiling, Hello Games boss says the team is \"working really hard\" on the project, and he's \"so incredibly excited\" about it."
+    },
+    {
+      "title": "Xbox PC and Game Pass games are being worked on for Linux - VideoCardz.com",
       "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/counter-strike-global-offensive-march-2019-source-code-reportedly-leaked",
-      "image": "https://cdn.videocardz.com/1/2026/08/COUNTER-STRIKE-GLOBAL-OFFENSIVE-LEAK.webp",
-      "published": "8/10/2026, 6:50:51 AM",
-      "desc": "CS:GO is facing another source code leak, this time reportedly from March 2019. The previous public leak contained code from late 2017."
+      "url": "https://videocardz.com/newz/xbox-pc-and-game-pass-games-are-being-worked-on-for-linux",
+      "image": "https://cdn.videocardz.com/1/2026/08/XBOX-PC-XODUS-LINUX-PC-GAMES-HERO-1.webp",
+      "published": "8/10/2026, 1:30:51 PM",
+      "desc": "PC Game Pass still does not work locally on Linux, but Xodus has completed several parts of the download and licensing process and is now tackling Xbox game services."
     },
     {
-      "title": "As AI grips world, the thrill of collecting vintage computers is growing - AP News",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-      "image": "https://dims.apnews.com/dims4/default/3d3a665/2147483647/strip/true/crop/5456x3635+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Fa2%2Ff07067eb9c5e5a1e4750b147bf80%2F6fa0d422d1ba43f888690fce3ec284ad",
-      "published": "8/10/2026, 4:05:00 AM",
-      "desc": "As Silicon Valley invents the artificial-intelligence future, a growing community of hobbyists is preserving the classic computers that helped launch the digital revolution. These hardware enthusiasts collect and restore decades-old Atari, Commodore and IBM m…"
+      "title": "Google Play Store starts distributing third-party Android app stores – here's how it works [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/10/google-play-store-third-party-android-app-stores-launch/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/10/2026, 1:25:00 PM",
+      "desc": "Google has opened the floodgates, with third-party app stores on Android now showing up in the Play Store in the US."
+    },
+    {
+      "title": "Google Drive just shut down desktop app Photos backups — here’s what to do now - XDA",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/the-google-drive-desktop-app-will-lose-its-photos-backup-feature-very-soon-so-heres-how-to-prepare/",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-drive.jpg?w=1600&h=900&fit=crop",
+      "published": "8/10/2026, 1:10:55 PM",
+      "desc": "Your backups no longer work, but there's a very simple fix."
     }
   ],
   "education": [
@@ -331,15 +331,6 @@
   "music": [
     {
       "rank": 1,
-      "title": "Love Sensation (Afterhours Mix)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
-    },
-    {
-      "rank": 2,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -348,22 +339,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 3,
-      "title": "Love Sensation (Afterhours Radio Edit)",
+      "rank": 2,
+      "title": "Love Sensation (Afterhours Mix)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 4,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
       "rank": 5,
@@ -403,12 +403,12 @@
     },
     {
       "rank": 9,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+      "title": "Wild One",
+      "artist": "Twinnie",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
       "rank": 10,
@@ -421,30 +421,30 @@
     },
     {
       "rank": 11,
-      "title": "Wild One",
-      "artist": "Twinnie",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 12,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 13,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 13,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     },
     {
       "rank": 14,
@@ -457,12 +457,12 @@
     },
     {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
