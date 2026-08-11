@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-11T10:01:50.742Z",
+  "updated": "2026-08-11T10:53:55.327Z",
   "news": [
     {
-      "title": "Ukrainian drone attack kills 13 in Russia's Tatarstan, officials say",
+      "title": "Senior Derbyshire detective under investigation over use of AI",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 9:52:26 AM",
-      "desc": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine."
+      "url": "https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f198/live/81efb530-949e-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/10/2026, 11:07:29 AM",
+      "desc": "Police say a voluntary referral about an officer was made to the Independent Office for Police Conduct on 23 June."
+    },
+    {
+      "title": "Police seize limited edition £3.7m Ferrari in supercar crackdown",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c629g2w56rpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20d3/live/d3e63dd0-948c-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 10:37:25 AM",
+      "desc": "Ninety vehicles worth more than £8m were seized in a weekend operation in central London."
+    },
+    {
+      "title": "Record 230 people cross English Channel in one small boat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe01/live/39c68090-949e-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 10:22:28 AM",
+      "desc": "The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats."
     },
     {
       "title": "Thames Water gave finance chief a £1m signing-on fee",
@@ -26,14 +42,6 @@
       "desc": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key."
     },
     {
-      "title": "Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
-      "published": "8/10/2026, 4:52:16 AM",
-      "desc": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
-    },
-    {
       "title": "How much parents could save from September's new school uniform rules",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crrvq1y442vo",
@@ -50,14 +58,6 @@
       "desc": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace."
     },
     {
-      "title": "Newspaper headlines: 'New prisons outrage' and 'Days of danger'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g32y6ee20o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16c8/live/8846d100-9446-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/10/2026, 1:07:23 AM",
-      "desc": "The Sun says \"jet bomb plotters\" are launching parole bids, as the Mirror carries a heatwave \"open water swimming\" warning."
-    },
-    {
       "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Dakota Ditcheva says she has broken both hands again",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgde2jxvkeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6830/live/45320a80-94a8-11f1-afe9-fb1a837ec5d9.jpg",
+      "published": "8/10/2026, 10:52:23 AM",
+      "desc": "Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries."
+    },
+    {
+      "title": "Dwight McNeil & Brennan Johnson: Everton and Crystal Palace agree swap deal for pair",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c617/live/b99bfca0-93fe-11f1-870d-5d08c49babb2.png",
+      "published": "8/10/2026, 10:52:19 AM",
+      "desc": "Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction."
+    },
+    {
+      "title": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1558924_1296x729_16%2D9.jpg",
+      "published": "8/10/2026, 9:44:00 AM",
+      "desc": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup"
+    },
     {
       "title": "Gianni Infantino: Fifa accused of breaking trust 'through deception'",
       "source": "BBC Sport",
@@ -90,14 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5a21/live/e9f9ee90-9488-11f1-a7ab-8b30adf0800a.jpg",
       "published": "8/10/2026, 7:52:31 AM",
       "desc": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record."
-    },
-    {
-      "title": "José Mourinho turned down chance to replace Sir Alex Ferguson at Man United, Netflix documentary reveals - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49571327/jose-mourinho-turned-chance-replace-sir-alex-ferguson-man-united-netflix-documentary-reveals",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699532_1296x729_16%2D9.jpg",
-      "published": "8/10/2026, 6:21:00 AM",
-      "desc": "José Mourinho was all set to replace Sir Alex Ferguson as Manchester United boss in 2013 before changing his mind at the last minute and re-joining Chelsea, a new Netflix docuseries on the Portuguese manager has revealed."
     },
     {
       "title": "Andoni Iraola: What we have learned from Liverpool's start under new boss",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/jacob-mis.jpg?ve=1&tl=1",
       "published": "8/9/2026, 10:37:17 PM",
       "desc": "Milwaukee Brewers ace Jacob Misiorowski became the second-fastest pitcher in MLB history to reach 200 strikeouts in a single season."
-    },
-    {
-      "title": "Athletics' Wilson sets record with 111 errorless games in row - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49570864/athletics-wilson-sets-record-111-errorless-games-row",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699719_1296x729_16%2D9.jpg",
-      "published": "8/9/2026, 10:34:29 PM",
-      "desc": "Athletics shortstop Jacob Wilson, 24, set an MLB record for his position on Sunday at Fenway Park, playing his 111th consecutive errorless game, surpassing former Baltimore Orioles infielder Mike Bordick, who authored a 110-game stretch in 2002."
-    },
-    {
-      "title": "LIV Golf New York: Joaquin Niemann wins as Jon Rahm secures season title",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c4gjqyw1zy3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/409b/live/81eb94f0-943a-11f1-9d11-1f2db2945808.jpg",
-      "published": "8/9/2026, 10:07:17 PM",
-      "desc": "Joaquin Niemann leads throughout to win the LIV Golf New York event while Jon Rahm secures his third straight season title."
     }
   ],
   "tech": [
@@ -331,21 +331,21 @@
   "music": [
     {
       "rank": 1,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
-    },
-    {
-      "rank": 2,
       "title": "Love Sensation (Afterhours Mix)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
+    },
+    {
+      "rank": 2,
+      "title": "Dai Dai",
+      "artist": "Shakira & Burna Boy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
       "rank": 3,
@@ -367,6 +367,15 @@
     },
     {
       "rank": 5,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 6,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
@@ -375,22 +384,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 7,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 8,
@@ -421,24 +421,6 @@
     },
     {
       "rank": 11,
-      "title": "RESCUER",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/a2/a6/71a2a618-b0ba-6c00-4592-cd1eb24720c4/mzaf_2499962097773439667.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rescuer/6773456078?i=6773456232&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
-    },
-    {
-      "rank": 12,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 13,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
@@ -447,7 +429,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 13,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
@@ -456,13 +447,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
+      "rank": 14,
+      "title": "RESCUER",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/a2/a6/71a2a618-b0ba-6c00-4592-cd1eb24720c4/mzaf_2499962097773439667.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rescuer/6773456078?i=6773456232&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
+    },
+    {
       "rank": 15,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -504,6 +504,15 @@
     },
     {
       "rank": 5,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
       "title": "THE RIBBON HERO",
       "year": "2026",
       "cert": "12",
@@ -512,22 +521,13 @@
       "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 8,
