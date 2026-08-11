@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T16:02:02.825Z",
+  "updated": "2026-08-11T17:01:54.892Z",
   "news": [
     {
       "title": "New weight loss pill approved for use in UK",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Derby County investment: Deal off as Turki Alalshikh shelves plans",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
+      "published": "8/10/2026, 4:52:23 PM",
+      "desc": "Saudi Arabia government official Turki Alalshikh abandons his proposed investment into Championship club Derby County."
+    },
+    {
+      "title": "European Athletics Championships: New guidelines for more respectful TV camera coverage of female athletes used for first time",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1938/live/da8a1270-94d6-11f1-9229-0f9d840c190e.jpg",
+      "published": "8/10/2026, 4:52:18 PM",
+      "desc": "New guidelines advising broadcasters on more respectful camera angles at live athletics events are used at the European Athletics Championships for the first time"
+    },
     {
       "title": "Last Night In Baseball: Braves Avoid Yankees Sweep With Extra-Innings W",
       "source": "Fox Sports",
@@ -188,28 +204,12 @@
       "desc": "Commanders star left tackle Laremy Tunsil will undergo surgery to repair a torn triceps and is expected to miss significant time."
     },
     {
-      "title": "Championship all-stars to global gamble – will Ipswich Town's approach work?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50e9/live/87c78880-943e-11f1-a8a3-b1b5a1a29840.jpg",
-      "published": "8/10/2026, 11:52:24 AM",
-      "desc": "As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently."
-    },
-    {
       "title": "Dakota Ditcheva says she has broken both hands again",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgde2jxvkeo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6830/live/45320a80-94a8-11f1-afe9-fb1a837ec5d9.jpg",
       "published": "8/10/2026, 10:52:23 AM",
       "desc": "Dakota Ditcheva says she broke both of her hands during the win over Denise Kielholtz - months after recovering from similar injuries."
-    },
-    {
-      "title": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49573256/uefa-concacaf-afc-accuse-fifa-breach-trust-deception-world-cup-plan",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1012%2Fr1558924_1296x729_16%2D9.jpg",
-      "published": "8/10/2026, 9:44:00 AM",
-      "desc": "UEFA, Concacaf and the Asian Football Confederation (AFC) have accused FIFA of a \"fundamental breach of trust\" over its handling of plans to sell a stake in the World Cup"
     }
   ],
   "tech": [
@@ -439,30 +439,30 @@
     },
     {
       "rank": 13,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 14,
-      "title": "RESCUER",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/a2/a6/71a2a618-b0ba-6c00-4592-cd1eb24720c4/mzaf_2499962097773439667.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rescuer/6773456078?i=6773456232&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20RESCUER"
-    },
-    {
-      "rank": 15,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 14,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
+    },
+    {
+      "rank": 15,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -477,21 +477,21 @@
     },
     {
       "rank": 2,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 3,
+      "title": "The Last House",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
       "rank": 4,
@@ -531,21 +531,21 @@
     },
     {
       "rank": 8,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 9,
       "title": "Avatar Aang: The Last Airbender",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 9,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
