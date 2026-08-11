@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-11T08:58:02.712Z",
+  "updated": "2026-08-11T10:01:50.742Z",
   "news": [
     {
-      "title": "Crews still tackling New Forest fire that spread from van on A31",
+      "title": "Ukrainian drone attack kills 13 in Russia's Tatarstan, officials say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye8l9422no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcd8/live/e91886e0-9496-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "published": "8/10/2026, 8:52:22 AM",
-      "desc": "The fire spread to verges and trees after a vehicle caught fire on the A31 near Ringwood."
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 9:52:26 AM",
+      "desc": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine."
+    },
+    {
+      "title": "Thames Water gave finance chief a £1m signing-on fee",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be7c/live/8dac15b0-9491-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 9:52:25 AM",
+      "desc": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company."
     },
     {
       "title": "Travelodge staff gave domestic abuser key to his victim's room",
@@ -50,14 +58,6 @@
       "desc": "The Sun says \"jet bomb plotters\" are launching parole bids, as the Mirror carries a heatwave \"open water swimming\" warning."
     },
     {
-      "title": "You could be missing out on £150 off your energy bill - here's how to check",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8926/live/34a4ae50-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
-      "published": "8/10/2026, 12:22:21 AM",
-      "desc": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help."
-    },
-    {
       "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo",
@@ -67,6 +67,14 @@
     }
   ],
   "sports": [
+    {
+      "title": "Gianni Infantino: Fifa accused of breaking trust 'through deception'",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c78gl599jn4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbd5/live/9ca987b0-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "published": "8/10/2026, 9:22:16 AM",
+      "desc": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation."
+    },
     {
       "title": "Transfer latest: Done deals, gossip, rumours",
       "source": "BBC Sport",
@@ -180,14 +188,6 @@
       "desc": "Follow along for live updates of INDYCar's OnlyBulls Grand Prix of Portland."
     },
     {
-      "title": "Women's World Cup 2027: Algeria, Cameroon, Malawi & Morocco qualify",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b716/live/bc5f3650-9435-11f1-8115-21d8ce2e9f35.jpg",
-      "published": "8/9/2026, 10:37:19 PM",
-      "desc": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa Cup of Nations."
-    },
-    {
       "title": "Brewers’ Jacob Misiorowski Hits 200 Strikeouts In 2026; 2nd-Fastest In MLB History",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/mlb/brewers-jacob-misiorowski-hits-200-strikeouts-2026-2nd-fastest-mlb-history",
@@ -213,6 +213,14 @@
     }
   ],
   "tech": [
+    {
+      "title": "As AI grips world, the thrill of collecting vintage computers is growing - AP News",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+      "image": "https://dims.apnews.com/dims4/default/3d3a665/2147483647/strip/true/crop/5456x3635+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Fa2%2Ff07067eb9c5e5a1e4750b147bf80%2F6fa0d422d1ba43f888690fce3ec284ad",
+      "published": "8/10/2026, 4:05:00 AM",
+      "desc": "As Silicon Valley invents the artificial-intelligence future, a growing community of hobbyists is preserving the classic computers that helped launch the digital revolution. These hardware enthusiasts collect and restore decades-old Atari, Commodore and IBM m…"
+    },
     {
       "title": "How Does Your Samsung Galaxy Watch Measure Antioxidant Levels? - bgr.com",
       "source": "BGR",
@@ -254,28 +262,20 @@
       "desc": ""
     },
     {
-      "title": "Sony Will Remain Mum On PlayStation Disc Making Process - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
-      "image": "https://kotaku.com/app/uploads/2026/08/sonycdsecrets-976x675.jpg",
-      "published": "8/9/2026, 8:51:08 PM",
-      "desc": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate future"
+      "title": "id Software’s Chris Hays Says Morale Has Never Been Lower - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/id-softwares-chris-hays-says-morale-has-never-been-lower/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/07/ID-Software-Logo.jpg",
+      "published": "8/9/2026, 10:15:57 PM",
+      "desc": "id Software's Chris Hays reflects on recent XBOX layoffs, calling them inhumane and demoralizing while arguing executives are disconnected from game development."
     },
     {
-      "title": "4 Of The Best Selling HDMI Splitters On Amazon Worth Buying - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2232229/best-selling-hdmi-splitters-amazon-worth-buying/",
-      "image": "https://www.bgr.com/img/gallery/4-of-the-best-selling-hdmi-splitters-on-amazon-worth-buying/l-intro-1786089247.jpg",
-      "published": "8/9/2026, 8:17:00 PM",
-      "desc": "HDMI splitters are great if you want to broadcast the same image across multiple displays. Here are the best options on Amazon from Orei, Llano, and more."
-    },
-    {
-      "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/phones/live/made-by-google-2026-launch-live-pixel-11-pixel-11-pro-fold-pixel-watch-5-gemini-and-all-the-news",
-      "image": "https://cdn.mos.cms.futurecdn.net/muNUpxoDCXvXXStVtxDShM-1746-80.jpg",
-      "published": "8/9/2026, 8:02:36 PM",
-      "desc": "The Pixel event is happening next week, and we're tracking all the news and everything you need to know!"
+      "title": "Fallout 76 Creative Director Promises ‘Dark Content’ Coming Soon - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/fallout-76-creative-director-dark-content-coming/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/08/fallout-76.webp",
+      "published": "8/9/2026, 8:53:56 PM",
+      "desc": "Jon Rush, the Creative Director on Fallout 76, has revealed that DARK CONTENT is coming soon to the post-apocalyptic MMORPG."
     }
   ],
   "education": [
@@ -566,15 +566,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
       "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
       "url": "https://www.themoviedb.org/tv/199001"
-    },
-    {
-      "rank": 3,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
