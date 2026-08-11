@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-11T22:43:08.753Z",
+  "updated": "2026-08-11T23:41:23.182Z",
   "news": [
+    {
+      "title": "Could your tattoo stop you from getting a job?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bfb/live/e03d1d30-90e8-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "8/10/2026, 11:37:22 PM",
+      "desc": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace."
+    },
+    {
+      "title": "At least 111 killed in Colombia's largest  earthquake in years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/10/2026, 11:07:27 PM",
+      "desc": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away."
+    },
     {
       "title": "Canada flight cancelled after child refuses to wear seat belt",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
       "published": "8/10/2026, 10:07:24 PM",
       "desc": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline."
-    },
-    {
-      "title": "Could your tattoo stop you from getting a job?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bfb/live/e03d1d30-90e8-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/10/2026, 9:37:25 PM",
-      "desc": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace."
     },
     {
       "title": "New Forest firefighting to continue overnight as cars abandoned",
@@ -56,24 +64,32 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8458/live/6b1762d0-94cc-11f1-8dc4-8907761852f3.jpg",
       "published": "8/10/2026, 6:22:21 PM",
       "desc": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status."
-    },
-    {
-      "title": "New weight loss pill approved for use in UK",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f7b/live/8cac1af0-94ca-11f1-8dc4-8907761852f3.png",
-      "published": "8/10/2026, 4:07:23 PM",
-      "desc": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
     }
   ],
   "sports": [
     {
-      "title": "The Hundred 2026 results: Trent Rockets face nervous wait to reach final after Tristan Stubbs and Marcus Stoinis inspire Southern Brave to six-wicket win",
+      "title": "2026 NFL Bye Weeks Schedule for All 32 Teams",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/2026-nfl-bye-weeks-cleatus-resting-gold-fox-sports-1920x1080-1.png?ve=1&tl=1",
+      "published": "8/10/2026, 11:52:21 PM",
+      "desc": "See the complete 2026 NFL bye-week schedule by week and team, including when every NFL team has its week off."
+    },
+    {
+      "title": "WNBA: DiJonai Carrington tells critics to do their 'research' over 'white privilege' post",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cx279rey9r1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d077/live/9458f9f0-94fa-11f1-9181-85140b8ce01b.jpg",
-      "published": "8/10/2026, 10:52:32 PM",
-      "desc": "Trent Rockets face a nervous wait to see if they will qualify automatically for the final of The Hundred after a six-wicket defeat by Southern Brave."
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/clyqxln3rrpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/82b0/live/4f2a5b20-950f-11f1-9f84-2de4686f28c2.jpg",
+      "published": "8/10/2026, 11:37:18 PM",
+      "desc": "Chicago Sky guard DiJonai Carrington has told her critics to do their \"research\" amid the ongoing furore from her on-court confrontation with Indiana Fever's Sophie Cunningham."
+    },
+    {
+      "title": "Jonah Koech: US 1500m champion stripped of title and given three-year doping ban",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cjrv9ng729qo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6968/live/75ceb720-9506-11f1-b07e-81d3b96424b0.jpg",
+      "published": "8/10/2026, 11:07:26 PM",
+      "desc": "American middle-distance runner Jonah Koech is banned for three years for blood doping."
     },
     {
       "title": "VAR: Uefa referees' chief Roberto Rosetti says some reviews 'not connected to football'",
@@ -114,6 +130,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/857e/live/a1e4c8a0-9500-11f1-a5ec-790eeab0d978.jpg",
       "published": "8/10/2026, 10:52:21 PM",
       "desc": "Great Britain's Amy Hunt claims her first senior international title by powering to 100m gold at the European Athletics Championships in Birmingham."
+    },
+    {
+      "title": "Carrington: Never linked ejection vs. Fever to white privilege - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49577813/never-linked-ejection-vs-fever-white-privilege",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1700130_2_1024x576_16%2D9.jpg",
+      "published": "8/10/2026, 10:32:02 PM",
+      "desc": "DiJonai Carrington says she never claimed that the assessment of a Flagrant 2 foul on her in a game vs. the Fever was the result of white privilege."
     },
     {
       "title": "Cowboys, Star DL Quinnen Williams Reportedly Agree To Massive Extension",
@@ -186,33 +210,25 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/gettyimages-2251021342-scaled-e1786389603496.jpg?ve=1&tl=1",
       "published": "8/10/2026, 8:52:30 PM",
       "desc": "Starting this season, NFL head coaches can assign a designated sideline staff member to throw the replay challenge flag under an updated Rule 15 provision."
-    },
-    {
-      "title": "2026 NFL Odds: Every QB&#39;s Over/Under Passing Yards Total",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-every-qbs-over-under-season-pass-yards",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/gettyimages-2260114227.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 8:52:29 PM",
-      "desc": "Following a 2025 MVP campaign, Matthew Stafford enters 2026 with an over/under pass yards total of 3,949.5. See the other top NFL QB betting lines."
-    },
-    {
-      "title": "49ers Managing Christian McCaffrey’s Camp Load After Dealing With Tightness",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-managing-christian-mccaffreys-camp-load-after-dealing-tightness",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/49ers.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 8:52:27 PM",
-      "desc": "San Francisco 49ers star running back Christian McCaffrey was held out of practice with what the team described as general tightness."
-    },
-    {
-      "title": "U.S. Youngster Zavier Gozo Reportedly Set For Crystal Palace Move",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/zavier-gozo-cystral-palace-transfer-usmnt-real-salt-lake",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/gozo-1-scaled.jpg?ve=1&tl=1",
-      "published": "8/10/2026, 8:22:25 PM",
-      "desc": "One of the most promising young U.S. players will reportedly be heading to the English Premier League."
     }
   ],
   "tech": [
+    {
+      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+      "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/10/2026, 10:14:30 PM",
+      "desc": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game."
+    },
+    {
+      "title": "Everything New in iOS 27 Beta 5 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "image": "https://images.macrumors.com/t/1NjEBYIkMMwyq5jqMfdPxw9c_cY=/2500x/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "published": "8/10/2026, 10:02:21 PM",
+      "desc": "We're a little over a month away from the launch of iOS 27, and Apple is continuing to make changes. The fifth beta of iOS 27 changes the look of..."
+    },
     {
       "title": "Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds - arstechnica.com",
       "source": "Ars Technica",
@@ -230,52 +246,36 @@
       "desc": "Anker’s Nano Travel Adapter is back to its best price of $19.99 ($6 off). The small five-port adapter can power up to five devices at once."
     },
     {
-      "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Glow-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/10/2026, 8:15:00 PM",
-      "desc": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with some clarification..."
+      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
+      "image": "https://assets-prd.ignimgs.com/2026/07/30/bf6-vod1-oo-thumb-1785452574960.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/10/2026, 9:10:18 PM",
+      "desc": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking."
     },
     {
-      "title": "Sonos gets ready to launch new Ace Ultra headphones - Lowpass",
-      "source": "Lowpass.cc",
-      "url": "https://www.lowpass.cc/p/sonos-ace-ultra-headphones-fcc-filing-september-launch-wifi-voice-assistant",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c66aa88c-6484-4345-af17-fd13fc3fa3fd/Screenshot_2026-08-10_11.00.02_AM.png?t=1786384835",
-      "published": "8/10/2026, 6:24:56 PM",
-      "desc": "The company may add support for its voice assistant"
-    },
-    {
-      "title": "Revealed: This Lamborghini Diablo Restomod Has No Roof, A V12, And A Manual - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/804409/eccentrica-v12-roadster-debut/",
-      "image": "https://cdn.motor1.com/images/mgl/RqkWBA/s1/eccentrica-v12-roadster.jpg",
-      "published": "8/10/2026, 6:23:00 PM",
-      "desc": "Eccentrica's open-top supercar packs 550 horsepower, a six-speed gated manual, and a 208-mph top speed."
-    },
-    {
-      "title": "The new iOS 27 beta further expands Siri voice customization options - 9to5Mac",
+      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera - 9to5mac.com",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-voice-expressivity-pace-ios-27-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/10/2026, 6:21:00 PM",
-      "desc": "iOS 27 beta 5 has further expanded the new Siri voice customization options. In earlier betas, the new Pace and..."
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/10/2026, 7:49:00 PM",
+      "desc": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo."
     },
     {
-      "title": "New \"Madden NFL 27\" franchise mode turns you into a news junkie - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/10/madden-nfl-27-franchise-mode-news-storylines",
-      "image": "https://images.axios.com/g-IZj4Y5R4daeBVQrS5NcD0xhNE=/0x0:1300x731/1366x768/2026/08/07/1786123090174.png",
-      "published": "8/10/2026, 6:00:42 PM",
-      "desc": "Madden's refresh reflects sports media's reality: despite heavy layoffs and reorganizations, news remains a vital driver of entertainment and information for fans, teams and athletes alike."
+      "title": "'Tokon Saved?' — Marvel Tokon Players Report Fixed PC Issues After Arc System Works Launches Update - ign.com",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/arc-system-launches-marvel-tokon-pc-update-and-some-players-are-saying-its-fixing-most-of-their-issues",
+      "image": "https://assets-prd.ignimgs.com/2026/08/10/marvel-tokon-pc-update-1786387848401.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/10/2026, 6:59:50 PM",
+      "desc": "Developer Arc System Works has launched a major Marvel Tokon: Fighting Souls update that seems to have fixed many of the PC issues players reported following its launch."
     },
     {
-      "title": "Clicks' Power Keyboard brings BlackBerry-style typing to any phone — with some compromises - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_2852.jpg?resize=1200,900",
-      "published": "8/10/2026, 6:00:39 PM",
-      "desc": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use."
+      "title": "Big Walk Sells One Million Copies In Less Than A Week - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/08/10/big-walk-sells-one-million-copies-in-less-than-a-week",
+      "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/10/4015b9bb/big%20walk%20million%20units.jpg.webp",
+      "published": "8/10/2026, 6:41:00 PM",
+      "desc": "The follow up game from the makers of Untitled Goose Game is off to a great start"
     }
   ],
   "education": [
@@ -367,21 +367,21 @@
     },
     {
       "rank": 5,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 6,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 6,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 7,
@@ -403,21 +403,21 @@
     },
     {
       "rank": 9,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 10,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+    },
+    {
+      "rank": 10,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
       "rank": 11,
@@ -439,6 +439,15 @@
     },
     {
       "rank": 13,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+    },
+    {
+      "rank": 14,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -447,22 +456,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 14,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     }
   ],
   "movies": [
