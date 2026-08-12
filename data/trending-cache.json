@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-12T22:41:29.153Z",
+  "updated": "2026-08-12T23:42:37.982Z",
   "news": [
+    {
+      "title": "UK police argue Tate brothers 'a flight risk' ahead of bail hearing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1a5/live/7c841320-95ac-11f1-969e-eb6036cb8925.jpg",
+      "published": "8/11/2026, 11:37:30 PM",
+      "desc": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue."
+    },
+    {
+      "title": "Newspaper headlines: 'Andy U-turns on early release' and 'Hunt on for eclipse glasses'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1k4yrn0lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0b5/live/d0ff7010-95d5-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/11/2026, 11:37:27 PM",
+      "desc": "The prime minister's plan to stop the early release of PC Andrew Harper's killers is prominent across Wednesday's papers."
+    },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21e0/live/9cf2f5a0-95ba-11f1-a556-013790f38050.jpg",
       "published": "8/11/2026, 8:37:20 PM",
       "desc": "The prime minister was asked about protests over plans to use a former military base to house asylum seekers."
-    },
-    {
-      "title": "Amanda Knox comedy show 'sincere' but 'just not very funny'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e77/live/fd3cd290-9575-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/11/2026, 5:52:22 PM",
-      "desc": "The Edinburgh Fringe show received a mixed response, with many reviewers saying typical stand-up fare."
     },
     {
       "title": "Three ways to watch the solar eclipse safely without glasses",
@@ -50,14 +58,6 @@
       "desc": "Davis, who played receptionist Dawn in the UK sitcom, says the cancer has spread and it's \"too late for chemo\"."
     },
     {
-      "title": "Russia releases former US Marine reported in poor health",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/719e/live/5d95bd80-959b-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/11/2026, 3:52:20 PM",
-      "desc": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state."
-    },
-    {
       "title": "Solar eclipse chasers scramble for glasses as stocks run low",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o",
@@ -68,12 +68,28 @@
   ],
   "sports": [
     {
-      "title": "Watch European Athletics Championships LIVE: Birmingham 2026 - live updates, results, schedule and medal table",
+      "title": "Rafael Jodar: ATP record set to be broken by teenage tennis sensation at Canada Open",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/live/c4gyg7p1pvet",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/461f/live/a4264560-95ca-11f1-856f-555b0683e2ba.jpg",
-      "published": "8/11/2026, 10:37:24 PM",
-      "desc": "Follow live text updates, results, medal table & schedule on day two of the European Athletics Championships in Birmingham."
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b4ba/live/c270f380-9584-11f1-8636-978a48bd79b6.jpg",
+      "published": "8/11/2026, 10:52:14 PM",
+      "desc": "The teenage Spaniard's rise to the top of tennis is set to be faster than the sport's modern greats"
+    },
+    {
+      "title": "Judge backs Little League Baseball decision to remove Tulsa - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/llws/story/_/id/49585682/judge-backs-little-league-baseball-decision-remove-tulsa",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700453_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 10:50:31 PM",
+      "desc": "A Texas court backed a decision to remove a Tulsa, Oklahoma, team from the Southwest Region and keep it from playing in Tuesday's title game for a spot in the Little League Baseball World Series, according to a statement from a Little League spokesperson."
+    },
+    {
+      "title": "Red Sox activate Adley Rutschman off injured list - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49585627/red-sox-activate-adley-rutschman-injured-list",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700488_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 10:39:23 PM",
+      "desc": "Catcher Adley Rutschman, who was acquired at the trade deadline, has been activated off the injured list and will bat third in his Red Sox debut vs. the Blue Jays."
     },
     {
       "title": "Will The Detroit Lions Reclaim The NFC North Crown? Colin Cowherd Thinks So",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/micah-quinnen.jpg?ve=1&tl=1",
       "published": "8/11/2026, 7:52:18 PM",
       "desc": "After extending Quinnen Williams, are the Dallas Cowboys the winners of the Micah Parsons trade with the Green Bay Packers?"
-    },
-    {
-      "title": "Saints Star Cam Jordan Could Be Sidelined Into Season With Hamstring Injury",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/cam-jordan-injury-saints-schedule",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/cam2.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 7:07:16 PM",
-      "desc": "New Orleans Saints coach Kellen Moore says defensive end Cam Jordan’s hamstring injury could linger into the regular season."
-    },
-    {
-      "title": "Angels fire pitching coach Mike Maddux, bullpen coach Dom Chiti - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49584176/angels-fire-pitching-coach-mike-maddux-bullpen-coach-dom-chiti",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700407_1296x729_16%2D9.jpg",
-      "published": "8/11/2026, 6:58:01 PM",
-      "desc": "The Angels, who have a staff ERA of 4.53 and an MLB-worst 508 walks, have fired pitching coach Mike Maddux, assistant Darryl Scott and bullpen coach Dom Chiti."
     }
   ],
   "tech": [
@@ -340,21 +340,21 @@
     },
     {
       "rank": 2,
-      "title": "Love Sensation (Afterhours Mix)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
-    },
-    {
-      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 3,
+      "title": "Love Sensation (Afterhours Mix)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
     },
     {
       "rank": 4,
@@ -376,6 +376,15 @@
     },
     {
       "rank": 6,
+      "title": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
+    },
+    {
+      "rank": 7,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
@@ -384,7 +393,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
@@ -393,7 +402,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -402,7 +411,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/19/d4/a419d480-9660-53bc-965e-9e4ffa0b270e/820200658401.jpg/300x300bb.jpg",
@@ -411,7 +420,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "I See You Now",
       "artist": "Roger Taylor",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/b6/da/9cb6da17-92c6-bba8-70c6-2a1a9f79afb6/196874388563.jpg/300x300bb.jpg",
@@ -420,7 +429,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Roger%20Taylor%20I%20See%20You%20Now"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
@@ -429,7 +438,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -438,31 +447,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 13,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 15,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 15,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
@@ -531,6 +531,15 @@
     },
     {
       "rank": 8,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 9,
       "title": "THE RIBBON HERO",
       "year": "2026",
       "cert": "12",
@@ -539,22 +548,13 @@
       "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 10,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
