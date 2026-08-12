@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-12T19:02:57.107Z",
+  "updated": "2026-08-12T20:02:49.093Z",
   "news": [
+    {
+      "title": "UK weather: Summer 2026 on course to be hottest on record, says Met Office",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/3a46/live/7e349d90-9591-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/11/2026, 7:37:20 PM",
+      "desc": "Only average conditions are needed for the remainder of August to break the record, which was set just last year."
+    },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state."
     },
     {
-      "title": "UK weather: Summer 2026 on course to be hottest on record, says Met Office",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg",
-      "published": "8/11/2026, 2:22:19 PM",
-      "desc": "Only average conditions are needed for the remainder of August to break the record, which was set just last year."
-    },
-    {
       "title": "Solar eclipse chasers scramble for glasses as stocks run low",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o",
@@ -68,12 +68,84 @@
   ],
   "sports": [
     {
+      "title": "NFL: New York Jets' Qwan'tez Stigger taken to hospital after collapsing in practice",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/american-football/articles/cgq5kdp8e0eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4c69/live/197d0c70-95b9-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/11/2026, 8:07:23 PM",
+      "desc": "New York Jets cornerback Qwan'tez Stiggers is taken to hospital after collapsing during a joint practice with the Tampa Bay Buccaneers."
+    },
+    {
+      "title": "Bears' Coby Bryant undergoes knee surgery, out 4-6 months - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49584684/bears-coby-bryant-undergoes-knee-surgery-4-6-months",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700440_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 7:57:01 PM",
+      "desc": "Chicago Bears safety Coby Bryant underwent knee surgery and is expected to miss four to six months, coach Ben Johnson announced Tuesday."
+    },
+    {
+      "title": "MLB 2026 Buzz: Angels Fire Pitching Coach Mike Maddux, More Coaches",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-2026-buzz-injuries-news-trades-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/16x9.jpg?ve=1&tl=1",
+      "published": "8/11/2026, 7:52:28 PM",
+      "desc": "Notable news, notes and buzz from MLB's 2026 season."
+    },
+    {
+      "title": "2026 NFL Christmas Odds: Lines, Spreads, What To Know For All 4 Games",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-christmas-odds-lines-spreads-what-know-all-4-games",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/rams-116.jpg?ve=1&tl=1",
+      "published": "8/11/2026, 7:52:21 PM",
+      "desc": "The NFL Christmas week slate is shaping up to be all time. See the odds for the four primetime matchups."
+    },
+    {
+      "title": "Why Quinnen Williams Extension Could Prove That Cowboys Won Micah Parsons Trade",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-extend-quinnen-williams-micah-parsons-trade-cowboys",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/micah-quinnen.jpg?ve=1&tl=1",
+      "published": "8/11/2026, 7:52:18 PM",
+      "desc": "After extending Quinnen Williams, are the Dallas Cowboys the winners of the Micah Parsons trade with the Green Bay Packers?"
+    },
+    {
+      "title": "Why Kevin O&#39;Connell Picked Kyler Murray As His Next Starting QB Experiment",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/why-vikings-picked-kyler-murray-kevin-oconnells-next-qb-experiment",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/kyler.jpg?ve=1&tl=1",
+      "published": "8/11/2026, 7:07:26 PM",
+      "desc": "Kyler Murray is getting a second chance with the Minnesota Vikings. Kevin O'Connell has his new QB1."
+    },
+    {
+      "title": "Saints Star Cam Jordan Could Be Sidelined Into Season With Hamstring Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/cam-jordan-injury-saints-schedule",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/cam2.jpg?ve=1&tl=1",
+      "published": "8/11/2026, 7:07:16 PM",
+      "desc": "New Orleans Saints coach Kellen Moore says defensive end Cam Jordan’s hamstring injury could linger into the regular season."
+    },
+    {
+      "title": "Angels fire pitching coach Mike Maddux, bullpen coach Dom Chiti - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49584176/angels-fire-pitching-coach-mike-maddux-bullpen-coach-dom-chiti",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700407_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 6:58:01 PM",
+      "desc": "The Angels, who have a staff ERA of 4.53 and an MLB-worst 508 walks, have fired pitching coach Mike Maddux, assistant Darryl Scott and bullpen coach Dom Chiti."
+    },
+    {
       "title": "Jets CB Stiggers taken to hospital after collapsing at practice - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49584063/jets-cb-stiggers-taken-hospital-collapsing-practice",
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1221%2Fr1592387_1296x729_16%2D9.jpg",
       "published": "8/11/2026, 6:32:14 PM",
       "desc": "Jets cornerback Qwan'tez Stiggers was transported by ambulance to a hospital after collapsing during a joint practice Tuesday with the Buccaneers."
+    },
+    {
+      "title": "Eagles QB Jalen Hurts' speed in camp drawing rave reviews - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49584056/eagles-qb-jalen-hurts-speed-camp-drawing-rave-reviews",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692489_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 6:30:10 PM",
+      "desc": "Jalen Hurts is drawing rave reviews in training camp by using his legs more, with players and coaches commenting how much faster he looks now."
     },
     {
       "title": "Chiefs' Rashee Rice says jail sentence was 'learning experience' - ESPN",
@@ -132,87 +204,55 @@
       "desc": "Check out the odds for the NBA's three opening night showdowns, featuring The King and The Alien."
     },
     {
-      "title": "Saints' Cam Jordan (hamstring) could miss start of regular season - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49583686/saints-cam-jordan-hamstring-miss-start-regular-season",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700350_1296x729_16%2D9.jpg",
-      "published": "8/11/2026, 5:36:20 PM",
-      "desc": "Saints coach Kellen Moore says defensive end Cameron Jordan \"could possibly\" miss the start of the regular season with a hamstring injury."
-    },
-    {
-      "title": "NASCAR Power Rankings: No Wins, No Problem; Christopher Bell Takes Top Spot",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-power-rankings-christopher-bell-moves-to-top-after-iowa",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/power-rankings-16x9-nascar-17.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 4:52:26 PM",
-      "desc": "Christopher Bell's second-place streak continued at Iowa, but it didn't stop him from moving up the rankings."
-    },
-    {
-      "title": "Vikings Reportedly Name Kyler Murray Starting Quarterback Over J.J. McCarthy",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/vikings-quarterback-battle-kyler-murray-jj-mccarthy",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/vikings1.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 4:52:26 PM",
-      "desc": "The Minnesota Vikings have reportedly decided whether Kyler Murray or J.J. McCarthy will be their starting quarterback."
-    },
-    {
       "title": "European Athletics Championships: Criticism as thousands of empty seats in Birmingham",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/news/articles/c0jl66j9yjpo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c912/live/3ecdcf10-959f-11f1-a036-eb7cd99c5268.jpg",
       "published": "8/11/2026, 4:52:25 PM",
       "desc": "Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday."
-    },
-    {
-      "title": "2026 NBA Christmas Day Odds: Spreads, Lines, What To Know For All 5 Games",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nba/2026-nba-christmas-day-odds-spreads-lines-what-know-all-5-games",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/jokic-42.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 4:52:24 PM",
-      "desc": "The NBA dropped its Christmas Day schedule. See the early odds and what to know about each holiday game."
-    },
-    {
-      "title": "Will Nebraska&#39;s New QB&#39;s Style Cause Trouble For Big Ten Defenses?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/nebraska-cornhuskers-anthony-colandrea-unlv-big-ten",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/colandreah1.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 4:52:20 PM",
-      "desc": "Anthony Colandrea is a mobile QB, and his play style changes the game for Nebraska."
-    },
-    {
-      "title": "Northwestern gets $35M over next 3 years for football program - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49583326/northwestern-gets-35m-next-3-years-football-program",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0107%2Fr1274671_1296x729_16%2D9.jpg",
-      "published": "8/11/2026, 4:35:08 PM",
-      "desc": "Northwestern announced, on Tuesday, that the football team has received a $35 million donation from Liz and Dick Uihlein aimed at strengthening the program."
-    },
-    {
-      "title": "Vikings name Kyler Murray starting QB, sources say - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49583297/vikings-name-kyler-murray-starting-qb-sources-say",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0729%2Fr1695314_1296x729_16%2D9.jpg",
-      "published": "8/11/2026, 4:27:46 PM",
-      "desc": "The Vikings have named Kyler Murray the team's starting quarterback over J.J. McCarthy, sources told ESPN's Adam Schefter."
-    },
-    {
-      "title": "2026 NFL Offseason Buzz: Colts GM Gives Alec Pierce Recovery Update",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 4:22:26 PM",
-      "desc": "Here's the latest offseason buzz and rumors around the NFL."
-    },
-    {
-      "title": "Jeff Bezos' Liverpool deal: What would investment mean for club?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cvgx311g1zko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg",
-      "published": "8/11/2026, 4:22:23 PM",
-      "desc": "Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans."
     }
   ],
   "tech": [
+    {
+      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,3.4249563699826,100,93.150087260035",
+      "published": "8/11/2026, 5:00:00 PM",
+      "desc": "Made by Google 2026 will be a celebrity livestream that feels like a play for the mainstream, but the Pixel 11 phones themselves could have power user appeal."
+    },
+    {
+      "title": "Bethesda Acknowledges Demand for Oblivion Remastered Patch, Calls for Calm - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/08/bethesda-acknowledges-demand-for-oblivion-remastered-patch-calls-for-calm",
+      "image": "https://images.digitalfoundry.net/e20b3f5a33e7b/large.jpg",
+      "published": "8/11/2026, 5:00:00 PM",
+      "desc": "\"We are looking into bringing [Switch 2 optimisations] to other platforms.\""
+    },
+    {
+      "title": "Elden Ring For Switch 2 Is Looking Pretty Slick In New Story Trailer - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer",
+      "image": "https://images.nintendolife.com/8afd7d3b7b8db/large.jpg",
+      "published": "8/11/2026, 4:45:00 PM",
+      "desc": "Not so tarnished, eh?"
+    },
+    {
+      "title": "The Lord of the Rings: War in the North - Legacy Edition now available for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/the-lord-of-the-rings-war-in-the-north-legacy-edition-now-available-for-ps5-xbox-series-switch-2-switch-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/LotR-War-North-Legacy-Edition_08-11-26.jpg",
+      "published": "8/11/2026, 4:42:27 PM",
+      "desc": "Aspyr ha announced and released The Lord of the Rings: War in the North – Legacy Edition, a remastered version of Snowblind Studios’ 2011-released action RPG, for PlayStation 5, Xbox Se…"
+    },
+    {
+      "title": "Control Resonant Wants 'To Challenge' What’s Come Before In Action Games - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/control-resonant-wants-to-challenge-whats-come-before-in-action-games-ign-first",
+      "image": "https://assets-prd.ignimgs.com/2026/08/07/ign-first-controlresonant-2-combatdetails-blogroll-1786102550782.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/11/2026, 4:00:00 PM",
+      "desc": "Control Resonant wants 'to challenge' what’s come before in action games. We take a deep dive into Remedy's first full swing at melee combat."
+    },
     {
       "title": "Zelda-themed Nintendo Switch 2 console and Pro Controller leaked - Notebookcheck",
       "source": "Notebookcheck.net",
@@ -222,20 +262,12 @@
       "desc": "Nintendo is reportedly planning to launch a new limited-edition Zelda-themed Nintendo Switch 2 console and a matching Pro Controller to celebrate the series' 40th anniversary. And a new leak has now given us our first look at the hardware."
     },
     {
-      "title": "iPhone Ultra will have two features that ‘Pro’ users should love - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/11/2026, 3:21:00 PM",
-      "desc": "iPhone 18 Pro or iPhone Ultra? That’s the decision upgraders will soon face. Here are two iPhone Ultra features that ‘Pro’ users should love."
-    },
-    {
-      "title": "What’s In The $100 ‘GTA VI’ Ultimate Edition, Which Most Fans Are Buying - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/11/whats-in-the-100-gta-vi-ultimate-edition-which-most-fans-are-buying/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b2d58a5ea9228c3fd9c7e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/11/2026, 2:16:31 PM",
-      "desc": "While most players are upset the price of gaming is going up, a majority of them are willing to pay $100 for the GTA VI Ultimate Edition. Here's what's inside."
+      "title": "The Gears of War: E-Day Beta Shows UE5 Visuals at Their Best, Despite Sometimes Shaky Performance on Series X/S - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/previews/the-gears-of-war-e-day-beta-shows-ue5-visuals-at-their-best-despite-sometimes-shaky-performance-on-series-xs",
+      "image": "https://images.digitalfoundry.net/fcf11b3f0f729/large.jpg",
+      "published": "8/11/2026, 3:39:00 PM",
+      "desc": "An important Xbox exclusive is shaping up nicely."
     },
     {
       "title": "Marvel's Wolverine Limited Edition PS5 Consoles, Controllers Announced, Pre-Orders Next Week - Push Square",
@@ -244,38 +276,6 @@
       "image": "https://images.pushsquare.com/175986f80e658/large.jpg",
       "published": "8/11/2026, 2:15:00 PM",
       "desc": "Nice PS5, bub"
-    },
-    {
-      "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
-      "image": "https://images.macrumors.com/t/3W26Rv2AgG-jzjMnQcwrrXDfnrc=/2500x/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "published": "8/11/2026, 1:50:19 PM",
-      "desc": "While the iPhone 17 Pro has double the base storage compared to the iPhone 16 Pro, there will apparently be no further increase this year.   In a..."
-    },
-    {
-      "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/11/2026, 1:50:00 PM",
-      "desc": "iOS 27 beta 5 includes confirmation of something Apple has hinted before: paying for higher iCloud+ tiers unlocks more access to AI features."
-    },
-    {
-      "title": "Overwatch Battle Pass Revamp Is Helping With The FOMO - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394",
-      "image": "https://kotaku.com/app/uploads/2025/02/fb0dc7e15f3f97b7b7b2f7960c45faaa-1200x675.jpg",
-      "published": "8/11/2026, 1:47:32 PM",
-      "desc": "The game’s shift to a Battle Pass structure in 2022 has made it difficult to get cosmetics if you’re not playing consistently each season"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&strip=all&crop=0,9.5560437679216,100,80.887912464157",
-      "published": "8/11/2026, 1:27:20 PM",
-      "desc": "Amazon’s order emails no longer show what specific items a customer has purchased. The vague emails are likely partially related to the fight for data in the agentic AI era."
     }
   ],
   "education": [
@@ -477,15 +477,6 @@
     },
     {
       "rank": 2,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 3,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -494,22 +485,31 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
-      "rank": 4,
-      "title": "The End of Oak Street",
+      "rank": 3,
+      "title": "Minions & Monsters",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 5,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
       "rank": 6,
@@ -522,12 +522,12 @@
     },
     {
       "rank": 7,
-      "title": "Toy Story 5",
+      "title": "THE RIBBON HERO",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
       "rank": 8,
@@ -540,12 +540,21 @@
     },
     {
       "rank": 9,
-      "title": "THE RIBBON HERO",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 10,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
