@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-12T08:18:41.870Z",
+  "updated": "2026-08-12T10:06:44.470Z",
   "news": [
+    {
+      "title": "England set to eliminate hepatitis C",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/11/2026, 9:52:21 AM",
+      "desc": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show."
+    },
+    {
+      "title": "London Heathrow replaced as Europe's busiest airport by Istanbul",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ec0/live/9c0c8bb0-9556-11f1-b96f-3d43158251d5.jpg",
+      "published": "8/11/2026, 9:37:27 AM",
+      "desc": "Istanbul overtakes Heathrow whose passenger numbers on Middle East routes fell 20.2% year-on-year."
+    },
+    {
+      "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39ad/live/cba75c80-9563-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/11/2026, 9:37:22 AM",
+      "desc": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say."
+    },
     {
       "title": "The lonely Chinese men being conned by fake brides",
       "source": "BBC News",
@@ -8,22 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63b2/live/079b5000-94d5-11f1-a7ab-8b30adf0800a.jpg",
       "published": "8/11/2026, 8:22:22 AM",
       "desc": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China."
-    },
-    {
-      "title": "The Cambridge University lecturer who kept her Tourette's secret",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7944gv359jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a748/live/91a09920-8a64-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "8/11/2026, 7:07:19 AM",
-      "desc": "Amanda Cole previously hid her condition but now wants others to \"tic freely\" without embarrassment."
-    },
-    {
-      "title": "Schools with more disadvantaged children missing swimming target",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq5831981o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0066/live/a5911020-9010-11f1-9b87-418a05eb4792.jpg",
-      "published": "8/11/2026, 6:22:19 AM",
-      "desc": "How is your school doing on teaching pupils life-saving swimming skills in the English curriculum?"
     },
     {
       "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
@@ -48,14 +56,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73a8/live/b54457b0-94c1-11f1-9a90-77b2d426fac3.jpg",
       "published": "8/11/2026, 1:07:18 AM",
       "desc": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales."
-    },
-    {
-      "title": "Newspaper headlines: '45m Brits in drought' and 'Not-so-small boats'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07r01rlpjxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f75d/live/954cb8b0-950e-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/11/2026, 12:37:17 AM",
-      "desc": "More of the UK is declared to be in drought an a \"mega-dinghy\" crossing the Channel leads Tuesday's papers."
     },
     {
       "title": "Canada flight cancelled after child refuses to wear seat belt",
@@ -214,12 +214,28 @@
   ],
   "tech": [
     {
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "image": "https://images.macrumors.com/t/wLgAAiLwH3el2P4hkJrGBrtRWVY=/2500x/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "published": "8/11/2026, 12:08:01 AM",
+      "desc": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References..."
+    },
+    {
       "title": "13 Fields of Mistria Tips For First-Time Farmers - Kotaku",
       "source": "Kotaku",
       "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
       "image": "https://kotaku.com/app/uploads/2026/08/fields-of-mistria-trailer-1.jpg",
       "published": "8/10/2026, 10:45:34 PM",
       "desc": "Starting your first farm in Mistria 1.0? Here are a few things that will make your journey easier"
+    },
+    {
+      "title": "Leaked Galaxy S26 FE specs confirm another battery disappointment from Samsung - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/leaked-galaxy-s26-fe-specs-confirm-another-battery-disappointment-from-samsung_id182497",
+      "image": "",
+      "published": "8/10/2026, 10:26:15 PM",
+      "desc": ""
     },
     {
       "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement - Ars Technica",
@@ -238,14 +254,6 @@
       "desc": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game."
     },
     {
-      "title": "iPhone 18 Pro BOM cost estimated to be up by 40% - GSMArena.com news - gsmarena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-952x498w6/gsmarena_000.jpg",
-      "published": "8/10/2026, 9:58:02 PM",
-      "desc": "Apple is reportedly paying three times more for RAM and storage than it did with the iPhone 17 Pro. We’ve already seen rumors that iPhone 18 Pro..."
-    },
-    {
       "title": "Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds - arstechnica.com",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
@@ -257,25 +265,17 @@
       "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed - IGN",
       "source": "IGN",
       "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
-      "image": "",
+      "image": "https://assets-prd.ignimgs.com/2026/07/30/bf6-vod1-oo-thumb-1785452574960.png?width=1280&format=jpg&auto=webp&quality=80",
       "published": "8/10/2026, 9:10:18 PM",
-      "desc": ""
+      "desc": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking."
     },
     {
-      "title": "Windows 11 license fee hikes contributing to higher laptop prices, says report - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
-      "image": "https://cdn.mos.cms.futurecdn.net/M7JF68YqgZSesrbfH9m6DN-2048-80.jpg",
-      "published": "8/10/2026, 8:47:20 PM",
-      "desc": "A new report claims Microsoft has raised the cost of the Windows license by up to 10% for certain OEMs, which is much higher than usual."
-    },
-    {
-      "title": "I Just Had My Mind Blown By A Car Museum In The Middle Of Nowhere Built By A Scrap-Metal Magnate - The Autopian",
-      "source": "Theautopian.com",
-      "url": "https://www.theautopian.com/i-just-had-my-mind-blown-by-a-car-museum-in-the-middle-of-nowhere-built-by-a-scrap-metal-magnate/",
-      "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Mind_Blowing_Museum_TS.jpg",
-      "published": "8/10/2026, 7:49:59 PM",
-      "desc": "Having lived in Detroit, LA, and Bavaria, and having a brother who lives in Hong Kong, I’ve been lucky enough to see some of the greatest car museums/collections this world has to offer. This past weekend, while on vacation with my family in Iowa, I saw one t…"
+      "title": "Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’ - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166",
+      "image": "https://kotaku.com/app/uploads/2026/07/tokon-1200x675.jpg",
+      "published": "8/10/2026, 8:59:49 PM",
+      "desc": "Arc System Works’ new Marvel tag fighter has been struggling on PC since beta"
     }
   ],
   "education": [
@@ -349,21 +349,21 @@
     },
     {
       "rank": 3,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 4,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 4,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 5,
@@ -376,21 +376,21 @@
     },
     {
       "rank": 6,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 7,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 7,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 8,
@@ -569,21 +569,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     },
     {
       "rank": 3,
