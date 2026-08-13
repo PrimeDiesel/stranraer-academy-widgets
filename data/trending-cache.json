@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-13T02:03:34.034Z",
+  "updated": "2026-08-13T04:18:36.891Z",
   "news": [
+    {
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a2f/live/9fe59830-95fb-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/12/2026, 3:22:23 AM",
+      "desc": "Trump maintains the military jet he boarded instead was at \"greater risk\" than the decoy Air Force One."
+    },
     {
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
       "source": "BBC News",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ca0/live/fa935510-9583-11f1-8636-978a48bd79b6.jpg",
       "published": "8/11/2026, 11:52:20 PM",
       "desc": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse."
-    },
-    {
-      "title": "UK police argue Tate brothers 'a flight risk' ahead of bail hearing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1a5/live/7c841320-95ac-11f1-969e-eb6036cb8925.jpg",
-      "published": "8/11/2026, 11:37:30 PM",
-      "desc": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue."
     },
     {
       "title": "Newspaper headlines: 'Andy U-turns on early release' and 'Hunt on for eclipse glasses'",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Dodgers' Blake Snell K's 10 in 6 innings in return from injury - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49587325/dodgers-blake-snell-strikes-10-6-innings-return-3-month-injury-layoff",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700626_1296x729_16%2D9.jpg",
+      "published": "8/12/2026, 3:54:40 AM",
+      "desc": "Blake Snell struck out seven of the first 10 batters he faced Tuesday night before giving up back-to-back hits in his return to the mound for the Dodgers after being sidelined for three months with loose bodies in his left elbow."
+    },
+    {
+      "title": "Kevin O&#39;Connell Explains Decision To Start Kyler Murray Over J.J. McCarthy",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/kevin-oconnell-explains-decision-start-kyler-murray-over-j-j-mccarthy",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/08/1408/814/a8b6d648-gettyimages-2165735554.jpg?ve=1&tl=1",
+      "published": "8/12/2026, 2:52:17 AM",
+      "desc": "The Minnesota Vikings have chosen Kyler Murray as their starting quarterback over J.J. McCarthy."
+    },
+    {
+      "title": "The Yankees Can&#39;t Hit But Keeping Winning With Help From A Rookie Sensation",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/yankees-george-lombard-rookie-shortstop-judge-stanton-bellinger",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/lombardstory.jpg?ve=1&tl=1",
+      "published": "8/12/2026, 2:52:14 AM",
+      "desc": "The Yankees can't really hit right now, but they're staying afloat thanks to pitching and a talented rookie shortstop."
+    },
     {
       "title": "10 NFL Players Positioning Themselves For A Breakthrough 2026 Season",
       "source": "Fox Sports",
@@ -108,14 +132,6 @@
       "desc": "Fever coach Stephanie White spoke out against what she called \"an online community that's trying to create narratives\" after some alleged she didn't defend Sophie Cunningham after she was flagrantly fouled by the Sky's DiJonai Carrington last week."
     },
     {
-      "title": "Integrity firm investigating 5 horse races amid unusual betting - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49585993/integrity-firm-investigating-5-horse-races-saratoga-monmouth-park-amid-unusual-betting",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700539_1296x729_16%2D9.jpg",
-      "published": "8/12/2026, 12:00:31 AM",
-      "desc": "A horse racing integrity firm is investigating five races that took place Sunday at Saratoga and Monmouth Park after bookmakers in the U.S. and U.K. detected unusual betting on horses that overperformed and are linked to the same training facility."
-    },
-    {
       "title": "Rafael Jodar: ATP record set to be broken by teenage tennis sensation at Canada Open",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno",
@@ -130,6 +146,14 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700453_1296x729_16%2D9.jpg",
       "published": "8/11/2026, 10:50:31 PM",
       "desc": "A Texas court backed a decision to remove a Tulsa, Oklahoma, team from the Southwest Region and keep it from playing in Tuesday's title game for a spot in the Little League Baseball World Series, according to a statement from a Little League spokesperson."
+    },
+    {
+      "title": "Adley Rutschman comes off IL, debuts for Red Sox in loss - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49585627/red-sox-activate-adley-rutschman-injured-list",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700547_1296x729_16%2D9.jpg",
+      "published": "8/11/2026, 10:39:23 PM",
+      "desc": "Catcher Adley Rutschman, who was acquired at last week's trade deadline, made his debut for the Red Sox on Tuesday night, collecting a single and two walks in Boston's 5-3 loss to the Blue Jays in Toronto."
     },
     {
       "title": "Will The Detroit Lions Reclaim The NFC North Crown? Colin Cowherd Thinks So",
@@ -186,33 +210,25 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700480_1024x576_16%2D9.jpg",
       "published": "8/11/2026, 9:14:37 PM",
       "desc": "A high school football player in Arkansas wore a unknowingly wore a helmet with a venomous snake inside it for nearly an hour before discovering the unwelcome intruder."
-    },
-    {
-      "title": "Bears S Coby Bryant Undergoes Knee Surgery, Expected To Miss 4-6 Months",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/chicago-bears-coby-bryant-undergo-knee-surgery",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/gettyimages-2280285142-scaled-e1786477962671.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 8:22:22 PM",
-      "desc": "Chicago Bears safety Coby Bryant has undergone knee surgery following a recent training camp injury, significantly shifting his recovery timeline."
-    },
-    {
-      "title": "2026 NASCAR Odds: Denny Hamlin Favored For Richmond; Christopher Bell Second",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-richmond-raceway-cook-out-400",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/denny-hamlin_odds_richmond_favorite.jpg?ve=1&tl=1",
-      "published": "8/11/2026, 8:22:20 PM",
-      "desc": "Will Christopher Bell break his second-place streak at Richmond? Here are the early odds for the Cook Out 400."
-    },
-    {
-      "title": "NFL: New York Jets' Qwan'tez Stigger taken to hospital after collapsing in practice",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/american-football/articles/cgq5kdp8e0eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4c69/live/197d0c70-95b9-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/11/2026, 8:07:23 PM",
-      "desc": "New York Jets cornerback Qwan'tez Stiggers is taken to hospital after collapsing during a joint practice with the Tampa Bay Buccaneers."
     }
   ],
   "tech": [
+    {
+      "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/12/2026, 2:30:00 AM",
+      "desc": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 discount codes..."
+    },
+    {
+      "title": "Phantom Blade Zero pre-orders now available, 11-minute trailer - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/phantom-blade-zero-pre-orders-now-available-11-minute-trailer-dedicated-state-of-play-set-for-august-17",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Phantom-Blade-Zero-Pre-Order_08-11-26.jpg",
+      "published": "8/12/2026, 2:06:03 AM",
+      "desc": "S-GAME has opened pre-orders and released an 11-minute trailer for Wuxia action RPG Phantom Blade Zero."
+    },
     {
       "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
       "source": "The Verge",
@@ -222,12 +238,20 @@
       "desc": "A Redditor has legit-looking photos of a prototype Xbox controller that’s almost certainly the Xbox Elite Series 3."
     },
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes - Krebs on Security",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png",
-      "published": "8/11/2026, 9:46:02 PM",
-      "desc": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
+      "title": "What to know as your driver's license gets a digital upgrade - PBS",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hands-holding-phone-GettyImages-184060520-1024x683.jpg",
+      "published": "8/11/2026, 10:25:07 PM",
+      "desc": "Your old plastic driver's license could soon be getting a digital upgrade. Multiplatform producer Tim McPhillips walks us through four things you should know, including some of the benefits and some of the concerns."
+    },
+    {
+      "title": "Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/08/10/cyberpowerpcgamerxtreme-1786402775435.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/11/2026, 10:03:18 PM",
+      "desc": "It comes with two free upcoming PC games - Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis"
     },
     {
       "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
@@ -244,38 +268,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
       "published": "8/11/2026, 8:59:52 PM",
       "desc": "Device-bound session credentials thwart an increasingly common form of account takeover."
-    },
-    {
-      "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2",
-      "image": "https://dims.apnews.com/dims4/default/517f034/2147483647/strip/true/crop/1000x666+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F3a%2F26e1fd440e90871ec53bb7407bfa%2Fd0e1fa3bbd504cca9472a9d128b7f6c3",
-      "published": "8/11/2026, 8:02:00 PM",
-      "desc": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisconsin, and will be auctioned off starting Friday. Jason Ganos with Nintendo Wire said he discovered the products after they had been hidden away in a storage u…"
-    },
-    {
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/11/2026, 7:40:00 PM",
-      "desc": "Mark Gurman says that ‘iPhone Ultra’ is the name widely used within Apple when referring to the upcoming foldable model."
-    },
-    {
-      "title": "King's Field IV Will Kill You, And Some Of You Will Like It - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "image": "https://kotaku.com/app/uploads/2026/08/kingsfield42-1-1200x675.jpg",
-      "published": "8/11/2026, 7:32:14 PM",
-      "desc": "Beware: Poison"
-    },
-    {
-      "title": "Google TV adds over 10,000 free movies & shows on-demand, no apps needed - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/11/google-tv-free-movies-on-demand/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-tv-freeplay-movies-ondemand.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/11/2026, 6:55:00 PM",
-      "desc": "An update to Google TV Freeplay is bringing over 10,000 free movies and TV shows to the platform, no apps needed."
     }
   ],
   "education": [
@@ -340,21 +332,21 @@
     },
     {
       "rank": 2,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 3,
       "title": "Love Sensation (Afterhours Mix)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
+    },
+    {
+      "rank": 3,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 4,
@@ -367,6 +359,15 @@
     },
     {
       "rank": 5,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 6,
       "title": "Total Eclipse of the Heart",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
@@ -375,22 +376,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 7,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
       "rank": 8,
@@ -430,6 +422,15 @@
     },
     {
       "rank": 12,
+      "title": "Ten Over Ten",
+      "artist": "Royal Blood",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/a4/de/71a4de9a-a29a-56cc-ffa9-102f6ca76a43/1200214816384.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/d4/42/a4d442db-80ff-a1a1-925a-8f1a5e7e908c/mzaf_9908745056224979040.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ten-over-ten/6800026500?i=6800026503&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Royal%20Blood%20Ten%20Over%20Ten"
+    },
+    {
+      "rank": 13,
       "title": "I See You Now",
       "artist": "Roger Taylor",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/b6/da/9cb6da17-92c6-bba8-70c6-2a1a9f79afb6/196874388563.jpg/300x300bb.jpg",
@@ -438,7 +439,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Roger%20Taylor%20I%20See%20You%20Now"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -447,22 +448,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 15,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     }
   ],
   "movies": [
@@ -522,21 +514,21 @@
     },
     {
       "rank": 7,
-      "title": "THE RIBBON HERO",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
-    },
-    {
-      "rank": 8,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 8,
+      "title": "THE RIBBON HERO",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     },
     {
       "rank": 9,
@@ -546,6 +538,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 10,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
