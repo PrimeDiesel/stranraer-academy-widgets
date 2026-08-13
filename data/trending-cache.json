@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-13T19:04:02.362Z",
+  "updated": "2026-08-13T19:58:23.505Z",
   "news": [
+    {
+      "title": "ICE equipping agents with gloves that deliver electric shocks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
+      "published": "8/12/2026, 7:52:21 PM",
+      "desc": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used."
+    },
+    {
+      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2ec/live/16acf510-9680-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/12/2026, 7:22:32 PM",
+      "desc": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather."
+    },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "source": "BBC News",
@@ -34,28 +50,12 @@
       "desc": "Organisers say countries engaged in armed conflict will be automatically disqualified from hosting."
     },
     {
-      "title": "What time and where might you see the solar eclipse in Scotland",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ed9/live/52244570-9668-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/12/2026, 4:22:26 PM",
-      "desc": "Hopes of catching the best view are fading in parts of Scotland as clouds threaten to hide the celestial event."
-    },
-    {
       "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "8/12/2026, 3:07:13 PM",
       "desc": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat."
-    },
-    {
-      "title": "Solar eclipse 2026 warning from man with lasting eye damage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d19q9kngo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1f4/live/109fc7c0-955d-11f1-b96f-3d43158251d5.jpg",
-      "published": "8/12/2026, 1:22:26 PM",
-      "desc": "Peter Smith damaged his eyes by watching the 1999 eclipse without suitable glasses."
     },
     {
       "title": "Lucy Davis: Comedian Jasper Carrott says he is 'so proud' of daughter following her cancer diagnosis",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Tua Tagovailoa Will Start Falcons Preseason Opener, But Week 1 QB Still Unclear",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/tua-tagovailoa-will-start-falcons-preseason-opener-week-1-qb-still-unclear",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/tua-tagovailoa.jpg?ve=1&tl=1",
+      "published": "8/12/2026, 7:52:20 PM",
+      "desc": "Atlanta Falcons quarterback Tua Tagovailoa will start Friday in the team's preseason opener against the Denver Broncos, head coach Kevin Stefanski announced Wednesday."
+    },
+    {
+      "title": "Former Pac-12 Quarterbacks ‘Transforming’ The Big Ten? Klatt, Cowherd Weigh In",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/pac-12-quarterback-play-transforming-big-ten-klatt-cowherd-weigh",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-6.jpg?ve=1&tl=1",
+      "published": "8/12/2026, 7:52:18 PM",
+      "desc": "Have former Pac-12 quarterbacks transformed the Big Ten? FOX Sports Colin Cowherd and Joel Klatt weigh in."
+    },
+    {
+      "title": "European Aquatics Championships: Angharad Evans wins gold in 100m breaststroke",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/swimming/articles/ce34p76qedzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5ed/live/c50c8410-9683-11f1-9854-73d5e7b83e3b.jpg",
+      "published": "8/12/2026, 7:37:25 PM",
+      "desc": "Great Britain's Angharad Evans won her first European Championship gold in the 100m breaststroke final in Paris."
+    },
     {
       "title": "How Experience And Talent Made USC&#39;s Gary Patterson A &#39;1 Of 1&#39; Addition",
       "source": "Fox Sports",
@@ -82,6 +106,14 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/kelce1.jpg?ve=1&tl=1",
       "published": "8/12/2026, 7:07:17 PM",
       "desc": "Travis Kelce calls training camp with the Kansas City Chiefs his “sanctuary.\""
+    },
+    {
+      "title": "Chiefs' Travis Kelce says he can still 'play at a high level' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49592164/chiefs-travis-kelce-says-play-high-level",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700860_1296x729_16%2D9.jpg",
+      "published": "8/12/2026, 7:02:15 PM",
+      "desc": "Chiefs star Travis Kelce says he believes he can perform at a higher level in what could be his final NFL season, adding that he also wants to be more \"accountable\" as a leader in the locker room."
     },
     {
       "title": "Jets' Qwan'tez Stiggers in concussion protocol after collapsing - ESPN",
@@ -178,96 +210,64 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0708%2Fr1686432_1296x729_16%2D9.jpg",
       "published": "8/12/2026, 5:10:28 PM",
       "desc": "Ben Johnson has bigger goals than winning the Super Bowl this season, saying he wants the Bears to be \"the highest-scoring offense ever.\""
-    },
-    {
-      "title": "NASCAR All-Star Race Returns To North Wilkesboro",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-all-star-race-returns-north-wilkesboro-2027",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/north-wilkesboro_all-star_returns_2027_nascar.jpg?ve=1&tl=1",
-      "published": "8/12/2026, 5:07:20 PM",
-      "desc": "NASCAR's All-Star Race is going back to North Wilkesboro in 2027."
-    },
-    {
-      "title": "2027 INDYCAR Schedule Tracker: First 8 Dates Announced",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/2027-indycar-schedule-tracker",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/indycar-schedule_2027_dates.jpg?ve=1&tl=1",
-      "published": "8/12/2026, 4:22:25 PM",
-      "desc": "Where and when will the INDYCAR Series race in 2027? Here are the latest updates."
-    },
-    {
-      "title": "Los Angeles Lakers: NBA franchise to be sold in record $12.5bn deal to Josh Kushner and Bob Iger",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "8/12/2026, 4:22:14 PM",
-      "desc": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
-    },
-    {
-      "title": "Last Night In Baseball: Blake Snell Returned To The Dodgers And Dominated",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/blake-snell-dodgers-yankees-braves-rays",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/snellh1.jpg?ve=1&tl=1",
-      "published": "8/12/2026, 4:07:21 PM",
-      "desc": "Blake Snell was in Cy Young form, the Padres and Rays extended their winning streaks, the home run leaderboard got crowded, Pete Crow-Armstrong destroyed a baseball and more from Tuesday's MLB action."
     }
   ],
   "tech": [
     {
-      "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1,399 Shipped and Includes Two Upcoming PC Games - IGN",
+      "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/08/10/cyberpowerpcgamerxtreme-1786402775435.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/12/2026, 4:20:00 PM",
-      "desc": "Get Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis for free as part of the Intel Gamer Days event."
+      "url": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
+      "image": "https://assets-prd.ignimgs.com/2026/08/12/screenshot-2026-08-12-151416-1786544106177.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/12/2026, 7:33:53 PM",
+      "desc": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controllers, which look just as gruff and grizzled as you'd expect."
     },
     {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
-      "published": "8/12/2026, 3:18:55 PM",
-      "desc": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
+      "title": "Pixel 11 Pro displays are ‘more than twice’ as scratch-resistant – it only gets better from there - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-series-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/12/2026, 7:30:00 PM",
+      "desc": "Google is delivering some seriously durable phones, or so it claims, with the entire Pixel 11 Pro series delivering huge..."
     },
     {
-      "title": "Multiplayer Witcher spin-off Project Sirius reportedly hit by layoffs again, in \"broader shift in development strategy\" at CD Projekt Red - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/cd-projekt-red-project-sirius-layoffs",
-      "image": "https://assetsio.gnwcdn.com/witcher-3-geralt_uS0zYOX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/12/2026, 3:18:51 PM",
-      "desc": "Of all the games CD Projekt Red has in development, the multiplayer-linked Witcher spin-off Project Sirius has had the most trouble."
+      "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+      "published": "8/12/2026, 7:27:47 PM",
+      "desc": "Apple is reportedly planning to stagger the launch of the iPhone 18 series, with the base iPhone 18 now postponed until early 2027."
     },
     {
-      "title": "Xbox officially reveals its limited edition Gears of War E-Day controller, plus new Design Lab options - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/xbox-officially-reveals-its-limited-edition-gears-of-war-e-day-controller-plus-new-design-lab-options/",
-      "image": "https://www.videogameschronicle.com/files/2026/08/E-Day-Controller-Collection-e01b6ed7344d088376e3.jpg",
-      "published": "8/12/2026, 3:04:56 PM",
-      "desc": "The controller and Design Lab update will both launch on September 30"
+      "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/12/2026, 5:50:00 PM",
+      "desc": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before."
     },
     {
-      "title": "‘Crimson Desert’ DLC Is Imminent, Multiplayer Modes Ahead - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/12/crimson-desert-dlc-is-imminent-multiplayer-modes-ahead/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69f0b2cce6907e334cf464df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/12/2026, 3:00:01 PM",
-      "desc": "Crimson Desert is getting DLC very soon, and Pearl Abyss is looking ahead to multiplayer for the smash hit game."
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+      "published": "8/12/2026, 5:47:54 PM",
+      "desc": "Google has officially unveiled the Pixel 11, Pixel 11 Pro and Pro XL, and Pixel 11 Fold. They’re available for preorder from retailers and carriers."
     },
     {
-      "title": "Oblivion Remastered Is Fine On Switch 2, But Fans Want A PS5 Patch - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-oblivion-remaster-on-switch-2-is-better-than-expected-and-fans-are-angry-2000723781",
-      "image": "https://kotaku.com/app/uploads/2025/05/6235f61a2f468a596e148f467ed6c22f.jpg",
-      "published": "8/12/2026, 2:45:18 PM",
-      "desc": "Many players want Bethesda to update the RPG on PS5 and Xbox following the release of the new port"
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/12/2026, 5:27:00 PM",
+      "desc": "iPhone Ultra will be unveiled next month, and a new leak indicates the device’s front cameras could be positioned in unusual spots."
     },
     {
-      "title": "‘Palworld’ Patch Notes: Big Buffs For Way Less Grinding - forbes.com",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/12/palworld-patch-notes-big-buffs-for-way-less-grinding/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a64ac61c8dfb6888f9e71cf/0x0.jpg?format=jpg&crop=2562,1439,x255,y0,safe&height=900&width=1600&fit=bounds",
-      "published": "8/12/2026, 2:42:57 PM",
-      "desc": "Here are the Palworld patch notes for its latest update, which significantly nerfs some of the most annoying grinds in the game."
+      "title": "Find your perfect accessories with Spigen’s Pixel 11 collection - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pr_pixel_11_01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/12/2026, 5:00:00 PM",
+      "desc": "Google’s Pixel 11 series is a refinement that takes on a more eye-catching look with bold new colors, and Spigen..."
     }
   ],
   "education": [
@@ -539,21 +539,21 @@
     },
     {
       "rank": 8,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 9,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
