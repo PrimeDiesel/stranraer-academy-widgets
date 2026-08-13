@@ -1,14 +1,15 @@
 {
-  "lastUpdated": "2026-08-13T04:32:59.000Z",
+  "lastUpdated": "2026-08-13T04:44:46.939Z",
   "stats": {
     "total": 365,
-    "withCovers": 218,
-    "withoutCovers": 147,
-    "percentage": 60,
-    "newlyFetched": 0,
-    "alreadyCached": 218,
-    "failed": 0,
-    "note": "Placeholder cover entries for days 223-364 removed; re-run the cover-fetch script to populate real covers for the new titles."
+    "withCovers": 358,
+    "withoutCovers": 7,
+    "percentage": 98,
+    "newlyFetched": 140,
+    "alreadyCached": 223,
+    "failed": 2,
+    "openLibrary": 140,
+    "googleBooks": 0
   },
   "books": {
     "the-hobbit-j-r-r--tolkien": {
@@ -1535,6 +1536,998 @@
       "title": "The Chocolate War",
       "author": "Robert Cormier",
       "coverUrl": "https://covers.openlibrary.org/b/id/12619603-L.jpg",
+      "source": "openlibrary"
+    },
+    "little-women-louisa-may-alcott": {
+      "day": 223,
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8775559-L.jpg",
+      "source": "openlibrary"
+    },
+    "anne-of-green-gables-l-m--montgomery": {
+      "day": 224,
+      "title": "Anne of Green Gables",
+      "author": "L.M. Montgomery",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14641084-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-secret-garden-frances-hodgson-burnett": {
+      "day": 225,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12622062-L.jpg",
+      "source": "openlibrary"
+    },
+    "a-little-princess-frances-hodgson-burnett": {
+      "day": 226,
+      "title": "A Little Princess",
+      "author": "Frances Hodgson Burnett",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2328315-L.jpg",
+      "source": "openlibrary"
+    },
+    "black-beauty-anna-sewell": {
+      "day": 227,
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5007492-L.jpg",
+      "source": "openlibrary"
+    },
+    "heidi-johanna-spyri": {
+      "day": 228,
+      "title": "Heidi",
+      "author": "Johanna Spyri",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2668686-L.jpg",
+      "source": "openlibrary"
+    },
+    "peter-pan-j-m--barrie": {
+      "day": 229,
+      "title": "Peter Pan",
+      "author": "J.M. Barrie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14426417-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-wonderful-wizard-of-oz-l--frank-baum": {
+      "day": 230,
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "coverUrl": "https://covers.openlibrary.org/b/id/552443-L.jpg",
+      "source": "openlibrary"
+    },
+    "alice-s-adventures-in-wonderland-lewis-carroll": {
+      "day": 231,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+      "source": "openlibrary"
+    },
+    "through-the-looking-glass-lewis-carroll": {
+      "day": 232,
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11272464-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-railway-children-e--nesbit": {
+      "day": 233,
+      "title": "The Railway Children",
+      "author": "E. Nesbit",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13241123-L.jpg",
+      "source": "openlibrary"
+    },
+    "five-children-and-it-e--nesbit": {
+      "day": 234,
+      "title": "Five Children and It",
+      "author": "E. Nesbit",
+      "coverUrl": "https://covers.openlibrary.org/b/id/28174-L.jpg",
+      "source": "openlibrary"
+    },
+    "ballet-shoes-noel-streatfeild": {
+      "day": 235,
+      "title": "Ballet Shoes",
+      "author": "Noel Streatfeild",
+      "coverUrl": "https://covers.openlibrary.org/b/id/747323-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-borrowers-mary-norton": {
+      "day": 236,
+      "title": "The Borrowers",
+      "author": "Mary Norton",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6384556-L.jpg",
+      "source": "openlibrary"
+    },
+    "watership-down-richard-adams": {
+      "day": 237,
+      "title": "Watership Down",
+      "author": "Richard Adams",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6450196-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-hundred-and-one-dalmatians-dodie-smith": {
+      "day": 238,
+      "title": "The Hundred and One Dalmatians",
+      "author": "Dodie Smith",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7925434-L.jpg",
+      "source": "openlibrary"
+    },
+    "stig-of-the-dump-clive-king": {
+      "day": 239,
+      "title": "Stig of the Dump",
+      "author": "Clive King",
+      "coverUrl": "https://covers.openlibrary.org/b/id/108872-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-iron-man-ted-hughes": {
+      "day": 240,
+      "title": "The Iron Man",
+      "author": "Ted Hughes",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10333823-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-sheep-pig-dick-king-smith": {
+      "day": 241,
+      "title": "The Sheep-Pig",
+      "author": "Dick King-Smith",
+      "coverUrl": "https://covers.openlibrary.org/b/id/231656-L.jpg",
+      "source": "openlibrary"
+    },
+    "goodnight-mister-tom-michelle-magorian": {
+      "day": 242,
+      "title": "Goodnight Mister Tom",
+      "author": "Michelle Magorian",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8762854-L.jpg",
+      "source": "openlibrary"
+    },
+    "carrie-s-war-nina-bawden": {
+      "day": 243,
+      "title": "Carrie's War",
+      "author": "Nina Bawden",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8783012-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-machine-gunners-robert-westall": {
+      "day": 244,
+      "title": "The Machine Gunners",
+      "author": "Robert Westall",
+      "coverUrl": "https://covers.openlibrary.org/b/id/197387-L.jpg",
+      "source": "openlibrary"
+    },
+    "wonder-r-j--palacio": {
+      "day": 245,
+      "title": "Wonder",
+      "author": "R.J. Palacio",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8223160-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-boy-in-the-striped-pyjamas-john-boyne": {
+      "day": 246,
+      "title": "The Boy in the Striped Pyjamas",
+      "author": "John Boyne",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12720687-L.jpg",
+      "source": "openlibrary"
+    },
+    "war-horse-michael-morpurgo": {
+      "day": 247,
+      "title": "War Horse",
+      "author": "Michael Morpurgo",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6714571-L.jpg",
+      "source": "openlibrary"
+    },
+    "private-peaceful-michael-morpurgo": {
+      "day": 248,
+      "title": "Private Peaceful",
+      "author": "Michael Morpurgo",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10875-L.jpg",
+      "source": "openlibrary"
+    },
+    "kensuke-s-kingdom-michael-morpurgo": {
+      "day": 249,
+      "title": "Kensuke's Kingdom",
+      "author": "Michael Morpurgo",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7263434-L.jpg",
+      "source": "openlibrary"
+    },
+    "skellig-david-almond": {
+      "day": 250,
+      "title": "Skellig",
+      "author": "David Almond",
+      "coverUrl": "https://covers.openlibrary.org/b/id/239603-L.jpg",
+      "source": "openlibrary"
+    },
+    "a-monster-calls-patrick-ness": {
+      "day": 251,
+      "title": "A Monster Calls",
+      "author": "Patrick Ness",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7011713-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-knife-of-never-letting-go-patrick-ness": {
+      "day": 252,
+      "title": "The Knife of Never Letting Go",
+      "author": "Patrick Ness",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10200429-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-graveyard-book-neil-gaiman": {
+      "day": 253,
+      "title": "The Graveyard Book",
+      "author": "Neil Gaiman",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7099583-L.jpg",
+      "source": "openlibrary"
+    },
+    "inkheart-cornelia-funke": {
+      "day": 254,
+      "title": "Inkheart",
+      "author": "Cornelia Funke",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9781913696184-L.jpg",
+      "source": "openlibrary"
+    },
+    "stormbreaker-anthony-horowitz": {
+      "day": 255,
+      "title": "Stormbreaker",
+      "author": "Anthony Horowitz",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5081706-L.jpg",
+      "source": "openlibrary"
+    },
+    "skulduggery-pleasant-derek-landy": {
+      "day": 256,
+      "title": "Skulduggery Pleasant",
+      "author": "Derek Landy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/48006-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-amulet-of-samarkand-jonathan-stroud": {
+      "day": 257,
+      "title": "The Amulet of Samarkand",
+      "author": "Jonathan Stroud",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14369347-L.jpg",
+      "source": "openlibrary"
+    },
+    "sabriel-garth-nix": {
+      "day": 258,
+      "title": "Sabriel",
+      "author": "Garth Nix",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13165306-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-bad-beginning-lemony-snicket": {
+      "day": 259,
+      "title": "The Bad Beginning",
+      "author": "Lemony Snicket",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7255974-L.jpg",
+      "source": "openlibrary"
+    },
+    "noughts---crosses-malorie-blackman": {
+      "day": 260,
+      "title": "Noughts & Crosses",
+      "author": "Malorie Blackman",
+      "coverUrl": "https://covers.openlibrary.org/b/id/367267-L.jpg",
+      "source": "openlibrary"
+    },
+    "rooftoppers-katherine-rundell": {
+      "day": 261,
+      "title": "Rooftoppers",
+      "author": "Katherine Rundell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11005341-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-explorer-katherine-rundell": {
+      "day": 262,
+      "title": "The Explorer",
+      "author": "Katherine Rundell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14621738-L.jpg",
+      "source": "openlibrary"
+    },
+    "i-capture-the-castle-dodie-smith": {
+      "day": 263,
+      "title": "I Capture the Castle",
+      "author": "Dodie Smith",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5080686-L.jpg",
+      "source": "openlibrary"
+    },
+    "my-family-and-other-animals-gerald-durrell": {
+      "day": 264,
+      "title": "My Family and Other Animals",
+      "author": "Gerald Durrell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5547600-L.jpg",
+      "source": "openlibrary"
+    },
+    "cider-with-rosie-laurie-lee": {
+      "day": 265,
+      "title": "Cider with Rosie",
+      "author": "Laurie Lee",
+      "coverUrl": "https://covers.openlibrary.org/b/id/107817-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-prime-of-miss-jean-brodie-muriel-spark": {
+      "day": 266,
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "coverUrl": "https://covers.openlibrary.org/b/id/40054-L.jpg",
+      "source": "openlibrary"
+    },
+    "sunset-song-lewis-grassic-gibbon": {
+      "day": 267,
+      "title": "Sunset Song",
+      "author": "Lewis Grassic Gibbon",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14433976-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-cone-gatherers-robin-jenkins": {
+      "day": 268,
+      "title": "The Cone-Gatherers",
+      "author": "Robin Jenkins",
+      "coverUrl": "https://covers.openlibrary.org/b/id/94563-L.jpg",
+      "source": "openlibrary"
+    },
+    "whisky-galore-compton-mackenzie": {
+      "day": 269,
+      "title": "Whisky Galore",
+      "author": "Compton Mackenzie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/93042-L.jpg",
+      "source": "openlibrary"
+    },
+    "greyfriars-bobby-eleanor-atkinson": {
+      "day": 270,
+      "title": "Greyfriars Bobby",
+      "author": "Eleanor Atkinson",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2761957-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-princess-and-the-goblin-george-macdonald": {
+      "day": 271,
+      "title": "The Princess and the Goblin",
+      "author": "George MacDonald",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14363454-L.jpg",
+      "source": "openlibrary"
+    },
+    "gulliver-s-travels-jonathan-swift": {
+      "day": 272,
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12717083-L.jpg",
+      "source": "openlibrary"
+    },
+    "don-quixote-miguel-de-cervantes": {
+      "day": 273,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13846974-L.jpg",
+      "source": "openlibrary"
+    },
+    "middlemarch-george-eliot": {
+      "day": 274,
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "coverUrl": "https://covers.openlibrary.org/b/id/252882-L.jpg",
+      "source": "openlibrary"
+    },
+    "silas-marner-george-eliot": {
+      "day": 275,
+      "title": "Silas Marner",
+      "author": "George Eliot",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9286405-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-mill-on-the-floss-george-eliot": {
+      "day": 276,
+      "title": "The Mill on the Floss",
+      "author": "George Eliot",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8236884-L.jpg",
+      "source": "openlibrary"
+    },
+    "far-from-the-madding-crowd-thomas-hardy": {
+      "day": 277,
+      "title": "Far from the Madding Crowd",
+      "author": "Thomas Hardy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/902038-L.jpg",
+      "source": "openlibrary"
+    },
+    "tess-of-the-d-urbervilles-thomas-hardy": {
+      "day": 278,
+      "title": "Tess of the d'Urbervilles",
+      "author": "Thomas Hardy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13109386-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-mayor-of-casterbridge-thomas-hardy": {
+      "day": 279,
+      "title": "The Mayor of Casterbridge",
+      "author": "Thomas Hardy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1260617-L.jpg",
+      "source": "openlibrary"
+    },
+    "vanity-fair-william-makepeace-thackeray": {
+      "day": 280,
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "coverUrl": "https://covers.openlibrary.org/b/id/417329-L.jpg",
+      "source": "openlibrary"
+    },
+    "bleak-house-charles-dickens": {
+      "day": 281,
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9279273-L.jpg",
+      "source": "openlibrary"
+    },
+    "nicholas-nickleby-charles-dickens": {
+      "day": 282,
+      "title": "Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9283905-L.jpg",
+      "source": "openlibrary"
+    },
+    "hard-times-charles-dickens": {
+      "day": 283,
+      "title": "Hard Times",
+      "author": "Charles Dickens",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8236916-L.jpg",
+      "source": "openlibrary"
+    },
+    "heart-of-darkness-joseph-conrad": {
+      "day": 284,
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12307847-L.jpg",
+      "source": "openlibrary"
+    },
+    "rebecca-daphne-du-maurier": {
+      "day": 285,
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8238729-L.jpg",
+      "source": "openlibrary"
+    },
+    "jamaica-inn-daphne-du-maurier": {
+      "day": 286,
+      "title": "Jamaica Inn",
+      "author": "Daphne du Maurier",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8765960-L.jpg",
+      "source": "openlibrary"
+    },
+    "cranford-elizabeth-gaskell": {
+      "day": 287,
+      "title": "Cranford",
+      "author": "Elizabeth Gaskell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5188445-L.jpg",
+      "source": "openlibrary"
+    },
+    "north-and-south-elizabeth-gaskell": {
+      "day": 288,
+      "title": "North and South",
+      "author": "Elizabeth Gaskell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8242253-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-woman-in-white-wilkie-collins": {
+      "day": 289,
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4684227-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-moonstone-wilkie-collins": {
+      "day": 290,
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8237041-L.jpg",
+      "source": "openlibrary"
+    },
+    "of-mice-and-men-john-steinbeck": {
+      "day": 291,
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14319003-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-pearl-john-steinbeck": {
+      "day": 292,
+      "title": "The Pearl",
+      "author": "John Steinbeck",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2523104-L.jpg",
+      "source": "openlibrary"
+    },
+    "cannery-row-john-steinbeck": {
+      "day": 293,
+      "title": "Cannery Row",
+      "author": "John Steinbeck",
+      "coverUrl": "https://covers.openlibrary.org/b/id/100939-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-old-man-and-the-sea-ernest-hemingway": {
+      "day": 294,
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "coverUrl": "https://covers.openlibrary.org/b/id/463307-L.jpg",
+      "source": "openlibrary"
+    },
+    "a-farewell-to-arms-ernest-hemingway": {
+      "day": 295,
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7226599-L.jpg",
+      "source": "openlibrary"
+    },
+    "fahrenheit-451-ray-bradbury": {
+      "day": 296,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12993656-L.jpg",
+      "source": "openlibrary"
+    },
+    "catch-22-joseph-heller": {
+      "day": 297,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6468653-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-bell-jar-sylvia-plath": {
+      "day": 298,
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8477115-L.jpg",
+      "source": "openlibrary"
+    },
+    "to-the-lighthouse-virginia-woolf": {
+      "day": 299,
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231846-L.jpg",
+      "source": "openlibrary"
+    },
+    "mrs-dalloway-virginia-woolf": {
+      "day": 300,
+      "title": "Mrs Dalloway",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6397580-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-remains-of-the-day-kazuo-ishiguro": {
+      "day": 301,
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "coverUrl": "https://covers.openlibrary.org/b/id/95742-L.jpg",
+      "source": "openlibrary"
+    },
+    "never-let-me-go-kazuo-ishiguro": {
+      "day": 302,
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1047334-L.jpg",
+      "source": "openlibrary"
+    },
+    "atonement-ian-mcewan": {
+      "day": 303,
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8381043-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-handmaid-s-tale-margaret-atwood": {
+      "day": 304,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231851-L.jpg",
+      "source": "openlibrary"
+    },
+    "life-of-pi-yann-martel": {
+      "day": 305,
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12840573-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-kite-runner-khaled-hosseini": {
+      "day": 306,
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14846827-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-book-thief-markus-zusak": {
+      "day": 307,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8153054-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-curious-incident-of-the-dog-in-the-night-time-mark-haddon": {
+      "day": 308,
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "author": "Mark Haddon",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7890719-L.jpg",
+      "source": "openlibrary"
+    },
+    "cloud-atlas-david-mitchell": {
+      "day": 309,
+      "title": "Cloud Atlas",
+      "author": "David Mitchell",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6714077-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-alchemist-paulo-coelho": {
+      "day": 310,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11556106-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-shadow-of-the-wind-carlos-ruiz-zafon": {
+      "day": 311,
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafon",
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/1439569746-L.jpg",
+      "source": "openlibrary"
+    },
+    "one-hundred-years-of-solitude-gabriel-garcia-marquez": {
+      "day": 312,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15185412-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-master-and-margarita-mikhail-bulgakov": {
+      "day": 313,
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15013644-L.jpg",
+      "source": "openlibrary"
+    },
+    "doctor-zhivago-boris-pasternak": {
+      "day": 314,
+      "title": "Doctor Zhivago",
+      "author": "Boris Pasternak",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12713393-L.jpg",
+      "source": "openlibrary"
+    },
+    "one-day-in-the-life-of-ivan-denisovich-aleksandr-solzhenitsyn": {
+      "day": 315,
+      "title": "One Day in the Life of Ivan Denisovich",
+      "author": "Aleksandr Solzhenitsyn",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14114850-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-trial-franz-kafka": {
+      "day": 316,
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14910748-L.jpg",
+      "source": "openlibrary"
+    },
+    "siddhartha-hermann-hesse": {
+      "day": 317,
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6562535-L.jpg",
+      "source": "openlibrary"
+    },
+    "things-fall-apart-chinua-achebe": {
+      "day": 318,
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12816943-L.jpg",
+      "source": "openlibrary"
+    },
+    "cry--the-beloved-country-alan-paton": {
+      "day": 319,
+      "title": "Cry, the Beloved Country",
+      "author": "Alan Paton",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8235289-L.jpg",
+      "source": "openlibrary"
+    },
+    "half-of-a-yellow-sun-chimamanda-ngozi-adichie": {
+      "day": 320,
+      "title": "Half of a Yellow Sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8472660-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-god-of-small-things-arundhati-roy": {
+      "day": 321,
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10513792-L.jpg",
+      "source": "openlibrary"
+    },
+    "midnight-s-children-salman-rushdie": {
+      "day": 322,
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8346713-L.jpg",
+      "source": "openlibrary"
+    },
+    "wide-sargasso-sea-jean-rhys": {
+      "day": 323,
+      "title": "Wide Sargasso Sea",
+      "author": "Jean Rhys",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9269373-L.jpg",
+      "source": "openlibrary"
+    },
+    "a-passage-to-india-e-m--forster": {
+      "day": 324,
+      "title": "A Passage to India",
+      "author": "E.M. Forster",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1921995-L.jpg",
+      "source": "openlibrary"
+    },
+    "a-room-with-a-view-e-m--forster": {
+      "day": 325,
+      "title": "A Room with a View",
+      "author": "E.M. Forster",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1748132-L.jpg",
+      "source": "openlibrary"
+    },
+    "brideshead-revisited-evelyn-waugh": {
+      "day": 326,
+      "title": "Brideshead Revisited",
+      "author": "Evelyn Waugh",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2560441-L.jpg",
+      "source": "openlibrary"
+    },
+    "do-androids-dream-of-electric-sheep--philip-k--dick": {
+      "day": 327,
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "coverUrl": "https://covers.openlibrary.org/b/id/207515-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-man-in-the-high-castle-philip-k--dick": {
+      "day": 328,
+      "title": "The Man in the High Castle",
+      "author": "Philip K. Dick",
+      "coverUrl": "https://covers.openlibrary.org/b/id/420452-L.jpg",
+      "source": "openlibrary"
+    },
+    "2001--a-space-odyssey-arthur-c--clarke": {
+      "day": 329,
+      "title": "2001: A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15170836-L.jpg",
+      "source": "openlibrary"
+    },
+    "rendezvous-with-rama-arthur-c--clarke": {
+      "day": 330,
+      "title": "Rendezvous with Rama",
+      "author": "Arthur C. Clarke",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13472608-L.jpg",
+      "source": "openlibrary"
+    },
+    "childhood-s-end-arthur-c--clarke": {
+      "day": 331,
+      "title": "Childhood's End",
+      "author": "Arthur C. Clarke",
+      "coverUrl": "https://covers.openlibrary.org/b/id/210200-L.jpg",
+      "source": "openlibrary"
+    },
+    "i--robot-isaac-asimov": {
+      "day": 332,
+      "title": "I, Robot",
+      "author": "Isaac Asimov",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12385229-L.jpg",
+      "source": "openlibrary"
+    },
+    "howl-s-moving-castle-diana-wynne-jones": {
+      "day": 333,
+      "title": "Howl's Moving Castle",
+      "author": "Diana Wynne Jones",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8783945-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-neverending-story-michael-ende": {
+      "day": 334,
+      "title": "The Neverending Story",
+      "author": "Michael Ende",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13200934-L.jpg",
+      "source": "openlibrary"
+    },
+    "eragon-christopher-paolini": {
+      "day": 335,
+      "title": "Eragon",
+      "author": "Christopher Paolini",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13921600-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-eyre-affair-jasper-fforde": {
+      "day": 336,
+      "title": "The Eyre Affair",
+      "author": "Jasper Fforde",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2401550-L.jpg",
+      "source": "openlibrary"
+    },
+    "coraline-neil-gaiman": {
+      "day": 337,
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14171421-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-wind-singer-william-nicholson": {
+      "day": 338,
+      "title": "The Wind Singer",
+      "author": "William Nicholson",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5081465-L.jpg",
+      "source": "openlibrary"
+    },
+    "tom-s-midnight-garden-philippa-pearce": {
+      "day": 339,
+      "title": "Tom's Midnight Garden",
+      "author": "Philippa Pearce",
+      "coverUrl": "https://covers.openlibrary.org/b/id/3077039-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-owl-service-alan-garner": {
+      "day": 340,
+      "title": "The Owl Service",
+      "author": "Alan Garner",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7237-L.jpg",
+      "source": "openlibrary"
+    },
+    "elidor-alan-garner": {
+      "day": 341,
+      "title": "Elidor",
+      "author": "Alan Garner",
+      "coverUrl": "https://covers.openlibrary.org/b/id/113140-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-weirdstone-of-brisingamen-alan-garner": {
+      "day": 342,
+      "title": "The Weirdstone of Brisingamen",
+      "author": "Alan Garner",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6253333-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-bronze-bow-elizabeth-george-speare": {
+      "day": 343,
+      "title": "The Bronze Bow",
+      "author": "Elizabeth George Speare",
+      "coverUrl": "https://covers.openlibrary.org/b/id/255407-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-witch-of-blackbird-pond-elizabeth-george-speare": {
+      "day": 344,
+      "title": "The Witch of Blackbird Pond",
+      "author": "Elizabeth George Speare",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4904594-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-wolves-of-willoughby-chase-joan-aiken": {
+      "day": 345,
+      "title": "The Wolves of Willoughby Chase",
+      "author": "Joan Aiken",
+      "coverUrl": "https://covers.openlibrary.org/b/id/239726-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-silver-sword-ian-serraillier": {
+      "day": 346,
+      "title": "The Silver Sword",
+      "author": "Ian Serraillier",
+      "coverUrl": "https://covers.openlibrary.org/b/id/383863-L.jpg",
+      "source": "openlibrary"
+    },
+    "when-hitler-stole-pink-rabbit-judith-kerr": {
+      "day": 347,
+      "title": "When Hitler Stole Pink Rabbit",
+      "author": "Judith Kerr",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1011940-L.jpg",
+      "source": "openlibrary"
+    },
+    "journey-to-the-river-sea-eva-ibbotson": {
+      "day": 348,
+      "title": "Journey to the River Sea",
+      "author": "Eva Ibbotson",
+      "coverUrl": "https://covers.openlibrary.org/b/id/361258-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-story-of-tracy-beaker-jacqueline-wilson": {
+      "day": 349,
+      "title": "The Story of Tracy Beaker",
+      "author": "Jacqueline Wilson",
+      "coverUrl": "https://covers.openlibrary.org/b/id/243937-L.jpg",
+      "source": "openlibrary"
+    },
+    "millions-frank-cottrell-boyce": {
+      "day": 350,
+      "title": "Millions",
+      "author": "Frank Cottrell-Boyce",
+      "coverUrl": "https://covers.openlibrary.org/b/id/33323-L.jpg",
+      "source": "openlibrary"
+    },
+    "cosmic-frank-cottrell-boyce": {
+      "day": 351,
+      "title": "Cosmic",
+      "author": "Frank Cottrell-Boyce",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10097128-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-london-eye-mystery-siobhan-dowd": {
+      "day": 352,
+      "title": "The London Eye Mystery",
+      "author": "Siobhan Dowd",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6422457-L.jpg",
+      "source": "openlibrary"
+    },
+    "bog-child-siobhan-dowd": {
+      "day": 353,
+      "title": "Bog Child",
+      "author": "Siobhan Dowd",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6298200-L.jpg",
+      "source": "openlibrary"
+    },
+    "stone-cold-robert-swindells": {
+      "day": 354,
+      "title": "Stone Cold",
+      "author": "Robert Swindells",
+      "coverUrl": "https://covers.openlibrary.org/b/id/101974-L.jpg",
+      "source": "openlibrary"
+    },
+    "chinese-cinderella-adeline-yen-mah": {
+      "day": 355,
+      "title": "Chinese Cinderella",
+      "author": "Adeline Yen Mah",
+      "coverUrl": "https://covers.openlibrary.org/b/id/239655-L.jpg",
+      "source": "openlibrary"
+    },
+    "boy--tales-of-childhood-roald-dahl": {
+      "day": 356,
+      "title": "Boy: Tales of Childhood",
+      "author": "Roald Dahl",
+      "coverUrl": null
+    },
+    "going-solo-roald-dahl": {
+      "day": 357,
+      "title": "Going Solo",
+      "author": "Roald Dahl",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8311345-L.jpg",
+      "source": "openlibrary"
+    },
+    "refugee-boy-benjamin-zephaniah": {
+      "day": 358,
+      "title": "Refugee Boy",
+      "author": "Benjamin Zephaniah",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1943987-L.jpg",
+      "source": "openlibrary"
+    },
+    "the-weight-of-water-sarah-crossan": {
+      "day": 359,
+      "title": "The Weight of Water",
+      "author": "Sarah Crossan",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8833000-L.jpg",
+      "source": "openlibrary"
+    },
+    "trash-andy-mulligan": {
+      "day": 360,
+      "title": "Trash",
+      "author": "Andy Mulligan",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11341342-L.jpg",
+      "source": "openlibrary"
+    },
+    "buddy-nigel-hinton": {
+      "day": 361,
+      "title": "Buddy",
+      "author": "Nigel Hinton",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11598894-L.jpg",
+      "source": "openlibrary"
+    },
+    "pig-heart-boy-malorie-blackman": {
+      "day": 362,
+      "title": "Pig-Heart Boy",
+      "author": "Malorie Blackman",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4702751-L.jpg",
+      "source": "openlibrary"
+    },
+    "kes--a-kestrel-for-a-knave--barry-hines": {
+      "day": 363,
+      "title": "Kes (A Kestrel for a Knave)",
+      "author": "Barry Hines",
+      "coverUrl": null
+    },
+    "charlotte-sometimes-penelope-farmer": {
+      "day": 364,
+      "title": "Charlotte Sometimes",
+      "author": "Penelope Farmer",
+      "coverUrl": "https://covers.openlibrary.org/b/id/71156-L.jpg",
       "source": "openlibrary"
     }
   }
