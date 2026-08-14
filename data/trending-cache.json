@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-14T08:16:51.138Z",
+  "updated": "2026-08-14T10:03:24.897Z",
   "news": [
+    {
+      "title": "Man dies days after explosion at Newton Longville bungalow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74grygm2neo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58e1/live/85018e70-94b1-11f1-afe9-fb1a837ec5d9.jpg",
+      "published": "8/13/2026, 9:52:24 AM",
+      "desc": "A man taken to hospital after a suspected gas blast has died, police say."
+    },
+    {
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 9:52:19 AM",
+      "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
+    },
+    {
+      "title": "Newbridge fire affects five homes in Caerphilly county",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3d32np89z4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f39/live/4359fb80-96df-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 8:22:22 AM",
+      "desc": "Residents are evacuated after a large fire involving five homes in Caerphilly county."
+    },
     {
       "title": "Trump says Press Secretary Karoline Leavitt to leave post",
       "source": "BBC News",
@@ -16,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/782b/live/87833060-959a-11f1-976a-4934d54b5403.jpg",
       "published": "8/13/2026, 6:52:20 AM",
       "desc": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election."
-    },
-    {
-      "title": "ICE equipping agents with gloves that deliver electric shocks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
-      "published": "8/13/2026, 5:52:21 AM",
-      "desc": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply."
     },
     {
       "title": "The town making missiles for Trump",
@@ -42,31 +58,31 @@
       "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
     },
     {
-      "title": "Cumming and Henderson write 40-year friendship into History of Paper",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvp5nl636o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53cb/live/4288d0a0-9662-11f1-a654-971f565de941.jpg",
-      "published": "8/13/2026, 4:52:24 AM",
-      "desc": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on."
-    },
-    {
       "title": "Travis Kelce shares first comments about wedding to Taylor Swift - 'Best night of my life'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/19728ca0-969f-11f1-aabf-cfc1e2784bc6.jpg",
       "published": "8/13/2026, 1:22:20 AM",
       "desc": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
-    },
-    {
-      "title": "Newspaper headlines: 'The sun, the moon' and 'The greatest show on Earth'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j1peddwgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c9e/live/0fc56570-969e-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/13/2026, 12:37:22 AM",
-      "desc": "The once in a generation solar eclipse across the UK and Europe dominates Thursday's front pages."
     }
   ],
   "sports": [
+    {
+      "title": "Fulham leave pitch as Malaga take penalty into empty net",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7973/live/8f6c4170-96f0-11f1-bdf3-57bf9a99cb46.jpg",
+      "published": "8/13/2026, 9:37:21 AM",
+      "desc": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout."
+    },
+    {
+      "title": "Australia v Bangladesh - Cricket - BBC Sport",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/scorecard/e-237020",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/bbc-sport-logo.ebbfcde41a.webp",
+      "published": "8/13/2026, 9:07:22 AM",
+      "desc": "Find out the in depth batting and bowling figures for Australia v Bangladesh in the Men's International Test Match Series on BBC Sport."
+    },
     {
       "title": "Transfer latest: Enzo Fernandez deadline, Cristian Romero deal plus gossip & reporter Q&A",
       "source": "BBC Sport",
@@ -74,14 +90,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a43c/live/9dd1b2d0-96ec-11f1-a7ab-8b30adf0800a.png",
       "published": "8/13/2026, 8:07:19 AM",
       "desc": "All the latest transfer news and gossip as Chelsea set a Friday deadline for offers of £120m or more for Enzo Fernandez."
-    },
-    {
-      "title": "Canadian Open: Iga Swiatek into first final of her 'toughest season'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2291/live/d76baf50-96e2-11f1-9b96-77d3dc534330.jpg",
-      "published": "8/13/2026, 7:52:19 AM",
-      "desc": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets."
     },
     {
       "title": "Lionel Messi makes substitute appearance for Inter Miami after death of his father",
@@ -202,32 +210,40 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f526/live/90c405b0-96a2-11f1-870d-5d08c49babb2.jpg",
       "published": "8/12/2026, 11:22:21 PM",
       "desc": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games."
-    },
-    {
-      "title": "J.J. McCarthy wants to stay with Vikings after losing QB job - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49594059/jj-mccarthy-says-vikings-qb-decision-control-wants-remain-minnesota",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700989_1296x729_16%2D9.jpg",
-      "published": "8/12/2026, 10:54:29 PM",
-      "desc": "The decision to name Kyler Murray the winner of the Vikings' quarterback competition this week was \"out of my control,\" former starter J.J. McCarthy said Wednesday."
     }
   ],
   "tech": [
     {
-      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
-      "image": "https://kotaku.com/app/uploads/2026/08/rideshare-1-1200x675.jpg",
-      "published": "8/13/2026, 4:42:19 AM",
-      "desc": "Matt Karch said a missing Steam disclosure will be added eventually"
+      "title": "We're Live at Made By Google Sharing Every Pixel 11, Pro Fold, and Watch 5 Announcement - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/made-by-google-live-2026-pixel-11-pro-fold-watch5-tag-tracker-announcement",
+      "image": "https://i.pcmag.com/imagery/articles/044yokq0vj7Nbd8Go8FICaC-1.fit_lim.size_1200x630.v1786545818.png",
+      "published": "8/13/2026, 7:39:54 AM",
+      "desc": "The Made by Google event kicks off at 6 p.m. ET, but tune in for our preshow at 5:30 p.m. ET for analysis of the company's new Pixel phones, smartwatch, and tracker."
     },
     {
-      "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced",
-      "image": "https://helios-i.mashable.com/imagery/articles/03mLdCgCWLITXqBminRPP6c/hero-image.fill.size_1200x675.v1786567658.jpg",
-      "published": "8/12/2026, 11:44:50 PM",
-      "desc": "No surprises here, just new phones."
+      "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - forbes.com",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/08/13/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a79a1ef91135cfbc1db66fd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published": "8/13/2026, 7:36:09 AM",
+      "desc": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just become clearer — and there’s a change to a key date."
+    },
+    {
+      "title": "Twitch faces backlash over Amazon training AI on its users' livestreams - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp30pz8d09jo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
+      "published": "8/13/2026, 2:46:04 AM",
+      "desc": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training."
+    },
+    {
+      "title": "Saber Interactive's CEO Matt Karch Can Get In The Bin - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/saber-interactive-ceo-ai-writer/",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/ss_3e643bf1be6b8523b1299af860b3bbb2b5a14d9f.1920x1080.jpg",
+      "published": "8/13/2026, 12:55:57 AM",
+      "desc": "'I would frankly in retrospect have been happy to replace her with AI'"
     },
     {
       "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
@@ -236,22 +252,6 @@
       "image": "",
       "published": "8/12/2026, 10:30:00 PM",
       "desc": ""
-    },
-    {
-      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
-      "image": "https://assets-prd.ignimgs.com/2025/06/06/hogwartslegacy-switch2review-blogroll-1749233453856.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/12/2026, 9:22:25 PM",
-      "desc": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros."
-    },
-    {
-      "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
-      "image": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
-      "published": "8/12/2026, 8:30:44 PM",
-      "desc": "This is just like Dark Souls"
     },
     {
       "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
@@ -268,17 +268,25 @@
       "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/KP_all_ganes_hero_16x9_v3-0b961b71e63e8ebfa89a.jpg",
       "published": "8/12/2026, 7:32:10 PM",
       "desc": "Kinetic Publishing just held its first ever showcase - here are all the details on the five games included."
-    },
-    {
-      "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
-      "image": "https://images.macrumors.com/t/znp98m1jRfdDZmukwnm0HIbzWiU=/1739x/article-new/2026/08/google-pixel-tag-design.jpg",
-      "published": "8/12/2026, 6:52:17 PM",
-      "desc": "Google today introduced the Pixel Tag, its answer to Apple's AirTag. Pixel Tag is Google's first item tracker, even though Google implemented..."
     }
   ],
   "education": [
+    {
+      "title": "A-level results: key takeaways for language learning",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/a-level-results-key-takeaways-for-language-learning-287913",
+      "image": "https://images.theconversation.com/files/753522/original/file-20260812-50-qp2lfe.jpg?ixlib=rb-4.1.1&rect=0%2C499%2C5980%2C2990&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published": "8/13/2026, 9:35:35 AM",
+      "desc": "Combined A-level entries in French, German and Spanish rose slightly in absolute terms in England, Northern Ireland and Wales."
+    },
+    {
+      "title": "Pupils celebrate best-ever A-level results as more than one in four get at least an A and boys extend lead above girls in the top grades",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16047747/Pupils-celebrate-best-level-results.html",
+      "image": "https://i.dailymail.com/1s/2026/08/13/09/110608717-0-image-m-23_1786608379128.jpg",
+      "published": "8/13/2026, 8:31:01 AM",
+      "desc": "Outside of the Covid years of 2020-2022, when grades were vastly inflated due to teacher assessment, today's grades are the highest proportion on record."
+    },
     {
       "title": "Every university in Britain ranked from best to worst: Our definitive interactive Clearing guide for 2026 scores 128 institutions on every subject, student life, graduate jobs and future earnings. Read it only here...",
       "source": "Dailymail.com",
@@ -326,22 +334,6 @@
       "image": "https://i.dailymail.com/1s/2026/07/26/21/110263107-0-image-m-46_1785096305169.jpg",
       "published": "7/26/2026, 8:33:12 PM",
       "desc": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place."
-    },
-    {
-      "title": "How can Year 7 and 8 students make the most of their electives?",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/how-can-year-7-and-8-students-make-the-most-of-their-electives-287953",
-      "image": "https://images.theconversation.com/files/749432/original/file-20260722-71-ime2w8.jpg?ixlib=rb-4.1.1&rect=0%2C170%2C2120%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-      "published": "7/23/2026, 7:51:57 PM",
-      "desc": "Younger teens typically experience a dip in school engagement. Electives can help them stay excited about learning."
-    },
-    {
-      "title": "New words – 20 July 2026",
-      "source": "Cambridge.org",
-      "url": "https://dictionaryblog.cambridge.org/2026/07/20/new-words-20-july-2026/",
-      "image": "https://i0.wp.com/dictionaryblog.cambridge.org/wp-content/uploads/2026/07/graduation-creep.jpg?fit=600%2C400&ssl=1",
-      "published": "7/20/2026, 6:00:13 AM",
-      "desc": "graduation creep noun [U] /ˌgrædʒ.uˈeɪ.ʃᵊn ˌkriːp/ the trend for graduation ceremonies to be held for pupils and students at lower levels of education and not just for university graduates Previously, events like these may have involved little more than a sin…"
     }
   ],
   "music": [
@@ -383,21 +375,21 @@
     },
     {
       "rank": 5,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 6,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 7,
@@ -446,6 +438,15 @@
     },
     {
       "rank": 12,
+      "title": "Ten Over Ten",
+      "artist": "Royal Blood",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/a4/de/71a4de9a-a29a-56cc-ffa9-102f6ca76a43/1200214816384.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/d4/42/a4d442db-80ff-a1a1-925a-8f1a5e7e908c/mzaf_9908745056224979040.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ten-over-ten/6800026500?i=6800026503&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Royal%20Blood%20Ten%20Over%20Ten"
+    },
+    {
+      "rank": 13,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
@@ -454,7 +455,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -463,22 +464,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
-    },
-    {
-      "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -520,21 +512,21 @@
     },
     {
       "rank": 5,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 7,
@@ -547,21 +539,21 @@
     },
     {
       "rank": 8,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 9,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
