@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-14T11:03:57.217Z",
+  "updated": "2026-08-14T11:52:13.496Z",
   "news": [
+    {
+      "title": "Scientists invent 'world's greenest balloon'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b44/live/8e75d190-9642-11f1-8414-97750c5a4202.jpg",
+      "published": "8/13/2026, 11:22:36 AM",
+      "desc": "Imperial College London experts say standard party balloons can take years to break down."
+    },
+    {
+      "title": "Zero hours crackdown could cost firms £2.9bn a year",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0l525k76d0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg",
+      "published": "8/13/2026, 11:22:26 AM",
+      "desc": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found."
+    },
     {
       "title": "Newbridge streets evacuated after massive fire destroys homes",
       "source": "BBC News",
@@ -42,31 +58,23 @@
       "desc": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever."
     },
     {
-      "title": "Muratov: Putin can no longer claim victory in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/13/2026, 5:37:20 AM",
-      "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
-    },
-    {
       "title": "Travis Kelce shares first comments about wedding to Taylor Swift - 'Best night of my life'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/19728ca0-969f-11f1-aabf-cfc1e2784bc6.jpg",
       "published": "8/13/2026, 1:22:20 AM",
       "desc": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
-    },
-    {
-      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/12/2026, 10:52:20 PM",
-      "desc": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
     }
   ],
   "sports": [
+    {
+      "title": "Gianni Infantino: FAI withdraws support as IFA backs Uefa stance",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy8m2mg0y99o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/843a/live/83fcaf20-9702-11f1-b72c-211ea4e0afc4.jpg",
+      "published": "8/13/2026, 11:37:21 AM",
+      "desc": "The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms it backs Uefa's stance."
+    },
     {
       "title": "Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.",
       "source": "BBC Sport",
@@ -90,14 +98,6 @@
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/bbc-sport-logo.ebbfcde41a.webp",
       "published": "8/13/2026, 9:07:22 AM",
       "desc": "Find out the in depth batting and bowling figures for Australia v Bangladesh in the Men's International Test Match Series on BBC Sport."
-    },
-    {
-      "title": "Transfer latest: Enzo Fernandez deadline, Cristian Romero deal plus gossip & reporter Q&A",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cwyqpew1718t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a43c/live/9dd1b2d0-96ec-11f1-a7ab-8b30adf0800a.png",
-      "published": "8/13/2026, 8:07:19 AM",
-      "desc": "All the latest transfer news and gossip as Chelsea set a Friday deadline for offers of £120m or more for Enzo Fernandez."
     },
     {
       "title": "Lionel Messi makes substitute appearance for Inter Miami after death of his father",
@@ -565,15 +565,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
-      "title": "My Life with the Walter Boys",
-      "year": "2023",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
