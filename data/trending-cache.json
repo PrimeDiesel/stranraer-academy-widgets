@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-14T10:03:24.897Z",
+  "updated": "2026-08-14T11:03:57.217Z",
   "news": [
     {
-      "title": "Man dies days after explosion at Newton Longville bungalow",
+      "title": "Newbridge streets evacuated after massive fire destroys homes",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74grygm2neo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58e1/live/85018e70-94b1-11f1-afe9-fb1a837ec5d9.jpg",
-      "published": "8/13/2026, 9:52:24 AM",
-      "desc": "A man taken to hospital after a suspected gas blast has died, police say."
+      "url": "https://www.bbc.co.uk/news/articles/c3d32np89z4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f39/live/4359fb80-96df-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 11:07:23 AM",
+      "desc": "Residents have been evacuated after a large fire involving six homes in Caerphilly county."
+    },
+    {
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
+      "published": "8/13/2026, 10:37:24 AM",
+      "desc": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
     },
     {
       "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
@@ -16,22 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
       "published": "8/13/2026, 9:52:19 AM",
       "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
-    },
-    {
-      "title": "Newbridge fire affects five homes in Caerphilly county",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d32np89z4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f39/live/4359fb80-96df-11f1-9b96-77d3dc534330.jpg",
-      "published": "8/13/2026, 8:22:22 AM",
-      "desc": "Residents are evacuated after a large fire involving five homes in Caerphilly county."
-    },
-    {
-      "title": "Trump says Press Secretary Karoline Leavitt to leave post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5edf/live/54d0fdd0-9687-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/13/2026, 7:52:23 AM",
-      "desc": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
       "title": "Clacton voters go to the polls in Westminster by-election",
@@ -64,15 +56,31 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/19728ca0-969f-11f1-aabf-cfc1e2784bc6.jpg",
       "published": "8/13/2026, 1:22:20 AM",
       "desc": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    },
+    {
+      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/12/2026, 10:52:20 PM",
+      "desc": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
     }
   ],
   "sports": [
+    {
+      "title": "Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czxq25zejj4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea65/live/dd058440-96fb-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/13/2026, 11:07:23 AM",
+      "desc": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials."
+    },
     {
       "title": "Fulham leave pitch as Malaga take penalty into empty net",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7973/live/8f6c4170-96f0-11f1-bdf3-57bf9a99cb46.jpg",
-      "published": "8/13/2026, 9:37:21 AM",
+      "published": "8/13/2026, 10:22:20 AM",
       "desc": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout."
     },
     {
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/kirby-812.jpg?ve=1&tl=1",
       "published": "8/12/2026, 11:37:17 PM",
       "desc": "Will Hill believes that 2026 will be the year that Georgia climbs back to the top of the SEC. Here's why he's betting on the Dawgs."
-    },
-    {
-      "title": "Aston Villa: Striker Brian Madjo makes impressive entrance after eight months in limbo",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f526/live/90c405b0-96a2-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/12/2026, 11:22:21 PM",
-      "desc": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games."
     }
   ],
   "tech": [
@@ -357,21 +357,21 @@
     },
     {
       "rank": 3,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
-    },
-    {
-      "rank": 4,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 4,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
       "rank": 5,
@@ -402,15 +402,6 @@
     },
     {
       "rank": 8,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 9,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
@@ -419,22 +410,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
+      "rank": 9,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
       "rank": 10,
+      "title": "Wild One",
+      "artist": "Twinnie",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+    },
+    {
+      "rank": 11,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/19/d4/a419d480-9660-53bc-965e-9e4ffa0b270e/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 11,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
       "rank": 12,
@@ -447,15 +447,6 @@
     },
     {
       "rank": 13,
-      "title": "Wild One",
-      "artist": "Twinnie",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
-    },
-    {
-      "rank": 14,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -464,13 +455,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 15,
+      "title": "The Crowd Was Singing Wonderwall",
+      "artist": "The Script",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/fc/61/12fc61d8-c9d5-346c-0180-011cfc78553b/4099964236408.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/43/b9/6343b93f-1500-f3ca-4152-9270fc3bfe53/mzaf_2227390162919980224.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-crowd-was-singing-wonderwall/1892457600?i=1892457604&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Script%20The%20Crowd%20Was%20Singing%20Wonderwall"
     }
   ],
   "movies": [
@@ -494,21 +494,21 @@
     },
     {
       "rank": 3,
-      "title": "The End of Oak Street",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
-    },
-    {
-      "rank": 4,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
       "rank": 5,
@@ -530,12 +530,12 @@
     },
     {
       "rank": 7,
-      "title": "THE RIBBON HERO",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 8,
@@ -548,12 +548,12 @@
     },
     {
       "rank": 9,
-      "title": "Toy Story 5",
+      "title": "THE RIBBON HERO",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     }
   ],
   "tv": [
@@ -568,12 +568,12 @@
     },
     {
       "rank": 2,
-      "title": "Futurama",
-      "year": "1999",
+      "title": "My Life with the Walter Boys",
+      "year": "2023",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
+      "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
+      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
