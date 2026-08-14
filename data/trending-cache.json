@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-14T13:08:02.401Z",
+  "updated": "2026-08-14T14:52:48.414Z",
   "news": [
+    {
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 1:37:29 PM",
+      "desc": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
+    },
     {
       "title": "Taron Egerton says he's been estranged from his father 'for years'",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed."
     },
     {
-      "title": "Muratov: Putin can no longer claim victory in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/13/2026, 12:37:31 PM",
-      "desc": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
-    },
-    {
       "title": "Heatwaves drive A&E attendances up to record high",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo",
@@ -67,6 +67,46 @@
     }
   ],
   "sports": [
+    {
+      "title": "Super League: NRL submit investment offer in league",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/ce3qp0xxl0wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bfe4/live/7a5104f0-3af3-11f1-9961-936cc21d3655.jpg",
+      "published": "8/13/2026, 2:22:11 PM",
+      "desc": "Super League confirm that they have received an investment offer from the Australian Rugby League Commission."
+    },
+    {
+      "title": "When do the major European leagues start and what are the big stories in La Liga, Serie A and the Bundesliga?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cly92pr6ej8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2ef/live/d6138a00-925b-11f1-b9ff-37ae3aba3894.jpg",
+      "published": "8/13/2026, 2:07:34 PM",
+      "desc": "BBC Sport looks at the big stories in Europe heading into the 2026-27 season."
+    },
+    {
+      "title": "Australia v Bangladesh: Steve Smith benefits from reprieve but tourists dominate day one of first Test",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c86ndx87e8eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d31c/live/e3d3abc0-971a-11f1-bb91-6bb44c42ed47.jpg",
+      "published": "8/13/2026, 2:07:31 PM",
+      "desc": "Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test."
+    },
+    {
+      "title": "Youri Tielemans apologises to Aston Villa fans after suggesting Manchester United is a bigger club",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm2gpr52drzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9098/live/88efeb30-9718-11f1-bb91-6bb44c42ed47.jpg",
+      "published": "8/13/2026, 2:07:23 PM",
+      "desc": "Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United."
+    },
+    {
+      "title": "2026 NFL Offseason Buzz: Panthers Add Former Star TE; Steelers Reunite With LB",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-offseason-buzz-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/1408/814/all-teams-16x9-nfl-3.jpg?ve=1&tl=1",
+      "published": "8/13/2026, 1:52:28 PM",
+      "desc": "Here's the latest offseason buzz and rumors around the NFL."
+    },
     {
       "title": "Year 2 Breakout Candidates: One Player From Each NFC Team Primed To Take A Leap",
       "source": "Fox Sports",
@@ -100,14 +140,6 @@
       "desc": "The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms it backs Uefa's stance."
     },
     {
-      "title": "Anthony Taylor: Retiring Premier League referee on VAR, toxic debate and intense scrutiny.",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czxq25zejj4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea65/live/dd058440-96fb-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/13/2026, 11:07:23 AM",
-      "desc": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials."
-    },
-    {
       "title": "Fulham leave pitch as Malaga take penalty into empty net",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o",
@@ -130,6 +162,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc92/live/142d1140-96de-11f1-9b96-77d3dc534330.jpg",
       "published": "8/13/2026, 6:52:19 AM",
       "desc": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation."
+    },
+    {
+      "title": "Dodgers' Freeman appears to avoid injury after fall into dugout - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49597350/dodgers-freeman-appears-avoid-injury-fall-dugout",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701163_1296x729_16%2D9.jpg",
+      "published": "8/13/2026, 6:43:48 AM",
+      "desc": "Dodgers first baseman Freddie Freeman apparently avoided serious injury when he took a frightening tumble down the stairs and into the visitors dugout while trying to catch a foul popup."
     },
     {
       "title": "Daniels sends cease-and-desist to LSU after Pickett given No. 5 - ESPN",
@@ -164,52 +204,12 @@
       "desc": "The Cleveland Browns and Atlanta Falcons revealed their preseason starting quarterbacks, while Chicago Bears head coach Ben Johnson outlined ambitious scoring goals ahead of upcoming exhibition games."
     },
     {
-      "title": "Steelers bring back LB Roberts on one-year deal, source says - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49594879/steelers-bring-back-lb-roberts-one-year-deal",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0125%2Fr1605437_1296x729_16%2D9.jpg",
-      "published": "8/13/2026, 12:43:43 AM",
-      "desc": "Linebacker Elandon Roberts is returning to the Steelers on a one-year deal, a source told ESPN."
-    },
-    {
       "title": "Source: TE Darren Waller, Panthers agree to 1-year deal - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49594812/source-panthers-add-te-room-darren-waller-deal",
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1004%2Fr1555361_1296x729_16%2D9.jpg",
       "published": "8/13/2026, 12:32:22 AM",
       "desc": "Former Pro Bowl tight end Darren Waller and the Carolina Panthers reached agreement Wednesday on a one-year deal, a source told ESPN's Adam Schefter."
-    },
-    {
-      "title": "How to Watch Monterrey and Nashville: TV Channel, Time, Live Stream",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/how-watch-monterrey-nashville-sc-tv-channel-time-live-stream",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/how-to-watch-nashville-sc-vs-monterrey-horizontal.png?ve=1&tl=1",
-      "published": "8/13/2026, 12:22:24 AM",
-      "desc": "Watch Monterrey and Nashville SC in the 2026 Leagues Cup on Wednesday, Aug. 12. See the kickoff time, TV channel, live stream and venue."
-    },
-    {
-      "title": "How to Watch San Diego FC and Puebla: TV Channel, Time, Live Stream",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/how-watch-san-diego-fc-puebla-tv-channel-time-live-stream",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/how-to-watch-puebla-vs-san-diego-fc-horizontal.png?ve=1&tl=1",
-      "published": "8/13/2026, 12:22:23 AM",
-      "desc": "Watch San Diego FC and Puebla in the 2026 Leagues Cup on Wednesday, Aug. 12. See the kickoff time, TV channel, live stream and venue."
-    },
-    {
-      "title": "Even After Super Bowl Victory, The Seahawks Are Being Overlooked",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/the-herd-with-colin-cowherd/even-after-super-bowl-victory-seahawks-being-overlooked",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/sam-darnold-under-the-radar.jpg?ve=1&tl=1",
-      "published": "8/13/2026, 12:22:21 AM",
-      "desc": "Colin Cowherd says Sam Darnold and the Seattle Seahawks remain overlooked despite being the defending champions."
-    },
-    {
-      "title": "WNBA task force discusses transgender athletes amid furor - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49594734/wnba-task-force-discusses-transgender-athletes-amid-furor",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0727%2Fr1364038_1296x729_16%2D9.jpg",
-      "published": "8/13/2026, 12:18:07 AM",
-      "desc": "A task force of team presidents and general managers met Wednesday and discussed transgender athletes but did not arrive at any eligibility rules."
     }
   ],
   "tech": [
@@ -356,6 +356,15 @@
     },
     {
       "rank": 2,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 3,
       "title": "Love Sensation (Afterhours Mix)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
@@ -364,22 +373,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 5,
@@ -401,21 +401,21 @@
     },
     {
       "rank": 7,
-      "title": "NOTHING BETTER THAN THIS",
-      "artist": "Kasabian",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/96/c1/7996c16e-e7fc-f608-c506-8cc79e8771c2/196874042359.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/d0/6d/2cd06dee-aedc-d3ed-abc3-f66dcfb16be8/mzaf_17232947977412938554.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/nothing-better-than-this/1887548705?i=1887548816&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kasabian%20NOTHING%20BETTER%20THAN%20THIS"
-    },
-    {
-      "rank": 8,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 8,
+      "title": "NOTHING BETTER THAN THIS",
+      "artist": "Kasabian",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/96/c1/7996c16e-e7fc-f608-c506-8cc79e8771c2/196874042359.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/d0/6d/2cd06dee-aedc-d3ed-abc3-f66dcfb16be8/mzaf_17232947977412938554.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/nothing-better-than-this/1887548705?i=1887548816&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kasabian%20NOTHING%20BETTER%20THAN%20THIS"
     },
     {
       "rank": 9,
@@ -428,15 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 11,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -445,13 +436,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+    },
+    {
+      "rank": 12,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 13,
@@ -464,35 +464,26 @@
     },
     {
       "rank": 14,
+      "title": "The Crowd Was Singing Wonderwall",
+      "artist": "The Script",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/fc/61/12fc61d8-c9d5-346c-0180-011cfc78553b/4099964236408.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/43/b9/6343b93f-1500-f3ca-4152-9270fc3bfe53/mzaf_2227390162919980224.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-crowd-was-singing-wonderwall/1892457600?i=1892457604&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Script%20The%20Crowd%20Was%20Singing%20Wonderwall"
+    },
+    {
+      "rank": 15,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
-    },
-    {
-      "rank": 15,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,7 +492,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -510,16 +501,16 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 4,
-      "title": "Project Hail Mary",
+      "rank": 3,
+      "title": "The Last House",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -528,16 +519,7 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "rank": 6,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -546,16 +528,16 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 8,
-      "title": "THE RIBBON HERO",
+      "rank": 6,
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -564,13 +546,22 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 10,
-      "title": "Avatar Aang: The Last Airbender",
+      "rank": 8,
+      "title": "Disclosure Day",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
+      "title": "THE RIBBON HERO",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "url": "https://www.themoviedb.org/movie/1679730"
     }
   ],
   "tv": [
