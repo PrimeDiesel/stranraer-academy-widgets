@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:49:29.031Z",
+  "updated": "2026-08-14T20:32:04.155Z",
   "news": [
     {
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "LA Lakers: Shock $12.5bn sale done in a weekend",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52c1/live/e8137120-9742-11f1-bdf7-47bb0c1615d1.jpg",
+      "published": "8/13/2026, 8:22:23 PM",
+      "desc": "The Los Angeles Lakers' record $12.5bn (£9.3bn) sale was agreed in the space of a weekend, leaving the NBA world and fans in shock."
+    },
+    {
+      "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701384_1296x729_16%2D9.jpg",
+      "published": "8/13/2026, 8:08:06 PM",
+      "desc": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders QB saying the situation won't be a distraction."
+    },
     {
       "title": "Bears won't change name if they move to Indiana, McCaskey says - ESPN",
       "source": "ESPN",
@@ -194,22 +210,6 @@
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
       "published": "8/13/2026, 5:52:25 PM",
       "desc": "Listen to Sportsound and follow live text coverage of the four European qualifying ties involving Scottish clubs."
-    },
-    {
-      "title": "Man Utd: Michael Carrick will keep pushing new transfer signings this summer",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70a8/live/c5ff88a0-971d-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/13/2026, 5:52:21 PM",
-      "desc": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo."
-    },
-    {
-      "title": "Ty Gibbs to honor Kyle Busch, drive in M&M's car at Bristol - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/racing/nascar/story/_/id/49601604/ty-gibbs-honor-kyle-busch-drive-mm-car-bristol",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0830%2Fr1217816_1296x729_16%2D9.jpg",
-      "published": "8/13/2026, 5:49:04 PM",
-      "desc": "Ty Gibbs will honor former NASCAR driver Kyle Busch when he competes in an M&M's paint scheme for next month's Cup Series race at Bristol Motor Speedway."
     }
   ],
   "tech": [
@@ -547,6 +547,15 @@
     },
     {
       "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
