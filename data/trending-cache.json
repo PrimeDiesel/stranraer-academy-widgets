@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-14T06:14:43.466Z",
+  "updated": "2026-08-14T08:16:51.138Z",
   "news": [
+    {
+      "title": "Trump says Press Secretary Karoline Leavitt to leave post",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5edf/live/54d0fdd0-9687-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/13/2026, 7:52:23 AM",
+      "desc": "Leavitt will depart from her role to spend time with her young children and family, the president says."
+    },
+    {
+      "title": "Clacton voters go to the polls in Westminster by-election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp308xpwv34o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/782b/live/87833060-959a-11f1-976a-4934d54b5403.jpg",
+      "published": "8/13/2026, 6:52:20 AM",
+      "desc": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election."
+    },
     {
       "title": "ICE equipping agents with gloves that deliver electric shocks",
       "source": "BBC News",
@@ -34,14 +50,6 @@
       "desc": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on."
     },
     {
-      "title": "Leading doctor rebukes NHS chiefs over transplant crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl711557e6o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6449/live/4455b020-965c-11f1-b61b-4bcfe1167bd9.jpg",
-      "published": "8/13/2026, 1:52:21 AM",
-      "desc": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue."
-    },
-    {
       "title": "Travis Kelce shares first comments about wedding to Taylor Swift - 'Best night of my life'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o",
@@ -56,24 +64,40 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c9e/live/0fc56570-969e-11f1-870d-5d08c49babb2.jpg",
       "published": "8/13/2026, 12:37:22 AM",
       "desc": "The once in a generation solar eclipse across the UK and Europe dominates Thursday's front pages."
-    },
-    {
-      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/12/2026, 10:52:20 PM",
-      "desc": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
     }
   ],
   "sports": [
     {
-      "title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars",
+      "title": "Transfer latest: Enzo Fernandez deadline, Cristian Romero deal plus gossip & reporter Q&A",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b95/live/174a34c0-96a7-11f1-9f2f-5b118fe88a53.jpg",
-      "published": "8/13/2026, 5:52:21 AM",
-      "desc": "Cameroon's Michaely Bihina saves an extra-time penalty and three more spot kicks in a shootout to send her side though to the 2026 Wafcon final at the expense of host nation Morocco."
+      "url": "http://www.bbc.co.uk/sport/football/live/cwyqpew1718t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a43c/live/9dd1b2d0-96ec-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/13/2026, 8:07:19 AM",
+      "desc": "All the latest transfer news and gossip as Chelsea set a Friday deadline for offers of £120m or more for Enzo Fernandez."
+    },
+    {
+      "title": "Canadian Open: Iga Swiatek into first final of her 'toughest season'",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2291/live/d76baf50-96e2-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 7:52:19 AM",
+      "desc": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets."
+    },
+    {
+      "title": "Lionel Messi makes substitute appearance for Inter Miami after death of his father",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea5d/live/b14a2370-96e1-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 7:37:21 AM",
+      "desc": "Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire."
+    },
+    {
+      "title": "Eddie Jones says he shows videos of geese flying in formation to coach his Japan side",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc92/live/142d1140-96de-11f1-9b96-77d3dc534330.jpg",
+      "published": "8/13/2026, 6:52:19 AM",
+      "desc": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation."
     },
     {
       "title": "England cricket curfew: Only wins for Joe Root's side will stop hokey-cokey",
@@ -186,33 +210,17 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700989_1296x729_16%2D9.jpg",
       "published": "8/12/2026, 10:54:29 PM",
       "desc": "The decision to name Kyler Murray the winner of the Vikings' quarterback competition this week was \"out of my control,\" former starter J.J. McCarthy said Wednesday."
-    },
-    {
-      "title": "2026 NFL Thanksgiving Games: Schedule, Teams, How to Watch",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/2026-nfl-thanksgiving-games-horizontal-1920x1080-1.png?ve=1&tl=1",
-      "published": "8/12/2026, 10:22:27 PM",
-      "desc": "See the 2026 NFL Thanksgiving schedule, including all five Thanksgiving Week matchups, kickoff times, TV channels and streaming information."
-    },
-    {
-      "title": "Jayden Daniels Remains Stellar In Training Camp And Has Commanders Dreaming Big",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/jayden-daniels-stellar-camp-has-commanders-dreaming-big-again",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/artboard-1-39.jpg?ve=1&tl=1",
-      "published": "8/12/2026, 10:22:26 PM",
-      "desc": "Jayden Daniels looks a lot like he did during his spectacular rookie season. And if he's back, the Washington Commanders might be back, too."
-    },
-    {
-      "title": "What Every INDYCAR Team Needs To Achieve Over Final 5 Races",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/what-indycar-teams-need-final-push-with-five-races-left",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-26.jpg?ve=1&tl=1",
-      "published": "8/12/2026, 10:22:25 PM",
-      "desc": "As the season comes down to the wire, here's what every INDYCAR team needs to do to finish the year as strong as possible."
     }
   ],
   "tech": [
+    {
+      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
+      "image": "https://kotaku.com/app/uploads/2026/08/rideshare-1-1200x675.jpg",
+      "published": "8/13/2026, 4:42:19 AM",
+      "desc": "Matt Karch said a missing Steam disclosure will be added eventually"
+    },
     {
       "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
       "source": "Mashable",
@@ -244,14 +252,6 @@
       "image": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
       "published": "8/12/2026, 8:30:44 PM",
       "desc": "This is just like Dark Souls"
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
-      "published": "8/12/2026, 8:10:40 PM",
-      "desc": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
     },
     {
       "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
@@ -374,15 +374,6 @@
     },
     {
       "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -391,22 +382,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 6,
-      "title": "NOTHING BETTER THAN THIS",
-      "artist": "Kasabian",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/96/c1/7996c16e-e7fc-f608-c506-8cc79e8771c2/196874042359.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/d0/6d/2cd06dee-aedc-d3ed-abc3-f66dcfb16be8/mzaf_17232947977412938554.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/nothing-better-than-this/1887548705?i=1887548816&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kasabian%20NOTHING%20BETTER%20THAN%20THIS"
+      "rank": 5,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 7,
+      "title": "NOTHING BETTER THAN THIS",
+      "artist": "Kasabian",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/96/c1/7996c16e-e7fc-f608-c506-8cc79e8771c2/196874042359.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/d0/6d/2cd06dee-aedc-d3ed-abc3-f66dcfb16be8/mzaf_17232947977412938554.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/nothing-better-than-this/1887548705?i=1887548816&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kasabian%20NOTHING%20BETTER%20THAN%20THIS"
     },
     {
       "rank": 8,
@@ -421,7 +421,7 @@
       "rank": 9,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/80/b2/1a80b25d-c292-73aa-c665-5424a6be97eb/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
@@ -430,7 +430,7 @@
       "rank": 10,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/19/d4/a419d480-9660-53bc-965e-9e4ffa0b270e/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
@@ -446,24 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 13,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 14,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
@@ -472,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 14,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 15,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
       "title": "THE RIBBON HERO",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
       "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
       "url": "https://www.themoviedb.org/movie/1679730"
+    },
+    {
+      "rank": 8,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 9,
@@ -562,15 +562,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 10,
-      "title": "Masters of the Universe",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "url": "https://www.themoviedb.org/movie/454639"
     }
   ],
   "tv": [
