@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:32:24.488Z",
+  "updated": "2026-08-15T05:25:45.111Z",
   "news": [
     {
       "title": "Subscription traps: I got an £89 refund – how to cancel and  avoid unwanted charges",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Aces hold off Mystics, lock up postseason berth behind Young's 32 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49606140/aces-hold-mystics-lock-postseason-berth-young-32",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/923a73bf-13d0-40bd-b92a-a38910b34b99/923a73bf-13d0-40bd-b92a-a38910b34b99.jpg",
+      "published": "8/14/2026, 4:38:27 AM",
+      "desc": "Jackie Young scored 32 points to help the Aces clinch a playoff berth with an 83-76 win over the Mystics on Thursday night."
+    },
+    {
+      "title": "Mendoza Mania Has Arrived: 3 Takeaways From Fernando Mendoza's Preseason Debut",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/mendoza-mania-has-arrived-3-takeaways-from-fernando-mendozas-preseason-debut",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/fernando-mendoza-takeaways.jpg?ve=1&tl=1",
+      "published": "8/14/2026, 4:37:21 AM",
+      "desc": "Fernando Mendoza made his case to be the Raiders' QB1 as he had a few strong moments playing around an improved Las Vegas offense."
+    },
+    {
+      "title": "NFL Catchup: Mendoza, Love, Allar Shine In Preseason Debuts; Seahawks Sign Arnold",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookies-mendoza-love-shine-preseason-debuts-more",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/fernando-mendoza-nfl-catchup.jpg?ve=1&tl=1",
+      "published": "8/14/2026, 4:37:19 AM",
+      "desc": "Here's what you need to know from Thursday around the NFL."
+    },
     {
       "title": "Cade Cavalli Flirts With First Nationals No-Hitter Since 2015 In Shutout Win Over Cubs",
       "source": "Fox Sports",
@@ -186,22 +210,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0725%2Fr1363259_1296x729_16%2D9.jpg",
       "published": "8/13/2026, 10:27:42 PM",
       "desc": "Jerry Jones likened the Micah Parsons deal to the 1989 trade of running back Herschel Walker to the Vikings that helped build the Cowboys' dynasty of the 1990s."
-    },
-    {
-      "title": "The Mariners Go As Cal Raleigh Goes – And Right Now, That’s Nowhere Good",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mariners-go-cal-raleigh-goes-right-now-thats-nowhere-good",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/2763d974-mlb-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/13/2026, 10:22:18 PM",
-      "desc": "Cal Raleigh's struggles are a big reason why the Mariners have struggled this season."
-    },
-    {
-      "title": "Rangers vs Jagiellonia Białystok: UEFA Europa League stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cqvg08w8pjp2t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/13/2026, 9:37:29 PM",
-      "desc": "Rangers crash out of the Europa League as former Oxford United striker Nik Prelec's equaliser on the night takes Jagiellonia Bialystok into the play-off round on aggregate."
     }
   ],
   "tech": [
@@ -429,6 +437,15 @@
     },
     {
       "rank": 11,
+      "title": "My Mother Was An Angel",
+      "artist": "Dusty Rivers",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/54/2e/b2542e97-5b22-ccc6-35c4-1f8318d443c7/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f1/ac/9af1acaa-128e-6564-8f59-1654914f01d3/mzaf_4323572759512802585.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-mother-was-an-angel/6801379783?i=6801379784&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dusty%20Rivers%20My%20Mother%20Was%20An%20Angel"
+    },
+    {
+      "rank": 12,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
@@ -437,22 +454,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 13,
-      "title": "My Mother Was An Angel",
-      "artist": "Dusty Rivers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/54/2e/b2542e97-5b22-ccc6-35c4-1f8318d443c7/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f1/ac/9af1acaa-128e-6564-8f59-1654914f01d3/mzaf_4323572759512802585.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-mother-was-an-angel/6801379783?i=6801379784&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dusty%20Rivers%20My%20Mother%20Was%20An%20Angel"
     },
     {
       "rank": 14,
@@ -465,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Ten Over Ten",
-      "artist": "Royal Blood",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/a4/de/71a4de9a-a29a-56cc-ffa9-102f6ca76a43/1200214816384.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/d4/42/a4d442db-80ff-a1a1-925a-8f1a5e7e908c/mzaf_9908745056224979040.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ten-over-ten/6800026500?i=6800026503&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Royal%20Blood%20Ten%20Over%20Ten"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -512,6 +520,15 @@
     },
     {
       "rank": 5,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -520,22 +537,13 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 7,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 8,
@@ -548,12 +556,12 @@
     },
     {
       "rank": 9,
-      "title": "THE RIBBON HERO",
+      "title": "Disclosure Day",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "url": "https://www.themoviedb.org/movie/1679730"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
