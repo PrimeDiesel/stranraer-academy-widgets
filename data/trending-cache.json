@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-15T07:31:30.601Z",
+  "updated": "2026-08-15T08:29:41.463Z",
   "news": [
+    {
+      "title": "Japan: Record rains in Chiba kill six people as thousands stranded at Narita Airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg",
+      "published": "8/14/2026, 8:22:17 AM",
+      "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+    },
     {
       "title": "Bonnie Tyler's home village of Mumbles prepares for emotional goodbye",
       "source": "BBC News",
@@ -56,17 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd9f/live/cb579a00-9780-11f1-870d-5d08c49babb2.jpg",
       "published": "8/14/2026, 1:52:20 AM",
       "desc": "Many of today's papers lead coverage with the fires and train derailment under headlines about Thursday being the hottest day."
-    },
-    {
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
-      "published": "8/13/2026, 10:52:25 PM",
-      "desc": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
     }
   ],
   "sports": [
+    {
+      "title": "Can Chelsea go from 10th to Premier League title again?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c645/live/0ca473c0-9709-11f1-b72c-211ea4e0afc4.jpg",
+      "published": "8/14/2026, 7:37:23 AM",
+      "desc": "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?"
+    },
+    {
+      "title": "Transfer latest: Tijjani Reijnders, Rodri, Marcus Rashford & Ezri Konsa updates plus gossip",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cv629ey4jw79t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e891/live/20985f40-97a9-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/14/2026, 7:37:17 AM",
+      "desc": "All the latest transfer news & rumours with Manchester City looking to overhaul their midfield as Tijjani Reijnders prepares to leave."
+    },
     {
       "title": "Australian golfer Jessica Bang, 18, dies after brain haemorrhage",
       "source": "BBC Sport",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x9-27.jpg?ve=1&tl=1",
       "published": "8/13/2026, 11:22:23 PM",
       "desc": "From how drivers prep to how it all came together, here's everything to know as INDYCAR heads to two new tracks at Markham and D.C."
-    },
-    {
-      "title": "2026 NFL Odds: Back Lions In NFC North, Loveland To Dominate In Chicago",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-back-lions-nfc-north-loveland-dominate-chicago",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/colston-813.jpg?ve=1&tl=1",
-      "published": "8/13/2026, 11:22:21 PM",
-      "desc": "Geoff Schwartz delivers his best bets for the NFC North ahead of the rapidly approaching NFL season."
-    },
-    {
-      "title": "Ravens HC Jesse Minter Has Quickly Won Over Players — Now He Must Win Games",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-hc-jesse-minter-has-quickly-won-over-players-now-he-must-win-games",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/e2a1a08e-artboard-1-1.jpg?ve=1&tl=1",
-      "published": "8/13/2026, 11:22:19 PM",
-      "desc": "Jesse Minter has big shoes to fill replacing John Harbaugh and big expectations to meet as he takes over a Super Bowl contender. Is he ready?"
     }
   ],
   "tech": [
