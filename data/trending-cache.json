@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:23:38.474Z",
+  "updated": "2026-08-15T21:21:52.512Z",
   "news": [
     {
       "title": "Jason Arday: Former Cambridge university professor found dead",
@@ -68,6 +68,30 @@
   ],
   "sports": [
     {
+      "title": "Super League: Hull FC 14-18 Castleford Tigers: Cas win despite coaching problems",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/c8en87pwn66o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8d43/live/1dd64380-9821-11f1-a675-bbb8c5acaf96.jpg",
+      "published": "8/14/2026, 9:07:25 PM",
+      "desc": "Castleford Tigers put their coaching problems aside as they beat Hull FC at the MKM Stadium to record only their third Super League away win of the season."
+    },
+    {
+      "title": "European Athletics Championships 2026: Keely Hodgkinson takes 800m silver behind Swiss rival Audrey Werro",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "8/14/2026, 9:07:18 PM",
+      "desc": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final."
+    },
+    {
+      "title": "Bills' Phidarian Mathis banned 3 games for substance-abuse violation - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49611988/bills-phidarian-mathis-banned-3-games-substance-abuse-violation",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0824%2Fr248374_1296x729_16%2D9.jpg",
+      "published": "8/14/2026, 8:22:46 PM",
+      "desc": "Bills defensive tackle Phidarian Mathis has been suspended for the first three games of the season for violating the NFL's substances of abuse policy."
+    },
+    {
       "title": "Tottenham: Cristian Romero says 'I wasn't perfect' before making Atletico Madrid move",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c20dyz4vrero",
@@ -100,14 +124,6 @@
       "desc": "Falcons edge rusher James Pearce Jr. will be suspended by the NFL for eight games due to violating the league's personal conduct policy, the league announced Friday afternoon."
     },
     {
-      "title": "Kubiak: All three QBs, including Mendoza, deserve 1st-team reps - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49611554/kubiak-all-three-qbs-including-mendoza-deserve-1st-team-reps",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0814%2Fr1701837_1296x729_16%2D9.jpg",
-      "published": "8/14/2026, 7:12:46 PM",
-      "desc": "Raiders coach Klint Kubiak says rookie quarterback Fernando Mendoza played \"good football\" in his preseason debut, adding that all three signal-callers deserve more first-team reps."
-    },
-    {
       "title": "Troy Aikman facing MNF limits due to Dolphins role, NFL says - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49611336/troy-aikman-facing-mnf-limits-due-dolphins-role-nfl-says",
@@ -122,14 +138,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/122d/live/ff1f9d90-94cb-11f1-8dc4-8907761852f3.jpg",
       "published": "8/14/2026, 6:37:25 PM",
       "desc": "Follow live text commentary, score updates and match stats from Wolverhampton Wanderers v Blackburn Rovers in the Championship."
-    },
-    {
-      "title": "Kilmarnock vs Ayr United: League Cup stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/credjz7000nwt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/14/2026, 6:22:22 PM",
-      "desc": "Listen to Sportsound and follow live text commentary, score updates and match stats from Kilmarnock vs Ayr United in the Scottish League Cup."
     },
     {
       "title": "Watch European Athletics Championships 2026 LIVE: Birmingham - live text updates, results, medal table & schedule updates",
@@ -202,17 +210,41 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0127%2Fr48450_1296x729_16%2D9.jpg",
       "published": "8/14/2026, 4:19:34 PM",
       "desc": "Kevin Garnett will have a second jersey number retired when the Timberwolves raise his No. 21 to the rafters."
-    },
-    {
-      "title": "Liverpool owners sell stake to Jeff Bezos-backed consortium - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49610494/liverpool-owners-fsg-sell-stake-consortium-jeff-bezos-amit-bhatia",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0814%2Fr1701749_1296x729_16%2D9.jpg",
-      "published": "8/14/2026, 4:16:55 PM",
-      "desc": "Liverpool owners Fenway Sports Group (FSG) have confirmed the sale of a minority stake in the club to a consortium that includes Amazon founder Jeff Bezos."
     }
   ],
   "tech": [
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+      "published": "8/14/2026, 6:32:14 PM",
+      "desc": "Screen-sharing bug lets remote hackers log in without a password."
+    },
+    {
+      "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108349054-1786624520287-IMG_2633.jpg?v=1786642674&w=1920&h=1080",
+      "published": "8/14/2026, 6:00:01 PM",
+      "desc": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price."
+    },
+    {
+      "title": "The new Flachbau RS is a one-off Porsche 911 GT2 RS built to look (a bit) like Moby Dick - Top Gear",
+      "source": "Top Gear",
+      "url": "https://www.topgear.com/car-news/supercars/new-flachbau-rs-a-one-porsche-911-gt2-rs-built-look-a-bit-moby-dick",
+      "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/08/aa8e75230bd72d18b12aa96aa779f8e7/DSCF4362-V1.jpg?w=1280&h=720",
+      "published": "8/14/2026, 6:00:00 PM",
+      "desc": "Porsche’s means are indeed sane, but the finished object? Mad"
+    },
+    {
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/person-remembering-reminder-GettyImages-1420814839.jpg?resize=1200,801",
+      "published": "8/14/2026, 4:21:04 PM",
+      "desc": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
+    },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
       "source": "TechCrunch",
@@ -220,6 +252,14 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
       "published": "8/14/2026, 4:13:40 PM",
       "desc": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+    },
+    {
+      "title": "‘Monkey Island’ Creator Finds Wealthy Investor for Next Game - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-14/-monkey-island-creator-finds-wealthy-investor-for-thimbleweed-park-2",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOnyUd36Rxcw/v0/1200x675.jpg",
+      "published": "8/14/2026, 4:00:01 PM",
+      "desc": "Ron Gilbert didn’t want to go with a traditional publisher for ‘Thimbleweed Park 2,’ so he took an unorthodox route"
     },
     {
       "title": "Watch Gameplay of a Brand New Control Resonant Boss Fight - IGN",
@@ -236,46 +276,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
       "published": "8/14/2026, 3:46:40 PM",
       "desc": "Third-party app stores are about to become more visible in Google Play."
-    },
-    {
-      "title": "Rideshare Stimulator finally gets its genAI disclosure after much Saber-rattling, and it turns out the game also uses the tech for in-game music - Rock Paper Shotgun",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
-      "image": "",
-      "published": "8/14/2026, 3:26:30 PM",
-      "desc": ""
-    },
-    {
-      "title": "It's Long Past Time Nintendo Gave Mario A Gun, You Cowards - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/its-time-to-give-mario-a-gun-2000724461",
-      "image": "https://kotaku.com/app/uploads/2026/08/mariosgottagun-1200x675.jpg",
-      "published": "8/14/2026, 3:03:29 PM",
-      "desc": "The only thing that can save Nintendo is leaving childish things behind"
-    },
-    {
-      "title": "Feature: One Year On, Is Anyone Still Playing Drag x Drive? - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/features/one-year-on-is-anyone-still-playing-drag-x-drive",
-      "image": "https://images.nintendolife.com/4dcba6e0ddaa2/large.jpg",
-      "published": "8/14/2026, 3:00:00 PM",
-      "desc": "Drag x Thrive?"
-    },
-    {
-      "title": "tvOS 27 could push you to upgrade to new Apple TV 4K - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/14/2026, 2:21:00 PM",
-      "desc": "tvOS 27 is coming soon as the next software update for Apple TV, and for two reasons it could push you to upgrade to a new Apple TV 4K."
-    },
-    {
-      "title": "Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring",
-      "image": "https://assetsio.gnwcdn.com/south-of-midnight_FEBooHb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/14/2026, 2:17:44 PM",
-      "desc": "Life after Xbox begins for South of Midnight and We Happy Few developer Compulsion Games. Will it prosper?"
     }
   ],
   "education": [
@@ -356,15 +356,6 @@
     },
     {
       "rank": 2,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -373,16 +364,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 4,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "rank": 3,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
@@ -391,13 +382,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 6,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 7,
@@ -410,24 +410,6 @@
     },
     {
       "rank": 8,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 9,
-      "title": "Total Eclipse of the Heart",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
-    },
-    {
-      "rank": 10,
       "title": "Love Sensation (Afterhours Mix)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
@@ -436,7 +418,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -445,22 +427,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 12,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+      "rank": 10,
+      "title": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 12,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 13,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
       "rank": 14,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
@@ -547,21 +547,21 @@
     },
     {
       "rank": 8,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 9,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 9,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 10,
