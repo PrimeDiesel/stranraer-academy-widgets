@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-15T17:21:07.305Z",
+  "updated": "2026-08-15T18:30:32.018Z",
   "news": [
+    {
+      "title": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f4a/live/021031f0-97fa-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/14/2026, 5:52:29 PM",
+      "desc": "Two families have been trapped in their homes in the occupied West Bank for several days."
+    },
+    {
+      "title": "Two people dead after light aircraft crash in Trawsfynydd",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "8/14/2026, 5:52:21 PM",
+      "desc": "The aircraft was found in a remote location close to Trawsfynydd, near Porthmadog, Gwynedd."
+    },
+    {
+      "title": "Finlay Tarling: British cyclist dies in accident at Volta a Portugal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2eec/live/6cc46160-97ff-11f1-bc94-d3a8a062b873.jpg",
+      "published": "8/14/2026, 5:22:21 PM",
+      "desc": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
+    },
     {
       "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
       "source": "BBC News",
@@ -8,30 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4d4/live/a6bfcab0-97e8-11f1-a76b-f1c27c51f3da.jpg",
       "published": "8/14/2026, 4:37:23 PM",
       "desc": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them."
-    },
-    {
-      "title": "What we know so far about the West Midlands fires",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8xr2n9560o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a6f/live/3bc69010-97f0-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/14/2026, 4:22:26 PM",
-      "desc": "Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee."
-    },
-    {
-      "title": "Chanel Fong found not guilty after XL bully fatally bit man",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8qd970kzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8335/live/01c1e160-972a-11f1-870d-5d08c49babb2.png",
-      "published": "8/14/2026, 3:37:36 PM",
-      "desc": "Chanel Fong’s partner’s father, Keven Jones, died from severe blood loss after he was bitten on the leg."
-    },
-    {
-      "title": "Trump asks Supreme Court to allow White House ballroom work to continue",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg",
-      "published": "8/14/2026, 3:37:25 PM",
-      "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
     },
     {
       "title": "Where does this unorthodox by-election victory leave Nigel Farage?",
@@ -68,20 +68,44 @@
   ],
   "sports": [
     {
-      "title": "Burnley count the cost after dropping shirt sponsor",
+      "title": "Kilmarnock vs Ayr United: League Cup stats & head-to-head",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ff2/live/a5bf2290-97f3-11f1-8170-33f7e8571fbe.jpg",
-      "published": "8/14/2026, 5:07:30 PM",
-      "desc": "Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal."
+      "url": "http://www.bbc.co.uk/sport/football/live/credjz7000nwt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/14/2026, 6:22:22 PM",
+      "desc": "Listen to Sportsound and follow live text commentary, score updates and match stats from Kilmarnock vs Ayr United in the Scottish League Cup."
+    },
+    {
+      "title": "Watch European Athletics Championships 2026 LIVE: Birmingham - live text updates, results, medal table & schedule updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/live/cy0604rjygpt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f8c/live/e886ada0-97f8-11f1-9577-b1309b6ea3af.jpg",
+      "published": "8/14/2026, 6:22:17 PM",
+      "desc": "Britain's Keely Hodgkinson goes for 800m gold at the European Athletics Championships in Birmingham - watch live."
+    },
+    {
+      "title": "2026 NFL Odds: Back Murray, Flores To Reverse Vikings' Fortune",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-back-murray-flores-reverse-vikings-fortune",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/murray-814.jpg?ve=1&tl=1",
+      "published": "8/14/2026, 6:07:21 PM",
+      "desc": "Will Hill believes the Vikings will go from (tied for) worst to first in the NFC North in 2026. Here's why he's betting Minnesota."
     },
     {
       "title": "The Hundred 2026 LIVE: Manchester Super Giants vs Sunrisers Leeds in men's Eliminator - cricket score & radio commentary",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/live/cx219le7e5vt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/14/2026, 5:07:26 PM",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7605/live/c62d2fd0-9803-11f1-a0eb-b7317d9355a1.jpg",
+      "published": "8/14/2026, 5:37:30 PM",
       "desc": "Manchester Super Giants face Sunrisers Leeds in the Men's Hundred Eliminator - follow live scores, radio commentary and text updates."
+    },
+    {
+      "title": "Finlay Tarling: British cyclist dies in accident at Volta a Portugal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2eec/live/6cc46160-97ff-11f1-bc94-d3a8a062b873.jpg",
+      "published": "8/14/2026, 5:37:24 PM",
+      "desc": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
     },
     {
       "title": "Former NFL Lineman Jared Odrick Finding 'New Purpose' In Racing",
@@ -106,14 +130,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/alex-palou_favorite_markham.jpg?ve=1&tl=1",
       "published": "8/14/2026, 4:52:18 PM",
       "desc": "Find out who's favored this weekend as INDYCAR heads to Markham, Ontario."
-    },
-    {
-      "title": "Finlay Tarling: British cyclist dies in accident at Volta a Portugal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "8/14/2026, 4:37:23 PM",
-      "desc": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
     },
     {
       "title": "Texas LB Rasheem Biles: Ohio State Game 'Circled On My Calendar' After Recruiting",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/noah-gragson_extension_2027_nascar.jpg?ve=1&tl=1",
       "published": "8/14/2026, 3:22:29 PM",
       "desc": "Noah Gragson is staying put at Front Row Motorsports. Here's the latest from NASCAR's silly season."
-    },
-    {
-      "title": "2027 INDYCAR Schedule Tracker: First 8 Dates Announced",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/2027-indycar-schedule-tracker",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indycar-schedule_2027_dates.jpg?ve=1&tl=1",
-      "published": "8/14/2026, 3:22:27 PM",
-      "desc": "Where and when will the INDYCAR Series race in 2027? Here are the latest updates."
-    },
-    {
-      "title": "Champions League: Shakhtar Donetsk keen to play matches at Stamford Bridge",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/360c/live/c5f213b0-97e4-11f1-a76b-f1c27c51f3da.jpg",
-      "published": "8/14/2026, 2:52:24 PM",
-      "desc": "Ukrainian club Shakhtar Donetsk want to play their Champions League home games at Chelsea's Stamford Bridge this season."
     }
   ],
   "tech": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -537,22 +528,31 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 7,
-      "title": "Disclosure Day",
+      "rank": 6,
+      "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 9,
@@ -591,6 +591,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 3,
+      "title": "Ahsoka",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
+      "overview": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+      "url": "https://www.themoviedb.org/tv/114461"
     }
   ]
 }
