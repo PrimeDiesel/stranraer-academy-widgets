@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T08:29:41.463Z",
+  "updated": "2026-08-15T09:26:33.765Z",
   "news": [
     {
       "title": "Japan: Record rains in Chiba kill six people as thousands stranded at Narita Airport",
@@ -68,6 +68,14 @@
   ],
   "sports": [
     {
+      "title": "Football gossip: Rodri, Spence, Pubill, Iroegbunam, Jesus",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b59a/live/72ca76a0-975d-11f1-a7ab-8b30adf0800a.png",
+      "published": "8/14/2026, 8:37:21 AM",
+      "desc": "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more."
+    },
+    {
       "title": "Can Chelsea go from 10th to Premier League title again?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o",
@@ -106,14 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f1c6/live/2c9dcb20-97a6-11f1-b9b1-c18c7ed25243.jpg",
       "published": "8/14/2026, 6:37:22 AM",
       "desc": "New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino."
-    },
-    {
-      "title": "BBC Sport quiz: Who am I? Guess Premier League footballer No 25",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c36dx26l68lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0bd9/live/088569b0-85b2-11f1-926f-c90d1bcfbc84.png",
-      "published": "8/14/2026, 6:22:22 AM",
-      "desc": "Work out the identity of today's player in as few attempts as possible."
     },
     {
       "title": "How Enzo Maresca's Man City are shaping up compared with Pep Guardiola",
@@ -214,14 +214,6 @@
   ],
   "tech": [
     {
-      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
-      "image": "https://images.macrumors.com/t/doLZiZexHl-a_lDcMqAco18ErR4=/2500x/article-new/2026/08/iPhone-17-Pro-1-Year-Later-Thumb.jpg",
-      "published": "8/13/2026, 11:58:41 PM",
-      "desc": "We're getting close to the launch of new iPhone 18 Pro models that will replace the iPhone 17 Pro models, so MacRumors videographer Dan Barbera..."
-    },
-    {
       "title": "Google Play is hiding a Pixel 11 Pro discount in plain sight - Android Central",
       "source": "Android Central",
       "url": "https://www.androidcentral.com/phones/google-pixel/google-play-is-hiding-a-pixel-11-pro-discount-in-plain-sight",
@@ -230,12 +222,20 @@
       "desc": "Check your perks and compare trade-in deals before pre-ordering."
     },
     {
+      "title": "What's Coming in September: New iPhones, Apple Watches and More - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "image": "https://images.macrumors.com/t/qRmOexb-1DJ4BzULNReC0L_jgjA=/1800x/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+      "published": "8/13/2026, 11:20:34 PM",
+      "desc": "Apple will introduce at least five new devices at its iPhone-centric event next month, and it's also possible we'll get devices waiting on..."
+    },
+    {
       "title": "Apple’s next iPhone battle just got more complicated - thestreet.com",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/investing/apple-next-iphone-battle-google-pixel-11",
-      "image": "",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ0MjAz/tim-cook-apple.jpg?profile=share16-9",
       "published": "8/13/2026, 10:54:48 PM",
-      "desc": ""
+      "desc": "Apple is walking into an AI fight with an unusual disadvantage"
     },
     {
       "title": "Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS - 9to5Google",
@@ -270,12 +270,12 @@
       "desc": "The Pixel Tag pairs UWB and Bluetooth Channel Sounding to precisely pinpoint your lost items."
     },
     {
-      "title": "The Future Of Roku As An Affordable Streaming Platform Is Looking Bleak - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2232436/future-roku-affordable-streaming-platform-bleak/",
-      "image": "https://www.bgr.com/img/gallery/the-future-of-roku-as-an-affordable-streaming-platform-is-looking-bleak/l-intro-1786043589.jpg",
-      "published": "8/13/2026, 9:17:00 PM",
-      "desc": "Roku cemented its current dominance of the streaming device market in large part thanks to its affordable pricing, but the future for that isn't looking rosy."
+      "title": "Pixel 11’s Gboard Rambler is prompt-based, rather than real-time - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/13/gboard-rambler-prompt/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/13/2026, 8:41:00 PM",
+      "desc": "Gboard Rambler is likely the flagship Gemini Intelligence feature on the Pixel 11 series, but it’s not the real-time transcription..."
     }
   ],
   "education": [
@@ -383,21 +383,21 @@
     },
     {
       "rank": 5,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 6,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 6,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 7,
@@ -419,21 +419,21 @@
     },
     {
       "rank": 9,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 10,
       "title": "Wild One",
       "artist": "Twinnie",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+    },
+    {
+      "rank": 10,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
       "rank": 11,
@@ -446,6 +446,15 @@
     },
     {
       "rank": 12,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 13,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
@@ -454,31 +463,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
-      "rank": 13,
-      "title": "My Mother Was An Angel",
-      "artist": "Dusty Rivers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/54/2e/b2542e97-5b22-ccc6-35c4-1f8318d443c7/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f1/ac/9af1acaa-128e-6564-8f59-1654914f01d3/mzaf_4323572759512802585.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-mother-was-an-angel/6801379783?i=6801379784&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dusty%20Rivers%20My%20Mother%20Was%20An%20Angel"
-    },
-    {
       "rank": 14,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 15,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 15,
+      "title": "My Mother Was An Angel",
+      "artist": "Dusty Rivers",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/54/2e/b2542e97-5b22-ccc6-35c4-1f8318d443c7/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f1/ac/9af1acaa-128e-6564-8f59-1654914f01d3/mzaf_4323572759512802585.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-mother-was-an-angel/6801379783?i=6801379784&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dusty%20Rivers%20My%20Mother%20Was%20An%20Angel"
     }
   ],
   "movies": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 6,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -537,22 +528,31 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 7,
-      "title": "Toy Story 5",
+      "rank": 6,
+      "title": "Don't Say Good Luck",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 7,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 8,
-      "title": "Michael",
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 9,
@@ -565,12 +565,12 @@
     },
     {
       "rank": 10,
-      "title": "Don't Say Good Luck",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
@@ -591,15 +591,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 3,
-      "title": "My Life with the Walter Boys",
-      "year": "2023",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
-      "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "url": "https://www.themoviedb.org/tv/199001"
     }
   ]
 }
