@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-16T12:40:05.869Z",
+  "updated": "2026-08-16T13:32:26.533Z",
   "news": [
     {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "title": "Bonnie Tyler's celebration of life attended by fans in Mumbles",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
-      "published": "8/15/2026, 12:37:24 PM",
-      "desc": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
+      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebb9/live/0fa8e5c0-98ac-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/15/2026, 1:37:23 PM",
+      "desc": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal."
+    },
+    {
+      "title": "X-Men: Christopher Abbott and Sadie Sink in new Marvel movie",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zndql7po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89b0/live/c07efd60-988b-11f1-83ef-33838a09c7c1.jpg",
+      "published": "8/15/2026, 1:07:20 PM",
+      "desc": "Heartstopper's Kit Connor and Christopher Abbot are also joining the Marvel Cinematic Universe."
     },
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
       "published": "8/15/2026, 12:22:24 PM",
       "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
-      "title": "Since the Taliban took power, does the West have any influence?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6df/live/5cf107f0-97de-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/15/2026, 12:07:19 PM",
-      "desc": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
     },
     {
       "title": "Jason Arday's death will send shockwaves through a divided academia",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Chelsea vs Real Sociedad: Club Friendlies stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ck5y0je5z00lt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/15/2026, 1:37:25 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Chelsea vs Real Sociedad in the Club Friendlies"
+    },
+    {
+      "title": "Owner of valuable Cooper Flagg 1-of-1 card comes forward - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49612510/dallas-mavericks-cooper-flagg-signed-1-1-rookie-card-jason-williams",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702058_1296x729_16%2D9.jpg",
+      "published": "8/15/2026, 1:00:00 PM",
+      "desc": "A card collector since he was 12, Jason Williams still hasn't decided what to do with the incredible find."
+    },
     {
       "title": "The Hundred: Why have attendances dropped in 2026?",
       "source": "BBC Sport",
@@ -132,14 +148,6 @@
       "desc": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?"
     },
     {
-      "title": "Keely Hodgkinson: Great Britain's Olympic champion ready for fight against fresh rivals",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5638/live/11896ec0-986e-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/15/2026, 7:22:22 AM",
-      "desc": "Keely Hodgkinson says she is proud of her ability to \"continue to fight\" after taking silver behind Audrey Werro at the European Athletics Championships."
-    },
-    {
       "title": "Dodgers' Ohtani throws bullpen session in big step toward return - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49616233/dodgers-ohtani-throws-bullpen-session-big-step-return",
@@ -202,17 +210,17 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701980_1193x671_16%2D9.jpg",
       "published": "8/15/2026, 2:28:05 AM",
       "desc": "The Steelers and defensive tackle Keeanu Benton agreed to a four-year, $72 million extension, sources told NFL Network's Ian Rapoport on Friday night."
-    },
-    {
-      "title": "Judge dismisses ex-Knick Oakley's assault case against MSG - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49614341/judge-dismisses-ex-knick-oakley-assault-case-msg",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701983_1296x729_16%2D9.jpg",
-      "published": "8/15/2026, 2:27:50 AM",
-      "desc": "A judge on Friday ruled that former Knicks All-Star Charles Oakley \"produced no evidence to support his claim that he was assault by MSG security guards.\""
     }
   ],
   "tech": [
+    {
+      "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
+      "source": "Motor1 ",
+      "url": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
+      "image": "https://cdn.motor1.com/images/mgl/VzWkby/s1/lamborghini-revuelto-sv.jpg",
+      "published": "8/15/2026, 7:35:02 AM",
+      "desc": "Lamborghini Revuelto SV turns the hybrid V12 flagship into a more track-focused coupe with revised aero, chassis tweaks, and updated powertrain calibration."
+    },
     {
       "title": "Large-Scale Pokémon Eviction Looms With Pokémon Bank Server Shutdown - hackaday.com",
       "source": "Hackaday",
@@ -246,6 +254,14 @@
       "desc": "One of Gates’ classmates at Stanford said her startup was the laughingstock at their alma mater."
     },
     {
+      "title": "First human trials of designer protein therapies stun US neuroscientists - Chemical & Engineering News",
+      "source": "Acs.org",
+      "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+      "image": "https://s7d1.scene7.com/is/image/CENODS/DREADD-human-trials---576245:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+      "published": "8/14/2026, 10:22:56 PM",
+      "desc": "Chinese researchers are testing DREADDs, a gene therapy to turn down neuronal activity, in the clinic"
+    },
+    {
       "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
       "source": "Lifehacker.com",
       "url": "https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps",
@@ -260,22 +276,6 @@
       "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/14/eb5eea8f/m27_reveal_fl_cinematic_ontherun.jpg.webp",
       "published": "8/14/2026, 8:23:00 PM",
       "desc": "Madden NFL 27 (PlayStation 5) Review – 6.75/10: Madden NFL 27 can offer up unforgettable moments through gameplay, but when it comes to being the coach/GM of a"
-    },
-    {
-      "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/14/2026, 7:35:00 PM",
-      "desc": "iPhone 18 Pro will be unveiled soon, and rumors indicate the Pro Max model will have unique advantages this year in a key area or two."
-    },
-    {
-      "title": "Save $3,100 Off the Massive 83\" LG Evo M3 4K OLED TV With Wireless Connectivity and 5 Year Warranty at Best Buy - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/lg-evo-m3-4k-oled-tv-deal-august-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/08/14/lgevom3-1786733931517.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/14/2026, 7:35:00 PM",
-      "desc": "Lowest price ever for LG's biggest and best OLED TV of 2023."
     }
   ],
   "education": [
@@ -374,24 +374,6 @@
     },
     {
       "rank": 4,
-      "title": "Tastes Like Summer",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
-    },
-    {
-      "rank": 5,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
-    },
-    {
-      "rank": 6,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -400,13 +382,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 6,
+      "title": "Tastes Like Summer",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+    },
+    {
+      "rank": 7,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
       "rank": 8,
@@ -419,51 +419,6 @@
     },
     {
       "rank": 9,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 10,
-      "title": "Love Sensation (Afterhours Mix)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
-    },
-    {
-      "rank": 11,
-      "title": "Wild One",
-      "artist": "Twinnie",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
-    },
-    {
-      "rank": 12,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 13,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 14,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
@@ -472,13 +427,58 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
-      "rank": 15,
+      "rank": 10,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 11,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 12,
+      "title": "Love Sensation (Afterhours Mix)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/04/7b/63047b67-b819-6048-9cec-dea02097b96c/mzaf_12660507321982775988.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-mix/6798373683?i=6798373693&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Mix)"
+    },
+    {
+      "rank": 13,
+      "title": "Wild One",
+      "artist": "Twinnie",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
+    },
+    {
+      "rank": 14,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 15,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     }
   ],
   "movies": [
@@ -502,15 +502,6 @@
     },
     {
       "rank": 3,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 4,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -519,13 +510,22 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
+      "rank": 4,
+      "title": "The Last House",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
       "rank": 5,
-      "title": "Disclosure Day",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 6,
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 8,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 8,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 9,
@@ -582,15 +582,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 3,
-      "title": "My Adventures with Superman",
-      "year": "2023",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
-      "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
-      "url": "https://www.themoviedb.org/tv/125928"
     }
   ]
 }
