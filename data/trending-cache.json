@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-16T14:23:56.974Z",
+  "updated": "2026-08-16T15:22:28.120Z",
   "news": [
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "published": "8/15/2026, 2:52:20 PM",
+      "desc": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
+    },
     {
       "title": "Bonnie Tyler's celebration of life attended by fans in Mumbles",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebb9/live/0fa8e5c0-98ac-11f1-870d-5d08c49babb2.jpg",
       "published": "8/15/2026, 1:37:23 PM",
       "desc": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal."
-    },
-    {
-      "title": "X-Men: Christopher Abbott and Sadie Sink in new Marvel movie",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zndql7po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89b0/live/c07efd60-988b-11f1-83ef-33838a09c7c1.jpg",
-      "published": "8/15/2026, 1:07:20 PM",
-      "desc": "Heartstopper's Kit Connor and Christopher Abbot are also joining the Marvel Cinematic Universe."
     },
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
@@ -50,23 +50,39 @@
       "desc": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
     },
     {
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
-      "published": "8/15/2026, 7:37:18 AM",
-      "desc": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains."
-    },
-    {
       "title": "Bella Ramsey: I wish I had been a more rebellious teenager",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b10a/live/0c43f9f0-9669-11f1-a6eb-474cf36e6c34.jpg",
       "published": "8/15/2026, 7:22:25 AM",
       "desc": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom."
+    },
+    {
+      "title": "Greg James was 'completely floored' by his dog's death - I know how he feels",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/669d/live/c3b68780-9824-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/15/2026, 7:22:21 AM",
+      "desc": "The grief of losing a pet is complicated and often comes with guilt, writes Helena Wilkinson."
     }
   ],
   "sports": [
+    {
+      "title": "Scotland: Belgian Sebastien Pocognoli frontrunner to be new head coach",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efb8/live/d6ac89d0-98aa-11f1-9dd3-79dbb17f6bca.jpg",
+      "published": "8/15/2026, 2:37:26 PM",
+      "desc": "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke."
+    },
+    {
+      "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmy0j1846rnwt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1711/live/14966e90-9898-11f1-9695-21531f851338.jpg",
+      "published": "8/15/2026, 2:37:22 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester United vs AC Milan in the Club Friendlies"
+    },
     {
       "title": "European Athletics Championships: O'Connor leads heptathlon with one event remaining",
       "source": "BBC Sport",
@@ -180,14 +196,6 @@
       "desc": "Spinner Mehidy Hasan Miraz takes the crucial wicket of Steve Smith as Bangladesh move closer to a historic first Test victory in Australia on day three in Darwin."
     },
     {
-      "title": "Finlay Tarling's team withdraws as Volta a Portugal resumes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3966/live/863300e0-9893-11f1-a8d2-f13aa238c39c.jpg",
-      "published": "8/15/2026, 10:37:22 AM",
-      "desc": "Finlay Tarling's team, NSN, withdraws from the remaining stages of the Volta a Portugal following the British cyclist's death."
-    },
-    {
       "title": "Transfer news: PSG sign Ferran Torres from Barcelona for about £43m",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko",
@@ -202,17 +210,17 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1695946_1296x729_16%2D9.jpg",
       "published": "8/15/2026, 6:52:10 AM",
       "desc": "Dodgers manager Dave Roberts said he felt \"pretty confident\" about Shohei Ohtani returning to the mound this season after the two-way star threw a 35-pitch bullpen session Friday."
-    },
-    {
-      "title": "'Real Turning Point': How Last Year's NLCS Loss Shaped Jacob Misiorowski",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/jacob-misiorowski-dodgers-brewers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/main8.jpg?ve=1&tl=1",
-      "published": "8/15/2026, 6:22:15 AM",
-      "desc": "Jacob Misiorowski considers last year's NLCS loss to the Dodgers \"the real turning point\" leading into his dominant 2026 campaign."
     }
   ],
   "tech": [
+    {
+      "title": "We’re reaching peak camera with the Sony A7R VI - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268698_Sony_A7R_VI_camera_review_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "8/15/2026, 12:00:00 PM",
+      "desc": "The Sony A7R VI is a 66.8-megapixel spec monster of a mirrorless camera. With a fully stacked sensor and 30fps blackout-free shooting, the old compromises of high-resolution cameras are long gone."
+    },
     {
       "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
       "source": "Motor1 ",
@@ -230,6 +238,14 @@
       "desc": "After the Nintendo 3DS handheld console saw most its online services including the online store (eShop) taken offline not too long ago, it was only a matter of time before the demise of even the re…"
     },
     {
+      "title": "Ford unveils 795-hp Mustang convertible with Josh and Jase at Dream Cruise - MLive.com",
+      "source": "mlive.com",
+      "url": "https://www.mlive.com/detroit/2026/08/ford-unveils-795-hp-mustang-convertible-with-josh-and-jase-at-dream-cruise.html",
+      "image": "",
+      "published": "8/15/2026, 1:44:00 AM",
+      "desc": ""
+    },
+    {
       "title": "Switch Online's DK Challenge Now Offering Physical 39-Card Set Reward - nintendolife.com",
       "source": "Nintendo Life",
       "url": "https://www.nintendolife.com/news/2026/08/switch-onlines-dk-challenge-now-offering-physical-39-card-set-reward",
@@ -238,12 +254,12 @@
       "desc": "A \"limited-time offer\" until 1st September"
     },
     {
-      "title": "Android 17 QPR2 brings system blur to the Pixel lockscreen - 9to5Google",
+      "title": "Android 17 QPR2 adds App lock to Pixel - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/14/android-17-qpr2-pixel-lockscreen-blur/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-20.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/14/2026, 10:55:00 PM",
-      "desc": "The interface changes in Android 17 QPR2 Beta 3 continue with more blur for the Pixel lockscreen. Notifications..."
+      "url": "http://9to5google.com/2026/08/14/android-17-qpr2-app-lock/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/14/2026, 11:27:00 PM",
+      "desc": "Besides visual changes, Android 17 QPR2 Beta 3 also introduces a native App lock feature to Pixel devices."
     },
     {
       "title": "Exclusive | Phoebe Gates’s Stanford classmates say she wasn’t a good coder - Page Six",
@@ -254,28 +270,12 @@
       "desc": "One of Gates’ classmates at Stanford said her startup was the laughingstock at their alma mater."
     },
     {
-      "title": "First human trials of designer protein therapies stun US neuroscientists - Chemical & Engineering News",
-      "source": "Acs.org",
-      "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
-      "image": "https://s7d1.scene7.com/is/image/CENODS/DREADD-human-trials---576245:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
-      "published": "8/14/2026, 10:22:56 PM",
-      "desc": "Chinese researchers are testing DREADDs, a gene therapy to turn down neuronal activity, in the clinic"
-    },
-    {
       "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - Lifehacker",
       "source": "Lifehacker.com",
       "url": "https://lifehacker.com/tech/microsoft-combining-copilot-ai-apps",
       "image": "https://lifehacker.com/imagery/articles/01M00WS46QMG7QA5EKP7H2HQFF/hero-image.fill.size_1200x675.jpg",
       "published": "8/14/2026, 9:30:00 PM",
       "desc": "Microsoft will now have only one Copilot app for all users."
-    },
-    {
-      "title": "Madden NFL 27 Review: Third And Long - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/review/madden-nfl-27/third-and-long",
-      "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/14/eb5eea8f/m27_reveal_fl_cinematic_ontherun.jpg.webp",
-      "published": "8/14/2026, 8:23:00 PM",
-      "desc": "Madden NFL 27 (PlayStation 5) Review – 6.75/10: Madden NFL 27 can offer up unforgettable moments through gameplay, but when it comes to being the coach/GM of a"
     }
   ],
   "education": [
@@ -410,24 +410,6 @@
     },
     {
       "rank": 8,
-      "title": "Total Eclipse of the Heart",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
-    },
-    {
-      "rank": 9,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 10,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -436,13 +418,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 10,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
+    },
+    {
+      "rank": 11,
+      "title": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
     },
     {
       "rank": 12,
@@ -455,30 +455,30 @@
     },
     {
       "rank": 13,
-      "title": "Wild One",
-      "artist": "Twinnie",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/10/f1/4e10f18d-0d08-eb2f-5270-13f3c0368ef4/634607632298.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/79/43/09794364-70bc-99d7-180f-8fd879295393/mzaf_15113261732908271284.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wild-one/6793574105?i=6793574106&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Twinnie%20Wild%20One"
-    },
-    {
-      "rank": 14,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 15,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 14,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 15,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
