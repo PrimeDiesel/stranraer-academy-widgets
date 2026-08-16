@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-16T17:20:04.541Z",
+  "updated": "2026-08-16T18:29:56.200Z",
   "news": [
+    {
+      "title": "Body found in search for Shropshire student missing on hike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4413g6rko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c88/live/840e2870-98bc-11f1-b2ab-0dd01740f9f6.png",
+      "published": "8/15/2026, 5:52:20 PM",
+      "desc": "A body is found during the search for George Smyth, who went missing while hiking in Romania."
+    },
     {
       "title": "Fire services 'under pressure' as evacuated residents still not home",
       "source": "BBC News",
@@ -56,17 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b10a/live/0c43f9f0-9669-11f1-a6eb-474cf36e6c34.jpg",
       "published": "8/15/2026, 7:22:25 AM",
       "desc": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom."
-    },
-    {
-      "title": "Greg James was 'completely floored' by his dog's death - I know how he feels",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/669d/live/c3b68780-9824-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/15/2026, 7:22:21 AM",
-      "desc": "The grief of losing a pet is complicated and often comes with guilt, writes Helena Wilkinson."
     }
   ],
   "sports": [
+    {
+      "title": "Newcastle United 1-2 Bayer Leverkusen: Mason Miley shows grit but Matthias Jaissle wants signings",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6qjx8ye1xxjt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/15/2026, 6:22:22 PM",
+      "desc": "Matthias Jaissle's first home friendly ended in a 2-1 defeat by Bayer Leverkusen at St James' Park, but there was a reason the Newcastle United head coach saluted the efforts of 17-year-old Mason Miley."
+    },
+    {
+      "title": "INDYCAR Drivers Finally Get On Track For Practice At Markham After Delays",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/indycar-markham-track-postponed-to-saturday-unfinished-course",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indycar_markham_saturday-practice_bob-pockrass.jpg?ve=1&tl=1",
+      "published": "8/15/2026, 6:22:17 PM",
+      "desc": "Drivers were generally happy with INDYCAR's course at Markham after finally getting practice time Saturday on the track."
+    },
+    {
+      "title": "European Athletics Championships 2026 LIVE: Birmingham - TV stream, text updates, latest results, medal table & schedule",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/live/c3dydrjgd9vt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6682/live/d7a33420-98d1-11f1-9687-fb984065014d.jpg",
+      "published": "8/15/2026, 6:07:27 PM",
+      "desc": "Watch live coverage of day six of the European Athletics Championships in Birmingham."
+    },
+    {
+      "title": "Blue Jays place 1B Vladimir Guerrero Jr. on 7-day concussion IL - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49620028/blue-jays-place-1b-vladimir-guerrero-jr-7-day-concussion-il",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0808%2Fr1699090_1296x729_16%2D9.jpg",
+      "published": "8/15/2026, 5:45:50 PM",
+      "desc": "The Blue Jays have placed first baseman Vladimir Guerrero Jr. on the seven-day concussion injured list, the team announced Saturday."
+    },
+    {
+      "title": "Seahawks Reportedly Make Devon Witherspoon Highest-Paid CB In NFL History",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/seahawks-devon-witherspoon-extension-highest-paid-nfl-cornerbacks",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/devon2.jpg?ve=1&tl=1",
+      "published": "8/15/2026, 5:37:25 PM",
+      "desc": "The Seattle Seahawks have reportedly made three-time Pro Bowler Devon Witherspoon the highest-paid cornerback in NFL history."
+    },
+    {
+      "title": "Curt Cignetti: Indiana Can Play ND At Home 'Since They're Not In A Conference'",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/curt-cignetti-notre-dame-shade-indiana-home-and-home",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/curt1.jpg?ve=1&tl=1",
+      "published": "8/15/2026, 5:37:23 PM",
+      "desc": "Indiana head coach Curt Cignetti joked about Notre Dame not being in a conference when discussing their cancelled home-and-home series."
+    },
+    {
+      "title": "Djed Spence: Inter Milan sign England full-back from Tottenham",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2cdf/live/31e573a0-98cb-11f1-9687-fb984065014d.jpg",
+      "published": "8/15/2026, 5:22:18 PM",
+      "desc": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham."
+    },
     {
       "title": "Last Night In Baseball: D-Backs Silence Braves; Are Red Sox Fading?",
       "source": "Fox Sports",
@@ -90,14 +146,6 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701252_1296x729_16%2D9.jpg",
       "published": "8/15/2026, 4:32:53 PM",
       "desc": "Cardinals rookie running back Jeremiyah Love will miss the next week due to a sore ankle that he injured Thursday night against the Raiders heal, coach Mike LaFleur said Saturday."
-    },
-    {
-      "title": "Newcastle: Shirts changed in first half of friendly v Bayer Leverkusen",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a098/live/9f49e940-98c0-11f1-baa7-c1f421a55365.jpg",
-      "published": "8/15/2026, 4:22:18 PM",
-      "desc": "Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen."
     },
     {
       "title": "Tottenham 3-0 Hoffenheim: Mikey Moore double gives Spurs comfortable Hoffenheim win",
@@ -124,28 +172,12 @@
       "desc": "Finlay Tarling's team, NSN, withdraws from the remaining stages of the Volta a Portugal following the British cyclist's death."
     },
     {
-      "title": "Scotland: Belgian Sebastien Pocognoli frontrunner to be new head coach",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efb8/live/d6ac89d0-98aa-11f1-9dd3-79dbb17f6bca.jpg",
-      "published": "8/15/2026, 2:37:26 PM",
-      "desc": "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke."
-    },
-    {
       "title": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/cmy0j1846rnwt",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1711/live/14966e90-9898-11f1-9695-21531f851338.jpg",
       "published": "8/15/2026, 2:37:22 PM",
       "desc": "Follow live text commentary, score updates and match stats from Manchester United vs AC Milan in the Club Friendlies"
-    },
-    {
-      "title": "European Athletics Championships: O'Connor leads heptathlon with one event remaining",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/c0qvveqdyvko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c29b/live/c9454b60-98aa-11f1-9dd3-79dbb17f6bca.jpg",
-      "published": "8/15/2026, 2:07:23 PM",
-      "desc": "Ireland's Kate O'Connor is in pole position for heptathlon gold with just the 800m remaining at the European Athletics Championships in Birmingham, but Great Britain's Katarina Johnson-Thompson finds herself out of contention."
     },
     {
       "title": "How to Watch Nationals vs. Mets: TV Channel, Live Stream, Time",
@@ -178,38 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/how-to-watch-arizona-diamondbacks-vs-atlanta-braves-horizontal.png?ve=1&tl=1",
       "published": "8/15/2026, 1:52:26 PM",
       "desc": "Learn which TV channel or how to live stream the Arizona Diamondbacks and Atlanta Braves MLB game."
-    },
-    {
-      "title": "Scottish League Cup LIVE: Aberdeen, Motherwell, Dunfermline & Ross County in action - radio, text, updates & stats",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c6171vyw7vprt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/15/2026, 1:52:24 PM",
-      "desc": "Listen to Sportsound and follow live text coverage of Saturday's Scottish League Cup last-16 ties."
-    },
-    {
-      "title": "MLB Schedule Today: How to Watch, TV, Streaming for Saturday's Slate",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-schedule-today-how-to-watch-tv-streaming-august-15-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/mlb-schedule-aug-15.jpg?ve=1&tl=1",
-      "published": "8/15/2026, 1:52:23 PM",
-      "desc": "Today’s MLB schedule features Nationals at Mets, Brewers at Dodgers and Diamondbacks at Braves. See how to watch MLB and stream games on FOX One."
-    },
-    {
-      "title": "Tennessee S Farooq suffers season-ending torn patellar tendon - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49618393/tennessee-s-farooq-suffers-season-ending-torn-patellar-tendon",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0715%2Fr1198254_800x450_16%2D9.jpg",
-      "published": "8/15/2026, 1:39:07 PM",
-      "desc": "Tennessee starting safety Edrees Farooq will miss the upcoming season after suffering a torn patellar tendon in his right knee in practice."
-    },
-    {
-      "title": "Owner of valuable Cooper Flagg 1-of-1 card comes forward - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49612510/dallas-mavericks-cooper-flagg-signed-1-1-rookie-card-jason-williams",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702058_1296x729_16%2D9.jpg",
-      "published": "8/15/2026, 1:00:00 PM",
-      "desc": "A card collector since he was 12, Jason Williams still hasn't decided what to do with the incredible find."
     }
   ],
   "tech": [
@@ -484,24 +484,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
-      "title": "The End of Oak Street",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
-    },
-    {
-      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -510,34 +492,25 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 4,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 5,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 6,
-      "title": "Disclosure Day",
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "rank": 4,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -546,7 +519,16 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "The Last House",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 6,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -555,7 +537,7 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -564,13 +546,22 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 10,
-      "title": "Avatar Aang: The Last Airbender",
+      "rank": 8,
+      "title": "Michael",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
+    },
+    {
+      "rank": 9,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
   "tv": [
