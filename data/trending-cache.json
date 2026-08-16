@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-16T11:21:02.047Z",
+  "updated": "2026-08-16T12:40:05.869Z",
   "news": [
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "published": "8/15/2026, 12:37:24 PM",
+      "desc": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped."
+    },
+    {
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/15/2026, 12:22:24 PM",
+      "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+    },
+    {
+      "title": "Since the Taliban took power, does the West have any influence?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6df/live/5cf107f0-97de-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/15/2026, 12:07:19 PM",
+      "desc": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+    },
     {
       "title": "Jason Arday's death will send shockwaves through a divided academia",
       "source": "BBC News",
@@ -8,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
       "published": "8/15/2026, 11:07:26 AM",
       "desc": "The academic's Cambridge appointment in 2023 drew worldwide attention"
-    },
-    {
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/15/2026, 9:22:23 AM",
-      "desc": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
     },
     {
       "title": "Bride dazzles in thrifty Chester wedding with £2 charity shop dress",
@@ -48,25 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b10a/live/0c43f9f0-9669-11f1-a6eb-474cf36e6c34.jpg",
       "published": "8/15/2026, 7:22:25 AM",
       "desc": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom."
-    },
-    {
-      "title": "Greg James was 'completely floored' by his dog's death - I know how he feels",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/669d/live/c3b68780-9824-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/15/2026, 7:22:21 AM",
-      "desc": "The grief of losing a pet is complicated and often comes with guilt, writes Helena Wilkinson."
-    },
-    {
-      "title": "Heathrow Airport warns of disruption following floods",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa8/live/c96fcdb0-9871-11f1-bc7e-4925a3da1383.jpg",
-      "published": "8/15/2026, 6:37:23 AM",
-      "desc": "Water in the central terminal area means passengers cannot use roads to the airport"
     }
   ],
   "sports": [
+    {
+      "title": "The Hundred: Why have attendances dropped in 2026?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cp8xpgxy5p5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/223f/live/f4ce8220-9723-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/15/2026, 12:22:24 PM",
+      "desc": "BBC Sport looks at the numbers behind the drop in attendances at The Hundred compared to 2025, in the tournament's first year under new private ownership."
+    },
+    {
+      "title": "NFL: Nazeeh Johnson says fertility medication caused six-game suspension",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/american-football/articles/cx2rrnvr404o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/495c/live/5b8789a0-989e-11f1-9ae7-1bd1ccf14171.jpg",
+      "published": "8/15/2026, 12:07:21 PM",
+      "desc": "Two-time Super Bowl winner Nazeeh Johnson believes he tested positive for a banned substance because of fertility medication he was taking."
+    },
     {
       "title": "EFL League One & Two LIVE: Build-up, team news, live text, radio & score updates as it happens from across League One & Two",
       "source": "BBC Sport",
@@ -106,14 +122,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg",
       "published": "8/15/2026, 9:52:20 AM",
       "desc": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona."
-    },
-    {
-      "title": "Premier League: Why clubs are targeting EFL academy players",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dac3/live/07444830-97bb-11f1-870d-5d08c49babb2.png",
-      "published": "8/15/2026, 9:22:28 AM",
-      "desc": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads."
     },
     {
       "title": "Rocky Flintoff: Teenager pushes case in One-Day Cup so what next for son of England legend?",
@@ -202,14 +210,6 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701983_1296x729_16%2D9.jpg",
       "published": "8/15/2026, 2:27:50 AM",
       "desc": "A judge on Friday ruled that former Knicks All-Star Charles Oakley \"produced no evidence to support his claim that he was assault by MSG security guards.\""
-    },
-    {
-      "title": "Edwin Diaz’s Struggles Raises Concern, Who's Next Man Up For The Dodgers?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/dodgers-edwin-diaz-blown-saves",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/edwin-diaz.jpg?ve=1&tl=1",
-      "published": "8/15/2026, 2:22:18 AM",
-      "desc": "Who could Dodgers manager Dave Roberts appoint after pitcher Edwin Diaz's last-inning meltdown on Thursday?"
     }
   ],
   "tech": [
@@ -496,7 +496,7 @@
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
     },
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 8,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 8,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 9,
@@ -582,6 +582,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 3,
+      "title": "My Adventures with Superman",
+      "year": "2023",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
+      "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
+      "url": "https://www.themoviedb.org/tv/125928"
     }
   ]
 }
