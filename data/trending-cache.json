@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-16T21:21:06.635Z",
+  "updated": "2026-08-16T22:21:40.072Z",
   "news": [
+    {
+      "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77d3/live/7a4b8400-98e8-11f1-b9f8-e148e8810dff.jpg",
+      "published": "8/15/2026, 10:07:23 PM",
+      "desc": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
+    },
     {
       "title": "Body found in search for Shropshire student missing on hike",
       "source": "BBC News",
@@ -56,17 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67ab/live/0ac2ebc0-9878-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "8/15/2026, 8:37:23 AM",
       "desc": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
-    },
-    {
-      "title": "Bella Ramsey: I wish I had been a more rebellious teenager",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b10a/live/0c43f9f0-9669-11f1-a6eb-474cf36e6c34.jpg",
-      "published": "8/15/2026, 7:22:25 AM",
-      "desc": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom."
     }
   ],
   "sports": [
+    {
+      "title": "European Athletics Championships 2026: Amy Hunt claims third gold as Dina Asher-Smith makes history",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg",
+      "published": "8/15/2026, 10:07:23 PM",
+      "desc": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships."
+    },
+    {
+      "title": "Cardinals rookie Joshua Baez makes history with 3 HRs in debut - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49621644/cardinals-rookie-joshua-baez-makes-history-3-hrs-debut",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702240_1024x576_16%2D9.jpg",
+      "published": "8/15/2026, 9:28:39 PM",
+      "desc": "Cardinals rookie left fielder Joshua Baez set an MLB record with three home runs in the first three plate appearances of his major league career Sunday."
+    },
     {
       "title": "Arne Engels: West Ham United break record to sign £22m Celtic midfielder",
       "source": "BBC Sport",
@@ -164,14 +180,6 @@
       "desc": "Drivers were generally happy with INDYCAR's course at Markham after finally getting practice time Saturday on the track."
     },
     {
-      "title": "European Athletics Championships 2026 LIVE: Birmingham - TV stream, text updates, latest results, medal table & schedule",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/live/c3dydrjgd9vt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6682/live/d7a33420-98d1-11f1-9687-fb984065014d.jpg",
-      "published": "8/15/2026, 6:07:27 PM",
-      "desc": "Watch live coverage of day six of the European Athletics Championships in Birmingham."
-    },
-    {
       "title": "Blue Jays place 1B Vladimir Guerrero Jr. on 7-day concussion IL - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49620028/blue-jays-place-1b-vladimir-guerrero-jr-7-day-concussion-il",
@@ -202,14 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2cdf/live/31e573a0-98cb-11f1-9687-fb984065014d.jpg",
       "published": "8/15/2026, 5:22:18 PM",
       "desc": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham."
-    },
-    {
-      "title": "Last Night In Baseball: D-Backs Silence Braves; Are Red Sox Fading?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/dbacks-braves-dodgers-brewers-red-sox-astros-walk-off",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/c80a6a54-artboard-1.jpg?ve=1&tl=1",
-      "published": "8/15/2026, 4:52:19 PM",
-      "desc": "The D-backs shut down the Braves, the Red Sox are struggling, the Dodgers bounced back, the Astros walked off the Mariners and more from Friday's MLB action."
     }
   ],
   "tech": [
