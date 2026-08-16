@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:23:14.788Z",
+  "updated": "2026-08-16T21:21:06.635Z",
   "news": [
     {
       "title": "Body found in search for Shropshire student missing on hike",
@@ -68,6 +68,30 @@
   ],
   "sports": [
     {
+      "title": "Arne Engels: West Ham United break record to sign £22m Celtic midfielder",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/379a/live/7dd3ae70-98ea-11f1-baa8-93026f9f7e66.jpg",
+      "published": "8/15/2026, 9:07:28 PM",
+      "desc": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels."
+    },
+    {
+      "title": "European Athletics Championships: O'Connor secures European gold in heptathlon",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf26/live/91ef0710-98e5-11f1-89f0-8dbc5eb120ba.jpg",
+      "published": "8/15/2026, 9:07:22 PM",
+      "desc": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham."
+    },
+    {
+      "title": "Deion Sanders lauds Colorado linebacker Gideon ESPN Lampron - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49621101/deion-sanders-lauds-colorado-linebacker-gideon-espn-lampron",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702210_1296x729_16%2D9.jpg",
+      "published": "8/15/2026, 8:16:18 PM",
+      "desc": "Linebacker Gideon ESPN Lampron, who met Colorado's Deion Sanders while boarding a December flight, has been a camp standout for the Buffaloes, with the coach telling reporters he is \"a bona fide leader. He's a playmaker. He's a guy who loves to practice.\""
+    },
+    {
       "title": "Pacers' Haliburton 'shocked' first game back not on national TV - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nba/story/_/id/49620902/pacers-haliburton-shocked-first-game-back-not-national-tv",
@@ -82,14 +106,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/130f/live/5dfdd470-98d8-11f1-8216-1399f248beea.jpg",
       "published": "8/15/2026, 7:37:24 PM",
       "desc": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action."
-    },
-    {
-      "title": "Swimming world records: Johannes Liebmann and Kate Douglass set new marks in Paris and California",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/swimming/articles/crk55emx3yjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f05/live/f71a90e0-98d7-11f1-8216-1399f248beea.jpg",
-      "published": "8/15/2026, 7:22:25 PM",
-      "desc": "Germany's Johannes Liebmann and American Kate Douglass set swimming world records on Saturday, dazzling crowds at events in Paris and California."
     },
     {
       "title": "Dundee United vs Celtic: Scottish League Cup radio commentary, updates & match report",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/c80a6a54-artboard-1.jpg?ve=1&tl=1",
       "published": "8/15/2026, 4:52:19 PM",
       "desc": "The D-backs shut down the Braves, the Red Sox are struggling, the Dodgers bounced back, the Astros walked off the Mariners and more from Friday's MLB action."
-    },
-    {
-      "title": "Chelsea: Enzo Fernandez booed and Morgan Rogers scores as Xabi Alonso reveals blueprint",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c36dd10jj09o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3947/live/067a6270-98c1-11f1-baa7-c1f421a55365.jpg",
-      "published": "8/15/2026, 4:37:23 PM",
-      "desc": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season."
-    },
-    {
-      "title": "Cardinals rookie RB Love to miss a week due to sore ankle - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49619508/cardinals-rookie-rb-love-miss-week-due-sore-ankle",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701252_1296x729_16%2D9.jpg",
-      "published": "8/15/2026, 4:32:53 PM",
-      "desc": "Cardinals rookie running back Jeremiyah Love will miss the next week due to a sore ankle that he injured Thursday night against the Raiders heal, coach Mike LaFleur said Saturday."
     }
   ],
   "tech": [
@@ -222,12 +222,28 @@
       "desc": "Super Mario 64 is now playable in-browser thanks to a YouTube video that combines the site’s 360°-view spherical video player with closed captions."
     },
     {
-      "title": "Google is adding tons of new customization options to Android 17 - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/google_is_adding_tons_of_new_customization_options_to_android_17-news-74193.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/android-17-customizations/-952x498w6/gsmarena_000.jpg",
-      "published": "8/15/2026, 2:47:03 PM",
-      "desc": "Google is stepping up its game when it comes to UI customization. Google just dropped the Android 17 QPR2 Beta 3 update to eligible Pixel devices, and in..."
+      "title": "Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
+      "image": "https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg",
+      "published": "8/15/2026, 5:00:20 PM",
+      "desc": "Jacob Navok says that a world without physical media will put major publishers in constant competition with each other, though how that would drive costs down is just a theory"
+    },
+    {
+      "title": "I freed up 10GB of Gmail space in 5 minutes without deleting important emails - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/free-up-gmail-storage/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/gmail-inbox-with-a-nearly-full-15gb-storage-bar-and-a-clean-up-button.png?w=1600&h=900&fit=crop",
+      "published": "8/15/2026, 5:00:15 PM",
+      "desc": "It's about time I audited my inbox"
+    },
+    {
+      "title": "Poll: Are You Hyped for These 10 New PS Plus Games? - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games",
+      "image": "https://images.pushsquare.com/bab5b6f623764/large.jpg",
+      "published": "8/15/2026, 4:00:00 PM",
+      "desc": "Plus or minus?"
     },
     {
       "title": "I finally found a magnetic phone grip I never want to remove - The Verge",
@@ -246,36 +262,12 @@
       "desc": "Xteink’s pocket-friendly e-readers are even more appealing with access to DRM-protected ebooks from Libby and Kobo."
     },
     {
-      "title": "'It's a Relentless Onslaught': Wolverine PS5 Dev Responds to Unprecedented Criticism - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism",
-      "image": "https://images.pushsquare.com/dc9eb925a8e52/large.jpg",
-      "published": "8/15/2026, 12:30:00 PM",
-      "desc": "\"I cannot believe this is good for anyone's mental health\""
-    },
-    {
-      "title": "We’re reaching peak camera with the Sony A7R VI - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268698_Sony_A7R_VI_camera_review_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "8/15/2026, 12:00:00 PM",
-      "desc": "The Sony A7R VI is a 66.8-megapixel spec monster of a mirrorless camera. With a fully stacked sensor and 30fps blackout-free shooting, the old compromises of high-resolution cameras are long gone."
-    },
-    {
       "title": "Microsoft gears up to ship major Taskbar and Start menu updates for Windows 11 - Windows Central",
       "source": "Windows Central",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-that-it-will-begin-shipping-major-windows-11-taskbar-and-start-menu-updates-in-the-next-few-weeks-big-os-update-enters-final-preview-phase-before-public-rollout-begins",
       "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
       "published": "8/15/2026, 10:16:32 AM",
       "desc": "Big improvements are set to begin rolling out to all Windows 11 users starting next month, if the latest Windows 11 preview builds are anything to go by."
-    },
-    {
-      "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWkby/s1/lamborghini-revuelto-sv.jpg",
-      "published": "8/15/2026, 7:35:02 AM",
-      "desc": "Lamborghini Revuelto SV turns the hybrid V12 flagship into a more track-focused coupe with revised aero, chassis tweaks, and updated powertrain calibration."
     }
   ],
   "education": [
@@ -401,21 +393,21 @@
     },
     {
       "rank": 7,
-      "title": "Love Sensation (Afterhours Radio Edit)",
-      "artist": "Madonna & Kylie Minogue",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
-    },
-    {
-      "rank": 8,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
+    },
+    {
+      "rank": 8,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
       "rank": 9,
@@ -464,21 +456,21 @@
     },
     {
       "rank": 14,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 15,
       "title": "My Mother Was An Angel",
       "artist": "Dusty Rivers",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/54/2e/b2542e97-5b22-ccc6-35c4-1f8318d443c7/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/f1/ac/9af1acaa-128e-6564-8f59-1654914f01d3/mzaf_4323572759512802585.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-mother-was-an-angel/6801379783?i=6801379784&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Dusty%20Rivers%20My%20Mother%20Was%20An%20Angel"
+    },
+    {
+      "rank": 15,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     }
   ],
   "movies": [
@@ -538,21 +530,21 @@
     },
     {
       "rank": 7,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 8,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 8,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 9,
@@ -562,6 +554,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 10,
+      "title": "Michael",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "url": "https://www.themoviedb.org/movie/936075"
     }
   ],
   "tv": [
@@ -573,15 +574,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
