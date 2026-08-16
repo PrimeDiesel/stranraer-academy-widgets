@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-16T05:29:29.739Z",
+  "updated": "2026-08-16T06:40:54.419Z",
   "news": [
+    {
+      "title": "Heathrow Airport warns of disruption following floods",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa8/live/c96fcdb0-9871-11f1-bc7e-4925a3da1383.jpg",
+      "published": "8/15/2026, 6:37:23 AM",
+      "desc": "Water in the central terminal area means passengers cannot use roads to the airport"
+    },
     {
       "title": "Temporary disposable barbecue ban over wildfire risk",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
     },
     {
-      "title": "European Athletics Championships 2026: Keely Hodgkinson takes 800m silver behind Swiss rival Audrey Werro",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e6aa/live/1fab30f0-9829-11f1-a6d0-9907af272cf7.jpg",
-      "published": "8/14/2026, 10:22:25 PM",
-      "desc": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final."
-    },
-    {
       "title": "Fires prompt national government alert as 19 Stourbridge homes destroyed",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o",
@@ -67,6 +67,30 @@
     }
   ],
   "sports": [
+    {
+      "title": "Keely Hodgkinson: Great Britain's Olympic champion ready for fight against fresh rivals",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5638/live/11896ec0-986e-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/15/2026, 6:37:23 AM",
+      "desc": "Keely Hodgkinson says she is proud of her ability to \"continue to fight\" after taking silver behind Audrey Werro at the European Athletics Championships."
+    },
+    {
+      "title": "'Real Turning Point': How Last Year's NLCS Loss Shaped Jacob Misiorowski",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/jacob-misiorowski-dodgers-brewers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/main8.jpg?ve=1&tl=1",
+      "published": "8/15/2026, 6:22:15 AM",
+      "desc": "Jacob Misiorowski considers last year's NLCS loss to the Dodgers \"the real turning point\" leading into his dominant 2026 campaign."
+    },
+    {
+      "title": "Messi, Ronaldo, Haaland: Are fans now more invested in star names than clubs?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn8ner50zdno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0dc2/live/6d005e60-926c-11f1-9f0c-8d4ddef91df6.jpg",
+      "published": "8/15/2026, 6:22:13 AM",
+      "desc": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?"
+    },
     {
       "title": "Clark bests Bueckers in clash of No. 1 picks as Fever top Wings - ESPN",
       "source": "ESPN",
@@ -180,36 +204,12 @@
       "desc": "Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more."
     },
     {
-      "title": "Super League: Hull FC 14-18 Castleford Tigers: Cas win despite coaching problems",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/c8en87pwn66o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8d43/live/1dd64380-9821-11f1-a675-bbb8c5acaf96.jpg",
-      "published": "8/14/2026, 9:07:25 PM",
-      "desc": "Castleford Tigers put their coaching problems aside as they beat Hull FC at the MKM Stadium to record only their third Super League away win of the season."
-    },
-    {
-      "title": "European Athletics Championships 2026: Keely Hodgkinson takes 800m silver behind Swiss rival Audrey Werro",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "8/14/2026, 9:07:18 PM",
-      "desc": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final."
-    },
-    {
       "title": "Tottenham: Cristian Romero says 'I wasn't perfect' before making Atletico Madrid move",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c20dyz4vrero",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e445/live/b935ba70-9814-11f1-a7ea-19f04b81e9a0.jpg",
       "published": "8/14/2026, 8:07:19 PM",
       "desc": "Cristian Romero says he \"wasn't perfect\" during his five-year stint at Tottenham Hotspur as he prepares to complete a move to Atletico Madrid."
-    },
-    {
-      "title": "Falcons DE James Pearce Jr. Suspended 8 Games For Breaking NFL Conduct Policy",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-james-pearce-jr-suspension",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/pearce1.jpg?ve=1&tl=1",
-      "published": "8/14/2026, 8:07:15 PM",
-      "desc": "Second-year Atlanta Falcons defensive end James Pearce Jr. has been suspended eight games for violating the NFL's personal conduct policy."
     }
   ],
   "tech": [
