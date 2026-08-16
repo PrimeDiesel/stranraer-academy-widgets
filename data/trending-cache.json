@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:21:19.604Z",
+  "updated": "2026-08-16T20:23:14.788Z",
   "news": [
     {
       "title": "Body found in search for Shropshire student missing on hike",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Pacers' Haliburton 'shocked' first game back not on national TV - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49620902/pacers-haliburton-shocked-first-game-back-not-national-tv",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0923%2Fr1549975_1296x729_16%2D9.jpg",
+      "published": "8/15/2026, 7:50:14 PM",
+      "desc": "Pacers star Tyrese Haliburton said he was \"shocked\" to learn his first game back from a torn Achilles tendon would not be nationally televised when the NBA regular-season schedule was released last week."
+    },
+    {
+      "title": "Man Utd 2-4 AC Milan: Marcus Rashford returns as Ruben Amorim's Milan highlight issues for Michael Carrick",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/130f/live/5dfdd470-98d8-11f1-8216-1399f248beea.jpg",
+      "published": "8/15/2026, 7:37:24 PM",
+      "desc": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action."
+    },
     {
       "title": "Swimming world records: Johannes Liebmann and Kate Douglass set new marks in Paris and California",
       "source": "BBC Sport",
@@ -194,22 +210,6 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701252_1296x729_16%2D9.jpg",
       "published": "8/15/2026, 4:32:53 PM",
       "desc": "Cardinals rookie running back Jeremiyah Love will miss the next week due to a sore ankle that he injured Thursday night against the Raiders heal, coach Mike LaFleur said Saturday."
-    },
-    {
-      "title": "Tottenham 3-0 Hoffenheim: Mikey Moore double gives Spurs comfortable Hoffenheim win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmvgwk4j7w21t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e09/live/582aaa90-98c0-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/15/2026, 4:07:25 PM",
-      "desc": "Mikey Moore scores twice as Tottenham secure a comfortable pre-season win against Hoffenheim at the Tottenham Hotspur Stadium."
-    },
-    {
-      "title": "Sources: Seahawks, CB Witherspoon agree to 4-year, $132M deal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0811%2Fr1700533_1296x729_16%2D9.jpg",
-      "published": "8/15/2026, 3:45:07 PM",
-      "desc": "The Seahawks and Pro-Bowl cornerback Devon Witherspoon have reached an agreement on a four-year, $132 million extension, sources tell ESPN's Adam Schefter."
     }
   ],
   "tech": [
@@ -484,21 +484,21 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 3,
@@ -511,15 +511,6 @@
     },
     {
       "rank": 4,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 5,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -528,7 +519,25 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
+      "rank": 5,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
       "rank": 6,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 7,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -537,31 +546,22 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 9,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 8,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 9,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
   "tv": [
