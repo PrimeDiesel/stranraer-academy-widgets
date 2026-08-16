@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T09:28:04.371Z",
+  "updated": "2026-08-16T10:24:15.067Z",
   "news": [
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
@@ -68,6 +68,22 @@
   ],
   "sports": [
     {
+      "title": "Finlay Tarling's team withdraws as Volta a Portugal resumes",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3966/live/863300e0-9893-11f1-a8d2-f13aa238c39c.jpg",
+      "published": "8/15/2026, 10:37:22 AM",
+      "desc": "Finlay Tarling's team, NSN, withdraws from the remaining stages of the Volta a Portugal following the British cyclist's death."
+    },
+    {
+      "title": "Transfer news: PSG sign Ferran Torres from Barcelona for about £43m",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg",
+      "published": "8/15/2026, 9:52:20 AM",
+      "desc": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona."
+    },
+    {
       "title": "Australia v Bangladesh - Cricket - BBC Sport",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/scorecard/e-237020",
@@ -90,14 +106,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22b9/live/fe264560-982c-11f1-9559-a55b5150713f.jpg",
       "published": "8/15/2026, 9:22:23 AM",
       "desc": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?"
-    },
-    {
-      "title": "Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c20dyz4vrero",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e445/live/b935ba70-9814-11f1-a7ea-19f04b81e9a0.jpg",
-      "published": "8/15/2026, 7:52:22 AM",
-      "desc": "Cristian Romero says he \"wasn't perfect\" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed."
     },
     {
       "title": "Makhachev vs Machado Garry: UFC 330 predictions from Aspinall, St-Pierre, O'Malley, Moreno, Prates and more",
@@ -202,14 +210,6 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701979_1296x729_16%2D9.jpg",
       "published": "8/15/2026, 1:31:01 AM",
       "desc": "Six-time All-Star Vladimir Guerrero Jr. left the Toronto Blue Jays' 3-1 victory over the Yankees on Friday night and was evaluated for a concussion after colliding with New York rookie shortstop George Lombard Jr. on a chaotic play at third base."
-    },
-    {
-      "title": "Scottie Scheffler (61) ties course record, takes 3-shot lead in Memphis - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49613393/scottie-scheffler-61-ties-course-record-takes-3-shot-lead-memphis",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0814%2Fr1701914_1296x729_16%2D9.jpg",
-      "published": "8/15/2026, 12:25:20 AM",
-      "desc": "Scottie Scheffler birdied the first five holes and shot a 9-under 61 on Friday to take a three-stroke lead in the FedEx St. Jude Championship."
     }
   ],
   "tech": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 6,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -537,22 +528,31 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 7,
-      "title": "Don't Say Good Luck",
+      "rank": 6,
+      "title": "Supergirl",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 8,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 9,
