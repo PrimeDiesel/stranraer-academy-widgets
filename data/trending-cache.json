@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-17T17:27:55.921Z",
+  "updated": "2026-08-17T18:40:30.907Z",
   "news": [
     {
-      "title": "The influencers getting bitten chasing the perfect shark shot",
+      "title": "Elgin man goes missing in Rome on first night of holiday",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0c6/live/9c4c4980-9727-11f1-808c-532494fd22c7.png",
-      "published": "8/16/2026, 5:07:27 PM",
-      "desc": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked."
+      "url": "https://www.bbc.co.uk/news/articles/cx2jj19lgzlo",
+      "image": "",
+      "published": "8/16/2026, 6:37:07 PM",
+      "desc": ""
     },
     {
       "title": "Canadian pipe band crowned 2026 world champions after 'thrilling' contest",
@@ -68,20 +68,52 @@
   ],
   "sports": [
     {
+      "title": "NFL Confidential: What's Next For RB Market After Gibbs, Robinson, Taylor Extensions",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-confidential-whats-next-rb-market-after-gibbs-robinson-taylor-extensions",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-40.jpg?ve=1&tl=1",
+      "published": "8/16/2026, 6:52:26 PM",
+      "desc": "People around the league disagree about the value of running backs, while one executive wonders if James Cook is among the league's most underpaid players."
+    },
+    {
+      "title": "Ontario Honda Dealers Indy at Markham Live Updates, Results: Ericsson Back At The Top Of The Podium",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/motor/ontario-honda-dealers-indy-markham-live-updates-results-ericsson-back-top-podium",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-10.jpg?ve=1&tl=1",
+      "published": "8/16/2026, 6:52:24 PM",
+      "desc": "Follow along for live updates from Ontario Honda Dealers Indy at Markham."
+    },
+    {
+      "title": "Volta a Portugal: Rui Oliveira dedicates stage 10 win to family of the late Fin Tarling",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/cy07720z94no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fa0/live/80a64670-999a-11f1-ac5b-b961ed109b19.jpg",
+      "published": "8/16/2026, 6:07:29 PM",
+      "desc": "Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Fin Tarling's family."
+    },
+    {
+      "title": "Scotland: Belgian Sebastien Pocognoli confirmed as new head coach",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/43e6/live/f9c44980-999a-11f1-ac5b-b961ed109b19.jpg",
+      "published": "8/16/2026, 6:07:26 PM",
+      "desc": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal."
+    },
+    {
+      "title": "Ex-MLB pitcher Tommy John, namesake of pioneering surgery, dies - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49630369/ex-mlb-pitcher-tommy-john-namesake-pioneering-surgery-dies",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1011%2Fr16206_1296x729_16%2D9.jpg",
+      "published": "8/16/2026, 5:56:49 PM",
+      "desc": "Former major league pitcher Tommy John, the namesake behind the pioneering elbow surgery that prolonged his career for 14 more years, has died at the age of 83."
+    },
+    {
       "title": "Cristiano Ronaldo Reveals Likely Retirement Date Ahead Of New Al-Nassr Season",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-says-he-will-probably-retire-in-2027",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ronaldo-horiz-1.jpg?ve=1&tl=1",
       "published": "8/16/2026, 5:37:24 PM",
       "desc": "Cristiano Ronaldo gave an update on when he will likely retire ahead of another season with Al-Nassr."
-    },
-    {
-      "title": "Ontario Honda Dealers Indy at Markham Live Updates, Results: Armstrong Spins In The Hairpin",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/motor/ontario-honda-dealers-indy-markham-live-updates-results-armstrong-spins-hairpin",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-10.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 5:37:23 PM",
-      "desc": "Follow along for live updates from Ontario Honda Dealers Indy at Markham."
     },
     {
       "title": "Rangers host Celtic in League Cup quarter-finals",
@@ -132,22 +164,6 @@
       "desc": "Check out the odds, spreads and totals for all 16 preseason Week 1 games."
     },
     {
-      "title": "Arsenal 3-0 Man City: How the players rated after Gunners comfortably win Community Shield",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/233c/live/64893940-9989-11f1-a4eb-59b79ff5ff4f.jpg",
-      "published": "8/16/2026, 4:37:22 PM",
-      "desc": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield."
-    },
-    {
-      "title": "Red Sox place Masataka Yoshida on IL with hamstring strain - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49629221/red-sox-place-masataka-yoshida-il-hamstring-strain",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702543_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 3:34:42 PM",
-      "desc": "The Red Sox placed Masataka Yoshida on the 10-day IL because of a left hamstring strain."
-    },
-    {
       "title": "Cristiano Ronaldo reveals retirement plans: 'Probably my last year' - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/soccer/story/_/id/49629071/cristiano-ronaldo-retire-2027-portugal-man-united-real-madrid",
@@ -188,28 +204,12 @@
       "desc": "Alex Palou is favored for INDYCAR's race at Markham. Here are the odds for the entire field."
     },
     {
-      "title": "Leeds United transfer news: Nico Elvedi to have medical as £8.5m fee agreed",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce24/live/2c1b1cf0-996f-11f1-aaab-c702cc6b4645.jpg",
-      "published": "8/16/2026, 1:22:27 PM",
-      "desc": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday."
-    },
-    {
       "title": "Community Shield LIVE: Arsenal vs Manchester City - Build-up, Team news, live text, radio & score updates as it happens",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7539/live/32868f10-989e-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "8/16/2026, 1:22:23 PM",
       "desc": "Follow BBC Radio 5 Live and live text updates as Arsenal play Manchester City in the Community Shield."
-    },
-    {
-      "title": "Aaron Donald decision has no 'invisible deadline,' Sean McVay says - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701255_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 12:37:49 PM",
-      "desc": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\""
     }
   ],
   "tech": [
@@ -484,21 +484,21 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 3,
@@ -529,21 +529,21 @@
     },
     {
       "rank": 6,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 7,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 7,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 8,
