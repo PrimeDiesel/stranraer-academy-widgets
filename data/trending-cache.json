@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-17T21:26:57.896Z",
+  "updated": "2026-08-17T22:25:19.936Z",
   "news": [
+    {
+      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly555430nno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f668/live/6dbb32a0-99ae-11f1-9b60-95a3fcadaf8d.jpg",
+      "published": "8/16/2026, 10:07:21 PM",
+      "desc": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights."
+    },
     {
       "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
       "source": "BBC News",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48d1/live/18130290-9992-11f1-b374-0b75862fe542.jpg",
       "published": "8/16/2026, 7:22:16 PM",
       "desc": "Two police officers suffered minor injuries during the incident, Greater Manchester Police say."
-    },
-    {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
-      "published": "8/16/2026, 4:37:24 PM",
-      "desc": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
       "title": "Two dead and hundreds evacuated as wildfires break out near Athens",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "US Amateur golf: England's Jack Whaley wins title and earns spot at 2027 Open, US Open and Masters",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c1711189q2ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b36c/live/64c3d070-99b9-11f1-b03d-cf7b8a5ca01a.jpg",
+      "published": "8/16/2026, 10:22:24 PM",
+      "desc": "Jack Whaley becomes only the second Englishman since 1911 to win the US Amateur Championship as he beats American Jay Leng Jr 4&3 at Merion."
+    },
+    {
+      "title": "The Hundred: What has the impact of new ownership been on the tournament?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ab3/live/aa0ab030-99ba-11f1-9e10-ed121e93aba7.jpg",
+      "published": "8/16/2026, 10:07:17 PM",
+      "desc": "BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends."
+    },
     {
       "title": "Why Mike McCarthy Still Sees a Championship-Caliber QB In Old Friend Aaron Rodgers",
       "source": "Fox Sports",
@@ -148,14 +164,6 @@
       "desc": "Justin Wrobleski, a 26-year-old left-hander who is 11-5 with a 3.56 ERA, was placed on the injured list Sunday with what the Los Angeles Dodgers are calling forearm inflammation, prompting reliever Kyle Hurt to be called up to take his spot on the roster."
     },
     {
-      "title": "Watch European Athletics Championships 2026 LIVE: BBC TV stream, text updates, latest results, medal table and schedule",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/live/cr5j5qg4pg8t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d6e/live/e44af110-99ab-11f1-8018-a5bf41d0a436.jpg",
-      "published": "8/16/2026, 8:07:24 PM",
-      "desc": "Amy Hunt seeks record fourth gold - watch live BBC TV coverage of the European Athletics Championships in Birmingham."
-    },
-    {
       "title": "Community Shield: Nightmare Man City start for Enzo Maresca - are Arsenal really so far ahead?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c5y449kwq14o",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-40.jpg?ve=1&tl=1",
       "published": "8/16/2026, 7:22:24 PM",
       "desc": "People around the league disagree about the value of running backs, while one executive wonders if James Cook is among the league's most underpaid players."
-    },
-    {
-      "title": "Barcelona and Man City agree €76.5m deal for Rodri transfer - sources - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49630831/barcelona-manchester-city-agree-765m-deal-rodri-transfer-sources",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699500_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 7:17:00 PM",
-      "desc": "Barcelona have reached an agreement in principle to sign Manchester City midfielder Rodri, various sources have confirmed to ESPN."
     }
   ],
   "tech": [
@@ -530,24 +530,6 @@
     },
     {
       "rank": 7,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 8,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 9,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
@@ -556,33 +538,42 @@
       "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
-      "rank": 10,
-      "title": "Avatar Aang: The Last Airbender",
+      "rank": 8,
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
