@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-17T18:40:30.907Z",
+  "updated": "2026-08-17T19:29:01.275Z",
   "news": [
+    {
+      "title": "Watch as police arrest wanted man while he slept on Salford roof",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48d1/live/18130290-9992-11f1-b374-0b75862fe542.jpg",
+      "published": "8/16/2026, 7:22:16 PM",
+      "desc": "Two police officers suffered minor injuries during the incident, Greater Manchester Police say."
+    },
     {
       "title": "Elgin man goes missing in Rome on first night of holiday",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "",
       "published": "8/16/2026, 6:37:07 PM",
       "desc": ""
-    },
-    {
-      "title": "Canadian pipe band crowned 2026 world champions after 'thrilling' contest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx77qenx0ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d768/live/95d39800-9958-11f1-bb2a-85a90aa76778.jpg",
-      "published": "8/16/2026, 4:37:27 PM",
-      "desc": "Simon Fraser University Pipe Band from Canada took the coveted title following the two-day event at Glasgow Green, in which 211 bands competed."
     },
     {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
@@ -68,28 +68,68 @@
   ],
   "sports": [
     {
+      "title": "Ontario Honda Dealers Indy at Markham Live Updates, Results: Final Race Results",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/motor/ontario-honda-dealers-indy-markham-live-updates-results-final-race-results",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-10.jpg?ve=1&tl=1",
+      "published": "8/16/2026, 7:37:26 PM",
+      "desc": "Follow along for live updates from Ontario Honda Dealers Indy at Markham."
+    },
+    {
+      "title": "Liverpool 2-0 Como: Cody Gakpo and Jeremy Jacquet score as Reds finish pre-season with win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cx1l19l3rgq4t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/602a/live/4340ee40-999d-11f1-bcf1-0b4884967a5d.jpg",
+      "published": "8/16/2026, 7:37:25 PM",
+      "desc": "Liverpool end pre-season with win against Como as Jeremy Jacquet scores on Reds debut."
+    },
+    {
+      "title": "Tommy John, Baseball Pioneer Whose Surgery Changed The Game, Dies At 83",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/tommy-john-baseball-pioneer-whose-surgery-changed-game-dies-83",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/tj.jpg?ve=1&tl=1",
+      "published": "8/16/2026, 7:37:21 PM",
+      "desc": "Tommy John, the pitching great known for the surgery that bears his name, has died at 83"
+    },
+    {
       "title": "NFL Confidential: What's Next For RB Market After Gibbs, Robinson, Taylor Extensions",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/nfl-confidential-whats-next-rb-market-after-gibbs-robinson-taylor-extensions",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-40.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 6:52:26 PM",
+      "published": "8/16/2026, 7:22:24 PM",
       "desc": "People around the league disagree about the value of running backs, while one executive wonders if James Cook is among the league's most underpaid players."
     },
     {
-      "title": "Ontario Honda Dealers Indy at Markham Live Updates, Results: Ericsson Back At The Top Of The Podium",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/motor/ontario-honda-dealers-indy-markham-live-updates-results-ericsson-back-top-podium",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-10.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 6:52:24 PM",
-      "desc": "Follow along for live updates from Ontario Honda Dealers Indy at Markham."
+      "title": "Jack Grealish: Shop window or new chance - what next for Man City winger?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c07rr20g732o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/198b/live/fa379a30-9999-11f1-ac5b-b961ed109b19.jpg",
+      "published": "8/16/2026, 7:22:19 PM",
+      "desc": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?"
     },
     {
-      "title": "Volta a Portugal: Rui Oliveira dedicates stage 10 win to family of the late Fin Tarling",
+      "title": "Barcelona and Man City agree €76.5m deal for Rodri transfer - sources - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49630831/barcelona-manchester-city-agree-765m-deal-rodri-transfer-sources",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699500_1296x729_16%2D9.jpg",
+      "published": "8/16/2026, 7:17:00 PM",
+      "desc": "Barcelona have reached an agreement in principle to sign Manchester City midfielder Rodri, various sources have confirmed to ESPN."
+    },
+    {
+      "title": "One-Day Cup: Leicestershire beat Notts Outlaws to reach final",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/cy07720z94no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fa0/live/80a64670-999a-11f1-ac5b-b961ed109b19.jpg",
-      "published": "8/16/2026, 6:07:29 PM",
-      "desc": "Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Fin Tarling's family."
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cdeww6j85gro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48f0/live/e52329a0-99a0-11f1-a10a-71ff76b28954.jpg",
+      "published": "8/16/2026, 7:07:16 PM",
+      "desc": "Leicestershire reach a second One-Day Cup final in four years as they overcome Notts Outlaws by 23 runs in their semi-final at Grace Road."
+    },
+    {
+      "title": "Cubs' Edward Cabrera activated from IL, will start vs. Cardinals - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49630608/cubs-edward-cabrera-activated-il-start-vs-cardinals",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0331%2Fr1636279_1296x729_16%2D9.jpg",
+      "published": "8/16/2026, 6:27:40 PM",
+      "desc": "The Cubs have activated Edward Cabrera from the injured list in time for the right-hander to start against the Cardinals."
     },
     {
       "title": "Scotland: Belgian Sebastien Pocognoli confirmed as new head coach",
@@ -132,14 +172,6 @@
       "desc": "Zian Flemming scores two late goals - including a stoppage-time equaliser - as Burnley come back from two down to snatch a point against West Ham."
     },
     {
-      "title": "Preseason friendly LIVE: Liverpool vs Como - text updates, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cx1l19l3rgq4t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1610/live/03b22430-9991-11f1-a4eb-59b79ff5ff4f.jpg",
-      "published": "8/16/2026, 5:07:21 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Liverpool vs Como in the Club Friendlies"
-    },
-    {
       "title": "Cristiano Ronaldo retirement hint: Real Madrid, Man Utd and Al-Nassr legend could be in final year as player",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo",
@@ -178,41 +210,65 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702529_1296x729_16%2D9.jpg",
       "published": "8/16/2026, 3:12:38 PM",
       "desc": "Yanhan Zhou smashed a 514-yard drive Saturday during the third round of the DP World Tour Danish Golf Championship."
-    },
-    {
-      "title": "Commanders QB Marcus Mariota has sprained MCL, sources say - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1201%2Fr1583143_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 3:05:18 PM",
-      "desc": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN."
-    },
-    {
-      "title": "4 Takeaways From Surging Joey Logano's Victory At Richmond",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/4-takeaways-from-surging-joey-logano-victory-richmond",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/logano_richmond_takeaways_nascar.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 2:07:24 PM",
-      "desc": "Joey Logano is surging at the right time. Here's how his big win at Richmond puts him in better position for the postseason."
-    },
-    {
-      "title": "2026 INDYCAR Odds: Alex Palou Favored For Markham",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/2026-indycar-odds-markham-ontario-honda-dealers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/alex-palou_favorite_markham.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 1:37:21 PM",
-      "desc": "Alex Palou is favored for INDYCAR's race at Markham. Here are the odds for the entire field."
-    },
-    {
-      "title": "Community Shield LIVE: Arsenal vs Manchester City - Build-up, Team news, live text, radio & score updates as it happens",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cv4g34g19p2kt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7539/live/32868f10-989e-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "8/16/2026, 1:22:23 PM",
-      "desc": "Follow BBC Radio 5 Live and live text updates as Arsenal play Manchester City in the Community Shield."
     }
   ],
   "tech": [
+    {
+      "title": "iCloud Private Relay leaks can expose your real IP - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/icloud-private-relay-leaks-expose-real-ip",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/apple-macbook-products.jpg",
+      "published": "8/16/2026, 6:15:50 PM",
+      "desc": "iCloud Private Relay can be bypassed by three WebKit features, potentially exposing your real IP address to websites while browsing in Safari."
+    },
+    {
+      "title": "Velocity Micro Raptor Z55i (2026) Review: A Low-Key Little Gaming Leviathan - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/reviews/velocity-micro-raptor-z55i-2026",
+      "image": "https://i.pcmag.com/imagery/reviews/00r06GxiFn6ewwliHrgyk71-14-hero-image-gallery.fit_lim.size_1200x630.v1785948378.jpg",
+      "published": "8/16/2026, 6:00:53 PM",
+      "desc": "Don’t let Velocity Micro's sensible, workstation-style chassis fool you—the Raptor Z55i delivers raw muscle for serious gamers in understated style, and at a surprisingly aggressive price for the parts. It shines brightest when everything is pushed to the max."
+    },
+    {
+      "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
+      "image": "https://kotaku.com/app/uploads/2026/08/sonicfortnite-1200x675.jpg",
+      "published": "8/16/2026, 5:55:42 PM",
+      "desc": "Mega Man, Crash Bandicoot, Spyro and Jazz Jackrabbit join Fortnite’s ever growing IP pit in ‘Gaming Legends’ trailer"
+    },
+    {
+      "title": "It’s time for iOS to have its own Material You - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/16/2026, 5:33:00 PM",
+      "desc": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lock..."
+    },
+    {
+      "title": "10 Best 'Good Neighbor' Cities - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/394563/10-best-good-neighbor-cities.html",
+      "image": "https://cdn.newser.com/image/1705192-12-20260816124303.jpeg",
+      "published": "8/16/2026, 5:13:00 PM",
+      "desc": "Madison, Wisconsin, earns top honors"
+    },
+    {
+      "title": "LEGO Super Mario Minifigure Sets Reportedly Leaked For 2027 - TwistedVoxel",
+      "source": "Twistedvoxel.com",
+      "url": "https://twistedvoxel.com/lego-super-mario-2027-sets/",
+      "image": "https://twistedvoxel.com/wp-content/uploads/2024/08/lego-mario-kart.jpg",
+      "published": "8/16/2026, 4:58:34 PM",
+      "desc": "Several LEGO Super Mario sets reportedly planned for January 2027 have leaked online, with the alleged lineup including eight sets featuring minifigures and prices ranging from $9.99 to $99.99. The…"
+    },
+    {
+      "title": "Steam Deck LCD replacement battery jumps to $180 - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/steam-deck-lcd-replacement-battery-jumps-to-180",
+      "image": "",
+      "published": "8/16/2026, 4:35:58 PM",
+      "desc": ""
+    },
     {
       "title": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - gsmarena.com",
       "source": "GSMArena.com",
@@ -220,62 +276,6 @@
       "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-google-pixel-11-series/-952x498w6/gsmarena_000.jpg",
       "published": "8/16/2026, 4:03:02 PM",
       "desc": "This generation brings a new chipset, some changes to the cameras and batteries - as well as new prices across the board."
-    },
-    {
-      "title": "5 disabled Samsung Galaxy features every owner should enable immediately - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/disabled-samsung-galaxy-features-every-owner-enable/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-phone-surrounded-by-galaxy-ai-icons-and-toggles.png?w=1600&h=900&fit=crop",
-      "published": "8/16/2026, 3:15:15 PM",
-      "desc": "Galaxy AI is no longer just a gimmick"
-    },
-    {
-      "title": "5 Tech Brands That Are Owned By Anker - slashgear.com",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2234390/tech-brands-anker-owns/",
-      "image": "https://www.slashgear.com/img/gallery/5-tech-brands-that-are-owned-by-anker/l-intro-1786447236.jpg",
-      "published": "8/16/2026, 3:15:00 PM",
-      "desc": "Anker owns Anker Solix, AnkerWork, Eufy, Soundcore, and Nebula, covering portable power, office gear, smart homes, audio, and projectors."
-    },
-    {
-      "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
-      "image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/16/2026, 3:04:33 PM",
-      "desc": "Matthew Karch has privately apologised to Stella Sacco after publicly saying he'd have been happy to replace her with AI."
-    },
-    {
-      "title": "CEO 2026 early results, stream ft. Craime, Punk, Higuchi, SonicFox, Rangchu, Hikari, Micky, Kobayan, Atif, Leffen, Kilzyou, Booce Lee and more - EventHubs",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/aug/14/ceo-2026-results/",
-      "image": "https://media.eventhubs.com/images/2026/08/14_ceobannert.webp",
-      "published": "8/16/2026, 2:59:46 PM",
-      "desc": "Update: This story is being updated with live results as they occur.CEO is back again for 2026, albeit a bit later in the year than usual, and is happening in Orlando, Florida, U.S.A.It's set to ..."
-    },
-    {
-      "title": "9 Of The Best Bluetooth Keyboards For Your Tablet - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2235214/best-bluetooth-keyboards-for-your-tablet/",
-      "image": "https://www.bgr.com/img/gallery/9-of-the-best-bluetooth-keyboards-for-your-tablet/l-intro-1786528142.jpg",
-      "published": "8/16/2026, 2:02:00 PM",
-      "desc": "From foldable models to keyboards with built-in trackpads, these are the best tablet kayboards for typing, working, and staying productive on the go."
-    },
-    {
-      "title": "I planned to use Gmail forever, until one email app quietly replaced it for good - androidpolice.com",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/i-planned-to-use-gmail-forever-until-one-email-app-replaced-it/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hand-holding-a-smartphone-with-samsung-email-icon-and-floating-messages.jpg?w=1600&h=900&fit=crop",
-      "published": "8/16/2026, 1:30:16 PM",
-      "desc": "I just wanted to read emails, but Gmail served me with unsolicited AI tips"
-    },
-    {
-      "title": "Walmart’s Cute 407-Piece LEGO Cat Toy Is ‘Perfect for Kitty Lovers’ - ParadePets",
-      "source": "Paradepets.com",
-      "url": "https://paradepets.com/shopping/lego-creator-3-in-1-playful-cat-toy-walmart-sale-august-2026",
-      "image": "",
-      "published": "8/16/2026, 1:30:15 PM",
-      "desc": ""
     }
   ],
   "education": [
@@ -392,21 +392,21 @@
     },
     {
       "rank": 6,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 7,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+    },
+    {
+      "rank": 7,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
       "rank": 8,
@@ -446,21 +446,21 @@
     },
     {
       "rank": 12,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 13,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
-    },
-    {
-      "rank": 13,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     },
     {
       "rank": 14,
@@ -473,26 +473,17 @@
     },
     {
       "rank": 15,
-      "title": "Ordinary",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,7 +492,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -510,7 +501,7 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -519,7 +510,7 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -528,13 +519,22 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
+      "rank": 5,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
       "rank": 6,
-      "title": "Disclosure Day",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 7,
@@ -547,41 +547,41 @@
     },
     {
       "rank": 8,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 9,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 9,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
