@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-18T05:30:22.945Z",
+  "updated": "2026-08-18T06:43:44.223Z",
   "news": [
+    {
+      "title": "Hundreds attend emotional Cambridge vigil for Jason Arday",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9997g85vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48db/live/6f51f4b0-99ad-11f1-870d-5d08c49babb2.png",
+      "published": "8/17/2026, 6:52:25 AM",
+      "desc": "Those who gathered were asked to remember how Arday made a \"difference in our lives and in the lives of those around us\"."
+    },
+    {
+      "title": "Sainsbury's pauses London store's AI cameras after man ousted",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg",
+      "published": "8/17/2026, 6:52:25 AM",
+      "desc": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter."
+    },
     {
       "title": "If Meta loses this trial, Instagram and Facebook could change forever",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
       "published": "8/17/2026, 5:37:24 AM",
       "desc": "Thirty US states have sued Meta to force an overhaul of its platforms for young users."
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "published": "8/17/2026, 5:37:22 AM",
-      "desc": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
     },
     {
       "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
@@ -32,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14bb/live/a28c5570-99f1-11f1-828b-990ef72ac649.jpg",
       "published": "8/17/2026, 4:37:22 AM",
       "desc": "A representative for the actress confirmed the news to US outlets but did not provide further details of her death."
-    },
-    {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
-      "published": "8/17/2026, 2:37:11 AM",
-      "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
     },
     {
       "title": "Changing pubs into offices or homes to be made harder under new rules",
@@ -67,6 +67,46 @@
     }
   ],
   "sports": [
+    {
+      "title": "Premier League data analysis: Will last season's competitive revolution continue?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f5e/live/f059a560-99a0-11f1-a10a-71ff76b28954.jpg",
+      "published": "8/17/2026, 6:52:25 AM",
+      "desc": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around."
+    },
+    {
+      "title": "Premier League: Remembering the audacious attempt to turn Wimbledon into the Dublin Dons",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c05q03v8nrno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a03/live/78f533f0-9323-11f1-be7f-7379a19ef5b2.jpg",
+      "published": "8/17/2026, 6:52:24 AM",
+      "desc": "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?"
+    },
+    {
+      "title": "Dutch Grand Prix in pictures as F1 prepares to say farewell to Zandvoort",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c0l58802270o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed82/live/61286880-97bc-11f1-bcec-d512ff1927d3.jpg",
+      "published": "8/17/2026, 6:52:23 AM",
+      "desc": "A selection of images from the Dutch Grand Prix, as Zandvoort prepares to host a Formula 1 race for the final time."
+    },
+    {
+      "title": "BBC Sport quiz: Five in Five football quiz No 1",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/clyq749qwl5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/07f2/live/741530f0-95ae-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "8/17/2026, 6:52:21 AM",
+      "desc": "Will you beat the clock by getting all five of today's answers in five minutes?"
+    },
+    {
+      "title": "2026 World Series Odds: Can Brewers Challenge Dodgers?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/world-series-odds-16x9-1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 5:52:18 AM",
+      "desc": "Check out the latest World Series odds, as the Brewers continue to show their dominance."
+    },
     {
       "title": "Harry Brook: England player on batting, Test captaincy and Wellington",
       "source": "BBC Sport",
@@ -170,46 +210,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702805_1296x729_16%2D9.jpg",
       "published": "8/17/2026, 1:01:24 AM",
       "desc": "Rookie running back Jeremiyah Love, who played 23 snaps on Thursday against the Las Vegas Raiders, is dealing with a high ankle sprain and is unlikely to play the rest of the preseason for the Arizona Cardinals, sources told ESPN's Adam Schefter Sunday."
-    },
-    {
-      "title": "Minnesota Vikings lose Adams for season due to knee injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49633559/minnesota-vikings-lose-adams-season-due-knee-injury",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702789_1296x729_16%2D9.jpg",
-      "published": "8/17/2026, 12:04:00 AM",
-      "desc": "Veteran defender Jamal Adams will miss the 2026 season because of a right knee injury he suffered Saturday in the Minnesota Vikings' 13-10 preseason victory over the New York Giants, the NFL Network reported Sunday."
-    },
-    {
-      "title": "Rory McIlroy admits concerns as Scottie Scheffler wins first FedEx Cup play-off event",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cre44r1y17no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/78e7/live/5f20d3f0-99c5-11f1-b885-e3bffd46cc19.jpg",
-      "published": "8/16/2026, 11:22:26 PM",
-      "desc": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis."
-    },
-    {
-      "title": "Aaron Donald Works Out With Rams Again After Sean McVay Addresses Potential Return",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/aaron-donald-works-out-rams-again-after-sean-mcvay-addresses-potential-return",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-1915572443-scaled-e1786914694927.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 10:37:20 PM",
-      "desc": "Aaron Donald reportedly appeared on the league transaction wire after completing his second workout with the Los Angeles Rams this summer."
-    },
-    {
-      "title": "Scottie Scheffler opens PGA Tour postseason with 8-shot victory - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49632829/scottie-scheffler-opens-pga-tour-postseason-8-shot-victory",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702748_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 10:31:43 PM",
-      "desc": "Scottie Scheffler was back to his dominant form Sunday, winning the FedEx St. Jude Championship by 8 shots to open the PGA Tour postseason."
-    },
-    {
-      "title": "US Amateur golf: England's Jack Whaley wins title and earns spot at 2027 Open, US Open and Masters",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c1711189q2ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b36c/live/64c3d070-99b9-11f1-b03d-cf7b8a5ca01a.jpg",
-      "published": "8/16/2026, 10:22:24 PM",
-      "desc": "Jack Whaley becomes only the second Englishman since 1911 to win the US Amateur Championship as he beats American Jay Leng Jr 4&3 at Merion."
     }
   ],
   "tech": [
@@ -280,6 +280,14 @@
   ],
   "education": [
     {
+      "title": "Raising them right: Down with school uniforms; let the kids dress like kids",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/readme/parenting-and-back-to-school-7130467-Aug2026/",
+      "image": "https://img2.thejournal.ie/article/7130467/river/?height=400&version=7130473",
+      "published": "8/17/2026, 6:00:35 AM",
+      "desc": "Uniforms are supposed to improve behaviour, prevent bullying and level the playing field, but I’m not convinced, writes Niamh O’Reilly."
+    },
+    {
       "title": "A-level results: key takeaways for language learning",
       "source": "The Conversation Africa",
       "url": "https://theconversation.com/a-level-results-key-takeaways-for-language-learning-287913",
@@ -334,14 +342,6 @@
       "image": "https://i.dailymail.com/1s/2026/08/11/14/wire-110562893-1786455821-567_1200x675.jpg",
       "published": "8/12/2026, 12:01:36 PM",
       "desc": "Aberystwyth University"
-    },
-    {
-      "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16006439/Brit-successful-maths-olympiad-perfect-score.html",
-      "image": "https://i.dailymail.com/1s/2026/07/26/21/110263107-0-image-m-46_1785096305169.jpg",
-      "published": "7/26/2026, 8:33:12 PM",
-      "desc": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place."
     }
   ],
   "music": [
@@ -493,15 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -510,13 +501,22 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "rank": 4,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 5,
@@ -529,30 +529,30 @@
     },
     {
       "rank": 6,
-      "title": "Disclosure Day",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 7,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 8,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 9,
@@ -562,6 +562,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 10,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     }
   ],
   "tv": [
