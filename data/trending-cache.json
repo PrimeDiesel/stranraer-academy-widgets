@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-18T11:26:11.233Z",
+  "updated": "2026-08-18T12:47:43.013Z",
   "news": [
+    {
+      "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4739/live/2c857fd0-9a25-11f1-bf12-b5882ef8968b.jpg",
+      "published": "8/17/2026, 12:52:18 PM",
+      "desc": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer."
+    },
+    {
+      "title": "Hayden Panettiere obituary: A life of struggles alongside screen success",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c4a/live/54c2c620-9a2e-11f1-90d9-9d833c0912f2.jpg",
+      "published": "8/17/2026, 12:37:24 PM",
+      "desc": "She went from child actress to Hollywood star, but endured addiction, harassment and personal trauma."
+    },
     {
       "title": "Virgin takes another step towards Channel Tunnel rail services",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg",
       "published": "8/17/2026, 11:22:23 AM",
       "desc": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks."
-    },
-    {
-      "title": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75g0n2wy6lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e671/live/7f2aad10-9a15-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/17/2026, 10:07:22 AM",
-      "desc": "The former child star whose breakthrough came in 2006 later opened up about her struggles with mental health."
     },
     {
       "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
@@ -56,14 +64,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg",
       "published": "8/17/2026, 6:52:25 AM",
       "desc": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter."
-    },
-    {
-      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7df/live/52368eb0-9267-11f1-af4d-5164294a85c7.jpg",
-      "published": "8/17/2026, 5:37:20 AM",
-      "desc": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands."
     }
   ],
   "sports": [
@@ -90,6 +90,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0668/live/52404680-9a19-11f1-9a44-e568b7279c37.jpg",
       "published": "8/17/2026, 10:37:15 AM",
       "desc": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi."
+    },
+    {
+      "title": "Rory McIlroy 'lost' after finishing 66th in FedEx Cup playoff - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49636832/rory-mcilroy-felt-lost-first-fedex-playoff-event-far-away-where-need-be",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702872_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 9:27:38 AM",
+      "desc": "Rory McIlroy expressed concerns about the state of his game after finishing above only two other players in the FedEx Cup St. Jude Championship, saying he felt \"lost.\""
     },
     {
       "title": "Tottenham goalkeeper Guglielmo Vicario set to join Juventus on loan",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/justin-verlander-tarik-skubal.jpg?ve=1&tl=1",
       "published": "8/17/2026, 2:37:18 AM",
       "desc": "Here are five of the most impactful Tommy John surgery recoveries in baseball history."
-    },
-    {
-      "title": "Cowboys Bolster Their Pass Rush, Reportedly Agree To Deal With Von Miller",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/allas-cowboys-reportedly-sign-two-time-super-bowl-champion-von-miller",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/von-miller.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 2:37:11 AM",
-      "desc": "The Dallas Cowboys have signed two-time Super Bowl champion edge rusher and Texas native Von Miller."
     }
   ],
   "tech": [
@@ -401,6 +401,15 @@
     },
     {
       "rank": 7,
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a3/2a/82a32a90-1495-1eb2-aeff-b75934a6863a/mzaf_17235782036692088121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
+    },
+    {
+      "rank": 8,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
@@ -409,7 +418,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
@@ -418,7 +427,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -427,7 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -436,7 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "It's a Heartache",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
@@ -445,25 +454,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
     },
     {
-      "rank": 12,
-      "title": "Holding Out for a Hero",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
-    },
-    {
       "rank": 13,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 14,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
@@ -472,27 +463,27 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
     },
     {
+      "rank": 14,
+      "title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f2/43/40/f24340ab-2a1b-6214-91ab-7d4e55a19289/mzaf_15555143527010480165.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/holding-out-for-a-hero/1164757097?i=1164757336&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
+    },
+    {
       "rank": 15,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,7 +492,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -510,7 +501,7 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -519,25 +510,7 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "rank": 5,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 6,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -546,13 +519,40 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 8,
-      "title": "Supergirl",
+      "rank": 5,
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 6,
+      "title": "The Last House",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 7,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 8,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 9,
@@ -562,26 +562,35 @@
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 10,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
