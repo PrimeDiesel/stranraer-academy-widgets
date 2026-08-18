@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-18T01:16:00.036Z",
+  "updated": "2026-08-18T02:56:44.318Z",
   "news": [
+    {
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "8/17/2026, 2:52:23 AM",
+      "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+    },
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
+      "published": "8/17/2026, 2:37:11 AM",
+      "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+    },
+    {
+      "title": "Changing pubs into offices or homes to be made harder under new rules",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg",
+      "published": "8/17/2026, 2:07:24 AM",
+      "desc": "The rules will come into force on Monday along with other changes to planning policy."
+    },
     {
       "title": "Newspaper headlines: 'Water cheek' and 'Queen Amy's gold rush'",
       "source": "BBC News",
@@ -26,14 +50,6 @@
       "desc": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights."
     },
     {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
-      "published": "8/16/2026, 8:52:20 PM",
-      "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
-    },
-    {
       "title": "Two dead and hundreds evacuated as wildfires break out near Athens",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no",
@@ -48,25 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd08/live/b5a2dc20-9987-11f1-a4eb-59b79ff5ff4f.jpg",
       "published": "8/16/2026, 4:22:24 PM",
       "desc": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk."
-    },
-    {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/16/2026, 4:07:27 PM",
-      "desc": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
-    },
-    {
-      "title": "Calls for public inquiry into Jason Arday media 'witchhunt'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymmp30711o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/16/2026, 2:52:22 PM",
-      "desc": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly."
     }
   ],
   "sports": [
+    {
+      "title": "Remembering Tommy John: 5 Pitchers Who Redefined Career After Tommy John Surgery",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/five-mlb-pitchers-who-redefined-careers-after-tommy-john-surgery",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/justin-verlander-tarik-skubal.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 2:37:18 AM",
+      "desc": "Here are five of the most impactful Tommy John surgery recoveries in baseball history."
+    },
+    {
+      "title": "Cowboys Bolster Their Pass Rush, Reportedly Agree To Deal With Von Miller",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/allas-cowboys-reportedly-sign-two-time-super-bowl-champion-von-miller",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/von-miller.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 2:37:11 AM",
+      "desc": "The Dallas Cowboys have signed two-time Super Bowl champion edge rusher and Texas native Von Miller."
+    },
+    {
+      "title": "Dave Roberts says struggling Dodgers need to improve offense, defense - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49634317/dave-roberts-says-struggling-dodgers-need-improve-offense-defense",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702820_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 1:34:15 AM",
+      "desc": "Dodgers manager Dave Roberts called out his struggling club after a 6-2 loss to the Brewers on Sunday cost them a significant tiebreaker in the race for home-field advantage."
+    },
+    {
+      "title": "Vikings Safety Jamal Adams Reportedly Suffers Season-Ending Knee Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-safety-jamal-adams-reportedly-suffers-season-ending-knee-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/adams1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 1:22:17 AM",
+      "desc": "Jamal Adams suffered a season-ending knee surgery during the Minnesota Vikings preseason game against the New York Giants."
+    },
+    {
+      "title": "Cardinals Rookie RB Jeremiyah Love Reportedly Likely To Miss Rest Of Preseason",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/cardinals-rookie-jeremiyah-love-likely-out-preseason-due-ankle-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2289627833-scaled-e1786927714483.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 1:22:15 AM",
+      "desc": "Arizona Cardinals rookie running back Jeremiyah Love is dealing with a high ankle sprain that is expected to keep him sidelined for the remainder of the preseason."
+    },
+    {
+      "title": "LB Von Miller expected to sign with Cowboys, source says - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49634196/von-miller-expected-sign-dallas-cowboys",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1128%2Fr1582005_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 1:10:35 AM",
+      "desc": "Eight-time Pro Bowl linebacker Von Miller is expected to sign with the Dallas Cowboys, a source told ESPN's Adam Schefter."
+    },
+    {
+      "title": "Sources: Cardinals RB Love likely to sit rest of preseason - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49634102/cardinals-rb-love-likely-sit-rest-preseason",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702805_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 1:01:24 AM",
+      "desc": "Rookie running back Jeremiyah Love, who played 23 snaps on Thursday against the Las Vegas Raiders, is dealing with a high ankle sprain and is unlikely to play the rest of the preseason for the Arizona Cardinals, sources told ESPN's Adam Schefter Sunday."
+    },
     {
       "title": "Minnesota Vikings lose Adams for season due to knee injury - ESPN",
       "source": "ESPN",
@@ -74,14 +130,6 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702789_1296x729_16%2D9.jpg",
       "published": "8/17/2026, 12:04:00 AM",
       "desc": "Veteran defender Jamal Adams will miss the 2026 season because of a right knee injury he suffered Saturday in the Minnesota Vikings' 13-10 preseason victory over the New York Giants, the NFL Network reported Sunday."
-    },
-    {
-      "title": "Ed Dodds suggests Colts will keep Anthony Richardson for depth - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49633610/ed-dodds-suggests-colts-keep-anthony-richardson-depth",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702783_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 11:56:44 PM",
-      "desc": "Colts assistant general manager Ed Dodds strongly suggested on Sunday that Anthony Richardson Sr. will remain in Indianapolis because the Colts intend to prioritize quarterback depth."
     },
     {
       "title": "Rory McIlroy admits concerns as Scottie Scheffler wins first FedEx Cup play-off event",
@@ -162,54 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2286945134-1-scaled.jpg?ve=1&tl=1",
       "published": "8/16/2026, 9:37:14 PM",
       "desc": "Barcelona has completed the transfer of midfielder Rodri from Manchester City on a multi-year contract for a reported $87.8 million fee."
-    },
-    {
-      "title": "Retired Aaron Donald works out for Rams for second time - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49631972/retired-aaron-donald-works-rams-second",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701255_1296x729_16%2D9.jpg",
-      "published": "8/16/2026, 9:07:02 PM",
-      "desc": "Aaron Donald worked out for the Los Angeles Rams on Saturday as he continues his process to determine whether he wants to come out of retirement."
-    },
-    {
-      "title": "Sebastian Pocognoli: What awaits Belgian as new Scotland boss?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cly995z1j8go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5751/live/f7a80590-9960-11f1-9712-2936f8c80214.jpg",
-      "published": "8/16/2026, 8:52:26 PM",
-      "desc": "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss."
-    },
-    {
-      "title": "European Athletics Championships 2026: Amy Hunt and Dina Asher-Smith make history with relay gold",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3036/live/c39c6850-99af-11f1-9b60-95a3fcadaf8d.jpg",
-      "published": "8/16/2026, 8:52:24 PM",
-      "desc": "Amy Hunt and Dina Asher-Smith make history and Georgia Hunter Bell claims a commanding 1500m gold as Great Britain maintain their bid to top the final medal table at the European Championships."
-    },
-    {
-      "title": "Community Shield: Nightmare Man City start for Enzo Maresca - are Arsenal really so far ahead?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5y449kwq14o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d73e/live/5f434db0-9991-11f1-b374-0b75862fe542.jpg",
-      "published": "8/16/2026, 8:07:23 PM",
-      "desc": "Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?"
-    },
-    {
-      "title": "Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6425/live/0b8f72c0-99a5-11f1-a10a-71ff76b28954.jpg",
-      "published": "8/16/2026, 8:07:16 PM",
-      "desc": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City."
-    },
-    {
-      "title": "Ontario Honda Dealers Indy at Markham Live Updates, Results: Final Race Results",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/motor/ontario-honda-dealers-indy-markham-live-updates-results-final-race-results",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/16x9-10.jpg?ve=1&tl=1",
-      "published": "8/16/2026, 7:37:26 PM",
-      "desc": "Follow along for live updates from Ontario Honda Dealers Indy at Markham."
     }
   ],
   "tech": [
@@ -358,21 +358,21 @@
     },
     {
       "rank": 4,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 5,
       "title": "Total Eclipse of the Heart",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
+    },
+    {
+      "rank": 5,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 6,
@@ -403,15 +403,6 @@
     },
     {
       "rank": 9,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 10,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -420,16 +411,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 11,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+      "rank": 10,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Holding Out for a Hero",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/e1/f9/abe1f91c-4f32-4384-6632-13334c07c4b2/886446159812.jpg/300x300bb.jpg",
@@ -438,13 +429,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Holding%20Out%20for%20a%20Hero"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "It's a Heartache",
       "artist": "Bonnie Tyler",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/a3/e7/e3a3e7b2-2bc1-5436-384a-559311c9ba7c/mzaf_3349608896113848569.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/its-a-heartache/1439423755?i=1439423832&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
+    },
+    {
+      "rank": 13,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
       "rank": 14,
@@ -495,12 +495,12 @@
     },
     {
       "rank": 4,
-      "title": "Disclosure Day",
+      "title": "Toy Story 5",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 5,
@@ -513,21 +513,21 @@
     },
     {
       "rank": 6,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 7,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 7,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 8,
@@ -540,21 +540,12 @@
     },
     {
       "rank": 9,
-      "title": "Project Hail Mary",
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 10,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
