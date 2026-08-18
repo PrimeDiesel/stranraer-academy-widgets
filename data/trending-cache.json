@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T21:25:41.085Z",
+  "updated": "2026-08-18T22:24:22.578Z",
   "news": [
     {
       "title": "Jason Arday's family 'still coming to terms' with his death as supporters attend vigil",
@@ -68,12 +68,28 @@
   ],
   "sports": [
     {
+      "title": "Professor, bettor charged with accessing private horse info - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/horse-racing/blog/horse_racing/story/_/id/49642583/professor-bettor-charged-accessing-private-horse-info",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0321%2Fr681821_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 10:02:34 PM",
+      "desc": "Marshall Gramm, a college professor and noted bettor, has been charged with accessing confidential horse health information. He faces a lifetime ban."
+    },
+    {
       "title": "2026 College Football Odds: Can Texas Tech Repeat As Big 12 Champs?",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/2026-college-football-big-12-conference-championship-odds",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2250069772-scaled.jpg?ve=1&tl=1",
       "published": "8/17/2026, 9:37:18 PM",
       "desc": "After a historic 2025 season, can Texas Tech repeat as Big 12 champions? Check out the odds."
+    },
+    {
+      "title": "Yankees activate Rodon for Orioles game Tuesday in about-face - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49642211/yankees-activate-rodon-orioles-game-tuesday-face",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0510%2Fr1656462_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 9:16:57 PM",
+      "desc": "Carlos Rodon will come off the injured list and start at Baltimore on Tuesday in a change of plans for the Yankees."
     },
     {
       "title": "Rodri lands in Barcelona to complete 'dream' move",
@@ -194,22 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7770/live/9d80f7e0-9a67-11f1-9fe8-4300bbf9dc7e.jpg",
       "published": "8/17/2026, 6:37:29 PM",
       "desc": "Follow live text commentary, score updates and match stats from Cardiff City vs Wrexham in the Championship"
-    },
-    {
-      "title": "2026 College Football Odds: Can Indiana Repeat As Big Ten Champions?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-odds-who-will-crowned-big-ten-champion",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/1294/728/gettyimages-2250452213-scaled.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 6:37:27 PM",
-      "desc": "Take a look at the 2026 Big Ten Championship odds as Ohio State, Indiana and Oregon headline the loaded title race."
-    },
-    {
-      "title": "Jets' RB Hall strains right groin, but likely not serious injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49639624/jets-rb-hall-strains-right-groin-likely-not-serious-injury",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702061_1296x729_16%2D9.jpg",
-      "published": "8/17/2026, 4:20:07 PM",
-      "desc": "New York Jets running back Breece Hall strained his right groin in practice on Monday and will have tests to determine the severity of the injury, but coach Aaron Glenn says he didn't think Hall's injury is a big deal."
     }
   ],
   "tech": [
@@ -368,7 +368,7 @@
       "title": "Marianne",
       "artist": "Fontaines D.C.",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a3/2a/82a32a90-1495-1eb2-aeff-b75934a6863a/mzaf_17235782036692088121.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     },
@@ -547,15 +547,6 @@
     },
     {
       "rank": 8,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -564,13 +555,13 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 10,
-      "title": "Avatar Aang: The Last Airbender",
+      "rank": 9,
+      "title": "Disclosure Day",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     }
   ],
   "tv": [
