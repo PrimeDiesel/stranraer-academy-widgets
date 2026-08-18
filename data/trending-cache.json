@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-18T19:28:32.109Z",
+  "updated": "2026-08-18T20:25:16.259Z",
   "news": [
+    {
+      "title": "Fifa: Kevin Lamour leaves after criticising president Gianni Infantino",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
+      "published": "8/17/2026, 8:22:23 PM",
+      "desc": "A senior Fifa figure leaves football's world governing body three weeks after criticising its president Gianni Infantino."
+    },
+    {
+      "title": "Stag put down after attacking man in Richmond Park",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8y1jxzrjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0174/live/388b0330-9a58-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/17/2026, 7:37:25 PM",
+      "desc": "Royal Parks said a male deer approached a picnic group looking for food before attacking the man."
+    },
     {
       "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
       "source": "BBC News",
@@ -48,25 +64,89 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c4a/live/54c2c620-9a2e-11f1-90d9-9d833c0912f2.jpg",
       "published": "8/17/2026, 12:37:24 PM",
       "desc": "She went from child actress to Hollywood star, but endured addiction, harassment and personal trauma."
-    },
-    {
-      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxklg3xypo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/17/2026, 9:07:27 AM",
-      "desc": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week."
-    },
-    {
-      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a0b/live/686778e0-9a0d-11f1-a05c-fdd5e0ed226e.jpg",
-      "published": "8/17/2026, 9:07:25 AM",
-      "desc": "Downing Street has declined to comment on the security breach, first reported by Politico."
     }
   ],
   "sports": [
+    {
+      "title": "Rodri lands in Barcelona to complete 'dream' move",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7a65/live/e0f47630-9a73-11f1-b68f-817a5a696299.jpg",
+      "published": "8/17/2026, 8:37:24 PM",
+      "desc": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City."
+    },
+    {
+      "title": "Fifa: Kevin Lamour leaves after criticising president Gianni Infantino",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
+      "published": "8/17/2026, 8:37:23 PM",
+      "desc": "A senior Fifa figure leaves football's world governing body three weeks after criticising its president Gianni Infantino."
+    },
+    {
+      "title": "Padres New Owners Officially Approved By MLB",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/padres-sale-new-owners-jose-feliciano-kwanza-jones",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/padresh1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 8:22:43 PM",
+      "desc": "The Padres were sold in May, and the sale was officially approved by MLB on Monday."
+    },
+    {
+      "title": "Dodgers Co-Owners Todd Boehly, Mark Walter In Talks To Sell Chelsea Stakes",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/dodgers-co-owners-todd-boehly-mark-walter-talks-sell-chelsea-stakes",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/boehly1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 8:22:38 PM",
+      "desc": "Los Angeles Dodgers co-owners Todd Boehly and Mark Walter have held talks about selling their stakes in London-based English Premier League club Chelsea F.C."
+    },
+    {
+      "title": "Inside The Garage: A New Test Awaits As INDYCAR Heads To DC",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-washington-dc-palou",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-23.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 8:22:27 PM",
+      "desc": "Not all street courses are alike. And you might be hard-pressed to find two street courses as opposite as the ones INDYCAR drivers are taking on this month."
+    },
+    {
+      "title": "Big Bets Report: Huge Wager On Arsenal-Man City Cashes In For $3 Million",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/big-bets-report-3-million-dollar-payday-arsenal-man-city",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ae12f853-artboard-1-30.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 8:22:25 PM",
+      "desc": "Patrick Everson breaks down how one bettor almost doubled his seven-figure wager after Arsenal came up big against Manchester City."
+    },
+    {
+      "title": "NASCAR Silly Season Tracker: Connor Zilisch Headed To Hendrick ... In 2028",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/nascar-silly-season-tracker-2026-2027",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/zzzz1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 8:22:24 PM",
+      "desc": "Connor Zilisch is heading to Hendrick in 2028. Here's the latest from NASCAR's silly season."
+    },
+    {
+      "title": "LIV Golf to end season early to focus 'on next chapter'",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f33c/live/938e0990-9a70-11f1-b68f-817a5a696299.jpg",
+      "published": "8/17/2026, 7:52:20 PM",
+      "desc": "LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on \"building its next chapter\"."
+    },
+    {
+      "title": "Source: Cubs' Dansby Swanson has oblique strain, out 4-6 weeks - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49641188/source-cubs-dansby-swanson-oblique-strain-4-6-weeks",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0606%2Fr1669029_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 7:45:35 PM",
+      "desc": "Cubs shortstop Dansby Swanson has a Grade 2 oblique strain and is expected to miss four to six weeks, a source told ESPN."
+    },
+    {
+      "title": "Sources: Jeanie out as Buss family sells last stake in Lakers - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49641147/sources-buss-family-selling-remaining-stake-lakers",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0218%2Fr1616523_1024x576_16%2D9.jpg",
+      "published": "8/17/2026, 7:34:32 PM",
+      "desc": "The Buss family has decided to sell its remaining ownership stake in the Lakers, meaning Jeanie Buss will no longer remain governor of the team."
+    },
     {
       "title": "2026 College Football Odds: Can LSU Win SEC In Lane Kiffin’s First Year?",
       "source": "Fox Sports",
@@ -90,14 +170,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-42.jpg?ve=1&tl=1",
       "published": "8/17/2026, 6:52:21 PM",
       "desc": "Multiple rookie quarterbacks had strong preseason debuts over the weekend, while a pair of contenders must like what they see at wide receiver."
-    },
-    {
-      "title": "Nebraska-Texas Headlines FOX Sports' Women's College Volleyball TV Schedule",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/other/ncaa-womens-volleyball-nebraska-texas-how-to-watch",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2240343421-scaled.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 6:37:30 PM",
-      "desc": "Women's college volleyball is coming to FOX Sports with some big-time matches lined up."
     },
     {
       "title": "Cardiff City vs Wrexham: Championship stats & head-to-head",
@@ -124,46 +196,6 @@
       "desc": "While a 17-0 season is unlikely, 6-0 in the division is attainable. Will any team achieve it? See the odds."
     },
     {
-      "title": "2026 MLB Division Winner Odds: Can Padres Make Up Ground On Dodgers?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-division-winner-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/tatis-817.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 5:37:27 PM",
-      "desc": "The Dodgers are huge favorites in the NL West, but the Padres are getting hot. Could they challenge L.A.?"
-    },
-    {
-      "title": "Inside Rams Rookie Ty Simpson's Hot Start, Titans QB Cam Ward's Calamity",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/rams-ty-simpson-preseason-success-titans-cam-ward-calamity",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-12.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 5:37:26 PM",
-      "desc": "Diving deep into the preseason, including the reason behind Ty Simpson's shining debut and if the Titans should be worried about Cam Ward."
-    },
-    {
-      "title": "Big Ten Takes Top Spots And SEC Leads With 9 Teams In 1st AP Top 25 Of 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-oregon-sec-indiana-big-ten",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/osuh1.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 4:52:24 PM",
-      "desc": "Ohio State and Oregon give the Big Ten Conference the top two teams in The Associated Press Top 25 preseason rankings for the first time in 65 years."
-    },
-    {
-      "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/connor-zilisch-leaving-trackhouse-multiuyear-deal-hendrick-motorsports",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/connor-z_move-to-hendrick_2027_bob-pockrass.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 4:52:19 PM",
-      "desc": "A moment he's dreamed about for years, Connor Zilisch has signed a deal with one of NASCAR's most successful teams."
-    },
-    {
-      "title": "Sebastien Pocognoli: Scotland make young and brave choice for national head coach job",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c8dn39n6np2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04de/live/bcbb3a80-9a3f-11f1-ae41-df15e7357ff6.jpg",
-      "published": "8/17/2026, 4:37:21 PM",
-      "desc": "The Scottish FA are all-in on Sebastien Pocognoli, 39, showing bravery and ambition - what everybody wanted, writes Tom English."
-    },
-    {
       "title": "Jets' RB Hall strains right groin, but likely not serious injury - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49639624/jets-rb-hall-strains-right-groin-likely-not-serious-injury",
@@ -178,38 +210,6 @@
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0101%2Fr1595439_1296x729_16%2D9.jpg",
       "published": "8/17/2026, 4:12:10 PM",
       "desc": "Ohio State and Oregon were 1-2 in the AP Top 25, giving the Big Ten Conference the top two teams in the preseason rankings for the first time in 65 years"
-    },
-    {
-      "title": "Sources: NBA has no evidence Ballmer funneled money to Leonard via sponsors - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49639157/nba-la-clippers-aspiration-investigation-steve-ballmer-kawhi-leonard",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0913%2Fr1544771_1296x729_16%2D9.jpg",
-      "published": "8/17/2026, 3:23:59 PM",
-      "desc": "The NBA has found no evidence showing LA Clippers owner Steve Ballmer funneled money through team sponsors to pay Kawhi Leonard, according to three people with knowledge of discussions between the two sides in recent days."
-    },
-    {
-      "title": "England v Pakistan Test series: Jordan Cox on Virat Kohli advice",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c20e74wvy25o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4ac/live/7eed38a0-9a46-11f1-a86b-519b4d19bbee.jpg",
-      "published": "8/17/2026, 3:22:26 PM",
-      "desc": "Jordan Cox says advice from India superstar Virat Kohli will stick with him \"forever\" as he prepares for England's first Test with Pakistan."
-    },
-    {
-      "title": "England vs Pakistan: Joe Root's captaincy style analysed",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c934w4828vyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/939f/live/a4e025d0-91b4-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/17/2026, 3:22:21 PM",
-      "desc": "What can England expect from Joe Root's leadership, based on his first full-time spell in charge?"
-    },
-    {
-      "title": "New Heisman platform allows college football fans to cast votes - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49638749/new-heisman-platform-allows-college-football-fans-cast-votes",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702907_1296x729_16%2D9.jpg",
-      "published": "8/17/2026, 2:30:08 PM",
-      "desc": "The new team at Heisman has launched Heisman Hopefuls -- a data, storytelling and fan voting platform aimed at expanding the conversation about the award."
     }
   ],
   "tech": [
@@ -369,7 +369,7 @@
       "title": "Marianne",
       "artist": "Fontaines D.C.",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a3/2a/82a32a90-1495-1eb2-aeff-b75934a6863a/mzaf_17235782036692088121.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     },
@@ -568,21 +568,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
