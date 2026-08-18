@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-18T10:29:20.684Z",
+  "updated": "2026-08-18T11:26:11.233Z",
   "news": [
+    {
+      "title": "Virgin takes another step towards Channel Tunnel rail services",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+      "published": "8/17/2026, 11:22:23 AM",
+      "desc": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks."
+    },
     {
       "title": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e671/live/7f2aad10-9a15-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/17/2026, 10:07:22 AM",
       "desc": "The former child star whose breakthrough came in 2006 later opened up about her struggles with mental health."
-    },
-    {
-      "title": "Amy Hunt: British sprint star enters stardom with quadruple gold at European Athletics Championships",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "published": "8/17/2026, 9:52:20 AM",
-      "desc": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships."
     },
     {
       "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
@@ -68,20 +68,20 @@
   ],
   "sports": [
     {
+      "title": "FPL 2026-27 Eight players who could help you win this year, including Wirtz, Calvert-Lewin, Joao Pedro and Gross",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4g305xwdr4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53f8/live/07dcc7a0-970b-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/17/2026, 10:52:16 AM",
+      "desc": "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season."
+    },
+    {
       "title": "Football: Serie A footballer Yael Trepy in intensive care after reported swimming pool incident",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cm2g7mr0d17o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03d4/live/72236b20-9a24-11f1-bf12-b5882ef8968b.jpg",
       "published": "8/17/2026, 10:37:22 AM",
       "desc": "Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia."
-    },
-    {
-      "title": "Scotland: Sebastien Pocognoli speaks to media after being named head coach",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cw8rn6l3xv8nt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/17/2026, 10:37:19 AM",
-      "desc": "Watch and follow reaction as Sebastien Pocognoli is unveiled as the new Scotland head coach."
     },
     {
       "title": "Ayyoub Bouaddi transfer news: Manchester City in advanced talks for midfielder",
@@ -214,71 +214,79 @@
   ],
   "tech": [
     {
-      "title": "Video: Digital Foundry Breaks Down Oblivion's \"Frustrating Performance\" On Switch 2 - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/video-digital-foundry-breaks-down-oblivions-frustrating-performance-on-switch-2",
-      "image": "https://images.nintendolife.com/5d41041df6b93/large.jpg",
-      "published": "8/17/2026, 8:45:00 AM",
-      "desc": "Hitches galore"
+      "title": "10 Years Later, This is Still the Hardest Platinum Trophy I’ve Ever Earned - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/10-years-later-this-is-still-the-hardest-platinum-trophy-ive-ever-earned",
+      "image": "https://assets-prd.ignimgs.com/2026/08/17/witness-challenge-blog-1786964448023.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/17/2026, 11:30:00 AM",
+      "desc": "10 years later, this is still the hardest platinum trophy I’ve ever earned."
     },
     {
-      "title": "Intel confirms Nova Lake’s new CPU core will debut on desktop first - videocardz.com",
+      "title": "Intel tests 24-core and 28-core Nova Lake-S desktop CPUs with AVX-512 enabled - VideoCardz.com",
       "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/intel-confirms-nova-lakes-new-cpu-core-will-debut-on-desktop-first",
-      "image": "https://cdn.videocardz.com/1/2026/08/INTEL-NOVA-LAKE-CORE-ULTRA-9-400-HERO.webp",
-      "published": "8/17/2026, 7:50:59 AM",
-      "desc": "Intel has clarified its Nova Lake rollout after previously confirming the family for 2026. The company says its next CPU core will debut on desktop before data center products."
+      "url": "https://videocardz.com/newz/intel-tests-24-core-and-28-core-nova-lake-s-desktop-cpus-with-avx-512-enabled",
+      "image": "https://cdn.videocardz.com/1/2025/11/INTEL-NOVA-LAKE-CORE-ULTRA-400-HERO3.jpg",
+      "published": "8/17/2026, 11:00:59 AM",
+      "desc": "Two Intel Nova Lake-S test platforms have appeared with 24C/24T and 28C/28T processors. The logs also expose AVX-512 and APX register states."
     },
     {
-      "title": "I’m hooked on Peak Design’s new City bags - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3791.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "published": "8/17/2026, 7:00:00 AM",
-      "desc": "Peak Design’s City Crescent and City Backpack both feature new BagLev hooks. They’re so useful that I now want all my bags to have tabletop hooks."
+      "title": "What will TV look like in three years? Media insiders share their predictions - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108349861-1786723866209-260420_cg_32_future_tv_gfx4__0-00-12-15__1024.png?v=1786723905&w=1920&h=1080",
+      "published": "8/17/2026, 11:00:01 AM",
+      "desc": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years."
     },
     {
-      "title": "No Sony Characters in Fortnite's Big Gaming Celebration Season - pushsquare.com",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season",
-      "image": "https://images.pushsquare.com/69ba0eff5e7e5/large.jpg",
-      "published": "8/17/2026, 6:00:00 AM",
-      "desc": "Arriving on 20th August"
+      "title": "Apple Devices That Are Reaching The End Of Software Support In 2026 - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2234786/apple-devices-that-are-reaching-end-of-software-support-2026/",
+      "image": "https://www.bgr.com/img/gallery/apple-devices-that-are-reaching-the-end-of-software-support-in-2026/l-intro-1786409809.jpg",
+      "published": "8/17/2026, 10:17:00 AM",
+      "desc": "The list of Apple devices that will fall out of software support in 2026 includes gadgets across four categories: Apple Watch, iPad, Mac, and Apple TV."
     },
     {
-      "title": "Sony's Purge on PS5 Shovelware May Now Have Hit a Legit Indie Dev - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/sonys-purge-on-ps5-shovelware-may-now-have-hit-a-legit-indie-dev",
-      "image": "https://images.pushsquare.com/fd078163bb0a5/large.jpg",
-      "published": "8/17/2026, 5:15:00 AM",
-      "desc": "Stonks-9800 stomped"
+      "title": "Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games",
+      "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-cheif-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/17/2026, 10:11:42 AM",
+      "desc": "The next Halo game may be developed by an unlikely studio."
     },
     {
-      "title": "Google quietly resurrects a Pixel gesture we first spotted over a year ago - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-pixel-double-tap-lock-android-17-qpr2-beta-3-3699094/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg",
-      "published": "8/17/2026, 4:40:00 AM",
-      "desc": "Google appears to be expanding its long-awaited Pixel double-tap-to-lock feature to work on both the home and lock screens."
+      "title": "I moved back in with my parents at 31. These are the 3 things I wasn't prepared for. - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/moved-back-in-with-parents-30s-not-prepared-surprising-things-2026-8#article",
+      "image": "https://i.insider.com/6a7f12fbe3df4d0cbe685ee3?width=1200&format=jpeg",
+      "published": "8/17/2026, 9:47:25 AM",
+      "desc": "My parents welcomed me to move back home after being abroad for seven years. I'm grateful, but still feel like a visitor."
     },
     {
-      "title": "Elden Ring Tarnished Edition: Release Date, Pre-Order And Platform - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/08/17/elden-ring-tarnished-edition-release-date-pre-order-and-platform/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a8288a3b6b8af478b2f9723/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/17/2026, 4:20:27 AM",
-      "desc": "Elden Ring Tarnished Edition arrives August 28, 2026 on Nintendo Switch 2 at $79.99 with Shadow of the Erdtree, two new classes, new armor and Torrent customization."
+      "title": "What happens to the secrets you share with AI - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
+      "image": "https://images.axios.com/N5-tnhuDrL-jPJo-LGeUANdStrE=/0x0:1920x1080/1366x768/2026/08/10/1786379596356.jpeg",
+      "published": "8/17/2026, 9:25:32 AM",
+      "desc": "How tech companies use your data to recommend content and target advertising."
     },
     {
-      "title": "TSURUGIHIME combat-focused closed beta test set for August 25 to September 6 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/08/tsurugihime-combat-focused-closed-beta-test-set-for-august-25-to-september-6",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/TSURUGIHIME-CBT_08-16-26.jpg",
-      "published": "8/17/2026, 3:00:10 AM",
-      "desc": "Fahrenheit 213 will host a combat-focused closed beta test for side-scrolling action RPG TSURUGIHIME from August 25 to September 6, the developer announced. The test will be capped at 100 players w…"
+      "title": "Best Buy Customer Support Removed A 32GB DDR5 RAM Stick From Gaming Laptop After Charging Full Amount For The 64GB Configuration; Says Upgraded RAM Incompatible - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/best-buy-removes-ram-64gb-gaming-laptop-incompatibility-claim/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Lenovo-Legion-5-gaming-laptop.jpg",
+      "published": "8/17/2026, 9:11:06 AM",
+      "desc": "Best Buy customer support reportedly removed a 32GB DDR5 RAM stick from a customer's gaming laptop after charging for a full 64GB setup, claiming incompatibility"
     }
   ],
   "education": [
+    {
+      "title": "White British Students Set to Become a Minority in UK Schools Within 10 Years, MP Warns",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/europe/2026/08/17/white-british-students-set-to-become-a-minority-in-uk-schools-within-10-years-mp-warns/",
+      "image": "https://media.breitbart.com/media/2026/08/GettyImages-3382454-1-640x335.jpg",
+      "published": "8/17/2026, 10:46:13 AM",
+      "desc": "An analysis of public data conducted by a Member of Parliament has found that White British students are set to become a minority in UK classrooms within a decade.\nThe post White British Students Set to Become a Minority in UK Schools Within 10 Years, MP Warn…"
+    },
     {
       "title": "Raising them right: Down with school uniforms; let the kids dress like kids",
       "source": "TheJournal.ie",
@@ -334,14 +342,6 @@
       "image": "https://i.dailymail.com/1s/2026/08/11/14/wire-110563025-1786455926-395_1200x675.jpg",
       "published": "8/12/2026, 12:01:39 PM",
       "desc": "University of York"
-    },
-    {
-      "title": "Aberystwyth University",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/university-guide/article-16031049/Aberystwyth-University.html",
-      "image": "https://i.dailymail.com/1s/2026/08/11/14/wire-110562893-1786455821-567_1200x675.jpg",
-      "published": "8/12/2026, 12:01:36 PM",
-      "desc": "Aberystwyth University"
     }
   ],
   "music": [
@@ -374,12 +374,12 @@
     },
     {
       "rank": 4,
-      "title": "Total Eclipse of the Heart",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 5,
@@ -392,12 +392,12 @@
     },
     {
       "rank": 6,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "title": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
     },
     {
       "rank": 7,
@@ -455,15 +455,6 @@
     },
     {
       "rank": 13,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 14,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -472,27 +463,27 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 14,
+      "title": "Love Sensation (Afterhours Radio Edit)",
+      "artist": "Madonna & Kylie Minogue",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -501,22 +492,31 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 3,
-      "title": "The End of Oak Street",
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
       "rank": 5,
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 8,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 8,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 9,
