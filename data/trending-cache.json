@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-18T16:32:48.056Z",
+  "updated": "2026-08-18T17:27:47.793Z",
   "news": [
+    {
+      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly555430nno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5988/live/5aa64f40-9a3c-11f1-b792-a710e56a11dc.jpg",
+      "published": "8/17/2026, 5:07:29 PM",
+      "desc": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights."
+    },
+    {
+      "title": "Princess Eugenie announces name of baby daughter",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nkww841xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa4b/live/bcc7b6e0-9029-11f1-9cf2-316ac336c337.jpg",
+      "published": "8/17/2026, 5:07:23 PM",
+      "desc": "The couple's third child was born earlier this month at a hospital in Lisbon, Portugal, weighing 6lb 9oz."
+    },
     {
       "title": "Bonnie Tyler's Swansea funeral sees tributes to Welsh singer",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32f7/live/0838ed20-9a47-11f1-a86b-519b4d19bbee.jpg",
       "published": "8/17/2026, 3:07:24 PM",
       "desc": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer."
-    },
-    {
-      "title": "Wildfires: Phone alert was 'entirely appropriate', government says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4zepzp7eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae7c/live/8a237500-9a40-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/17/2026, 2:52:21 PM",
-      "desc": "Millions of phones across England and Wales bleeped with a \"severe alert\" notification on Friday."
     },
     {
       "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
@@ -32,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9088/live/c42741c0-9a34-11f1-90d9-9d833c0912f2.jpg",
       "published": "8/17/2026, 1:37:27 PM",
       "desc": "The sitcom's creator says he requires \"immediate\" surgery but hopes the show will return in 2027."
-    },
-    {
-      "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4739/live/2c857fd0-9a25-11f1-bf12-b5882ef8968b.jpg",
-      "published": "8/17/2026, 12:52:18 PM",
-      "desc": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer."
     },
     {
       "title": "Hayden Panettiere obituary: A life of struggles alongside screen success",
@@ -68,12 +68,52 @@
   ],
   "sports": [
     {
+      "title": "NFL Catchup: Rookie QBs Shine In Debuts, Another Donald Update, Cowboys Make A Splash",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookie-qbs-shine-debuts-another-donald-update-cowboys-make-splash",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ty-simpson-cade-klubnik-catchup.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 5:22:22 PM",
+      "desc": "The first full weekend of NFL preseason action provided a pair of standout rookie quarterback performances."
+    },
+    {
+      "title": "2026 NFL Top-10 WRs: Is Ja'Marr Chase Or Jaxon Smith-Njigba League's Best Pass Catcher?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-top-10-wrs-jamarr-chase-jaxon-smith-njigba-leagues-best-pass-catcher",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/top-ten-wr-16x9-nfl-2.png?ve=1&tl=1",
+      "published": "8/17/2026, 5:22:19 PM",
+      "desc": "Who is the best wide receiver in the NFL entering the 2026 season? We ranked the 10 best pass-catchers."
+    },
+    {
+      "title": "Big Ten Takes Top Spots And SEC Leads With 9 Teams In 1st AP Top 25 Of 2026",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/ohio-state-oregon-sec-indiana-big-ten",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/osuh1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 4:52:24 PM",
+      "desc": "Ohio State and Oregon give the Big Ten Conference the top two teams in The Associated Press Top 25 preseason rankings for the first time in 65 years."
+    },
+    {
+      "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/connor-zilisch-leaving-trackhouse-multiuyear-deal-hendrick-motorsports",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/connor-z_move-to-hendrick_2027_bob-pockrass.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 4:52:19 PM",
+      "desc": "A moment he's dreamed about for years, Connor Zilisch has signed a deal with one of NASCAR's most successful teams."
+    },
+    {
       "title": "Sebastien Pocognoli: Scotland make young and brave choice for national head coach job",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c8dn39n6np2o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04de/live/bcbb3a80-9a3f-11f1-ae41-df15e7357ff6.jpg",
       "published": "8/17/2026, 4:37:21 PM",
       "desc": "The Scottish FA are all-in on Sebastien Pocognoli, 39, showing bravery and ambition - what everybody wanted, writes Tom English."
+    },
+    {
+      "title": "Jets' RB Hall strains right groin, but likely not serious injury - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49639624/jets-rb-hall-strains-right-groin-likely-not-serious-injury",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702061_1296x729_16%2D9.jpg",
+      "published": "8/17/2026, 4:20:07 PM",
+      "desc": "New York Jets running back Breece Hall strained his right groin in practice on Monday and will have tests to determine the severity of the injury, but coach Aaron Glenn says he didn't think Hall's injury is a big deal."
     },
     {
       "title": "NASCAR Chase Tracker: Just 9 Spots Remain After Richmond",
@@ -170,46 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0668/live/52404680-9a19-11f1-9a44-e568b7279c37.jpg",
       "published": "8/17/2026, 10:37:15 AM",
       "desc": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi."
-    },
-    {
-      "title": "Rory McIlroy 'lost' after finishing 66th in FedEx Cup playoff - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49636832/rory-mcilroy-felt-lost-first-fedex-playoff-event-far-away-where-need-be",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702872_1296x729_16%2D9.jpg",
-      "published": "8/17/2026, 9:27:38 AM",
-      "desc": "Rory McIlroy expressed concerns about the state of his game after finishing above only two other players in the FedEx Cup St. Jude Championship, saying he felt \"lost.\""
-    },
-    {
-      "title": "Amy Hunt: British sprint star enters stardom with quadruple gold at European Athletics Championships",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "published": "8/17/2026, 7:22:24 AM",
-      "desc": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships."
-    },
-    {
-      "title": "2026 World Series Odds: Can Brewers Challenge Dodgers?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-world-series-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/world-series-odds-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 5:52:18 AM",
-      "desc": "Check out the latest World Series odds, as the Brewers continue to show their dominance."
-    },
-    {
-      "title": "College Football Rankings: Where All 138 FBS Teams Stand Of 2026 Kickoff",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/rankings-2026-preseason-138",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x9logo.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 4:37:24 AM",
-      "desc": "Ahead of the 2026 college football season, FOX Sports' RJ Young ranked every single FBS team — all 138 of 'em."
-    },
-    {
-      "title": "NFL Catchup: Rookie QBs Shine In Debuts, Another Donald Update, Cowboys Make A Splash",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookie-qbs-shine-debuts-another-donald-update-cowboys-make-splash",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ty-simpson-cade-klubnik-catchup.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 3:22:22 AM",
-      "desc": "The first full weekend of NFL preseason action provided a pair of standout rookie quarterback performances."
     }
   ],
   "tech": [
@@ -374,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 5,
       "title": "Marianne",
       "artist": "Fontaines D.C.",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a3/2a/82a32a90-1495-1eb2-aeff-b75934a6863a/mzaf_17235782036692088121.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
+    },
+    {
+      "rank": 5,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 6,
@@ -401,12 +401,12 @@
     },
     {
       "rank": 7,
-      "title": "Total Eclipse of the Heart",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
+      "title": "Pigwig",
+      "artist": "Bloc Party",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/0d/b8/0a0db826-0f7a-b80c-6e1a-5119342c860f/823375136125_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/40/fe/f640fe63-a604-b93e-0bc4-5142b45eb889/mzaf_14082312497438426516.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/pigwig/1895408368?i=6763630496&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bloc%20Party%20Pigwig"
     },
     {
       "rank": 8,
@@ -419,6 +419,15 @@
     },
     {
       "rank": 9,
+      "title": "Total Eclipse of the Heart",
+      "artist": "Bonnie Tyler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/b8/2074b81d-d546-b0c2-d85b-dda3a5e17661/886448236856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/d1/23/34d1239b-1efd-1bc3-ff86-2d0f947668b8/mzaf_10784434046657021328.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/total-eclipse-of-the-heart/1504111277?i=1504111288&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart"
+    },
+    {
+      "rank": 10,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
@@ -427,34 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
     },
     {
-      "rank": 10,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
       "rank": 11,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 12,
-      "title": "hate that i made you love me",
-      "artist": "Ariana Grande",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
-    },
-    {
-      "rank": 13,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
@@ -463,22 +445,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
-      "rank": 14,
-      "title": "It's a Heartache",
-      "artist": "Bonnie Tyler",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9f/f0/90/9ff090d4-ddf7-b89e-8630-5efdecacf651/5414939508370.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/a3/e7/e3a3e7b2-2bc1-5436-384a-559311c9ba7c/mzaf_3349608896113848569.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/its-a-heartache/1439423755?i=1439423832&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20It's%20a%20Heartache"
+      "rank": 12,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 14,
       "title": "Love Sensation (Afterhours Radio Edit)",
       "artist": "Madonna & Kylie Minogue",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b5/77/b6b577cb-45c7-1cc1-7d66-373eb1dc582f/054391210685.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/61/74/e5617434-7bbd-92fb-642e-d21263091209/mzaf_6828951088414367253.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/love-sensation-afterhours-radio-edit/6798373683?i=6798373695&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Kylie%20Minogue%20Love%20Sensation%20(Afterhours%20Radio%20Edit)"
+    },
+    {
+      "rank": 15,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
     }
   ],
   "movies": [
@@ -547,21 +547,21 @@
     },
     {
       "rank": 8,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
