@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:42:48.972Z",
+  "updated": "2026-08-18T14:34:39.722Z",
   "news": [
     {
       "title": "Mrs Brown's Boys Christmas specials cancelled after star breaks jaw",
@@ -68,6 +68,22 @@
   ],
   "sports": [
     {
+      "title": "Bruno Fernandes: Manchester United will reject any offer for captain amid Galatasaray interest",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5927/live/800367c0-9a3f-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/17/2026, 2:22:24 PM",
+      "desc": "Manchester United have no intention of selling captain Bruno Fernandes despite Turkish club Galatasaray being prepared to lodge a bid for the 31-year-old later this week."
+    },
+    {
+      "title": "2026 MLB Power Rankings: One Player To Watch On Every Team Down The Stretch",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-power-rankings-one-player-watch-every-team-down-stretch",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/lombard-16x9-1.jpg?ve=1&tl=1",
+      "published": "8/17/2026, 2:22:21 PM",
+      "desc": "With playoff spots still wide open, we pinpoint the key players to watch down the stretch, like Yankees rookie shortstop George Lombard Jr."
+    },
+    {
       "title": "Greatest Rivalry tour: New Zealand in South Africa is rugby's next chapter",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo",
@@ -122,14 +138,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a936/live/73a2a730-9a1b-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/17/2026, 9:22:22 AM",
       "desc": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy."
-    },
-    {
-      "title": "Manchester United: What shape are club in ahead of Michael Carrick's first full season in charge?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5ywwv3j1v1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e1b/live/9c5f7340-995f-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/17/2026, 8:37:22 AM",
-      "desc": "Positives, negatives and areas to address urgently - how are Michael Carrick's Manchester United shaping up now pre-season is over?"
     },
     {
       "title": "Amy Hunt: British sprint star enters stardom with quadruple gold at European Athletics Championships",
@@ -202,14 +210,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0817%2Fr1702835_1296x729_16%2D9.jpg",
       "published": "8/17/2026, 2:45:09 AM",
       "desc": "The Fever defeated the Dream 95-91 in overtime Sunday. It was a game with playoff implications, and the environment inside State Farm Arena felt like the postseason."
-    },
-    {
-      "title": "Remembering Tommy John: 5 Pitchers Who Redefined Career After Tommy John Surgery",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/five-mlb-pitchers-who-redefined-careers-after-tommy-john-surgery",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/justin-verlander-tarik-skubal.jpg?ve=1&tl=1",
-      "published": "8/17/2026, 2:37:18 AM",
-      "desc": "Here are five of the most impactful Tommy John surgery recoveries in baseball history."
     }
   ],
   "tech": [
@@ -280,6 +280,14 @@
   ],
   "education": [
     {
+      "title": "Observing teaching principles in school - Development and Validation of an Observation Protocol (OPTIS)",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355710",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0355710.g001&size=inline",
+      "published": "8/17/2026, 2:00:00 PM",
+      "desc": "Instructional quality seems to have a considerable impact on students’ achievements. Unpacking instructional quality through observation is an increasingly used method in educational research. Although a great variety of observational measurements for school …"
+    },
+    {
       "title": "White British Students Set to Become a Minority in UK Schools Within 10 Years, MP Warns",
       "source": "Breitbart News",
       "url": "https://www.breitbart.com/europe/2026/08/17/white-british-students-set-to-become-a-minority-in-uk-schools-within-10-years-mp-warns/",
@@ -334,14 +342,6 @@
       "image": "https://i.dailymail.com/1s/2026/08/11/14/wire-110563493-1786456728-629_1200x675.jpg",
       "published": "8/12/2026, 12:03:58 PM",
       "desc": "University of the Highlands and Islands"
-    },
-    {
-      "title": "University of York",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/university-guide/article-16031053/University-York.html",
-      "image": "https://i.dailymail.com/1s/2026/08/11/14/wire-110563025-1786455926-395_1200x675.jpg",
-      "published": "8/12/2026, 12:01:39 PM",
-      "desc": "University of York"
     }
   ],
   "music": [
@@ -493,33 +493,6 @@
     },
     {
       "rank": 2,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 3,
-      "title": "The End of Oak Street",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
-    },
-    {
-      "rank": 4,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 5,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -528,7 +501,25 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "rank": 5,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -537,7 +528,7 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
@@ -546,13 +537,22 @@
       "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
-      "rank": 8,
-      "title": "Moana",
+      "rank": 7,
+      "title": "Supergirl",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 9,
@@ -562,15 +562,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 10,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
