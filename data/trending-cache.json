@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-19T21:26:08.578Z",
+  "updated": "2026-08-19T22:25:47.120Z",
   "news": [
+    {
+      "title": "Andy Burnham received £345,000 of donations ahead of becoming PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c141d4l0mgko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b7/live/74e51b20-9b40-11f1-bd52-f9704e8e5c82.jpg",
+      "published": "8/18/2026, 10:22:24 PM",
+      "desc": "The prime minister lists his financial interests for the first time since returning to Parliament."
+    },
+    {
+      "title": "'Everyone in for Christmas' - Burnham's rough sleeping plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg",
+      "published": "8/18/2026, 10:07:23 PM",
+      "desc": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
+    },
+    {
+      "title": "Three dead after family get into difficulty in sea near Shoreham Port",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12c7/live/b5979a20-9b4b-11f1-a4d5-27953a73ef84.jpg",
+      "published": "8/18/2026, 10:07:20 PM",
+      "desc": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast."
+    },
     {
       "title": "Giant's Causeway: 10,000 rock damaging coins removed from landmark",
       "source": "BBC News",
@@ -34,36 +58,12 @@
       "desc": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?"
     },
     {
-      "title": "National Television Awards pick first all-female shortlist for drama acting award",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crk53pr44kjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14f5/live/ab00e3a0-9b05-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/18/2026, 2:07:21 PM",
-      "desc": "The five-strong list features Ella Bruccoleri, Sheridan Smith, Ruth Jones, Vicky McClure and Judy Parfitt."
-    },
-    {
-      "title": "Andy Burnham says he's not embarrassed about hoax message exchange",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90c6/live/30bb9840-9afd-11f1-a27d-25dca26018ed.jpg",
-      "published": "8/18/2026, 1:22:30 PM",
-      "desc": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump."
-    },
-    {
       "title": "One dead and hundreds ill in UK salmonella outbreak",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3f2/live/595da390-9af5-11f1-930b-57cfba7235f9.jpg",
       "published": "8/18/2026, 1:07:24 PM",
       "desc": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe."
-    },
-    {
-      "title": "British couple on honeymoon killed in helicopter crash on Greek island of Sifnos",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69fc/live/498b61f0-9adc-11f1-b2f7-5d1639b20e22.jpg",
-      "published": "8/18/2026, 9:37:22 AM",
-      "desc": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot."
     }
   ],
   "sports": [
@@ -529,15 +529,6 @@
     },
     {
       "rank": 6,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 7,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -546,13 +537,22 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 8,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 9,
