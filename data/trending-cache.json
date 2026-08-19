@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T09:35:04.818Z",
+  "updated": "2026-08-19T10:30:05.367Z",
   "news": [
     {
       "title": "Kildare: Officers told not to pursue car on motorway",
@@ -68,12 +68,20 @@
   ],
   "sports": [
     {
-      "title": "Pep Guardiola documentary: Kyle Walker fallout revealed in intense scenes",
+      "title": "Premier League to publish verdicts on referee and VAR decisions",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/095f/live/c3977850-9a49-11f1-a86b-519b4d19bbee.jpg",
-      "published": "8/18/2026, 9:37:22 AM",
-      "desc": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d48c/live/f65fe750-9ae3-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 10:22:22 AM",
+      "desc": "The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season."
+    },
+    {
+      "title": "Transfers latest: Newcastle sign Benfica defender Dedic on five-year deal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cqwymzxn3kjkt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/49fa/live/659154c0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 9:52:23 AM",
+      "desc": "Newcastle United complete signing of Bosnia and Herzegovina international defender Amar Dedic on five-year deal"
     },
     {
       "title": "David Warner: Former Australia batter convicted and fined for drink-driving",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ftf-thumbnail-.png?ve=1&tl=1",
       "published": "8/18/2026, 2:07:21 AM",
       "desc": "With Sunday’s Freedom 250 Grand Prix roaring through Washington, D.C., all eyes are on the victory circle. It has sparked endless creativity around what ultimate prize the champion will take home."
-    },
-    {
-      "title": "Diamondbacks Place Ketel Marte On Restricted List After No-Show Vs. Red Sox",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/ketel-marte-doesnt-show-up-for-game-and-is-placed-on-the-restricted-list-by-diamondbacks",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2274096762-scaled-e1787014253987.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 1:37:27 AM",
-      "desc": "The Arizona Diamondbacks have placed Ketel Marte on the restricted list after the All-Star infielder failed to show up for Monday night’s game against the Boston Red Sox."
     }
   ],
   "tech": [
@@ -421,7 +421,7 @@
       "rank": 9,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
