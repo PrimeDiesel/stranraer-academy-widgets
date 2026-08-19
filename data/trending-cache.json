@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-19T04:37:37.244Z",
+  "updated": "2026-08-19T05:31:33.551Z",
   "news": [
+    {
+      "title": "IVF staff accused of misleading UK parents about donors at northern Cyprus clinics",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "8/18/2026, 5:22:22 AM",
+      "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+    },
     {
       "title": "Fifa: Kevin Lamour sacked after criticising president Gianni Infantino",
       "source": "BBC News",
@@ -56,14 +64,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f7b/live/2ef74f10-9a65-11f1-a291-b542ee92de7c.jpg",
       "published": "8/17/2026, 8:52:26 PM",
       "desc": "Jason Arday's family spoke of the \"public cruelty\" the academic faced before his death last week."
-    },
-    {
-      "title": "Hayden Panettiere: Tributes paid to Heroes and Nashville actress who has died aged 36",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d23a/live/d8efa640-9a0e-11f1-a05c-fdd5e0ed226e.jpg",
-      "published": "8/17/2026, 6:07:33 PM",
-      "desc": "Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death."
     }
   ],
   "sports": [
@@ -214,6 +214,14 @@
   ],
   "tech": [
     {
+      "title": "Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive",
+      "image": "https://images.pushsquare.com/da16d96af6090/large.jpg",
+      "published": "8/18/2026, 2:57:56 AM",
+      "desc": "Zero'd"
+    },
+    {
       "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors",
       "source": "MacRumors",
       "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
@@ -230,12 +238,12 @@
       "desc": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and 10-in-1 Power Strip with 300J Surge Protector."
     },
     {
-      "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products - MacRumors",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
-      "image": "https://images.macrumors.com/t/FjfqHH3MWXjgiT_OwGtGYggG6Ig=/3000x/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
-      "published": "8/17/2026, 11:50:23 PM",
-      "desc": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads,..."
+      "url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
+      "image": "https://images.macrumors.com/t/1NjEBYIkMMwyq5jqMfdPxw9c_cY=/2500x/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "published": "8/17/2026, 10:09:51 PM",
+      "desc": "Apple today released the fourth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to..."
     },
     {
       "title": "The 12 biggest gaming flops of all time - Polygon.com",
@@ -254,28 +262,12 @@
       "desc": "This was the only Daytona personally owned by Carroll Shelby, and it shattered the previous mark of $22 million set by a 1935 Duesenberg SSJ in 2018."
     },
     {
-      "title": "What Time Is the Phantom Blade Zero State of Play? - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/guides/what-time-is-the-phantom-blade-zero-state-of-play",
-      "image": "https://images.pushsquare.com/cba4e9c650f67/large.jpg",
-      "published": "8/17/2026, 9:30:15 PM",
-      "desc": "Dates, times, and what to expect"
-    },
-    {
       "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/davidphelan/2026/08/17/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6910617ff53d41e477557bed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "8/17/2026, 9:21:47 PM",
       "desc": "As a new report asserts a date for the next Apple keynote. Here’s why I think it’s wrong and what’s really going on (with dates and times down to the second)."
-    },
-    {
-      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: 'It's Your Show, Wrap It Up' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
-      "image": "https://kotaku.com/app/uploads/2026/08/starcizitzen-1200x675.jpg",
-      "published": "8/17/2026, 8:59:33 PM",
-      "desc": "The Star Citizen Live stream featuring the Siege of Orison mission doesn't go well at all"
     }
   ],
   "education": [
@@ -356,21 +348,21 @@
     },
     {
       "rank": 2,
-      "title": "Marianne",
-      "artist": "Fontaines D.C.",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a3/2a/82a32a90-1495-1eb2-aeff-b75934a6863a/mzaf_17235782036692088121.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
-    },
-    {
-      "rank": 3,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 3,
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     },
     {
       "rank": 4,
@@ -421,7 +413,7 @@
       "rank": 9,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
@@ -455,15 +447,6 @@
     },
     {
       "rank": 13,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 14,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -472,13 +455,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 14,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
       "rank": 15,
-      "title": "hate that i made you love me",
-      "artist": "Ariana Grande",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/41/f3/0241f307-2ec2-f817-3953-78df5f80f63d/mzaf_525670659940588152.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/hate-that-i-made-you-love-me/1895420989?i=6763656876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me"
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     }
   ],
   "movies": [
