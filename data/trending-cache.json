@@ -1,9 +1,341 @@
 {
-  "updated": "2026-08-19T12:50:03.026Z",
-  "news": [],
-  "sports": [],
-  "tech": [],
-  "education": [],
+  "updated": "2026-08-19T13:44:39.127Z",
+  "news": [
+    {
+      "title": "Andy Burnham says he's not embarrassed about hoax message exchange",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90c6/live/30bb9840-9afd-11f1-a27d-25dca26018ed.jpg",
+      "published": "8/18/2026, 1:22:30 PM",
+      "desc": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump."
+    },
+    {
+      "title": "Wetherspoons bans customers playing music from phones in pubs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg",
+      "published": "8/18/2026, 1:07:29 PM",
+      "desc": "The pub chain says the decision follows complaints about \"other people's videos and amplified phone conversations\"."
+    },
+    {
+      "title": "One dead and hundreds ill in UK salmonella outbreak",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3f2/live/595da390-9af5-11f1-930b-57cfba7235f9.jpg",
+      "published": "8/18/2026, 1:07:24 PM",
+      "desc": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe."
+    },
+    {
+      "title": "Man charged with sharing asylum seeker addresses in Thetford",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e065/live/4075a3a0-34ae-11ef-8557-bbe6d78d7b76.jpg",
+      "published": "8/18/2026, 11:07:22 AM",
+      "desc": "The 62-year-old man is remanded in custody and will appear at Norwich Crown Court on 14 September."
+    },
+    {
+      "title": "Kildare: Officers told not to pursue car on motorway",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj036d6vj09o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/977c/live/a398c2e0-9ae2-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 9:37:26 AM",
+      "desc": "The Garda Representative Association said officers were given a command to \"disengage\" with the car after it took \"evasive action\"."
+    },
+    {
+      "title": "British couple on honeymoon killed in helicopter crash on Greek island of Sifnos",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69fc/live/498b61f0-9adc-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 9:37:22 AM",
+      "desc": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot."
+    },
+    {
+      "title": "Hayden Panettiere: Ex Wladimir Klitschko says family is in 'profound shock and grief'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 9:22:17 AM",
+      "desc": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+    },
+    {
+      "title": "IVF staff accused of misleading UK parents about donors at northern Cyprus clinics",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "8/18/2026, 5:22:22 AM",
+      "desc": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Los Angeles Lakers: Jeanie Buss seeks to block sale of family's 17.8% stake",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46f6/live/20058780-9afe-11f1-a27d-25dca26018ed.jpg",
+      "published": "8/18/2026, 1:52:21 PM",
+      "desc": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of her family's remaining stake in the NBA franchise."
+    },
+    {
+      "title": "England v Pakistan: Joe Root calls on team-mates to be 'good human beings' at start of second captaincy reign",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c80n49j85dxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d27d/live/079cff60-9b04-11f1-b792-a710e56a11dc.jpg",
+      "published": "8/18/2026, 1:37:18 PM",
+      "desc": "Joe Root calls on his England players to be \"really good role models and human beings\" at the start of his second reign as Test captain."
+    },
+    {
+      "title": "Falcons sign veteran Za'Darius Smith to aid pass rush - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49648078/falcons-sign-veteran-zadarius-smith-bolster-pass-rush",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1013%2Fr1559593_1296x729_16%2D9.jpg",
+      "published": "8/18/2026, 1:27:36 PM",
+      "desc": "Za'Darius Smith has signed a one-year deal with the Falcons to help bolster their pass rush after losing Jalon Walker and James Pearce Jr. for an extended period."
+    },
+    {
+      "title": "Roger Goodell says 'no doubt' NFL will have team based outside U.S. - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49647809/roger-goodell-says-no-doubt-nfl-team-based-us",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0526%2Fr1663965_1296x729_16%2D9.jpg",
+      "published": "8/18/2026, 12:43:16 PM",
+      "desc": "Roger Goodell says it is inevitable that the NFL will eventually have a team permanently based outside the United States."
+    },
+    {
+      "title": "Enzo Fernandez: Is possible Man City move this year's Isak to Liverpool?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4ef6/live/9c1d9e80-9a3f-11f1-ae41-df15e7357ff6.jpg",
+      "published": "8/18/2026, 11:07:20 AM",
+      "desc": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea."
+    },
+    {
+      "title": "David Warner: Former Australia batter convicted and fined for drink-driving",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c8dn353gjryo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03bf/live/1a70e7e0-9ad3-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/18/2026, 8:22:30 AM",
+      "desc": "Former Australia batter David Warner is convicted and fined for drink-driving following a random breath test in April."
+    },
+    {
+      "title": "Newcastle transfer news: Club sign Amar Dedic from Benfica for around £30m",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czekzxd09zlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a94e/live/6dc4a2a0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
+      "published": "8/18/2026, 8:22:28 AM",
+      "desc": "Newcastle United sign defender Amar Dedic from Benfica for around £30m."
+    },
+    {
+      "title": "FPL 2026-27: Haaland fitness, Rogers or Palmer - five key questions for FPL managers",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cn0np755k4wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b09f/live/205992d0-97fc-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/18/2026, 7:52:20 AM",
+      "desc": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline."
+    },
+    {
+      "title": "Andrew Benson's F1 Q&A: What's going on at Cadillac and Haas? - F1 Q&A",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/62d1/live/a9183fd0-97cb-11f1-a927-0dfab640b8c9.jpg",
+      "published": "8/18/2026, 7:22:23 AM",
+      "desc": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix."
+    },
+    {
+      "title": "Premier League Golden Boot: Who could rival Erling Haaland for award?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd0d/live/02d7e550-9184-11f1-9587-294e25c71c14.jpg",
+      "published": "8/18/2026, 7:07:20 AM",
+      "desc": "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?"
+    },
+    {
+      "title": "Cincinnati Open: Serena and Venus Williams beaten on doubles return",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg",
+      "published": "8/18/2026, 7:07:17 AM",
+      "desc": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years."
+    },
+    {
+      "title": "Premier League 2026-27: Players to watch in the new season",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1l197j4gvro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a28/live/57dd5980-9a63-11f1-b792-a710e56a11dc.jpg",
+      "published": "8/18/2026, 6:22:15 AM",
+      "desc": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season."
+    },
+    {
+      "title": "Pete Crow-Armstrong's two homers fuel Chicago Cubs' victory - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49645439/pete-crow-armstrong-two-homers-fuel-chicago-cubs-victory",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703287_1296x729_16%2D9.jpg",
+      "published": "8/18/2026, 5:26:24 AM",
+      "desc": "Centerfielder and MVP candidate Pete Crow-Armstrong launched two home runs -- to lead off the game and to walk it off hours later -- as the Chicago Cubs authored a 7-5, 10-inning victory over the rival Chicago White Sox at Wrigley Field on Monday night."
+    },
+    {
+      "title": "WR Keenan Allen Back For Another Year, Will Reportedly Sign With Colts",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/keenan-allen-reportedly-signs-indianapolis-colts",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/allen.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 4:22:26 AM",
+      "desc": "Keenan Allen isn't ready to call it a career just yet. The six-time Pro Bowler is set to return for his 14th NFL season."
+    },
+    {
+      "title": "Shohei Ohtani Hits 2 Homers In Dodgers' 11-Run Rout Of Rockies",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/shohei-ohtani-hits-2-homers-dodgers-11-run-rout-rockies",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/4f48c791-dodgers1.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 4:22:25 AM",
+      "desc": "Shohei Ohtani homered twice to help spark a slumping Dodgers offense."
+    },
+    {
+      "title": "Pete Crow-Armstrong Joins 30-30 Club With Walk-Off Home Run Against White Sox",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/pete-crow-armstrong-joins-30-30-club-walk-off-home-run-against-white-sox",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/pca-1.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 4:22:24 AM",
+      "desc": "Pete Crow-Armstrong hit his first career walk-off homer, a two-run shot in the 10th inning, and the Chicago Cubs rallied for a 7-5 win over the crosstown White Sox at Wrigley Field."
+    },
+    {
+      "title": "NFL Catchup: Rams Stars Sidelined, Cowboys Eye DB Depth, More Injury Updates",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-garrett-remains-sidelined-cowboys-eye-db-depth-more-injury-updates",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/myles-garrett.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 3:52:21 AM",
+      "desc": "Here's what you should know about what happened in the NFL on Monday."
+    },
+    {
+      "title": "Reports: WR Keenan Allen agrees to one-year deal with Colts - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49644692/reports-wr-keenan-allen-agrees-one-year-deal-colts",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0102%2Fr1595857_1296x729_16%2D9.jpg",
+      "published": "8/18/2026, 3:25:08 AM",
+      "desc": "Keenan Allen has agreed to a one-year deal worth up to $8.32 million with the Colts, according to multiple reports."
+    }
+  ],
+  "tech": [
+    {
+      "title": "New Apple TV 4K to have upgraded Siri Remote, per leak - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/18/2026, 1:29:00 PM",
+      "desc": "A new Apple TV 4K is launching soon, and an Apple code leak uncovered by MacRumors indicates a new Siri Remote is coming too."
+    },
+    {
+      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "image": "",
+      "published": "8/18/2026, 1:27:24 PM",
+      "desc": ""
+    },
+    {
+      "title": "These 10 Games Are Coming To Xbox Game Pass (August 18 - September 1) - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/08/these-10-games-are-coming-to-xbox-game-pass-august-18-september-1",
+      "image": "",
+      "published": "8/18/2026, 1:08:00 PM",
+      "desc": ""
+    },
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+      "published": "8/18/2026, 1:00:04 PM",
+      "desc": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+    },
+    {
+      "title": "Aliens: Fireteam Elite 2 reveals a much simpler list of Xbox achievements than its predecessor - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/aliens-fireteam-elite-2-xbox-achievements-revealed",
+      "image": "https://www.trueachievements.com/imgs/177610/aliens-fireteam-elite-2-xbox-achievements.jpg",
+      "published": "8/18/2026, 11:42:02 AM",
+      "desc": "The Aliens: Fireteam Elite 2 Xbox achievements have been revealed, and the list looks to be far more forgiving than its predecessor."
+    },
+    {
+      "title": "Fairphone Is Finally Selling Its Repairable Phone in the US - WIRED",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "image": "https://media.wired.com/photos/6a834ef61807e061ff4c4b86/191:100/w_1280,c_limit/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg",
+      "published": "8/18/2026, 10:30:00 AM",
+      "desc": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+)."
+    },
+    {
+      "title": "Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/fallout-4-creations-update-mods-breaking",
+      "image": "https://assetsio.gnwcdn.com/fallout-4-update.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/18/2026, 10:12:06 AM",
+      "desc": "Fallout 4 players on PC are bracing for a period of pain as Bethesda announces a new patch for the game."
+    }
+  ],
+  "education": [
+    {
+      "title": "Medly AI raises $8m to put an AI tutor in front of every UK exam student",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/medly-ai-8m-seed-felix-capital-gcse-tutoring",
+      "image": "https://media.thenextweb.com/2026/08/Medly-AI-cofounders.jpg",
+      "published": "8/18/2026, 8:00:34 AM",
+      "desc": "Sometimes the most genuine projects emerge from gaps we identify in our own lives or in the society around us. And maybe this should be our focus as a society: to use all the technology at our disposal to solve problems that were almost impossible to address …"
+    },
+    {
+      "title": "Ensure a top-class education for your child",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/life-style/ensure-a-top-class-education-for-your-child-b3034138.html",
+      "image": "https://static.the-independent.com/2026/08/17/9/18/Ensure-a-top-class-education-for-your-child.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "published": "8/17/2026, 4:05:27 PM",
+      "desc": "From award-winning schools to expert private tutors, there are countless education providers at home and abroad – we’ve curated a list of the best to help you carve the right path for your child"
+    },
+    {
+      "title": "Observing teaching principles in school - Development and Validation of an Observation Protocol (OPTIS)",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355710",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0355710.g001&size=inline",
+      "published": "8/17/2026, 2:00:00 PM",
+      "desc": "Instructional quality seems to have a considerable impact on students’ achievements. Unpacking instructional quality through observation is an increasingly used method in educational research. Although a great variety of observational measurements for school …"
+    },
+    {
+      "title": "White British Students Set to Become a Minority in UK Schools Within 10 Years, MP Warns",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/europe/2026/08/17/white-british-students-set-to-become-a-minority-in-uk-schools-within-10-years-mp-warns/",
+      "image": "https://media.breitbart.com/media/2026/08/GettyImages-3382454-1-640x335.jpg",
+      "published": "8/17/2026, 10:46:13 AM",
+      "desc": "An analysis of public data conducted by a Member of Parliament has found that White British students are set to become a minority in UK classrooms within a decade.\nThe post White British Students Set to Become a Minority in UK Schools Within 10 Years, MP Warn…"
+    },
+    {
+      "title": "Raising them right: Down with school uniforms; let the kids dress like kids",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/readme/parenting-and-back-to-school-7130467-Aug2026/",
+      "image": "https://img2.thejournal.ie/article/7130467/river/?height=400&version=7130473",
+      "published": "8/17/2026, 6:00:35 AM",
+      "desc": "Uniforms are supposed to improve behaviour, prevent bullying and level the playing field, but I’m not convinced, writes Niamh O’Reilly."
+    },
+    {
+      "title": "A-level results: key takeaways for language learning",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/a-level-results-key-takeaways-for-language-learning-287913",
+      "image": "https://images.theconversation.com/files/753522/original/file-20260812-50-qp2lfe.jpg?ixlib=rb-4.1.1&rect=0%2C499%2C5980%2C2990&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published": "8/13/2026, 9:35:35 AM",
+      "desc": "Combined A-level entries in French, German and Spanish rose slightly in absolute terms in England, Northern Ireland and Wales."
+    },
+    {
+      "title": "Pupils celebrate best-ever A-level results as more than one in four get at least an A and boys extend lead above girls in the top grades",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16047747/Pupils-celebrate-best-level-results.html",
+      "image": "https://i.dailymail.com/1s/2026/08/13/09/110608717-0-image-m-23_1786608379128.jpg",
+      "published": "8/13/2026, 8:31:01 AM",
+      "desc": "Outside of the Covid years of 2020-2022, when grades were vastly inflated due to teacher assessment, today's grades are the highest proportion on record."
+    },
+    {
+      "title": "Every university in Britain ranked from best to worst: Our definitive interactive Clearing guide for 2026 scores 128 institutions on every subject, student life, graduate jobs and future earnings. Read it only here...",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/university-guide/article-16044857/definitive-university-clearing-guide-Britain-best-worst-interactive.html",
+      "image": "https://i.dailymail.com/1s/2026/08/12/16/110594601-0-image-a-8_1786549778239.jpg",
+      "published": "8/12/2026, 4:15:23 PM",
+      "desc": "Are you looking for a place at university through Clearing? The Daily Mail's definitive, interactive Clearing Guide can help."
+    }
+  ],
   "music": [
     {
       "rank": 1,
@@ -72,7 +404,7 @@
       "rank": 8,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/300x300bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
