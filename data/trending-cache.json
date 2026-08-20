@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:41:52.825Z",
+  "updated": "2026-08-20T08:39:24.626Z",
   "news": [
     {
       "title": "Deaf patient given wrong jab due to sign language error, report says",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "Harry Kane ready to begin talks over new Bayern Munich contract",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7361/live/1f01f500-9b10-11f1-9341-0383083a41e3.jpg",
+      "published": "8/19/2026, 8:37:17 AM",
+      "desc": "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions."
+    },
+    {
+      "title": "Transfers latest: Ollie Watkins and Harry Kane linked with Al-Hilal, Villa agree Aaron Wan-Bissaka deal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmdew0krpxklt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d3c/live/336e2a50-9b9b-11f1-b109-879e35c24276.png",
+      "published": "8/19/2026, 7:52:16 AM",
+      "desc": "All the latest transfer news as Ollie Watkins and Harry Kane are linked with Al-Hilal, while Aston Villa agree a deal for Aaron Wan-Bissaka."
+    },
     {
       "title": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
       "source": "BBC Sport",
@@ -194,22 +210,6 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0428%2Fr1650225_1296x729_16%2D9.jpg",
       "published": "8/19/2026, 12:54:16 AM",
       "desc": "With LIV Golf's future still murky, players met with CEO Scott O'Neil and the league's proposed new investor on Tuesday for about 50 minutes, and while some claimed progress was made, others were noncommittal."
-    },
-    {
-      "title": "2026 MLB Odds: Dodgers Favored In World Series Exact Results",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-dodgers-favored-world-series-exact-results",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/snell-812.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 12:22:32 AM",
-      "desc": "Will the Dodgers make the World Series? And if so, who will they meet there? See the latest odds."
-    },
-    {
-      "title": "College Football's Top 10: Comparing RJ Young's, Joel Klatt's Rankings vs. AP Top 25",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/rankings-top-10-ap-138-klatt-indiana-michigan-notre-dame",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/7cc7d903-ohio-state_indiana.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 12:22:31 AM",
-      "desc": "How the top-10 CFB teams in RJ Young's ultimate 138 compare to Joel Klatt's top-10 teams."
     }
   ],
   "tech": [
@@ -582,15 +582,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 3,
-      "title": "SpongeBob SquarePants",
-      "year": "1999",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "url": "https://www.themoviedb.org/tv/387"
     }
   ]
 }
