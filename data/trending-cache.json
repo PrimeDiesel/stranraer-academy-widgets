@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-20T11:27:04.471Z",
+  "updated": "2026-08-20T12:51:16.043Z",
   "news": [
     {
-      "title": "How one man gets new laws passed - again and again",
+      "title": "OpenAI slows down training of advanced AI after cyber-attack",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4kn44l8lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8077/live/5a45c1d0-7623-11f1-9cba-11a4f8930054.jpg",
-      "published": "8/19/2026, 11:07:21 AM",
-      "desc": "Ron Bailey has been quietly changing the law for the past 40 years - how does he do it?"
+      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
+      "published": "8/19/2026, 12:52:23 PM",
+      "desc": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place."
+    },
+    {
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+      "published": "8/19/2026, 12:37:22 PM",
+      "desc": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+    },
+    {
+      "title": "Spared execution eight times, US's oldest inmate dies at 101",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
+      "published": "8/19/2026, 12:07:22 PM",
+      "desc": "Francis Smith was one of a growing number of elderly people who are incarcerated."
     },
     {
       "title": "Yellow thunderstorm warnings issued for parts of UK by Met Office",
@@ -34,14 +50,6 @@
       "desc": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
     },
     {
-      "title": "Competition for degree apprenticeships quadruples in three years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg374p4e24o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bab3/live/dc97e4c0-9800-11f1-870d-5d08c49babb2.jpg",
-      "published": "8/19/2026, 5:37:24 AM",
-      "desc": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny."
-    },
-    {
       "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo",
@@ -56,17 +64,17 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg",
       "published": "8/19/2026, 1:07:15 AM",
       "desc": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app."
-    },
-    {
-      "title": "Children's stunted lungs show recovery in ultra low emission zone",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/19/2026, 12:37:20 AM",
-      "desc": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows."
     }
   ],
   "sports": [
+    {
+      "title": "Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c1416keng1po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be00/live/b648b050-9bbc-11f1-ae8a-8d57110c5ba6.jpg",
+      "published": "8/19/2026, 12:37:25 PM",
+      "desc": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules."
+    },
     {
       "title": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
       "source": "BBC Sport",
@@ -74,6 +82,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ee82/live/c74e6780-9b96-11f1-b109-879e35c24276.jpg",
       "published": "8/19/2026, 11:22:22 AM",
       "desc": "Aryna Sabalenka needs just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev's frustrations boil over after he misses three match points in surprise defeat."
+    },
+    {
+      "title": "Ex-Wimbledon finalist Kyrgios says he tested positive for cocaine - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49657802/ex-wimbledon-finalist-kyrgios-says-tested-positive-cocaine",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0702%2Fr1193111_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 11:07:56 AM",
+      "desc": "Former Wimbledon finalist Nick Kyrgios revealed on Wednesday he tested positive for cocaine and was provisionally suspended from tennis."
     },
     {
       "title": "Man Utd transfer news: Brighton midfielder Carlos Baleba close to Old Trafford move",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/saints-cowboys-1.jpg?ve=1&tl=1",
       "published": "8/19/2026, 1:37:15 AM",
       "desc": "The Dallas Cowboys and New Orleans Saints held a joint training camp practice on Tuesday that featured at least six separate physical altercations between the two teams."
-    },
-    {
-      "title": "From Cancer Survivor To World Series Champion: Trey Mancini Announces Retirement",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/from-cancer-survivor-world-series-champion-trey-mancini-announces-retirement",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/os.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 1:22:21 AM",
-      "desc": "Trey Mancini, the AL Comeback Player of the Year in 2021 for his return from colon cancer who then helped Houston win the 2022 World Series, announced his retirement Tuesday after his latest comeback lasted five games with the Los Angeles Angels."
-    },
-    {
-      "title": "Multiple brawls mar Saints-Cowboys joint practice session - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49653675/multiple-brawls-mar-saints-cowboys-joint-practice-session",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0224%2Fr1619399_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 1:18:59 AM",
-      "desc": "The Cowboys and Saints had so many fights during their joint session Tuesday that the coaches of each team discussed whether they needed to cancel the practice."
     }
   ],
   "tech": [
@@ -365,15 +365,6 @@
     },
     {
       "rank": 3,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 4,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -382,16 +373,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 5,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "rank": 4,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -400,22 +391,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
+      "rank": 6,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
       "rank": 7,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 8,
       "title": "Marianne",
       "artist": "Fontaines D.C.",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
-    },
-    {
-      "rank": 8,
-      "title": "BiiiG",
-      "artist": "BIGBANG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
     },
     {
       "rank": 9,
@@ -428,30 +428,30 @@
     },
     {
       "rank": 10,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 11,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 12,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 11,
+      "title": "BiiiG",
+      "artist": "BIGBANG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
+    },
+    {
+      "rank": 12,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
       "rank": 13,
@@ -464,41 +464,41 @@
     },
     {
       "rank": 14,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
       "rank": 15,
-      "title": "Tastes Like Summer",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 3,
