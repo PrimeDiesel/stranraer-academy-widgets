@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-20T14:37:05.820Z",
+  "updated": "2026-08-20T15:36:04.172Z",
   "news": [
+    {
+      "title": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9430/live/d82d7ee0-9ba7-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/19/2026, 3:07:28 PM",
+      "desc": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
+    },
     {
       "title": "Train track defect found before Lewes derailment, report says",
       "source": "BBC News",
@@ -8,14 +16,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg",
       "published": "8/19/2026, 2:37:23 PM",
       "desc": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes."
-    },
-    {
-      "title": "Palestine Action: Jury discharged in Elbit Bristol raid trial",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk657dky1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2a6/live/fe771210-85e4-11f1-8ade-a7a676c613b9.jpg",
-      "published": "8/19/2026, 2:22:20 PM",
-      "desc": "The jury at the Old Bailey is discharged after 37 hours of deliberations."
     },
     {
       "title": "Emma Barnett: Broadcaster reveals she had hysterectomy after making film about endometriosis",
@@ -66,216 +66,71 @@
       "desc": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday."
     }
   ],
-  "sports": [
-    {
-      "title": "Arsenal transfer news: Ezri Konsa deal agreed with Aston Villa for £50m-plus",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg",
-      "published": "8/19/2026, 2:22:24 PM",
-      "desc": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa."
-    },
-    {
-      "title": "Man Utd's pursuit of Brighton's Carlos Baleba as a 'third midfielder'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/clylk1wexgno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/278b/live/236ff2e0-9bd3-11f1-bb4d-1147ef2e78e5.jpg",
-      "published": "8/19/2026, 2:07:27 PM",
-      "desc": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad."
-    },
-    {
-      "title": "Sources: Giants agree to trade Daniel Faalele to Jaguars - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49659019/sources-giants-agree-trade-daniel-faalele-jaguars",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703847_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 1:54:54 PM",
-      "desc": "The Giants are trading guard Daniel Faalele to the Jaguars for an undisclosed late-round 2027 draft pick, sources confirmed to ESPN."
-    },
-    {
-      "title": "Source: Saints RB Kamara out at least 1 month with MCL sprain - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49658952/source-saints-rb-kamara-least-month-mcl-sprain",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0722%2Fr1692272_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 1:47:01 PM",
-      "desc": "Saints RB Alvin Kamara is expected to be sidelined for at least the next month due to a sprained MCL, a source told ESPN's Adam Schefter."
-    },
-    {
-      "title": "Fantasy Premier League: Five tips from last season's FPL champion",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3ekq87e214o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9039/live/99b07210-9a1e-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/19/2026, 1:22:27 PM",
-      "desc": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen."
-    },
-    {
-      "title": "Ruby Tui: Trailfinders Women sign New Zealand great on one-year deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg",
-      "published": "8/19/2026, 1:22:25 PM",
-      "desc": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women."
-    },
-    {
-      "title": "Real Madrid manager Jose Mourinho told Vinicius Jr it was not worth leaving Spanish club",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/02a3/live/8909c650-9bae-11f1-92e6-b1dfcecd4308.jpg",
-      "published": "8/19/2026, 1:22:21 PM",
-      "desc": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club."
-    },
-    {
-      "title": "Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c1416keng1po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be00/live/b648b050-9bbc-11f1-ae8a-8d57110c5ba6.jpg",
-      "published": "8/19/2026, 12:37:25 PM",
-      "desc": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules."
-    },
-    {
-      "title": "Ex-Wimbledon finalist Kyrgios says he tested positive for cocaine - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49657802/ex-wimbledon-finalist-kyrgios-says-tested-positive-cocaine",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0702%2Fr1193111_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 11:07:56 AM",
-      "desc": "Former Wimbledon finalist Nick Kyrgios revealed on Wednesday he tested positive for cocaine and was provisionally suspended from tennis."
-    },
-    {
-      "title": "'Drumbeat' players: Believe the buzz surrounding Justin Herbert, Carnell Tate and more - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49611029/2026-fantasy-football-rankings-breakouts-drumbeat-players",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701987_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 11:00:00 AM",
-      "desc": "Liz Loza identifies six players generating excitement who could eventually turn into league winners."
-    },
-    {
-      "title": "England vs Pakistan LIVE: First Test, day one, Headingley - cricket score, radio & video highlights",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/live/cj0vmzpve57t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5be5/live/29a64d30-9bb0-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/19/2026, 9:37:21 AM",
-      "desc": "England play Pakistan in the first Test at Headingley - follow live text updates, radio commentary and in-play video highlights."
-    },
-    {
-      "title": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9430/live/d82d7ee0-9ba7-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/19/2026, 8:52:21 AM",
-      "desc": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
-    },
-    {
-      "title": "Formula 1: Kimi Antonelli - the boy 'born in a garage' and made on the track",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
-      "published": "8/19/2026, 6:37:22 AM",
-      "desc": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19."
-    },
-    {
-      "title": "Premier League predictions: Phil McNulty previews new season",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eaee/live/8a1167d0-9ae9-11f1-930b-57cfba7235f9.jpg",
-      "published": "8/19/2026, 6:07:23 AM",
-      "desc": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions."
-    },
-    {
-      "title": "Brewers Match Baseball’s Modern-Era Record For Biggest Shutout With 22-0 Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/brewers-match-baseballs-modern-era-record-biggest-shutout-beating-mariners-22-0",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/brewers1.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 4:22:24 AM",
-      "desc": "The Milwaukee Brewers matched baseball’s modern-era record for the biggest shutout, beating the Seattle Mariners 22-0 on Tuesday night behind three-run homers from Christian Yelich, David Hamilton and Luis Lara and a two-run shot by Jake Bauers"
-    },
-    {
-      "title": "NFL Catchup: Cowboys-Saints Fights, A Christian McCaffrey Update & Deals Were Made",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-cowboys-saints-fights-christian-mccaffrey-update-deals-were-made",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/christian-mccaffrey-catchup.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 3:07:23 AM",
-      "desc": "Here's what you should know about what happened in the NFL on Tuesday."
-    },
-    {
-      "title": "Brewers tie largest shutout since 1900 with 22-0 win over M's - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49654440/brewers-tie-largest-shutout-1900-22-0-win-ms",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703707_1024x576_16%2D9.jpg",
-      "published": "8/19/2026, 2:53:34 AM",
-      "desc": "The Brewers matched baseball's modern-era record for the largest shutout in MLB history, beating the Mariners 22-0 on Tuesday night."
-    },
-    {
-      "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/chargers-torch-49ers-4-takeaways-from-san-francisco-los-angeles-joint-practice",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/chargers-49ers-takeaways.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 2:37:18 AM",
-      "desc": "Justin Herbert and Chargers had their way with the 49ers on Tuesday, but it wasn't all sunshine and roses for Los Angeles."
-    }
-  ],
+  "sports": [],
   "tech": [
     {
-      "title": "Feeling restless? Level up your life by starting a side quest - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+500/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2Fdb%2Fb86df50f4db8b462b69cd049c4c2%2Fgettyimages-2112446687.jpg",
-      "published": "8/19/2026, 9:02:00 AM",
-      "desc": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
+      "title": "6 Ways PS5's Tides of Annihilation Blew Me Away After 2 Hours of Play - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play",
+      "image": "https://images.pushsquare.com/b32a319cd0065/large.jpg",
+      "published": "8/19/2026, 1:00:00 PM",
+      "desc": "The tide is high-ly impressive"
     },
     {
-      "title": "With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-9-scaled.jpg",
-      "published": "8/19/2026, 9:00:00 AM",
-      "desc": "Pixels used to be one of the best deals in flagship Android phones. But with the Pixel 11 series, that chapter has officially closed."
+      "title": "PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/playstation-reboots-horizon-hunters-gathering-as-live-service-strategy-struggles",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNFP8m8svgo/v1/1200x675.jpg",
+      "published": "8/19/2026, 12:24:54 PM",
+      "desc": "The Japanese gaming titan has canceled or rebooted most of its live-service multiplayer projects in recent years"
     },
     {
-      "title": "Gboard Rambler has a usage limit, and here's what happens when you reach it (Update) - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gboard-rambler-usage-limit-3699660/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2022/07/Gboard-stock-photo-4.jpg",
-      "published": "8/19/2026, 4:05:00 AM",
-      "desc": "Gboard's upcoming Rambler feature has a usage limit, but what happens when you reach it? Google has revealed the answer."
+      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6 - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
+      "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance%2B-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/19/2026, 11:59:42 AM",
+      "desc": "The Binding of Isaac: Repentance + Online is one of a very few games brave enough to have the same release date as GTA 6."
     },
     {
-      "title": "Googlebooks are finally getting their big reveal on September 15 - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/googlebook-launch-date-3700141/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg",
-      "published": "8/19/2026, 3:57:00 AM",
-      "desc": "Google is reportedly hosting its official Googlebook launch event in New York City on September 15, where it'll show hardware from launch partners."
+      "title": "Wolverine PS5 Consoles, Accessories Available to Pre-Order Now - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/wolverine-ps5-consoles-accessories-available-to-pre-order-now",
+      "image": "https://images.pushsquare.com/810116d314f40/large.jpg",
+      "published": "8/19/2026, 11:30:00 AM",
+      "desc": "Console Covers for PS5 Pro already sold out"
     },
     {
-      "title": "Into the Dead: Our Darkest Days launches in March 2027 for PS5, Xbox Series, Switch 2, and PC - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/08/into-the-dead-our-darkest-days-launches-in-march-2027-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Into-the-Dead-Our-Darkest-Days_08-18-26.jpg",
-      "published": "8/18/2026, 11:16:35 PM",
-      "desc": "Zombie shelter survival game Into the Dead: Our Darkest Days will leave Early Access and launch for PlayStation 5, Xbox Series, Switch 2, and PC via Steam and Epic Games Store in March 2027, develo…"
-    },
-    {
-      "title": "Vibes Around GTA VI Continue To Be Rancid As Gameplay Footage Leaks And Fired Devs Ask Fans Not To Boycott - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/gta-6-leak-2026-rockstar-union-no-boycott/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/gta68.jpg",
-      "published": "8/18/2026, 11:04:39 PM",
-      "desc": "Nothing about GTA VI's launch can be normal"
-    },
-    {
-      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
-      "image": "https://images.macrumors.com/t/DaKqFvrp9SeA-PSVk2VPrQ7QXog=/2500x/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "published": "8/18/2026, 10:58:41 PM",
-      "desc": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones..."
-    },
-    {
-      "title": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981739/claude-gmail-google-drive-connector-cowork-mobile-web",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/778273589_17980259259118227_5377280649389143563_n.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "8/18/2026, 10:53:36 PM",
+      "title": "NVIDIA GeForce NOW adds official Firefox support, up to 1440p 120 FPS - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/nvidia-geforce-now-adds-official-firefox-support-up-to-1440p-120-fps",
+      "image": "",
+      "published": "8/19/2026, 11:19:49 AM",
       "desc": ""
+    },
+    {
+      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-leak.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/19/2026, 10:49:16 AM",
+      "desc": "Grand Theft Auto 6 has seemingly suffered another gameplay leak ahead of an Extended Look premiere on Netflix next week."
+    },
+    {
+      "title": "4 Cool New Anker Accessories You Should Check Out In 2026 - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2236562/cool-new-anker-accessories-2026/",
+      "image": "https://www.bgr.com/img/gallery/4-cool-new-anker-accessories-you-should-check-out-in-2026/l-intro-1786576840.jpg",
+      "published": "8/19/2026, 10:17:00 AM",
+      "desc": "The cool new Anker accessories for 2026 blow up the idea that chargers are boring. Among the goodies are a multi-use docking station and a wireless charger."
+    },
+    {
+      "title": "Gran Turismo 7 Update Confirmed for August 20: Three Performance Sedans, Caterham Returns - GTPlanet",
+      "source": "GTPlanet",
+      "url": "https://www.gtplanet.net/gran-turismo-7-update-confirmed-20260819/",
+      "image": "https://www.gtplanet.net/wp-content/uploads/2026/08/gt7-gameupdate-171-001-20260819.jpg",
+      "published": "8/19/2026, 9:46:15 AM",
+      "desc": "After an unexpectedly longer wait for more information, we’ve now got confirmation that the next content update for Gran Turismo 7 lands on Thursday, August 20, along with details on some of its contents..."
     }
   ],
   "education": [
@@ -365,6 +220,15 @@
     },
     {
       "rank": 3,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 4,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -373,7 +237,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -382,22 +246,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 6,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 7,
@@ -419,15 +274,6 @@
     },
     {
       "rank": 9,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 10,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
@@ -436,16 +282,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
     },
     {
-      "rank": 11,
-      "title": "BiiiG",
-      "artist": "BIGBANG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
+      "rank": 10,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
@@ -454,13 +300,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 13,
+      "title": "BiiiG",
+      "artist": "BIGBANG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
     },
     {
       "rank": 14,
@@ -473,12 +328,12 @@
     },
     {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     }
   ],
   "movies": [
@@ -567,21 +422,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
