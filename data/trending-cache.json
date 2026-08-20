@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-19T23:23:20.007Z",
+  "updated": "2026-08-20T01:16:31.037Z",
   "news": [
+    {
+      "title": "Mobile payments on the rise but cash decline slows",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
+      "published": "8/19/2026, 1:07:27 AM",
+      "desc": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows."
+    },
+    {
+      "title": "Deaf patient given wrong jab due to sign language error, report says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg",
+      "published": "8/19/2026, 1:07:20 AM",
+      "desc": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods."
+    },
+    {
+      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg",
+      "published": "8/19/2026, 1:07:15 AM",
+      "desc": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app."
+    },
+    {
+      "title": "Children's stunted lungs show recovery in ultra low emission zone",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 12:37:20 AM",
+      "desc": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows."
+    },
+    {
+      "title": "Queen admits it was 'difficult' to keep King's cancer diagnosis a secret",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae2/live/79fbe090-9b5d-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/19/2026, 12:07:27 AM",
+      "desc": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis."
+    },
     {
       "title": "Newspaper headlines: 'Look at my husband' and 'Vlad plots revenge'",
       "source": "BBC News",
@@ -24,49 +64,89 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg",
       "published": "8/18/2026, 10:07:23 PM",
       "desc": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
-    },
-    {
-      "title": "Three dead after family get into difficulty in sea near Shoreham Port",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12c7/live/b5979a20-9b4b-11f1-a4d5-27953a73ef84.jpg",
-      "published": "8/18/2026, 10:07:20 PM",
-      "desc": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast."
-    },
-    {
-      "title": "Giant's Causeway: 10,000 rock damaging coins removed from landmark",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3qyypdmyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7dd0/live/f01ac420-9aff-11f1-a27d-25dca26018ed.jpg",
-      "published": "8/18/2026, 7:52:21 PM",
-      "desc": "Conservationists remove the equivalent of 10,000 coins that had been wedged into the Giant's Causeway's pillars."
-    },
-    {
-      "title": "Earl Spencer to publish story of sister Princess Diana",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg",
-      "published": "8/18/2026, 2:22:26 PM",
-      "desc": "Swan Song: Diana, My Sister is due to be released in the UK next month, nearly 30 years after she died."
-    },
-    {
-      "title": "When will the drought be over?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a0d/live/415c1440-9af3-11f1-930b-57cfba7235f9.jpg",
-      "published": "8/18/2026, 2:22:23 PM",
-      "desc": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?"
-    },
-    {
-      "title": "One dead and hundreds ill in UK salmonella outbreak",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3f2/live/595da390-9af5-11f1-930b-57cfba7235f9.jpg",
-      "published": "8/18/2026, 1:07:24 PM",
-      "desc": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe."
     }
   ],
   "sports": [
+    {
+      "title": "From Cancer Survivor To World Series Champion: Trey Mancini Announces Retirement",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/from-cancer-survivor-world-series-champion-trey-mancini-announces-retirement",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/os.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 1:22:21 AM",
+      "desc": "Trey Mancini, the AL Comeback Player of the Year in 2021 for his return from colon cancer who then helped Houston win the 2022 World Series, announced his retirement Tuesday after his latest comeback lasted five games with the Los Angeles Angels."
+    },
+    {
+      "title": "2027 NASCAR Cup Series Schedule Tracker: Where & When Will NASCAR Race?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2027-nascar-cup-series-schedule-tracker-where-when-will-nascar-race",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/schedule-tracker_nascar_2027.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 1:07:15 AM",
+      "desc": "Where and when will NASCAR race in 2027? Here are the latest schedule updates."
+    },
+    {
+      "title": "LIV players have mixed feelings after meeting proposed investor - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49653458/liv-players-mixed-feelings-meeting-proposed-investor",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0428%2Fr1650225_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 12:54:16 AM",
+      "desc": "With LIV Golf's future still murky, players met with CEO Scott O'Neil and the league's proposed new investor on Tuesday for about 50 minutes, and while some claimed progress was made, others were noncommittal."
+    },
+    {
+      "title": "2026 MLB Odds: Dodgers Favored In World Series Exact Results",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-odds-dodgers-favored-world-series-exact-results",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/snell-812.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 12:22:32 AM",
+      "desc": "Will the Dodgers make the World Series? And if so, who will they meet there? See the latest odds."
+    },
+    {
+      "title": "College Football's Top 10: Comparing RJ Young's, Joel Klatt's Rankings vs. AP Top 25",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/rankings-top-10-ap-138-klatt-indiana-michigan-notre-dame",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/7cc7d903-ohio-state_indiana.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 12:22:31 AM",
+      "desc": "How the top-10 CFB teams in RJ Young's ultimate 138 compare to Joel Klatt's top-10 teams."
+    },
+    {
+      "title": "2026 College Football Odds: Can Indiana Repeat As Big Ten Champions?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-odds-who-will-crowned-big-ten-champion",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/1294/728/gettyimages-2250452213-scaled.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 12:22:28 AM",
+      "desc": "Take a look at the 2026 Big Ten Championship odds as Ohio State, Indiana and Oregon headline the loaded title race."
+    },
+    {
+      "title": "2026 NFL Top 10 Quarterback-Head Coach Combinations: Which Duo Holds The Title?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-top-10-quarterback-head-coach-combinations-which-duo-holds-title",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-1815366578-scaled-e1787096418223.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 12:22:27 AM",
+      "desc": "The landscape across the NFL continues to be defined by elite partnerships between head coaches and quarterbacks, here's the top 10 pairings across the league."
+    },
+    {
+      "title": "Dodgers place Diaz on IL, watch Ohtani throw in bullpen - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49653225/dodgers-place-diaz-il-watch-ohtani-throw-bullpen",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703654_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 12:17:33 AM",
+      "desc": "The Los Angeles Dodgers on Tuesday put Edwin Diaz, who is 2-2 with an 11.85 ERA and seven saves in 11 opportunities in 16 games, on the injured list because of inflammation in the right side of his neck, while Shohei Ohtani threw another bullpen session."
+    },
+    {
+      "title": "2026 NFL Odds: Will Myles Garrett Repeat As NFL Sack Leader With Rams?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-sack-leader-myles-garrett",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2287173419-2-scaled.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 11:52:29 PM",
+      "desc": "After breaking the single-season sack record in 2025, what will Myles Garrett do for an encore? See the 2026 NFL sack leader odds."
+    },
+    {
+      "title": "2026 NFL MVP Odds: Josh Allen Favored; Can Mahomes Challenge?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/03/1294/728/a8862729-16x9-12.jpg?ve=1&tl=1",
+      "published": "8/18/2026, 11:52:28 PM",
+      "desc": "After a close race last season, who is the early favorite to win the 2026 NFL MVP? See the odds."
+    },
     {
       "title": "Dodgers To Reportedly Place Struggling Closer Edwin Diaz Back On Injured List",
       "source": "Fox Sports",
@@ -84,60 +164,12 @@
       "desc": "Here are the most unique gifts athletes have traded to get their favorite jersey numbers."
     },
     {
-      "title": "2026 CFP Title Odds: Ohio State, Notre Dame Lead Wide-Open Race",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-cfp-title-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/cfp-odds.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 10:52:26 PM",
-      "desc": "College Football is almost here. See the latest odds to win the National Championship."
-    },
-    {
-      "title": "Super Bowl Expectations Are Real In Buffalo, But New Bills HC Joe Brady Is Ready",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/super-bowl-expectations-real-buffalo-new-bills-hc-joe-brady-ready",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-44.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 10:52:24 PM",
-      "desc": "Joe Brady knows the challenge that he faces in his first year as the Bills head coach. However, the 36-year-old tells us he doesn't feel pressure because he's \"ready for this.\""
-    },
-    {
       "title": "Ketel Marte back in Phoenix after no-show for knee testing - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49652516/ketel-marte-back-phoenix-no-show-knee-testing",
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0724%2Fr1693194_1296x729_16%2D9.jpg",
       "published": "8/18/2026, 10:28:04 PM",
       "desc": "Ketel Marte, who was placed on the restricted list after failing to show up to Monday's game, has traveled back to Phoenix for tests on his left knee, D-backs manager Torey Lovullo said."
-    },
-    {
-      "title": "MLB MVP Race: Walk-Off Homer Propels PCA Ahead of Shohei Ohtani",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-mvp-race",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/6483adf0-mlb-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 9:37:21 PM",
-      "desc": "Pete Crow-Armstrong has surpassed Shohei Ohtani in the National League MVP race. Check out the biggest risers and fallers from the past week."
-    },
-    {
-      "title": "2026 INDYCAR Odds: Alex Palou Favored For Freedom 250, Kyle Kirkwood Second",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/2026-indycar-odds-freedom-250-washington-dc",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/alex-palou_horizontal_favorite_freedom-250.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 9:37:18 PM",
-      "desc": "Which driver will win INDYCAR's Freedom 250 in Washington D.C. this Sunday? Here are the latest odds."
-    },
-    {
-      "title": "2026 MLB Playoff Picture, Standings: Dodgers Bounce Back; Cubs, Phillies Surge",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-postseason-wild-card-playoffs-standings-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/playoff-picture1.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 8:52:24 PM",
-      "desc": "A weekly look at MLB's standings and how they are informing the postseason picture."
-    },
-    {
-      "title": "Everything To Know About INDYCAR Freedom 250: A Spectacle & Endurance Test",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-severything-know-dc",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ed6126c5-16x9-27.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 8:52:22 PM",
-      "desc": "The inaugural Freedom 250 hits the streets of D.C., on Sunday. Here's all the details on the one-of-a-kind INDYCAR event."
     },
     {
       "title": "Five Buss siblings 'united' in decision to sell Lakers shares - ESPN",
@@ -148,36 +180,12 @@
       "desc": "Five of the six members of the Buss trust say they are \"united\" in their intention to sell their remaining shares in the Lakers, despite pushback from Jeanie Buss."
     },
     {
-      "title": "2026 College Football Playoff Odds: Irish Heavily Favored To Make Field",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/to-make-cfp.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 8:22:24 PM",
-      "desc": "With college football season right around the corner, see which teams are favored to make the 12-team postseason tournament."
-    },
-    {
       "title": "Miller begins to work on 'dream' of being a Dallas Cowboy - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49651426/miller-begins-work-dream-being-dallas-cowboy",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703545_1296x729_16%2D9.jpg",
       "published": "8/18/2026, 8:16:56 PM",
       "desc": "Thrilled to be with the Dallas Cowboys on a one-year contract, Von Miller, 37, spoke to reporters on Tuesday at training camp in Oxnard, California, and the club will work the veteran linebacker into practice slowly, giving him time to acclimate."
-    },
-    {
-      "title": "2026 NFL Odds: Which Team Will Lead The NFL In Scoring?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-team-will-lead-nfl-scoring",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/bears-818.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 8:07:14 PM",
-      "desc": "Could the Bears take over the scoring crown? Or will the familiar names — the Rams, Lions and Bills — continue to be high-powered? See the odds."
-    },
-    {
-      "title": "Bayern Munich's Musiala: 'Treatable seizures' reason for collapses - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49651259/bayern-munich-jamal-musiala-collapse-absence-seizures",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703547_1296x729_16%2D9.jpg",
-      "published": "8/18/2026, 7:57:42 PM",
-      "desc": "Bayern Munich midfielder Jamal Musiala has revealed he is suffering from \"treatable absence seizures\" after he collapsed on the pitch for the second time in four days."
     },
     {
       "title": "Jamal Musiala collapses during Bayern Munich match for second time in four-day period",
@@ -202,14 +210,6 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_084652100_3608489537/ss_20260731_084652100_3608489537.jpg",
       "published": "8/18/2026, 6:15:51 PM",
       "desc": "Baker Mayfield, who will play Saturday in the Bucs' second preseason game against the Chiefs, brushed aside critics and predicts that Tampa Bay will \"shock a lot of people this year.\""
-    },
-    {
-      "title": "Chiefs' Bieniemy: Wife to make full recovery after being shot - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49650737/chiefs-bieniemy-wife-make-full-recovery-being-shot",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0727%2Fr1694182_1296x729_16%2D9.jpg",
-      "published": "8/18/2026, 6:14:48 PM",
-      "desc": "Chiefs offensive coordinator Eric Bieniemy said Tuesday that his wife, Mia, is on track to make a full recovery after she was allegedly shot by the couple's son last month in the family's home in Virginia."
     }
   ],
   "tech": [
@@ -222,20 +222,20 @@
       "desc": "Seven more states are working on Apple Wallet driver's license support, including Kentucky and North Carolina. Here's where it's coming next."
     },
     {
-      "title": "Multiple GTA 6 Gameplay Videos Appear To Have Leaked, But There's A Catch Or Two - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/08/multiple-gta-6-gameplay-videos-appear-to-have-leaked-but-theres-a-catch-or-two",
-      "image": "https://images.purexbox.com/a28d8a7395571/large.jpg",
-      "published": "8/18/2026, 8:07:27 PM",
-      "desc": "Ahead of the official reveal next week"
-    },
-    {
       "title": "Wake Up, It Looks Like Terranigma Might Finally Be Getting A Re-Release - Time Extension",
       "source": "Timeextension.com",
       "url": "https://www.timeextension.com/news/2026/08/wake-up-it-looks-like-terranigma-might-finally-be-getting-a-re-release",
       "image": "",
       "published": "8/18/2026, 8:05:00 PM",
       "desc": ""
+    },
+    {
+      "title": "4 Reasons To Skip The iPhone 18 (And Why You Should Upgrade To iPhone 17 Now) - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2239495/reasons-skip-iphone-18-pros-cons-iphone-17/",
+      "image": "https://www.bgr.com/img/gallery/4-reasons-to-skip-the-iphone-18-and-why-you-should-upgrade-to-iphone-17-now/l-intro-1787075616.jpg",
+      "published": "8/18/2026, 7:51:17 PM",
+      "desc": "Why wait for the iPhone 18? Skip all the hype and cure your tech FOMO by upgrading to an iPhone 17 now before prices skyrocket and quality drops."
     },
     {
       "title": "Google makes it official: Googlebook launch event set for September in NYC - Chrome Unboxed",
@@ -246,12 +246,12 @@
       "desc": "For months, we’ve tracked code commits in the Chromium Gerrit, analyzed hardware benchmark leaks, and pieced together Google’s ambitious plans to bridge the worlds of ChromeOS and Android under a brand-new desktop platform. Today, the wait for official confir…"
     },
     {
-      "title": "Crunchyroll Store Removes Physical Manga, Light Novels - Anime News Network",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-18/crunchyroll-store-removes-physical-manga-light-novels/.240698",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg",
-      "published": "8/18/2026, 7:15:36 PM",
-      "desc": "Crunchyroll Store updated to become exclusive to Mega/Ultimate Fan tiers"
+      "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy - Notebookcheck",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/GTA-6-gameplay-and-map-leaks-see-DMCA-strikes-as-confidence-grows-in-their-legitimacy.1372162.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/JasonGTA6Phone.jpg",
+      "published": "8/18/2026, 7:13:00 PM",
+      "desc": "A series of GTA 6 leaks has piqued the interest of Rockstar Games followers. Videos feature Jason playing basketball and driving haphazardly around Leonida streets. The studio has sent DMCA takedown notices to users sharing the alleged in-game footage and a l…"
     },
     {
       "title": "Gemini in Chrome and auto browse roll out on Android in the US - 9to5Google",
@@ -262,12 +262,12 @@
       "desc": "After previewing in May, Google has now finished rolling out Gemini in Chrome for Android users in the US."
     },
     {
-      "title": "Bethesda Dev Says Cuts Were Rare Before Xbox Took Over: 'All Of A Sudden We Have Yearly Layoffs' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-layoffs-rallies-cwa-bethesda-employee-interview-2000725366",
-      "image": "https://kotaku.com/app/uploads/2026/08/save-our-devs-rally-graphic-1-1200x675.jpg",
-      "published": "8/18/2026, 6:42:22 PM",
-      "desc": "Xbox developers are holding a rally across the United States and Canada to bring attention to the widespread layoffs"
+      "title": "NBA 2K27 Just Rewrote The Sports Game Story Mode - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/nba-2k27-just-rewrote-the-sports-game-story-mode/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/7801d17b-220e-424c-8f7e-fc0c5efb974d.jpg",
+      "published": "8/18/2026, 6:00:00 PM",
+      "desc": "NBA 2K27 is delivering a bunch of new features, so let's take a look at everything that 2K Sports has up its sleeve."
     }
   ],
   "education": [
@@ -375,21 +375,21 @@
     },
     {
       "rank": 5,
-      "title": "Marianne",
-      "artist": "Fontaines D.C.",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
-    },
-    {
-      "rank": 6,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 6,
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     },
     {
       "rank": 7,
@@ -402,21 +402,21 @@
     },
     {
       "rank": 8,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 9,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 9,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
       "rank": 10,
@@ -429,21 +429,21 @@
     },
     {
       "rank": 11,
+      "title": "New Religion",
+      "artist": "Bebe Rexha & Faithless",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
+    },
+    {
+      "rank": 12,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
-    },
-    {
-      "rank": 12,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 13,
@@ -456,41 +456,41 @@
     },
     {
       "rank": 14,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 3,
@@ -521,15 +521,6 @@
     },
     {
       "rank": 6,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
@@ -538,22 +529,31 @@
       "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
-      "rank": 8,
-      "title": "Project Hail Mary",
+      "rank": 7,
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 9,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
@@ -574,6 +574,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 3,
+      "title": "SpongeBob SquarePants",
+      "year": "1999",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "url": "https://www.themoviedb.org/tv/387"
     }
   ]
 }
