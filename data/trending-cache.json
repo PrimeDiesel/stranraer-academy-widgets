@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-20T12:51:16.043Z",
+  "updated": "2026-08-20T13:47:40.433Z",
   "news": [
+    {
+      "title": "Great British Bake Off winner Georgina Grasso reveals bipolar diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c04k6x4nywlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/779c/live/2b2ecfb0-9bb5-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 1:22:24 PM",
+      "desc": "Georgina Grasso said she is taking some time to understand bipolar disorder after receiving her diagnosis."
+    },
     {
       "title": "OpenAI slows down training of advanced AI after cyber-attack",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday."
     },
     {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd0/live/e4aae040-9bac-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/19/2026, 9:22:27 AM",
-      "desc": "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”."
-    },
-    {
       "title": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno",
@@ -68,6 +68,30 @@
   ],
   "sports": [
     {
+      "title": "Fantasy Premier League: Five tips from last season's FPL champion",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c3ekq87e214o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9039/live/99b07210-9a1e-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 1:22:27 PM",
+      "desc": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen."
+    },
+    {
+      "title": "Ruby Tui: Trailfinders Women sign New Zealand great on one-year deal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg",
+      "published": "8/19/2026, 1:22:25 PM",
+      "desc": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women."
+    },
+    {
+      "title": "Real Madrid manager Jose Mourinho told Vinicius Jr it was not worth leaving Spanish club",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/02a3/live/8909c650-9bae-11f1-92e6-b1dfcecd4308.jpg",
+      "published": "8/19/2026, 1:22:21 PM",
+      "desc": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club."
+    },
+    {
       "title": "Manchester City charges: Premier League clubs 'want clarity', says Arsenal chief Richard Garlick",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c1416keng1po",
@@ -76,20 +100,20 @@
       "desc": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules."
     },
     {
-      "title": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/ce97ln7kp01o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ee82/live/c74e6780-9b96-11f1-b109-879e35c24276.jpg",
-      "published": "8/19/2026, 11:22:22 AM",
-      "desc": "Aryna Sabalenka needs just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev's frustrations boil over after he misses three match points in surprise defeat."
-    },
-    {
       "title": "Ex-Wimbledon finalist Kyrgios says he tested positive for cocaine - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/tennis/story/_/id/49657802/ex-wimbledon-finalist-kyrgios-says-tested-positive-cocaine",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0702%2Fr1193111_1296x729_16%2D9.jpg",
       "published": "8/19/2026, 11:07:56 AM",
       "desc": "Former Wimbledon finalist Nick Kyrgios revealed on Wednesday he tested positive for cocaine and was provisionally suspended from tennis."
+    },
+    {
+      "title": "'Drumbeat' players: Believe the buzz surrounding Justin Herbert, Carnell Tate and more - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/49611029/2026-fantasy-football-rankings-breakouts-drumbeat-players",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701987_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 11:00:00 AM",
+      "desc": "Liz Loza identifies six players generating excitement who could eventually turn into league winners."
     },
     {
       "title": "Man Utd transfer news: Brighton midfielder Carlos Baleba close to Old Trafford move",
@@ -116,14 +140,6 @@
       "desc": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
     },
     {
-      "title": "Transfers latest: Ollie Watkins and Harry Kane linked with Al-Hilal, Villa agree Aaron Wan-Bissaka deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmdew0krpxklt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d3c/live/336e2a50-9b9b-11f1-b109-879e35c24276.png",
-      "published": "8/19/2026, 7:52:16 AM",
-      "desc": "All the latest transfer news as Ollie Watkins and Harry Kane are linked with Al-Hilal, while Aston Villa agree a deal for Aaron Wan-Bissaka."
-    },
-    {
       "title": "Man Utd: How Michael Carrick's side are shaping up for Premier League season",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cg5l9p58dv6o",
@@ -138,14 +154,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
       "published": "8/19/2026, 6:37:22 AM",
       "desc": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19."
-    },
-    {
-      "title": "BBC Sport quiz: Five in Five football quiz No 3",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c74gde30nryo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4147/live/f4347c70-95ac-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "8/19/2026, 6:07:28 AM",
-      "desc": "Will you beat the clock by getting all five of today's answers in five minutes?"
     },
     {
       "title": "Premier League predictions: Phil McNulty previews new season",
@@ -202,14 +210,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703703_1296x729_16%2D9.jpg",
       "published": "8/19/2026, 2:05:26 AM",
       "desc": "Kelsey Mitchell scored 16 points in the first quarter and finished with 29 before sitting out the fourth, Caitlin Clark added 24 points and the Fever beat the Tempo 101-95 on Tuesday for their fifth straight victory."
-    },
-    {
-      "title": "At Least Six Fights Reportedly Break Out During Cowboys And Saints Joint Practice",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/least-six-fights-reportedly-break-out-during-cowboys-saints-joint-practice",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/saints-cowboys-1.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 1:37:15 AM",
-      "desc": "The Dallas Cowboys and New Orleans Saints held a joint training camp practice on Tuesday that featured at least six separate physical altercations between the two teams."
     }
   ],
   "tech": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 6,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -537,13 +528,22 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
+      "rank": 6,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
       "rank": 7,
-      "title": "Project Hail Mary",
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 8,
@@ -556,12 +556,12 @@
     },
     {
       "rank": 9,
-      "title": "Don't Say Good Luck",
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
