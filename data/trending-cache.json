@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-20T01:16:31.037Z",
+  "updated": "2026-08-20T02:57:24.014Z",
   "news": [
+    {
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 2:37:24 AM",
+      "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
+    },
+    {
+      "title": "Tim Montgomerie: Suspended Reform UK member vows to fight to remain in party",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dec0/live/da8cc610-9b6f-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 2:37:22 AM",
+      "desc": "Tim Montgomerie says his appeal will be a test of whether the party can tolerate free speech."
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/19/2026, 2:22:19 AM",
+      "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
     {
       "title": "Mobile payments on the rise but cash decline slows",
       "source": "BBC News",
@@ -8,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
       "published": "8/19/2026, 1:07:27 AM",
       "desc": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows."
-    },
-    {
-      "title": "Deaf patient given wrong jab due to sign language error, report says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg",
-      "published": "8/19/2026, 1:07:20 AM",
-      "desc": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods."
     },
     {
       "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -48,25 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a026/live/8edea4b0-9b54-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/18/2026, 11:22:16 PM",
       "desc": "Queen Camilla's first remarks about the King's cancer journey are prominent across Wednesday's papers."
-    },
-    {
-      "title": "Andy Burnham received £345,000 of donations ahead of becoming PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c141d4l0mgko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b7/live/74e51b20-9b40-11f1-bd52-f9704e8e5c82.jpg",
-      "published": "8/18/2026, 10:22:24 PM",
-      "desc": "The prime minister lists his financial interests for the first time since returning to Parliament."
-    },
-    {
-      "title": "'Everyone in for Christmas' - Burnham's rough sleeping plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg",
-      "published": "8/18/2026, 10:07:23 PM",
-      "desc": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
     }
   ],
   "sports": [
+    {
+      "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/chargers-torch-49ers-4-takeaways-from-san-francisco-los-angeles-joint-practice",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/chargers-49ers-takeaways.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 2:37:18 AM",
+      "desc": "Justin Herbert and Chargers had their way with the 49ers on Tuesday, but it wasn't all sunshine and roses for Los Angeles."
+    },
+    {
+      "title": "At Least Six Fights Reportedly Break Out During Cowboys And Saints Joint Practice",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/least-six-fights-reportedly-break-out-during-cowboys-saints-joint-practice",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/saints-cowboys-1.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 1:37:15 AM",
+      "desc": "The Dallas Cowboys and New Orleans Saints held a joint training camp practice on Tuesday that featured at least six separate physical altercations between the two teams."
+    },
     {
       "title": "From Cancer Survivor To World Series Champion: Trey Mancini Announces Retirement",
       "source": "Fox Sports",
@@ -74,6 +90,14 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/os.jpg?ve=1&tl=1",
       "published": "8/19/2026, 1:22:21 AM",
       "desc": "Trey Mancini, the AL Comeback Player of the Year in 2021 for his return from colon cancer who then helped Houston win the 2022 World Series, announced his retirement Tuesday after his latest comeback lasted five games with the Los Angeles Angels."
+    },
+    {
+      "title": "Multiple brawls mar Saints-Cowboys joint practice session - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49653675/multiple-brawls-mar-saints-cowboys-joint-practice-session",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0224%2Fr1619399_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 1:18:59 AM",
+      "desc": "The Cowboys and Saints had so many fights during their joint session Tuesday that the coaches of each team discussed whether they needed to cancel the practice."
     },
     {
       "title": "2027 NASCAR Cup Series Schedule Tracker: Where & When Will NASCAR Race?",
@@ -148,22 +172,6 @@
       "desc": "After a close race last season, who is the early favorite to win the 2026 NFL MVP? See the odds."
     },
     {
-      "title": "Dodgers To Reportedly Place Struggling Closer Edwin Diaz Back On Injured List",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/dodgers-reportedly-place-struggling-closer-edwin-diaz-back-injured-list",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2288499605-scaled-e1787091013701.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 11:22:27 PM",
-      "desc": "The Los Angeles Dodgers are placing closer Edwin Diaz back on the injured list with an undisclosed injury less than a month after his activation from the 60-day injured list."
-    },
-    {
-      "title": "A Lifetime Supply of Chicken? Inside The Strangest Jersey Negotiations In Sports",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/lifetime-supply-chicken-inside-strangest-jersey-negotiations-sports",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/miller.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 11:22:22 PM",
-      "desc": "Here are the most unique gifts athletes have traded to get their favorite jersey numbers."
-    },
-    {
       "title": "Ketel Marte back in Phoenix after no-show for knee testing - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/49652516/ketel-marte-back-phoenix-no-show-knee-testing",
@@ -202,14 +210,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0226%2Fr671838_1296x729_16%2D9.jpg",
       "published": "8/18/2026, 7:06:12 PM",
       "desc": "North Carolina has named veteran transfer Billy Edwards Jr. as the Tar Heels' starting quarterback for the opener against TCU in Ireland, sources told ESPN."
-    },
-    {
-      "title": "Bucs QB Baker Mayfield: 'We're gonna shock a lot of people' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49650741/gonna-shock-lot-people",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_084652100_3608489537/ss_20260731_084652100_3608489537.jpg",
-      "published": "8/18/2026, 6:15:51 PM",
-      "desc": "Baker Mayfield, who will play Saturday in the Bucs' second preseason game against the Chiefs, brushed aside critics and predicts that Tampa Bay will \"shock a lot of people this year.\""
     }
   ],
   "tech": [
@@ -438,15 +438,6 @@
     },
     {
       "rank": 12,
-      "title": "Tastes Like Summer",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
-    },
-    {
-      "rank": 13,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -455,7 +446,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
@@ -464,13 +455,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "FEVER DREAM",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
+      "rank": 15,
+      "title": "Tastes Like Summer",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
     }
   ],
   "movies": [
@@ -494,21 +494,21 @@
     },
     {
       "rank": 3,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 4,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "rank": 4,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 5,
@@ -539,21 +539,21 @@
     },
     {
       "rank": 8,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
@@ -574,15 +574,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 3,
-      "title": "SpongeBob SquarePants",
-      "year": "1999",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "url": "https://www.themoviedb.org/tv/387"
     }
   ]
 }
