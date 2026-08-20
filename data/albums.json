@@ -1,1850 +1,1796 @@
 [
-  {
-    "artist": "The Beatles",
-    "album": "Abbey Road",
-    "year": 1969,
-    "desc": "A timeless masterpiece that defined a generation."
-  },
-  {
-    "artist": "The Beatles",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band",
-    "year": 1967,
-    "desc": "Revolutionary concept album that changed music forever."
-  },
-  {
-    "artist": "Queen",
-    "album": "A Night at the Opera",
-    "year": 1975,
-    "desc": "Home to 'Bohemian Rhapsody' - pure rock brilliance."
-  },
-  {
-    "artist": "Queen",
-    "album": "News of the World",
-    "year": 1977,
-    "desc": "Featuring 'We Will Rock You' and 'We Are the Champions'."
-  },
-  {
-    "artist": "Steve Vai",
-    "album": "Passion and Warfare",
-    "year": 1990,
-    "desc": "Virtuoso guitar playing at its absolute finest."
-  },
-  {
-    "artist": "Steve Vai",
-    "album": "Flex-Able",
-    "year": 1984,
-    "desc": "Innovative instrumental guitar work that pushed boundaries."
-  },
-  {
-    "artist": "Extreme",
-    "album": "Extreme",
-    "year": 1989,
-    "desc": "Funk-metal fusion that launched a phenomenal career."
-  },
-  {
-    "artist": "Extreme",
-    "album": "Pornograffitti",
-    "year": 1990,
-    "desc": "Home to 'More Than Words' - a massive global hit."
-  },
-  {
-    "artist": "Journey",
-    "album": "Escape",
-    "year": 1981,
-    "desc": "Classic rock perfection with 'Don't Stop Believin'."
-  },
-  {
-    "artist": "Journey",
-    "album": "Frontiers",
-    "year": 1983,
-    "desc": "Stadium rock excellence from start to finish."
-  },
-  {
-    "artist": "Pink Floyd",
-    "album": "The Dark Side of the Moon",
-    "year": 1973,
-    "desc": "Progressive rock masterpiece that redefined the genre."
-  },
-  {
-    "artist": "Pink Floyd",
-    "album": "The Wall",
-    "year": 1979,
-    "desc": "Epic rock opera exploring isolation and rebellion."
-  },
-  {
-    "artist": "Fleetwood Mac",
-    "album": "Rumours",
-    "year": 1977,
-    "desc": "One of the best-selling albums of all time."
-  },
-  {
-    "artist": "Eagles",
-    "album": "Hotel California",
-    "year": 1976,
-    "desc": "Iconic title track and timeless songwriting."
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "year": 1982,
-    "desc": "The best-selling album in history."
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Bad",
-    "year": 1987,
-    "desc": "Pop excellence with groundbreaking music videos."
-  },
-  {
-    "artist": "U2",
-    "album": "The Joshua Tree",
-    "year": 1987,
-    "desc": "Anthemic rock that defined the 80s."
-  },
-  {
-    "artist": "Bruce Springsteen",
-    "album": "Born to Run",
-    "year": 1975,
-    "desc": "American rock storytelling at its finest."
-  },
-  {
-    "artist": "Boston",
-    "album": "Boston",
-    "year": 1976,
-    "desc": "Debut album that revolutionized arena rock."
-  },
-  {
-    "artist": "Toto",
-    "album": "Toto IV",
-    "year": 1982,
-    "desc": "Grammy-winning masterpiece featuring 'Africa'."
-  },
-  {
-    "artist": "Dire Straits",
-    "album": "Brothers in Arms",
-    "year": 1985,
-    "desc": "Sophisticated rock with 'Money for Nothing'."
-  },
-  {
-    "artist": "Van Halen",
-    "album": "Van Halen",
-    "year": 1978,
-    "desc": "Explosive debut that changed guitar forever."
-  },
-  {
-    "artist": "Van Halen",
-    "album": "1984",
-    "year": 1984,
-    "desc": "Synth-rock perfection with 'Jump'."
-  },
-  {
-    "artist": "Def Leppard",
-    "album": "Hysteria",
-    "year": 1987,
-    "desc": "Polished rock production and massive hits."
-  },
-  {
-    "artist": "The Police",
-    "album": "Synchronicity",
-    "year": 1983,
-    "desc": "New wave brilliance with 'Every Breath You Take'."
-  },
-  {
-    "artist": "Steely Dan",
-    "album": "Aja",
-    "year": 1977,
-    "desc": "Jazz-rock fusion with impeccable production."
-  },
-  {
-    "artist": "Billy Joel",
-    "album": "The Stranger",
-    "year": 1977,
-    "desc": "Piano-driven pop excellence throughout."
-  },
-  {
-    "artist": "Billy Joel",
-    "album": "52nd Street",
-    "year": 1978,
-    "desc": "Grammy Album of the Year winner."
-  },
-  {
-    "artist": "Elton John",
-    "album": "Goodbye Yellow Brick Road",
-    "year": 1973,
-    "desc": "Double album showcasing incredible range."
-  },
-  {
-    "artist": "David Bowie",
-    "album": "The Rise and Fall of Ziggy Stardust",
-    "year": 1972,
-    "desc": "Glam rock concept album and cultural phenomenon."
-  },
-  {
-    "artist": "Simon & Garfunkel",
-    "album": "Bridge Over Troubled Water",
-    "year": 1970,
-    "desc": "Beautiful harmonies and timeless songwriting."
-  },
-  {
-    "artist": "Carole King",
-    "album": "Tapestry",
-    "year": 1971,
-    "desc": "Singer-songwriter masterpiece that topped charts for weeks."
-  },
-  {
-    "artist": "The Doors",
-    "album": "L.A. Woman",
-    "year": 1971,
-    "desc": "Blues-infused rock from the legendary Morrison."
-  },
-  {
-    "artist": "The Who",
-    "album": "Who's Next",
-    "year": 1971,
-    "desc": "Powerful rock with synthesizers."
-  },
-  {
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin IV",
-    "year": 1971,
-    "desc": "Contains 'Stairway to Heaven' - rock royalty."
-  },
-  {
-    "artist": "Cream",
-    "album": "Disraeli Gears",
-    "year": 1967,
-    "desc": "Psychedelic blues-rock innovation."
-  },
-  {
-    "artist": "Jimi Hendrix",
-    "album": "Are You Experienced",
-    "year": 1967,
-    "desc": "Revolutionary guitar playing that inspired millions."
-  },
-  {
-    "artist": "The Rolling Stones",
-    "album": "Exile on Main St.",
-    "year": 1972,
-    "desc": "Raw, bluesy rock excellence."
-  },
-  {
-    "artist": "Supertramp",
-    "album": "Breakfast in America",
-    "year": 1979,
-    "desc": "Progressive pop with quirky charm."
-  },
-  {
-    "artist": "The Cars",
-    "album": "The Cars",
-    "year": 1978,
-    "desc": "New wave debut packed with hits."
-  },
-  {
-    "artist": "Heart",
-    "album": "Dreamboat Annie",
-    "year": 1975,
-    "desc": "Rock power fronted by the Wilson sisters."
-  },
-  {
-    "artist": "Pat Benatar",
-    "album": "Crimes of Passion",
-    "year": 1980,
-    "desc": "Powerful vocals and rock attitude."
-  },
-  {
-    "artist": "Blondie",
-    "album": "Parallel Lines",
-    "year": 1978,
-    "desc": "New wave and disco fusion hits."
-  },
-  {
-    "artist": "Joe Satriani",
-    "album": "Surfing with the Alien",
-    "year": 1987,
-    "desc": "Instrumental guitar mastery."
-  },
-  {
-    "artist": "Eric Clapton",
-    "album": "Unplugged",
-    "year": 1992,
-    "desc": "Acoustic brilliance featuring 'Tears in Heaven'."
-  },
-  {
-    "artist": "Stevie Wonder",
-    "album": "Songs in the Key of Life",
-    "year": 1976,
-    "desc": "Soul masterpiece spanning multiple styles."
-  },
-  {
-    "artist": "Marvin Gaye",
-    "album": "What's Going On",
-    "year": 1971,
-    "desc": "Socially conscious soul classic."
-  },
-  {
-    "artist": "Earth, Wind & Fire",
-    "album": "That's the Way of the World",
-    "year": 1975,
-    "desc": "Funk, soul, and R&B perfection."
-  },
-  {
-    "artist": "The Jackson 5",
-    "album": "ABC",
-    "year": 1970,
-    "desc": "Motown pop brilliance."
-  },
-  {
-    "artist": "Whitney Houston",
-    "album": "Whitney Houston",
-    "year": 1985,
-    "desc": "Debut showcasing one of the greatest voices ever."
-  },
-  {
-    "artist": "Madonna",
-    "album": "Like a Virgin",
-    "year": 1984,
-    "desc": "Pop icon's breakthrough album."
-  },
-  {
-    "artist": "Prince",
-    "album": "Purple Rain",
-    "year": 1984,
-    "desc": "Genre-blending genius and cultural phenomenon."
-  },
-  {
-    "artist": "Peter Gabriel",
-    "album": "So",
-    "year": 1986,
-    "desc": "Art rock with 'Sledgehammer'."
-  },
-  {
-    "artist": "Genesis",
-    "album": "Invisible Touch",
-    "year": 1986,
-    "desc": "Pop-rock accessibility from prog legends."
-  },
-  {
-    "artist": "Phil Collins",
-    "album": "No Jacket Required",
-    "year": 1985,
-    "desc": "Grammy Album of the Year winner."
-  },
-  {
-    "artist": "Huey Lewis and the News",
-    "album": "Sports",
-    "year": 1983,
-    "desc": "Upbeat rock with massive commercial appeal."
-  },
-  {
-    "artist": "Hall & Oates",
-    "album": "H2O",
-    "year": 1982,
-    "desc": "Blue-eyed soul pop excellence."
-  },
-  {
-    "artist": "Tears for Fears",
-    "album": "Songs from the Big Chair",
-    "year": 1985,
-    "desc": "Synth-pop sophistication."
-  },
-  {
-    "artist": "Duran Duran",
-    "album": "Rio",
-    "year": 1982,
-    "desc": "New wave glamour and style."
-  },
-  {
-    "artist": "INXS",
-    "album": "Kick",
-    "year": 1987,
-    "desc": "Australian rock with global appeal."
-  },
-  {
-    "artist": "R.E.M.",
-    "album": "Out of Time",
-    "year": 1991,
-    "desc": "Alternative rock breakthrough with 'Losing My Religion'."
-  },
-  {
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "year": 1991,
-    "desc": "Grunge explosion that changed rock."
-  },
-  {
-    "artist": "Pearl Jam",
-    "album": "Ten",
-    "year": 1991,
-    "desc": "Grunge classic with emotional depth."
-  },
-  {
-    "artist": "Soundgarden",
-    "album": "Superunknown",
-    "year": 1994,
-    "desc": "Heavy alternative rock masterpiece."
-  },
-  {
-    "artist": "Alice in Chains",
-    "album": "Dirt",
-    "year": 1992,
-    "desc": "Dark, heavy, and melodic grunge."
-  },
-  {
-    "artist": "Red Hot Chili Peppers",
-    "album": "Blood Sugar Sex Magik",
-    "year": 1991,
-    "desc": "Funk-rock fusion that dominated the 90s."
-  },
-  {
-    "artist": "Radiohead",
-    "album": "OK Computer",
-    "year": 1997,
-    "desc": "Ambitious alternative rock exploring technology."
-  },
-  {
-    "artist": "Oasis",
-    "album": "(What's the Story) Morning Glory?",
-    "year": 1995,
-    "desc": "Britpop anthem collection."
-  },
-  {
-    "artist": "Blur",
-    "album": "Parklife",
-    "year": 1994,
-    "desc": "British pop brilliance."
-  },
-  {
-    "artist": "The Cranberries",
-    "album": "No Need to Argue",
-    "year": 1994,
-    "desc": "Alternative rock with distinctive vocals."
-  },
-  {
-    "artist": "Alanis Morissette",
-    "album": "Jagged Little Pill",
-    "year": 1995,
-    "desc": "Raw emotion and 90s rock attitude."
-  },
-  {
-    "artist": "Green Day",
-    "album": "Dookie",
-    "year": 1994,
-    "desc": "Punk rock revival for a new generation."
-  },
-  {
-    "artist": "The Offspring",
-    "album": "Smash",
-    "year": 1994,
-    "desc": "Punk energy with catchy hooks."
-  },
-  {
-    "artist": "Metallica",
-    "album": "Master of Puppets",
-    "year": 1986,
-    "desc": "Thrash metal masterpiece."
-  },
-  {
-    "artist": "Iron Maiden",
-    "album": "The Number of the Beast",
-    "year": 1982,
-    "desc": "Heavy metal excellence."
-  },
-  {
-    "artist": "AC/DC",
-    "album": "Back in Black",
-    "year": 1980,
-    "desc": "One of the best-selling rock albums ever."
-  },
-  {
-    "artist": "Guns N' Roses",
-    "album": "Appetite for Destruction",
-    "year": 1987,
-    "desc": "Hard rock that defined late 80s excess."
-  },
-  {
-    "artist": "Bon Jovi",
-    "album": "Slippery When Wet",
-    "year": 1986,
-    "desc": "Arena rock anthems galore."
-  },
-  {
-    "artist": "Aerosmith",
-    "album": "Toys in the Attic",
-    "year": 1975,
-    "desc": "Classic American rock and roll."
-  },
-  {
-    "artist": "ZZ Top",
-    "album": "Eliminator",
-    "year": 1983,
-    "desc": "Blues-rock with synth production."
-  },
-  {
-    "artist": "Lynyrd Skynyrd",
-    "album": "Pronounced 'Lĕh-'nérd 'Skin-'nérd",
-    "year": 1973,
-    "desc": "Southern rock featuring 'Free Bird'."
-  },
-  {
-    "artist": "The Allman Brothers Band",
-    "album": "At Fillmore East",
-    "year": 1971,
-    "desc": "Live southern rock jamming."
-  },
-  {
-    "artist": "Santana",
-    "album": "Abraxas",
-    "year": 1970,
-    "desc": "Latin rock fusion magic."
-  },
-  {
-    "artist": "Chicago",
-    "album": "Chicago Transit Authority",
-    "year": 1969,
-    "desc": "Jazz-rock with horn sections."
-  },
-  {
-    "artist": "The Band",
-    "album": "Music from Big Pink",
-    "year": 1968,
-    "desc": "Roots rock foundation."
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "album": "Cosmo's Factory",
-    "year": 1970,
-    "desc": "Swamp rock brilliance."
-  },
-  {
-    "artist": "Jefferson Airplane",
-    "album": "Surrealistic Pillow",
-    "year": 1967,
-    "desc": "Psychedelic rock classic."
-  },
-  {
-    "artist": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico",
-    "year": 1967,
-    "desc": "Influential avant-garde rock."
-  },
-  {
-    "artist": "Janis Joplin",
-    "album": "Pearl",
-    "year": 1971,
-    "desc": "Blues-rock vocal power."
-  },
-  {
-    "artist": "Bob Dylan",
-    "album": "Highway 61 Revisited",
-    "year": 1965,
-    "desc": "Folk-rock poetry featuring 'Like a Rolling Stone'."
-  },
-  {
-    "artist": "Joni Mitchell",
-    "album": "Blue",
-    "year": 1971,
-    "desc": "Deeply personal singer-songwriter classic."
-  },
-  {
-    "artist": "James Taylor",
-    "album": "Sweet Baby James",
-    "year": 1970,
-    "desc": "Soft rock and folk perfection."
-  },
-  {
-    "artist": "Cat Stevens",
-    "album": "Tea for the Tillerman",
-    "year": 1970,
-    "desc": "Folk-pop with spiritual depth."
-  },
-  {
-    "artist": "Neil Young",
-    "album": "Harvest",
-    "year": 1972,
-    "desc": "Folk-rock featuring 'Heart of Gold'."
-  },
-  {
-    "artist": "Crosby, Stills, Nash & Young",
-    "album": "Déjà Vu",
-    "year": 1970,
-    "desc": "Harmony-rich folk-rock."
-  },
-  {
-    "artist": "The Moody Blues",
-    "album": "Days of Future Passed",
-    "year": 1967,
-    "desc": "Orchestral progressive rock."
-  },
-  {
-    "artist": "Yes",
-    "album": "Fragile",
-    "year": 1971,
-    "desc": "Progressive rock complexity."
-  },
-  {
-    "artist": "King Crimson",
-    "album": "In the Court of the Crimson King",
-    "year": 1969,
-    "desc": "Progressive rock foundation."
-  },
-  {
-    "artist": "Emerson, Lake & Palmer",
-    "album": "Brain Salad Surgery",
-    "year": 1973,
-    "desc": "Keyboard-driven prog excellence."
-  },
-  {
-    "artist": "Rush",
-    "album": "Moving Pictures",
-    "year": 1981,
-    "desc": "Progressive rock with 'Tom Sawyer'."
-  },
-  {
-    "artist": "Dream Theater",
-    "album": "Images and Words",
-    "year": 1992,
-    "desc": "Technical progressive metal."
-  },
-  {
-    "artist": "Tool",
-    "album": "Ænima",
-    "year": 1996,
-    "desc": "Progressive metal with philosophical depth."
-  },
-  {
-    "artist": "The Cure",
-    "album": "Disintegration",
-    "year": 1989,
-    "desc": "Atmospheric gothic rock."
-  },
-  {
-    "artist": "Depeche Mode",
-    "album": "Violator",
-    "year": 1990,
-    "desc": "Dark synth-pop brilliance."
-  },
-  {
-    "artist": "New Order",
-    "album": "Power, Corruption & Lies",
-    "year": 1983,
-    "desc": "Post-punk electronic innovation."
-  },
-  {
-    "artist": "The Smiths",
-    "album": "The Queen Is Dead",
-    "year": 1986,
-    "desc": "Alternative rock with literary lyrics."
-  },
-  {
-    "artist": "Talking Heads",
-    "album": "Remain in Light",
-    "year": 1980,
-    "desc": "Afrobeat-influenced new wave."
-  },
-  {
-    "artist": "Devo",
-    "album": "Q: Are We Not Men? A: We Are Devo!",
-    "year": 1978,
-    "desc": "Quirky new wave art-punk."
-  },
-  {
-    "artist": "The B-52's",
-    "album": "The B-52's",
-    "year": 1979,
-    "desc": "Party rock with surf influences."
-  },
-  {
-    "artist": "Björk",
-    "album": "Homogenic",
-    "year": 1997,
-    "desc": "Experimental electronic art-pop."
-  },
-  {
-    "artist": "Portishead",
-    "album": "Dummy",
-    "year": 1994,
-    "desc": "Trip-hop atmosphere and mood."
-  },
-  {
-    "artist": "Massive Attack",
-    "album": "Blue Lines",
-    "year": 1991,
-    "desc": "Trip-hop foundation."
-  },
-  {
-    "artist": "Moby",
-    "album": "Play",
-    "year": 1999,
-    "desc": "Electronic music meets blues samples."
-  },
-  {
-    "artist": "The Prodigy",
-    "album": "The Fat of the Land",
-    "year": 1997,
-    "desc": "High-energy electronic rock."
-  },
-  {
-    "artist": "The Chemical Brothers",
-    "album": "Dig Your Own Hole",
-    "year": 1997,
-    "desc": "Big beat electronic excellence."
-  },
-  {
-    "artist": "Daft Punk",
-    "album": "Discovery",
-    "year": 2001,
-    "desc": "French house music innovation."
-  },
-  {
-    "artist": "Fatboy Slim",
-    "album": "You've Come a Long Way, Baby",
-    "year": 1998,
-    "desc": "Big beat party anthems."
-  },
-  {
-    "artist": "Miles Davis",
-    "album": "Kind of Blue",
-    "year": 1959,
-    "desc": "Modal jazz masterpiece."
-  },
-  {
-    "artist": "John Coltrane",
-    "album": "A Love Supreme",
-    "year": 1965,
-    "desc": "Spiritual jazz journey."
-  },
-  {
-    "artist": "Dave Brubeck",
-    "album": "Time Out",
-    "year": 1959,
-    "desc": "Cool jazz featuring 'Take Five'."
-  },
-  {
-    "artist": "Bill Evans",
-    "album": "Waltz for Debby",
-    "year": 1962,
-    "desc": "Intimate jazz trio perfection."
-  },
-  {
-    "artist": "Herbie Hancock",
-    "album": "Head Hunters",
-    "year": 1973,
-    "desc": "Jazz-funk fusion innovation."
-  },
-  {
-    "artist": "Weather Report",
-    "album": "Heavy Weather",
-    "year": 1977,
-    "desc": "Jazz fusion featuring 'Birdland'."
-  },
-  {
-    "artist": "Pat Metheny Group",
-    "album": "Offramp",
-    "year": 1982,
-    "desc": "Contemporary jazz guitar brilliance."
-  },
-  {
-    "artist": "Chick Corea",
-    "album": "Return to Forever",
-    "year": 1972,
-    "desc": "Jazz fusion excellence."
-  },
-  {
-    "artist": "Duke Ellington",
-    "album": "Ellington at Newport",
-    "year": 1956,
-    "desc": "Big band jazz legend live."
-  },
-  {
-    "artist": "Count Basie",
-    "album": "The Atomic Mr. Basie",
-    "year": 1958,
-    "desc": "Swinging big band perfection."
-  },
-  {
-    "artist": "Ella Fitzgerald",
-    "album": "Ella Fitzgerald Sings the Cole Porter Song Book",
-    "year": 1956,
-    "desc": "Vocal jazz excellence."
-  },
-  {
-    "artist": "Frank Sinatra",
-    "album": "Songs for Swingin' Lovers!",
-    "year": 1956,
-    "desc": "The Voice at his finest."
-  },
-  {
-    "artist": "Nat King Cole",
-    "album": "The Very Thought of You",
-    "year": 1958,
-    "desc": "Smooth vocal perfection."
-  },
-  {
-    "artist": "Aretha Franklin",
-    "album": "I Never Loved a Man the Way I Love You",
-    "year": 1967,
-    "desc": "Soul power from the Queen."
-  },
-  {
-    "artist": "Otis Redding",
-    "album": "Otis Blue",
-    "year": 1965,
-    "desc": "Southern soul brilliance."
-  },
-  {
-    "artist": "Sam Cooke",
-    "album": "Live at the Harlem Square Club, 1963",
-    "year": 1985,
-    "desc": "Soul legend live and electric."
-  },
-  {
-    "artist": "Ray Charles",
-    "album": "Modern Sounds in Country and Western Music",
-    "year": 1962,
-    "desc": "Genre-blending genius."
-  },
-  {
-    "artist": "Ludwig van Beethoven",
-    "album": "Symphony No. 9",
-    "year": 1824,
-    "desc": "Classical masterpiece featuring 'Ode to Joy'."
-  },
-  {
-    "artist": "Wolfgang Amadeus Mozart",
-    "album": "Requiem",
-    "year": 1791,
-    "desc": "Haunting classical choral work."
-  },
-  {
-    "artist": "Johann Sebastian Bach",
-    "album": "The Brandenburg Concertos",
-    "year": 1721,
-    "desc": "Baroque orchestral brilliance."
-  },
-  {
-    "artist": "Pyotr Ilyich Tchaikovsky",
-    "album": "The Nutcracker",
-    "year": 1892,
-    "desc": "Ballet music beloved worldwide."
-  },
-  {
-    "artist": "Antonio Vivaldi",
-    "album": "The Four Seasons",
-    "year": 1725,
-    "desc": "Baroque violin concertos depicting seasons."
-  },
-  {
-    "artist": "George Gershwin",
-    "album": "Rhapsody in Blue",
-    "year": 1924,
-    "desc": "Jazz meets classical composition."
-  },
-  {
-    "artist": "Aaron Copland",
-    "album": "Appalachian Spring",
-    "year": 1944,
-    "desc": "American classical pastoral."
-  },
-  {
-    "artist": "Philip Glass",
-    "album": "Glassworks",
-    "year": 1982,
-    "desc": "Minimalist classical innovation."
-  },
-  {
-    "artist": "Yo-Yo Ma",
-    "album": "The Cello Suites",
-    "year": 1998,
-    "desc": "Bach performed on cello beautifully."
-  },
-  {
-    "artist": "Andrea Bocelli",
-    "album": "Romanza",
-    "year": 1997,
-    "desc": "Classical crossover vocal beauty."
-  },
-  {
-    "artist": "Enya",
-    "album": "Watermark",
-    "year": 1988,
-    "desc": "Celtic new age atmosphere."
-  },
-  {
-    "artist": "Yanni",
-    "album": "Live at the Acropolis",
-    "year": 1994,
-    "desc": "New age instrumental grandeur."
-  },
-  {
-    "artist": "Enigma",
-    "album": "MCMXC a.D.",
-    "year": 1990,
-    "desc": "Ambient electronic meditation."
-  },
-  {
-    "artist": "Vangelis",
-    "album": "Chariots of Fire",
-    "year": 1981,
-    "desc": "Electronic film score brilliance."
-  },
-  {
-    "artist": "Hans Zimmer",
-    "album": "The Lion King Soundtrack",
-    "year": 1994,
-    "desc": "Film score magic from Disney classic."
-  },
-  {
-    "artist": "John Williams",
-    "album": "Star Wars Soundtrack",
-    "year": 1977,
-    "desc": "Iconic orchestral film score."
-  },
-  {
-    "artist": "Ennio Morricone",
-    "album": "The Good, the Bad and the Ugly Soundtrack",
-    "year": 1966,
-    "desc": "Western film score legend."
-  },
-  {
-    "artist": "Danny Elfman",
-    "album": "The Nightmare Before Christmas Soundtrack",
-    "year": 1993,
-    "desc": "Gothic musical film score."
-  },
-  {
-    "artist": "Coldplay",
-    "album": "A Rush of Blood to the Head",
-    "year": 2002,
-    "desc": "Emotional alternative rock."
-  },
-  {
-    "artist": "The Killers",
-    "album": "Hot Fuss",
-    "year": 2004,
-    "desc": "Indie rock with anthemic hooks."
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "album": "Whatever People Say I Am, That's What I'm Not",
-    "year": 2006,
-    "desc": "British indie rock debut."
-  },
-  {
-    "artist": "The Strokes",
-    "album": "Is This It",
-    "year": 2001,
-    "desc": "Garage rock revival classic."
-  },
-  {
-    "artist": "Franz Ferdinand",
-    "album": "Franz Ferdinand",
-    "year": 2004,
-    "desc": "Post-punk revival energy."
-  },
-  {
-    "artist": "Muse",
-    "album": "Absolution",
-    "year": 2003,
-    "desc": "Progressive alternative rock drama."
-  },
-  {
-    "artist": "Foo Fighters",
-    "album": "The Colour and the Shape",
-    "year": 1997,
-    "desc": "Post-grunge rock excellence."
-  },
-  {
-    "artist": "Weezer",
-    "album": "Weezer (Blue Album)",
-    "year": 1994,
-    "desc": "Power-pop alternative rock."
-  },
-  {
-    "artist": "The Smashing Pumpkins",
-    "album": "Siamese Dream",
-    "year": 1993,
-    "desc": "Alternative rock layered guitars."
-  },
-  {
-    "artist": "Pixies",
-    "album": "Doolittle",
-    "year": 1989,
-    "desc": "Alternative rock influence on grunge."
-  },
-  {
-    "artist": "Sonic Youth",
-    "album": "Daydream Nation",
-    "year": 1988,
-    "desc": "Noise rock experimental excellence."
-  },
-  {
-    "artist": "The White Stripes",
-    "album": "Elephant",
-    "year": 2003,
-    "desc": "Garage rock minimalism."
-  },
-  {
-    "artist": "Jack White",
-    "album": "Blunderbuss",
-    "year": 2012,
-    "desc": "Blues rock solo debut."
-  },
-  {
-    "artist": "The Black Keys",
-    "album": "Brothers",
-    "year": 2010,
-    "desc": "Blues rock revival."
-  },
-  {
-    "artist": "Kings of Leon",
-    "album": "Only by the Night",
-    "year": 2008,
-    "desc": "Arena rock anthems."
-  },
-  {
-    "artist": "Arcade Fire",
-    "album": "Funeral",
-    "year": 2004,
-    "desc": "Indie rock with orchestral elements."
-  },
-  {
-    "artist": "Vampire Weekend",
-    "album": "Vampire Weekend",
-    "year": 2008,
-    "desc": "Indie pop with Afrobeat influences."
-  },
-  {
-    "artist": "MGMT",
-    "album": "Oracular Spectacular",
-    "year": 2007,
-    "desc": "Psychedelic indie pop."
-  },
-  {
-    "artist": "Phoenix",
-    "album": "Wolfgang Amadeus Phoenix",
-    "year": 2009,
-    "desc": "French indie pop perfection."
-  },
-  {
-    "artist": "Tame Impala",
-    "album": "Lonerism",
-    "year": 2012,
-    "desc": "Psychedelic rock production."
-  },
-  {
-    "artist": "Alabama Shakes",
-    "album": "Boys & Girls",
-    "year": 2012,
-    "desc": "Southern rock and soul revival."
-  },
-  {
-    "artist": "John Mayer",
-    "album": "Continuum",
-    "year": 2006,
-    "desc": "Blues-influenced pop-rock."
-  },
-  {
-    "artist": "Jack Johnson",
-    "album": "In Between Dreams",
-    "year": 2005,
-    "desc": "Laid-back acoustic pop."
-  },
-  {
-    "artist": "Jason Mraz",
-    "album": "We Sing. We Dance. We Steal Things.",
-    "year": 2008,
-    "desc": "Feel-good acoustic pop."
-  },
-  {
-    "artist": "Norah Jones",
-    "album": "Come Away with Me",
-    "year": 2002,
-    "desc": "Jazz-influenced pop vocals."
-  },
-  {
-    "artist": "Adele",
-    "album": "21",
-    "year": 2011,
-    "desc": "Soul-pop vocal powerhouse."
-  },
-  {
-    "artist": "Amy Winehouse",
-    "album": "Back to Black",
-    "year": 2006,
-    "desc": "Retro soul with modern edge."
-  },
-  {
-    "artist": "Alicia Keys",
-    "album": "Songs in A Minor",
-    "year": 2001,
-    "desc": "R&B piano-driven excellence."
-  },
-  {
-    "artist": "John Legend",
-    "album": "Get Lifted",
-    "year": 2004,
-    "desc": "Contemporary R&B soul."
-  },
-  {
-    "artist": "Bruno Mars",
-    "album": "Unorthodox Jukebox",
-    "year": 2012,
-    "desc": "Retro pop-funk excellence."
-  },
-  {
-    "artist": "Mark Ronson",
-    "album": "Uptown Special",
-    "year": 2015,
-    "desc": "Funk revival featuring 'Uptown Funk'."
-  },
-  {
-    "artist": "Pharrell Williams",
-    "album": "G I R L",
-    "year": 2014,
-    "desc": "Feel-good pop featuring 'Happy'."
-  },
-  {
-    "artist": "The Weeknd",
-    "album": "Beauty Behind the Madness",
-    "year": 2015,
-    "desc": "Contemporary R&B production."
-  },
-  {
-    "artist": "Taylor Swift",
-    "album": "1989",
-    "year": 2014,
-    "desc": "Pop transformation featuring 'Shake It Off'."
-  },
-  {
-    "artist": "Ed Sheeran",
-    "album": "x (Multiply)",
-    "year": 2014,
-    "desc": "Acoustic pop songwriting."
-  },
-  {
-    "artist": "Sam Smith",
-    "album": "In the Lonely Hour",
-    "year": 2014,
-    "desc": "Soulful pop ballads."
-  },
-  {
-    "artist": "Hozier",
-    "album": "Hozier",
-    "year": 2014,
-    "desc": "Blues-influenced indie rock."
-  },
-  {
-    "artist": "Mumford & Sons",
-    "album": "Sigh No More",
-    "year": 2009,
-    "desc": "Folk-rock with banjo."
-  },
-  {
-    "artist": "The Lumineers",
-    "album": "The Lumineers",
-    "year": 2012,
-    "desc": "Americana folk-rock."
-  },
-  {
-    "artist": "Of Monsters and Men",
-    "album": "My Head Is an Animal",
-    "year": 2011,
-    "desc": "Icelandic indie folk-pop."
-  },
-  {
-    "artist": "Fleet Foxes",
-    "album": "Fleet Foxes",
-    "year": 2008,
-    "desc": "Baroque folk harmonies."
-  },
-  {
-    "artist": "Bon Iver",
-    "album": "For Emma, Forever Ago",
-    "year": 2007,
-    "desc": "Intimate indie folk."
-  },
-  {
-    "artist": "The National",
-    "album": "Boxer",
-    "year": 2007,
-    "desc": "Melancholic indie rock."
-  },
-  {
-    "artist": "Interpol",
-    "album": "Turn On the Bright Lights",
-    "year": 2002,
-    "desc": "Post-punk revival atmosphere."
-  },
-  {
-    "artist": "Yeah Yeah Yeahs",
-    "album": "Fever to Tell",
-    "year": 2003,
-    "desc": "Art-punk energy."
-  },
-  {
-    "artist": "The Postal Service",
-    "album": "Give Up",
-    "year": 2003,
-    "desc": "Indie electronic pop."
-  },
-  {
-    "artist": "Death Cab for Cutie",
-    "album": "Transatlanticism",
-    "year": 2003,
-    "desc": "Indie rock emotional depth."
-  },
-  {
-    "artist": "Modest Mouse",
-    "album": "Good News for People Who Love Bad News",
-    "year": 2004,
-    "desc": "Quirky indie rock breakthrough."
-  },
-  {
-    "artist": "Wilco",
-    "album": "Yankee Hotel Foxtrot",
-    "year": 2002,
-    "desc": "Alternative country experimentation."
-  },
-  {
-    "artist": "Ryan Adams",
-    "album": "Gold",
-    "year": 2001,
-    "desc": "Alt-country singer-songwriter."
-  },
-  {
-    "artist": "Counting Crows",
-    "album": "August and Everything After",
-    "year": 1993,
-    "desc": "Alternative rock storytelling."
-  },
-  {
-    "artist": "Dave Matthews Band",
-    "album": "Under the Table and Dreaming",
-    "year": 1994,
-    "desc": "Jam band rock excellence."
-  },
-  {
-    "artist": "Phish",
-    "album": "A Picture of Nectar",
-    "year": 1992,
-    "desc": "Jam band improvisation."
-  },
-  {
-    "artist": "Ben Folds Five",
-    "album": "Whatever and Ever Amen",
-    "year": 1997,
-    "desc": "Piano rock alternative."
-  },
-  {
-    "artist": "The Wallflowers",
-    "album": "Bringing Down the Horse",
-    "year": 1996,
-    "desc": "Alternative rock featuring 'One Headlight'."
-  },
-  {
-    "artist": "Third Eye Blind",
-    "album": "Third Eye Blind",
-    "year": 1997,
-    "desc": "90s alternative rock hits."
-  },
-  {
-    "artist": "Matchbox Twenty",
-    "album": "Yourself or Someone Like You",
-    "year": 1996,
-    "desc": "Post-grunge pop-rock."
-  },
-  {
-    "artist": "Goo Goo Dolls",
-    "album": "Dizzy Up the Girl",
-    "year": 1998,
-    "desc": "Alternative rock ballads."
-  },
-  {
-    "artist": "Train",
-    "album": "Drops of Jupiter",
-    "year": 2001,
-    "desc": "Pop-rock featuring title track hit."
-  },
-  {
-    "artist": "Vertical Horizon",
-    "album": "Everything You Want",
-    "year": 1999,
-    "desc": "Alternative rock radio hits."
-  },
-  {
-    "artist": "Live",
-    "album": "Throwing Copper",
-    "year": 1994,
-    "desc": "Alternative rock spiritual themes."
-  },
-  {
-    "artist": "Bush",
-    "album": "Sixteen Stone",
-    "year": 1994,
-    "desc": "Post-grunge heavy guitars."
-  },
-  {
-    "artist": "Stone Temple Pilots",
-    "album": "Core",
-    "year": 1992,
-    "desc": "Grunge-influenced hard rock."
-  },
-  {
-    "artist": "Collective Soul",
-    "album": "Collective Soul",
-    "year": 1995,
-    "desc": "Post-grunge rock anthems."
-  },
-  {
-    "artist": "Creed",
-    "album": "My Own Prison",
-    "year": 1997,
-    "desc": "Post-grunge arena rock."
-  },
-  {
-    "artist": "Incubus",
-    "album": "Make Yourself",
-    "year": 1999,
-    "desc": "Alternative rock with funk elements."
-  },
-  {
-    "artist": "311",
-    "album": "311",
-    "year": 1995,
-    "desc": "Rock-rap fusion positivity."
-  },
-  {
-    "artist": "Sublime",
-    "album": "Sublime",
-    "year": 1996,
-    "desc": "Ska-punk-reggae fusion."
-  },
-  {
-    "artist": "No Doubt",
-    "album": "Tragic Kingdom",
-    "year": 1995,
-    "desc": "Ska-pop featuring 'Don't Speak'."
-  },
-  {
-    "artist": "Garbage",
-    "album": "Garbage",
-    "year": 1995,
-    "desc": "Alternative rock electronic elements."
-  },
-  {
-    "artist": "Hole",
-    "album": "Live Through This",
-    "year": 1994,
-    "desc": "Grunge with punk attitude."
-  },
-  {
-    "artist": "L7",
-    "album": "Bricks Are Heavy",
-    "year": 1992,
-    "desc": "Grunge punk power."
-  },
-  {
-    "artist": "The Breeders",
-    "album": "Last Splash",
-    "year": 1993,
-    "desc": "Alternative rock indie charm."
-  },
-  {
-    "artist": "Mazzy Star",
-    "album": "So Tonight That I Might See",
-    "year": 1993,
-    "desc": "Dream pop atmosphere."
-  },
-  {
-    "artist": "Cocteau Twins",
-    "album": "Heaven or Las Vegas",
-    "year": 1990,
-    "desc": "Dream pop ethereal vocals."
-  },
-  {
-    "artist": "My Bloody Valentine",
-    "album": "Loveless",
-    "year": 1991,
-    "desc": "Shoegaze wall of sound."
-  },
-  {
-    "artist": "Ride",
-    "album": "Nowhere",
-    "year": 1990,
-    "desc": "Shoegaze guitar textures."
-  },
-  {
-    "artist": "Slowdive",
-    "album": "Souvlaki",
-    "year": 1993,
-    "desc": "Shoegaze dreamy guitars."
-  },
-  {
-    "artist": "The Jesus and Mary Chain",
-    "album": "Psychocandy",
-    "year": 1985,
-    "desc": "Noise pop feedback and melody."
-  },
-  {
-    "artist": "Spiritualized",
-    "album": "Ladies and Gentlemen We Are Floating in Space",
-    "year": 1997,
-    "desc": "Space rock psychedelia."
-  },
-  {
-    "artist": "Primal Scream",
-    "album": "Screamadelica",
-    "year": 1991,
-    "desc": "Alternative rock meets rave culture."
-  },
-  {
-    "artist": "The Stone Roses",
-    "album": "The Stone Roses",
-    "year": 1989,
-    "desc": "Madchester jangly guitars."
-  },
-  {
-    "artist": "Happy Mondays",
-    "album": "Pills 'n' Thrills and Bellyaches",
-    "year": 1990,
-    "desc": "Madchester dance-rock fusion."
-  },
-  {
-    "artist": "The Charlatans",
-    "album": "Some Friendly",
-    "year": 1990,
-    "desc": "Madchester organ-driven rock."
-  },
-  {
-    "artist": "Suede",
-    "album": "Suede",
-    "year": 1993,
-    "desc": "Britpop glam rock revival."
-  },
-  {
-    "artist": "Pulp",
-    "album": "Different Class",
-    "year": 1995,
-    "desc": "Britpop social commentary."
-  },
-  {
-    "artist": "Elastica",
-    "album": "Elastica",
-    "year": 1995,
-    "desc": "Britpop new wave influence."
-  },
-  {
-    "artist": "The Verve",
-    "album": "Urban Hymns",
-    "year": 1997,
-    "desc": "Britpop featuring 'Bitter Sweet Symphony'."
-  },
-  {
-    "artist": "Travis",
-    "album": "The Man Who",
-    "year": 1999,
-    "desc": "Britpop melodic rock."
-  },
-  {
-    "artist": "Stereophonics",
-    "album": "Word Gets Around",
-    "year": 1997,
-    "desc": "Welsh rock working-class stories."
-  },
-  {
-    "artist": "Manic Street Preachers",
-    "album": "Everything Must Go",
-    "year": 1996,
-    "desc": "Welsh alternative rock anthems."
-  },
-  {
-    "artist": "Radiohead",
-    "album": "The Bends",
-    "year": 1995,
-    "desc": "Alternative rock emotional depth."
-  },
-  {
-    "artist": "Beck",
-    "album": "Odelay",
-    "year": 1996,
-    "desc": "Genre-blending alternative hip-hop."
-  },
-  {
-    "artist": "Pavement",
-    "album": "Crooked Rain, Crooked Rain",
-    "year": 1994,
-    "desc": "Lo-fi indie rock slacker attitude."
-  },
-  {
-    "artist": "Guided by Voices",
-    "album": "Bee Thousand",
-    "year": 1994,
-    "desc": "Lo-fi indie rock raw charm."
-  },
-  {
-    "artist": "Built to Spill",
-    "album": "Perfect from Now On",
-    "year": 1997,
-    "desc": "Indie rock guitar epics."
-  },
-  {
-    "artist": "Neutral Milk Hotel",
-    "album": "In the Aeroplane Over the Sea",
-    "year": 1998,
-    "desc": "Lo-fi indie folk cult classic."
-  },
-  {
-    "artist": "The Flaming Lips",
-    "album": "The Soft Bulletin",
-    "year": 1999,
-    "desc": "Experimental indie rock orchestration."
-  },
-  {
-    "artist": "Mercury Rev",
-    "album": "Deserter's Songs",
-    "year": 1998,
-    "desc": "Psychedelic indie rock lush production."
-  },
-  {
-    "artist": "Sigur Rós",
-    "album": "Ágætis byrjun",
-    "year": 1999,
-    "desc": "Icelandic post-rock ethereal beauty."
-  },
-  {
-    "artist": "Explosions in the Sky",
-    "album": "The Earth Is Not a Cold Dead Place",
-    "year": 2003,
-    "desc": "Post-rock instrumental emotion."
-  },
-  {
-    "artist": "Mogwai",
-    "album": "Young Team",
-    "year": 1997,
-    "desc": "Scottish post-rock dynamics."
-  },
-  {
-    "artist": "Godspeed You! Black Emperor",
-    "album": "Lift Your Skinny Fists Like Antennas to Heaven",
-    "year": 2000,
-    "desc": "Post-rock epic compositions."
-  },
-  {
-    "artist": "Tortoise",
-    "album": "Millions Now Living Will Never Die",
-    "year": 1996,
-    "desc": "Post-rock jazz fusion."
-  },
-  {
-    "artist": "Air",
-    "album": "Moon Safari",
-    "year": 1998,
-    "desc": "French electronic downtempo."
-  },
-  {
-    "artist": "Zero 7",
-    "album": "Simple Things",
-    "year": 2001,
-    "desc": "Downtempo electronica chill."
-  },
-  {
-    "artist": "Thievery Corporation",
-    "album": "The Mirror Conspiracy",
-    "year": 2000,
-    "desc": "Downtempo lounge electronica."
-  },
-  {
-    "artist": "Kruder & Dorfmeister",
-    "album": "The K&D Sessions",
-    "year": 1998,
-    "desc": "Downtempo trip-hop remixes."
-  },
-  {
-    "artist": "DJ Shadow",
-    "album": "Endtroducing.....",
-    "year": 1996,
-    "desc": "Instrumental hip-hop sample collage."
-  },
-  {
-    "artist": "RJD2",
-    "album": "Deadringer",
-    "year": 2002,
-    "desc": "Instrumental hip-hop production."
-  },
-  {
-    "artist": "Boards of Canada",
-    "album": "Music Has the Right to Children",
-    "year": 1998,
-    "desc": "IDM nostalgic electronica."
-  },
-  {
-    "artist": "Aphex Twin",
-    "album": "Selected Ambient Works 85-92",
-    "year": 1992,
-    "desc": "Ambient techno innovation."
-  },
-  {
-    "artist": "Orbital",
-    "album": "In Sides",
-    "year": 1996,
-    "desc": "Electronic techno progressions."
-  },
-  {
-    "artist": "The Orb",
-    "album": "The Orb's Adventures Beyond the Ultraworld",
-    "year": 1991,
-    "desc": "Ambient house soundscapes."
-  },
-  {
-    "artist": "Underworld",
-    "album": "Dubnobasswithmyheadman",
-    "year": 1994,
-    "desc": "Techno progressive house."
-  },
-  {
-    "artist": "Leftfield",
-    "album": "Leftism",
-    "year": 1995,
-    "desc": "Progressive house electronica."
-  },
-  {
-    "artist": "LCD Soundsystem",
-    "album": "Sound of Silver",
-    "year": 2007,
-    "desc": "Dance-punk electronic rock."
-  },
-  {
-    "artist": "Hot Chip",
-    "album": "The Warning",
-    "year": 2006,
-    "desc": "Indie electronic dance-pop."
-  },
-  {
-    "artist": "Cut Copy",
-    "album": "In Ghost Colours",
-    "year": 2008,
-    "desc": "Indie dance synth-pop."
-  },
-  {
-    "artist": "M83",
-    "album": "Hurry Up, We're Dreaming",
-    "year": 2011,
-    "desc": "Electronic shoegaze epic."
-  },
-  {
-    "artist": "Röyksopp",
-    "album": "Melody A.M.",
-    "year": 2001,
-    "desc": "Norwegian electronic downtempo."
-  },
-  {
-    "artist": "The Avalanches",
-    "album": "Since I Left You",
-    "year": 2000,
-    "desc": "Plunderphonics sample collage."
-  },
-  {
-    "artist": "Justice",
-    "album": "†",
-    "year": 2007,
-    "desc": "French electro-house rock fusion."
-  },
-  {
-    "artist": "Kavinsky",
-    "album": "OutRun",
-    "year": 2013,
-    "desc": "Synthwave retro electronic."
-  },
-  {
-    "artist": "Chromeo",
-    "album": "Fancy Footwork",
-    "year": 2007,
-    "desc": "Electro-funk dance-pop."
-  },
-  {
-    "artist": "MGMT",
-    "album": "Congratulations",
-    "year": 2010,
-    "desc": "Psychedelic electronic experimentation."
-  },
-  {
-    "artist": "Foster the People",
-    "album": "Torches",
-    "year": 2011,
-    "desc": "Indie pop electronic hooks."
-  },
-  {
-    "artist": "Passion Pit",
-    "album": "Manners",
-    "year": 2009,
-    "desc": "Indie electronic synth-pop."
-  },
-  {
-    "artist": "Two Door Cinema Club",
-    "album": "Tourist History",
-    "year": 2010,
-    "desc": "Indie rock electronic energy."
-  },
-  {
-    "artist": "The Naked and Famous",
-    "album": "Passive Me, Aggressive You",
-    "year": 2010,
-    "desc": "Indie electronic anthems."
-  },
-  {
-    "artist": "Chvrches",
-    "album": "The Bones of What You Believe",
-    "year": 2013,
-    "desc": "Synth-pop indie electronic."
-  },
-  {
-    "artist": "Purity Ring",
-    "album": "Shrines",
-    "year": 2012,
-    "desc": "Electronic witch house pop."
-  },
-  {
-    "artist": "FKA twigs",
-    "album": "LP1",
-    "year": 2014,
-    "desc": "Experimental R&B electronic."
-  },
-  {
-    "artist": "James Blake",
-    "album": "James Blake",
-    "year": 2011,
-    "desc": "Electronic soul minimalism."
-  },
-  {
-    "artist": "The xx",
-    "album": "xx",
-    "year": 2009,
-    "desc": "Minimal indie electronic intimacy."
-  },
-  {
-    "artist": "alt-J",
-    "album": "An Awesome Wave",
-    "year": 2012,
-    "desc": "Indie rock experimental vocals."
-  },
-  {
-    "artist": "Glass Animals",
-    "album": "Zaba",
-    "year": 2014,
-    "desc": "Psychedelic indie pop production."
-  },
-  {
-    "artist": "Local Natives",
-    "album": "Gorilla Manor",
-    "year": 2009,
-    "desc": "Indie rock harmonies."
-  },
-  {
-    "artist": "Young the Giant",
-    "album": "Young the Giant",
-    "year": 2011,
-    "desc": "Alternative rock indie anthems."
-  },
-  {
-    "artist": "Imagine Dragons",
-    "album": "Night Visions",
-    "year": 2012,
-    "desc": "Alternative rock arena pop."
-  },
-  {
-    "artist": "OneRepublic",
-    "album": "Dreaming Out Loud",
-    "year": 2007,
-    "desc": "Pop-rock piano-driven."
-  },
-  {
-    "artist": "The Script",
-    "album": "The Script",
-    "year": 2008,
-    "desc": "Irish pop-rock storytelling."
-  },
-  {
-    "artist": "Snow Patrol",
-    "album": "Final Straw",
-    "year": 2003,
-    "desc": "Alternative rock emotional anthems."
-  },
-  {
-    "artist": "Keane",
-    "album": "Hopes and Fears",
-    "year": 2004,
-    "desc": "Piano-driven alternative rock."
-  },
-  {
-    "artist": "Athlete",
-    "album": "Vehicles & Animals",
-    "year": 2003,
-    "desc": "British indie rock melodies."
-  },
-  {
-    "artist": "Elbow",
-    "album": "The Seldom Seen Kid",
-    "year": 2008,
-    "desc": "Alternative rock orchestral depth."
-  },
-  {
-    "artist": "Badly Drawn Boy",
-    "album": "The Hour of Bewilderbeast",
-    "year": 2000,
-    "desc": "Indie folk lo-fi charm."
-  },
-  {
-    "artist": "Iron & Wine",
-    "album": "The Creek Drank the Cradle",
-    "year": 2002,
-    "desc": "Acoustic folk whispered vocals."
-  },
-  {
-    "artist": "Sufjan Stevens",
-    "album": "Illinois",
-    "year": 2005,
-    "desc": "Indie folk orchestral storytelling."
-  },
-  {
-    "artist": "The Decemberists",
-    "album": "Picaresque",
-    "year": 2005,
-    "desc": "Indie folk literary lyrics."
-  },
-  {
-    "artist": "Bright Eyes",
-    "album": "I'm Wide Awake, It's Morning",
-    "year": 2005,
-    "desc": "Indie folk emotional rawness."
-  },
-  {
-    "artist": "Andrew Bird",
-    "album": "Armchair Apocrypha",
-    "year": 2007,
-    "desc": "Indie folk violin and whistling."
-  },
-  {
-    "artist": "Nick Drake",
-    "album": "Pink Moon",
-    "year": 1972,
-    "desc": "Intimate acoustic folk beauty."
-  },
-  {
-    "artist": "Elliott Smith",
-    "album": "Either/Or",
-    "year": 1997,
-    "desc": "Indie folk melancholic songwriting."
-  },
-  {
-    "artist": "Jeff Buckley",
-    "album": "Grace",
-    "year": 1994,
-    "desc": "Alternative rock vocal range and emotion."
-  },
-  {
-    "artist": "Rufus Wainwright",
-    "album": "Want One",
-    "year": 2003,
-    "desc": "Baroque pop orchestral arrangements."
-  }
+ {
+  "artist": "The Beatles",
+  "album": "Abbey Road",
+  "year": 1969,
+  "desc": "A timeless masterpiece that defined a generation."
+ },
+ {
+  "artist": "The Beatles",
+  "album": "Sgt. Pepper's Lonely Hearts Club Band",
+  "year": 1967,
+  "desc": "Revolutionary concept album that changed music forever."
+ },
+ {
+  "artist": "Queen",
+  "album": "A Night at the Opera",
+  "year": 1975,
+  "desc": "Home to 'Bohemian Rhapsody' - pure rock brilliance."
+ },
+ {
+  "artist": "Queen",
+  "album": "News of the World",
+  "year": 1977,
+  "desc": "Featuring 'We Will Rock You' and 'We Are the Champions'."
+ },
+ {
+  "artist": "Steve Vai",
+  "album": "Passion and Warfare",
+  "year": 1990,
+  "desc": "Virtuoso guitar playing at its absolute finest."
+ },
+ {
+  "artist": "Steve Vai",
+  "album": "Flex-Able",
+  "year": 1984,
+  "desc": "Innovative instrumental guitar work that pushed boundaries."
+ },
+ {
+  "artist": "Extreme",
+  "album": "Extreme",
+  "year": 1989,
+  "desc": "Funk-metal fusion that launched a phenomenal career."
+ },
+ {
+  "artist": "Journey",
+  "album": "Escape",
+  "year": 1981,
+  "desc": "Classic rock perfection with 'Don't Stop Believin'."
+ },
+ {
+  "artist": "Journey",
+  "album": "Frontiers",
+  "year": 1983,
+  "desc": "Stadium rock excellence from start to finish."
+ },
+ {
+  "artist": "Pink Floyd",
+  "album": "The Dark Side of the Moon",
+  "year": 1973,
+  "desc": "Progressive rock masterpiece that redefined the genre."
+ },
+ {
+  "artist": "Pink Floyd",
+  "album": "The Wall",
+  "year": 1979,
+  "desc": "Epic rock opera exploring isolation and rebellion."
+ },
+ {
+  "artist": "Fleetwood Mac",
+  "album": "Rumours",
+  "year": 1977,
+  "desc": "One of the best-selling albums of all time."
+ },
+ {
+  "artist": "Eagles",
+  "album": "Hotel California",
+  "year": 1976,
+  "desc": "Iconic title track and timeless songwriting."
+ },
+ {
+  "artist": "Michael Jackson",
+  "album": "Thriller",
+  "year": 1982,
+  "desc": "The best-selling album in history."
+ },
+ {
+  "artist": "Michael Jackson",
+  "album": "Bad",
+  "year": 1987,
+  "desc": "Pop excellence with groundbreaking music videos."
+ },
+ {
+  "artist": "U2",
+  "album": "The Joshua Tree",
+  "year": 1987,
+  "desc": "Anthemic rock that defined the 80s."
+ },
+ {
+  "artist": "Bruce Springsteen",
+  "album": "Born to Run",
+  "year": 1975,
+  "desc": "American rock storytelling at its finest."
+ },
+ {
+  "artist": "Boston",
+  "album": "Boston",
+  "year": 1976,
+  "desc": "Debut album that revolutionized arena rock."
+ },
+ {
+  "artist": "Toto",
+  "album": "Toto IV",
+  "year": 1982,
+  "desc": "Grammy-winning masterpiece featuring 'Africa'."
+ },
+ {
+  "artist": "Dire Straits",
+  "album": "Brothers in Arms",
+  "year": 1985,
+  "desc": "Sophisticated rock with 'Money for Nothing'."
+ },
+ {
+  "artist": "Van Halen",
+  "album": "Van Halen",
+  "year": 1978,
+  "desc": "Explosive debut that changed guitar forever."
+ },
+ {
+  "artist": "Van Halen",
+  "album": "1984",
+  "year": 1984,
+  "desc": "Synth-rock perfection with 'Jump'."
+ },
+ {
+  "artist": "Def Leppard",
+  "album": "Hysteria",
+  "year": 1987,
+  "desc": "Polished rock production and massive hits."
+ },
+ {
+  "artist": "The Police",
+  "album": "Synchronicity",
+  "year": 1983,
+  "desc": "New wave brilliance with 'Every Breath You Take'."
+ },
+ {
+  "artist": "Steely Dan",
+  "album": "Aja",
+  "year": 1977,
+  "desc": "Jazz-rock fusion with impeccable production."
+ },
+ {
+  "artist": "Billy Joel",
+  "album": "The Stranger",
+  "year": 1977,
+  "desc": "Piano-driven pop excellence throughout."
+ },
+ {
+  "artist": "Billy Joel",
+  "album": "52nd Street",
+  "year": 1978,
+  "desc": "Grammy Album of the Year winner."
+ },
+ {
+  "artist": "Elton John",
+  "album": "Goodbye Yellow Brick Road",
+  "year": 1973,
+  "desc": "Double album showcasing incredible range."
+ },
+ {
+  "artist": "David Bowie",
+  "album": "The Rise and Fall of Ziggy Stardust",
+  "year": 1972,
+  "desc": "Glam rock concept album and cultural phenomenon."
+ },
+ {
+  "artist": "Simon & Garfunkel",
+  "album": "Bridge Over Troubled Water",
+  "year": 1970,
+  "desc": "Beautiful harmonies and timeless songwriting."
+ },
+ {
+  "artist": "Carole King",
+  "album": "Tapestry",
+  "year": 1971,
+  "desc": "Singer-songwriter masterpiece that topped charts for weeks."
+ },
+ {
+  "artist": "The Doors",
+  "album": "L.A. Woman",
+  "year": 1971,
+  "desc": "Blues-infused rock from the legendary Morrison."
+ },
+ {
+  "artist": "The Who",
+  "album": "Who's Next",
+  "year": 1971,
+  "desc": "Powerful rock with synthesizers."
+ },
+ {
+  "artist": "Led Zeppelin",
+  "album": "Led Zeppelin IV",
+  "year": 1971,
+  "desc": "Contains 'Stairway to Heaven' - rock royalty."
+ },
+ {
+  "artist": "Cream",
+  "album": "Disraeli Gears",
+  "year": 1967,
+  "desc": "Psychedelic blues-rock innovation."
+ },
+ {
+  "artist": "Jimi Hendrix",
+  "album": "Are You Experienced",
+  "year": 1967,
+  "desc": "Revolutionary guitar playing that inspired millions."
+ },
+ {
+  "artist": "The Rolling Stones",
+  "album": "Exile on Main St.",
+  "year": 1972,
+  "desc": "Raw, bluesy rock excellence."
+ },
+ {
+  "artist": "Supertramp",
+  "album": "Breakfast in America",
+  "year": 1979,
+  "desc": "Progressive pop with quirky charm."
+ },
+ {
+  "artist": "The Cars",
+  "album": "The Cars",
+  "year": 1978,
+  "desc": "New wave debut packed with hits."
+ },
+ {
+  "artist": "Heart",
+  "album": "Dreamboat Annie",
+  "year": 1975,
+  "desc": "Rock power fronted by the Wilson sisters."
+ },
+ {
+  "artist": "Pat Benatar",
+  "album": "Crimes of Passion",
+  "year": 1980,
+  "desc": "Powerful vocals and rock attitude."
+ },
+ {
+  "artist": "Blondie",
+  "album": "Parallel Lines",
+  "year": 1978,
+  "desc": "New wave and disco fusion hits."
+ },
+ {
+  "artist": "Joe Satriani",
+  "album": "Surfing with the Alien",
+  "year": 1987,
+  "desc": "Instrumental guitar mastery."
+ },
+ {
+  "artist": "Eric Clapton",
+  "album": "Unplugged",
+  "year": 1992,
+  "desc": "Acoustic brilliance featuring 'Tears in Heaven'."
+ },
+ {
+  "artist": "Stevie Wonder",
+  "album": "Songs in the Key of Life",
+  "year": 1976,
+  "desc": "Soul masterpiece spanning multiple styles."
+ },
+ {
+  "artist": "Marvin Gaye",
+  "album": "What's Going On",
+  "year": 1971,
+  "desc": "Socially conscious soul classic."
+ },
+ {
+  "artist": "Earth, Wind & Fire",
+  "album": "That's the Way of the World",
+  "year": 1975,
+  "desc": "Funk, soul, and R&B perfection."
+ },
+ {
+  "artist": "The Jackson 5",
+  "album": "ABC",
+  "year": 1970,
+  "desc": "Motown pop brilliance."
+ },
+ {
+  "artist": "Whitney Houston",
+  "album": "Whitney Houston",
+  "year": 1985,
+  "desc": "Debut showcasing one of the greatest voices ever."
+ },
+ {
+  "artist": "Madonna",
+  "album": "Like a Virgin",
+  "year": 1984,
+  "desc": "Pop icon's breakthrough album."
+ },
+ {
+  "artist": "Peter Gabriel",
+  "album": "So",
+  "year": 1986,
+  "desc": "Art rock with 'Sledgehammer'."
+ },
+ {
+  "artist": "Genesis",
+  "album": "Invisible Touch",
+  "year": 1986,
+  "desc": "Pop-rock accessibility from prog legends."
+ },
+ {
+  "artist": "Phil Collins",
+  "album": "No Jacket Required",
+  "year": 1985,
+  "desc": "Grammy Album of the Year winner."
+ },
+ {
+  "artist": "Huey Lewis and the News",
+  "album": "Sports",
+  "year": 1983,
+  "desc": "Upbeat rock with massive commercial appeal."
+ },
+ {
+  "artist": "Hall & Oates",
+  "album": "H2O",
+  "year": 1982,
+  "desc": "Blue-eyed soul pop excellence."
+ },
+ {
+  "artist": "Tears for Fears",
+  "album": "Songs from the Big Chair",
+  "year": 1985,
+  "desc": "Synth-pop sophistication."
+ },
+ {
+  "artist": "Duran Duran",
+  "album": "Rio",
+  "year": 1982,
+  "desc": "New wave glamour and style."
+ },
+ {
+  "artist": "INXS",
+  "album": "Kick",
+  "year": 1987,
+  "desc": "Australian rock with global appeal."
+ },
+ {
+  "artist": "R.E.M.",
+  "album": "Out of Time",
+  "year": 1991,
+  "desc": "Alternative rock breakthrough with 'Losing My Religion'."
+ },
+ {
+  "artist": "Nirvana",
+  "album": "Nevermind",
+  "year": 1991,
+  "desc": "Grunge explosion that changed rock."
+ },
+ {
+  "artist": "Pearl Jam",
+  "album": "Ten",
+  "year": 1991,
+  "desc": "Grunge classic with emotional depth."
+ },
+ {
+  "artist": "Soundgarden",
+  "album": "Superunknown",
+  "year": 1994,
+  "desc": "Heavy alternative rock masterpiece."
+ },
+ {
+  "artist": "Alice in Chains",
+  "album": "Dirt",
+  "year": 1992,
+  "desc": "Dark, heavy, and melodic grunge."
+ },
+ {
+  "artist": "Radiohead",
+  "album": "OK Computer",
+  "year": 1997,
+  "desc": "Ambitious alternative rock exploring technology."
+ },
+ {
+  "artist": "Oasis",
+  "album": "(What's the Story) Morning Glory?",
+  "year": 1995,
+  "desc": "Britpop anthem collection."
+ },
+ {
+  "artist": "Blur",
+  "album": "Parklife",
+  "year": 1994,
+  "desc": "British pop brilliance."
+ },
+ {
+  "artist": "The Cranberries",
+  "album": "No Need to Argue",
+  "year": 1994,
+  "desc": "Alternative rock with distinctive vocals."
+ },
+ {
+  "artist": "Alanis Morissette",
+  "album": "Jagged Little Pill",
+  "year": 1995,
+  "desc": "Raw emotion and 90s rock attitude."
+ },
+ {
+  "artist": "Green Day",
+  "album": "Dookie",
+  "year": 1994,
+  "desc": "Punk rock revival for a new generation."
+ },
+ {
+  "artist": "The Offspring",
+  "album": "Smash",
+  "year": 1994,
+  "desc": "Punk energy with catchy hooks."
+ },
+ {
+  "artist": "Metallica",
+  "album": "Master of Puppets",
+  "year": 1986,
+  "desc": "Thrash metal masterpiece."
+ },
+ {
+  "artist": "Iron Maiden",
+  "album": "The Number of the Beast",
+  "year": 1982,
+  "desc": "Heavy metal excellence."
+ },
+ {
+  "artist": "AC/DC",
+  "album": "Back in Black",
+  "year": 1980,
+  "desc": "One of the best-selling rock albums ever."
+ },
+ {
+  "artist": "Bon Jovi",
+  "album": "Slippery When Wet",
+  "year": 1986,
+  "desc": "Arena rock anthems galore."
+ },
+ {
+  "artist": "Aerosmith",
+  "album": "Toys in the Attic",
+  "year": 1975,
+  "desc": "Classic American rock and roll."
+ },
+ {
+  "artist": "ZZ Top",
+  "album": "Eliminator",
+  "year": 1983,
+  "desc": "Blues-rock with synth production."
+ },
+ {
+  "artist": "Lynyrd Skynyrd",
+  "album": "Pronounced 'Lĕh-'nérd 'Skin-'nérd",
+  "year": 1973,
+  "desc": "Southern rock featuring 'Free Bird'."
+ },
+ {
+  "artist": "The Allman Brothers Band",
+  "album": "At Fillmore East",
+  "year": 1971,
+  "desc": "Live southern rock jamming."
+ },
+ {
+  "artist": "Santana",
+  "album": "Abraxas",
+  "year": 1970,
+  "desc": "Latin rock fusion magic."
+ },
+ {
+  "artist": "Chicago",
+  "album": "Chicago Transit Authority",
+  "year": 1969,
+  "desc": "Jazz-rock with horn sections."
+ },
+ {
+  "artist": "The Band",
+  "album": "Music from Big Pink",
+  "year": 1968,
+  "desc": "Roots rock foundation."
+ },
+ {
+  "artist": "Creedence Clearwater Revival",
+  "album": "Cosmo's Factory",
+  "year": 1970,
+  "desc": "Swamp rock brilliance."
+ },
+ {
+  "artist": "Jefferson Airplane",
+  "album": "Surrealistic Pillow",
+  "year": 1967,
+  "desc": "Psychedelic rock classic."
+ },
+ {
+  "artist": "The Velvet Underground",
+  "album": "The Velvet Underground & Nico",
+  "year": 1967,
+  "desc": "Influential avant-garde rock."
+ },
+ {
+  "artist": "Janis Joplin",
+  "album": "Pearl",
+  "year": 1971,
+  "desc": "Blues-rock vocal power."
+ },
+ {
+  "artist": "Bob Dylan",
+  "album": "Highway 61 Revisited",
+  "year": 1965,
+  "desc": "Folk-rock poetry featuring 'Like a Rolling Stone'."
+ },
+ {
+  "artist": "Joni Mitchell",
+  "album": "Blue",
+  "year": 1971,
+  "desc": "Deeply personal singer-songwriter classic."
+ },
+ {
+  "artist": "James Taylor",
+  "album": "Sweet Baby James",
+  "year": 1970,
+  "desc": "Soft rock and folk perfection."
+ },
+ {
+  "artist": "Cat Stevens",
+  "album": "Tea for the Tillerman",
+  "year": 1970,
+  "desc": "Folk-pop with spiritual depth."
+ },
+ {
+  "artist": "Neil Young",
+  "album": "Harvest",
+  "year": 1972,
+  "desc": "Folk-rock featuring 'Heart of Gold'."
+ },
+ {
+  "artist": "Crosby, Stills, Nash & Young",
+  "album": "Déjà Vu",
+  "year": 1970,
+  "desc": "Harmony-rich folk-rock."
+ },
+ {
+  "artist": "The Moody Blues",
+  "album": "Days of Future Passed",
+  "year": 1967,
+  "desc": "Orchestral progressive rock."
+ },
+ {
+  "artist": "Yes",
+  "album": "Fragile",
+  "year": 1971,
+  "desc": "Progressive rock complexity."
+ },
+ {
+  "artist": "King Crimson",
+  "album": "In the Court of the Crimson King",
+  "year": 1969,
+  "desc": "Progressive rock foundation."
+ },
+ {
+  "artist": "Emerson, Lake & Palmer",
+  "album": "Brain Salad Surgery",
+  "year": 1973,
+  "desc": "Keyboard-driven prog excellence."
+ },
+ {
+  "artist": "Rush",
+  "album": "Moving Pictures",
+  "year": 1981,
+  "desc": "Progressive rock with 'Tom Sawyer'."
+ },
+ {
+  "artist": "Dream Theater",
+  "album": "Images and Words",
+  "year": 1992,
+  "desc": "Technical progressive metal."
+ },
+ {
+  "artist": "The Cure",
+  "album": "Disintegration",
+  "year": 1989,
+  "desc": "Atmospheric gothic rock."
+ },
+ {
+  "artist": "Depeche Mode",
+  "album": "Violator",
+  "year": 1990,
+  "desc": "Dark synth-pop brilliance."
+ },
+ {
+  "artist": "New Order",
+  "album": "Power, Corruption & Lies",
+  "year": 1983,
+  "desc": "Post-punk electronic innovation."
+ },
+ {
+  "artist": "The Smiths",
+  "album": "The Queen Is Dead",
+  "year": 1986,
+  "desc": "Alternative rock with literary lyrics."
+ },
+ {
+  "artist": "Talking Heads",
+  "album": "Remain in Light",
+  "year": 1980,
+  "desc": "Afrobeat-influenced new wave."
+ },
+ {
+  "artist": "Devo",
+  "album": "Q: Are We Not Men? A: We Are Devo!",
+  "year": 1978,
+  "desc": "Quirky new wave art-punk."
+ },
+ {
+  "artist": "The B-52's",
+  "album": "The B-52's",
+  "year": 1979,
+  "desc": "Party rock with surf influences."
+ },
+ {
+  "artist": "Björk",
+  "album": "Homogenic",
+  "year": 1997,
+  "desc": "Experimental electronic art-pop."
+ },
+ {
+  "artist": "Portishead",
+  "album": "Dummy",
+  "year": 1994,
+  "desc": "Trip-hop atmosphere and mood."
+ },
+ {
+  "artist": "Massive Attack",
+  "album": "Blue Lines",
+  "year": 1991,
+  "desc": "Trip-hop foundation."
+ },
+ {
+  "artist": "Moby",
+  "album": "Play",
+  "year": 1999,
+  "desc": "Electronic music meets blues samples."
+ },
+ {
+  "artist": "The Chemical Brothers",
+  "album": "Dig Your Own Hole",
+  "year": 1997,
+  "desc": "Big beat electronic excellence."
+ },
+ {
+  "artist": "Daft Punk",
+  "album": "Discovery",
+  "year": 2001,
+  "desc": "French house music innovation."
+ },
+ {
+  "artist": "Fatboy Slim",
+  "album": "You've Come a Long Way, Baby",
+  "year": 1998,
+  "desc": "Big beat party anthems."
+ },
+ {
+  "artist": "Miles Davis",
+  "album": "Kind of Blue",
+  "year": 1959,
+  "desc": "Modal jazz masterpiece."
+ },
+ {
+  "artist": "John Coltrane",
+  "album": "A Love Supreme",
+  "year": 1965,
+  "desc": "Spiritual jazz journey."
+ },
+ {
+  "artist": "Dave Brubeck",
+  "album": "Time Out",
+  "year": 1959,
+  "desc": "Cool jazz featuring 'Take Five'."
+ },
+ {
+  "artist": "Bill Evans",
+  "album": "Waltz for Debby",
+  "year": 1962,
+  "desc": "Intimate jazz trio perfection."
+ },
+ {
+  "artist": "Herbie Hancock",
+  "album": "Head Hunters",
+  "year": 1973,
+  "desc": "Jazz-funk fusion innovation."
+ },
+ {
+  "artist": "Weather Report",
+  "album": "Heavy Weather",
+  "year": 1977,
+  "desc": "Jazz fusion featuring 'Birdland'."
+ },
+ {
+  "artist": "Pat Metheny Group",
+  "album": "Offramp",
+  "year": 1982,
+  "desc": "Contemporary jazz guitar brilliance."
+ },
+ {
+  "artist": "Chick Corea",
+  "album": "Return to Forever",
+  "year": 1972,
+  "desc": "Jazz fusion excellence."
+ },
+ {
+  "artist": "Duke Ellington",
+  "album": "Ellington at Newport",
+  "year": 1956,
+  "desc": "Big band jazz legend live."
+ },
+ {
+  "artist": "Count Basie",
+  "album": "The Atomic Mr. Basie",
+  "year": 1958,
+  "desc": "Swinging big band perfection."
+ },
+ {
+  "artist": "Ella Fitzgerald",
+  "album": "Ella Fitzgerald Sings the Cole Porter Song Book",
+  "year": 1956,
+  "desc": "Vocal jazz excellence."
+ },
+ {
+  "artist": "Frank Sinatra",
+  "album": "Songs for Swingin' Lovers!",
+  "year": 1956,
+  "desc": "The Voice at his finest."
+ },
+ {
+  "artist": "Nat King Cole",
+  "album": "The Very Thought of You",
+  "year": 1958,
+  "desc": "Smooth vocal perfection."
+ },
+ {
+  "artist": "Aretha Franklin",
+  "album": "I Never Loved a Man the Way I Love You",
+  "year": 1967,
+  "desc": "Soul power from the Queen."
+ },
+ {
+  "artist": "Otis Redding",
+  "album": "Otis Blue",
+  "year": 1965,
+  "desc": "Southern soul brilliance."
+ },
+ {
+  "artist": "Sam Cooke",
+  "album": "Live at the Harlem Square Club, 1963",
+  "year": 1985,
+  "desc": "Soul legend live and electric."
+ },
+ {
+  "artist": "Ray Charles",
+  "album": "Modern Sounds in Country and Western Music",
+  "year": 1962,
+  "desc": "Genre-blending genius."
+ },
+ {
+  "artist": "Ludwig van Beethoven",
+  "album": "Symphony No. 9",
+  "year": 1824,
+  "desc": "Classical masterpiece featuring 'Ode to Joy'."
+ },
+ {
+  "artist": "Wolfgang Amadeus Mozart",
+  "album": "Requiem",
+  "year": 1791,
+  "desc": "Haunting classical choral work."
+ },
+ {
+  "artist": "Johann Sebastian Bach",
+  "album": "The Brandenburg Concertos",
+  "year": 1721,
+  "desc": "Baroque orchestral brilliance."
+ },
+ {
+  "artist": "Pyotr Ilyich Tchaikovsky",
+  "album": "The Nutcracker",
+  "year": 1892,
+  "desc": "Ballet music beloved worldwide."
+ },
+ {
+  "artist": "Antonio Vivaldi",
+  "album": "The Four Seasons",
+  "year": 1725,
+  "desc": "Baroque violin concertos depicting seasons."
+ },
+ {
+  "artist": "George Gershwin",
+  "album": "Rhapsody in Blue",
+  "year": 1924,
+  "desc": "Jazz meets classical composition."
+ },
+ {
+  "artist": "Aaron Copland",
+  "album": "Appalachian Spring",
+  "year": 1944,
+  "desc": "American classical pastoral."
+ },
+ {
+  "artist": "Philip Glass",
+  "album": "Glassworks",
+  "year": 1982,
+  "desc": "Minimalist classical innovation."
+ },
+ {
+  "artist": "Yo-Yo Ma",
+  "album": "The Cello Suites",
+  "year": 1998,
+  "desc": "Bach performed on cello beautifully."
+ },
+ {
+  "artist": "Andrea Bocelli",
+  "album": "Romanza",
+  "year": 1997,
+  "desc": "Classical crossover vocal beauty."
+ },
+ {
+  "artist": "Enya",
+  "album": "Watermark",
+  "year": 1988,
+  "desc": "Celtic new age atmosphere."
+ },
+ {
+  "artist": "Yanni",
+  "album": "Live at the Acropolis",
+  "year": 1994,
+  "desc": "New age instrumental grandeur."
+ },
+ {
+  "artist": "Enigma",
+  "album": "MCMXC a.D.",
+  "year": 1990,
+  "desc": "Ambient electronic meditation."
+ },
+ {
+  "artist": "Vangelis",
+  "album": "Chariots of Fire",
+  "year": 1981,
+  "desc": "Electronic film score brilliance."
+ },
+ {
+  "artist": "Hans Zimmer",
+  "album": "The Lion King Soundtrack",
+  "year": 1994,
+  "desc": "Film score magic from Disney classic."
+ },
+ {
+  "artist": "John Williams",
+  "album": "Star Wars Soundtrack",
+  "year": 1977,
+  "desc": "Iconic orchestral film score."
+ },
+ {
+  "artist": "Ennio Morricone",
+  "album": "The Good, the Bad and the Ugly Soundtrack",
+  "year": 1966,
+  "desc": "Western film score legend."
+ },
+ {
+  "artist": "Danny Elfman",
+  "album": "The Nightmare Before Christmas Soundtrack",
+  "year": 1993,
+  "desc": "Gothic musical film score."
+ },
+ {
+  "artist": "Coldplay",
+  "album": "A Rush of Blood to the Head",
+  "year": 2002,
+  "desc": "Emotional alternative rock."
+ },
+ {
+  "artist": "The Killers",
+  "album": "Hot Fuss",
+  "year": 2004,
+  "desc": "Indie rock with anthemic hooks."
+ },
+ {
+  "artist": "Arctic Monkeys",
+  "album": "Whatever People Say I Am, That's What I'm Not",
+  "year": 2006,
+  "desc": "British indie rock debut."
+ },
+ {
+  "artist": "The Strokes",
+  "album": "Is This It",
+  "year": 2001,
+  "desc": "Garage rock revival classic."
+ },
+ {
+  "artist": "Franz Ferdinand",
+  "album": "Franz Ferdinand",
+  "year": 2004,
+  "desc": "Post-punk revival energy."
+ },
+ {
+  "artist": "Muse",
+  "album": "Absolution",
+  "year": 2003,
+  "desc": "Progressive alternative rock drama."
+ },
+ {
+  "artist": "Foo Fighters",
+  "album": "The Colour and the Shape",
+  "year": 1997,
+  "desc": "Post-grunge rock excellence."
+ },
+ {
+  "artist": "Weezer",
+  "album": "Weezer (Blue Album)",
+  "year": 1994,
+  "desc": "Power-pop alternative rock."
+ },
+ {
+  "artist": "The Smashing Pumpkins",
+  "album": "Siamese Dream",
+  "year": 1993,
+  "desc": "Alternative rock layered guitars."
+ },
+ {
+  "artist": "Pixies",
+  "album": "Doolittle",
+  "year": 1989,
+  "desc": "Alternative rock influence on grunge."
+ },
+ {
+  "artist": "Sonic Youth",
+  "album": "Daydream Nation",
+  "year": 1988,
+  "desc": "Noise rock experimental excellence."
+ },
+ {
+  "artist": "The White Stripes",
+  "album": "Elephant",
+  "year": 2003,
+  "desc": "Garage rock minimalism."
+ },
+ {
+  "artist": "Jack White",
+  "album": "Blunderbuss",
+  "year": 2012,
+  "desc": "Blues rock solo debut."
+ },
+ {
+  "artist": "The Black Keys",
+  "album": "Brothers",
+  "year": 2010,
+  "desc": "Blues rock revival."
+ },
+ {
+  "artist": "Kings of Leon",
+  "album": "Only by the Night",
+  "year": 2008,
+  "desc": "Arena rock anthems."
+ },
+ {
+  "artist": "Arcade Fire",
+  "album": "Funeral",
+  "year": 2004,
+  "desc": "Indie rock with orchestral elements."
+ },
+ {
+  "artist": "Vampire Weekend",
+  "album": "Vampire Weekend",
+  "year": 2008,
+  "desc": "Indie pop with Afrobeat influences."
+ },
+ {
+  "artist": "MGMT",
+  "album": "Oracular Spectacular",
+  "year": 2007,
+  "desc": "Psychedelic indie pop."
+ },
+ {
+  "artist": "Phoenix",
+  "album": "Wolfgang Amadeus Phoenix",
+  "year": 2009,
+  "desc": "French indie pop perfection."
+ },
+ {
+  "artist": "Tame Impala",
+  "album": "Lonerism",
+  "year": 2012,
+  "desc": "Psychedelic rock production."
+ },
+ {
+  "artist": "Alabama Shakes",
+  "album": "Boys & Girls",
+  "year": 2012,
+  "desc": "Southern rock and soul revival."
+ },
+ {
+  "artist": "John Mayer",
+  "album": "Continuum",
+  "year": 2006,
+  "desc": "Blues-influenced pop-rock."
+ },
+ {
+  "artist": "Jack Johnson",
+  "album": "In Between Dreams",
+  "year": 2005,
+  "desc": "Laid-back acoustic pop."
+ },
+ {
+  "artist": "Jason Mraz",
+  "album": "We Sing. We Dance. We Steal Things.",
+  "year": 2008,
+  "desc": "Feel-good acoustic pop."
+ },
+ {
+  "artist": "Norah Jones",
+  "album": "Come Away with Me",
+  "year": 2002,
+  "desc": "Jazz-influenced pop vocals."
+ },
+ {
+  "artist": "Adele",
+  "album": "21",
+  "year": 2011,
+  "desc": "Soul-pop vocal powerhouse."
+ },
+ {
+  "artist": "Amy Winehouse",
+  "album": "Back to Black",
+  "year": 2006,
+  "desc": "Retro soul with modern edge."
+ },
+ {
+  "artist": "Alicia Keys",
+  "album": "Songs in A Minor",
+  "year": 2001,
+  "desc": "R&B piano-driven excellence."
+ },
+ {
+  "artist": "John Legend",
+  "album": "Get Lifted",
+  "year": 2004,
+  "desc": "Contemporary R&B soul."
+ },
+ {
+  "artist": "Bruno Mars",
+  "album": "Unorthodox Jukebox",
+  "year": 2012,
+  "desc": "Retro pop-funk excellence."
+ },
+ {
+  "artist": "Mark Ronson",
+  "album": "Uptown Special",
+  "year": 2015,
+  "desc": "Funk revival featuring 'Uptown Funk'."
+ },
+ {
+  "artist": "Pharrell Williams",
+  "album": "G I R L",
+  "year": 2014,
+  "desc": "Feel-good pop featuring 'Happy'."
+ },
+ {
+  "artist": "The Weeknd",
+  "album": "Beauty Behind the Madness",
+  "year": 2015,
+  "desc": "Contemporary R&B production."
+ },
+ {
+  "artist": "Taylor Swift",
+  "album": "1989",
+  "year": 2014,
+  "desc": "Pop transformation featuring 'Shake It Off'."
+ },
+ {
+  "artist": "Ed Sheeran",
+  "album": "x (Multiply)",
+  "year": 2014,
+  "desc": "Acoustic pop songwriting."
+ },
+ {
+  "artist": "Sam Smith",
+  "album": "In the Lonely Hour",
+  "year": 2014,
+  "desc": "Soulful pop ballads."
+ },
+ {
+  "artist": "Hozier",
+  "album": "Hozier",
+  "year": 2014,
+  "desc": "Blues-influenced indie rock."
+ },
+ {
+  "artist": "Mumford & Sons",
+  "album": "Sigh No More",
+  "year": 2009,
+  "desc": "Folk-rock with banjo."
+ },
+ {
+  "artist": "The Lumineers",
+  "album": "The Lumineers",
+  "year": 2012,
+  "desc": "Americana folk-rock."
+ },
+ {
+  "artist": "Of Monsters and Men",
+  "album": "My Head Is an Animal",
+  "year": 2011,
+  "desc": "Icelandic indie folk-pop."
+ },
+ {
+  "artist": "Fleet Foxes",
+  "album": "Fleet Foxes",
+  "year": 2008,
+  "desc": "Baroque folk harmonies."
+ },
+ {
+  "artist": "Bon Iver",
+  "album": "For Emma, Forever Ago",
+  "year": 2007,
+  "desc": "Intimate indie folk."
+ },
+ {
+  "artist": "The National",
+  "album": "Boxer",
+  "year": 2007,
+  "desc": "Melancholic indie rock."
+ },
+ {
+  "artist": "Interpol",
+  "album": "Turn On the Bright Lights",
+  "year": 2002,
+  "desc": "Post-punk revival atmosphere."
+ },
+ {
+  "artist": "Yeah Yeah Yeahs",
+  "album": "Fever to Tell",
+  "year": 2003,
+  "desc": "Art-punk energy."
+ },
+ {
+  "artist": "The Postal Service",
+  "album": "Give Up",
+  "year": 2003,
+  "desc": "Indie electronic pop."
+ },
+ {
+  "artist": "Death Cab for Cutie",
+  "album": "Transatlanticism",
+  "year": 2003,
+  "desc": "Indie rock emotional depth."
+ },
+ {
+  "artist": "Modest Mouse",
+  "album": "Good News for People Who Love Bad News",
+  "year": 2004,
+  "desc": "Quirky indie rock breakthrough."
+ },
+ {
+  "artist": "Wilco",
+  "album": "Yankee Hotel Foxtrot",
+  "year": 2002,
+  "desc": "Alternative country experimentation."
+ },
+ {
+  "artist": "Ryan Adams",
+  "album": "Gold",
+  "year": 2001,
+  "desc": "Alt-country singer-songwriter."
+ },
+ {
+  "artist": "Counting Crows",
+  "album": "August and Everything After",
+  "year": 1993,
+  "desc": "Alternative rock storytelling."
+ },
+ {
+  "artist": "Dave Matthews Band",
+  "album": "Under the Table and Dreaming",
+  "year": 1994,
+  "desc": "Jam band rock excellence."
+ },
+ {
+  "artist": "Phish",
+  "album": "A Picture of Nectar",
+  "year": 1992,
+  "desc": "Jam band improvisation."
+ },
+ {
+  "artist": "Ben Folds Five",
+  "album": "Whatever and Ever Amen",
+  "year": 1997,
+  "desc": "Piano rock alternative."
+ },
+ {
+  "artist": "The Wallflowers",
+  "album": "Bringing Down the Horse",
+  "year": 1996,
+  "desc": "Alternative rock featuring 'One Headlight'."
+ },
+ {
+  "artist": "Third Eye Blind",
+  "album": "Third Eye Blind",
+  "year": 1997,
+  "desc": "90s alternative rock hits."
+ },
+ {
+  "artist": "Matchbox Twenty",
+  "album": "Yourself or Someone Like You",
+  "year": 1996,
+  "desc": "Post-grunge pop-rock."
+ },
+ {
+  "artist": "Goo Goo Dolls",
+  "album": "Dizzy Up the Girl",
+  "year": 1998,
+  "desc": "Alternative rock ballads."
+ },
+ {
+  "artist": "Train",
+  "album": "Drops of Jupiter",
+  "year": 2001,
+  "desc": "Pop-rock featuring title track hit."
+ },
+ {
+  "artist": "Vertical Horizon",
+  "album": "Everything You Want",
+  "year": 1999,
+  "desc": "Alternative rock radio hits."
+ },
+ {
+  "artist": "Live",
+  "album": "Throwing Copper",
+  "year": 1994,
+  "desc": "Alternative rock spiritual themes."
+ },
+ {
+  "artist": "Bush",
+  "album": "Sixteen Stone",
+  "year": 1994,
+  "desc": "Post-grunge heavy guitars."
+ },
+ {
+  "artist": "Stone Temple Pilots",
+  "album": "Core",
+  "year": 1992,
+  "desc": "Grunge-influenced hard rock."
+ },
+ {
+  "artist": "Collective Soul",
+  "album": "Collective Soul",
+  "year": 1995,
+  "desc": "Post-grunge rock anthems."
+ },
+ {
+  "artist": "Creed",
+  "album": "My Own Prison",
+  "year": 1997,
+  "desc": "Post-grunge arena rock."
+ },
+ {
+  "artist": "Incubus",
+  "album": "Make Yourself",
+  "year": 1999,
+  "desc": "Alternative rock with funk elements."
+ },
+ {
+  "artist": "311",
+  "album": "311",
+  "year": 1995,
+  "desc": "Rock-rap fusion positivity."
+ },
+ {
+  "artist": "No Doubt",
+  "album": "Tragic Kingdom",
+  "year": 1995,
+  "desc": "Ska-pop featuring 'Don't Speak'."
+ },
+ {
+  "artist": "Garbage",
+  "album": "Garbage",
+  "year": 1995,
+  "desc": "Alternative rock electronic elements."
+ },
+ {
+  "artist": "L7",
+  "album": "Bricks Are Heavy",
+  "year": 1992,
+  "desc": "Grunge punk power."
+ },
+ {
+  "artist": "The Breeders",
+  "album": "Last Splash",
+  "year": 1993,
+  "desc": "Alternative rock indie charm."
+ },
+ {
+  "artist": "Mazzy Star",
+  "album": "So Tonight That I Might See",
+  "year": 1993,
+  "desc": "Dream pop atmosphere."
+ },
+ {
+  "artist": "Cocteau Twins",
+  "album": "Heaven or Las Vegas",
+  "year": 1990,
+  "desc": "Dream pop ethereal vocals."
+ },
+ {
+  "artist": "My Bloody Valentine",
+  "album": "Loveless",
+  "year": 1991,
+  "desc": "Shoegaze wall of sound."
+ },
+ {
+  "artist": "Ride",
+  "album": "Nowhere",
+  "year": 1990,
+  "desc": "Shoegaze guitar textures."
+ },
+ {
+  "artist": "Slowdive",
+  "album": "Souvlaki",
+  "year": 1993,
+  "desc": "Shoegaze dreamy guitars."
+ },
+ {
+  "artist": "The Jesus and Mary Chain",
+  "album": "Psychocandy",
+  "year": 1985,
+  "desc": "Noise pop feedback and melody."
+ },
+ {
+  "artist": "Spiritualized",
+  "album": "Ladies and Gentlemen We Are Floating in Space",
+  "year": 1997,
+  "desc": "Space rock psychedelia."
+ },
+ {
+  "artist": "Primal Scream",
+  "album": "Screamadelica",
+  "year": 1991,
+  "desc": "Alternative rock meets rave culture."
+ },
+ {
+  "artist": "The Stone Roses",
+  "album": "The Stone Roses",
+  "year": 1989,
+  "desc": "Madchester jangly guitars."
+ },
+ {
+  "artist": "The Charlatans",
+  "album": "Some Friendly",
+  "year": 1990,
+  "desc": "Madchester organ-driven rock."
+ },
+ {
+  "artist": "Suede",
+  "album": "Suede",
+  "year": 1993,
+  "desc": "Britpop glam rock revival."
+ },
+ {
+  "artist": "Pulp",
+  "album": "Different Class",
+  "year": 1995,
+  "desc": "Britpop social commentary."
+ },
+ {
+  "artist": "Elastica",
+  "album": "Elastica",
+  "year": 1995,
+  "desc": "Britpop new wave influence."
+ },
+ {
+  "artist": "The Verve",
+  "album": "Urban Hymns",
+  "year": 1997,
+  "desc": "Britpop featuring 'Bitter Sweet Symphony'."
+ },
+ {
+  "artist": "Travis",
+  "album": "The Man Who",
+  "year": 1999,
+  "desc": "Britpop melodic rock."
+ },
+ {
+  "artist": "Stereophonics",
+  "album": "Word Gets Around",
+  "year": 1997,
+  "desc": "Welsh rock working-class stories."
+ },
+ {
+  "artist": "Manic Street Preachers",
+  "album": "Everything Must Go",
+  "year": 1996,
+  "desc": "Welsh alternative rock anthems."
+ },
+ {
+  "artist": "Radiohead",
+  "album": "The Bends",
+  "year": 1995,
+  "desc": "Alternative rock emotional depth."
+ },
+ {
+  "artist": "Beck",
+  "album": "Odelay",
+  "year": 1996,
+  "desc": "Genre-blending alternative hip-hop."
+ },
+ {
+  "artist": "Pavement",
+  "album": "Crooked Rain, Crooked Rain",
+  "year": 1994,
+  "desc": "Lo-fi indie rock slacker attitude."
+ },
+ {
+  "artist": "Guided by Voices",
+  "album": "Bee Thousand",
+  "year": 1994,
+  "desc": "Lo-fi indie rock raw charm."
+ },
+ {
+  "artist": "Built to Spill",
+  "album": "Perfect from Now On",
+  "year": 1997,
+  "desc": "Indie rock guitar epics."
+ },
+ {
+  "artist": "Neutral Milk Hotel",
+  "album": "In the Aeroplane Over the Sea",
+  "year": 1998,
+  "desc": "Lo-fi indie folk cult classic."
+ },
+ {
+  "artist": "The Flaming Lips",
+  "album": "The Soft Bulletin",
+  "year": 1999,
+  "desc": "Experimental indie rock orchestration."
+ },
+ {
+  "artist": "Mercury Rev",
+  "album": "Deserter's Songs",
+  "year": 1998,
+  "desc": "Psychedelic indie rock lush production."
+ },
+ {
+  "artist": "Sigur Rós",
+  "album": "Ágætis byrjun",
+  "year": 1999,
+  "desc": "Icelandic post-rock ethereal beauty."
+ },
+ {
+  "artist": "Explosions in the Sky",
+  "album": "The Earth Is Not a Cold Dead Place",
+  "year": 2003,
+  "desc": "Post-rock instrumental emotion."
+ },
+ {
+  "artist": "Mogwai",
+  "album": "Young Team",
+  "year": 1997,
+  "desc": "Scottish post-rock dynamics."
+ },
+ {
+  "artist": "Godspeed You! Black Emperor",
+  "album": "Lift Your Skinny Fists Like Antennas to Heaven",
+  "year": 2000,
+  "desc": "Post-rock epic compositions."
+ },
+ {
+  "artist": "Tortoise",
+  "album": "Millions Now Living Will Never Die",
+  "year": 1996,
+  "desc": "Post-rock jazz fusion."
+ },
+ {
+  "artist": "Air",
+  "album": "Moon Safari",
+  "year": 1998,
+  "desc": "French electronic downtempo."
+ },
+ {
+  "artist": "Zero 7",
+  "album": "Simple Things",
+  "year": 2001,
+  "desc": "Downtempo electronica chill."
+ },
+ {
+  "artist": "Thievery Corporation",
+  "album": "The Mirror Conspiracy",
+  "year": 2000,
+  "desc": "Downtempo lounge electronica."
+ },
+ {
+  "artist": "Kruder & Dorfmeister",
+  "album": "The K&D Sessions",
+  "year": 1998,
+  "desc": "Downtempo trip-hop remixes."
+ },
+ {
+  "artist": "DJ Shadow",
+  "album": "Endtroducing.....",
+  "year": 1996,
+  "desc": "Instrumental hip-hop sample collage."
+ },
+ {
+  "artist": "RJD2",
+  "album": "Deadringer",
+  "year": 2002,
+  "desc": "Instrumental hip-hop production."
+ },
+ {
+  "artist": "Boards of Canada",
+  "album": "Music Has the Right to Children",
+  "year": 1998,
+  "desc": "IDM nostalgic electronica."
+ },
+ {
+  "artist": "Aphex Twin",
+  "album": "Selected Ambient Works 85-92",
+  "year": 1992,
+  "desc": "Ambient techno innovation."
+ },
+ {
+  "artist": "Orbital",
+  "album": "In Sides",
+  "year": 1996,
+  "desc": "Electronic techno progressions."
+ },
+ {
+  "artist": "The Orb",
+  "album": "The Orb's Adventures Beyond the Ultraworld",
+  "year": 1991,
+  "desc": "Ambient house soundscapes."
+ },
+ {
+  "artist": "Underworld",
+  "album": "Dubnobasswithmyheadman",
+  "year": 1994,
+  "desc": "Techno progressive house."
+ },
+ {
+  "artist": "Leftfield",
+  "album": "Leftism",
+  "year": 1995,
+  "desc": "Progressive house electronica."
+ },
+ {
+  "artist": "LCD Soundsystem",
+  "album": "Sound of Silver",
+  "year": 2007,
+  "desc": "Dance-punk electronic rock."
+ },
+ {
+  "artist": "Hot Chip",
+  "album": "The Warning",
+  "year": 2006,
+  "desc": "Indie electronic dance-pop."
+ },
+ {
+  "artist": "Cut Copy",
+  "album": "In Ghost Colours",
+  "year": 2008,
+  "desc": "Indie dance synth-pop."
+ },
+ {
+  "artist": "M83",
+  "album": "Hurry Up, We're Dreaming",
+  "year": 2011,
+  "desc": "Electronic shoegaze epic."
+ },
+ {
+  "artist": "Röyksopp",
+  "album": "Melody A.M.",
+  "year": 2001,
+  "desc": "Norwegian electronic downtempo."
+ },
+ {
+  "artist": "The Avalanches",
+  "album": "Since I Left You",
+  "year": 2000,
+  "desc": "Plunderphonics sample collage."
+ },
+ {
+  "artist": "Justice",
+  "album": "†",
+  "year": 2007,
+  "desc": "French electro-house rock fusion."
+ },
+ {
+  "artist": "Kavinsky",
+  "album": "OutRun",
+  "year": 2013,
+  "desc": "Synthwave retro electronic."
+ },
+ {
+  "artist": "Chromeo",
+  "album": "Fancy Footwork",
+  "year": 2007,
+  "desc": "Electro-funk dance-pop."
+ },
+ {
+  "artist": "MGMT",
+  "album": "Congratulations",
+  "year": 2010,
+  "desc": "Psychedelic electronic experimentation."
+ },
+ {
+  "artist": "Foster the People",
+  "album": "Torches",
+  "year": 2011,
+  "desc": "Indie pop electronic hooks."
+ },
+ {
+  "artist": "Passion Pit",
+  "album": "Manners",
+  "year": 2009,
+  "desc": "Indie electronic synth-pop."
+ },
+ {
+  "artist": "Two Door Cinema Club",
+  "album": "Tourist History",
+  "year": 2010,
+  "desc": "Indie rock electronic energy."
+ },
+ {
+  "artist": "The Naked and Famous",
+  "album": "Passive Me, Aggressive You",
+  "year": 2010,
+  "desc": "Indie electronic anthems."
+ },
+ {
+  "artist": "Chvrches",
+  "album": "The Bones of What You Believe",
+  "year": 2013,
+  "desc": "Synth-pop indie electronic."
+ },
+ {
+  "artist": "Purity Ring",
+  "album": "Shrines",
+  "year": 2012,
+  "desc": "Electronic witch house pop."
+ },
+ {
+  "artist": "FKA twigs",
+  "album": "LP1",
+  "year": 2014,
+  "desc": "Experimental R&B electronic."
+ },
+ {
+  "artist": "James Blake",
+  "album": "James Blake",
+  "year": 2011,
+  "desc": "Electronic soul minimalism."
+ },
+ {
+  "artist": "The xx",
+  "album": "xx",
+  "year": 2009,
+  "desc": "Minimal indie electronic intimacy."
+ },
+ {
+  "artist": "alt-J",
+  "album": "An Awesome Wave",
+  "year": 2012,
+  "desc": "Indie rock experimental vocals."
+ },
+ {
+  "artist": "Glass Animals",
+  "album": "Zaba",
+  "year": 2014,
+  "desc": "Psychedelic indie pop production."
+ },
+ {
+  "artist": "Local Natives",
+  "album": "Gorilla Manor",
+  "year": 2009,
+  "desc": "Indie rock harmonies."
+ },
+ {
+  "artist": "Young the Giant",
+  "album": "Young the Giant",
+  "year": 2011,
+  "desc": "Alternative rock indie anthems."
+ },
+ {
+  "artist": "Imagine Dragons",
+  "album": "Night Visions",
+  "year": 2012,
+  "desc": "Alternative rock arena pop."
+ },
+ {
+  "artist": "OneRepublic",
+  "album": "Dreaming Out Loud",
+  "year": 2007,
+  "desc": "Pop-rock piano-driven."
+ },
+ {
+  "artist": "The Script",
+  "album": "The Script",
+  "year": 2008,
+  "desc": "Irish pop-rock storytelling."
+ },
+ {
+  "artist": "Snow Patrol",
+  "album": "Final Straw",
+  "year": 2003,
+  "desc": "Alternative rock emotional anthems."
+ },
+ {
+  "artist": "Keane",
+  "album": "Hopes and Fears",
+  "year": 2004,
+  "desc": "Piano-driven alternative rock."
+ },
+ {
+  "artist": "Athlete",
+  "album": "Vehicles & Animals",
+  "year": 2003,
+  "desc": "British indie rock melodies."
+ },
+ {
+  "artist": "Elbow",
+  "album": "The Seldom Seen Kid",
+  "year": 2008,
+  "desc": "Alternative rock orchestral depth."
+ },
+ {
+  "artist": "Badly Drawn Boy",
+  "album": "The Hour of Bewilderbeast",
+  "year": 2000,
+  "desc": "Indie folk lo-fi charm."
+ },
+ {
+  "artist": "Iron & Wine",
+  "album": "The Creek Drank the Cradle",
+  "year": 2002,
+  "desc": "Acoustic folk whispered vocals."
+ },
+ {
+  "artist": "Sufjan Stevens",
+  "album": "Illinois",
+  "year": 2005,
+  "desc": "Indie folk orchestral storytelling."
+ },
+ {
+  "artist": "The Decemberists",
+  "album": "Picaresque",
+  "year": 2005,
+  "desc": "Indie folk literary lyrics."
+ },
+ {
+  "artist": "Bright Eyes",
+  "album": "I'm Wide Awake, It's Morning",
+  "year": 2005,
+  "desc": "Indie folk emotional rawness."
+ },
+ {
+  "artist": "Andrew Bird",
+  "album": "Armchair Apocrypha",
+  "year": 2007,
+  "desc": "Indie folk violin and whistling."
+ },
+ {
+  "artist": "Nick Drake",
+  "album": "Pink Moon",
+  "year": 1972,
+  "desc": "Intimate acoustic folk beauty."
+ },
+ {
+  "artist": "Elliott Smith",
+  "album": "Either/Or",
+  "year": 1997,
+  "desc": "Indie folk melancholic songwriting."
+ },
+ {
+  "artist": "Jeff Buckley",
+  "album": "Grace",
+  "year": 1994,
+  "desc": "Alternative rock vocal range and emotion."
+ },
+ {
+  "artist": "Rufus Wainwright",
+  "album": "Want One",
+  "year": 2003,
+  "desc": "Baroque pop orchestral arrangements."
+ }
 ]
