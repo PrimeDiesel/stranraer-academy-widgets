@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-20T02:57:24.014Z",
+  "updated": "2026-08-20T03:47:33.717Z",
   "news": [
     {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "title": "Deaf patient given wrong jab due to sign language error, report says",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f92/live/0f5dc170-9b69-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/19/2026, 2:37:24 AM",
-      "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
+      "url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg",
+      "published": "8/19/2026, 3:37:23 AM",
+      "desc": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods."
+    },
+    {
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+      "published": "8/19/2026, 3:37:22 AM",
+      "desc": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
     },
     {
       "title": "Tim Montgomerie: Suspended Reform UK member vows to fight to remain in party",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/19/2026, 2:22:19 AM",
       "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-    },
-    {
-      "title": "Mobile payments on the rise but cash decline slows",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
-      "published": "8/19/2026, 1:07:27 AM",
-      "desc": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows."
     },
     {
       "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -68,12 +68,44 @@
   ],
   "sports": [
     {
+      "title": "NFL Catchup: Cowboys-Saints Fights, A Christian McCaffrey Update & Deals Were Made",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-cowboys-saints-fights-christian-mccaffrey-update-deals-were-made",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/christian-mccaffrey-catchup.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 3:07:23 AM",
+      "desc": "Here's what you should know about what happened in the NFL on Tuesday."
+    },
+    {
+      "title": "Padres' Tatis homers twice, robs Lindor of grand slam in win - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49654524/padres-tatis-homers-twice-robs-lindor-grand-slam-win",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703713_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 3:07:07 AM",
+      "desc": "Fernando Tatis Jr. reached over the right-field wall to rob the Mets' Francisco Lindor of a grand slam and also hit two home runs on Tuesday night to lead the Padres to a 5-2 win."
+    },
+    {
+      "title": "Brewers tie largest shutout since 1900 with 22-0 win over M's - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49654440/brewers-tie-largest-shutout-1900-22-0-win-ms",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703707_1024x576_16%2D9.jpg",
+      "published": "8/19/2026, 2:53:34 AM",
+      "desc": "The Brewers matched baseball's modern-era record for the largest shutout in MLB history, beating the Mariners 22-0 on Tuesday night."
+    },
+    {
       "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/chargers-torch-49ers-4-takeaways-from-san-francisco-los-angeles-joint-practice",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/chargers-49ers-takeaways.jpg?ve=1&tl=1",
       "published": "8/19/2026, 2:37:18 AM",
       "desc": "Justin Herbert and Chargers had their way with the 49ers on Tuesday, but it wasn't all sunshine and roses for Los Angeles."
+    },
+    {
+      "title": "Kelsey Mitchell scores 29 before sitting out 4th in Fever win - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49654028/fever-kelsey-mitchell-scores-29-points-sitting-4th-quarter-combines-caitlin-clark-wnba-duo-record",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703703_1296x729_16%2D9.jpg",
+      "published": "8/19/2026, 2:05:26 AM",
+      "desc": "Kelsey Mitchell scored 16 points in the first quarter and finished with 29 before sitting out the fourth, Caitlin Clark added 24 points and the Fever beat the Tempo 101-95 on Tuesday for their fifth straight victory."
     },
     {
       "title": "At Least Six Fights Reportedly Break Out During Cowboys And Saints Joint Practice",
@@ -148,22 +180,6 @@
       "desc": "The landscape across the NFL continues to be defined by elite partnerships between head coaches and quarterbacks, here's the top 10 pairings across the league."
     },
     {
-      "title": "Dodgers place Diaz on IL, watch Ohtani throw in bullpen - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49653225/dodgers-place-diaz-il-watch-ohtani-throw-bullpen",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1703654_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 12:17:33 AM",
-      "desc": "The Los Angeles Dodgers on Tuesday put Edwin Diaz, who is 2-2 with an 11.85 ERA and seven saves in 11 opportunities in 16 games, on the injured list because of inflammation in the right side of his neck, while Shohei Ohtani threw another bullpen session."
-    },
-    {
-      "title": "2026 NFL Odds: Will Myles Garrett Repeat As NFL Sack Leader With Rams?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-sack-leader-myles-garrett",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2287173419-2-scaled.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 11:52:29 PM",
-      "desc": "After breaking the single-season sack record in 2025, what will Myles Garrett do for an encore? See the 2026 NFL sack leader odds."
-    },
-    {
       "title": "2026 NFL MVP Odds: Josh Allen Favored; Can Mahomes Challenge?",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
@@ -188,31 +204,31 @@
       "desc": "Five of the six members of the Buss trust say they are \"united\" in their intention to sell their remaining shares in the Lakers, despite pushback from Jeanie Buss."
     },
     {
-      "title": "Miller begins to work on 'dream' of being a Dallas Cowboy - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49651426/miller-begins-work-dream-being-dallas-cowboy",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703545_1296x729_16%2D9.jpg",
-      "published": "8/18/2026, 8:16:56 PM",
-      "desc": "Thrilled to be with the Dallas Cowboys on a one-year contract, Von Miller, 37, spoke to reporters on Tuesday at training camp in Oxnard, California, and the club will work the veteran linebacker into practice slowly, giving him time to acclimate."
-    },
-    {
       "title": "Jamal Musiala collapses during Bayern Munich match for second time in four-day period",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c330kg5xm8no",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da05/live/27df2cc0-9b37-11f1-a794-9d45cb2a51de.jpg",
       "published": "8/18/2026, 7:52:26 PM",
       "desc": "Bayern Munich say Germany midfielder Jamal Musiala will \"speak out\" after collapsing during a match for the second time in a four-day period."
-    },
-    {
-      "title": "Sources: Billy Edwards Jr. to start at QB for North Carolina - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49651014/sources-billy-edwards-jr-start-qb-north-carolina",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0226%2Fr671838_1296x729_16%2D9.jpg",
-      "published": "8/18/2026, 7:06:12 PM",
-      "desc": "North Carolina has named veteran transfer Billy Edwards Jr. as the Tar Heels' starting quarterback for the opener against TCU in Ireland, sources told ESPN."
     }
   ],
   "tech": [
+    {
+      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "image": "https://images.macrumors.com/t/DaKqFvrp9SeA-PSVk2VPrQ7QXog=/2500x/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "published": "8/18/2026, 10:58:41 PM",
+      "desc": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones..."
+    },
+    {
+      "title": "NTE Artwork Features Watermark For Free Trial Of AI Software - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
+      "image": "https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games.jpg",
+      "published": "8/18/2026, 10:00:10 PM",
+      "desc": "NTE players in China spotted the watermark for a free version of the Doubao AI software on the artwork for a seahorse in the game's new update"
+    },
     {
       "title": "Apple Wallet driver’s licenses coming to these states next - 9to5Mac",
       "source": "9to5Mac",
@@ -222,12 +238,36 @@
       "desc": "Seven more states are working on Apple Wallet driver's license support, including Kentucky and North Carolina. Here's where it's coming next."
     },
     {
+      "title": "Google just set the date for its big Googlebook event in New York - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/chromebooks-laptops/google-announces-in-person-nyc-event-for-googlebooks-in-september",
+      "image": "https://cdn.mos.cms.futurecdn.net/PobMdcHMYyz9bvHVd64zjC-1196-80.jpg",
+      "published": "8/18/2026, 8:42:05 PM",
+      "desc": "Google has confirmed an in-person Googlebook Showcase in New York City on September 15, where the platform will be properly unveiled."
+    },
+    {
+      "title": "Multiple GTA 6 Gameplay Videos Appear To Have Leaked, But There's A Catch Or Two - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/08/multiple-gta-6-gameplay-videos-appear-to-have-leaked-but-theres-a-catch-or-two",
+      "image": "https://images.purexbox.com/a28d8a7395571/large.jpg",
+      "published": "8/18/2026, 8:07:27 PM",
+      "desc": "Ahead of the official reveal next week"
+    },
+    {
       "title": "Wake Up, It Looks Like Terranigma Might Finally Be Getting A Re-Release - Time Extension",
       "source": "Timeextension.com",
       "url": "https://www.timeextension.com/news/2026/08/wake-up-it-looks-like-terranigma-might-finally-be-getting-a-re-release",
-      "image": "",
+      "image": "https://images.timeextension.com/ea3f8941bff5f/large.jpg",
       "published": "8/18/2026, 8:05:00 PM",
-      "desc": ""
+      "desc": "\"All the living things in this world await your awakening\""
+    },
+    {
+      "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+      "image": "https://images.macrumors.com/t/BwKol9Vmvn85RMmRLhmulzsVP3k=/2500x/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
+      "published": "8/18/2026, 7:56:40 PM",
+      "desc": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery..."
     },
     {
       "title": "4 Reasons To Skip The iPhone 18 (And Why You Should Upgrade To iPhone 17 Now) - bgr.com",
@@ -236,38 +276,6 @@
       "image": "https://www.bgr.com/img/gallery/4-reasons-to-skip-the-iphone-18-and-why-you-should-upgrade-to-iphone-17-now/l-intro-1787075616.jpg",
       "published": "8/18/2026, 7:51:17 PM",
       "desc": "Why wait for the iPhone 18? Skip all the hype and cure your tech FOMO by upgrading to an iPhone 17 now before prices skyrocket and quality drops."
-    },
-    {
-      "title": "Google makes it official: Googlebook launch event set for September in NYC - Chrome Unboxed",
-      "source": "Chrome Unboxed",
-      "url": "https://chromeunboxed.com/google-makes-it-official-googlebook-launch-event-set-for-september-in-nyc/",
-      "image": "https://chromeunboxed.com/wp-content/uploads/2026/08/GooglebookEventNYCSeptember2026.webp",
-      "published": "8/18/2026, 7:36:56 PM",
-      "desc": "For months, we’ve tracked code commits in the Chromium Gerrit, analyzed hardware benchmark leaks, and pieced together Google’s ambitious plans to bridge the worlds of ChromeOS and Android under a brand-new desktop platform. Today, the wait for official confir…"
-    },
-    {
-      "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/GTA-6-gameplay-and-map-leaks-see-DMCA-strikes-as-confidence-grows-in-their-legitimacy.1372162.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/JasonGTA6Phone.jpg",
-      "published": "8/18/2026, 7:13:00 PM",
-      "desc": "A series of GTA 6 leaks has piqued the interest of Rockstar Games followers. Videos feature Jason playing basketball and driving haphazardly around Leonida streets. The studio has sent DMCA takedown notices to users sharing the alleged in-game footage and a l…"
-    },
-    {
-      "title": "Gemini in Chrome and auto browse roll out on Android in the US - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/18/gemini-chrome-android-us/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-in-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/18/2026, 7:00:00 PM",
-      "desc": "After previewing in May, Google has now finished rolling out Gemini in Chrome for Android users in the US."
-    },
-    {
-      "title": "NBA 2K27 Just Rewrote The Sports Game Story Mode - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/nba-2k27-just-rewrote-the-sports-game-story-mode/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/7801d17b-220e-424c-8f7e-fc0c5efb974d.jpg",
-      "published": "8/18/2026, 6:00:00 PM",
-      "desc": "NBA 2K27 is delivering a bunch of new features, so let's take a look at everything that 2K Sports has up its sleeve."
     }
   ],
   "education": [
@@ -521,21 +529,21 @@
     },
     {
       "rank": 6,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 7,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 7,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 8,
@@ -559,21 +567,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
