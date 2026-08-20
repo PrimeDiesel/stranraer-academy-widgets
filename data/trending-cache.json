@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20T03:47:33.717Z",
+  "updated": "2026-08-20T04:37:44.385Z",
   "news": [
     {
-      "title": "Deaf patient given wrong jab due to sign language error, report says",
+      "title": "Mobile payments on the rise but cash decline slows",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg",
-      "published": "8/19/2026, 3:37:23 AM",
-      "desc": "An ombudsman report says disabled people are being let down by a lack of accessible communication methods."
+      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
+      "published": "8/19/2026, 4:22:19 AM",
+      "desc": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows."
     },
     {
       "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -67,6 +67,14 @@
     }
   ],
   "sports": [
+    {
+      "title": "Brewers Match Baseball’s Modern-Era Record For Biggest Shutout With 22-0 Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/brewers-match-baseballs-modern-era-record-biggest-shutout-beating-mariners-22-0",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/brewers1.jpg?ve=1&tl=1",
+      "published": "8/19/2026, 4:22:24 AM",
+      "desc": "The Milwaukee Brewers matched baseball’s modern-era record for the biggest shutout, beating the Seattle Mariners 22-0 on Tuesday night behind three-run homers from Christian Yelich, David Hamilton and Luis Lara and a two-run shot by Jake Bauers"
+    },
     {
       "title": "NFL Catchup: Cowboys-Saints Fights, A Christian McCaffrey Update & Deals Were Made",
       "source": "Fox Sports",
@@ -178,14 +186,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-1815366578-scaled-e1787096418223.jpg?ve=1&tl=1",
       "published": "8/19/2026, 12:22:27 AM",
       "desc": "The landscape across the NFL continues to be defined by elite partnerships between head coaches and quarterbacks, here's the top 10 pairings across the league."
-    },
-    {
-      "title": "2026 NFL MVP Odds: Josh Allen Favored; Can Mahomes Challenge?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/03/1294/728/a8862729-16x9-12.jpg?ve=1&tl=1",
-      "published": "8/18/2026, 11:52:28 PM",
-      "desc": "After a close race last season, who is the early favorite to win the 2026 NFL MVP? See the odds."
     },
     {
       "title": "Ketel Marte back in Phoenix after no-show for knee testing - ESPN",
@@ -410,6 +410,15 @@
     },
     {
       "rank": 8,
+      "title": "BiiiG",
+      "artist": "BIGBANG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
+    },
+    {
+      "rank": 9,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
@@ -418,22 +427,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 10,
-      "title": "BiiiG",
-      "artist": "BIGBANG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/d9/3a/c5d93ab5-12ac-3800-c13d-e57b819b6d89/8809519881443_cover.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/43/7a/c6437aca-0aaa-516f-ce28-e588cb0c5c45/mzaf_1050702449403311044.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/biiig/6801365249?i=6801365250&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=BIGBANG%20BiiiG"
     },
     {
       "rank": 11,
@@ -464,21 +464,21 @@
     },
     {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 15,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+    },
+    {
+      "rank": 15,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     }
   ],
   "movies": [
