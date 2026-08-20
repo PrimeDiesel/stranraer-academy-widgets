@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-20T06:47:49.280Z",
+  "updated": "2026-08-20T07:41:52.825Z",
   "news": [
-    {
-      "title": "How one man gets new laws passed - again and again",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4kn44l8lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8077/live/5a45c1d0-7623-11f1-9cba-11a4f8930054.jpg",
-      "published": "8/19/2026, 6:52:22 AM",
-      "desc": "Ron Bailey has been quietly changing the law for the past 40 years - how does he do it?"
-    },
     {
       "title": "Deaf patient given wrong jab due to sign language error, report says",
       "source": "BBC News",
@@ -64,9 +56,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae2/live/79fbe090-9b5d-11f1-a291-b542ee92de7c.jpg",
       "published": "8/19/2026, 12:07:27 AM",
       "desc": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis."
+    },
+    {
+      "title": "Newspaper headlines: 'Look at my husband' and 'Vlad plots revenge'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq8lgv9gko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a026/live/8edea4b0-9b54-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/18/2026, 11:22:16 PM",
+      "desc": "Queen Camilla's first remarks about the King's cancer journey are prominent across Wednesday's papers."
     }
   ],
   "sports": [
+    {
+      "title": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ce97ln7kp01o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ee82/live/c74e6780-9b96-11f1-b109-879e35c24276.jpg",
+      "published": "8/19/2026, 7:07:26 AM",
+      "desc": "Aryna Sabalenka needs just 54 minutes to reach the Cincinnati Open fourth round - but Daniil Medvedev's frustrations boil over after he misses three match points in surprise defeat."
+    },
     {
       "title": "Man Utd: How Michael Carrick's side are shaping up for Premier League season",
       "source": "BBC Sport",
@@ -82,14 +90,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
       "published": "8/19/2026, 6:37:22 AM",
       "desc": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19."
-    },
-    {
-      "title": "BBC Sport quiz: Who am I? Guess Premier League footballer No 30",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9342kw7zkqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d7c/live/c4d89570-85b1-11f1-b976-0b9c15b0ccfc.png",
-      "published": "8/19/2026, 6:07:31 AM",
-      "desc": "Work out the identity of today's player in as few attempts as possible."
     },
     {
       "title": "BBC Sport quiz: Five in Five football quiz No 3",
@@ -214,12 +214,28 @@
   ],
   "tech": [
     {
+      "title": "Ninja Baseball League-Man: Bases Loaded announced for Nintendo Switch 2 - 1993 game returns with new content and features - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/ninja-baseball-league-man-bases-loaded-announced-for-nintendo-switch-2-1993-game-returns-with-new-content-and-features/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Ninja-Baseball-League-Man-Bases-Loaded.jpg",
+      "published": "8/19/2026, 3:07:38 AM",
+      "desc": "City Connection is making Ninja Baseball League-Man: Bases Loaded for Nintendo Switch 2, the company has announced. The title’s launch is confirmed for December 10, 2026. Ninja Baseball League-Man: Bases Loaded marks the return of Irem’s arcade beat ’em up ga…"
+    },
+    {
       "title": "Your AirPods Will Be More Powerful With iOS 27 - Here's How - bgr.com",
       "source": "BGR",
       "url": "https://www.bgr.com/2236437/how-airpods-getting-more-powerful-with-ios-27/",
       "image": "https://www.bgr.com/img/gallery/your-airpods-will-be-more-powerful-with-ios-27-heres-how/l-intro-1786637594.jpg",
       "published": "8/19/2026, 2:47:00 AM",
       "desc": "With the release of iOS27, AirPods are getting some new features. A firmware update is also required to benefit from the new features."
+    },
+    {
+      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "image": "https://images.macrumors.com/t/DaKqFvrp9SeA-PSVk2VPrQ7QXog=/2500x/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "published": "8/18/2026, 10:58:41 PM",
+      "desc": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones..."
     },
     {
       "title": "Apple Wallet driver’s licenses coming to these states next - 9to5Mac",
@@ -230,12 +246,20 @@
       "desc": "Seven more states are working on Apple Wallet driver's license support, including Kentucky and North Carolina. Here's where it's coming next."
     },
     {
-      "title": "GTA 6 Leaked Gameplay Shows Off Chaos in a Knockoff Ranchero - The Drive",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/gta-6-leaked-gameplay-shows-off-chaos-in-a-knockoff-ranchero",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01.062dgvkwdynw5.jpg?w=1200",
-      "published": "8/18/2026, 8:36:16 PM",
-      "desc": "New footage of Grand Theft Auto VI has leaked ahead of its big Netflix reveal, teasing minor but impactful gameplay tweaks."
+      "title": "Google just set the date for its big Googlebook event in New York - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/chromebooks-laptops/google-announces-in-person-nyc-event-for-googlebooks-in-september",
+      "image": "https://cdn.mos.cms.futurecdn.net/PobMdcHMYyz9bvHVd64zjC-1196-80.jpg",
+      "published": "8/18/2026, 8:42:05 PM",
+      "desc": "Google has confirmed an in-person Googlebook Showcase in New York City on September 15, where the platform will be properly unveiled."
+    },
+    {
+      "title": "Deus Ex, Epic Mickey Creator Warren Spector Retires From Game Development After Over 40 Years - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/08/18/deus-ex-epic-mickey-creator-warren-spector-retires-from-game-development-after-over-40",
+      "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/18/7eb0e8b6/warren-spector-headshot.jpg.webp",
+      "published": "8/18/2026, 8:29:00 PM",
+      "desc": "One of the founding fathers of the immersive sim gerne is calling it a career after 43 years in game design. - Game Informer"
     },
     {
       "title": "The Big Interview With The Developers Of Big Walk - Kotaku",
@@ -252,22 +276,6 @@
       "image": "https://www.bgr.com/img/gallery/4-reasons-to-skip-the-iphone-18-and-why-you-should-upgrade-to-iphone-17-now/l-intro-1787075616.jpg",
       "published": "8/18/2026, 7:51:17 PM",
       "desc": "Why wait for the iPhone 18? Skip all the hype and cure your tech FOMO by upgrading to an iPhone 17 now before prices skyrocket and quality drops."
-    },
-    {
-      "title": "Oh God, No, Please Don’t Add Skill Trees And Crafting To The Tomb Raider Remake - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/oh-god-no-please-dont-add-skill-trees-and-crafting-to-the-tomb-raider-remake-2000725433",
-      "image": "https://kotaku.com/app/uploads/2026/08/torskill.jpg",
-      "published": "8/18/2026, 7:30:44 PM",
-      "desc": "Tomb Raider: Legacy of Atlantis, like so many other AAA games, will have you grabbing crap to make different crap"
-    },
-    {
-      "title": "Bethesda Dev Says Cuts Were Rare Before Xbox Took Over: 'All Of A Sudden We Have Yearly Layoffs' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-layoffs-rallies-cwa-bethesda-employee-interview-2000725366",
-      "image": "https://kotaku.com/app/uploads/2026/08/save-our-devs-rally-graphic-1-1200x675.jpg",
-      "published": "8/18/2026, 6:42:22 PM",
-      "desc": "Xbox developers are holding a rally across the United States and Canada to bring attention to the widespread layoffs"
     }
   ],
   "education": [
@@ -476,15 +484,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The End of Oak Street",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -493,7 +492,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -502,13 +501,22 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
       "rank": 5,
@@ -530,15 +538,6 @@
     },
     {
       "rank": 7,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 8,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -547,13 +546,22 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
