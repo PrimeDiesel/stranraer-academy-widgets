@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-21T03:03:59.339Z",
+  "updated": "2026-08-21T03:56:17.311Z",
   "news": [
+    {
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
+      "published": "8/20/2026, 3:22:26 AM",
+      "desc": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president."
+    },
     {
       "title": "Russia unleashes 'massive attack' on Kyiv, killing at least five",
       "source": "BBC News",
@@ -56,17 +64,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
       "published": "8/19/2026, 9:37:17 PM",
       "desc": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
-    },
-    {
-      "title": "People smuggler exposed by BBC investigation arrested and charged",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e68/live/7284e2f0-9c0f-11f1-bab6-dd87b521d67e.jpg",
-      "published": "8/19/2026, 9:22:30 PM",
-      "desc": "Twana Jamal Khdir has been arrested and charged with immigration offences."
     }
   ],
   "sports": [
+    {
+      "title": "Orioles bash MLB technology after Alonso's blast ruled foul - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49666131/orioles-bash-mlb-technology-alonso-blast-ruled-foul",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704265_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 3:22:35 AM",
+      "desc": "The Orioles criticized MLB for being behind on technology after Pete Alonso's deep fly to left was ruled foul and the call was upheld on a review Wednesday night against the Yankees."
+    },
+    {
+      "title": "NFL Catchup: Vita Vea Gets His Deal, Sparks At Eagles-Patriots Practice & More",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-vita-vea-gets-his-deal-sparks-eagles-patriots-practice-more",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/vita-vea.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 3:22:28 AM",
+      "desc": "Get the latest NFL updates as Vita Vea earns a major extension, Trevon Diggs heads to Seattle, Alvin Kamara suffers an injury, and Drake Maye shines in joint practice."
+    },
+    {
+      "title": "Lionel Messi's 13th MLS Goal Not Enough As Inter Miami Settles For Tie In Philadelphia",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lionel-messis-13th-mls-goal-not-enough-inter-miami-settles-tie-philadelphia",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/b6c7752f-messi2.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 3:22:26 AM",
+      "desc": "Lionel Messi had a goal and assist as Inter Miami and the Philadelphia Union played to a 2-2 draw."
+    },
     {
       "title": "Colts QB Daniel Jones Continues To Impress In Return From Achilles Injury",
       "source": "Fox Sports",
@@ -124,14 +148,6 @@
       "desc": "United States men's national team forward Haji Wright will reportedly miss up to 12 weeks of the Premier League season due to a quad injury."
     },
     {
-      "title": "In An Alternate CFB World, Would Robert Griffin III Have Played For Texas?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/rgiii-baylor-texas-mack-brown-joel-klatt-show",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-87.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:07:31 PM",
-      "desc": "Had Texas not messed up the recruitment, had RGIII played now, he says he likely would have been a Longhorn."
-    },
-    {
       "title": "INDYCAR Freedom 250 Course In DC: A Complex Road To Completion",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-course-dc-complex-road-completion",
@@ -172,14 +188,6 @@
       "desc": "Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester United forward on a podcast."
     },
     {
-      "title": "Julián Álvarez Stone-Faced In Atlético Madrid Squad Picture After Blocked Barcelona Move",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/julian-alvarez-stone-faced-atletico-madrid-squad-picture-after-blocked-barcelona-move",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/julian1.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 9:07:19 PM",
-      "desc": "Julián Alvarez is not happy at Atlético Madrid, and his squad picture shows it."
-    },
-    {
       "title": "Wings star rookie Azzi Fudd out for season with knee injury - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49662862/wings-star-rookie-azzi-fudd-season-knee-injury",
@@ -202,14 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3c60/live/b551b870-9c04-11f1-b0bd-839fb1d8b591.jpg",
       "published": "8/19/2026, 8:22:18 PM",
       "desc": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper."
-    },
-    {
-      "title": "LIV Golf CEO says tour will continue, 'wouldn't bet against us' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49662622/liv-golf-ceo-says-tour-continue-bet-us",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1704035_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 8:21:14 PM",
-      "desc": "CEO Scott O'Neil is confident LIV Golf will continue as it attempts to remake itself, but he also expressed a desire for the new version to be accepted into the larger golf ecosystem."
     }
   ],
   "tech": [
@@ -559,21 +559,21 @@
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     },
     {
       "rank": 3,
