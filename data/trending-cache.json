@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-21T21:25:33.465Z",
+  "updated": "2026-08-21T22:25:51.616Z",
   "news": [
     {
-      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0685/live/b48b7840-9c72-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/20/2026, 9:07:17 PM",
-      "desc": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg",
+      "published": "8/20/2026, 10:22:15 PM",
+      "desc": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report."
     },
     {
       "title": "How did some houses survive the Stourbridge fire while neighbours lost everything?",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "2026 College Football Odds: Early Spreads, Lines For Season’s 20 Biggest Games",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-odds-opening-spreads-10-biggest-games-season",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2250441659-scaled.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 10:07:19 PM",
+      "desc": "The biggest games of the 2026 college football season are already on the sportsbooks. See the early odds."
+    },
+    {
+      "title": "Transfer portal opens for former players granted 5th year - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49674298/transfer-portal-opens-former-players-granted-5th-year",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0819%2Fr1375266_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 9:38:28 PM",
+      "desc": "Seven former college football players granted a temporary restraining order Wednesday in the Louisiana court case entered their names in the NCAA transfer portal as of Thursday afternoon."
+    },
     {
       "title": "Ronaldinho: Brazil legend in comeback with Italian side Ravenna aged 46",
       "source": "BBC Sport",
@@ -194,22 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/20/2026, 6:37:30 PM",
       "desc": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury."
-    },
-    {
-      "title": "Why are Arsenal signing Konsa and how strong could the Gunners be?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
-      "published": "8/20/2026, 6:37:28 PM",
-      "desc": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?"
-    },
-    {
-      "title": "A.J. Brown, Jalen Hurts reunite briefly amid post-trade rift - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49672812/aj-brown-jalen-hurts-reunite-briefly-amid-post-trade-rift",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1205%2Fr1102563_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 6:28:04 PM",
-      "desc": "A.J. Brown and Jalen Hurts caught for a few minutes up after practice Thursday -- a notable development after the Patriots receiver revealed Wednesday that the former teammates had not spoken since he was traded to New England by the Eagles."
     }
   ],
   "tech": [
@@ -529,21 +529,21 @@
     },
     {
       "rank": 6,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 7,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
       "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 7,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 8,
