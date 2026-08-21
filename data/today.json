@@ -1,28 +1,29 @@
 {
-  "generated": "2026-08-20T05:53:18.573Z",
-  "day": 231,
+  "generated": "2026-08-21T05:54:38.559Z",
+  "day": 232,
   "movie": {
-    "title": "Free Willy",
+    "title": "Star Wars",
     "safe": true,
     "cert": "U",
     "source": "tmdb-uk",
-    "year": "1993",
-    "plot": "When maladjusted orphan Jesse vandalizes a theme park, he is placed with foster parents and must work at the park to make amends. There he meets Willy, a young Orca whale who has been separated from his family. Sensing kinship, they form a bond and, with the help of kindly whale trainer Rae Lindley, develop a routine of tricks. However, greedy park owner Dial soon catches wind of the duo and makes plans to profit from them.",
-    "poster": "https://image.tmdb.org/t/p/w500/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
+    "year": "1977",
+    "plot": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Marvin Gaye-What's Going On",
+    "key": "Pink Floyd-Comfortably Numb",
     "safe": true,
-    "year": "",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/12/0e/3f120eeb-f199-e4e0-e54e-95eb95961e50/886445636093.jpg/600x600bb.jpg",
+    "year": "1980",
     "v": 4
   },
   "album": {
-    "key": "The xx-xx",
+    "key": "Billy Joel-The Stranger",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/df/6b/59df6bec-17f5-b578-aee2-b1a772d2ab9b/889030044761.png/600x600bb.jpg",
-    "year": "2009",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/68/4c/37684c52-dbdf-9bfe-0d87-07492f43dc4c/dj.gmcbwich.jpg/600x600bb.jpg",
+    "year": "1977",
     "v": 4
   }
 }
