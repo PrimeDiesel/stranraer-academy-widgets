@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-21T07:43:02.022Z",
+  "updated": "2026-08-21T08:41:12.120Z",
   "news": [
     {
-      "title": "Charity complains about Channel 4 documentary examining ADHD",
+      "title": "Shoreham beach death tributes paid to family by Ealing school",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3910/live/584606d0-9c5a-11f1-b109-879e35c24276.jpg",
-      "published": "8/20/2026, 7:37:22 AM",
-      "desc": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\"."
+      "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70af/live/7a09f860-9c70-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/20/2026, 8:37:22 AM",
+      "desc": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died."
+    },
+    {
+      "title": "Vaccine breakthrough stops cancer returning in trial",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg",
+      "published": "8/20/2026, 8:07:24 AM",
+      "desc": "A new jab extended the length of time patients were cancer free, but it is unclear for how long."
     },
     {
       "title": "Travelodge boss steps down after security issues in rooms",
@@ -56,24 +64,24 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d38a/live/81cb42d0-9c29-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/20/2026, 1:37:21 AM",
       "desc": "News of the Duke and Duchess of Sussex's plan to move back to the UK is prominent across Thursday's papers."
-    },
-    {
-      "title": "Downpours continue for UK with risk of flash flooding",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg",
-      "published": "8/20/2026, 12:37:18 AM",
-      "desc": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
     }
   ],
   "sports": [
     {
-      "title": "Edmonton Marathon organisers say 2026 route was 674m too long",
+      "title": "Paris St-Germain move game after heat damages Parc des Princes pitch",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6103/live/cc9132d0-9c5f-11f1-827b-69a6492daae1.jpg",
-      "published": "8/20/2026, 7:37:30 AM",
-      "desc": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3bd5/live/7c359680-9c66-11f1-827b-69a6492daae1.jpg",
+      "published": "8/20/2026, 8:07:24 AM",
+      "desc": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severley damaged\" the Parc des Princes pitch."
+    },
+    {
+      "title": "Transfer latest: Konsa, Jones & Baleba updates plus reporter Q&A",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c8kgv7dvg5d0t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3893/live/500431a0-9c68-11f1-aed2-8d6da8d75094.png",
+      "published": "8/20/2026, 7:52:21 AM",
+      "desc": "All the latest transfer news and gossip as Arsenal agree a deal to sign Villa defender Konsa for more than £50m."
     },
     {
       "title": "BBC Sport quiz: Five in Five football quiz No 4",
@@ -202,14 +210,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401412_1296x729_16%2D9.jpg",
       "published": "8/19/2026, 11:06:50 PM",
       "desc": "Two-time Pro Bowl defensive tackle Vita Vea and the Tampa Bay Buccaneers have agreed on a one-year extension that guarantees him $30 million, sources told ESPN on Wednesday."
-    },
-    {
-      "title": "England vs Pakistan: Josh Tongue and Ollie Robinson split Headingley ball in half",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0299/live/bb922da0-9c1d-11f1-ae5d-4b5a57168e23.jpg",
-      "published": "8/19/2026, 10:52:22 PM",
-      "desc": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half."
     }
   ],
   "tech": [
@@ -280,6 +280,14 @@
   ],
   "education": [
     {
+      "title": "One in five GCSE entries get top marks as grades rise for second year in a row - but pass rates for English and maths fall once again to lowest level in a decade",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16064021/GCSE-students-grades-rise.html",
+      "image": "https://i.dailymail.com/1s/2026/08/20/08/110745939-0-image-m-20_1787211344907.jpg",
+      "published": "8/20/2026, 8:33:55 AM",
+      "desc": "As hundreds of thousands of pupils picked up their GCSE results this morning, 22 per cent were awarded a 7 or A, up from 21.9 per cent last year."
+    },
+    {
       "title": "Peter Thiel-Linked Race Science Network That Penetrated Cambridge University",
       "source": "Byline Times",
       "url": "https://bylinetimes.com/2026/08/18/the-peter-thiel-linked-race-science-network-that-penetrated-cambridge-university-and-targeted-jason-arday/",
@@ -334,14 +342,6 @@
       "image": "https://images.theconversation.com/files/753522/original/file-20260812-50-qp2lfe.jpg?ixlib=rb-4.1.1&rect=0%2C499%2C5980%2C2990&q=45&auto=format&w=1356&h=668&fit=crop",
       "published": "8/13/2026, 9:35:35 AM",
       "desc": "Combined A-level entries in French, German and Spanish rose slightly in absolute terms in England, Northern Ireland and Wales."
-    },
-    {
-      "title": "Pupils celebrate best-ever A-level results as more than one in four get at least an A and boys extend lead above girls in the top grades",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16047747/Pupils-celebrate-best-level-results.html",
-      "image": "https://i.dailymail.com/1s/2026/08/13/09/110608717-0-image-m-23_1786608379128.jpg",
-      "published": "8/13/2026, 8:31:01 AM",
-      "desc": "Outside of the Covid years of 2020-2022, when grades were vastly inflated due to teacher assessment, today's grades are the highest proportion on record."
     }
   ],
   "music": [
@@ -484,21 +484,21 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 3,
@@ -520,12 +520,12 @@
     },
     {
       "rank": 5,
-      "title": "Don't Say Good Luck",
+      "title": "The Last House",
       "year": "2026",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
       "rank": 6,
@@ -538,12 +538,12 @@
     },
     {
       "rank": 7,
-      "title": "The Last House",
+      "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 8,
