@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-21T18:37:47.923Z",
+  "updated": "2026-08-21T19:26:22.778Z",
   "news": [
     {
-      "title": "How did some houses survive the Stourbridge fire while neighbours lost everything?",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8yz92jrpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7848/live/56a49a00-9be5-11f1-ba30-ddd78081057f.jpg",
-      "published": "8/20/2026, 5:37:27 PM",
-      "desc": "One question asked by many after last week's fire is why some homes escaped unscathed?"
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "published": "8/20/2026, 7:37:25 PM",
+      "desc": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+    },
+    {
+      "title": "Scott Bessent urges US partners to back plans to 'squash' Iran economy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+      "published": "8/20/2026, 7:22:23 PM",
+      "desc": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\"."
     },
     {
       "title": "Academic who accused Jason Arday of plagiarism suspended by university",
@@ -56,32 +64,96 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
       "published": "8/20/2026, 2:07:23 PM",
       "desc": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
-    },
-    {
-      "title": "Prince Harry and Meghan's UK security a private matter, Burnham says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/20/2026, 12:07:29 PM",
-      "desc": "Andy Burnham wishes the Duke and Duchess of Sussex well in \"the move that they are making\"."
     }
   ],
   "sports": [
     {
-      "title": "Enzo Fernandez: Chelsea boss Xabi Alonso happy with midfielder amid uncertainty",
+      "title": "Taylor Harwood-Bellis: Aston Villa £18m bid rejected by Southampton",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6078/live/eb6ec620-9c9d-11f1-a5a0-114ca9d4a1bc.jpg",
-      "published": "8/20/2026, 6:22:33 PM",
-      "desc": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d4b/live/e3926de0-9cc9-11f1-a5cd-a14170183a2c.jpg",
+      "published": "8/20/2026, 7:37:25 PM",
+      "desc": "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis."
     },
     {
-      "title": "Mark Wood: England fast bowler looks back on Ashes performance with 'shame'",
+      "title": "2026 LeBron James Odds: Will The King's Scoring Taper Off?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nba/2026-lebron-james-odds-will-kings-scoring-taper-off",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/lebron-820.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 7:07:29 PM",
+      "desc": "What can fans expect from James next season when it comes to scoring? The odds say a little less than usual."
+    },
+    {
+      "title": "Lionel Messi At Center Of Inter Miami-Philadelphia Union Scuffle, Faces Potential Fine",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mls/lionel-messi-center-inter-miami-philadelphia-union-scuffle-faces-potential-fine",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2290639198-scaled-e1787250759119.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 7:07:27 PM",
+      "desc": "Lionel Messi faces a potential fine from Major League Soccer after swiping at Philadelphia Union forward Quinn Sullivan during Inter Miami's 2-2 draw at Subaru Park."
+    },
+    {
+      "title": "'I hate joint practices,' Eagles star Saquon Barkley says - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49673017/i-hate-joint-practices-says-eagles-star-saquon-barkley",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704502_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 6:57:24 PM",
+      "desc": "Eagles running back Saquon Barkley said he hates back-to-back days of joint practices, adding \"one day is good\" to avoid skirmishes that regularly occur during the sessions."
+    },
+    {
+      "title": "England vs Pakistan: Harry Brook, Joe Root, Jordan Cox make runs in Headingley gloom",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/ce8kl806evxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/429b/live/48e49250-9c97-11f1-a38b-8bb91d2ef80e.jpg",
-      "published": "8/20/2026, 6:22:31 PM",
-      "desc": "Fast bowler Mark Wood says he looks back on his performance in England’s dismal Ashes campaign with “shame”."
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c62qp3e1dw9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d04c/live/0f942980-9cc3-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/20/2026, 6:52:24 PM",
+      "desc": "Harry Brook sparkles in the Headingley gloom to build England’s commanding lead over Pakistan on a shortened second day of the first Test."
+    },
+    {
+      "title": "US Open 2026 to offer biggest prize fund in Grand Slam history with $108 million on offer",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/f7399a30-9cbf-11f1-b109-879e35c24276.jpg",
+      "published": "8/20/2026, 6:37:34 PM",
+      "desc": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year."
+    },
+    {
+      "title": "Manchester United news: Michael Carrick dismisses easy Premier League start talk",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b32/live/93503380-9cb0-11f1-b109-879e35c24276.jpg",
+      "published": "8/20/2026, 6:37:32 PM",
+      "desc": "The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United."
+    },
+    {
+      "title": "US Open 2026: Carlos Alcaraz to return in New York after four months out with wrist injury",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/20/2026, 6:37:30 PM",
+      "desc": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury."
+    },
+    {
+      "title": "Why are Arsenal signing Konsa and how strong could the Gunners be?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+      "published": "8/20/2026, 6:37:28 PM",
+      "desc": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?"
+    },
+    {
+      "title": "A.J. Brown, Jalen Hurts reunite briefly amid post-trade rift - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49672812/aj-brown-jalen-hurts-reunite-briefly-amid-post-trade-rift",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1205%2Fr1102563_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 6:28:04 PM",
+      "desc": "A.J. Brown and Jalen Hurts caught for a few minutes up after practice Thursday -- a notable development after the Patriots receiver revealed Wednesday that the former teammates had not spoken since he was traded to New England by the Eagles."
+    },
+    {
+      "title": "Greg Sankey, in filing, speaks out against pros returning to NCAA - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-sports/story/_/id/49672789/greg-sankey-filing-speaks-pros-returning-ncaa",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1207%2Fr1586312_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 6:26:29 PM",
+      "desc": "SEC commissioner Greg Sankey asked a judge to uphold NCAA rules that prevent athletes from returning to play in college."
     },
     {
       "title": "Players pulled from fight-filled Giants-Dolphins practice - ESPN",
@@ -90,22 +162,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704492_1296x729_16%2D9.jpg",
       "published": "8/20/2026, 6:11:46 PM",
       "desc": "Multiple players from Thursday's joint practice between the Dolphins and Giants were pulled for throwing punches or their physical actions during a fight-filled workout."
-    },
-    {
-      "title": "Carlos Alcaraz to return from wrist injury, defend US Open title - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49672571/carlos-alcaraz-return-wrist-injury-defend-us-open-title",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0907%2Fr1542415_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 5:59:53 PM",
-      "desc": "Carlos Alcaraz, who has been sidelined since April because of a right wrist injury, is ready to return at the US Open to defend his title."
-    },
-    {
-      "title": "Vita Vea dismisses trade drama: I want 'to be a Buc for life' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49672527/vita-vea-dismisses-trade-drama-want-buc-life",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695606_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 5:57:05 PM",
-      "desc": "Vita Vea says his end goal was never a trade away from Tampa Bay, adding he wants to be \"a Buc for life.\""
     },
     {
       "title": "2026 NFL Top-10 CBs: Is Pat Surtain II Still The League's Best Cornerback?",
@@ -122,14 +178,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4bc8/live/f45be4c0-9a45-11f1-aed2-8d6da8d75094.png",
       "published": "8/20/2026, 5:37:26 PM",
       "desc": "Listen to Sportsound commentary from Ibrox and follow live updates of all four Conference League play-off fixtures involving Scottish clubs."
-    },
-    {
-      "title": "Sam LaPorta's status uncertain for Lions' season opener - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49672143/sam-laporta-status-uncertain-lions-season-opener",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696053_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 5:11:33 PM",
-      "desc": "Sam LaPorta's status for the Lions' regular-season opener is unclear after the star tight end suffered a hip injury."
     },
     {
       "title": "Yankuba Minteh: Liverpool have £50m bid rejected for Brighton winger",
@@ -162,57 +210,41 @@
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0527%2Fr1664559_1296x729_16%2D9.jpg",
       "published": "8/20/2026, 4:52:56 PM",
       "desc": "One of the Lakers' minority owners, Dr. Patrick Soon-Shiong, has no plans to sell his 4% stake in the team, his attorney told ESPN."
-    },
-    {
-      "title": "Inside NFL Training Camps: 12 Head Coaches Reveal Their Favorite Drills",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-coaches-favorite-drills-sean-mcvay-mike-macdonald-jim-harbaugh",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x92-1.jpg?ve=1&tl=1",
-      "published": "8/20/2026, 4:22:26 PM",
-      "desc": "How do NFL coaches build winning teams? We asked Sean McVay, Mike Macdonald and 10 others to share their go-to drills and the stories behind them."
-    },
-    {
-      "title": "Last Night In Baseball: Sweeps, Sweeps And More Sweeps",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/phillies-dodgers-pirates-twins-white-sox",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/nolah1.jpg?ve=1&tl=1",
-      "published": "8/20/2026, 4:22:22 PM",
-      "desc": "Sweeps, sweeps, sweeps, Pete Alonso hitting two homers until he didn't, the White Sox getting one back, the D-backs bend but don't break and more from Wednesday's MLB action."
-    },
-    {
-      "title": "Utah sues Freddie Whittingham over alleged breach of contract - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49671600/utah-sues-freddie-whittingham-alleged-breach-contract",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1210%2Fr1587691_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 4:18:29 PM",
-      "desc": "The University of Utah is suing former assistant Freddie Whittingham for breach of contract after he left the Utes to join the coaching staff of his brother, Kyle Whittingham, at Michigan."
-    },
-    {
-      "title": "Here's Why These Signed NFL Players Could Return To College Football",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/louisiana-court-college-eligibility-ncaa-nfl",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/williamsh1.jpg?ve=1&tl=1",
-      "published": "8/20/2026, 2:52:24 PM",
-      "desc": "Several athletes, including some with NFL contracts, are once again allowed to return to college athletics. Here are those players, and why."
-    },
-    {
-      "title": "Nick Kyrgios' ban depends on if player can prove he took cocaine out of competition",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/c86nz85q89lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41a7/live/951572e0-9c9f-11f1-a5a0-114ca9d4a1bc.jpg",
-      "published": "8/20/2026, 2:22:21 PM",
-      "desc": "The severity of the ban facing Nick Kyrgios for testing positive for cocaine depends on whether he can prove he took the drug out of competition."
-    },
-    {
-      "title": "Closer to retiring than changing teams - why Max Verstappen stayed at Red Bull",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6260/live/4ea17b40-9c92-11f1-bd28-a9dd56c45ed7.jpg",
-      "published": "8/20/2026, 1:52:24 PM",
-      "desc": "After signing a contract extension with Red Bull to 2030, Max Verstappen says he was \"closer to retiring\" from F1 \"than changing teams\"."
     }
   ],
   "tech": [
+    {
+      "title": "Riot Will End Active Development On 2XKO At The End Of The Year - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
+      "image": "https://kotaku.com/app/uploads/2026/01/2XKO-1200x675.jpg",
+      "published": "8/20/2026, 7:18:48 PM",
+      "desc": "2XKO will not make it to its first official birthday"
+    },
+    {
+      "title": "Google Pixel screen savers add new styles and iPhone-like switching [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/20/google-pixel-screen-savers-updates-pixel-11/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-new-screen-saver-charge.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 6:40:00 PM",
+      "desc": "Google is rolling out a new update to screen savers on Pixel, which includes new styles as well as the ability to switch between panels."
+    },
+    {
+      "title": "Google releases Pixel 11 series factory images - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/20/pixel-11-factory-images/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 6:14:00 PM",
+      "desc": "With the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices."
+    },
+    {
+      "title": "Best Buy's 60th Anniversary Sale is live: We found the best deals on TVs, iPhones, Pokémon, and more - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale-live-deals-august-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/021SPE2xJBk6LE7DxpRqUqu/hero-image.fill.size_1200x675.v1787218272.png",
+      "published": "8/20/2026, 5:25:23 PM",
+      "desc": "This will probably be the biggest and best tech sale we see until October."
+    },
     {
       "title": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses - Kotaku",
       "source": "Kotaku",
@@ -222,60 +254,28 @@
       "desc": "freakin' ZORK?!"
     },
     {
-      "title": "MacBook Ultra is coming: Six new features launching this fall - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/20/2026, 4:18:00 PM",
-      "desc": "Apple is rumored to launch the first ‘MacBook Ultra’ this fall, growing the MacBook lineup—here are six rumored new features."
+      "title": "Wolverine's Incredible Suit Looks So Dang Goofy on PS5 - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/wolverines-incredible-suit-looks-so-dang-goofy-on-ps5",
+      "image": "https://images.pushsquare.com/df48986922c9f/large.jpg",
+      "published": "8/20/2026, 5:15:00 PM",
+      "desc": "You look ridiculous, bub"
     },
     {
-      "title": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/20/google-pixel-11-pro-hilight-third-party-control-feature/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-HiLight-Instagram-logo-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/20/2026, 4:05:00 PM",
-      "desc": "Google's \"HiLight\" feature on Pixel 11 Pro is very limited, but a third-party developer already figured out how to fully control it."
+      "title": "My Kid Messed Around and Found Out. My Wife Wants to Blame Someone. - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2026/08/parenting-advice-skateboard-scrape-blame.html",
+      "image": "https://compote.slate.com/images/c7932a81-5f45-4e46-8f33-849485efde24.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "published": "8/20/2026, 5:10:00 PM",
+      "desc": "This is ridiculous."
     },
     {
-      "title": "007 First Light Hits Major Sales Milestone, Still Confirmed For Switch 2 - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/007-first-light-hits-major-sales-milestone-still-confirmed-for-switch-2",
-      "image": "https://images.nintendolife.com/c842840c8cce1/large.jpg",
-      "published": "8/20/2026, 4:00:00 PM",
-      "desc": "Don't panic"
-    },
-    {
-      "title": "FromSoftware Boss Miyazaki Says, 'We Still Have a Heavy Focus on Single-Player Content' - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
-      "image": "https://assets-prd.ignimgs.com/2026/08/20/the-duskbloods-12-1787208413891.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/20/2026, 3:51:42 PM",
-      "desc": "While Elden Ring: Nightreign and The Duskbloods are back-to-back multiplayer games, FromSoftware's Miyazaki says they're still focused on single-player content."
-    },
-    {
-      "title": "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/silent-hill-townfall-gameplay-demo-video-impressions-2000726181",
-      "image": "https://kotaku.com/app/uploads/2026/02/silenthill_townfall-1200x675.jpg",
-      "published": "8/20/2026, 3:45:24 PM",
-      "desc": "The 19-minute-long gameplay demo left me with more questions than answers, one of them being 'Damn, y'all live like that?'"
-    },
-    {
-      "title": "Xbox Game Pass subscribers get three free bonus games this weekend - TrueAchievements",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/free-play-days-august-20-2026",
-      "image": "https://www.trueachievements.com/imgs/177698/free-play-days.jpg",
-      "published": "8/20/2026, 3:36:17 PM",
-      "desc": "Free Play Days returns again with a selection of games Xbox users can check out for free, all of which are currently on Xbox Game Pass."
-    },
-    {
-      "title": "Compulsion Games pulls off management buyout and separates from Xbox | exclusive - GamesBeat",
-      "source": "Gamesbeat.com",
-      "url": "https://gamesbeat.com/compulsion-games-pulls-off-management-buyout-and-separates-from-xbox-exclusive/",
-      "image": "https://gamesbeat.com/wp-content/uploads/2025/05/south-of-midnight-3.jpg",
-      "published": "8/20/2026, 3:35:29 PM",
-      "desc": "Compulsion Games, the maker of compelling gamers like South of Midnight, has pulled off a management buyout and is now separated from Xbox."
+      "title": "Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
+      "image": "https://assetsio.gnwcdn.com/duskbloods-miyazaki-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/20/2026, 4:44:12 PM",
+      "desc": "Souls house FromSoftware has done back-to-back multiplayer games with The Duskbloods and Elden Ring: Nightreign. But it hasn't forgotten solo players."
     }
   ],
   "education": [
@@ -446,15 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "Marianne",
-      "artist": "Fontaines D.C.",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
-    },
-    {
-      "rank": 13,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -463,7 +454,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -472,33 +463,42 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 14,
+      "title": "HOW TO SAVE A LIFE",
+      "artist": "Sam Tompkins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
       "rank": 15,
-      "title": "Talk To You (feat. 54 Ultra)",
-      "artist": "ANOTR",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 3,
@@ -520,12 +520,12 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
+      "title": "Don't Say Good Luck",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 6,
@@ -547,6 +547,15 @@
     },
     {
       "rank": 8,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -555,13 +564,13 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 9,
-      "title": "Don't Say Good Luck",
+      "rank": 10,
+      "title": "The Super Mario Galaxy Movie",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "url": "https://www.themoviedb.org/movie/1226863"
     }
   ],
   "tv": [
