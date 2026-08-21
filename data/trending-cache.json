@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-20T23:26:29.725Z",
+  "updated": "2026-08-21T01:20:45.589Z",
   "news": [
     {
       "title": "Who is Natalie Harp, Trump's right-hand woman?",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
-      "published": "8/19/2026, 9:52:22 PM",
+      "published": "8/20/2026, 1:07:26 AM",
       "desc": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president."
+    },
+    {
+      "title": "Vaping could lead to health harm in children and young people, doctors warn",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae91/live/be34ef00-9bfc-11f1-bbc9-198f60b94eaf.jpg",
+      "published": "8/20/2026, 1:07:23 AM",
+      "desc": "A Royal College of Paediatrics and Child Health has published a report with concerns vaping is a gateway to smoking"
+    },
+    {
+      "title": "Downpours continue for UK with risk of flash flooding",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg",
+      "published": "8/20/2026, 12:37:18 AM",
+      "desc": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
     },
     {
       "title": "Charity complains about Channel 4 documentary examining ADHD",
@@ -24,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
       "published": "8/19/2026, 9:37:17 PM",
       "desc": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
-    },
-    {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-      "published": "8/19/2026, 9:22:34 PM",
-      "desc": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
       "title": "People smuggler exposed by BBC investigation arrested and charged",
@@ -56,17 +64,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg",
       "published": "8/19/2026, 7:37:20 PM",
       "desc": "A new jab extended the length of time patients were cancer free, but it is unclear for how long."
-    },
-    {
-      "title": "Family named after three die in sea off Shoreham beach",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg",
-      "published": "8/19/2026, 7:22:20 PM",
-      "desc": "Police say the family travelled from their home in London and went into the sea for a swim."
     }
   ],
   "sports": [
+    {
+      "title": "Peyton Watson to Cavs, Max Strus to Clippers in multi-team trade - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49664656/peyton-watson-cavaliers-max-strus-clippers-part-multi-team-trade-nuggets",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0206%2Fr1611130_1024x576_16%2D9.jpg",
+      "published": "8/20/2026, 12:11:28 AM",
+      "desc": "The Cavaliers, Nuggets and Clippers have agreed on a trade that will send Peyton Watson to Cleveland and Max Strus to Los Angeles, sources told ESPN."
+    },
+    {
+      "title": "Vita Vea, Buccaneers Reportedly Agree On 1-Year, $30 Million Extension",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/vita-vea-buccaneers-reportedly-agree-1-year-30-million-extension",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/bucs1.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 12:07:24 AM",
+      "desc": "Tampa Bay Buccaneers DT Vita Vea agreed to a one-year, $30 million fully guaranteed extension that keeps him locked up through the 2027 season."
+    },
     {
       "title": "Sources: Bucs, Vea agree to 1-year extension to end hold in - ESPN",
       "source": "ESPN",
@@ -188,31 +204,31 @@
       "desc": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper."
     },
     {
-      "title": "Madrid's José Mourinho Dismisses Rodri's Move To Barcelona: 'I Don't Need Rodri'",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/madrids-mourinho-shrugs-off-rodri-miss-after-his-move-to-barcelona-i-dont-need-rodri",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2288844784-scaled-e1787169644544.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 8:22:18 PM",
-      "desc": "José Mourinho is confident Real Madrid will be fine without Rodri despite admitting the club made “a very good offer\" to try to sign the Spain captain."
-    },
-    {
       "title": "LIV Golf CEO says tour will continue, 'wouldn't bet against us' - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/golf/story/_/id/49662622/liv-golf-ceo-says-tour-continue-bet-us",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1704035_1296x729_16%2D9.jpg",
       "published": "8/19/2026, 8:21:14 PM",
       "desc": "CEO Scott O'Neil is confident LIV Golf will continue as it attempts to remake itself, but he also expressed a desire for the new version to be accepted into the larger golf ecosystem."
-    },
-    {
-      "title": "Source: Seahawks to sign former Cowboys CB Trevon Diggs - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49661802/source-seahawks-sign-former-pro-bowl-cb-trevon-diggs",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1215%2Fr1589722_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 6:43:05 PM",
-      "desc": "Former Cowboys Pro Bowl cornerback Trevon Diggs plans to sign a one-year deal with the Seattle Seahawks, a source told ESPN's Adam Schefter on Wednesday."
     }
   ],
   "tech": [
+    {
+      "title": "We Think We Found ‘Human Printer’ Natalie Harp’s Printer Setup. It’s Bulky - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705",
+      "image": "https://gizmodo.com/app/uploads/2026/08/natalie-harp-printing-1-1200x675.jpg",
+      "published": "8/20/2026, 12:45:25 AM",
+      "desc": "A fairly bulky printer, and a totally unnecessary backup battery. Why?"
+    },
+    {
+      "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyPS6.O_neQ/v0/1200x800.jpg",
+      "published": "8/19/2026, 11:05:35 PM",
+      "desc": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner."
+    },
     {
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
       "source": "Ars Technica",
@@ -220,6 +236,14 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
       "published": "8/19/2026, 8:21:59 PM",
       "desc": "Framework says it's replacing some out-of-warranty AMD mainboards."
+    },
+    {
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg",
+      "published": "8/19/2026, 7:55:41 PM",
+      "desc": "Talk s***, get hit (with a free code)?"
     },
     {
       "title": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer - 9to5Google",
@@ -230,52 +254,20 @@
       "desc": "Google is introducing “Pixel search” as a “dedicated search companion designed to help you find personal information faster than ever.”"
     },
     {
-      "title": "Dire Forecast Predicts Big Drop In Console Sales If PS6 Is $1,000 - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
-      "image": "https://kotaku.com/app/uploads/2026/08/GettyImages-477358798-1200x675.jpg",
-      "published": "8/19/2026, 6:45:31 PM",
-      "desc": "Console gaming could continue to shrink if something doesn't change"
+      "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan",
+      "image": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
+      "published": "8/19/2026, 7:09:49 PM",
+      "desc": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%."
     },
     {
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-      "published": "8/19/2026, 6:16:27 PM",
-      "desc": "Valve has leaked several videos that demonstrate how to set up the Steam Frame, its upcoming virtual-reality headset."
-    },
-    {
-      "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
-      "image": "https://assets-prd.ignimgs.com/2026/08/19/xbox-thumb-1787161267277.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/19/2026, 5:58:58 PM",
-      "desc": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildable original Xbox through its premium Mattel Brick Shop brand. And yes, it also includes a buildable 1:1-scale Duke controller and features lights, sounds, and …"
-    },
-    {
-      "title": "Following accusations, James Pond Legacy devs say no generative AI was used in creating artwork - gonintendo.com",
-      "source": "GoNintendo",
-      "url": "https://gonintendo.com/contents/63928-following-accusations-james-pond-legacy-devs-say-no-generative-ai-was-used-in",
-      "image": "https://gonintendo.com/attachments/image/84686/file/medium-ee02dfdd7815a0fc3e0483211e671b30.png",
-      "published": "8/19/2026, 5:50:55 PM",
-      "desc": "Out of their depth"
-    },
-    {
-      "title": "Gears of War: E-Day and Gibson Unite for a Custom Guitar Collection - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/08/19/gears-of-war-eday-gibson-guitars-collection-sweepstakes-xbox/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Gears-Gibson-Hero-54a7f8e362d304c3aef3.jpg",
-      "published": "8/19/2026, 5:17:25 PM",
-      "desc": "Gibson Guitars and The Coalition are teaming up with a one-of-a-kind collaboration - two custom guitars that capture the spirit of Gears of War."
-    },
-    {
-      "title": "Pixel Weather update brings new icon & ‘Weather Brief’ rename - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/19/pixel-weather-new-icon/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/19/2026, 5:05:00 PM",
-      "desc": "The Pixel app updates continue today with Weather getting a new icon and some minor interface tweaks. This update..."
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+      "published": "8/19/2026, 7:02:00 PM",
+      "desc": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated."
     }
   ],
   "education": [
@@ -392,21 +384,21 @@
     },
     {
       "rank": 6,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 7,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
+      "rank": 7,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     },
     {
       "rank": 8,
@@ -464,12 +456,12 @@
     },
     {
       "rank": 14,
-      "title": "Tastes Like Summer",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/d5/2b/d9d52bef-8ff3-f8e7-7003-fb933b3fa6ff/1200214704469.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/e3/96/68e39634-50d0-f27c-421e-9f46e7038b79/mzaf_10120199621151605126.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6795686915?i=6795686916&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
       "rank": 15,
@@ -565,32 +557,41 @@
     },
     {
       "rank": 10,
-      "title": "The Mandalorian and Grogu",
+      "title": "Coyote vs. Acme",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "SpongeBob SquarePants",
+      "year": "1999",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "url": "https://www.themoviedb.org/tv/387"
+    },
+    {
+      "rank": 3,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
