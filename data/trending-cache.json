@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-21T20:26:54.098Z",
+  "updated": "2026-08-21T21:25:33.465Z",
   "news": [
+    {
+      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0685/live/b48b7840-9c72-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/20/2026, 9:07:17 PM",
+      "desc": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+    },
     {
       "title": "How did some houses survive the Stourbridge fire while neighbours lost everything?",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened."
     },
     {
-      "title": "Lily Hooper: Missing teen hiker found dead in Australian bush after eight-day search",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
-      "published": "8/20/2026, 2:22:20 PM",
-      "desc": "The state premier initially said Lily Hooper had been found alive before police confirmed her death."
-    },
-    {
       "title": "Belgian car salesman becomes prince after royal parentage confirmed",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o",
@@ -67,6 +67,62 @@
     }
   ],
   "sports": [
+    {
+      "title": "Ronaldinho: Brazil legend in comeback with Italian side Ravenna aged 46",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c2lq5dk0gneo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b676/live/1beecd60-9cd8-11f1-8c2c-67800657f112.jpg",
+      "published": "8/20/2026, 9:22:20 PM",
+      "desc": "Brazil great Ronaldinho says he hopes he can score his 300th career goal after announcing a comeback at the age of 46 at Italian third-tier side Ravenna."
+    },
+    {
+      "title": "5 Of The Biggest Obstacles To A Dodgers Three-Peat",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/5-biggest-obstacles-dodgers-three-peat",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/18e778f4-dodgers1.jpg?ve=1&tl=1",
+      "published": "8/20/2026, 9:22:20 PM",
+      "desc": "The Dodgers' elite starting pitching might make up for their flaws, but these are five of the biggest concerns standing in the way of another Dodgers championship"
+    },
+    {
+      "title": "Ronaldinho arrives on Ravenna beach to restart playing career - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49673155/ronaldinho-ravenna-italy-presentation",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704564_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 9:12:00 PM",
+      "desc": "Brazil great Ronaldinho has landed in Ravenna, a city more famous for its nearby beaches than its soccer team."
+    },
+    {
+      "title": "New corner rules: The Premier League's plan to end set-piece chaos",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c0jl03lv775o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df50/live/adedee20-1642-11f1-9293-5bf16ec577d6.jpg",
+      "published": "8/20/2026, 9:07:31 PM",
+      "desc": "Holding, pushing, shoving, jostling and grappling. It became something of an epidemic in the Premier League last season - here's what's being done to fix it."
+    },
+    {
+      "title": "Rangers vs Jablonec: UEFA Conference League stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ck5y0062qv6et",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "8/20/2026, 9:07:29 PM",
+      "desc": "Ryan Naderi rescues Rangers from another disappointing European night as his second-half goal helps Derek McInnes' side to victory in the first leg of their Conference League play-off against Jablonec."
+    },
+    {
+      "title": "England vs Pakistan: Harry Brook has found batting blueprint after captaincy disappointment - Jonathan Agnew",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2202/live/16828b90-9cd4-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/20/2026, 8:52:26 PM",
+      "desc": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew."
+    },
+    {
+      "title": "Cowboys, Saints fined $500K each for brawls in joint practice - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49673882/cowboys-saints-fined-500k-brawls-joint-practices",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704540_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 8:47:19 PM",
+      "desc": "The NFL has fined the Cowboys and Saints $500,000 each after multiple fights broke out between the two teams during Tuesday's joint practice."
+    },
     {
       "title": "Detroit Lions 'Don't Know' If Sam LaPorta's Injury Will Impact Week 1",
       "source": "Fox Sports",
@@ -92,14 +148,6 @@
       "desc": "A.J. Brown showed out against his former team in joint practice, while the Eagles look to a refreshed Saquon Barkley to power their offense."
     },
     {
-      "title": "Taylor Harwood-Bellis: Aston Villa £18m bid rejected by Southampton",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d4b/live/e3926de0-9cc9-11f1-a5cd-a14170183a2c.jpg",
-      "published": "8/20/2026, 7:37:25 PM",
-      "desc": "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis."
-    },
-    {
       "title": "2026 LeBron James Odds: Will The King's Scoring Taper Off?",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nba/2026-lebron-james-odds-will-kings-scoring-taper-off",
@@ -122,14 +170,6 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704502_1296x729_16%2D9.jpg",
       "published": "8/20/2026, 6:57:24 PM",
       "desc": "Eagles running back Saquon Barkley said he hates back-to-back days of joint practices, adding \"one day is good\" to avoid skirmishes that regularly occur during the sessions."
-    },
-    {
-      "title": "England vs Pakistan: Harry Brook, Joe Root, Jordan Cox make runs in Headingley gloom",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c62qp3e1dw9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d04c/live/0f942980-9cc3-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/20/2026, 6:52:24 PM",
-      "desc": "Harry Brook sparkles in the Headingley gloom to build England’s commanding lead over Pakistan on a shortened second day of the first Test."
     },
     {
       "title": "US Open 2026 to offer biggest prize fund in Grand Slam history with $108 million on offer",
@@ -170,41 +210,25 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1205%2Fr1102563_1296x729_16%2D9.jpg",
       "published": "8/20/2026, 6:28:04 PM",
       "desc": "A.J. Brown and Jalen Hurts caught for a few minutes up after practice Thursday -- a notable development after the Patriots receiver revealed Wednesday that the former teammates had not spoken since he was traded to New England by the Eagles."
-    },
-    {
-      "title": "Greg Sankey, in filing, speaks out against pros returning to NCAA - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-sports/story/_/id/49672789/greg-sankey-filing-speaks-pros-returning-ncaa",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1207%2Fr1586312_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 6:26:29 PM",
-      "desc": "SEC commissioner Greg Sankey asked a judge to uphold NCAA rules that prevent athletes from returning to play in college."
-    },
-    {
-      "title": "Players pulled from fight-filled Giants-Dolphins practice - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49672671/players-pulled-fight-filled-giants-dolphins-practice",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704492_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 6:11:46 PM",
-      "desc": "Multiple players from Thursday's joint practice between the Dolphins and Giants were pulled for throwing punches or their physical actions during a fight-filled workout."
-    },
-    {
-      "title": "2026 NFL Top-10 CBs: Is Pat Surtain II Still The League's Best Cornerback?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-top-10-cbs-which-cornerback-best-league",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-46.jpg?ve=1&tl=1",
-      "published": "8/20/2026, 5:52:24 PM",
-      "desc": "Who are the top 10 cornerbacks in the NFL? We ranked them ahead of the year."
-    },
-    {
-      "title": "Conference League LIVE: Hibs, Motherwell, Hearts & Rangers in play-offs - radio, text updates, team news, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c60ejye3y38nt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4bc8/live/f45be4c0-9a45-11f1-aed2-8d6da8d75094.png",
-      "published": "8/20/2026, 5:37:26 PM",
-      "desc": "Listen to Sportsound commentary from Ibrox and follow live updates of all four Conference League play-off fixtures involving Scottish clubs."
     }
   ],
   "tech": [
+    {
+      "title": "Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
+      "image": "https://kotaku.com/app/uploads/2026/08/xbox-games-store-1200x675.jpg",
+      "published": "8/20/2026, 8:50:28 PM",
+      "desc": "The industry gets a little less transparent"
+    },
+    {
+      "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
+      "image": "https://assetsio.gnwcdn.com/gamescome_opening_night_live_2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "8/20/2026, 7:19:08 PM",
+      "desc": "Editorially selected games get in for free, but others are \"paid placements\""
+    },
     {
       "title": "Riot Will End Active Development On 2XKO At The End Of The Year - Kotaku",
       "source": "Kotaku",
@@ -222,6 +246,14 @@
       "desc": "Google is rolling out a new update to screen savers on Pixel, which includes new styles as well as the ability to switch between panels."
     },
     {
+      "title": "AirPods Pro 3 and more just got new firmware release in beta - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 6:33:00 PM",
+      "desc": "Apple has released new AirPods beta firmware today, it’s available for AirPods Pro 3 and select other models. Here are the details."
+    },
+    {
       "title": "Google releases Pixel 11 series factory images - 9to5Google",
       "source": "9to5google.com",
       "url": "http://9to5google.com/2026/08/20/pixel-11-factory-images/",
@@ -230,44 +262,20 @@
       "desc": "With the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices."
     },
     {
+      "title": "ChatGPT update adds Apple Messages integration on Mac - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 5:59:00 PM",
+      "desc": "Well, this seems interesting. ChatGPT’s latest update adds a new Mac integration: the ability to work with conversations from Apple’s..."
+    },
+    {
       "title": "Best Buy's 60th Anniversary Sale is live: We found the best deals on TVs, iPhones, Pokémon, and more - Mashable",
       "source": "Mashable",
       "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale-live-deals-august-2026",
       "image": "https://helios-i.mashable.com/imagery/articles/021SPE2xJBk6LE7DxpRqUqu/hero-image.fill.size_1200x675.v1787218272.png",
       "published": "8/20/2026, 5:25:23 PM",
       "desc": "This will probably be the biggest and best tech sale we see until October."
-    },
-    {
-      "title": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-duskbloods-characters-doofuses-2000726223",
-      "image": "https://kotaku.com/app/uploads/2026/08/duskbloods-pajama-man-1200x675.jpg",
-      "published": "8/20/2026, 5:15:35 PM",
-      "desc": "freakin' ZORK?!"
-    },
-    {
-      "title": "Wolverine's Incredible Suit Looks So Dang Goofy on PS5 - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/wolverines-incredible-suit-looks-so-dang-goofy-on-ps5",
-      "image": "https://images.pushsquare.com/df48986922c9f/large.jpg",
-      "published": "8/20/2026, 5:15:00 PM",
-      "desc": "You look ridiculous, bub"
-    },
-    {
-      "title": "My Kid Messed Around and Found Out. My Wife Wants to Blame Someone. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2026/08/parenting-advice-skateboard-scrape-blame.html",
-      "image": "https://compote.slate.com/images/c7932a81-5f45-4e46-8f33-849485efde24.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "published": "8/20/2026, 5:10:00 PM",
-      "desc": "This is ridiculous."
-    },
-    {
-      "title": "Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
-      "image": "https://assetsio.gnwcdn.com/duskbloods-miyazaki-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "8/20/2026, 4:44:12 PM",
-      "desc": "Souls house FromSoftware has done back-to-back multiplayer games with The Duskbloods and Elden Ring: Nightreign. But it hasn't forgotten solo players."
     }
   ],
   "education": [
@@ -438,24 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 13,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 14,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
@@ -464,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
     },
     {
+      "rank": 13,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 14,
+      "title": "These Alarms (with Kylie Minogue) [Roy Kerr Remix]",
+      "artist": "Snow Patrol",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/b5/7e/cbb57e86-d72f-ba98-7b2b-99d7185f7986/4099964285079.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/1f/a5/471fa5e0-73f8-45e5-140c-009daae48f1f/mzaf_4595233494068327538.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/these-alarms-with-kylie-minogue-roy-kerr-remix/6801099391?i=6801099392&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20These%20Alarms%20(with%20Kylie%20Minogue)%20%5BRoy%20Kerr%20Remix%5D"
+    },
+    {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "Marianne",
+      "artist": "Fontaines D.C.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     }
   ],
   "movies": [
@@ -512,21 +520,21 @@
     },
     {
       "rank": 5,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 6,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 6,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 7,
@@ -539,15 +547,6 @@
     },
     {
       "rank": 8,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 9,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -556,13 +555,13 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 10,
-      "title": "The Super Mario Galaxy Movie",
+      "rank": 9,
+      "title": "Don't Say Good Luck",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "url": "https://www.themoviedb.org/movie/1226863"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
   "tv": [
