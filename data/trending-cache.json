@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-21T16:35:48.657Z",
+  "updated": "2026-08-21T17:29:56.484Z",
   "news": [
+    {
+      "title": "How did some houses survive the Stourbridge fire while neighbours lost everything?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8yz92jrpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7848/live/56a49a00-9be5-11f1-ba30-ddd78081057f.jpg",
+      "published": "8/20/2026, 5:37:27 PM",
+      "desc": "One question asked by many after last week's fire is why some homes escaped unscathed?"
+    },
+    {
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg",
+      "published": "8/20/2026, 5:22:23 PM",
+      "desc": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
+    },
     {
       "title": "Man charged over Manchester synagogue attack",
       "source": "BBC News",
@@ -48,25 +64,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42ad/live/498598d0-9c8d-11f1-a291-b542ee92de7c.jpg",
       "published": "8/20/2026, 12:07:29 PM",
       "desc": "Andy Burnham wishes the Duke and Duchess of Sussex well in \"the move that they are making\"."
-    },
-    {
-      "title": "John Swinney defends £45,000 business-class flights to World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f2b/live/baa83ad0-9c75-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/20/2026, 10:37:28 AM",
-      "desc": "The Scottish government spent almost £100,000 on official visits to the United States in June."
-    },
-    {
-      "title": "Travelodge boss steps down after security issues in rooms",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdc5/live/58b84fa0-9c65-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/20/2026, 7:22:28 AM",
-      "desc": "Jo Boydell had been criticised for the company's handling of issues with its safety and security."
     }
   ],
   "sports": [
+    {
+      "title": "Conference League LIVE: Hibs, Motherwell, Hearts & Rangers in play-offs - radio, text updates, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c60ejye3y38nt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4bc8/live/f45be4c0-9a45-11f1-aed2-8d6da8d75094.png",
+      "published": "8/20/2026, 5:37:26 PM",
+      "desc": "Listen to Sportsound commentary from Ibrox and follow live updates of all four Conference League play-off fixtures involving Scottish clubs."
+    },
+    {
+      "title": "Sam LaPorta's status uncertain for Lions' season opener - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49672143/sam-laporta-status-uncertain-lions-season-opener",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696053_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 5:11:33 PM",
+      "desc": "Sam LaPorta's status for the Lions' regular-season opener is unclear after the star tight end suffered a hip injury."
+    },
+    {
+      "title": "Yankuba Minteh: Liverpool have £50m bid rejected for Brighton winger",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
+      "published": "8/20/2026, 5:07:29 PM",
+      "desc": "Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh."
+    },
+    {
+      "title": "UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text updates, scores, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmkgvvnx93vlt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/212c/live/006a6670-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+      "published": "8/20/2026, 5:07:26 PM",
+      "desc": "Follow live text commentary as Brighton visit Tromso in the first leg of their Conference League play-off."
+    },
+    {
+      "title": "James Harden agrees to 3-year, $97M deal to remain with Cavaliers - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49671792/james-harden-agrees-3-year-97m-deal-remain-cavaliers",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704461_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 5:02:00 PM",
+      "desc": "James Harden has agreed to a new three-year, $97 million contract to remain with the Cavaliers, his agency, Equity Sports, told ESPN on Thursday."
+    },
+    {
+      "title": "Lakers minority owner Dr. Patrick Soon-Shiong not selling 4% stake - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49671926/lakers-minority-owner-dr-patrick-soon-shiong-not-selling-4-stake",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0527%2Fr1664559_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 4:52:56 PM",
+      "desc": "One of the Lakers' minority owners, Dr. Patrick Soon-Shiong, has no plans to sell his 4% stake in the team, his attorney told ESPN."
+    },
     {
       "title": "Inside NFL Training Camps: 12 Head Coaches Reveal Their Favorite Drills",
       "source": "Fox Sports",
@@ -82,6 +130,14 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/nolah1.jpg?ve=1&tl=1",
       "published": "8/20/2026, 4:22:22 PM",
       "desc": "Sweeps, sweeps, sweeps, Pete Alonso hitting two homers until he didn't, the White Sox getting one back, the D-backs bend but don't break and more from Wednesday's MLB action."
+    },
+    {
+      "title": "Utah sues Freddie Whittingham over alleged breach of contract - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49671600/utah-sues-freddie-whittingham-alleged-breach-contract",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1210%2Fr1587691_1296x729_16%2D9.jpg",
+      "published": "8/20/2026, 4:18:29 PM",
+      "desc": "The University of Utah is suing former assistant Freddie Whittingham for breach of contract after he left the Utes to join the coaching staff of his brother, Kyle Whittingham, at Michigan."
     },
     {
       "title": "Enzo Fernandez: Chelsea boss Xabi Alonso happy with midfielder amid uncertainty",
@@ -148,134 +204,78 @@
       "desc": "Learn which TV channel or how to live stream the Washington Nationals and Texas Rangers MLB game."
     },
     {
-      "title": "Premier League news conferences: Mikel Arteta to speak soon",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c8kgv7dvg5d0t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f009/live/0ecf1ab0-9c95-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/20/2026, 1:07:23 PM",
-      "desc": "All the latest from the day's news conferences before the return of the Premier League."
-    },
-    {
       "title": "Paige Bueckers, Azzi Fudd offer rare comments about relationship - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49660963/paige-bueckers-azzi-fudd-dallas-wings-relationship-comments-dynasty-uconn-huskies",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0403%2Fr1153860_1296x729_16%2D9.jpg",
       "published": "8/20/2026, 1:00:00 PM",
       "desc": "The three-part docuseries about the Huskies will be available on Apple TV on Aug. 21."
-    },
-    {
-      "title": "Max Verstappen on new Red Bull deal: I was 'closer to retiring than changing teams' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/f1/story/_/id/49669330/max-verstappen-red-bull-f1-dutch-grand-prix",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704346_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 12:08:48 PM",
-      "desc": "After signing a new deal to remain at Red Bull until the end of 2030, Max Verstappen has said he never felt the desire to switch teams and revealed he was closer to leaving the sport entirely than signing for a rival."
-    },
-    {
-      "title": "Bruins to play in Munich, Oilers in Cologne in 2027 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49669317/bruins-play-munich-oilers-cologne-2027",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692170_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 12:06:54 PM",
-      "desc": "The Bruins and Oilers will each play two regular-season games in Germany next year with opponents to be determined."
-    },
-    {
-      "title": "England vs Pakistan LIVE: First Test, day two, Headingley - cricket score, radio & video highlights",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/live/c62l8j10kw6t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed49/live/3e5fb980-9c7a-11f1-b698-8fa8e681a921.jpg",
-      "published": "8/20/2026, 9:52:25 AM",
-      "desc": "England play Pakistan in the first Test at Headingley - follow live text updates, radio commentary and in-play video highlights."
-    },
-    {
-      "title": "Tottenham transfer news: Spurs in talks to sign Man City's Omar Marmoush and Savinho",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a624/live/8092d520-9c71-11f1-b109-879e35c24276.png",
-      "published": "8/20/2026, 9:22:18 AM",
-      "desc": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho."
-    },
-    {
-      "title": "Supplements: what do athletes take and why?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/articles/cpd7pwx0233o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c70/live/83d9e3d0-97d1-11f1-b1e0-bbc28f2688df.jpg",
-      "published": "8/20/2026, 6:37:23 AM",
-      "desc": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?"
-    },
-    {
-      "title": "Miles exits on another milestone night as Lynx beat Valkyries - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49667151/miles-exits-another-milestone-night-lynx-beat-valkyries",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0820%2Fr1704289_1296x729_16%2D9.jpg",
-      "published": "8/20/2026, 6:20:02 AM",
-      "desc": "Olivia Miles tweaked her left ankle midway through the fourth quarter of Minnesota's win at Golden State on Wednesday night."
     }
   ],
   "tech": [
     {
-      "title": "All Fortnite admin panel codes for lobby hack - PCGamesN",
-      "source": "PCGamesN",
-      "url": "https://www.pcgamesn.com/fortnite/lobby-hack-codes",
-      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/fortnite-override-cartridges-extra-life-en-1.jpg",
-      "published": "8/20/2026, 2:26:57 PM",
-      "desc": "In Chapter 7 Season 4, Fortnite admin panel codes have been added to celebrate gaming, with Override lobby hack codes unlocking XP."
-    },
-    {
-      "title": "ASUS Googlebook CX9406 leak reveals early pricing, Core Ultra 5 and a 16GB RAM model - Chrome Unboxed",
-      "source": "Chrome Unboxed",
-      "url": "https://chromeunboxed.com/asus-googlebook-cx9406-leak-reveals-early-pricing-core-ultra-5-and-a-16gb-ram-model/",
-      "image": "",
-      "published": "8/20/2026, 2:15:09 PM",
-      "desc": ""
-    },
-    {
-      "title": "iPhone 18 won’t launch next month, here’s when it’s coming instead - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/20/2026, 2:02:00 PM",
-      "desc": "Per reporting, a key product will be missing from Apple’s September event: the base iPhone 18. Here’s when to expect iPhone 18’s launch."
-    },
-    {
-      "title": "FromSoftware can do anything - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_12.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "8/20/2026, 2:00:00 PM",
-      "desc": "Elden Ring studio FromSoftware is going down a different path with The Duskbloods, a multiplayer game that’s exclusive to the Nintendo Switch 2."
-    },
-    {
-      "title": "‘GTA VI’ Leaker Shows They May Have An Actual Game Build - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/20/gta-vi-leaker-shows-they-may-have-an-actual-game-build/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69f9f3653b487815fed5b0b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/20/2026, 1:17:14 PM",
-      "desc": "Things have taken a turn in the great 'Grand Theft Auto VI' leak saga, where an individual known as Cyberleek has posted game footage.. Now they may have the game itself."
-    },
-    {
-      "title": "\"Delta Reign\" TCG Set Officially Revealed for November, Full Product Lineup! - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/2026/08/delta-reign-tcg-set-officially-revealed-for-november-full-product-lineup",
-      "image": "https://www.pokebeach.com/news/2026/08/Delta-Reign.jpg",
-      "published": "8/20/2026, 1:10:11 PM",
-      "desc": "Delta Reign starring Mega Rayquaza ex has now been fully revealed! As posted before, it will release on November 6th as our sixth English Mega Evolution"
-    },
-    {
-      "title": "Nobody’s Buying New Physical Games On Xbox In The U.S. - Kotaku",
+      "title": "The Duskbloods' Characters Look Like A Bunch Of Total Doofuses - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/nobodys-buying-new-physical-games-on-xbox-in-the-u-s-2000725930",
-      "image": "https://kotaku.com/app/uploads/2024/07/4a708de5f5f2fed200a3c32730ded1db.jpg",
-      "published": "8/20/2026, 1:00:44 PM",
-      "desc": "Nintendo runs away with it"
+      "url": "https://kotaku.com/the-duskbloods-characters-doofuses-2000726223",
+      "image": "https://kotaku.com/app/uploads/2026/08/duskbloods-pajama-man-1200x675.jpg",
+      "published": "8/20/2026, 5:15:35 PM",
+      "desc": "freakin' ZORK?!"
     },
     {
-      "title": "I bought DJI’s banned camera — it was cheap and easy - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-osmo-pocket-4p-sean-hollister-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "8/20/2026, 1:00:00 PM",
-      "desc": "The DJI Osmo Pocket 4 and Pocket 4P are banned in the United States, but that isn’t stopping smugglers."
+      "title": "MacBook Ultra is coming: Six new features launching this fall - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 4:18:00 PM",
+      "desc": "Apple is rumored to launch the first ‘MacBook Ultra’ this fall, growing the MacBook lineup—here are six rumored new features."
+    },
+    {
+      "title": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/20/google-pixel-11-pro-hilight-third-party-control-feature/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-HiLight-Instagram-logo-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 4:05:00 PM",
+      "desc": "Google's \"HiLight\" feature on Pixel 11 Pro is very limited, but a third-party developer already figured out how to fully control it."
+    },
+    {
+      "title": "007 First Light Hits Major Sales Milestone, Still Confirmed For Switch 2 - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/007-first-light-hits-major-sales-milestone-still-confirmed-for-switch-2",
+      "image": "https://images.nintendolife.com/c842840c8cce1/large.jpg",
+      "published": "8/20/2026, 4:00:00 PM",
+      "desc": "Don't panic"
+    },
+    {
+      "title": "FromSoftware Boss Miyazaki Says, 'We Still Have a Heavy Focus on Single-Player Content' - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
+      "image": "https://assets-prd.ignimgs.com/2026/08/20/the-duskbloods-12-1787208413891.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/20/2026, 3:51:42 PM",
+      "desc": "While Elden Ring: Nightreign and The Duskbloods are back-to-back multiplayer games, FromSoftware's Miyazaki says they're still focused on single-player content."
+    },
+    {
+      "title": "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/silent-hill-townfall-gameplay-demo-video-impressions-2000726181",
+      "image": "https://kotaku.com/app/uploads/2026/02/silenthill_townfall-1200x675.jpg",
+      "published": "8/20/2026, 3:45:24 PM",
+      "desc": "The 19-minute-long gameplay demo left me with more questions than answers, one of them being 'Damn, y'all live like that?'"
+    },
+    {
+      "title": "Xbox Game Pass subscribers get three free bonus games this weekend - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/free-play-days-august-20-2026",
+      "image": "https://www.trueachievements.com/imgs/177698/free-play-days.jpg",
+      "published": "8/20/2026, 3:36:17 PM",
+      "desc": "Free Play Days returns again with a selection of games Xbox users can check out for free, all of which are currently on Xbox Game Pass."
+    },
+    {
+      "title": "Compulsion Games pulls off management buyout and separates from Xbox | exclusive - GamesBeat",
+      "source": "Gamesbeat.com",
+      "url": "https://gamesbeat.com/compulsion-games-pulls-off-management-buyout-and-separates-from-xbox-exclusive/",
+      "image": "https://gamesbeat.com/wp-content/uploads/2025/05/south-of-midnight-3.jpg",
+      "published": "8/20/2026, 3:35:29 PM",
+      "desc": "Compulsion Games, the maker of compelling gamers like South of Midnight, has pulled off a management buyout and is now separated from Xbox."
     }
   ],
   "education": [
@@ -455,15 +455,6 @@
     },
     {
       "rank": 13,
-      "title": "New Religion",
-      "artist": "Bebe Rexha & Faithless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 14,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -472,13 +463,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+    },
+    {
+      "rank": 15,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
     }
   ],
   "movies": [
