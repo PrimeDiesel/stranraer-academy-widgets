@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-21T09:37:30.213Z",
+  "updated": "2026-08-21T10:31:48.198Z",
   "news": [
+    {
+      "title": "Illegal e-motorbike riders posing risks to residents and properties",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkzm3318go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da87/live/1c74ea00-9beb-11f1-ba30-ddd78081057f.jpg",
+      "published": "8/20/2026, 10:07:21 AM",
+      "desc": "Residents say they have seen groups of riders regularly race through the streets."
+    },
     {
       "title": "Shoreham beach death tributes paid to family by Ealing school",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own."
     },
     {
-      "title": "Newspaper headlines: 'Harry's coming home' and 'Day trip tragedy'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgp03rr15o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d38a/live/81cb42d0-9c29-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/20/2026, 1:37:21 AM",
-      "desc": "News of the Duke and Duchess of Sussex's plan to move back to the UK is prominent across Thursday's papers."
-    },
-    {
       "title": "Prince Harry and Meghan set to return to the UK",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o",
@@ -67,6 +67,22 @@
     }
   ],
   "sports": [
+    {
+      "title": "County Championship LIVE: Day one - scores, radio commentary & live text",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/c0eyevwre52t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3c26/live/6a7c5f10-9a21-11f1-9a44-e568b7279c37.jpg",
+      "published": "8/20/2026, 9:52:28 AM",
+      "desc": "Follow live text updates and BBC radio commentaries from day one of nine matches as the County Championship resumes after its summer break."
+    },
+    {
+      "title": "England vs Pakistan LIVE: First Test, day two, Headingley - cricket score, radio & video highlights",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/c62l8j10kw6t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed49/live/3e5fb980-9c7a-11f1-b698-8fa8e681a921.jpg",
+      "published": "8/20/2026, 9:52:25 AM",
+      "desc": "England play Pakistan in the first Test at Headingley - follow live text updates, radio commentary and in-play video highlights."
+    },
     {
       "title": "Tottenham transfer news: Spurs in talks to sign Man City's Omar Marmoush and Savinho",
       "source": "BBC Sport",
@@ -132,14 +148,6 @@
       "desc": "Olivia Miles tweaked her left ankle midway through the fourth quarter of Minnesota's win at Golden State on Wednesday night."
     },
     {
-      "title": "Champions League: Celtic find value in Camilo Duran - but does ambition reach further still?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cn0n6k42803o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa5c/live/48372370-9c17-11f1-b109-879e35c24276.jpg",
-      "published": "8/20/2026, 5:52:22 AM",
-      "desc": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?"
-    },
-    {
       "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cp8edryd7plo",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/bucs1.jpg?ve=1&tl=1",
       "published": "8/20/2026, 12:07:24 AM",
       "desc": "Tampa Bay Buccaneers DT Vita Vea agreed to a one-year, $30 million fully guaranteed extension that keeps him locked up through the 2027 season."
-    },
-    {
-      "title": "Bucs, DT Vita Vea agree to 1-year extension to end hold-in - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49664105/bucs-dt-vita-vea-agree-1-year-extension-end-hold-in",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401412_1296x729_16%2D9.jpg",
-      "published": "8/19/2026, 11:06:50 PM",
-      "desc": "Two-time Pro Bowl defensive tackle Vita Vea and the Tampa Bay Buccaneers have agreed on a one-year extension that guarantees him $30 million, sources told ESPN on Wednesday."
     }
   ],
   "tech": [
@@ -529,21 +529,21 @@
     },
     {
       "rank": 6,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
       "url": "https://www.themoviedb.org/movie/1504358"
+    },
+    {
+      "rank": 7,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 8,
@@ -573,15 +573,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
