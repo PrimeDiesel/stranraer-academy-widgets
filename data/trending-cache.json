@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-21T06:48:41.998Z",
+  "updated": "2026-08-21T07:43:02.022Z",
   "news": [
+    {
+      "title": "Charity complains about Channel 4 documentary examining ADHD",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3910/live/584606d0-9c5a-11f1-b109-879e35c24276.jpg",
+      "published": "8/20/2026, 7:37:22 AM",
+      "desc": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\"."
+    },
+    {
+      "title": "Travelodge boss steps down after security issues in rooms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdc5/live/58b84fa0-9c65-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/20/2026, 7:22:28 AM",
+      "desc": "Jo Boydell had been criticised for the company's handling of issues with its safety and security."
+    },
     {
       "title": "Vaping could lead to health harm in children and young people, doctors warn",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae91/live/be34ef00-9bfc-11f1-bbc9-198f60b94eaf.jpg",
       "published": "8/20/2026, 5:37:22 AM",
       "desc": "A Royal College of Paediatrics and Child Health has published a report with concerns vaping is a gateway to smoking"
-    },
-    {
-      "title": "Family named after three die in sea off Shoreham beach",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg",
-      "published": "8/20/2026, 5:22:29 AM",
-      "desc": "Police say the family travelled from their home in London and went into the sea for a swim."
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
@@ -56,17 +64,49 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg",
       "published": "8/20/2026, 12:37:18 AM",
       "desc": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
-    },
-    {
-      "title": "Prince Harry and Meghan set to return to the UK",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "published": "8/19/2026, 9:37:17 PM",
-      "desc": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
     }
   ],
   "sports": [
+    {
+      "title": "Edmonton Marathon organisers say 2026 route was 674m too long",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6103/live/cc9132d0-9c5f-11f1-827b-69a6492daae1.jpg",
+      "published": "8/20/2026, 7:37:30 AM",
+      "desc": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long."
+    },
+    {
+      "title": "BBC Sport quiz: Five in Five football quiz No 4",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0a0/live/25455e60-95ad-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/20/2026, 7:37:29 AM",
+      "desc": "Will you beat the clock by getting all five of today's answers in five minutes?"
+    },
+    {
+      "title": "Cincinnati Open: Top seed Aryna Sabalenka stunned by Sara Bejlek in fourth round",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c3w0v08y0w3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f19b/live/bb8c5b40-9c5f-11f1-827b-69a6492daae1.jpg",
+      "published": "8/20/2026, 7:37:28 AM",
+      "desc": "Aryna Sabalenka's preparations for her US Open title defence suffer a setback in a surprise defeat by Sara Bejlek at the Cincinnati Open."
+    },
+    {
+      "title": "Liverpool: What does Jeff Bezos' Liverpool deal mean?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4g31egre74o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba77/live/a282ad60-9bf2-11f1-8470-d18257d2d589.jpg",
+      "published": "8/20/2026, 7:37:26 AM",
+      "desc": "What does Liverpool’s future hold following the sale of stakes to 1892 Holdings, and how involved will Amazon founder Jeff Bezos be?"
+    },
+    {
+      "title": "Formula 1: Max Verstappen extends deal with Red Bull to 2030",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c891/live/b9546870-9c66-11f1-827b-69a6492daae1.jpg",
+      "published": "8/20/2026, 7:37:24 AM",
+      "desc": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030."
+    },
     {
       "title": "Supplements: what do athletes take and why?",
       "source": "BBC Sport",
@@ -170,49 +210,17 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0299/live/bb922da0-9c1d-11f1-ae5d-4b5a57168e23.jpg",
       "published": "8/19/2026, 10:52:22 PM",
       "desc": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half."
-    },
-    {
-      "title": "USA Forward Haji Wright Reportedly Ruled Out Up To 12 Weeks Due To Quad Injury",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usa-forward-haji-wright-reportedly-ruled-out-up-12-weeks-due-quad-injury",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2281321827-scaled.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:37:19 PM",
-      "desc": "United States men's national team forward Haji Wright will reportedly miss up to 12 weeks of the Premier League season due to a quad injury."
-    },
-    {
-      "title": "INDYCAR Freedom 250 Course In DC: A Complex Road To Completion",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-course-dc-complex-road-completion",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/complexity-to-completion_indycar_250_bob-pockrass.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:07:30 PM",
-      "desc": "A short time frame to completion and millions of dollars invested, Penske's Bud Denker said INDYCAR's Freedom 250 course is one he'd race again."
-    },
-    {
-      "title": "Does Freedom 250 Signal Long-Term INDYCAR Return To The Mid-Atlantic?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/will-freedom-250-signal-long-term-indycar-return-mid-atlantic",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x9-31.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:07:28 PM",
-      "desc": "Could INDYCAR racing in D.C. mean that the series will work to increase its Mid-Atlantic presence? And if so, where?"
-    },
-    {
-      "title": "Why Are Barcelona Fans Spamming Olivia Rodrigo's Instagram Comments?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/why-barcelona-fans-spamming-olivia-rodrigos-instagram-comments",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/6a73d721-rodri1.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:07:26 PM",
-      "desc": "Barcelona fans are welcoming the wrong Rodri to the club in a case of mistaken identity."
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's 2026 College Football Preseason Top 10",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-2026-college-football-preseason-top-10",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x9-9.jpg?ve=1&tl=1",
-      "published": "8/19/2026, 10:07:24 PM",
-      "desc": "The AP and Coaches Polls have spoken, but Chris \"The Bear\" Fallica is getting the final say on which teams should be in the CFB preseason top 10."
     }
   ],
   "tech": [
+    {
+      "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/20/2026, 2:45:00 AM",
+      "desc": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s..."
+    },
     {
       "title": "Trails in the Sky 2nd Chapter demo now available, Season Pass and Digital Deluxe Edition announced - RPG Site",
       "source": "RPG Site",
@@ -246,12 +254,20 @@
       "desc": "Framework says it's replacing some out-of-warranty AMD mainboards."
     },
     {
-      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg",
-      "published": "8/19/2026, 7:55:41 PM",
-      "desc": "Talk s***, get hit (with a free code)?"
+      "title": "Witcher 3 Cut A Feature Because NPCs Kept Dropping Babies - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923",
+      "image": "https://kotaku.com/app/uploads/2026/08/witcher-3-1196x675.jpg",
+      "published": "8/19/2026, 8:13:01 PM",
+      "desc": "A commitment to realism had some unintended consequences"
+    },
+    {
+      "title": "iPhone 18 Pro: Three new design updates are coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/19/2026, 8:03:00 PM",
+      "desc": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here’s what rumors say to expect."
     },
     {
       "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
@@ -260,22 +276,6 @@
       "image": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
       "published": "8/19/2026, 7:09:49 PM",
       "desc": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%."
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
-      "published": "8/19/2026, 7:02:00 PM",
-      "desc": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated."
-    },
-    {
-      "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Live-Deep-Research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/19/2026, 7:00:00 PM",
-      "desc": "With the back-to-school season underway, Google is introducing new study tools across the Gemini app and Search."
     }
   ],
   "education": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 6,
       "title": "Don't Say Good Luck",
       "year": "2026",
       "cert": "12",
@@ -537,16 +528,16 @@
       "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
-      "rank": 7,
-      "title": "Supergirl",
+      "rank": 6,
+      "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
@@ -555,42 +546,42 @@
       "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 9,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 2,
-      "title": "SpongeBob SquarePants",
-      "year": "1999",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "url": "https://www.themoviedb.org/tv/387"
-    },
-    {
-      "rank": 3,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
