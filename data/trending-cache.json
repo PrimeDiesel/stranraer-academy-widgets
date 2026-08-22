@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-22T02:54:36.127Z",
+  "updated": "2026-08-22T03:42:24.916Z",
   "news": [
+    {
+      "title": "Meghan could return to acting once back in UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/372b/live/354d54d0-9cff-11f1-8c12-c71ceb73a74f.jpg",
+      "published": "8/21/2026, 3:22:25 AM",
+      "desc": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+    },
+    {
+      "title": "What happened to Harry and Meghan's American dream?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54f8/live/3968b500-9cf5-11f1-8cdc-014599ccd660.jpg",
+      "published": "8/21/2026, 3:22:21 AM",
+      "desc": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
+    },
     {
       "title": "How much could Trump's 'economic D-Day' sanctions hurt Iran?",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
       "published": "8/21/2026, 1:37:23 AM",
       "desc": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
-    },
-    {
-      "title": "Wellness habits you can start today - at no (or little) cost",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vyz2x065o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d919/live/d5f042d0-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-      "published": "8/21/2026, 1:22:23 AM",
-      "desc": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats."
     },
     {
       "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
@@ -56,14 +64,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2f9/live/1b511ae0-9ce5-11f1-a291-b542ee92de7c.jpg",
       "published": "8/20/2026, 11:07:25 PM",
       "desc": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics."
-    },
-    {
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg",
-      "published": "8/20/2026, 10:22:15 PM",
-      "desc": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report."
     }
   ],
   "sports": [
@@ -214,20 +214,36 @@
   ],
   "tech": [
     {
+      "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
+      "source": "Figure Four Online",
+      "url": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/",
+      "image": "https://www.f4wonline.com/wp-content/uploads/2024/01/aewfightforever-1024x577.jpg",
+      "published": "8/21/2026, 2:50:26 AM",
+      "desc": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether he will do another one. Based on a new report out"
+    },
+    {
+      "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231204-grand-theft-auto-6-ew-700p-36dff5.jpg",
+      "published": "8/20/2026, 10:50:44 PM",
+      "desc": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warning other publishers that “no one is safe” from similar breaches."
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+      "published": "8/20/2026, 10:09:51 PM",
+      "desc": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+    },
+    {
       "title": "Europe cancels planned upgrades for Ariane 6 rocket - Ars Technica",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
       "published": "8/20/2026, 9:40:52 PM",
       "desc": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch."
-    },
-    {
-      "title": "The New Rat Horror Game Is Being Pirated A Week Before Launch - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pirates-have-resonance-a-plague-tale-legacy-a-week-before-release-as-games-keep-leaking-on-pc-2000726279",
-      "image": "https://kotaku.com/app/uploads/2026/08/resonance--1200x675.jpg",
-      "published": "8/20/2026, 8:15:51 PM",
-      "desc": "This is getting old"
     },
     {
       "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
@@ -252,30 +268,6 @@
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-new-screen-saver-charge.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "8/20/2026, 6:40:00 PM",
       "desc": "Google is rolling out a new update to screen savers on Pixel, which includes new styles as well as the ability to switch between panels."
-    },
-    {
-      "title": "AirPods Pro 3 and more just got new firmware release in beta - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/20/2026, 6:33:00 PM",
-      "desc": "Apple has released new AirPods beta firmware today, it’s available for AirPods Pro 3 and select other models. Here are the details."
-    },
-    {
-      "title": "Google releases Pixel 11 series factory images - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/20/pixel-11-factory-images/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/20/2026, 6:14:00 PM",
-      "desc": "With the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices."
-    },
-    {
-      "title": "Step Aside, GTA 6 Leaks, We Have To Talk About Zork - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/step-aside-gta-6-leaks-we-have-to-talk-about-zork/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/zork-thumb.jpg",
-      "published": "8/20/2026, 6:03:23 PM",
-      "desc": "From Software delivers the goods with one of The Duskbloods' characters."
     }
   ],
   "education": [
@@ -520,21 +512,21 @@
     },
     {
       "rank": 5,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 6,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 6,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 7,
@@ -547,15 +539,6 @@
     },
     {
       "rank": 8,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 9,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -564,7 +547,7 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
