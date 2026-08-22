@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-22T09:27:48.808Z",
+  "updated": "2026-08-22T10:24:08.459Z",
   "news": [
+    {
+      "title": "Starmer donates biography of himself to Downing Street library",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d950/live/1edb8ce0-9cb3-11f1-84cf-fd4cfd9d6c84.jpg",
+      "published": "8/21/2026, 10:22:25 AM",
+      "desc": "The former PM and seven of his ministers have added to the collection, which began in 1931."
+    },
     {
       "title": "What happened to Harry and Meghan's American dream?",
       "source": "BBC News",
@@ -50,14 +58,6 @@
       "desc": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
     },
     {
-      "title": "Newspaper headlines: 'King puts William first' and Harry security could cost public '£5m a year'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kjmmmxmlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/865a/live/67776230-9cef-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/21/2026, 1:07:22 AM",
-      "desc": "The return of the Duke and Duchess of Sussex to the UK continues to dominate Friday's front pages."
-    },
-    {
       "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo",
@@ -68,12 +68,20 @@
   ],
   "sports": [
     {
-      "title": "Women's Super League: Brighton midfielder Lia Walti 'missed feeling of being valued'",
+      "title": "Chelsea news: Joao Pedro set to sign new contract to 2032 with option of two further years",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cdrv86006r4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/336e/live/79050520-9c68-11f1-827b-69a6492daae1.jpg",
-      "published": "8/21/2026, 8:37:25 AM",
-      "desc": "Brighton midfielder Lia Walti says she \"missed the feeling of being valued as a footballer\" at Juventus and craved a return to the WSL."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c79g2z11r81o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/479e/live/7c70f030-9cc6-11f1-a5cd-a14170183a2c.jpg",
+      "published": "8/21/2026, 10:22:25 AM",
+      "desc": "Chelsea striker Joao Pedro is set to sign a new contract with the club until 2032, with the option of two further years."
+    },
+    {
+      "title": "England vs Pakistan LIVE: First Test, day three, Headingley - cricket score, radio & video highlights",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/cly0z8e1rl5t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/507d/live/b889d8f0-9cc8-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/21/2026, 9:52:14 AM",
+      "desc": "England play Pakistan in the first Test at Headingley - follow live text updates, radio commentary and in-play video highlights."
     },
     {
       "title": "Jenny Simpson: Olympic medallist stops running after diagnosis with rare heart condition",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/a111742f-indycar-16x9-1.jpg?ve=1&tl=1",
       "published": "8/21/2026, 2:07:19 AM",
       "desc": "Ahead of the inaugural Freedom 250 race on Sunday, Alex Palou is on the brink of securing an NTT INDYCAR Series Championship."
-    },
-    {
-      "title": "Jury rules New York Times defamed Alabama basketball player - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/story/_/id/49675770/jury-rules-new-york-s-defamed-alabama-basketball-player",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0224%2Fr1135666_1296x729_16%2D9.jpg",
-      "published": "8/21/2026, 1:32:31 AM",
-      "desc": "An Alabama jury on Thursday awarded $9.25 million in damages after finding that the New York Times defamed an Alabama basketball player by incorrectly reporting that he was at the scene of a fatal shooting in Tuscaloosa."
     }
   ],
   "tech": [
