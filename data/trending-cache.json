@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-22T16:25:07.307Z",
+  "updated": "2026-08-22T17:21:02.987Z",
   "news": [
     {
-      "title": "Wellness habits you can start today - at no (or little) cost",
+      "title": "Germany investigates Russia links to weapons cache discovery, reports say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vyz2x065o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d919/live/d5f042d0-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-      "published": "8/21/2026, 3:52:23 PM",
-      "desc": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats."
+      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/21/2026, 5:07:18 PM",
+      "desc": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
+    },
+    {
+      "title": "A split in the spectrum? The ongoing battle to define autism",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1900/live/5d4ca960-9ca8-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/21/2026, 4:52:29 PM",
+      "desc": "There is a continuing row over whether it matters if such a broad spectrum of people are defined as having autism"
     },
     {
       "title": "US Open 2026: Jannik Sinner withdraws from Flushing Meadows event with a knee injury",
@@ -56,17 +64,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22de/live/459c41e0-9d57-11f1-aed2-8d6da8d75094.jpg",
       "published": "8/21/2026, 12:22:22 PM",
       "desc": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
-    },
-    {
-      "title": "Greenock: The town whose council wants migrants to move in",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg",
-      "published": "8/21/2026, 5:37:18 AM",
-      "desc": "Greenock wants to attract immigrants to settle in the town and reverse its declining population."
     }
   ],
   "sports": [
+    {
+      "title": "Why 'Purposeful' Titans Rookie Carnell Tate Is The Receiver Cam Ward Needs",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/rookie-wr-carnell-tate-will-shine-titans",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ca471efb-16x9-3.jpg?ve=1&tl=1",
+      "published": "8/21/2026, 5:07:21 PM",
+      "desc": "Carnell Tate's former coaches and teammates explain why the No. 4 overall pick is the perfect receiver for Titans QB Cam Ward."
+    },
+    {
+      "title": "More College Sports Eligibility? Federal Appeals Court Says Not So Fast",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/federal-appeals-court-college-eligibility-basketball",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indianah1.jpg?ve=1&tl=1",
+      "published": "8/21/2026, 5:07:18 PM",
+      "desc": "A number of fifth-year players have already returned to college sports, with more planning to in the coming months, but all of that has been brought to a halt by a federal court."
+    },
+    {
+      "title": "Kurt Busch shares emotional last moments with late brother Kyle - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/racing/nascar/story/_/id/49682551/kurt-busch-shares-emotional-last-moments-late-brother-kyle",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0826%2Fr1216031_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 5:00:20 PM",
+      "desc": "NASCAR Hall of Famer Kurt Busch made an emotional recollection of the final day he spent at his younger brother's hospital bedside in his first public comments about Kyle Busch's death on Friday."
+    },
     {
       "title": "Liverpool: Andoni Iraola says he needs more wingers at the club",
       "source": "BBC Sport",
@@ -186,33 +210,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/07cf/live/66136f80-9d6a-11f1-a2d1-59489fee904d.jpg",
       "published": "8/21/2026, 2:22:13 PM",
       "desc": "World number one Jannik Sinner pulls out of the upcoming US Open with a knee injury."
-    },
-    {
-      "title": "Jannik Sinner withdraws from US Open due to knee injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49681192/jannik-sinner-withdraws-us-open-due-knee-injury",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0629%2Fr1681548_2_1296x729_16%2D9.jpg",
-      "published": "8/21/2026, 2:18:47 PM",
-      "desc": "Jannik Sinner will miss the US Open with a right knee injury that has kept him out of action since Wimbledon."
-    },
-    {
-      "title": "INDYCAR Drivers, Executives Take In Washington Ahead Of Freedom 250",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-drivers-washington-freedom-250",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indycar-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 1:52:25 PM",
-      "desc": "Drivers in awe of \"spectacular\" Washington D.C. as they explore its rich history before Sunday's Freedom 250."
-    },
-    {
-      "title": "Olympic medalist Simpson: Running chapter over after collapse - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/story/_/id/49680958/olympic-medalist-simpson-running-chapter-collapse",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0622%2Fr870766_1296x729_16%2D9.jpg",
-      "published": "8/21/2026, 1:40:48 PM",
-      "desc": "Olympic bronze medalist Jenny Simpson says her running chapter \"has ended\" after she collapsed while pacing a mile group this summer."
     }
   ],
   "tech": [
+    {
+      "title": "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro",
+      "image": "https://images.pushsquare.com/e7b50797bc6cc/large.jpg",
+      "published": "8/21/2026, 3:00:00 PM",
+      "desc": "Console footage shared online"
+    },
+    {
+      "title": "Pixel Watch 5’s AI watch face generator keeps the same form factor feeling fresh [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published": "8/21/2026, 2:15:00 PM",
+      "desc": "Google's new Pixel Watch 5 series comes with an AI watch face generator, and it's maybe one of my favorite new add-ons."
+    },
     {
       "title": "The ‘GTA 6’ Leaker Is Leaking Again, Ending Rumors Of Being Caught - Forbes",
       "source": "Forbes",
@@ -220,6 +236,14 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/681a18c5bb026fcec0cda700/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "8/21/2026, 1:30:21 PM",
       "desc": "After 24 hours of silence, implying they may have been caught, the GTA 6 leaker has returned and is posting new footage."
+    },
+    {
+      "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+      "image": "https://images.macrumors.com/t/iGzoHynYtaO1mi-XBIP2hybXa8Y=/3840x/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
+      "published": "8/21/2026, 11:28:45 AM",
+      "desc": "Apple \"has just laid off an entire team dedicated to VR development,\" reports AppleInsider, citing its own source. Apple is said to have laid..."
     },
     {
       "title": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable - Eurogamer",
@@ -249,33 +273,9 @@
       "title": "Xbox Series X25 Price & Release Date Details Are Starting To Leak Out - Pure Xbox",
       "source": "Pure Xbox",
       "url": "https://www.purexbox.com/news/2026/08/xbox-series-x25-price-and-release-date-details-are-starting-to-leak-out",
-      "image": "",
+      "image": "https://images.purexbox.com/fe085c291c56e/large.jpg",
       "published": "8/21/2026, 10:30:46 AM",
-      "desc": ""
-    },
-    {
-      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
-      "image": "https://images.macrumors.com/t/PRt3hOQOcgYP-iOW475qMTax9ks=/2500x/article-new/2026/06/airpods-pro-3-orange.jpeg",
-      "published": "8/21/2026, 9:31:54 AM",
-      "desc": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of them in action discovered earlier this week. The..."
-    },
-    {
-      "title": "New ASUS Googlebook leak shows more configurations and pricing details - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg",
-      "published": "8/21/2026, 7:49:00 AM",
-      "desc": "The ASUS Googlebook CX9406 has been spotted on a retailer's website with 16GB of RAM, an Intel Core Ultra 5 chip, and a 14-inch touchscreen."
-    },
-    {
-      "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
-      "source": "Figure Four Online",
-      "url": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/",
-      "image": "https://www.f4wonline.com/wp-content/uploads/2024/01/aewfightforever-1024x577.jpg",
-      "published": "8/21/2026, 2:50:26 AM",
-      "desc": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether he will do another one. Based on a new report out"
+      "desc": "We've got the European price and a seemingly confirmed date"
     }
   ],
   "education": [
@@ -392,21 +392,21 @@
     },
     {
       "rank": 6,
-      "title": "Leave Me Behind",
-      "artist": "Nickelback",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/94/29/8c9429a9-8f93-bc78-6a78-e1d4c13c2ee7/mzaf_6597303963277823795.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/leave-me-behind/6784018115?i=6784018121&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Leave%20Me%20Behind"
-    },
-    {
-      "rank": 7,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 7,
+      "title": "Leave Me Behind",
+      "artist": "Nickelback",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/94/29/8c9429a9-8f93-bc78-6a78-e1d4c13c2ee7/mzaf_6597303963277823795.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/leave-me-behind/6784018115?i=6784018121&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Leave%20Me%20Behind"
     },
     {
       "rank": 8,
@@ -428,15 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 11,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -445,7 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
@@ -454,7 +445,25 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
+      "rank": 12,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
+    },
+    {
       "rank": 13,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 14,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
@@ -463,22 +472,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Talk To You (feat. 54 Ultra)",
       "artist": "ANOTR",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
-    },
-    {
-      "rank": 15,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
     }
   ],
   "movies": [
