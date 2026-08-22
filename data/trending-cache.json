@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-22T19:23:01.595Z",
+  "updated": "2026-08-22T20:23:37.749Z",
   "news": [
+    {
+      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
+      "published": "8/21/2026, 8:22:25 PM",
+      "desc": "The temporary order will allow the $400m (£297m) to continue while the high court mulls a final decision on the case."
+    },
+    {
+      "title": "One killed in sword attack at Swedish school",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+      "published": "8/21/2026, 7:37:23 PM",
+      "desc": "One person remains in a critical condition, while another suffered minor injuries in the attack."
+    },
+    {
+      "title": "Ofcom investigating Sky News over Farage harassment claims",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k52186mmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg",
+      "published": "8/21/2026, 7:22:23 PM",
+      "desc": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives."
+    },
     {
       "title": "Arran ferry evacuated over 'bomb threat' as passenger rescued from sea",
       "source": "BBC News",
@@ -26,14 +50,6 @@
       "desc": "This would be Meghan's first significant acting role since her marriage to Prince Harry."
     },
     {
-      "title": "Germany investigates Russia links to weapons cache discovery, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/21/2026, 5:07:18 PM",
-      "desc": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
-    },
-    {
       "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo",
@@ -48,25 +64,41 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d127/live/9710c0e0-9d53-11f1-aac2-870643eea2ac.jpg",
       "published": "8/21/2026, 12:37:20 PM",
       "desc": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
-    },
-    {
-      "title": "Search launched for man feared to have fallen overboard from cruise",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8x6yl4j99o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f6e/live/ecf9b430-9d53-11f1-aac2-870643eea2ac.jpg",
-      "published": "8/21/2026, 12:22:25 PM",
-      "desc": "The alarm was raised on board the Ambassador Ambition before it arrived in Dundee on Friday."
-    },
-    {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg",
-      "published": "8/21/2026, 12:37:20 AM",
-      "desc": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
     }
   ],
   "sports": [
+    {
+      "title": "Football gossip: Endrick, Jackson, Osimhen, Nkunku, Alvarez",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png",
+      "published": "8/21/2026, 8:22:25 PM",
+      "desc": "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more."
+    },
+    {
+      "title": "Man Utd transfer news: Club agree £70m fee for Brighton's Carlos Baleba",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwy452d662ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg",
+      "published": "8/21/2026, 8:22:21 PM",
+      "desc": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba."
+    },
+    {
+      "title": "Mavs buy out Klay Thompson's deal; Heat move on deck, sources say - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49683637/mavs-buy-klay-thompson-deal-heat-move-deck-sources-say",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0309%2Fr1461738_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 7:24:56 PM",
+      "desc": "Klay Thompson is expected to sign with the Heat after clearing waivers following his contract buyout from the Mavericks, sources told ESPN."
+    },
+    {
+      "title": "Seahawks WR Jake Bobo suffers 'serious' knee injury, says coach - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49683636/seahawks-wr-jake-bobo-suffers-serious-knee-injury-says-coach",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0821%2Fr1704972_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 7:24:31 PM",
+      "desc": "Seahawks wideout Jake Bobo appeared to suffer a \"serious: knee injury during Friday's practice against the Titans, coach Mike Macdonald told reporters."
+    },
     {
       "title": "From Imagination To Reality: Roger Penske Proud Of 'Iconic' Freedom 250 Course",
       "source": "Fox Sports",
@@ -74,14 +106,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indycar-16x9-2.jpg?ve=1&tl=1",
       "published": "8/21/2026, 7:07:26 PM",
       "desc": "Will the Freedom 250 be as captivating as the Indy 500? Roger Penske believes Sunday's \"iconic\" race could rise to the occasion."
-    },
-    {
-      "title": "Inter Milan complete £30m deal for Liverpool's Curtis Jones",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2100/live/de0dcb70-9cac-11f1-84cf-fd4cfd9d6c84.jpg",
-      "published": "8/21/2026, 7:07:26 PM",
-      "desc": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m."
     },
     {
       "title": "Best LBs In The NFL: Has Fred Warner Been Dethroned As League's Best Linebacker?",
@@ -186,30 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg",
       "published": "8/21/2026, 4:22:30 PM",
       "desc": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final."
-    },
-    {
-      "title": "Arsenal transfer news: England defender Ezri Konsa leaves Aston Villa in £50m-plus deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg97jpkkego",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/88bc/live/7cf21cc0-9d37-11f1-bc05-aff3aa1f91c7.jpg",
-      "published": "8/21/2026, 4:22:24 PM",
-      "desc": "Arsenal complete the £50m-plus signing of England defender Ezri Konsa from Aston Villa."
-    },
-    {
-      "title": "INDYCAR's Freedom 250 Will Be An Unforgettable Race With A Monumental Track",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-analysis-james-hinchcliffe-freedom-250-washington-dc",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x94-8.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 4:07:30 PM",
-      "desc": "INDYCAR's Freedom 250 will be stunning, as drivers flash by some of the most recognizable American monuments in a 180-mile-an-hour blur."
-    },
-    {
-      "title": "The Freedom 250 Continues The History Of DC Races Celebrating America's Birthday",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/the-freedom-250-continues-the-history-of-dc-races-celebrating-americas-birthday",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/fdd4da67-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 4:07:23 PM",
-      "desc": "Exactly 225 years after Thomas Jefferson celebrated America's birthday with a horse race, the Freedom 250 is taking over D.C."
     }
   ],
   "tech": [
@@ -511,15 +511,6 @@
     },
     {
       "rank": 4,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 5,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -528,22 +519,31 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "rank": 6,
-      "title": "Don't Say Good Luck",
+      "rank": 5,
+      "title": "Disclosure Day",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
       "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 7,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     },
     {
       "rank": 8,
@@ -562,6 +562,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 10,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     }
   ],
   "tv": [
