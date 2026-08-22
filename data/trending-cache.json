@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-22T20:23:37.749Z",
+  "updated": "2026-08-22T21:22:38.931Z",
   "news": [
+    {
+      "title": "Girl dies after Shoreham sea incident which killed Palestinian family",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "8/21/2026, 9:22:22 PM",
+      "desc": "She is the fourth person to die after her family got into difficulty in water in Shoreham."
+    },
     {
       "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
       "source": "BBC News",
@@ -56,24 +64,48 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3312/live/8d1181e0-9d2d-11f1-ba3e-c323fd3033f4.jpg",
       "published": "8/21/2026, 1:22:24 PM",
       "desc": "The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers."
-    },
-    {
-      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d127/live/9710c0e0-9d53-11f1-aac2-870643eea2ac.jpg",
-      "published": "8/21/2026, 12:37:20 PM",
-      "desc": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
     }
   ],
   "sports": [
     {
-      "title": "Football gossip: Endrick, Jackson, Osimhen, Nkunku, Alvarez",
+      "title": "2026 NFL Odds: Back C.J. Stroud, Texans To Win AFC South; Fade Titans",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-afc-south-best-bets",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/texans-821.jpg?ve=1&tl=1",
+      "published": "8/21/2026, 9:07:18 PM",
+      "desc": "Geoff Schwartz gives his picks for the AFC South, including the winner and the lowest team on the totem pole."
+    },
+    {
+      "title": "Arsenal 3-0 Coventry: How the players rated",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png",
-      "published": "8/21/2026, 8:22:25 PM",
-      "desc": "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more."
+      "url": "http://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f46/live/2b403310-9d9d-11f1-bff5-1bcd013e5a56.jpg",
+      "published": "8/21/2026, 9:07:18 PM",
+      "desc": "How Arsenal and Coventry's players rated following their Premier League match."
+    },
+    {
+      "title": "Nuggets signing 6-time All-Star DeMar DeRozan to 1-year deal - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49684447/nuggets-signing-6-all-star-demar-derozan-1-year-deal",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0122%2Fr1441816_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 9:01:46 PM",
+      "desc": "Six-time NBA All-Star DeMar DeRozan has agreed to sign with the Denver Nuggets on a one-year, $3.9 million deal, sources told ESPN on Friday."
+    },
+    {
+      "title": "Arsenal rout Coventry to start Premier League title defense - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49684284/arsenal-coventry-city-premier-league-result",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0821%2Fr1705019_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 8:52:00 PM",
+      "desc": "Arsenal made light work of Premier League new boys Coventry City as they began their title defense with a statement 3-0 win at the Emirates Stadium on Friday."
+    },
+    {
+      "title": "Minnesota Timberwolves deal values NBA franchise at $4.5bn",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/c78g2xg69n2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/59ce/live/23771ce0-9d96-11f1-9233-8716b68cda7b.jpg",
+      "published": "8/21/2026, 8:37:22 PM",
+      "desc": "The Minnesota Timberwolves change owners in a deal which makes them the fourth-most expensive NBA franchise to be sold."
     },
     {
       "title": "Man Utd transfer news: Club agree £70m fee for Brighton's Carlos Baleba",
@@ -82,6 +114,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg",
       "published": "8/21/2026, 8:22:21 PM",
       "desc": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba."
+    },
+    {
+      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49683972/man-united-agree-transfer-fee-brighton-carlos-baleba",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0821%2Fr1705000_1296x729_16%2D9.jpg",
+      "published": "8/21/2026, 7:58:00 PM",
+      "desc": "Manchester United have agreed to a deal with Brighton for midfielder Carlos Baleba, sources confirmed to ESPN."
     },
     {
       "title": "Mavs buy out Klay Thompson's deal; Heat move on deck, sources say - ESPN",
@@ -170,112 +210,72 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6dc5/live/83526340-9d82-11f1-adf5-2dc21c9cc109.jpg",
       "published": "8/21/2026, 5:37:22 PM",
       "desc": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley."
-    },
-    {
-      "title": "Why 'Purposeful' Titans Rookie Carnell Tate Is The Receiver Cam Ward Needs",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/rookie-wr-carnell-tate-will-shine-titans",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ca471efb-16x9-3.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 5:07:21 PM",
-      "desc": "Carnell Tate's former coaches and teammates explain why the No. 4 overall pick is the perfect receiver for Titans QB Cam Ward."
-    },
-    {
-      "title": "More College Sports Eligibility? Federal Appeals Court Says Not So Fast",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/federal-appeals-court-college-eligibility-basketball",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/indianah1.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 5:07:18 PM",
-      "desc": "A number of fifth-year players have already returned to college sports, with more planning to in the coming months, but all of that has been brought to a halt by a federal court."
-    },
-    {
-      "title": "Kurt Busch shares emotional last moments with late brother Kyle - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/racing/nascar/story/_/id/49682551/kurt-busch-shares-emotional-last-moments-late-brother-kyle",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0826%2Fr1216031_1296x729_16%2D9.jpg",
-      "published": "8/21/2026, 5:00:20 PM",
-      "desc": "NASCAR Hall of Famer Kurt Busch made an emotional recollection of the final day he spent at his younger brother's hospital bedside in his first public comments about Kyle Busch's death on Friday."
-    },
-    {
-      "title": "Liverpool: Andoni Iraola says he needs more wingers at the club",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/10eb/live/0ea01c90-9d73-11f1-bdcc-8926c4a74c43.jpg",
-      "published": "8/21/2026, 4:22:39 PM",
-      "desc": "Liverpool boss Andoni Iraola believes his side don't have enough wide players for the start of the season - but is confident he will find a solution."
-    },
-    {
-      "title": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg",
-      "published": "8/21/2026, 4:22:30 PM",
-      "desc": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final."
     }
   ],
   "tech": [
     {
-      "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231204-grand-theft-auto-6-ew-700p-36dff5.jpg",
-      "published": "8/21/2026, 6:09:00 PM",
-      "desc": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Grand Theft Auto VI,” with the alleged hacker warning other publishers that “no one is safe” from similar breaches."
-    },
-    {
-      "title": "First gameplay revealed for Call of Duty: Modern Warfare 4 on Nintendo Switch 2 - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/first-gameplay-revealed-for-call-of-duty-modern-warfare-4-on-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Call-of-Duty-Modern-Warfare-4-Switch-2-gameplay.webp",
-      "published": "8/21/2026, 4:23:49 PM",
-      "desc": "Call of Duty: Modern Warfare 4 has received the first ever Nintendo Switch 2 gameplay, plus information about frame rate."
-    },
-    {
-      "title": "Samsung's Absolutely Massive 57\" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/08/21/samsungneog957-1787328576780.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "8/21/2026, 4:22:50 PM",
-      "desc": "Bigger is better."
-    },
-    {
-      "title": "Pixel Camera adds 'Launch control' and new 'Quick access' slider controls on Pixel 11 [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-base-model-with-Camera-Looks-UI-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/21/2026, 4:05:00 PM",
-      "desc": "The Google Pixel camera app is adding new “Quick access” controls on the Pixel 11 series, but it’s a little..."
-    },
-    {
-      "title": "Dev TFT: SPACE GODS Reviewed - Teamfight Tactics",
-      "source": "Leagueoflegends.com",
-      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-space-gods-reviewed/",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/77c51191b4547ff9f3e843a3847ef2c9b4cfa9c5-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
-      "published": "8/21/2026, 4:00:00 PM",
-      "desc": "Reflecting on SPACE GODS (and more) with the team behind and beyond the set!"
-    },
-    {
-      "title": "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro - Push Square",
+      "title": "Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included - Push Square",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro",
-      "image": "https://images.pushsquare.com/e7b50797bc6cc/large.jpg",
-      "published": "8/21/2026, 3:00:00 PM",
-      "desc": "Console footage shared online"
+      "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
+      "image": "https://images.pushsquare.com/69da0c8d58f2e/large.jpg",
+      "published": "8/21/2026, 7:10:41 PM",
+      "desc": "All you need to know about the Modern Warfare 4 beta"
     },
     {
-      "title": "Here’s how iPhone 18 Pro will differentiate itself from prior models - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/21/2026, 2:58:00 PM",
-      "desc": "Here are some key ways Apple plans to differentiate iPhone 18 Pro from prior models, per the latest rumors."
+      "title": "Psychonauts Dev Now Owns All Its Games And Publishing Rights - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713",
+      "image": "https://kotaku.com/app/uploads/2021/06/cdblz0xjfk311hb0yhoa-1200x675.jpg",
+      "published": "8/21/2026, 6:57:26 PM",
+      "desc": "'Everything, we got back, the transfer of the IP came back to us'"
     },
     {
-      "title": "GrapheneOS phone from Motorola arrives next year, 'higher end' compared to Pixel with a price to match - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/21/motorola-grapheneos-phone-2027-spec-tease/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/motorola-grapheneos-b2b-image-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/21/2026, 2:30:00 PM",
-      "desc": "The privacy-focused GrapheneOS is making its way to dedicated hardware soon, with a device in the works from Motorola. According..."
+      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAyRi8Hvct.U/v1/1200x800.jpg",
+      "published": "8/21/2026, 6:45:32 PM",
+      "desc": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence."
+    },
+    {
+      "title": "AMD Ryzen 7 5800X3D 10th Anniversary Review - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/",
+      "image": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/images/title.jpg",
+      "published": "8/21/2026, 6:00:00 PM",
+      "desc": "The AMD Ryzen 7 5800X3D 10th Anniversary Edition brings back the legendary CPU known for its revolutionary 3D V-Cache tech. At $340, it's a compelling option, especially if you already have an existing AM4 setup. As bonus, AMD includes a Carbice thermal pad f…"
+    },
+    {
+      "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/2464767/best-buy-logo-stock1_2040.jpg?quality=90&strip=all&crop=0%2C10.79064510921%2C100%2C78.418709781581&w=1200",
+      "published": "8/21/2026, 6:00:00 PM",
+      "desc": "Best Buy is celebrating its 60th anniversary by offering $100 gift cards for $60 in stores on August 22nd, 2026."
+    },
+    {
+      "title": "Metal Gear Solid: Master Collection Vol. 2 updates MGS4 joke, even brings back original voice actor - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-updates-mgs4-joke-even-brings-back-original-voice-actor/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Metal-Gear-Solid-Master-Collection-MGS4-updated-joke.jpg",
+      "published": "8/21/2026, 5:37:04 PM",
+      "desc": "Following hands-on verdicts of Metal Gear Solid: Master Collection Vol. 2, an interesting tidbit has come to light about a joke that’s been updated in Metal Gear Solid 4. In the original release, after reaching Shadow Moses Island, the game referenced changin…"
+    },
+    {
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published": "8/21/2026, 4:52:56 PM",
+      "desc": "Take-Two Interactive has subpoenaed Microsoft and Discord to identify “alleged infringers” following seemingly leaked gameplay footage of Grand Theft Auto VI."
+    },
+    {
+      "title": "Trump to honor Artemis II crew with nation's top space medal - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-artemis-ii-crew-space-medal/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/30/7e27c809-55a4-48b5-aaf7-3b53e1ca8f56/thumbnail/1200x630g2/abb48e20305ffc7414411d903bcd3a56/gettyimages-2271711331.jpg",
+      "published": "8/21/2026, 4:40:00 PM",
+      "desc": "President Trump plans to award the Congressional Space Medal of Honor to the crew​ of NASA's Artemis II mission​ in a ceremony Aug. 28."
     }
   ],
   "education": [
@@ -410,6 +410,15 @@
     },
     {
       "rank": 8,
+      "title": "HOW TO SAVE A LIFE",
+      "artist": "Sam Tompkins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
+      "rank": 9,
       "title": "Leave Me Behind",
       "artist": "Nickelback",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
@@ -418,22 +427,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Leave%20Me%20Behind"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 10,
-      "title": "HOW TO SAVE A LIFE",
-      "artist": "Sam Tompkins",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
     },
     {
       "rank": 11,
@@ -455,15 +455,6 @@
     },
     {
       "rank": 13,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
-    },
-    {
-      "rank": 14,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -472,13 +463,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
+      "rank": 14,
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+    },
+    {
       "rank": 15,
-      "title": "Babydoll",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     }
   ],
   "movies": [
@@ -576,12 +576,12 @@
   "tv": [
     {
       "rank": 1,
-      "title": "The Simpsons",
-      "year": "1989",
+      "title": "Futurama",
+      "year": "1999",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "url": "https://www.themoviedb.org/tv/456"
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     },
     {
       "rank": 2,
@@ -591,15 +591,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
-    },
-    {
-      "rank": 3,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
