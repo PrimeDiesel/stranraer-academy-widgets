@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:22:09.704Z",
+  "updated": "2026-08-23T20:24:02.615Z",
   "news": [
     {
       "title": "Carney faces crucial test after calling Trump's bluff",
@@ -68,6 +68,22 @@
   ],
   "sports": [
     {
+      "title": "Spurs coach De Zerbi must find a way to cure losing mentality",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cd696j44jqyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg",
+      "published": "8/22/2026, 8:37:23 PM",
+      "desc": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty."
+    },
+    {
+      "title": "Jean-Philippe Mateta: Crystal Palace striker says final year of deal is invalid",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg",
+      "published": "8/22/2026, 8:22:23 PM",
+      "desc": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract."
+    },
+    {
       "title": "Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/cmwyjzndv4xnt",
@@ -90,14 +106,6 @@
       "image": "https://s.secure.espncdn.com/stitcher/sports/soccer/eng.1/events/401879321.png?templateId=espn.com.share.1",
       "published": "8/22/2026, 6:52:22 PM",
       "desc": "Expert recap and game analysis of the Brentford vs. Tottenham Hotspur English Premier League game from August 22, 2026 on ESPN."
-    },
-    {
-      "title": "Brentford 3-0 Spurs: How the players rated",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cp878q13v72o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/101a/live/a39b9870-9e58-11f1-92d9-fda6ee78d386.jpg",
-      "published": "8/22/2026, 6:52:21 PM",
-      "desc": "How Brentford and Tottenham's players rated following their Premier League match."
     },
     {
       "title": "Texas dismisses LB Ty'Anthony Smith for conduct detrimental to team - ESPN",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/stanton_horizontal.jpg?ve=1&tl=1",
       "published": "8/22/2026, 4:52:21 PM",
       "desc": "Giancarlo Stanton sustained an injury in his left calf while recovering from an injury in his right calf."
-    },
-    {
-      "title": "Former world champ Zolani Tete ambushed, killed in South Africa - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/boxing/story/_/id/49692468/former-world-champ-zolani-tete-ambushed-killed-south-africa",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1221%2Fr38212_1296x729_16%2D9.jpg",
-      "published": "8/22/2026, 4:45:27 PM",
-      "desc": "Former world champion boxer Zolani Tete was shot and killed at his home in South Africa, government officials said Friday. He was 38."
     }
   ],
   "tech": [
@@ -375,21 +375,21 @@
     },
     {
       "rank": 5,
-      "title": "Danceteria (Harry Romero Remix)",
-      "artist": "Madonna & Harry Romero",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/50/68/4c506874-c49a-66c1-7dd2-1b6b4af8aa28/mzaf_7372313156178012722.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/danceteria-harry-romero-remix/6801689792?i=6801689796&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
-    },
-    {
-      "rank": 6,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 6,
+      "title": "Danceteria (Harry Romero Remix)",
+      "artist": "Madonna & Harry Romero",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/50/68/4c506874-c49a-66c1-7dd2-1b6b4af8aa28/mzaf_7372313156178012722.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/danceteria-harry-romero-remix/6801689792?i=6801689796&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
     },
     {
       "rank": 7,
@@ -402,15 +402,6 @@
     },
     {
       "rank": 8,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 9,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
@@ -419,22 +410,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
-      "rank": 10,
-      "title": "Babydoll",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+      "rank": 9,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
+      "rank": 11,
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     },
     {
       "rank": 12,
@@ -456,21 +456,21 @@
     },
     {
       "rank": 14,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 15,
       "title": "Horizons (Phaxe Remix)",
       "artist": "Aura Vortex & Blazy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
-    },
-    {
-      "rank": 15,
-      "title": "Marianne",
-      "artist": "Fontaines D.C.",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/53/f0/0d53f01f-f769-c569-1cc4-59677357712d/mzaf_13531639013345706797.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/marianne/6792085051?i=6792085056&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Fontaines%20D.C.%20Marianne"
     }
   ],
   "movies": [
@@ -488,30 +488,12 @@
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 3,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 4,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 5,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
@@ -520,7 +502,7 @@
       "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
@@ -529,23 +511,87 @@
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
-      "rank": 7,
-      "title": "Moana",
+      "rank": 5,
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
+    },
+    {
+      "rank": 6,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
+    },
+    {
+      "rank": 7,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
       "rank": 8,
-      "title": "The Devil Wears Prada 2",
+      "title": "The Last House",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "url": "https://www.themoviedb.org/movie/1314481"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 9,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
+    },
+    {
+      "rank": 10,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "Spooky in Love",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "url": "https://www.themoviedb.org/tv/298610"
+    },
+    {
+      "rank": 3,
+      "title": "X-Men '97",
+      "year": "2024",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "url": "https://www.themoviedb.org/tv/138502"
+    }
+  ]
 }
