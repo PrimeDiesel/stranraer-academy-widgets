@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-23T10:25:19.091Z",
+  "updated": "2026-08-23T11:21:47.488Z",
   "news": [
+    {
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d6a/live/c692b7a0-9e12-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/22/2026, 10:52:24 AM",
+      "desc": "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    },
+    {
+      "title": "GTA 6 leaks: Rockstar's nightmare or just a blip?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07r3183gn3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg",
+      "published": "8/22/2026, 10:37:22 AM",
+      "desc": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?"
+    },
     {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
       "source": "BBC News",
@@ -48,25 +64,17 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg",
       "published": "8/22/2026, 1:52:20 AM",
       "desc": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
-    },
-    {
-      "title": "Newspaper headlines: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c935r6vr135o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/505b/live/51332850-9db3-11f1-aed2-8d6da8d75094.png",
-      "published": "8/22/2026, 1:52:19 AM",
-      "desc": "Financial concerns and the Duchess of Sussex's possible return to television acting lead Saturday's papers."
-    },
-    {
-      "title": "Could these alternative homes be the future in a hotter Britain?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg",
-      "published": "8/22/2026, 12:37:18 AM",
-      "desc": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
     }
   ],
   "sports": [
+    {
+      "title": "Dutch Grand Prix: George Russell leads from start to finish to win sprint race",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/43e9/live/f1d891c0-9e15-11f1-95e0-53a570c83624.jpg",
+      "published": "8/22/2026, 10:52:24 AM",
+      "desc": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix."
+    },
     {
       "title": "Basketball: Sex toys thrown on court disrupt two WNBA matches",
       "source": "BBC Sport",
@@ -90,14 +98,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d385/live/c6adbd60-9a67-11f1-9fe8-4300bbf9dc7e.jpg",
       "published": "8/22/2026, 9:52:25 AM",
       "desc": "For Liverpool and Andoni Iraola, the Premier League schedule means they will face six teams with new managers in their first six matches."
-    },
-    {
-      "title": "F1 LIVE: Dutch Grand Prix 2026 UK time, start time, sprint grid, radio & updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/live/c8ejw9yy6x7t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2970/live/4d6c8d50-9e09-11f1-95e0-53a570c83624.jpg",
-      "published": "8/22/2026, 9:52:23 AM",
-      "desc": "Follow live text updates and listen to radio commentary of the sprint and qualifying session for the Dutch Grand Prix."
     },
     {
       "title": "Boxing: Two-time world champion Zolani Tete shot dead outside home in South Africa",
@@ -214,12 +214,36 @@
   ],
   "tech": [
     {
-      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year? - BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c07r3183gn3o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg",
-      "published": "8/21/2026, 11:13:00 PM",
-      "desc": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?"
+      "title": "New Orks Codex exclusive on Warhammer TV - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/n3hnhwmv/new-orks-codex-exclusive-on-warhammer-tv",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whplus-aug18-1-feature-i79fgno81q.jpg",
+      "published": "8/22/2026, 9:53:02 AM",
+      "desc": "The Battle Report team takes the brand new Orks rules out for a spin."
+    },
+    {
+      "title": "Nintendo Wipes Out Hundreds Of Switch Emulator Repositories - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-wipes-out-hundreds-of-switch-emulator-repositories",
+      "image": "https://images.nintendolife.com/218e4bc586f26/large.jpg",
+      "published": "8/22/2026, 2:00:00 AM",
+      "desc": "In a new wave of GitHub takedowns"
+    },
+    {
+      "title": "Psychonauts Developer Double Fine Gets Rights To Games Back, But Union Future Uncertain - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/double-fine-independent-game-jam-union/",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/df7.jpg",
+      "published": "8/22/2026, 12:07:24 AM",
+      "desc": "Good news and bad news"
+    },
+    {
+      "title": "Amazon hiked prices on Echo, Fire TV, Kindle, eero to offset ‘significant increases’ in memory costs - Fortune",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2201505685-e1787356134569.jpg?resize=1200,600",
+      "published": "8/21/2026, 11:50:00 PM",
+      "desc": "The e-commerce company's hardware price hikes follow similar moves by Apple, Dell, and Microsoft Xbox."
     },
     {
       "title": "HoverAir’s transforming modular drone has already been halted in the US - The Verge",
@@ -252,30 +276,6 @@
       "image": "https://nintendoeverything.com/wp-content/uploads/Metal-Gear-Solid-4-Nintendo-Switch-2-vs.-PS5-vs.-PS3-graphics-comparison.jpg",
       "published": "8/21/2026, 9:08:50 PM",
       "desc": "New Metal Gear Solid 4 Nintendo Switch 2 vs. PS5 vs. PS3 graphics comparison video released as MGS: Master Collection Vol. 2 approaches."
-    },
-    {
-      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Apple-Vision-Pro-global-availability-e1718041644616.jpg?resize=1200,676",
-      "published": "8/21/2026, 8:58:07 PM",
-      "desc": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
-    },
-    {
-      "title": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/21/2026, 8:53:00 PM",
-      "desc": "Apple Watch Series 12 and Ultra 4 are launching soon, and rumors indicate they’ll pack a big upgrade: a new, more powerful chip."
-    },
-    {
-      "title": "Pixel Watch 5 lets you customize double pinch to dismiss alarms, skip music, & more - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/21/pixel-watch-5-double-pinch-customize/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Double-Pinch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/21/2026, 8:17:00 PM",
-      "desc": "The double pinch gesture on the Pixel Watch 5 benefits from being able to “Customize actions” across music and alarms."
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 3,
       "title": "Danceteria (Harry Romero Remix)",
       "artist": "Madonna & Harry Romero",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/50/68/4c506874-c49a-66c1-7dd2-1b6b4af8aa28/mzaf_7372313156178012722.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/danceteria-harry-romero-remix/6801689792?i=6801689796&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
+    },
+    {
+      "rank": 3,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 4,
@@ -383,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 6,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -400,13 +391,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
+      "rank": 7,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 8,
@@ -428,6 +428,15 @@
     },
     {
       "rank": 10,
+      "title": "Horizons (Phaxe Remix)",
+      "artist": "Aura Vortex & Blazy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
+    },
+    {
+      "rank": 11,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
@@ -436,22 +445,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 12,
-      "title": "Horizons (Phaxe Remix)",
-      "artist": "Aura Vortex & Blazy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
     },
     {
       "rank": 13,
