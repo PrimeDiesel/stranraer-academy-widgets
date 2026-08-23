@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-23T21:22:52.350Z",
+  "updated": "2026-08-23T22:22:22.623Z",
   "news": [
+    {
+      "title": "Lucy Davis 'grateful' for support after cancer diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8045/live/c07a3d60-9e68-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/22/2026, 10:07:22 PM",
+      "desc": "The Office star was appearing at convention in London, less than two weeks after announcing her condition."
+    },
     {
       "title": "Carney faces crucial test after calling Trump's bluff",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d6a/live/c692b7a0-9e12-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/22/2026, 10:52:24 AM",
-      "desc": "Nine people are still missing after the attack which left 130 injured, including a number of children."
-    },
-    {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c93403wg288o",
@@ -67,6 +67,46 @@
     }
   ],
   "sports": [
+    {
+      "title": "Dutch Grand Prix: Lando Norris beats George Russell to pole position at Zandvoort",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg",
+      "published": "8/22/2026, 9:52:28 PM",
+      "desc": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain."
+    },
+    {
+      "title": "Jean-Philippe Mateta: Crystal Palace striker says final year of deal is invalid",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg",
+      "published": "8/22/2026, 9:52:28 PM",
+      "desc": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract."
+    },
+    {
+      "title": "Man City will 'try to find' new Rodri, says Enzo Maresca",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f2c/live/9d6c1dd0-9d7c-11f1-8bc3-150f4c5f088b.jpg",
+      "published": "8/22/2026, 9:52:26 PM",
+      "desc": "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca."
+    },
+    {
+      "title": "Real Madrid strike late to give José Mourinho winning return - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49694751/jose-mourinho-real-madrid-espanyol-laliga-bellingham-carlos-espi",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705472_1296x729_16%2D9.jpg",
+      "published": "8/22/2026, 9:38:00 PM",
+      "desc": "José Mourinho's second spell in charge of Real Madrid just about got off to a winning start, thanks to new signing Carlos Espí's 90th-minute goal to claim a 2-1 victory at Espanyol."
+    },
+    {
+      "title": "Nebraska Names Transfer Quarterback Anthony Colandrea As Week 1 Starter",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/nebraska-names-transfer-quarterback-anthony-colandrea-week-1-starter",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/colandrea.jpg?ve=1&tl=1",
+      "published": "8/22/2026, 9:37:19 PM",
+      "desc": "Nebraska has named quarterback Anthony Colandrea as their starting quarterback for Week 1 against Ohio."
+    },
     {
       "title": "Football gossip: Alvarez, Marmoush, Watkins, Balde, Endrick, Bynoe-Gittens, Matar Sarr, Willock, Barcola, Mbaye, Danns",
       "source": "BBC Sport",
@@ -100,14 +140,6 @@
       "desc": "Roberto De Zerbi has said that Tottenham are undercooked and \"lacking fight\" after they slumped to a 3-0 defeat at Brentford."
     },
     {
-      "title": "Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmwyjzndv4xnt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/658b/live/33575fa0-9e5c-11f1-92d9-fda6ee78d386.jpg",
-      "published": "8/22/2026, 7:07:28 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Espanyol vs Real Madrid in the Spanish La Liga"
-    },
-    {
       "title": "Seattle Seahawks' Jake Bobo Reportedly Placed On Season-Ending Injured Reserve",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/seattle-seahawks-jake-bobo-reportedly-placed-season-ending-injured-reserve",
@@ -122,14 +154,6 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705390_1296x729_16%2D9.jpg",
       "published": "8/22/2026, 6:49:44 PM",
       "desc": "Texas coach Steve Sarkisian said Saturday that linebacker Ty'Anthony Smith was dismissed from the program for conduct detrimental to the team."
-    },
-    {
-      "title": "Brentford 3-0 Tottenham: Spurs make nightmare start",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cj75g01qn51dt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b42a/live/7d6839a0-9e54-11f1-8871-ff7211da55c9.jpg",
-      "published": "8/22/2026, 6:37:24 PM",
-      "desc": "Big-spending Tottenham make a shocking start to the new Premier League season as they are ripped apart by impressive Brentford."
     },
     {
       "title": "Ex-West Brom midfielder Quevin Castro dies, 25, after collapsing during match in Portugal",
@@ -186,30 +210,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0630%2Fr1682343_1296x729_16%2D9.jpg",
       "published": "8/22/2026, 5:18:59 PM",
       "desc": "Liberty star Breanna Stewart said she hopes WNBA arenas can be a \"safe space\" for fans amid rallies about transgender sports participation."
-    },
-    {
-      "title": "Dundee United vs Dundee LIVE: Scottish Premiership radio, text updates, team news, reaction, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c39w04vdkkllt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/22/2026, 5:07:42 PM",
-      "desc": "Listen to Sportsound commentary, follow live text updates and stats, plus have your say as Dundee United welcome Dundee in the Scottish Premiership."
-    },
-    {
-      "title": "Hull City 2-0 Man Utd: Boss Michael Carrick says side won't change course despite shock defeat",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c87n78p070do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6195/live/acc4b4a0-9e2f-11f1-b109-879e35c24276.jpg",
-      "published": "8/22/2026, 5:07:21 PM",
-      "desc": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City."
-    },
-    {
-      "title": "Bumpy Road Ahead: INDYCAR Drivers Adjusting To Freedom 250 Course",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-drivers-adjust-bumpy-freedom-250-course-washington-dc",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/scott_mclaughlin_bumpy-road_freedom-250-course_bob-pockrass.jpg?ve=1&tl=1",
-      "published": "8/22/2026, 4:52:22 PM",
-      "desc": "INDYCAR's Freedom 250 course has its fair share of bumps but drivers are enjoying the challenge ahead of Sunday's race."
     }
   ],
   "tech": [
@@ -584,6 +584,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "url": "https://www.themoviedb.org/tv/138502"
+    },
+    {
+      "rank": 4,
+      "title": "SpongeBob SquarePants",
+      "year": "1999",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "url": "https://www.themoviedb.org/tv/387"
     }
   ]
 }
