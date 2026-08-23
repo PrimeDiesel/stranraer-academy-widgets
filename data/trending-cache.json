@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-23T15:23:16.146Z",
+  "updated": "2026-08-23T16:27:23.848Z",
   "news": [
+    {
+      "title": "Carney faces crucial test after calling Trump's bluff",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/22/2026, 4:22:16 PM",
+      "desc": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
+    },
+    {
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
+      "published": "8/22/2026, 4:07:13 PM",
+      "desc": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty."
+    },
     {
       "title": "Sheffield man speaks out on Devon mum who faked childhood illness",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11f8/live/fce3df00-9bc9-11f1-98c6-93bfcdb08681.jpg",
       "published": "8/22/2026, 3:07:23 PM",
       "desc": "Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects on her actions."
-    },
-    {
-      "title": "A missing cat was found in Leeds after disappearing last year",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjlmm28l9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15d8/live/1b51f320-97e0-11f1-a76b-f1c27c51f3da.jpg",
-      "published": "8/22/2026, 1:52:18 PM",
-      "desc": "Ginge the cat was found in Leeds almost a year after going missing from his home in Sunderland."
     },
     {
       "title": "More students planning to live at home for uni over 'insane' living costs",
@@ -56,17 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg",
       "published": "8/22/2026, 7:07:21 AM",
       "desc": "They will not be working royals when they come back. So what could they be doing instead?"
-    },
-    {
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
-      "published": "8/22/2026, 4:52:20 AM",
-      "desc": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
     }
   ],
   "sports": [
+    {
+      "title": "Keelon Russell Reportedly Wins Alabama's Starting QB Battle",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/keelon-russell-wins-alabama-starting-qb-battle",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/keelon_russell_horizontal.jpg?ve=1&tl=1",
+      "published": "8/22/2026, 4:22:23 PM",
+      "desc": "Alabama announced its starting quarterback on Saturday, marking the end of a camp battle."
+    },
+    {
+      "title": "Dundee United vs Dundee: Scottish Premiership stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c39w04vdkkllt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac63/live/13725860-9d63-11f1-a979-27696fc3a013.jpg",
+      "published": "8/22/2026, 4:07:39 PM",
+      "desc": "Listen to Sportsound and follow live text commentary, score updates and match report from Dundee United vs Dundee in the Scottish Premiership."
+    },
+    {
+      "title": "Ipswich 2-1 Sunderland: Jack Clarke scores 90th-minute winner against former club",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ckeqe8025qygt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/55ef/live/e2474df0-9e42-11f1-bb45-576721ee33bb.jpg",
+      "published": "8/22/2026, 4:07:38 PM",
+      "desc": "Ipswich secure a winning return to the Premier League as substitute Jack Clarke scores an 90th-minute winner against his former club Sunderland."
+    },
+    {
+      "title": "Everton vs Crystal Palace: Premier League preview, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cjn5nd1qr5qpt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d37/live/e2f49a60-9e41-11f1-b109-879e35c24276.jpg",
+      "published": "8/22/2026, 4:07:37 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Everton vs Crystal Palace in the Premier League"
+    },
+    {
+      "title": "Leeds get late winner in Glasner's first Forest game",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cm4gkdpw5qq7t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d14/live/ad1eda30-9e3d-11f1-bb45-576721ee33bb.jpg",
+      "published": "8/22/2026, 4:07:32 PM",
+      "desc": "Oliver Glasner's reign at Nottingham Forest began with a late defeat by visiting Leeds United in their Premier League opener."
+    },
+    {
+      "title": "Hull City 2-0 Man Utd: Boss Michael Carrick says side won't change course despite shock defeat",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c87n78p070do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6195/live/acc4b4a0-9e2f-11f1-b109-879e35c24276.jpg",
+      "published": "8/22/2026, 4:07:25 PM",
+      "desc": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City."
+    },
+    {
+      "title": "Sources: Alabama names Keelon Russell QB1 for opener vs. ECU - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49692021/sources-alabama-names-keelon-russell-qb1-opener-vs-ecu",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705294_1296x729_16%2D9.jpg",
+      "published": "8/22/2026, 3:59:27 PM",
+      "desc": "Alabama has named Keelon Russell the Tide's starting quarterback for their Sept. 5 season opener against East Carolina, sources tell ESPN's Pete Thamel."
+    },
     {
       "title": "Dutch Grand Prix: Lando Norris beats George Russell to pole position at Zandvoort",
       "source": "BBC Sport",
@@ -124,22 +180,6 @@
       "desc": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani."
     },
     {
-      "title": "Hull 2-0 Man Utd: How the players rated",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cpw94jp02xxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a10/live/e889d910-9e26-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/22/2026, 2:07:32 PM",
-      "desc": "How Hull City and Manchester United's players rated following their Premier League match."
-    },
-    {
-      "title": "Hull City 2-0 Manchester United: Newly promoted side stun Michael Carrick's side",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cv629k5zr2jxt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8956/live/779bcee0-9e2e-11f1-8a71-eb9ef5df2469.jpg",
-      "published": "8/22/2026, 2:07:28 PM",
-      "desc": "Hull City stun Manchester United on a dream return to the Premier League after nine years away with a first ever top-flight win against their shell-shocked visitors."
-    },
-    {
       "title": "Man United fall in shocking Hull defeat in Premier League opener - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
@@ -156,30 +196,6 @@
       "desc": "Today’s MLB schedule features Pirates at Dodgers, Giants at Red Sox and Cubs at Mariners. See how to watch MLB on FOX and FS1 and stream on FOX One."
     },
     {
-      "title": "Arsenal: Gabriel Martinelli 'deserves more respect' over possible exit, says Ian Wright",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cj636ewwz46o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c227/live/96954180-9e12-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/22/2026, 12:22:23 PM",
-      "desc": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit."
-    },
-    {
-      "title": "Championship LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Championship",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cvgl89rky21t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "8/22/2026, 11:37:29 AM",
-      "desc": "Follow build-up, team news, live text, radio & score updates as it happens from across the Championship."
-    },
-    {
-      "title": "Dutch Grand Prix: George Russell leads from start to finish to win sprint race",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/43e9/live/f1d891c0-9e15-11f1-95e0-53a570c83624.jpg",
-      "published": "8/22/2026, 10:52:24 AM",
-      "desc": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix."
-    },
-    {
       "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/clyx03e7y2lt",
@@ -194,22 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/979c/live/ca9f36a0-9dfb-11f1-898b-91bf436c749f.jpg",
       "published": "8/22/2026, 8:22:16 AM",
       "desc": "Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday."
-    },
-    {
-      "title": "Running Back Nick Chubb Announces Retirement From The NFL After 8 Seasons",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/running-back-nick-chubb-announces-retirement-from-nfl-after-eight-seasons",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/chubb.jpg?ve=1&tl=1",
-      "published": "8/22/2026, 3:52:19 AM",
-      "desc": "Nick Chubb retired from the NFL after eight seasons, he announced via instagram."
-    },
-    {
-      "title": "Dodgers' Pages fractures hand; 'not season-ending,' Roberts says - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49687231/dodgers-andy-pages-exits-being-hit-left-hand-pitch",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1701941_1296x729_16%2D9.jpg",
-      "published": "8/22/2026, 3:50:51 AM",
-      "desc": "Dodgers center fielder Andy Pages suffered a fractured left hand when he was hit by a pitch Friday night, but manager Dave Roberts said he expects him to return this season."
     }
   ],
   "tech": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -537,16 +528,16 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 7,
-      "title": "The Last House",
+      "rank": 6,
+      "title": "Disclosure Day",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -555,22 +546,22 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 9,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 10,
-      "title": "Don't Say Good Luck",
+      "rank": 8,
+      "title": "The Last House",
       "year": "2026",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 9,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     }
   ],
   "tv": [
@@ -591,15 +582,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
       "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
       "url": "https://www.themoviedb.org/tv/298610"
-    },
-    {
-      "rank": 3,
-      "title": "X-Men '97",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "url": "https://www.themoviedb.org/tv/138502"
     }
   ]
 }
