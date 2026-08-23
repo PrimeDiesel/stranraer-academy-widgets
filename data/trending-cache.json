@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-23T08:31:05.506Z",
+  "updated": "2026-08-23T09:28:17.815Z",
   "news": [
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
-      "published": "8/22/2026, 7:22:24 AM",
-      "desc": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+      "published": "8/22/2026, 9:22:26 AM",
+      "desc": "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    },
+    {
+      "title": "Sydney Marathon medal wrongly features Munich stadium",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "published": "8/22/2026, 8:52:19 AM",
+      "desc": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+    },
+    {
+      "title": "Multiple deaths after Teesside collision between police vehicle and car",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "published": "8/22/2026, 8:37:24 AM",
+      "desc": "Police say they are working to identify the victims and contact their families after the crash on Teesside."
     },
     {
       "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
@@ -24,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
       "published": "8/22/2026, 4:52:20 AM",
       "desc": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
-    },
-    {
-      "title": "Burnham economic adviser O'Neill rules out government job",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "published": "8/22/2026, 3:22:19 AM",
-      "desc": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser."
     },
     {
       "title": "Why child stars like Hayden Panettiere fall into addiction",
@@ -56,17 +64,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg",
       "published": "8/22/2026, 12:37:18 AM",
       "desc": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
-    },
-    {
-      "title": "More students planning to live at home for uni over 'insane' living costs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg",
-      "published": "8/21/2026, 11:37:22 PM",
-      "desc": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     }
   ],
   "sports": [
+    {
+      "title": "Boxing: Two-time world champion Zolani Tete shot dead outside home in South Africa",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be75/live/7a6055a0-9df8-11f1-898b-91bf436c749f.jpg",
+      "published": "8/22/2026, 9:22:16 AM",
+      "desc": "Zolani Tete, a former WBO bantamweight and IBF super-flyweight world champion, has been shot dead outside his home in South Africa."
+    },
+    {
+      "title": "Tottenham analysis: How Roberto de Zerbi's new-look Spurs are shaping up",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae30/live/c51559b0-9e02-11f1-afde-61b39e745f81.jpg",
+      "published": "8/22/2026, 9:07:28 AM",
+      "desc": "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?"
+    },
+    {
+      "title": "Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first day in Mackay",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/ckgdg2995g7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac48/live/88765b90-9e01-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/22/2026, 9:07:23 AM",
+      "desc": "Australia respond to last week's shock defeat by bowling Bangladesh out for 64 on a remarkable first day of the second Test in Mackay."
+    },
     {
       "title": "Lionel Messi: Inter Miami star fined for slapping opponent in MLS game",
       "source": "BBC Sport",
@@ -90,14 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f8e/live/eb6ae880-9df0-11f1-898b-91bf436c749f.jpg",
       "published": "8/22/2026, 7:37:20 AM",
       "desc": "Amanda Serrano is made to work for her 50th career win against Lucrecia Manzur., which draws over three million views on TikTok."
-    },
-    {
-      "title": "MMA: Cris Cyborg's final fight almost cancelled over Ketlen Vieira's weight miss",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c935rrv31yvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/49e3/live/268aef20-9def-11f1-898b-91bf436c749f.png",
-      "published": "8/22/2026, 7:07:21 AM",
-      "desc": "Cris Cyborg's PFL featherweight world title will not be at stake in Tampa on Saturday after opponent Ketlen Vieira failed to make the weight."
     },
     {
       "title": "England vs Pakistan: Robinson, Tongue & Cox give hosts hope for brighter future",
@@ -194,22 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03e0/live/5b50d680-9db2-11f1-9537-fb0a2e1c2505.jpg",
       "published": "8/22/2026, 12:22:15 AM",
       "desc": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal."
-    },
-    {
-      "title": "NFL reviewing Ravens WR Bateman over family violence arrest - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49685741/nfl-reviewing-ravens-wr-bateman-family-violence-arrest",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0605%2Fr1342057_1296x729_16%2D9.jpg",
-      "published": "8/22/2026, 12:20:33 AM",
-      "desc": "The Ravens have informed the NFL of wide receiver Rashod Bateman's arrest in June on family violence charges, and the league said the case is under review."
-    },
-    {
-      "title": "MLB Roundtable: Is It Too Late For Kyle Tucker And Paul Skenes To Turn Things Around?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-roundtable-too-late-kyle-tucker-paul-skenes-turn-things-around",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/pirates1.jpg?ve=1&tl=1",
-      "published": "8/21/2026, 11:07:26 PM",
-      "desc": "Paul Skenes isn't the only big-name MLB star slumping right before the postseason."
     }
   ],
   "tech": [
@@ -383,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 6,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -400,22 +391,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 7,
-      "title": "Say Something",
-      "artist": "Sonny Fodera & Becky Hill",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/6b/4b836bf1-c537-1aa7-6553-83af59e372b0/1200214600280.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/c1/61/dbc161f8-5b57-bed6-79e5-f71d2b5bb4b0/mzaf_6456588879735314607.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/say-something/6796743956?i=6796744070&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Fodera%20%26%20Becky%20Hill%20Say%20Something"
+      "rank": 6,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
+      "rank": 8,
+      "title": "Say Something",
+      "artist": "Sonny Fodera & Becky Hill",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/6b/4b836bf1-c537-1aa7-6553-83af59e372b0/1200214600280.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/c1/61/dbc161f8-5b57-bed6-79e5-f71d2b5bb4b0/mzaf_6456588879735314607.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/say-something/6796743956?i=6796744070&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Fodera%20%26%20Becky%20Hill%20Say%20Something"
     },
     {
       "rank": 9,
@@ -446,15 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 13,
       "title": "Horizons (Phaxe Remix)",
       "artist": "Aura Vortex & Blazy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
@@ -463,22 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
     },
     {
+      "rank": 13,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
       "rank": 14,
+      "title": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/77/f9/6a77f93a-9286-60d8-3a0b-7d01a4b222cf/5665.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/c0/52/aac05210-37d4-0d74-5013-48156d87d74c/mzaf_573344203389765709.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-you-feat-54-ultra/1870514329?i=1870514330&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(feat.%2054%20Ultra)"
+    },
+    {
+      "rank": 15,
       "title": "Leave Me Behind",
       "artist": "Nickelback",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/94/29/8c9429a9-8f93-bc78-6a78-e1d4c13c2ee7/mzaf_6597303963277823795.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/leave-me-behind/6784018115?i=6784018121&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Nickelback%20Leave%20Me%20Behind"
-    },
-    {
-      "rank": 15,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     }
   ],
   "movies": [
@@ -538,15 +538,6 @@
     },
     {
       "rank": 7,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 8,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -555,22 +546,31 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 9,
-      "title": "Don't Say Good Luck",
+      "rank": 8,
+      "title": "The Last House",
       "year": "2026",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "The Mandalorian and Grogu",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
+      "rank": 10,
+      "title": "Don't Say Good Luck",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
   "tv": [
@@ -585,15 +585,6 @@
     },
     {
       "rank": 2,
-      "title": "The Simpsons",
-      "year": "1989",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "url": "https://www.themoviedb.org/tv/456"
-    },
-    {
-      "rank": 3,
       "title": "X-Men '97",
       "year": "2024",
       "cert": "12",
