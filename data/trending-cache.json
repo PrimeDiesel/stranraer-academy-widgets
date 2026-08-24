@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-24T20:31:15.195Z",
+  "updated": "2026-08-24T21:30:22.239Z",
   "news": [
+    {
+      "title": "Reform says it will prioritise British-born young workers for social housing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg",
+      "published": "8/23/2026, 9:37:21 PM",
+      "desc": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
+    },
+    {
+      "title": "PCs killed in wrong-way A66 crash were heroes, say families",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png",
+      "published": "8/23/2026, 9:07:23 PM",
+      "desc": "Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle."
+    },
     {
       "title": "CrossCountry to provide full service after major disruption",
       "source": "BBC News",
@@ -34,14 +50,6 @@
       "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
-      "title": "France links rise in drownings to prolonged heatwaves",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/23/2026, 4:52:25 PM",
-      "desc": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
-    },
-    {
       "title": "Climber Laura completes 'full house' of 1,072 peaks around UK",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro",
@@ -56,17 +64,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg",
       "published": "8/23/2026, 3:52:22 PM",
       "desc": "Officers had been pursing a car before it went the wrong way down a dual carriageway."
-    },
-    {
-      "title": "Les used a QR code to download a parking app - but it was a scam",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg",
-      "published": "8/23/2026, 10:22:21 AM",
-      "desc": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app."
     }
   ],
   "sports": [
+    {
+      "title": "49ers Remove George Kittle From PUP List, Christian McCaffrey Returns To Practice",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-remove-george-kittle-from-pup-list-christian-mccaffrey-returns-practice",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/christian-mccaffrey-george-kittle.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 9:37:24 PM",
+      "desc": "After beginning the summer with a slew of injuries, Sunday provided good news on the injury front for the San Francisco 49ers."
+    },
+    {
+      "title": "Browns Waive TE Dae’Quan Wright, Paving Way For Him To Play At LSU In Historical Move",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/browns-waive-te-daequan-wright-paving-way-him-play-lsu-historical-move",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/daequan-wright.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 9:37:22 PM",
+      "desc": "Tight end Dae’Quan Wright is set to make history in an unusual way."
+    },
+    {
+      "title": "Scheffler: Battled hand, foot and mouth disease during BMW - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49705204/scottie-scheffler-says-played-bmw-championship-sick",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705947_1024x576_16%2D9.jpg",
+      "published": "8/23/2026, 9:09:12 PM",
+      "desc": "After an uncharacteristic performance at the BMW Championship, Scottie Scheffler revealed he was playing with hand, foot and mouth disease."
+    },
+    {
+      "title": "It's Time For The Browns To Move On And Cut Deshaun Watson",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/the-browns-should-cut-deshaun-watson",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/16x9wild.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 9:07:22 PM",
+      "desc": "The quarterback's four years in Cleveland have always been bad, but if the franchise wants to move on, they can start by moving on from him now."
+    },
+    {
+      "title": "Trump waves green flag at IndyCar race through Washington DC",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/c0qvq24vlj4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/23/2026, 8:52:24 PM",
+      "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+    },
+    {
+      "title": "Football gossip: Fernandez, Minteh, Balde, Ordonez, Diouf",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/czxqx29jy02o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/954f/live/046a1130-9f31-11f1-aed2-8d6da8d75094.png",
+      "published": "8/23/2026, 8:52:22 PM",
+      "desc": "Manchester City are ready to make Enzo Fernandez move, Liverpool consider a third bid for Yankuba Minteh, and a Barcelona full-back pushes to join Manchester United."
+    },
     {
       "title": "Lewis Hamilton says Ferrari's delay in moving Charles Leclerc out of way was costly",
       "source": "BBC Sport",
@@ -82,6 +130,14 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ebf/live/c15ee710-9f23-11f1-b730-67fb18a6ecb1.jpg",
       "published": "8/23/2026, 8:37:25 PM",
       "desc": "Lando Norris says he and McLaren \"don't have the car I need to fight for a championship\", despite a second consecutive win of the season at the Dutch Grand Prix."
+    },
+    {
+      "title": "Kyle Kirkwood wins IndyCar Freedom 250 on streets of D.C. - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/racing/story/_/id/49704862/kyle-kirkwood-wins-indycar-freedom-250-streets-dc",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705930_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 8:35:59 PM",
+      "desc": "Kyle Kirkwood gave the Freedom 250 an American winner, racing to his second victory of the IndyCar season on the streets of downtown Washington."
     },
     {
       "title": "Rinus Veekay Calls Out Christian Rasmussen After Early Freedom 250 Crash",
@@ -140,14 +196,6 @@
       "desc": "Georgia Southern has named veteran quarterback Max Johnson as the Eagles' starter, sources told ESPN. He previously was the starter at LSU, Texas A&M and UNC."
     },
     {
-      "title": "See All 7 Military Flyovers From INDYCAR's Freedom 250 Grand Prix",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-washington-flyover-air-force-one",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/28b7e4b0-indycar-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 6:52:27 PM",
-      "desc": "The Freedom 250 Grand Prix in Washington, D.C., was given a memorable flyover on Sunday."
-    },
-    {
       "title": "How to Watch Seahawks vs. Titans: TV Channel, Live Stream, Time",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/seattle-seahawks-vs-tennessee-titans-august-23-2026",
@@ -162,57 +210,17 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/haaland1.jpg?ve=1&tl=1",
       "published": "8/23/2026, 6:52:24 PM",
       "desc": "Erling Haaland’s famed flowing locks are no more."
-    },
-    {
-      "title": "Trabzonspor vs İstanbul Başakşehir: Süper Lig stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmrrvy54vl2et",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/197b/live/a95d2720-9f15-11f1-b109-879e35c24276.jpg",
-      "published": "8/23/2026, 6:22:25 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Trabzonspor vs İstanbul Başakşehir in the Süper Lig"
-    },
-    {
-      "title": "How to Watch 2026 INDYCAR Freedom 250 in DC: Start Time, Date, TV Channel, Streaming, Schedule",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/how-watch-2026-indycar-freedom-250-dc-start-time-date-tv-channel-streaming-schedule",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/how-to-watch-freedom-250.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 6:07:20 PM",
-      "desc": "Watch the 2026 INDYCAR Freedom 250 on Sunday, Aug. 23 at 1 p.m. ET on FOX and FOX One. See the weekend schedule, course and streaming details."
-    },
-    {
-      "title": "49ers activate star TE George Kittle from PUP list - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49702970/49ers-activate-star-te-george-kittle-pup-list",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705815_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 5:18:09 PM",
-      "desc": "The 49ers have activated tight end George Kittle from the physically unable to perform list, the team announced Sunday."
-    },
-    {
-      "title": "Chargers place Tyler Biadasz on season-ending injured reserve - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49702892/chargers-place-tyler-biadasz-season-ending-injured-reserve",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0824%2Fr248445_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 5:10:50 PM",
-      "desc": "The Chargers placed Tyler Biadasz on season-ending injured reserve after the center suffered damage to his ACL and additional injuries to his left knee."
-    },
-    {
-      "title": "Ollie Watkins' absence at Brighton a question for him - Unai Emery",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e73/live/cc7edc20-9ef8-11f1-aed4-af6fe65bfcd6.jpg",
-      "published": "8/23/2026, 5:07:29 PM",
-      "desc": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery."
-    },
-    {
-      "title": "Jamieson ends 14-year wait for second title with win at Trump course",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c8xnx252220o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4408/live/715e2280-9f0a-11f1-8ab2-7700e58d1417.jpg",
-      "published": "8/23/2026, 4:37:22 PM",
-      "desc": "Scott Jamieson shoots a final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire."
     }
   ],
   "tech": [
+    {
+      "title": "That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/that-weird-other-section-in-apple-stores-is-reportedly-being-revamped-for-a-new-line-of-home-products-2000802007",
+      "image": "https://gizmodo.com/app/uploads/2026/08/apple-other-section-1200x675.jpg",
+      "published": "8/23/2026, 7:20:29 PM",
+      "desc": "The \"Avenues,\" as they're apparently known, reportedly must be revamped to introduce consumers to a whole new device."
+    },
     {
       "title": "The ‘GTA 6’ Leaks Get Higher Quality With No End In Sight - Forbes",
       "source": "Forbes",
@@ -222,20 +230,28 @@
       "desc": "We are approaching a week of non-stop Grand Theft Auto 6 leaks from a so-far unstoppable leaker, Cyberleeks, who appears to have a full build of the game."
     },
     {
-      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera - MacRumors",
+      "title": "M6 iMac Coming This Year in New Colors - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
-      "image": "https://images.macrumors.com/t/FcoeaF7M6Hno7P8r_eCkyABf0Bo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "published": "8/23/2026, 6:19:25 PM",
-      "desc": "Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time with the device, though the camera setup may..."
+      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
+      "image": "https://images.macrumors.com/t/MRLDVW2ExRH6dmGKL6UzdwluIig=/3840x/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "published": "8/23/2026, 6:36:39 PM",
+      "desc": "Apple is readying new iMac models with an upgraded chip and new color options, according to Bloomberg's Mark Gurman.   Writing in his latest..."
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 Beta Struggles To Impress - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/maps-spawn-issues-and-overall-lack-of-razzle-dazzle-leaves-players-cold-on-modern-warfare-4-beta-2000727258",
-      "image": "https://kotaku.com/app/uploads/2026/08/ss_ca97243a998802a38c7cddf195cee327c5760353.1920x1080-1200x675.jpg",
-      "published": "8/23/2026, 6:16:45 PM",
-      "desc": "With more competition than ever, the once immovable military shooter is going to have to earn its stripes, though some fans feel Infinity Ward's adjustments might be over-corrections"
+      "title": "Viture Pro 2 and Beast XR Glasses: Switch 2 Docked Mode OLED Gaming On The Go - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/features/viture-pro-2-and-beast-xr-glasses-switch-2-docked-mode-oled-gaming-on-the-go",
+      "image": "https://images.digitalfoundry.net/2b1acac8a2c5d/large.jpg",
+      "published": "8/23/2026, 6:12:40 PM",
+      "desc": "TV mode on a virtual 146-inch OLED panel is as good as it sounds."
+    },
+    {
+      "title": "DDR5 scalper bots now generate 91% of listing traffic at one retailer - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/ddr5-scalper-bots-now-generate-91-of-listing-traffic-at-one-retailer",
+      "image": "https://cdn.videocardz.com/1/2026/05/ASUS-ROG-20-DDR5-MEMORY-HERO.jpg",
+      "published": "8/23/2026, 5:25:03 PM",
+      "desc": "DDR5 scalper bots are now generating roughly ten requests for every legitimate visit at one retailer. DataDome previously recorded stock checks every 6.5 seconds."
     },
     {
       "title": "Industry analyst says he doesn't see a path back for the Epic Games Store - Eurogamer",
@@ -246,20 +262,12 @@
       "desc": "Newzoo's Emmanuel Rosier has weighed in on Epic's planned launcher overhaul, arguing Steam's dominance may already be too entrenched."
     },
     {
-      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/23/2026, 3:20:00 PM",
-      "desc": "After a two year hiatus, Apple is working on a new iMac with the M6 chipset and updated color options,..."
-    },
-    {
-      "title": "6 disabled Google Pixel features that every owner should enable first - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/disabled-pixel-features-that-every-owner-should-enable-first/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/img_0990.jpg?w=1600&h=900&fit=crop",
-      "published": "8/23/2026, 3:00:10 PM",
-      "desc": "Google buried some genuinely useful features"
+      "title": "Amazon Hikes Prices by as Much as 60% Across Echo, Fire TV, Kindle Lines - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/amazon-hikes-prices-by-as-much-as-60-across-echo-fire-tv-kindle-lines",
+      "image": "https://i.pcmag.com/imagery/articles/05JKJlr1B6dHqA4UmxFfSCK-1.fit_lim.size_1200x630.v1787490085.webp",
+      "published": "8/23/2026, 3:18:39 PM",
+      "desc": "The price hikes were as high as 60% in case of the worst hit product, the Echo Dot, which will now set you back."
     },
     {
       "title": "Should Tesla Introduce UI Themes? - Not a Tesla App",
@@ -268,14 +276,6 @@
       "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-ui-apple.webp/aa60f462ed22a49beac843d32f24d904/tesla-ui-apple.jpg",
       "published": "8/23/2026, 2:51:00 PM",
       "desc": "Adding a theme selector to the Toybox or Display settings could give Tesla owners a whole new way to make the cabin feel like their own"
-    },
-    {
-      "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published": "8/23/2026, 2:33:00 PM",
-      "desc": "According to Bloomberg’s Mark Gurman, Apple is preparing significant changes at its retail stores in preparation for upcoming Home product..."
     }
   ],
   "education": [
@@ -401,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 8,
       "title": "Say Something",
       "artist": "Sonny Fodera & Becky Hill",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/6b/4b836bf1-c537-1aa7-6553-83af59e372b0/1200214600280.jpg/300x300bb.jpg",
@@ -418,22 +409,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Fodera%20%26%20Becky%20Hill%20Say%20Something"
     },
     {
-      "rank": 9,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+      "rank": 8,
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 10,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 11,
@@ -446,21 +446,21 @@
     },
     {
       "rank": 12,
+      "title": "Talk to Me",
+      "artist": "Bonobo & Nicole Miglis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/7d/5e/8d7d5e2a-31a9-50ba-9e04-3ce2b53d0c8c/5054429211276.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/e5/1296e51c-ba90-a381-ab43-b68ce6778191/mzaf_17553598924136428884.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-me/1895659203?i=6764144807&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonobo%20%26%20Nicole%20Miglis%20Talk%20to%20Me"
+    },
+    {
+      "rank": 13,
       "title": "Someday, Somewhere",
       "artist": "Jungle",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 13,
-      "title": "Man I Need",
-      "artist": "Olivia Dean",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     },
     {
       "rank": 14,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
     }
   ],
   "movies": [
