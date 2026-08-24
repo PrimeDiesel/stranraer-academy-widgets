@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-24T21:30:22.239Z",
+  "updated": "2026-08-24T22:27:14.784Z",
   "news": [
+    {
+      "title": "CMN: 'I am slowing learning to embrace my rare skin condition'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg376jexd1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4b5/live/63f8e000-9b11-11f1-9341-0383083a41e3.jpg",
+      "published": "8/23/2026, 9:52:21 PM",
+      "desc": "Laura Kelly, 28, was born with congenital melanocytic naevus (CMN) and underwent 14 operations as a baby."
+    },
     {
       "title": "Reform says it will prioritise British-born young workers for social housing",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake."
     },
     {
-      "title": "Kevin Keegan: Newcastle and Liverpool pay tribute to legendary player and manager",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg",
-      "published": "8/23/2026, 6:52:22 PM",
-      "desc": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season."
-    },
-    {
       "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o",
@@ -68,6 +68,46 @@
   ],
   "sports": [
     {
+      "title": "Brydon Carse: What will it take to prevent England from more hangovers",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7206/live/0f2cf580-9f2f-11f1-ba42-39f12a57ee10.jpg",
+      "published": "8/23/2026, 10:37:21 PM",
+      "desc": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
+    },
+    {
+      "title": "Freedom 250 Podium Finishers Reflect On Inaugural INDYCAR Race In Washington D.C.",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-kirkwood-will-power-lundgaard",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2291734167-scaled-e1787520008862.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 10:22:23 PM",
+      "desc": "IndyCar raced through the streets of Washington D.C. for the Freedom 250, and for the podium finishers, the location was the main takeaway of the weekend."
+    },
+    {
+      "title": "World Cup Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-hero-ferran-torres-scores-twice-psg-debut-help-salvage-draw",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/torres1.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 10:22:21 PM",
+      "desc": "Ferran Torres has scored twice in his debut with Paris Saint-Germain to help the French champion draw with Rennes in its league opener."
+    },
+    {
+      "title": "Browns Waive TE Dae’Quan Wright, Paving Way For Him To Play At LSU In Historical Move",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/browns-waive-te-daequan-wright-paving-way-him-play-lsu-historical-move",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/daequan-wright.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 10:07:22 PM",
+      "desc": "Tight end Dae’Quan Wright is set to make history in an unusual way."
+    },
+    {
+      "title": "Raiders' Ashton Jeanty exits practice with apparent knee injury - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49705650/raiders-ashton-jeanty-exits-practice-apparent-knee-injury",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0226%2Fr1620569_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 10:00:52 PM",
+      "desc": "Raiders running back Ashton Jeanty left Sunday's training camp practice early after suffering an apparent right knee injury."
+    },
+    {
       "title": "49ers Remove George Kittle From PUP List, Christian McCaffrey Returns To Practice",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/49ers-remove-george-kittle-from-pup-list-christian-mccaffrey-returns-practice",
@@ -76,12 +116,12 @@
       "desc": "After beginning the summer with a slew of injuries, Sunday provided good news on the injury front for the San Francisco 49ers."
     },
     {
-      "title": "Browns Waive TE Dae’Quan Wright, Paving Way For Him To Play At LSU In Historical Move",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/browns-waive-te-daequan-wright-paving-way-him-play-lsu-historical-move",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/daequan-wright.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 9:37:22 PM",
-      "desc": "Tight end Dae’Quan Wright is set to make history in an unusual way."
+      "title": "Agents: Dae'Quan Wright to be waived by Browns, set to join LSU - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49705433/agents-daequan-wright-waived-browns-set-join-lsu",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705953_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 9:32:33 PM",
+      "desc": "The Browns are waiving tight end Dae'Quan Wright, who has an agreement in place for the 2026 season to play for LSU if he clears waivers, agents Drew Rosenhaus and Kyle Lincoln told ESPN's Adam Schefter."
     },
     {
       "title": "Scheffler: Battled hand, foot and mouth disease during BMW - ESPN",
@@ -170,46 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/7aff057b-yankees1.jpg?ve=1&tl=1",
       "published": "8/23/2026, 7:37:28 PM",
       "desc": "The New York Yankees activated Cody Bellinger from the injured list Sunday after the outfielder missed 25 games with a strained left hamstring."
-    },
-    {
-      "title": "Elche vs Barcelona: Spanish La Liga stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c60ej013yengt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae41/live/98c74360-9f28-11f1-80f3-91ea4cf013d4.jpg",
-      "published": "8/23/2026, 7:37:27 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Elche vs Barcelona in the Spanish La Liga"
-    },
-    {
-      "title": "INDYCAR Freedom 250's Most Stunning Photos From Unique Streets Of DC Race",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-freedom-250-washington-dc-photos",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/wc_6693-scaled.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 7:37:26 PM",
-      "desc": "INDYCAR's Freedom 250 delivered some of the absolute best views in the sport's history."
-    },
-    {
-      "title": "Max Johnson to start at quarterback for Georgia Southern - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49704180/max-johnson-start-quarterback-georgia-southern",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0812%2Fr1530820_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 7:25:25 PM",
-      "desc": "Georgia Southern has named veteran quarterback Max Johnson as the Eagles' starter, sources told ESPN. He previously was the starter at LSU, Texas A&M and UNC."
-    },
-    {
-      "title": "How to Watch Seahawks vs. Titans: TV Channel, Live Stream, Time",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/seattle-seahawks-vs-tennessee-titans-august-23-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/how-to-watch-seattle-seahawks-vs-tennessee-titans-horizontal.png?ve=1&tl=1",
-      "published": "8/23/2026, 6:52:25 PM",
-      "desc": "Learn which TV channel or how to live stream the Seattle Seahawks and Tennessee Titans NFL preseason game."
-    },
-    {
-      "title": "Erling Haaland Opens Premier League Season With New Buzz Cut",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/erling-haaland-opens-premier-league-season-new-buzz-cut",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/haaland1.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 6:52:24 PM",
-      "desc": "Erling Haaland’s famed flowing locks are no more."
     }
   ],
   "tech": [
@@ -446,12 +446,12 @@
     },
     {
       "rank": 12,
-      "title": "Talk to Me",
-      "artist": "Bonobo & Nicole Miglis",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/7d/5e/8d7d5e2a-31a9-50ba-9e04-3ce2b53d0c8c/5054429211276.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/e5/1296e51c-ba90-a381-ab43-b68ce6778191/mzaf_17553598924136428884.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/talk-to-me/1895659203?i=6764144807&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bonobo%20%26%20Nicole%20Miglis%20Talk%20to%20Me"
+      "title": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
     },
     {
       "rank": 13,
@@ -464,12 +464,12 @@
     },
     {
       "rank": 14,
-      "title": "FEVER DREAM",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/f7/65/bef765dc-cf56-c979-976e-2e133040793f/075679588937.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/6a/13/d56a1388-9b6a-94a4-4c34-3bb70ec0ab72/mzaf_1396857457479337489.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fever-dream/1879983782?i=1879983789&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20FEVER%20DREAM"
+      "title": "Talk to Me",
+      "artist": "Bonobo & Nicole Miglis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/7d/5e/8d7d5e2a-31a9-50ba-9e04-3ce2b53d0c8c/5054429211276.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/96/e5/1296e51c-ba90-a381-ab43-b68ce6778191/mzaf_17553598924136428884.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/talk-to-me/1895659203?i=6764144807&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bonobo%20%26%20Nicole%20Miglis%20Talk%20to%20Me"
     },
     {
       "rank": 15,
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 6,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -537,7 +528,7 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -546,13 +537,22 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
+      "rank": 8,
+      "title": "Disclosure Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
       "rank": 9,
