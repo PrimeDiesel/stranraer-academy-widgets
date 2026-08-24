@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-24T09:49:41.929Z",
+  "updated": "2026-08-24T10:38:10.061Z",
   "news": [
+    {
+      "title": "Les used a QR code to download a parking app - but it was a scam",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg",
+      "published": "8/23/2026, 10:22:21 AM",
+      "desc": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app."
+    },
     {
       "title": "Zelensky has 'questions to answer' on corruption, Mykhailo Fedorov tells BBC",
       "source": "BBC News",
@@ -24,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg",
       "published": "8/23/2026, 3:37:18 AM",
       "desc": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\"."
-    },
-    {
-      "title": "Cyber attack shut down small power plant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg",
-      "published": "8/23/2026, 3:22:27 AM",
-      "desc": "The government says at no point was there a risk to the UK's energy system during the attack in July."
     },
     {
       "title": "Restriction zone scheme for offenders to start in October",
@@ -68,6 +68,14 @@
   ],
   "sports": [
     {
+      "title": "Espanyol vs Real Madrid: Spanish La Liga stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmwyjzndv4xnt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f2eb/live/6bf414c0-9e70-11f1-bd4f-49a9cd2272da.jpg",
+      "published": "8/23/2026, 10:07:28 AM",
+      "desc": "Follow live text commentary, score updates and match stats from Espanyol vs Real Madrid in the Spanish La Liga"
+    },
+    {
       "title": "County Championship LIVE: Day four - scores, radio commentary & live text",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/live/c1mymdrjd1vt",
@@ -90,14 +98,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg",
       "published": "8/23/2026, 7:52:24 AM",
       "desc": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?"
-    },
-    {
-      "title": "Cincinnati Open: Jessica Pegula beats Iga Swiatek to set up all-US final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0919/live/22f1e270-9eb6-11f1-84b4-615bda525456.jpg",
-      "published": "8/23/2026, 7:52:22 AM",
-      "desc": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years."
     },
     {
       "title": "Jean-Philippe Mateta: Crystal Palace striker says final year of deal is invalid",
@@ -502,21 +502,21 @@
     },
     {
       "rank": 3,
-      "title": "Minions & Monsters",
-      "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
-    },
-    {
-      "rank": 4,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "url": "https://www.themoviedb.org/movie/1101383"
+    },
+    {
+      "rank": 4,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
     },
     {
       "rank": 5,
@@ -562,6 +562,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "url": "https://www.themoviedb.org/movie/1228710"
+    },
+    {
+      "rank": 10,
+      "title": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "url": "https://www.themoviedb.org/movie/980431"
     }
   ],
   "tv": [
