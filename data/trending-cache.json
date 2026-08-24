@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-24T14:42:54.034Z",
+  "updated": "2026-08-24T15:40:28.106Z",
   "news": [
+    {
+      "title": "England bowler Brydon Carse under investigation by ECB for reported nightclub incident",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg",
+      "published": "8/23/2026, 3:52:26 PM",
+      "desc": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs."
+    },
+    {
+      "title": "Pursuit 'abandoned' seconds before A66 crash killed seven",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg",
+      "published": "8/23/2026, 3:52:22 PM",
+      "desc": "Officers had been pursing a car before it went the wrong way down a dual carriageway."
+    },
     {
       "title": "CMN: 'I am slowing learning to embrace my rare skin condition'",
       "source": "BBC News",
@@ -8,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4b5/live/63f8e000-9b11-11f1-9341-0383083a41e3.jpg",
       "published": "8/23/2026, 1:52:18 PM",
       "desc": "Laura Kelly, 28, was born with congenital melanocytic naevus (CMN) and underwent 14 operations as a baby."
-    },
-    {
-      "title": "Wicker Man director's sons complete their late father's film trilogy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg",
-      "published": "8/23/2026, 1:37:20 PM",
-      "desc": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years."
     },
     {
       "title": "How a new era of heatwaves could shake up the school calendar",
@@ -50,14 +58,6 @@
       "desc": "Customers say the disruption to virtually all UK CrossCountry services as the \"worst case scenario\"."
     },
     {
-      "title": "Mayors to get powers to overrule local councils on planning decisions",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg",
-      "published": "8/23/2026, 3:37:18 AM",
-      "desc": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\"."
-    },
-    {
       "title": "Why do we love watching hoarder videos online so much?",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo",
@@ -67,6 +67,62 @@
     }
   ],
   "sports": [
+    {
+      "title": "Freedom 250 Grand Prix of Washington, D.C. Highlights, Results: Rasmussen Enjoying Lead-Up To Freedom 250",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/motor/freedom-250-grand-prix-washington-d-c-highlights-results",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1408/814/beb71853-16x9-2.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 3:37:23 PM",
+      "desc": "Follow along for live updates and top moments from Freedom 250 Grand Prix of Washington, D.C."
+    },
+    {
+      "title": "Dutch Grand Prix: Lando Norris beats Kimi Antonelli at final Zandvoort race",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/958b/live/47d75a50-9f03-11f1-8ab2-7700e58d1417.jpg",
+      "published": "8/23/2026, 3:37:22 PM",
+      "desc": "Lando Norris and McLaren beat Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix."
+    },
+    {
+      "title": "Manchester City vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6n4ney5dex4t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f38c/live/f75fe050-9f03-11f1-8ab2-7700e58d1417.jpg",
+      "published": "8/23/2026, 3:22:31 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester City vs Bournemouth in the Premier League"
+    },
+    {
+      "title": "England bowler Brydon Carse under investigation by ECB for reported nightclub incident",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "8/23/2026, 3:22:20 PM",
+      "desc": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs."
+    },
+    {
+      "title": "Lando Norris wins thrilling Dutch Grand Prix to take back-to-back victories - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/f1/story/_/id/49610384/lando-norris-wins-thrilling-dutch-grand-prix-take-back-back-victories-formula-1-zandvoort",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705711_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 3:08:00 PM",
+      "desc": "Reigning world champion Lando Norris proved McLaren are back in the fight after claiming victory at the Dutch Grand Prix."
+    },
+    {
+      "title": "Brighton & Hove Albion vs Aston Villa: Premier League preview, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6wyqd9zkd9wt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6db8/live/1b63eef0-9efb-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/23/2026, 3:07:30 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Brighton & Hove Albion vs Aston Villa in the Premier League"
+    },
+    {
+      "title": "Two late goals save Man City blushes against Bournemouth in Premier League opener - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49701780/two-late-goals-save-man-city-blushes-bournemouth-premier-league-opener",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705744_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 3:03:03 PM",
+      "desc": "Late goals from Marc Guéhi and Josko Gvardiol rescued Manchester City who eventually beat Bournemouth 2-1 in their Premier League opener."
+    },
     {
       "title": "2026 INDYCAR Odds: Alex Palou Favored For Freedom 250; Kyle Kirkwood Second",
       "source": "Fox Sports",
@@ -82,14 +138,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ryan-blaney_odds_favorite_new-hampshire_nascar.jpg?ve=1&tl=1",
       "published": "8/23/2026, 2:52:23 PM",
       "desc": "Ryan Blaney is favored for NASCAR's Cup Series race at New Hampshire. Can he get his third win of the season this weekend? Here are the odds."
-    },
-    {
-      "title": "Kane first Englishman to win German player of the season",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg",
-      "published": "8/23/2026, 2:37:22 PM",
-      "desc": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award."
     },
     {
       "title": "Real Madrid: Jose Mourinho says Vinicius Jr must show control to handle bullying",
@@ -116,14 +164,6 @@
       "desc": "Manchester City striker Erling Haaland reveals his new buzz cut on social media."
     },
     {
-      "title": "Ayyoub Bouaddi: Man City agree £86m deal for Lille midfielder",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b05/live/65d79880-9eea-11f1-bd7c-915bb85b5513.jpg",
-      "published": "8/23/2026, 12:52:20 PM",
-      "desc": "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m)."
-    },
-    {
       "title": "F1 LIVE: Dutch Grand Prix 2026 UK time, start time, grid, radio & updates",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/live/c8ejw99r1p9t",
@@ -140,14 +180,6 @@
       "desc": "Get analysis, predictions, fan reaction, score updates and match stats from three Premier League games on Sunday."
     },
     {
-      "title": "Liverpool news: Trent Alexander-Arnold still hopes for 'understanding' after Liverpool exit",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg",
-      "published": "8/23/2026, 11:07:29 AM",
-      "desc": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago."
-    },
-    {
       "title": "County Championship LIVE: Day four - scores, radio commentary & live text",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/live/c1mymdrjd1vt",
@@ -156,28 +188,12 @@
       "desc": "Follow live text updates and BBC radio commentaries from the final day of six games in the County Championship."
     },
     {
-      "title": "Australia thrash Bangladesh in second Test as Starc takes 10 wickets",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b89/live/6893c460-9ec0-11f1-8d1c-03afa0025cd9.jpg",
-      "published": "8/23/2026, 7:52:15 AM",
-      "desc": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series."
-    },
-    {
       "title": "Reese drops career-best 31 points as Dream clinch playoff spot - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/49698738/reese-drops-career-best-31-points-dream-clinch-playoff-spot",
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705635_1296x729_16%2D9.jpg",
       "published": "8/23/2026, 5:52:29 AM",
       "desc": "The Dream clinched a playoff berth behind Angel Reese's career-best 31 points and 14 rebounds Saturday night in a 99-89 win over the Mercury."
-    },
-    {
-      "title": "In her return, Leonie Fiebich sparks New York Liberty's win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49698478/in-return-leonie-fiebich-sparks-new-york-liberty-win",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705628_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 5:10:49 AM",
-      "desc": "New York wing Leonie Fiebich spent the last seven weeks watching from the sidelines while recovering from a left foot injury, but in her return game Saturday night, she led the Liberty to a 109-102 victory over the Indiana Fever at Barclays Center."
     },
     {
       "title": "Lopez wrests Romero's WBA title by decision, now 3-weight champ - ESPN",
@@ -194,40 +210,48 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/butker.jpg?ve=1&tl=1",
       "published": "8/23/2026, 3:07:24 AM",
       "desc": "Kansas City Chiefs kicker Harrison Butker drilled a 69-yard field goal against the Tampa Bay Buccaneers in their Week 2 preseason game."
-    },
-    {
-      "title": "Skubal overcomes rough 1st, fans 11 to score first win with Dodgers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49697385/skubal-overcomes-rough-1st-fans-11-score-first-win-dodgers",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705595_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 2:59:16 AM",
-      "desc": "Tarik Skubal overcame a rough first inning and struck out 11 to earn his first win as a Dodger, and Los Angeles rallied for a 4-3 victory over the Pirates on Saturday."
-    },
-    {
-      "title": "Jeep AVCA First Serve, Highlights, Match Recaps: Badgers Sweep, ASU Upsets Texas",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/other/jeep-avca-first-serve-highlights-match-recaps-wisconsin-sweeps-asu-upsets",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/volley_thumb.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 2:37:18 AM",
-      "desc": "Here's the top highlights and match recaps from Jeep AvCA First Serve Wisconsin vs. Louisville and Texas vs. Arizona State."
     }
   ],
   "tech": [
     {
-      "title": "20 Famous Things Photographed From Angles That Feel Weirdly Illegal To Look At - Yahoo Life UK",
-      "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/jamieko/famous-things-unusual-angles-photos?origin=bf-yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/f5bc79952473266bdba7b9060fbe7307d42100e095daa75f8f1cf3404a6274c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fadec3c53232c8b8f7aae39314462c4aa.jpg",
-      "published": "8/23/2026, 12:31:02 PM",
-      "desc": "The wrong sides of history."
+      "title": "Apple’s Foldable iPhone Will Help Bring Some Magic Back - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJPWCKPqPssc/v1/1200x800.jpg",
+      "published": "8/23/2026, 2:00:01 PM",
+      "desc": "Also: Get ready for iPhone price hikes."
     },
     {
-      "title": "35 People Who Spent A Tooooooooooooooon Of Money On Something Expensive And Pretty Much Immediately Regretted It - BuzzFeed",
+      "title": "35 Expensive Purchases People Regretted The Second They Bought Them - AOL.com",
       "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/17/18/thumb/IGzSSC16v.jpg?crop=2500:1309;0,31%26downsize=1250:*",
-      "published": "8/23/2026, 12:16:02 PM",
+      "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on?origin=bf-yahoo",
+      "image": "https://hermes.media.static.aol.com/media/2026/08/23/2ee64d9f-3554-3a36-b769-e9769f2dbee4/dee06803-5070-467f-abb9-aa0a8b8ee0c4.jpg",
+      "published": "8/23/2026, 1:48:38 PM",
       "desc": "Ouch. Right in the wallet."
+    },
+    {
+      "title": "Can't Wait? How to Get Early Access to the Call of Duty: Modern Warfare 4 Beta - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/cant-wait-how-to-access-call-of-duty-modern-warfare-4-beta-today",
+      "image": "https://i.pcmag.com/imagery/articles/03dKSjK2kOyJTPW47xrxPUD-2.fit_lim.size_1200x630.v1787244002.png",
+      "published": "8/23/2026, 1:25:34 PM",
+      "desc": "Are you ready for the next big Call of Duty release? You don't have to. The early access beta is underway, followed by a five-day open beta. Here's how to join in on the action."
+    },
+    {
+      "title": "Another Galaxy S27 Ultra surprise drops alongside new images - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/two-galaxy-s27-ultra-models_id182777",
+      "image": "",
+      "published": "8/23/2026, 1:24:05 PM",
+      "desc": ""
+    },
+    {
+      "title": "I stopped using third-party adblock VPNs after discovering Android's built-in Private DNS toggle - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/use-android-built-in-private-dns-settings/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/android-private-dns-settings-with-ad-blocking-icons-and-a-dns-shield.png?w=1600&h=900&fit=crop",
+      "published": "8/23/2026, 12:30:10 PM",
+      "desc": "Android's built-in ad blocker alternative"
     },
     {
       "title": "FromSoftware boss explains how The Duskbloods will handle its skill gap between players - Eurogamer",
@@ -241,9 +265,9 @@
       "title": "Sony's PlayStation terms of service reminder email couldn't have landed at a worse time - Eurogamer",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest",
-      "image": "",
+      "image": "https://assetsio.gnwcdn.com/discs-playstation.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "published": "8/23/2026, 11:14:16 AM",
-      "desc": ""
+      "desc": "PlayStation users receive unsolicited terms-of-service reminder emails stating that their digital games aren't owned, just as a week-long boycott begins."
     },
     {
       "title": "Transistors Changed Everything. Here’s How They Work - WIRED",
@@ -252,30 +276,6 @@
       "image": "https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_limit/Science_Transistors%20Changed%20Everything.%20Here%E2%80%99s%20How%20They%20Work_v1.jpg",
       "published": "8/23/2026, 11:00:00 AM",
       "desc": "How a tiny little electronic switch sparked the computer revolution."
-    },
-    {
-      "title": "Google Keep's new Gemini voice feature saved me hours of organizing messy grocery lists - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/google-keep-gemini-voice-checklist-notes/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-keep-grocery-checklist-with-gemini-voice-input-and-app-icons.png?w=1600&h=900&fit=crop",
-      "published": "8/23/2026, 10:00:10 AM",
-      "desc": "A different way to use Keep"
-    },
-    {
-      "title": "iPhone 18 Pro Latest Release Schedule: What To Expect When - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/23/iphone-18-pro-latest-release-schedule-what-to-expect-when/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/690b2813bcec226543e60c9f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/23/2026, 10:00:02 AM",
-      "desc": "As August ticks away into September, the next iPhone launch inches nearer. Here’s the latest on what to expect when."
-    },
-    {
-      "title": "Scientists in Iceland drilled straight into 900°C magma by accident — so energy-dense was the well that resulted, it could produce nearly ten times the power of a conventional geothermal well - Space Daily",
-      "source": "Space Daily",
-      "url": "https://spacedaily.com/d-scientists-in-iceland-drilled-straight-into-900c-magma-by-accident-so-energy-dense-was-the-well-that-resulted-it-could-produce-nearly-ten-times-the-power-of-a-conventional-geothermal/",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-23T150634.994.png",
-      "published": "8/23/2026, 9:30:59 AM",
-      "desc": "An accidental breakthrough in Iceland reveals how to tap into magma itself, potentially unlocking geothermal energy at scales previously thought impossible."
     }
   ],
   "education": [
