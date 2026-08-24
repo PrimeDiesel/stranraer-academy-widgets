@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:58:42.907Z",
+  "updated": "2026-08-24T08:49:42.144Z",
   "news": [
     {
       "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
@@ -272,6 +272,14 @@
   ],
   "education": [
     {
+      "title": "Germany's migrant classroom warning for UK: School with 90% migrant students is dubbed 'most dangerous in the country' - and a symbol of the nation's migration problems",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16069225/Germanys-migrant-classroom-warning-UK-School.html",
+      "image": "https://i.dailymail.com/1s/2026/08/21/15/110771343-0-image-a-55_1787322165827.jpg",
+      "published": "8/23/2026, 8:28:17 AM",
+      "desc": "A German school whose student body is made up almost entirely of migrants has been dubbed 'the most dangerous in the country'."
+    },
+    {
       "title": "The Mohammunist Manifesto—Control of Education and Formation of the Young",
       "source": "Americanthinker.com",
       "url": "https://www.americanthinker.com/articles/2026/08/the-mohammunist-manifesto-control-of-education-and-formation-of-the-young/",
@@ -326,14 +334,6 @@
       "image": "https://media.thenextweb.com/2026/08/Medly-AI-cofounders.jpg",
       "published": "8/18/2026, 8:00:34 AM",
       "desc": "Sometimes the most genuine projects emerge from gaps we identify in our own lives or in the society around us. And maybe this should be our focus as a society: to use all the technology at our disposal to solve problems that were almost impossible to address …"
-    },
-    {
-      "title": "Ensure a top-class education for your child",
-      "source": "The-independent.com",
-      "url": "https://www.the-independent.com/life-style/ensure-a-top-class-education-for-your-child-b3034138.html",
-      "image": "https://static.the-independent.com/2026/08/17/9/18/Ensure-a-top-class-education-for-your-child.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "published": "8/17/2026, 4:05:27 PM",
-      "desc": "From award-winning schools to expert private tutors, there are countless education providers at home and abroad – we’ve curated a list of the best to help you carve the right path for your child"
     }
   ],
   "music": [
@@ -375,12 +375,12 @@
     },
     {
       "rank": 5,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 6,
@@ -393,12 +393,12 @@
     },
     {
       "rank": 7,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
       "rank": 8,
@@ -447,21 +447,21 @@
     },
     {
       "rank": 13,
-      "title": "Horizons (Phaxe Remix)",
-      "artist": "Aura Vortex & Blazy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
-    },
-    {
-      "rank": 14,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/23/cc/7a23ccc8-d938-415a-2017-23176bd107e9/mzaf_3230832386667264115.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/how-to-save-a-life/6802405486?i=6802405487&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
+    },
+    {
+      "rank": 14,
+      "title": "Horizons (Phaxe Remix)",
+      "artist": "Aura Vortex & Blazy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
     },
     {
       "rank": 15,
@@ -521,15 +521,6 @@
     },
     {
       "rank": 6,
-      "title": "Avatar Aang: The Last Airbender",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
-    },
-    {
-      "rank": 7,
       "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
@@ -538,7 +529,7 @@
       "url": "https://www.themoviedb.org/movie/687163"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
@@ -547,22 +538,22 @@
       "url": "https://www.themoviedb.org/movie/1081003"
     },
     {
-      "rank": 9,
-      "title": "Don't Say Good Luck",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "url": "https://www.themoviedb.org/movie/1504358"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "The Last House",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
       "url": "https://www.themoviedb.org/movie/1284041"
+    },
+    {
+      "rank": 9,
+      "title": "The Mandalorian and Grogu",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     }
   ],
   "tv": [
