@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T01:20:33.835Z",
+  "updated": "2026-08-24T03:04:38.669Z",
   "news": [
     {
       "title": "Newspaper headlines: 'Power to block nimby protests' and Meghan 'deal could be off'",
@@ -68,6 +68,30 @@
   ],
   "sports": [
     {
+      "title": "Jeep AVCA First Serve, Highlights, Match Recaps: Badgers Sweep, ASU Upsets Texas",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/other/jeep-avca-first-serve-highlights-match-recaps-wisconsin-sweeps-asu-upsets",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/volley_thumb.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 2:37:18 AM",
+      "desc": "Here's the top highlights and match recaps from Jeep AvCA First Serve Wisconsin vs. Louisville and Texas vs. Arizona State."
+    },
+    {
+      "title": "NFL Catchup: Shedeur Sanders Outplays Deshaun Watson; Stetson Bennett Stars In LA",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-shedeur-sanders-outplays-deshaun-watson-stetson-bennett-stars-in-la",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/e80d2158-nfl-16x9-1.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 2:37:17 AM",
+      "desc": "Shedeur Sanders and Stetson Bennett were the standout performers on Saturday in NFL preseason action."
+    },
+    {
+      "title": "Anderson solid in MLB debut; Arozarena walks it off for Mariners - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49697022/anderson-solid-mlb-debut-arozarena-walks-mariners",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705583_1296x729_16%2D9.jpg",
+      "published": "8/23/2026, 2:16:19 AM",
+      "desc": "Rookie Kade Anderson had an up-and-down debut, allowing three runs in 5 2/3 innings for the Mariners, who won 5-4 on Randy Arozarena's walk-off, two-run home run in the ninth."
+    },
+    {
       "title": "Browns' Deshaun Watson Reacts To Boos After Preseason Showing",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/browns-deshaun-watson-reacts-boos-after-preseason-showing-it-what-is",
@@ -114,14 +138,6 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705503_594x396_3%2D2.jpg",
       "published": "8/22/2026, 10:46:15 PM",
       "desc": "José Mourinho has defended Vinícius Júnior, saying the star is \"bullied\" after he clashed with Espanyol players and the crowd during Real Madrid's 2-1 LaLiga win on Saturday."
-    },
-    {
-      "title": "Clark pulls away from McIlroy, Cantlay for 5-shot BMW lead - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/49695444/clark-pulls-away-mcilroy-cantlay-5-shot-bmw-lead",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0822%2Fr1705426_1296x729_16%2D9.jpg",
-      "published": "8/22/2026, 10:45:36 PM",
-      "desc": "Wyndham Clark made five birdies and an eagle in an eight-hole stretch to finish with a 5-under 65 and a five-shot lead at the BMW Championship."
     },
     {
       "title": "Rory McIlroy: Masters champion improves to go second at BMW Championship",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/fried1.jpg?ve=1&tl=1",
       "published": "8/22/2026, 6:22:23 PM",
       "desc": "New York is figuring out how to survive without Max Fried again, and managing his injury sounds like it’s going to be tricky."
-    },
-    {
-      "title": "Josh Tarling: Briton third in Vuelta a Espana a week after brother Fin's death",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "published": "8/22/2026, 6:22:22 PM",
-      "desc": "Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash."
-    },
-    {
-      "title": "Will Power 'Living Childhood Dream' Ahead Of INDYCAR Freedom 250 In Washington, D.C.",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/will-power-living-childhood-dream-ahead-indycar-freedom-250-washington-d-c",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/wc_5028-scaled.jpg?ve=1&tl=1",
-      "published": "8/22/2026, 6:22:20 PM",
-      "desc": "Will Power is living his childhood dream, but not even he could have imagined an INDYCAR race in Washington, D.C."
     }
   ],
   "tech": [
@@ -254,20 +254,20 @@
       "desc": "Samsung's One UI 9 rollout is expanding. The company is preparing major feature updates for millions of Galaxy phones, tablets and watches in the coming days and weeks."
     },
     {
-      "title": "Big Router is watching you: WiFi could secretly track you even if you leave your phone at home - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/22/world-news/wifi-could-secretly-track-you-even-if-you-leave-your-phone-at-home/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/wireless-router-young-person-using-137993131.jpg?quality=75&strip=all&w=1200",
-      "published": "8/22/2026, 5:46:00 PM",
-      "desc": "Scientists at the Karlsruhe Institute of Technology in Germany created an experiment in which they were able to track people using sound waves from WiFi routers that surround people every day as th…"
-    },
-    {
       "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5Mac",
       "source": "9to5Mac",
       "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "published": "8/22/2026, 5:32:00 PM",
       "desc": "Apple has announced its event two weeks in advance for four straight years, pointing to a likely iPhone 18 Pro event announcement this month."
+    },
+    {
+      "title": "Note on Tony Khan Ribbing Fans at AEW Events on Bringing a PPV to Their City - 411Mania.",
+      "source": "411mania.com",
+      "url": "https://411mania.com/wrestling/note-tony-khan-ribbing-fans-aew-events/",
+      "image": "https://411mania.com/wp-content/uploads/2026/06/Tony-Khan-AEW-x-NJPW-Forbidden-Door-Post-Show.png",
+      "published": "8/22/2026, 5:08:37 PM",
+      "desc": "Company president Tony Khan appears to be ribbing fans about bringing AEW events to their cities, and it's an ongoing bit at this point."
     }
   ],
   "education": [
@@ -375,6 +375,24 @@
     },
     {
       "rank": 5,
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+    },
+    {
+      "rank": 6,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
+    },
+    {
+      "rank": 7,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -383,7 +401,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Danceteria (Harry Romero Remix)",
       "artist": "Madonna & Harry Romero",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
@@ -392,31 +410,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 8,
-      "title": "Everything's Alright",
-      "artist": "Azteck, DJ Koko & Kurt D",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
-    },
-    {
-      "rank": 9,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
       "rank": 10,
@@ -429,12 +429,12 @@
     },
     {
       "rank": 11,
-      "title": "Babydoll",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+      "title": "Everything's Alright",
+      "artist": "Azteck, DJ Koko & Kurt D",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/5a/0b/7e5a0b57-0118-94c6-46b8-a044c6b4b5d0/mzaf_9291820954713309405.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/everythings-alright/6787283656?i=6787283660&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
       "rank": 12,
@@ -447,6 +447,15 @@
     },
     {
       "rank": 13,
+      "title": "Horizons (Phaxe Remix)",
+      "artist": "Aura Vortex & Blazy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
+    },
+    {
+      "rank": 14,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
@@ -455,42 +464,33 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "New Religion",
       "artist": "Bebe Rexha & Faithless",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/99/14/1d99143b-f5ce-6a98-2992-f91a050835e3/199316500523_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/9a/8a/209a8add-b82f-5288-3f6d-ad9633ffa7b8/mzaf_4960400866856307248.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/new-religion/1878015313?i=1878015314&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bebe%20Rexha%20%26%20Faithless%20New%20Religion"
-    },
-    {
-      "rank": 15,
-      "title": "Horizons (Phaxe Remix)",
-      "artist": "Aura Vortex & Blazy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
       "rank": 3,
@@ -548,12 +548,12 @@
     },
     {
       "rank": 9,
-      "title": "Michael",
+      "title": "Coyote vs. Acme",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
       "rank": 10,
@@ -565,5 +565,24 @@
       "url": "https://www.themoviedb.org/movie/1504358"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "Spooky in Love",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "url": "https://www.themoviedb.org/tv/298610"
+    }
+  ]
 }
