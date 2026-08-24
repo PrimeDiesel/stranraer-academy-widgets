@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:52:34.687Z",
+  "updated": "2026-08-24T14:42:54.034Z",
   "news": [
     {
       "title": "CMN: 'I am slowing learning to embrace my rare skin condition'",
@@ -68,12 +68,28 @@
   ],
   "sports": [
     {
-      "title": "Boxing: Teofimo Lopez beats Rolando Romero to claim WBA welterweight title",
+      "title": "2026 INDYCAR Odds: Alex Palou Favored For Freedom 250; Kyle Kirkwood Second",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/2026-indycar-odds-freedom-250-washington-dc",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/alex-palou_odds_freedom-250_pole_favorite.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 2:52:26 PM",
+      "desc": "Will pole-sitter Alex Palou get win No. 7 on the season at INDYCAR's Freedom 250 in Washington D.C? Here are the odds."
+    },
+    {
+      "title": "2026 NASCAR Odds: Ryan Blaney Favored For New Hampshire; Bell Close Second",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-new-hampshire-dollar-tree-301",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/ryan-blaney_odds_favorite_new-hampshire_nascar.jpg?ve=1&tl=1",
+      "published": "8/23/2026, 2:52:23 PM",
+      "desc": "Ryan Blaney is favored for NASCAR's Cup Series race at New Hampshire. Can he get his third win of the season this weekend? Here are the odds."
+    },
+    {
+      "title": "Kane first Englishman to win German player of the season",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg",
-      "published": "8/23/2026, 1:52:21 PM",
-      "desc": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg",
+      "published": "8/23/2026, 2:37:22 PM",
+      "desc": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award."
     },
     {
       "title": "Real Madrid: Jose Mourinho says Vinicius Jr must show control to handle bullying",
@@ -194,22 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/volley_thumb.jpg?ve=1&tl=1",
       "published": "8/23/2026, 2:37:18 AM",
       "desc": "Here's the top highlights and match recaps from Jeep AvCA First Serve Wisconsin vs. Louisville and Texas vs. Arizona State."
-    },
-    {
-      "title": "NFL Catchup: Shedeur Sanders Outplays Deshaun Watson; Stetson Bennett Stars In LA",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-shedeur-sanders-outplays-deshaun-watson-stetson-bennett-stars-in-la",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/e80d2158-nfl-16x9-1.jpg?ve=1&tl=1",
-      "published": "8/23/2026, 2:37:17 AM",
-      "desc": "Shedeur Sanders and Stetson Bennett were the standout performers on Saturday in NFL preseason action."
-    },
-    {
-      "title": "Anderson solid in MLB debut; Arozarena walks it off for Mariners - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49697022/anderson-solid-mlb-debut-arozarena-walks-mariners",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705583_1296x729_16%2D9.jpg",
-      "published": "8/23/2026, 2:16:19 AM",
-      "desc": "Rookie Kade Anderson had an up-and-down debut, allowing three runs in 5 2/3 innings for the Mariners, who won 5-4 on Randy Arozarena's walk-off, two-run home run in the ninth."
     }
   ],
   "tech": [
@@ -374,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 5,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+    },
+    {
+      "rank": 5,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 6,
@@ -401,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
-    },
-    {
-      "rank": 8,
       "title": "Inside My Soul",
       "artist": "SK.music",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
@@ -418,16 +409,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
-      "rank": 9,
-      "title": "Say Something",
-      "artist": "Sonny Fodera & Becky Hill",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/6b/4b836bf1-c537-1aa7-6553-83af59e372b0/1200214600280.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/c1/61/dbc161f8-5b57-bed6-79e5-f71d2b5bb4b0/mzaf_6456588879735314607.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/say-something/6796743956?i=6796744070&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Fodera%20%26%20Becky%20Hill%20Say%20Something"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "Everything's Alright",
       "artist": "Azteck, DJ Koko & Kurt D",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3e/b3/0e3eb3d6-464c-8a22-7d0c-3afe794c6193/823375286240_Cover.jpg/300x300bb.jpg",
@@ -436,34 +418,25 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Azteck%2C%20DJ%20Koko%20%26%20Kurt%20D%20Everything's%20Alright"
     },
     {
+      "rank": 9,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 10,
+      "title": "Say Something",
+      "artist": "Sonny Fodera & Becky Hill",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/6b/4b836bf1-c537-1aa7-6553-83af59e372b0/1200214600280.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/c1/61/dbc161f8-5b57-bed6-79e5-f71d2b5bb4b0/mzaf_6456588879735314607.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/say-something/6796743956?i=6796744070&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sonny%20Fodera%20%26%20Becky%20Hill%20Say%20Something"
+    },
+    {
       "rank": 11,
-      "title": "Danceteria (Harry Romero Remix)",
-      "artist": "Madonna & Harry Romero",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/50/68/4c506874-c49a-66c1-7dd2-1b6b4af8aa28/mzaf_7372313156178012722.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/danceteria-harry-romero-remix/6801689792?i=6801689796&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
-    },
-    {
-      "rank": 12,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 13,
-      "title": "Someday, Somewhere",
-      "artist": "Jungle",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
-    },
-    {
-      "rank": 14,
       "title": "HOW TO SAVE A LIFE",
       "artist": "Sam Tompkins",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/61/b8/6761b87e-21ac-0352-1f80-b400d1a3cc9c/26UM1IM06974.rgb.jpg/300x300bb.jpg",
@@ -472,13 +445,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Tompkins%20HOW%20TO%20SAVE%20A%20LIFE"
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "title": "Someday, Somewhere",
+      "artist": "Jungle",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/8e/bb/9a8ebb8b-2363-4e2a-b52e-9786decb80a1/820200658401.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/1d/d1/9a1dd1ba-c2a8-9ee8-5c3d-957d99068abf/mzaf_15222175962225372417.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/someday-somewhere/1886730527?i=1886730726&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jungle%20Someday%2C%20Somewhere"
+    },
+    {
+      "rank": 13,
+      "title": "Danceteria (Harry Romero Remix)",
+      "artist": "Madonna & Harry Romero",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/a9/e6/b1a9e65b-3973-112e-8089-99ba1e63970b/054391209856.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/50/68/4c506874-c49a-66c1-7dd2-1b6b4af8aa28/mzaf_7372313156178012722.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/danceteria-harry-romero-remix/6801689792?i=6801689796&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Madonna%20%26%20Harry%20Romero%20Danceteria%20(Harry%20Romero%20Remix)"
+    },
+    {
+      "rank": 14,
       "title": "Horizons (Phaxe Remix)",
       "artist": "Aura Vortex & Blazy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a4/7b/57a47ba1-7cff-7c94-5bba-4aaabb71641c/198704588013_Cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/e2/11/09e211c2-e545-3290-6129-120de70d79d5/mzaf_10158699816802755753.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/horizons-phaxe-remix/1823625784?i=1823625788&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Aura%20Vortex%20%26%20Blazy%20Horizons%20(Phaxe%20Remix)"
+    },
+    {
+      "rank": 15,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     }
   ],
   "movies": [
@@ -538,21 +538,21 @@
     },
     {
       "rank": 7,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
-    },
-    {
-      "rank": 8,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 8,
+      "title": "The Last House",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "url": "https://www.themoviedb.org/movie/1284041"
     }
   ],
   "tv": [
@@ -564,6 +564,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "Spooky in Love",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "url": "https://www.themoviedb.org/tv/298610"
     }
   ]
 }
