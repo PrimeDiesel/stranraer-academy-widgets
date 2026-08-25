@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-25T08:43:03.579Z",
+  "updated": "2026-08-25T09:36:08.204Z",
   "news": [
+    {
+      "title": "Hawk fire: 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg",
+      "published": "8/24/2026, 9:22:33 AM",
+      "desc": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
+    },
+    {
+      "title": "UK's rarest bird of prey rears new chicks in secret location",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b099/live/38250e40-9f62-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/24/2026, 9:22:25 AM",
+      "desc": "The Montagu Harrier successfully nested for the second year running in the same secret location."
+    },
     {
       "title": "Yr Wyddfa rows between people queuing and those skipping the line",
       "source": "BBC News",
@@ -48,22 +64,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg",
       "published": "8/24/2026, 1:07:18 AM",
       "desc": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs."
-    },
-    {
-      "title": "Newspaper headlines: 'Pain beyond words' and 'Graduates face worst job market'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7reynpdyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/199d/live/4d83be50-9f47-11f1-9116-292791475ce9.png",
-      "published": "8/24/2026, 12:37:18 AM",
-      "desc": "Photographs of the two police officers killed in a crash on Saturday morning lead several front pages on Monday."
-    },
-    {
-      "title": "How easy is it to find an NHS dentist? It depends on where you live",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e3c/live/56fd13c0-9d65-11f1-a291-b542ee92de7c.jpg",
-      "published": "8/23/2026, 11:37:22 PM",
-      "desc": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system."
     }
   ],
   "sports": [
@@ -222,14 +222,6 @@
       "desc": "Just moments ago, Shift Up issued a brand new trailer for Stellar Blade: Complete Edition on Nintendo Switch 2. The video gives us a new look at how the port is shaping up. Stellar Blade: Complete Edition is the same post-apocalyptic action adventure title th…"
     },
     {
-      "title": "AI is coming for your glasses - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6\\\\u003d1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ee7915c-47a0-4cc4-8c24-7f1cf50abc83.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "published": "8/24/2026, 4:00:14 AM",
-      "desc": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware"
-    },
-    {
       "title": "PSA: Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box - Nintendo Life",
       "source": "Nintendo Life",
       "url": "https://www.nintendolife.com/news/2026/08/psa-modern-warfare-4s-switch-2-retail-version-is-apparently-a-code-in-a-box",
@@ -265,9 +257,9 @@
       "title": "A $650 smartphone takes aim at Apple and Samsung’s surging repair costs - thestreet.com",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/retail/a-650-smartphone-takes-aim-at-apple-and-samsungs-surging-repair-costs",
-      "image": "",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTUyMDk4/apple-ceo-tim-cook-delivers-last-keynote-at-wwdc.jpg?profile=share16-9",
       "published": "8/24/2026, 1:03:00 AM",
-      "desc": ""
+      "desc": "A DIY-repairable smartphone is entering the market."
     },
     {
       "title": "5 Essential Apps For Your New TCL TV - bgr.com",
@@ -276,6 +268,14 @@
       "image": "https://www.bgr.com/img/gallery/5-essential-apps-for-your-new-tcl-tv/l-intro-1786704032.jpg",
       "published": "8/23/2026, 11:17:00 PM",
       "desc": "If you've just unwrapped your new TCL TV and are looking for some useful apps to make the most of it, try the likes of JustWatch, Jellyfin, FitOn, and more."
+    },
+    {
+      "title": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026 - ServeTheHome",
+      "source": "Servethehome.com",
+      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/meta-3d-dram-based-accelerator-for-genai-slide-17.jpg",
+      "published": "8/23/2026, 10:14:59 PM",
+      "desc": "At Hot Chips 2026, d-Matrix showed off its Raptor 3D-DRAM accelerator for AI breaking free of using HBM for memory by stacking DRAM and logic"
     }
   ],
   "education": [
@@ -535,15 +535,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 7,
-      "title": "The Last House",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "url": "https://www.themoviedb.org/movie/1284041"
     }
   ],
   "tv": [
