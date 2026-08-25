@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-25T15:42:37.586Z",
+  "updated": "2026-08-25T16:38:35.956Z",
   "news": [
+    {
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "published": "8/24/2026, 4:22:21 PM",
+      "desc": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service."
+    },
+    {
+      "title": "Prince Harry steps down from African Parks charity board",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c750n3nx76ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e417/live/35b281d0-9fc9-11f1-81b8-016fbb74ef71.jpg",
+      "published": "8/24/2026, 4:07:22 PM",
+      "desc": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville."
+    },
     {
       "title": "Burnham to hand long-range missile blueprints as he visits Kyiv",
       "source": "BBC News",
@@ -26,28 +42,12 @@
       "desc": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
     },
     {
-      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5db/live/1c356520-9fbe-11f1-aed2-8d6da8d75094.jpg",
-      "published": "8/24/2026, 1:52:20 PM",
-      "desc": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles."
-    },
-    {
       "title": "Snooker champion Graeme Dott guilty of child sex abuse",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3be/live/f7252560-9fc0-11f1-8648-8d7b77845e6d.jpg",
       "published": "8/24/2026, 1:52:17 PM",
       "desc": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy."
-    },
-    {
-      "title": "Graduate job vacancies drop by almost 50% in a year",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4cf/live/9e2da670-9fa8-11f1-bff6-57f1422ebb0b.jpg",
-      "published": "8/24/2026, 11:37:29 AM",
-      "desc": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016"
     },
     {
       "title": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
@@ -67,6 +67,62 @@
     }
   ],
   "sports": [
+    {
+      "title": "Vuelta a Espana stage three abandoned because of hail",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/c1e5p00px33o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9da6/live/bb988a30-9fd6-11f1-b1ca-0b18d44a4d5d.jpg",
+      "published": "8/24/2026, 4:52:30 PM",
+      "desc": "The third stage of the Vuelta a Espana is abandoned because of severe weather and hailstorms in the French Pyrenees."
+    },
+    {
+      "title": "Aston Villa: Ollie Watkins transfer saga leaves Villa shellshocked",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg",
+      "published": "8/24/2026, 4:52:22 PM",
+      "desc": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia."
+    },
+    {
+      "title": "2026 AL, NL MVP Odds: PCA Overtakes Ohtani As Favorite",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-al-nl-mvp-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/a1556cd3-16x9-5.jpg?ve=1&tl=1",
+      "published": "8/24/2026, 4:22:19 PM",
+      "desc": "For the first time in a long time, Ohtani is chasing someone in the MVP race. See the latest odds."
+    },
+    {
+      "title": "Julian Alvarez transfer news: Arsenal, Barcelona or Atletico Madrid stay for striker?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "published": "8/24/2026, 4:22:18 PM",
+      "desc": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal."
+    },
+    {
+      "title": "2026 College Football Playoff Odds: Ducks Favored To Land 1-Seed",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-1-seed-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/12/1294/728/lanningh1.jpg?ve=1&tl=1",
+      "published": "8/24/2026, 4:07:22 PM",
+      "desc": "Who will land the top seed in the CFP? And is that a positive or negative spot to be in? See the odds, as well as the history."
+    },
+    {
+      "title": "49ers owner Jed York arrested, pleads no contest to misdemeanor charges - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49712639/49ers-owner-jed-york-arrested-pleads-no-contest-misdemeanor-charges",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fr1706289_1296x729_16%2D9.jpg",
+      "published": "8/24/2026, 3:56:41 PM",
+      "desc": "49ers owner Jed York pleaded no contest to a pair of misdemeanor charges after being arrested in Ohio on suspicion of engaging in prostitution."
+    },
+    {
+      "title": "Mike McCarthy says Steelers at 'impasse' with CB Joey Porter - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49712570/mike-mccarthy-says-steelers-impasse-cb-joey-porter",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fr1706286_1296x729_16%2D9.jpg",
+      "published": "8/24/2026, 3:43:00 PM",
+      "desc": "The Steelers are at an \"impasse\" with Joey Porter Jr. as the cornerback remains sidelined on the physically unable to perform list, coach Mike McCarthy says."
+    },
     {
       "title": "How to Watch Rays vs. Tigers: TV Channel, Live Stream, Time",
       "source": "Fox Sports",
@@ -116,36 +172,12 @@
       "desc": "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season."
     },
     {
-      "title": "South Africa v New Zealand: Sacha Feinberg-Mngomezulu drops to bench",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70f0/live/1fde1c70-9fab-11f1-bff6-57f1422ebb0b.jpg",
-      "published": "8/24/2026, 2:22:26 PM",
-      "desc": "Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's series opener against New Zealand, as the fly-half drops to the Springbok bench."
-    },
-    {
       "title": "Brydon Carse dropped from England squad for second Test v Pakistan after nightclub incident",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg",
       "published": "8/24/2026, 2:22:21 PM",
       "desc": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police."
-    },
-    {
-      "title": "Rob Manfred, amid MLB labor talks, says 'we want to play' in '27 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49711803/rob-manfred-amid-mlb-labor-talks-says-want-play-27",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0917%2Fr1547055_3_1296x729_16%2D9.jpg",
-      "published": "8/24/2026, 2:21:09 PM",
-      "desc": "MLB commissioner Rob Manfred, amid uncertainty about whether labor negotiations will affect the 2027 season, said \"we're planning on playing baseball next year.\""
-    },
-    {
-      "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/news/articles/c0lr80rk0dno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3be/live/f7252560-9fc0-11f1-8648-8d7b77845e6d.jpg",
-      "published": "8/24/2026, 2:07:21 PM",
-      "desc": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy."
     },
     {
       "title": "Dana Brown out as GM of first-place Astros after recent skid - ESPN",
@@ -164,44 +196,12 @@
       "desc": "Even the best quarterbacks need help. Here's our ranking of every team's players at the skill positions."
     },
     {
-      "title": "Patriots' Vrabel says starters sitting in order to develop depth - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49711015/patriots-vrabel-says-starters-sitting-order-develop-depth",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0819%2Fr1704122_1296x729_16%2D9.jpg",
-      "published": "8/24/2026, 12:24:16 PM",
-      "desc": "When Patriots coach Mike Vrabel said \"I do not think we have a very deep team\" on Saturday, he was highlighting why Drake Maye, A.J. Brown and other starters haven't played in a preseason game. But was Vrabel also sending a message to the front office?"
-    },
-    {
       "title": "Enes Kanter Freedom ejected from WNBA game after verbal altercation with Natasha Cloud",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/basketball/articles/c87vg1j93pqo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9787/live/8ac78650-9fa8-11f1-bff6-57f1422ebb0b.jpg",
       "published": "8/24/2026, 12:22:23 PM",
       "desc": "Former NBA player Enes Kanter Freedom is ejected from the Women's NBA match between the Chicago Sky and Indiana Fever after becoming involved in a verbal altercation with Sky guard Natasha Cloud."
-    },
-    {
-      "title": "LIV Golf: Bryson DeChambeau proud of what LIV has achieved amid uncertain future",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/924f/live/4b38f440-9fa5-11f1-bff6-57f1422ebb0b.jpg",
-      "published": "8/24/2026, 11:07:26 AM",
-      "desc": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved with the breakaway league facing questions about its future following the final event of the season in Indianapolis."
-    },
-    {
-      "title": "Fulham v Chelsea:  Rafa Benitez on former players Alonso and Arbeloa as managers",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckge725zy1zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b064/live/471e3800-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-      "published": "8/24/2026, 7:22:19 AM",
-      "desc": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea."
-    },
-    {
-      "title": "Diego Maradona's 'Hand of God' football from 1986 World Cup win over England sells for £2.5m",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg",
-      "published": "8/24/2026, 7:07:20 AM",
-      "desc": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
     }
   ],
   "tech": [
