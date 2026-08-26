@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-26T13:56:21.371Z",
+  "updated": "2026-08-26T14:45:16.401Z",
   "news": [
+    {
+      "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zrey17qno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c294/live/fffcf3c0-a088-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/25/2026, 2:22:18 PM",
+      "desc": "The former Jeffrey Epstein accomplice loses her latest effort to be released from prison."
+    },
     {
       "title": "Why some US restaurants are banning tips",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group."
     },
     {
-      "title": "Kate Hudson to produce How to Lose a Guy in 10 Days sequel, 23 years on",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7af8/live/f3045e00-a07a-11f1-bfeb-dfb02ea642ef.jpg",
-      "published": "8/25/2026, 12:22:22 PM",
-      "desc": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel."
-    },
-    {
       "title": "Boy, 3, attacked by crocodile in Huntingdon recovers at home",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o",
@@ -67,6 +67,38 @@
     }
   ],
   "sports": [
+    {
+      "title": "NASCAR Power Rankings: Ryan Blaney Moves Up With Third Win Of Season",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/nascar-power-rankings-ryan-blaney-moves-up-third-win-season",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/power-rankings-16x9-nascar-19.jpg?ve=1&tl=1",
+      "published": "8/25/2026, 2:37:20 PM",
+      "desc": "Ryan Blaney won at Loudon and moved up the rankings. Here's where the top drivers sit before the final race of the regular season."
+    },
+    {
+      "title": "Nick Faldo: LIV returnees should 'eat humble pie' before rejoining DP World Tour",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c3red51l4vxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e34/live/c180b7e0-a08c-11f1-9234-011c63dfa263.jpg",
+      "published": "8/25/2026, 2:37:20 PM",
+      "desc": "Sir Nick Faldo says LIV golfers seeking a return to the DP World Tour may have to \"eat a bit of humble pie\" before regaining eligibility for the European-based circuit."
+    },
+    {
+      "title": "Sources: Vandy tabs Berlowitz QB1; 5-star Curtis to play in opener - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49721948/sources-vandy-tabs-berlowitz-qb1-5-star-curtis-play-opener",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706673_1296x729_16%2D9.jpg",
+      "published": "8/25/2026, 1:50:59 PM",
+      "desc": "Vanderbilt will start Blaze Berlowitz at quarterback in their season opener against Austin Peay, but five-star freshman Jared Curtis is also expected to play, sources tell ESPN."
+    },
+    {
+      "title": "Sources: Big Ten won't allow players to return from NFL - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49721908/sources-big-ten-allow-players-return-nfl",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0818%2Fr1049798_1296x729_16%2D9.jpg",
+      "published": "8/25/2026, 1:41:44 PM",
+      "desc": "The Big Ten is set to pass a rule Tuesday that doesn't allow players to return from the NFL and play for one of its schools, sources told ESPN's Pete Thamel."
+    },
     {
       "title": "Ask CricViz: Who has best DRS record and are left-handers better?",
       "source": "BBC Sport",
@@ -148,6 +180,14 @@
       "desc": "Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution."
     },
     {
+      "title": "NBA Summer Forecast 2026-27: Conference champions and Finals predictions - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49650138/nba-predictions-2026-27expert-picks-predictions-western-eastern-conference-finals-champions",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fnba%2Deast%2Dwest%2Dfinals_16x9.jpg",
+      "published": "8/25/2026, 11:00:00 AM",
+      "desc": "Our Summer Forecast panel reveals its championship predictions for the East and West conferences and the 2027 NBA Finals."
+    },
+    {
       "title": "Transfer window 2026: What does your Premier League club need with a week to go?",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o",
@@ -170,46 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17d0/live/08b84ff0-9f21-11f1-b2a2-8945a27a2843.jpg",
       "published": "8/25/2026, 8:22:21 AM",
       "desc": "Thirteen managers have won the Premier League title, but which of them will make it into our top 10 covering the competition's history?"
-    },
-    {
-      "title": "Angel Reese sets WNBA single-game, season rebounding records - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49718513/dream-angel-reese-sets-wnba-single-game-season-rebounding-records",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706587_1296x729_16%2D9.jpg",
-      "published": "8/25/2026, 4:42:43 AM",
-      "desc": "Angel Reese broke the WNBA single-game rebounding record with 26 while also breaking the league's season record for rebounds as the Dream beat the Sparks 78-71 on Monday night."
-    },
-    {
-      "title": "Lane Kiffin Defends Recruiting Browns TE Dae’Quan Wright Following Court Injunction",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/lane-kiffin-defends-recruiting-browns-te-daequan-wright-following-court-injunction",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/nfl.jpg?ve=1&tl=1",
-      "published": "8/25/2026, 3:52:24 AM",
-      "desc": "After a stop in the NFL, former Mississippi tight end Dae’Quan Wright could be heading to LSU thanks to a court order that is creating havoc throughout college sports by allowing Wright and others an unexpected fifth year of eligibility."
-    },
-    {
-      "title": "Former Celtics, Jazz Player RJ Luis Jr. Cleared By Judge To Play For LSU",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-basketball/former-celtics-jazz-player-rj-luis-jr-cleared-judge-play-lsu",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/celtics1.jpg?ve=1&tl=1",
-      "published": "8/25/2026, 3:52:21 AM",
-      "desc": "Former St. John's standout RJ Luis Jr. has been cleared by a court to start practicing with LSU and potentially play for the Tigers this season."
-    },
-    {
-      "title": "Ex-Oregon State RB Anthony Hankerson Set For College Return After Being Waived By Seahawks",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/ex-oregon-state-rb-anthony-hankerson-set-college-return-after-being-waived-seahawks",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/hank.jpg?ve=1&tl=1",
-      "published": "8/25/2026, 3:52:19 AM",
-      "desc": "The Seattle Seahawks have waived running back Anthony Hankerson, who could try to play in college again."
-    },
-    {
-      "title": "Koval of Ukraine leaves LSU after Tigers sign Russian player - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/49717877/koval-ukraine-leaves-lsu-tigers-sign-russian-player",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706575_1024x576_16%2D9.jpg",
-      "published": "8/25/2026, 2:48:03 AM",
-      "desc": "Ukrainian center Kate Koval is leaving LSU less than two weeks after the Tigers brought in a player from Russia."
     }
   ],
   "tech": [
@@ -520,12 +520,12 @@
     },
     {
       "rank": 5,
-      "title": "Avatar Aang: The Last Airbender",
+      "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "url": "https://www.themoviedb.org/movie/980431"
+      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
       "rank": 6,
@@ -538,24 +538,6 @@
     },
     {
       "rank": 7,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 8,
-      "title": "The Mandalorian and Grogu",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "url": "https://www.themoviedb.org/movie/1228710"
-    },
-    {
-      "rank": 9,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -573,6 +555,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
+      "title": "The Simpsons",
+      "year": "1989",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "url": "https://www.themoviedb.org/tv/456"
     }
   ]
 }
