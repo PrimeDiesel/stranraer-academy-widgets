@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:35:24.143Z",
+  "updated": "2026-08-26T06:51:13.060Z",
   "news": [
     {
       "title": "AI flooding public bodies with complaints and requests",
@@ -67,6 +67,14 @@
     }
   ],
   "sports": [
+    {
+      "title": "Jack Grealish: What does the future hold for the Man City winger?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy0znx93x05o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea4e/live/a688dbc0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "published": "8/25/2026, 6:22:23 AM",
+      "desc": "Man City winger has made two substitute appearances so far this season, but his future remains in doubt."
+    },
     {
       "title": "Cal Raleigh hits career-high 3 HRs as Mariners top Phillies - ESPN",
       "source": "ESPN",
@@ -202,14 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-50.jpg?ve=1&tl=1",
       "published": "8/24/2026, 10:22:22 PM",
       "desc": "Here's what we learned from this week's preseason games."
-    },
-    {
-      "title": "Mike McCarthy Admits Steelers, CB Joey Porter Jr. Remain At 'Impasse' Over New Deal",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/mike-mccarthy-admits-steelers-cb-joey-porter-jr-remain-impasse-over-new-deal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/pit.jpg?ve=1&tl=1",
-      "published": "8/24/2026, 9:52:18 PM",
-      "desc": "Mike McCarthy wants to work with Joey Porter Jr., but the Pittsburgh Steelers and the cornerback are at an impasse over a new deal."
     }
   ],
   "tech": [
@@ -520,15 +520,6 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
-    },
-    {
-      "rank": 6,
       "title": "Disclosure Day",
       "year": "2026",
       "cert": "12A",
@@ -537,7 +528,7 @@
       "url": "https://www.themoviedb.org/movie/1275779"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
@@ -546,13 +537,13 @@
       "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
-      "rank": 8,
-      "title": "Supergirl",
+      "rank": 7,
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
