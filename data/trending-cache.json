@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-30T20:41:25.168Z",
+  "updated": "2026-08-30T23:15:52.804Z",
   "news": [
+    {
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/29/2026, 9:22:21 PM",
+      "desc": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+    },
+    {
+      "title": "Search under way for vessel in distress in English Channel",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czeznrgyd1go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2527/live/350634f0-a3ea-11f1-b38d-8903e6e81c24.jpg",
+      "published": "8/29/2026, 9:07:23 PM",
+      "desc": "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says."
+    },
     {
       "title": "Norway's Haakon remembers 'my dear father' in first speech as king",
       "source": "BBC News",
@@ -34,14 +50,6 @@
       "desc": "The capital is not set to vote on a new mayor until 2028."
     },
     {
-      "title": "Royal Navy warships and helicopter track Russian vessels in three-day operation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93e88jzn54o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a833/live/9b14df80-a39f-11f1-bb7c-3b1918839019.jpg",
-      "published": "8/29/2026, 12:37:22 PM",
-      "desc": "HMS Duncan, HMS St Albans and HMS Severn used radars to monitor four vessels as they passed through the North Sea and English Channel last week."
-    },
-    {
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
@@ -56,17 +64,89 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg",
       "published": "8/29/2026, 11:22:21 AM",
       "desc": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
-    },
-    {
-      "title": "Festival organisers 'devastated' as man dies after sign falls",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg",
-      "published": "8/29/2026, 7:52:23 AM",
-      "desc": "Police say at least six other people were also injured in the incident at the Big Church Festival."
     }
   ],
   "sports": [
+    {
+      "title": "Filip Hrgovic stuns Moses Itauma to win IBF heavyweight title - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/boxing/story/_/id/49761152/filip-hrgovic-vs-moses-itauma-ibf-heavyweight-title-fight",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0829%2Fr1708739_1296x729_16%2D9.jpg",
+      "published": "8/29/2026, 11:15:00 PM",
+      "desc": "Filip Hrgovic produced a courageous performance to stop Moses Itauma in Round 9 of their title contest to become Croatia's first ever heavyweight world champion on Saturday."
+    },
+    {
+      "title": "Itauma vs Hrgovic: Briton punches himself out and is stopped in round nine",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "published": "8/29/2026, 11:07:22 PM",
+      "desc": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London."
+    },
+    {
+      "title": "Mikaela Mayer v Chantelle Cameron: Brit wins to become unified light-middleweight champion",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/boxing/articles/c4gq47745peo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3075/live/1cfb9960-a3f2-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/29/2026, 10:52:19 PM",
+      "desc": "Chantelle Cameron produced one of the finest displays of her career to beat Mikaela Mayer and add the WBA and WBC light middleweight titles to her WBO belt."
+    },
+    {
+      "title": "Arthur Fery beaten in Winston-Salem Open final by Ignacio Buse",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cnvl3m06j6po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/63be/live/b1466d50-a3ef-11f1-863f-8dae62681d3a.jpg",
+      "published": "8/29/2026, 10:37:24 PM",
+      "desc": "Arthur Fery misses out on his first ATP Tour title with a straight-set defeat by Ignacio Buse in the final of the Winston-Salem Open."
+    },
+    {
+      "title": "Spurs 0-2 Newcastle: Magpies show there's plenty of life after Tonali",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c14d0elejzdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f7b4/live/0de06300-a3ea-11f1-b38d-8903e6e81c24.jpg",
+      "published": "8/29/2026, 10:37:23 PM",
+      "desc": "Newcastle United sold Sandro Tonali to Tottenham Hotspur, but the club look to have reinvested the money wisely following United's 2-0 win in north London."
+    },
+    {
+      "title": "Tottenham 0-2 Newcastle: Roberto de Zerbi not panicking but old failings haunt Spurs",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/clyqn158n5jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/496a/live/c01cf330-a3ef-11f1-863f-8dae62681d3a.jpg",
+      "published": "8/29/2026, 10:37:17 PM",
+      "desc": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic."
+    },
+    {
+      "title": "Sources: Cowboys acquire OT Jones in exchange for two draft picks - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0501%2Fr1651739_1296x729_16%2D9.jpg",
+      "published": "8/29/2026, 10:35:13 PM",
+      "desc": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-rounder to the Cowboys in exchange for a future third- and sixth-round pick, sources told ESPN."
+    },
+    {
+      "title": "Jaguars Acquire QB Quinn Ewers In Trade With Dolphins",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/jaguars-acquire-qb-quinn-ewers-trade-dolphins",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/quinn_ewers_horizontal.jpg?ve=1&tl=1",
+      "published": "8/29/2026, 9:52:26 PM",
+      "desc": "The Jacksonville Jaguars traded for quarterback Quinn Ewers from the Miami Dolphins on Saturday."
+    },
+    {
+      "title": "David Moyes: Everton manager on fans' anger at potential Harrison Armstrong sale",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d0c/live/764885c0-a3d2-11f1-aed2-8d6da8d75094.jpg",
+      "published": "8/29/2026, 9:07:22 PM",
+      "desc": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth."
+    },
+    {
+      "title": "Crow-Armstrong bolsters NL MVP case with 1st career 3-HR game - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49765489/crow-armstrong-bolsters-nl-mvp-case-1st-career-3-hr-game",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0829%2Fr1708686_1296x729_16%2D9.jpg",
+      "published": "8/29/2026, 9:02:52 PM",
+      "desc": "Cubs star Pete Crow-Armstrong bolstered his case for NL MVP honors on Saturday, slugging three home runs against the Reds at Wrigley Field in Chicago."
+    },
     {
       "title": "Rays Set For New $2.3B Stadium Project After County, City Approve Financing Plan",
       "source": "Fox Sports",
@@ -116,30 +196,6 @@
       "desc": "New quarterback Billy Edwards Jr. threw for 232 yards as North Carolina opened coach Bill Belichick's second season with a 15-10 win over TCU on a rainy Saturday in Ireland."
     },
     {
-      "title": "Itauma vs Hrgovic LIVE:  Boxing fight UK time, ring walk, undercard, results & radio commentary",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/live/c5vgy3pk11x0t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/98eb/live/6a8361b0-9fb8-11f1-b703-13ae65ccf6b5.png",
-      "published": "8/29/2026, 7:52:36 PM",
-      "desc": "Follow live text coverage of Moses Itauma vs Filip Hrgovic for the vacant IBF heavyweight title and Mikaela Mayer vs Chantelle Cameron in a light-middleweight world title unification clash."
-    },
-    {
-      "title": "Tottenham Hotspur v Newcastle: How the players rated",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg",
-      "published": "8/29/2026, 7:52:29 PM",
-      "desc": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match."
-    },
-    {
-      "title": "Tottenham 0-2 Newcastle: First Premier League win for boss Matthias Jaissle",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crjw5316vlzgt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6979/live/903af320-a3d5-11f1-9323-c53d27c293d7.jpg",
-      "published": "8/29/2026, 7:52:28 PM",
-      "desc": "Newcastle manager Matthias Jaissle claims his first Premier League victory with goals from Anthony Elanga and Yoane Wissa at Tottenham Hotspur - who lose their second league game this season."
-    },
-    {
       "title": "Martina's 12 Ks lead Curaçao over Japan and into LLBWS title game - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/espn/story/_/id/49764719/martina-12-ks-lead-curacao-japan-llws-title-game",
@@ -148,78 +204,46 @@
       "desc": "Jaymiëll Martina struck out 12 batters and added an RBI double to help Curaçao defeat Japan 4-0 on Saturday to advance to the Little League Baseball World Series title game."
     },
     {
-      "title": "Dolphins' Hafley says success won't be defined by winning - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49764367/dolphins-hafley-says-success-defined-winning",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0721%2Fr1692187_2_1296x729_16%2D9.jpg",
-      "published": "8/29/2026, 6:58:03 PM",
-      "desc": "Dolphins coach Jeff Hafley said he won't measure the team's success this season by wins and loses."
-    },
-    {
-      "title": "Coventry 0-1 Hull: 'Not bad for the worst team in Premier League history'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbf7/live/bfc7b900-a3c8-11f1-be9a-77d4a3f49115.jpg",
-      "published": "8/29/2026, 6:22:20 PM",
-      "desc": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games."
-    },
-    {
       "title": "South Africa 33-26 New Zealand: Springboks level 'Rugby's Greatest Rivalry' series",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg",
       "published": "8/29/2026, 6:22:17 PM",
       "desc": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1."
-    },
-    {
-      "title": "How to Watch Red Sox vs. Yankees: TV Channel, Live Stream, Time",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/how-to-watch-boston-red-sox-vs-new-york-yankees-tv-channel-live-stream-august-29-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/how-to-watch-boston-red-sox-vs-new-york-yankees-horizontal.png?ve=1&tl=1",
-      "published": "8/29/2026, 5:52:23 PM",
-      "desc": "Learn which TV channel or how to live stream the Boston Red Sox and New York Yankees MLB game."
-    },
-    {
-      "title": "MLB Schedule Today: How to Watch, TV, Streaming for Sat. July 29",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-schedule-today-how-watch-tv-streaming-sat-july-29",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/gettyimages-2291741084.jpg?ve=1&tl=1",
-      "published": "8/29/2026, 5:52:22 PM",
-      "desc": "Today's MLB schedule features Orioles-Rangers, Guardians-White Sox and Tigers-Giants on FOX. See how to watch and stream every game."
-    },
-    {
-      "title": "2026 NASCAR Odds: Joey Logano Favored For Regular-Season Finale At Daytona",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-daytona-coke-zero-sugar-400",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/03/1294/728/joey-logano_phx_broadcast-booth.jpg?ve=1&tl=1",
-      "published": "8/29/2026, 5:52:21 PM",
-      "desc": "Joey Logano is favored to win the Cup regular-season finale at Daytona, but Ryan Preece could be one to watch. Here are the latest odds."
-    },
-    {
-      "title": "Mets Activate Juan Soto From Injured List After 1-Month Absence",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/juan-soto-return-mets-activate-star-outfielder",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/juan.jpg?ve=1&tl=1",
-      "published": "8/29/2026, 5:52:20 PM",
-      "desc": "The New York Mets activated star outfielder Juan Soto from the injured list on Saturday after a one-month absence."
-    },
-    {
-      "title": "Itauma vs Hrgovic predictions: IBF heavyweight title fight predictions from fighters and pundits",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/c5ye30735xpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50c4/live/39404390-a2d6-11f1-941c-8741c1a72471.jpg",
-      "published": "8/29/2026, 5:37:22 PM",
-      "desc": "Figures from the boxing world give their predictions for Saturday's heavyweight world title fight between Moses Itauma and Filip Hrgovic."
     }
   ],
   "tech": [
     {
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-      "image": "https://images.axios.com/qhcf30-AQP9rUCSe_T43DXl9xoY=/0x81:5472x3159/1366x768/2026/08/29/1788019156066.jpeg",
-      "published": "8/29/2026, 4:14:27 PM",
-      "desc": "The suit is likely the opening salvo in what promises to be a long battle over intellectual property."
+      "title": "Sonic Team head talks possibility of Sonic Mania 2 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/sonic-team-head-talks-possibility-of-sonic-mania-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Mania-sequel.jpg",
+      "published": "8/29/2026, 10:05:22 PM",
+      "desc": "There’s no sign of Sonic Mania 2 happening anytime soon, but Sonic Team head Takazhi Iizuka has left the door open to the possibility. Believe it or not, Sonic Mania is coming close to its tenth anniversary. The title launched in 2017 and many fans had hoped …"
+    },
+    {
+      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+      "image": "https://images.pushsquare.com/51d6d8a618495/large.jpg",
+      "published": "8/29/2026, 7:00:00 PM",
+      "desc": "AI don't really like it"
+    },
+    {
+      "title": "“We’re aware,” Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11-KB5120998-issue.jpg",
+      "published": "8/29/2026, 5:40:32 PM",
+      "desc": "Windows 11's biggest update KB 5120998 is breaking mouse cursors, Microsoft admits the issue, and confirms it's investigating."
+    },
+    {
+      "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+      "image": "https://assets-prd.ignimgs.com/2026/08/29/vlcsnap-2026-08-29-08h23m26s892-1788017311724.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "8/29/2026, 3:58:06 PM",
+      "desc": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build."
     },
     {
       "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
@@ -228,6 +252,14 @@
       "image": "https://helios-i.mashable.com/imagery/articles/06n9JuEzFp552mMFTcQ36z2/hero-image.fill.size_1200x675.v1787950852.png",
       "published": "8/29/2026, 3:37:44 PM",
       "desc": "Bonus: Learn about the best iOS 27 features you need to try out ASAP."
+    },
+    {
+      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "8/29/2026, 2:48:00 PM",
+      "desc": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence..."
     },
     {
       "title": "The ‘Iron Man’ Game Lives, And Its First Look Leaked - Gizmodo",
@@ -244,30 +276,6 @@
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-roundup-header-new.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "published": "8/29/2026, 2:25:56 PM",
       "desc": "GTA 6's first gameplay reveal drew more than 3.97 million peak viewers across platforms, according to new data from Streams Charts."
-    },
-    {
-      "title": "Why Rockstar Has Said Nothing About ‘GTA 6 Online’ So Far - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/29/why-rockstar-has-said-nothing-about-gta-6-online-so-far/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a92e7ea25f846817e9ecbdb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published": "8/29/2026, 2:18:35 PM",
-      "desc": "Rockstar has now opened the doors to \"Grand Theft Auto 6\" previews, but they have not and wil not talk about \"GTA 6 Online\" or its release date. Why?"
-    },
-    {
-      "title": "Gamescom's Response To Stolen Laptops Gets Community Noted - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
-      "image": "https://kotaku.com/app/uploads/2026/08/Gamescom-meeting-area-official-image-from-Gamescom-website.jpg",
-      "published": "8/29/2026, 1:39:18 PM",
-      "desc": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's also options to pay extra for 'individual stand security'"
-    },
-    {
-      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
-      "image": "https://images.macrumors.com/t/hW1iPDKXGFnLOV-NGD7vxP3IV-E=/1600x/article-new/2026/08/top-stories-2026-08-29.jpg",
-      "published": "8/29/2026, 1:00:00 PM",
-      "desc": "It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several..."
     }
   ],
   "education": [
@@ -357,21 +365,21 @@
     },
     {
       "rank": 3,
-      "title": "9 To 5",
-      "artist": "Dolly Parton",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/f6/97/77f6972f-613e-c441-2cc0-a8f7dfa5af1e/mzaf_15037309815032133767.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/9-to-5/283305967?i=283305973&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%209%20To%205"
-    },
-    {
-      "rank": 4,
       "title": "Islands In the Stream",
       "artist": "Kenny Rogers & Dolly Parton",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/a8/6c/b3a86cc0-cf93-1b0f-92bc-7e7f8b0d8be7/mzaf_1255120429992765576.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/islands-in-the-stream/283305967?i=283305976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kenny%20Rogers%20%26%20Dolly%20Parton%20Islands%20In%20the%20Stream"
+    },
+    {
+      "rank": 4,
+      "title": "9 To 5",
+      "artist": "Dolly Parton",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/f6/97/77f6972f-613e-c441-2cc0-a8f7dfa5af1e/mzaf_15037309815032133767.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/9-to-5/283305967?i=283305973&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%209%20To%205"
     },
     {
       "rank": 5,
@@ -429,15 +437,6 @@
     },
     {
       "rank": 11,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 12,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
@@ -446,16 +445,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 13,
-      "title": "Inside My Soul",
-      "artist": "SK.music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "title": "Homewrecker",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
@@ -464,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     },
     {
+      "rank": 13,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 14,
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
+    },
+    {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "Babydoll",
+      "artist": "Jamie Miller",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     }
   ],
   "movies": [
@@ -512,12 +520,12 @@
     },
     {
       "rank": 5,
-      "title": "Project Hail Mary",
+      "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     }
   ],
   "tv": [
