@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-01T21:38:06.002Z",
+  "updated": "2026-09-01T23:50:50.574Z",
   "news": [
+    {
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cce4/live/57303e30-a567-11f1-86d4-95b193638b63.jpg",
+      "published": "8/31/2026, 10:52:31 PM",
+      "desc": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted."
+    },
+    {
+      "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd684219x6do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
+      "published": "8/31/2026, 10:52:23 PM",
+      "desc": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy."
+    },
     {
       "title": "World Cup: Joshua Kushner express regret in involvement in scrapped private investment plan",
       "source": "BBC News",
@@ -48,25 +64,113 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg",
       "published": "8/31/2026, 5:07:25 PM",
       "desc": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name."
-    },
-    {
-      "title": "Northern Cyprus ferry: Couple's children missing after vessel capsizes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
-      "published": "8/31/2026, 3:37:23 PM",
-      "desc": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
-    },
-    {
-      "title": "Sir Mel Stride replaced as shadow chancellor amid Conservatives reshuffle",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53e3/live/f4e7e050-a536-11f1-a492-cfe8e2df591b.jpg",
-      "published": "8/31/2026, 12:37:32 PM",
-      "desc": "Andrew Griffith will take over the role as part of Kemi Badenoch's shadow cabinet reshuffle."
     }
   ],
   "sports": [
+    {
+      "title": "Troy Deeney's Team of the Week: Erling Haaland, Rayan Cherki, Joao Pedro, Bruno Fernandes",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e043/live/42367b60-a58b-11f1-b109-879e35c24276.png",
+      "published": "8/31/2026, 11:37:19 PM",
+      "desc": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
+    },
+    {
+      "title": "Mikel Arteta: Arsenal boss joins elite list of managers, but where does he rank?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg",
+      "published": "8/31/2026, 11:37:16 PM",
+      "desc": "At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge."
+    },
+    {
+      "title": "Bukayo Saka’s Lone Goal Keeps Arsenal Undefeated In Premier League",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/bukayo-sakas-lone-goal-keeps-arsenal-undefeated-premier-league",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/saka1.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 11:37:14 PM",
+      "desc": "A second-half goal from Bukayo Saka has given Arsenal a 1-0 win over Aston Villa in the Premier League."
+    },
+    {
+      "title": "US Open 2026 results: Carlos Alcaraz beats Roman Safiullin on singles return - how did defending champion look?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cm2m3484v4xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7824/live/30db6a50-a587-11f1-b109-879e35c24276.jpg",
+      "published": "8/31/2026, 11:22:21 PM",
+      "desc": "After a 139-day wait, Carlos Alcaraz makes a winning return to the singles court as he beats Roman Safuillin in the US Open first round."
+    },
+    {
+      "title": "USA's Folarin Balogun Reportedly Nearing Premier League Return With Everton",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/usas-folarin-balogun-reportedly-nearing-premier-league-return-everton",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/b791699a-balogun1.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 11:07:22 PM",
+      "desc": "Folarin Balogun is nearing a return to the Premier League."
+    },
+    {
+      "title": "Lamine Yamal, Raphinha Combine For 4 Goals As Barcelona Stays Perfect In LaLiga",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lamine-yamal-raphinha-combine-4-goals-barcelona-stay-perfect-laliga",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/yamal1-1.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 11:07:20 PM",
+      "desc": "Lamine Yamal and Raphinha both scored a brace and English winger Anthony Gordon grabbed two assists as Barcelona beat Rayo Vallecano 5-2 to record its 21st consecutive home victory."
+    },
+    {
+      "title": "Lionel Messi Has Said Goodbye To Argentina Before; This Time It's For Good",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-has-said-goodbye-argentina-before-time-its-good",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-11-4.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 10:22:21 PM",
+      "desc": "By coming back from international retirement not once but twice, Lionel Messi — who walked away from Argentina's team for good on Monday — gave soccer fans around the world an enormous gift."
+    },
+    {
+      "title": "Shedeur Sanders On Trade Block? What Execs, Scouts Think About Browns QB Situation",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/shedeur-sanders-trade-block-what-execs-scouts-think-about-browns-qb-situation",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-1-57.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 10:22:18 PM",
+      "desc": "What do people around the league make of the Browns' situation? Here's what we learned from our conversations."
+    },
+    {
+      "title": "2026 CFP Title Odds: Ohio State Favored Entering Week 1",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-cfp-title-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/cfp-odds.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 10:22:15 PM",
+      "desc": "College football is here. See the odds to win the National Championship heading into Week 1."
+    },
+    {
+      "title": "Barcelona vs Rayo Vallecano: Spanish La Liga stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cq3d7vy8ye01t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7d1e/live/a5336130-a584-11f1-a291-b542ee92de7c.jpg",
+      "published": "8/31/2026, 10:07:24 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Barcelona vs Rayo Vallecano in the Spanish La Liga"
+    },
+    {
+      "title": "Tennessee Football Announces Helmet Sticker To Remember Late Country Icon Dolly Parton",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/tennessee-football-announces-helmet-sticker-remember-late-country-icon-dolly-parton",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/tennessee.jpg?ve=1&tl=1",
+      "published": "8/31/2026, 9:52:19 PM",
+      "desc": "The Tennessee Volunteers are honoring Dolly Parton with a helmet sticker this season."
+    },
+    {
+      "title": "Tsitsipas: Kyrgios' cocaine suspension 'pretty much expected' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49787134/stefanos-tsitsipas-says-nick-kyrgios-cocaine-suspension-was-pretty-much-expected",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0831%2Fr1709707_1296x729_16%2D9.jpg",
+      "published": "8/31/2026, 9:48:06 PM",
+      "desc": "Stefanos Tsitsipas was not surprised that Nick Kyrgios was suspended from tennis for drugs. \"Pretty much expected, to be honest,\" Tsitsipas said. \"I am surprised it came so late, though.\""
+    },
+    {
+      "title": "Enzo Fernandez: Manchester City open talks with Chelsea over move for Argentina midfielder",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckgvrlme148o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d06d/live/6a65f2f0-a57c-11f1-ab36-5701eb724375.jpg",
+      "published": "8/31/2026, 9:37:22 PM",
+      "desc": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez."
+    },
     {
       "title": "Aston Villa v Arsenal: How the players rated in the Gunners' narrow victory",
       "source": "BBC Sport",
@@ -92,20 +196,12 @@
       "desc": "Check out how the odds to win the 2026 NFL Defensive Player of the Year award have shifted amid Aaron Donald's return."
     },
     {
-      "title": "Football gossip: Fernandez, Fofana , Alvarez, Woltemade, Fernandez-Pardo, Danso, Ndiaye, Nwaneri",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cwyz130nxkro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4517/live/af6c8f00-a575-11f1-b109-879e35c24276.png",
-      "published": "8/31/2026, 8:37:27 PM",
-      "desc": "Manchester City open talks with Chelsea to sign Enzo Fernandez, Arsenal explore move for Malick Fofana, Gunners also still interested in signing Julian Alvarez, plus more."
-    },
-    {
-      "title": "Healthy again, Carlos Alcaraz returns to US Open with win - ESPN",
+      "title": "Sources: Folarin Balogun joining Everton in deal worth up to $54M - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49786319/healthy-again-carlos-alcaraz-returns-us-open-win",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0831%2Fr1709662_1024x576_16%2D9.jpg",
-      "published": "8/31/2026, 8:19:30 PM",
-      "desc": "Carlos Alcaraz returned to the US Open and looked healthy enough for a run at a repeat, beating Roman Safiullin 6-4, 6-4, 6-4 on Monday."
+      "url": "https://www.espn.com/soccer/story/_/id/49783677/everton-deal-usmnt-forward-folarin-balogun-sources",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0812%2Fr1700903_1296x729_16%2D9.jpg",
+      "published": "8/31/2026, 8:32:00 PM",
+      "desc": "Everton are closing in on a move for Folarin Balogun after submitting a £35 million offer ($47.5m) for the AS Monaco forward, sources have told ESPN."
     },
     {
       "title": "Cowboys waive Joe Milton III, name Sam Howell backup QB - ESPN",
@@ -114,105 +210,25 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0823%2Fr1535492_1296x729_16%2D9.jpg",
       "published": "8/31/2026, 8:13:21 PM",
       "desc": "The Cowboys named Sam Howell as the team's backup QB after waiving Joe Milton III on Monday to make room for free agent RB Emari Demercado."
-    },
-    {
-      "title": "Why Todd Monken Feels The Browns Are The Right Team For 1st Head Coach Opportunity",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/why-todd-monken-feels-browns-right-team-1st-head-coach-opportunity",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/723c167e-liveblog-16x92-1.jpg?ve=1&tl=1",
-      "published": "8/31/2026, 8:07:29 PM",
-      "desc": "Todd Monken is getting a rare chance to be a first-time NFL head coach in his 60s, and the Browns coach is glad his journey took so long."
-    },
-    {
-      "title": "Running for Something Bigger: Nate Frazier Pours His Soul Into Every Yard For Georgia",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/running-something-bigger-nate-frazier-pours-his-soul-every-yard-georgia",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/georgia.jpg?ve=1&tl=1",
-      "published": "8/31/2026, 8:07:27 PM",
-      "desc": "Georgia running back Nate Frazier feels his college career is passing too quickly as he prepares for the start of his junior season."
-    },
-    {
-      "title": "Broncos' Cooper pleads not guilty to domestic violence charges - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49786038/broncos-cooper-pleads-not-guilty-domestic-violence-charges",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0831%2Fr1709640_1296x729_16%2D9.jpg",
-      "published": "8/31/2026, 8:00:47 PM",
-      "desc": "Broncos outside linebacker Jonathon Cooper pleaded not guilty to multiple domestic violence charges Monday in a Douglas County (Colorado) courtroom."
-    },
-    {
-      "title": "Steelers won't negotiate with CB Joey Porter Jr. during season - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49785992/steelers-negotiate-cb-joey-porter-jr-season",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0912%2Fr1544507_1296x729_16%2D9.jpg",
-      "published": "8/31/2026, 7:55:32 PM",
-      "desc": "The Steelers say their longtime policy of not negotiating contracts in-season will stand when it comes to cornerback Joey Porter Jr., who is in the final year of his rookie deal."
-    },
-    {
-      "title": "Tears, Triumph And A Heroic Last Dance: Lionel Messi Gave Argentina Everything He Had",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/tears-triumph-heroic-last-dance-lionel-messi-gave-argentina-everything-he-had",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/artboard-11-3.jpg?ve=1&tl=1",
-      "published": "8/31/2026, 7:52:16 PM",
-      "desc": "Lionel Messi and Argentina are over, but the memories of what was earned will forever remain."
-    },
-    {
-      "title": "Baltimore Orioles claim Luis Robert Jr. from New York Mets - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49785690/baltimore-orioles-claim-luis-robert-jr-new-york-mets",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0831%2Fr1709621_1296x729_16%2D9.jpg",
-      "published": "8/31/2026, 7:43:36 PM",
-      "desc": "The Baltimore Orioles claimed veteran outfielder Luis Robert Jr. from the New York Mets on Monday, as they enter September in a battle for the final American League Wild Card spot."
-    },
-    {
-      "title": "US Open 2026 results: Aryna Sabalenka beats Camila Osorio to begin 'three-peat' bid",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/c4gm3pzl7ypo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/097c/live/872e0270-a567-11f1-86d4-95b193638b63.jpg",
-      "published": "8/31/2026, 7:22:23 PM",
-      "desc": "Aryna Sabalenka blocks out the noise to overcome a tricky first-round test against Camila Osorio and begin her bid for a historic US Open \"three-peat\"."
-    },
-    {
-      "title": "Iliman Ndiaye: Manchester City agree £65m deal for Everton forward",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c80453nj9gno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba19/live/ebb61b20-a56b-11f1-8f30-e94f64328ff4.jpg",
-      "published": "8/31/2026, 7:22:19 PM",
-      "desc": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton."
-    },
-    {
-      "title": "Looking Back At Lionel Messi's Historic World Cup Career",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-argentina-world-cup-legacy",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/16x9messi-goat.jpg?ve=1&tl=1",
-      "published": "8/31/2026, 7:07:24 PM",
-      "desc": "With Lionel Messi announcing his international retirement, let's look back at his legendary World Cup career with Argentina."
-    },
-    {
-      "title": "LSU's Lane Kiffin says his players endorse pursing ex-NFLers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49785035/lsu-lane-kiffin-says-players-endorse-pursing-ex-nflers",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0810%2Fr1699949_1296x729_16%2D9.jpg",
-      "published": "8/31/2026, 7:00:09 PM",
-      "desc": "LSU coach Lane Kiffin said his players have endorsed the decision to pursue former NFL rookies, making him feel better about the whole thing."
-    },
-    {
-      "title": "Inside The Garage: Did Pato O'Ward Wins, Milwaukee Podiums Indicate Who's Next?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/inside-garage-did-pato-oward-wins-milwaukee-challenge-alex-palou",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/47c6802c-artboard-1-32.jpg?ve=1&tl=1",
-      "published": "8/31/2026, 6:52:17 PM",
-      "desc": "Did Pato O'Ward's magical weekend at Milwaukee indicate that he's the driver who could challenge Alex Palou for INDYCAR's title next season?"
-    },
-    {
-      "title": "Lionel Messi retires: How Argentina legend's decade of dominance almost never happened",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efcf/live/3e629830-a558-11f1-9acf-19576105f049.jpg",
-      "published": "8/31/2026, 6:37:21 PM",
-      "desc": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories."
     }
   ],
   "tech": [
+    {
+      "title": "The Bentley Supersports: A stripped-out engineer’s indulgence - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+      "published": "8/31/2026, 11:01:16 PM",
+      "desc": "It's the lightest Bentley in 85 years."
+    },
+    {
+      "title": "The Google TV Streamer now costs $50 more - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "8/31/2026, 10:32:51 PM",
+      "desc": "Google has increased the price of its Google TV Streamer to $149, two years after the 4K streaming box launched."
+    },
     {
       "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
       "source": "The Washington Post",
@@ -228,22 +244,6 @@
       "image": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg",
       "published": "8/31/2026, 9:45:00 PM",
       "desc": "Here we go again"
-    },
-    {
-      "title": "Google TV Streamer gets $50 price increase - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/31/google-tv-streamer-increase/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-2.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "8/31/2026, 9:08:00 PM",
-      "desc": "Google has quietly raised the price of the Google TV Streamer to $149.99."
-    },
-    {
-      "title": "Microsoft Outlook outage reported by thousands of users on Monday - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/microsoft-outlook-outage-aug-31",
-      "image": "https://helios-i.mashable.com/imagery/articles/03Nqnn5qPnDFZMOvlZoCbj9/hero-image.fill.size_1200x675.v1788200663.png",
-      "published": "8/31/2026, 8:15:00 PM",
-      "desc": "Is Microsoft Outlook down? Here's what we know about the outage."
     },
     {
       "title": "Mega Squads Event Guide: Maschiff, Shiny Flamigo, and New Super Megas - Pokémon GO Hub",
@@ -262,20 +262,20 @@
       "desc": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online."
     },
     {
-      "title": "ASUS details ProArt P14 RTX Spark laptop, configurations start with 24GB unified memory - VideoCardz.com",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/asus-details-proart-p14-rtx-spark-laptop-configurations-start-with-24gb-unified-memory",
-      "image": "https://cdn.videocardz.com/1/2026/08/ASUS-RTX-SPARK-LAPTOP-HERO.webp",
-      "published": "8/31/2026, 6:21:32 PM",
-      "desc": "ASUS has published full ProArt P14 specifications, confirming RTX Spark configurations with 24GB, 32GB, 48GB, 64GB and 128GB of unified memory."
+      "title": "Microsoft tests fix for latest hours-long Outlook outage - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800",
+      "published": "8/31/2026, 6:56:41 PM",
+      "desc": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures."
     },
     {
-      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
-      "image": "https://images.macrumors.com/t/yCwNBKDvPvmRxaHtmlMqU-6TcPs=/2500x/article-new/2025/06/Mac-Studio-Feature.jpg",
-      "published": "8/31/2026, 6:19:11 PM",
-      "desc": "Apple's press release for the new Mac Studio with M5 Max and M5 Ultra chips last week initially stated that the computer had \"next-generation..."
+      "title": "iPhone Ultra release timing: Here’s what the latest reporting says - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "8/31/2026, 6:55:00 PM",
+      "desc": "Apple will unveil its foldable iPhone Ultra next week at the September event, here’s what to expect from release timing after that."
     }
   ],
   "education": [
@@ -383,21 +383,21 @@
     },
     {
       "rank": 5,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 6,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/19/59/3719593a-1c8a-e1e1-ca9d-2e8f358593d5/mzaf_8805471580179932113.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 7,
@@ -410,21 +410,21 @@
     },
     {
       "rank": 8,
-      "title": "Here You Come Again",
-      "artist": "Dolly Parton",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/c1/0b/a0c10b1a-9e27-8a35-e21b-fb2a499349cf/mzaf_9277088831192612800.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/here-you-come-again/283305967?i=283305980&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%20Here%20You%20Come%20Again"
-    },
-    {
-      "rank": 9,
       "title": "I Will Always Love You",
       "artist": "Dolly Parton",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/1b/e5/601be525-cce7-fc37-8f12-a84902f5e159/mzaf_2487162071691323639.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/i-will-always-love-you/283305967?i=283305974&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%20I%20Will%20Always%20Love%20You"
+    },
+    {
+      "rank": 9,
+      "title": "Here You Come Again",
+      "artist": "Dolly Parton",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/c1/0b/a0c10b1a-9e27-8a35-e21b-fb2a499349cf/mzaf_9277088831192612800.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/here-you-come-again/283305967?i=283305980&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%20Here%20You%20Come%20Again"
     },
     {
       "rank": 10,
@@ -455,12 +455,12 @@
     },
     {
       "rank": 13,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     },
     {
       "rank": 14,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Scandinavian Eyes",
-      "artist": "Europe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/2b/e6/262be63d-2afd-3cc6-08a8-47899e42aaca/5026854807676.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/e8/33/96e8336c-dc56-5354-b88b-10b6c46a1480/mzaf_17293717241787580942.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/scandinavian-eyes/1894015990?i=6762388028&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Europe%20Scandinavian%20Eyes"
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     }
   ],
   "movies": [
