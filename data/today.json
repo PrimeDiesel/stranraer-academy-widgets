@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-02T09:45:31.456Z",
-  "day": 244,
+  "generated": "2026-09-03T09:58:01.360Z",
+  "day": 245,
   "movie": {
-    "title": "Shazam!",
+    "title": "Disenchanted",
     "safe": true,
-    "cert": "12A",
-    "source": "tmdb-uk",
-    "year": "2019",
-    "plot": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
-    "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
-    "genre": "",
+    "cert": "PG",
+    "source": "omdb-us",
+    "year": "2022",
+    "plot": "Fifteen years after her happily ever after, Giselle questions her happiness, inadvertently turning the lives of those in the real world and Andalasia upside down in the process.",
+    "poster": "https://image.tmdb.org/t/p/w500/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",
+    "genre": "Animation, Adventure, Comedy",
     "season": null
   },
   "song": {
-    "key": "Buddy Holly-Peggy Sue",
+    "key": "The Killers-Mr. Brightside",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b3/22/7d/b3227d85-f79c-770b-aa55-879a09a436ec/00602567823575.rgb.jpg/600x600bb.jpg",
-    "year": "1958",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/a2/e7/43a2e738-d879-19ca-8590-d3553087cb00/00602498753842.rgb.jpg/600x600bb.jpg",
+    "year": "2003",
     "v": 4
   },
   "album": {
-    "key": "Antonio Vivaldi-The Four Seasons",
+    "key": "M83-Hurry Up, We're Dreaming",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/36/19/86361943-ccdb-c7f4-6c03-d8da70efe537/4895241446191_3000.jpg/600x600bb.jpg",
-    "year": "1993",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/c6/ed/73c6edb3-924c-27f0-28f8-1470906d6780/cover.jpg/600x600bb.jpg",
+    "year": "2011",
     "v": 4
   }
 }
