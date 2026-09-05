@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-04T09:47:07.590Z",
-  "day": 246,
+  "generated": "2026-09-05T09:11:22.065Z",
+  "day": 247,
   "movie": {
-    "title": "A Bug's Life",
+    "title": "Muppet Treasure Island",
     "safe": true,
     "cert": "U",
     "source": "tmdb-uk",
-    "year": "1998",
-    "plot": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
-    "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "year": "1996",
+    "plot": "After telling the story of Flint's last journey to young Jim Hawkins, Billy Bones has a heart attack and dies just as Jim and his friends are attacked by pirates. The gang escapes into the town where they hire out a boat and crew to find the hidden treasure, which was revealed by Bones before he died. On their voyage across the seas, they soon find out that not everyone on board can be trusted.",
+    "poster": "https://image.tmdb.org/t/p/w500/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Sugar Ray-Fly",
+    "key": "James Brown-I Got You (I Feel Good)",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b0/63/mzi.jxkcjulv.jpg/600x600bb.jpg",
-    "year": "1997",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/cb/08/77/cb08773f-5976-890c-3f3f-999f5a4360a0/dj.oytzpihj.jpg/600x600bb.jpg",
+    "year": "1989",
     "v": 4
   },
   "album": {
-    "key": "Ryan Adams-Gold",
+    "key": "Björk-Homogenic",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a0/05/61/a005616c-36b0-ed32-7a18-dc9d09ef4d2c/00008817025223.rgb.jpg/600x600bb.jpg",
-    "year": "2001",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/38/d0/1238d076-0a43-5758-1876-5ab6d256d648/5016958995157.png/600x600bb.jpg",
+    "year": "1997",
     "v": 4
   }
 }
