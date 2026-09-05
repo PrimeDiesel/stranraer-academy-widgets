@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-05T00:39:44.333Z",
+  "updated": "2026-09-05T05:19:41.867Z",
   "news": [
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
+      "published": "9/4/2026, 2:52:17 AM",
+      "desc": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030."
+    },
+    {
+      "title": "Argentine leader says oil firms working off Falklands face sanctions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
+      "published": "9/4/2026, 2:37:18 AM",
+      "desc": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
+    },
+    {
+      "title": "Newspaper headlines: 'Foreign donations sting' and 'Argentina threat to Falklands'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yml8lxx2ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c05a/live/1b1ac820-a7e7-11f1-a291-b542ee92de7c.jpg",
+      "published": "9/4/2026, 1:52:21 AM",
+      "desc": "Reform UK alleged 'foreign donations sting' and Argentine president's looming 'threat' over Falklands are the papers' top stories."
+    },
+    {
+      "title": "'Miracle' eagle with broken wing soars over Scottish coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg",
+      "published": "9/4/2026, 1:22:24 AM",
+      "desc": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast."
+    },
+    {
+      "title": "Jobseekers warned over online interview and recruitment scams",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
+      "published": "9/4/2026, 1:22:22 AM",
+      "desc": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps."
+    },
     {
       "title": "Girl group Katseye are missing two members, but their tour still dazzles",
       "source": "BBC News",
@@ -8,14 +48,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg",
       "published": "9/4/2026, 12:52:24 AM",
       "desc": "Reduced but resilient, girl group Katseye received a hero's welcome in London."
-    },
-    {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
-      "published": "9/4/2026, 12:22:24 AM",
-      "desc": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday."
     },
     {
       "title": "Jackdaw gas field set to be approved as soon as mid-September, sources say",
@@ -32,41 +64,81 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg",
       "published": "9/3/2026, 11:07:24 PM",
       "desc": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
-    },
-    {
-      "title": "Farage senior aide filmed suggesting way to avoid donations law",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/643a/live/23e8e9b0-a7d7-11f1-809e-25fc74c1ec7d.jpg",
-      "published": "9/3/2026, 9:52:20 PM",
-      "desc": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter."
-    },
-    {
-      "title": "British army told to stop non-essential training exercises to save money",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ce6/live/dda514b0-a7c7-11f1-8174-fd95759f3bfe.jpg",
-      "published": "9/3/2026, 8:22:25 PM",
-      "desc": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures."
-    },
-    {
-      "title": "Reform UK promises £80bn of cuts to public spending",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxz4dl1plwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/740c/live/5eadba50-a7bc-11f1-b5cf-8556ae508a51.png",
-      "published": "9/3/2026, 7:07:17 PM",
-      "desc": "Speaking at the party's conference, economy spokesman Robert Jenrick says Reform will be the \"party of fiscal responsibility\"."
-    },
-    {
-      "title": "Falkland Islands: Donald Trump hints US would not back UK over Argentina",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg",
-      "published": "9/3/2026, 4:52:23 PM",
-      "desc": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran."
     }
   ],
   "sports": [
+    {
+      "title": "UMass Delivers Shocking Week 1 Upset Over Rutgers On The Road",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/umass-delivers-shocking-week-1-upset-over-rutgers-road",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/mass.jpg?ve=1&tl=1",
+      "published": "9/4/2026, 4:52:14 AM",
+      "desc": "The UMass Minutemen upset Rutgers 37-21 on the road on Thursday night to open up their 2026 campaign."
+    },
+    {
+      "title": "NFL Catchup: Rams Name Ty Simpson QB3; Cardinals Extend WR Michael Wilson",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-rams-name-ty-simpson-qb3-cardinals-extend-wr-michael-wilson",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/ty-simpson-nfl-catchup.jpg?ve=1&tl=1",
+      "published": "9/4/2026, 4:22:23 AM",
+      "desc": "Here's the latest NFL news around the league on Thursday."
+    },
+    {
+      "title": "US Open 2026 results: Naomi Osaka overcomes blip as Iga Swiatek also progresses",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cj4j55dxyveo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c762/live/d676e880-a7cc-11f1-809e-25fc74c1ec7d.jpg",
+      "published": "9/4/2026, 3:22:23 AM",
+      "desc": "Naomi Osaka recovers from a second-set blip to defeat Katerina Siniakova at the US Open, while fellow former champion Iga Swiatek also progresses."
+    },
+    {
+      "title": "Chris 'The Bear' Fallica's College Football Week 1 Expert Picks, Best Bets",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-college-football-week-1-expert-picks-best-bets",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/best-bets-16x9-bb-1.jpg?ve=1&tl=1",
+      "published": "9/4/2026, 3:07:22 AM",
+      "desc": "\"The Bear\" is back with his expert picks and best bets. Check out what he's wagering for Week 1 of the college football season."
+    },
+    {
+      "title": "Kanter Freedom files suit against Sky, Wintrust Arena owners - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49821028/kanter-freedom-files-suit-sky-wintrust-arena-owners",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706903_1024x576_16%2D9.jpg",
+      "published": "9/4/2026, 3:00:19 AM",
+      "desc": "Enes Kanter Freedom is suing the Chicago Sky and the owners of Wintrust Arena, alleging in a 15-page complaint filed Thursday that his First Amendment rights were violated when he was removed from a Sky home game last month."
+    },
+    {
+      "title": "LSU, Lane Kiffin Cleared To Add Former NFL Players After Louisiana Court Ruling",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/lsu-lane-kiffin-add-former-nfl-players-after-louisiana-court-ruling-tro",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/lane_kiffin_horizontal-1.jpg?ve=1&tl=1",
+      "published": "9/4/2026, 2:52:21 AM",
+      "desc": "A Louisiana judge issued a preliminary injunction against the NCAA and SEC, clearing way for former NFL players to return to college football."
+    },
+    {
+      "title": "Gael Monfils exits US Open with 2nd-round loss to Learner Tien - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49820430/gael-monfils-exits-us-open-2nd-round-loss-learner-tien",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2Fr1711163_2_1296x729_16%2D9.jpg",
+      "published": "9/4/2026, 2:02:58 AM",
+      "desc": "Gael Monfils played his final Grand Slam match Thursday night at the US Open, a battle with Learner Tien that ended in a loss to the talented young American."
+    },
+    {
+      "title": "NFC South Predictions: Can The Panthers Win The Division Again?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfc-south-predictions-can-panthers-win-division-again",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/f1d4bf2d-aj-brown-ftf.jpg?ve=1&tl=1",
+      "published": "9/4/2026, 1:22:19 AM",
+      "desc": "With Week 1 approaching, the First Things First crew of Nick Wright, Chris Broussard and Danny Parkins predicted how the NFC South standings would shake out."
+    },
+    {
+      "title": "Judge grants injunction to pro players seeking LSU return - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49807088/judge-grants-injunction-pro-players-seeking-lsu-return",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0902%2Fr1710610_1296x729_16%2D9.jpg",
+      "published": "9/4/2026, 1:06:00 AM",
+      "desc": "Dae'Quan Wright and Zxavian Harris are currently cleared to return to college football after brief stints in the NFL, according to a judge's orders issued Thursday evening, setting up a dramatic showdown between the SEC and LSU."
+    },
     {
       "title": "Nick Kyrgios cleared to return to tennis after accepting one-month ban for positive cocaine test",
       "source": "BBC Sport",
@@ -116,46 +188,6 @@
       "desc": "Shohei Ohtani was left out of the Dodgers' starting lineup against the Cardinals on Thursday following an 0-4 outing in L.A.'s 8-6 loss to St. Louis on Wednesday at Dodger Stadium."
     },
     {
-      "title": "Football gossip: Vardy, Martial, Zaha, Estevao Willian, Nwaneri, Talbi, Sancho, Martinez",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c62jgzxkjypo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8371/live/86b4d040-a7d7-11f1-b109-879e35c24276.png",
-      "published": "9/3/2026, 10:37:22 PM",
-      "desc": "Everton weigh up moves for Jamie Vardy or Anthony Martial, Wilfried Zaha could join AC Milan, Estevao Willian considers move from Chelsea."
-    },
-    {
-      "title": "49ers, Rams Take Different Approaches To Australia Trip, But Which One Will Work?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-rams-take-different-approaches-australia-trip-which-one-will-work",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/travel-plans.jpg?ve=1&tl=1",
-      "published": "9/3/2026, 10:22:19 PM",
-      "desc": "The 49ers and Rams are taking complete different approaches in their travels to Australia. Here's what a sleep expert thinks who might have an advantage."
-    },
-    {
-      "title": "Clearly Still Hurting, Dodgers Can't Afford This Version of Shohei Ohtani Much Longer",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/clearly-still-hurting-dodgers-cant-afford-version-shohei-ohtani-much-longer",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/ohtani1-1.jpg?ve=1&tl=1",
-      "published": "9/3/2026, 10:07:18 PM",
-      "desc": "A return to pitching should be the last thing on Dodgers' mind as they work to get Shohei Ohtani, the hitter, right again."
-    },
-    {
-      "title": "Marcos Llorente, 31, Announces Shock Retirement From Spain After Winning World Cup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/marcos-llorente-31-announces-shock-retirement-from-spain-after-winning-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/llorente1.jpg?ve=1&tl=1",
-      "published": "9/3/2026, 10:07:16 PM",
-      "desc": "World Cup winner Marcos Llorente retired from Spain's team on Thursday."
-    },
-    {
-      "title": "USA's Next Generation: 12 Youngsters In The Early Mix For The 2030 World Cup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-12-youngsters-early-mix-2030-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/union1.jpg?ve=1&tl=1",
-      "published": "9/3/2026, 9:52:20 PM",
-      "desc": "Left off the USA's 2026 World Cup roster, these 12 Americans are in the early mix for 2030."
-    },
-    {
       "title": "Mark Sanchez plans to plead guilty in Indianapolis assault case - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49818375/mark-sanchez-plans-plead-guilty-indianapolis-assault-case",
@@ -172,47 +204,47 @@
       "desc": "Michael Lombardi has resigned as the GM of the UNC football team, which he had joined when Bill Belichick was hired in late 2024."
     },
     {
-      "title": "How Does The College Football Playoff Work? Everything To Know About The CFP",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/how-does-college-football-playoff-work-everything-know-about-years-cfp",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/cfp-horiz.jpg?ve=1&tl=1",
-      "published": "9/3/2026, 9:07:27 PM",
-      "desc": "Here's everything to know about this year's College Football Playoff, from first-round byes to automatic bids and more."
-    },
-    {
       "title": "Julian Alvarez: How Atletico Madrid must rebuild trust after Barcelona transfer saga",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c07l8n34dleo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36d2/live/e0841460-a7a9-11f1-a291-b542ee92de7c.jpg",
       "published": "9/3/2026, 9:07:18 PM",
       "desc": "How Julian Alvarez must convince supporters his focus is firmly on Atletico Madrid, after his dream move to Barcelona did not happen."
-    },
-    {
-      "title": "US Open: Felix Auger-Aliassime beaten by Karen Khachanov in second round",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/038b/live/9e94d630-a7cb-11f1-809e-25fc74c1ec7d.jpg",
-      "published": "9/3/2026, 8:37:27 PM",
-      "desc": "Canadian third seed Felix Auger-Aliassime is knocked out by Russian Karen Khachanov in the second round of the US Open."
-    },
-    {
-      "title": "Anthony Joshua vs Tyson Fury: London mayor Sadiq Khan wants fight at Wembley",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/cz6zdd8yjzzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a8d/live/4d0eb030-7aba-11f1-9510-1546718f668b.png",
-      "published": "9/3/2026, 8:37:23 PM",
-      "desc": "London Mayor Sadiq Khan says he is \"really keen\" to host the proposed Tyson Fury-Anthony Joshua fight at Wembley Stadium and has urged promoters to get in touch."
-    },
-    {
-      "title": "Brendan Sorsby on gambling addiction: 'A ton of remorse' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49817119/brendan-sorsby-gambling-addiction-ton-remorse",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0529%2Fr1665133_1296x729_16%2D9.jpg",
-      "published": "9/3/2026, 7:23:16 PM",
-      "desc": "Former Texas Tech quarterback Brendan Sorsby expressed remorse for his history of sports betting in a new documentary series behind the scenes of the Red Raiders' turbulent offseason."
     }
   ],
   "tech": [
+    {
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+      "published": "9/4/2026, 1:49:00 AM",
+      "desc": "Nvidia will bring DLSS 5 to RTX 40, but won’t confirm that previously announced DLSS 5 games will still ship with the tech."
+    },
+    {
+      "title": "‘Magic: The Gathering’ Zeta Set Drop Was a ‘Disaster,’ Says Wizards of the Coast - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/magic-the-gathering-zeta-set-drop-was-a-disaster-says-wizards-of-the-coast-2000806927",
+      "image": "https://gizmodo.com/app/uploads/2026/09/magic-the-gathering-zeta-set-thought-scour-crop-1200x675.jpg",
+      "published": "9/3/2026, 10:00:55 PM",
+      "desc": "The Secret Lair platform is no stranger to botched sales, but this one was particularly bad."
+    },
+    {
+      "title": "Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/09/03/xbox-announces-monthly-hour-limits-to-cloud-gaming-are-coming-in-november",
+      "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/03/c3df146d/xbox-cloud-gaming-1.jpg.webp",
+      "published": "9/3/2026, 10:00:00 PM",
+      "desc": "Game Pass subscribers can now only use cloud gaming for a limited number of hours each month. - Game Informer"
+    },
+    {
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
+      "published": "9/3/2026, 10:00:00 PM",
+      "desc": "Ugreen claims its new MagFlow Pro Magnetic Power Bank is the world’s first with a liquid cooling system to reduce heat buildup and prolong the battery’s life."
+    },
     {
       "title": "How to check if Motion Assist has rolled out to your Android 17 phone - 9to5Google",
       "source": "9to5google.com",
@@ -222,12 +254,12 @@
       "desc": "Following the announcement on Tuesday, Google is slowly rolling out Motion Assist to phones running Android 17."
     },
     {
-      "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives - Not a Tesla App",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives",
-      "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automatic-collision-avoidance.webp/8013c2da185d86def59682bdf1c7cddf/automatic-collision-avoidance.jpg",
-      "published": "9/3/2026, 8:36:00 PM",
-      "desc": "Tesla has quietly added a major new active safety capability to its vehicles, turning its autonomous driving software into an emergency crash-prevention tool"
+      "title": "The Weirdest and Wackiest Tech We Found at IFA 2026 - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/26413.jpeg",
+      "published": "9/3/2026, 8:23:00 PM",
+      "desc": "From AI intimate companions to a smartphone for your dog, here’s what raised our eyebrows the most at this year’s IFA."
     },
     {
       "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event - MacRumors",
@@ -238,28 +270,12 @@
       "desc": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches...."
     },
     {
-      "title": "Metagame Mentor: The Top Standard Decks for September 2026's RCQs - magic.gg",
-      "source": "Magic.gg",
-      "url": "https://www.magic.gg/news/metagame-mentor-the-top-standard-decks-for-september-2026s-rcqs",
-      "image": "https://images.ctfassets.net/ryplwhabvmmk/ranSldsrQrYeXbqnZeoG7/c12353bae9c1581c36b61cb8adda15f6/EOE-Icetille-Explorer-960x540.jpg",
-      "published": "9/3/2026, 6:56:15 PM",
-      "desc": "Mono-Green Landfall continues to define the metagame, but new contenders have risen to face the onslaught of rumbling Forests. Here's what to expect at the upcoming Standard RCQs!"
-    },
-    {
-      "title": "UK PS5 and Xbox sales jumped by a third following GTA 6’s Netflix reveal - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/uk-ps5-and-xbox-sales-tripled-following-gta-6s-netflix-reveal/",
-      "image": "https://www.videogameschronicle.com/files/2026/06/a845e05e5b72d1139b526eb826ed026865972e40.jpg",
-      "published": "9/3/2026, 6:40:38 PM",
-      "desc": "PS5 sales were up 33% on GTA 6's reveal week"
-    },
-    {
-      "title": "1Password Users Flee Platform After $300,000 Donation. Should You Run, Too? - All About Cookies",
-      "source": "Allaboutcookies.org",
-      "url": "https://allaboutcookies.org/1password-linux-donation-controversy",
-      "image": "",
-      "published": "9/3/2026, 5:55:32 PM",
-      "desc": ""
+      "title": "Ratchet & Clank's PS5 Re-Release Will Have a Platinum Trophy When It Comes to PS Plus Premium - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/09/ratchet-and-clanks-ps5-re-release-will-have-a-platinum-trophy-when-it-comes-to-ps-plus-premium",
+      "image": "https://images.pushsquare.com/8ed799038a8ea/large.jpg",
+      "published": "9/3/2026, 7:00:00 PM",
+      "desc": "Another reason to replay"
     }
   ],
   "education": [
@@ -412,21 +428,21 @@
     },
     {
       "rank": 10,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 11,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+    },
+    {
+      "rank": 11,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 12,
@@ -439,6 +455,15 @@
     },
     {
       "rank": 13,
+      "title": "Tastes Like Summer",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/43/7f/d9437fd0-a95d-d403-6a93-7c4aa6c0c78b/mzaf_9054198971847575496.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6805055407?i=6805055413&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+    },
+    {
+      "rank": 14,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -447,22 +472,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 14,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
       "rank": 15,
-      "title": "Beginner Boys",
-      "artist": "Simple Minds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/54/a4/1e54a47d-0386-f4e3-e573-004de9d64df8/4099964251142.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/ca/91/68ca9144-381f-242e-a4ef-105a68fd0e11/mzaf_6679518691050181068.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/beginner-boys/6803466727?i=6803466913&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Simple%20Minds%20Beginner%20Boys"
+      "title": "Inside My Soul",
+      "artist": "SK.music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/6b/68/bf6b68bb-b62a-a478-6ae0-b652972ce5b0/883128956318.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/e8/8d/42e88d15-197a-d6b9-b676-5889f9773f17/mzaf_3434829827893910012.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/inside-my-soul/6801523242?i=6801523592&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SK.music%20Inside%20My%20Soul"
     }
   ],
   "movies": [
@@ -486,6 +502,15 @@
     },
     {
       "rank": 3,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -494,13 +519,13 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 4,
-      "title": "Minions & Monsters",
+      "rank": 5,
+      "title": "The Mandalorian and Grogu",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "url": "https://www.themoviedb.org/movie/1228710"
     }
   ],
   "tv": [
@@ -512,15 +537,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
       "overview": "Welcome to The Grand Tour. The world's greatest motoring show returns with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
       "url": "https://www.themoviedb.org/tv/329471"
-    },
-    {
-      "rank": 2,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
