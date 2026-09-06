@@ -1,13 +1,29 @@
 {
-  "updated": "2026-09-06T10:26:38.465Z",
+  "updated": "2026-09-06T13:59:26.317Z",
   "news": [
     {
       "title": "Viral Chicken Shop Date moments that created a YouTube star",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5c/live/bdb95030-a84e-11f1-80f8-c33181935c5a.jpg",
-      "published": "9/5/2026, 10:07:24 AM",
+      "published": "9/5/2026, 1:52:18 PM",
       "desc": "After more than 10 years, Amelia Dimoldenberg announced Chicken Shop Date was shutting up shop."
+    },
+    {
+      "title": "Reform UK winded by donations row as insiders call for shift in approach",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg",
+      "published": "9/5/2026, 1:07:24 PM",
+      "desc": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power."
+    },
+    {
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4d7/live/a14c8c30-a8c8-11f1-b109-879e35c24276.jpg",
+      "published": "9/5/2026, 11:07:21 AM",
+      "desc": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network."
     },
     {
       "title": "Retatutride: How the hunger for a new weight loss drug is feeding an industry of fakes",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb31/live/429d3890-a861-11f1-ae45-e9984fc27c77.png",
       "published": "9/5/2026, 8:52:20 AM",
       "desc": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market."
-    },
-    {
-      "title": "Masked protesters block access at Port of Dover",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/199d/live/38ed4aa0-a902-11f1-8c31-a926c93fae87.jpg",
-      "published": "9/5/2026, 8:22:22 AM",
-      "desc": "Masked protesters are preventing traffic from going in and out of the Port of Dover."
     },
     {
       "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
@@ -56,31 +64,79 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7683/live/0b69b0c0-a897-11f1-b29d-29a1a5e1e667.jpg",
       "published": "9/5/2026, 5:37:19 AM",
       "desc": "The party says the tax cut will be paid for by reducing public spending by £80bn."
-    },
-    {
-      "title": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2060/live/ce15c1b0-a86d-11f1-bbad-43eaf67b94b6.jpg",
-      "published": "9/5/2026, 12:52:23 AM",
-      "desc": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are."
     }
   ],
   "sports": [
+    {
+      "title": "Newcastle United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6jrx89l5eejt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/69fb/live/93a9a2b0-a928-11f1-b4c6-5d3474716d27.jpg",
+      "published": "9/5/2026, 1:52:24 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Newcastle United vs Bournemouth in the Premier League"
+    },
+    {
+      "title": "Scottish Premiership LIVE - Rangers v Motherwell & St Mirren v Celtic - radio, updates, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cm624qpyyw56t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/21b2/live/1db722d0-a603-11f1-b109-879e35c24276.jpg",
+      "published": "9/5/2026, 1:22:15 PM",
+      "desc": "Listen to Sportsound commentary from Ibrox and follow live text coverage of Saturday's Scottish Premiership action."
+    },
+    {
+      "title": "Tadej Pogacar will miss rest of season after Vuelta crash",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c80/live/c8178300-a3dd-11f1-9323-c53d27c293d7.jpg",
+      "published": "9/5/2026, 12:37:20 PM",
+      "desc": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana."
+    },
+    {
+      "title": "Texas Tech vs. Abilene Christian Prediction, Odds, Pick For College Football Week 1",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/texas-tech-vs-abilene-christian-prediction-odds-pick-college-football-week-1",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/2026-09-05-ac-vs-ttu-prediction-1920x1080-1.png?ve=1&tl=1",
+      "published": "9/5/2026, 11:37:18 AM",
+      "desc": "Get the latest odds, prediction and pick for the Week 1 Texas Tech-Abilene Christian game, as well as information on how to watch."
+    },
+    {
+      "title": "Women's Super League LIVE: Chelsea vs Aston Villa - score, TV coverage, radio commentary, text updates & match stats",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cjkg7yr640ezt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6542/live/4d185f10-a91b-11f1-b109-879e35c24276.jpg",
+      "published": "9/5/2026, 11:22:27 AM",
+      "desc": "Watch BBC TV coverage, listen to BBC Radio 5 Sports Extra radio commentary and follow live text updates of Chelsea against Aston Villa in the Women's Super League."
+    },
+    {
+      "title": "How to Watch 2026 INDYCAR Laguna Seca: Schedule, Start Time, TV, Stream",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/how-watch-2026-indycar-laguna-seca-schedule-start-time-tv-stream",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/how-to-watch-indycar-monterey.jpg?ve=1&tl=1",
+      "published": "9/5/2026, 11:22:22 AM",
+      "desc": "Watch the 2026 INDYCAR season finale at Laguna Seca on Sunday, Sept. 6 at 2:30 p.m. ET on FOX and FOX One. See the schedule, streaming and championship details."
+    },
+    {
+      "title": "US Open 2026 results: Serena and Venus Williams prove they can still compete in Grand Slam doubles - but what does the future hold?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cjw5vwlq1n3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6d4f/live/29482390-a8d5-11f1-be3b-5176b67c0c1a.jpg",
+      "published": "9/5/2026, 11:07:32 AM",
+      "desc": "Serena and Venus Williams may have lost in their US Open doubles return, but the veteran pair proved they can still compete on an entertaining night in New York."
+    },
     {
       "title": "F1 practice LIVE: Italian Grand Prix 2026 times, results, radio & updates",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/live/c8ejw95jj4rt",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5eb1/live/619e2b90-a911-11f1-9eff-150801023722.jpg",
-      "published": "9/5/2026, 10:22:28 AM",
+      "published": "9/5/2026, 11:07:30 AM",
       "desc": "Follow live text updates and listen to radio commentary of the third practice session and qualifying for the ItalianGrand Prix."
     },
     {
       "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/cqr7dedzlmjgt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e9bd/live/f02a2cb0-a911-11f1-a291-b542ee92de7c.jpg",
-      "published": "9/5/2026, 10:22:25 AM",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9bf7/live/2fb4b530-a917-11f1-a291-b542ee92de7c.jpg",
+      "published": "9/5/2026, 11:07:25 AM",
       "desc": "Follow BBC Radio 5 Live, Final Score and live text updates as Newcatle United welcome Bournemouth, followed by six other games in the Premier League."
     },
     {
@@ -116,28 +172,12 @@
       "desc": "Get the latest odds, prediction and pick for the Week 1 Penn State-Marshall game, as well as information on how to watch."
     },
     {
-      "title": "US Open 2026 results: Serena and Venus Williams prove they can still compete in Grand Slam doubles - but what does the future hold?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cjw5vwlq1n3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6d4f/live/29482390-a8d5-11f1-be3b-5176b67c0c1a.jpg",
-      "published": "9/5/2026, 10:07:24 AM",
-      "desc": "Serena and Venus Williams may have lost in their US Open doubles return, but the veteran pair proved they can still compete on an entertaining night in New York."
-    },
-    {
       "title": "Iowa vs. Northern Illinois Prediction, Odds, Pick For College Football Week 1",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/iowa-vs-northern-illinois-prediction-odds-pick-college-football-week-1",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/2026-09-05-niu-vs-iowa-prediction-1920x1080-1.png?ve=1&tl=1",
       "published": "9/5/2026, 10:07:24 AM",
       "desc": "Get the latest Iowa vs. Northern Illinois odds, prediction and pick for College Football Week 1, plus kickoff time, TV channel and streaming information."
-    },
-    {
-      "title": "Diamond League results: Amy Hunt continues strong season with third in Diamond League final",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg",
-      "published": "9/5/2026, 9:07:19 AM",
-      "desc": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels."
     },
     {
       "title": "Everton: David Moyes says he has never spoken to owner Dan Friedkin",
@@ -156,14 +196,6 @@
       "desc": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari."
     },
     {
-      "title": "Man Utd made midfield recruitment a summer priority, so what happens now?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c4gq2v5m5gpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a2d7/live/efab2c30-a862-11f1-aed2-8d6da8d75094.jpg",
-      "published": "9/5/2026, 6:52:22 AM",
-      "desc": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?"
-    },
-    {
       "title": "Toney, Mensah shatter Miami records in blowout of Stanford - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/college-football/story/_/id/49832250/toney-mensah-shatter-miami-records-blowout-stanford",
@@ -178,41 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/2026-09-05-ballst-vs-osu-prediction-1920x1080-1.png?ve=1&tl=1",
       "published": "9/5/2026, 4:52:14 AM",
       "desc": "Get the latest odds, prediction and pick for the Week 1 Ohio State-Ball State game, as well as information on how to watch."
-    },
-    {
-      "title": "Sources: LSU leaves Wright, Harris off roster for season opener - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49831993/lsu-leaves-wright-harris-roster-season-opener",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0505%2Fr80342_1296x729_16%2D9.jpg",
-      "published": "9/5/2026, 4:27:09 AM",
-      "desc": "Dae'Quan Wright and Zxavian Harris, who were cleared earlier this week to return to college football after brief stints in the NFL, have not been added to LSU's roster for Saturday's home game against Clemson, sources told ESPN."
-    },
-    {
-      "title": "Indiana vs. North Texas Prediction, Odds, Pick For College Football Week 1",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/indiana-vs-north-texas-prediction-odds-pick-college-football-week-1",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/2026-09-05-unt-vs-ind-prediction-1920x1080-1.png?ve=1&tl=1",
-      "published": "9/5/2026, 4:22:22 AM",
-      "desc": "Get the latest odds, prediction and pick for the Week 1 Indiana-North Texas game, as well as information on how to watch."
-    },
-    {
-      "title": "Benches clear in Red Sox-Orioles after Blaze Alexander's hard slide - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49831106/benches-clear-orioles-red-sox-blaze-alexander-hard-slide",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0905%2Fr1711647_1296x729_16%2D9.jpg",
-      "published": "9/5/2026, 2:59:47 AM",
-      "desc": "The Baltimore Orioles and Boston Red Sox benches cleared after a tense moment involving Blaze Alexander."
-    },
-    {
-      "title": "Serena, Venus Williams lose 3rd-set tiebreak in US Open return - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49830732/serena-venus-williams-lose-third-set-tiebreak-us-open-doubles-return",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0905%2Fr1711614_1296x729_16%2D9.jpg",
-      "published": "9/5/2026, 2:25:22 AM",
-      "desc": "Serena and Venus Williams are out of the US Open women's doubles after losing to Hao-Ching Chan and Maya Joint in a third-set tiebreaker."
     }
   ],
   "tech": [
+    {
+      "title": "The best time to buy an iPhone may be right this minute - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCX3QSEYUCL3I2SMSRXVPDZK3E_size-normalized.jpg&w=1440",
+      "published": "9/5/2026, 12:40:02 PM",
+      "desc": "Whatever your favorite smartphone, it’s going to cost more. Blame inflation driven by the AI boom."
+    },
+    {
+      "title": "Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed - Gizmochina",
+      "source": "gizmochina",
+      "url": "https://www.gizmochina.com/2026/09/05/samsung-galaxy-s27-pro-s27-ultra-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Render-2.jpg",
+      "published": "9/5/2026, 5:24:48 AM",
+      "desc": "Samsung Galaxy S27 Pro and S27 Ultra have reportedly received 3C certification with 60W charging, while the Galaxy S27 and S27 Plus offer slower speeds."
+    },
+    {
+      "title": "Maushold, Morpeko, Moltres, Salamence ex Illustration Rares Revealed from \"30th Celebration!\" - pokebeach.com",
+      "source": "Pokebeach.com",
+      "url": "https://www.pokebeach.com/2026/09/maushold-illustration-rare-revealed-from-30th-celebration",
+      "image": "https://www.pokebeach.com/news/2026/09/Salamence-ex-SIR.jpg",
+      "published": "9/5/2026, 4:39:49 AM",
+      "desc": "Illustration Rares of Morpeko and Maushold have just been revealed from 30th Celebration! The set's products will begin to release worldwide on September"
+    },
     {
       "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures - IGN",
       "source": "IGN",
@@ -252,30 +276,6 @@
       "image": "https://i.pcmag.com/imagery/articles/00TBs5p0FyAlrCvXKZ7yL1U-1.fit_lim.size_1200x630.v1788544838.jpg",
       "published": "9/4/2026, 8:25:02 PM",
       "desc": "Nvidia's PAIR links your unused laptops, desktops, and Macs together to run agentic AI locally without subscription fees or cloud privacy risks."
-    },
-    {
-      "title": "'This Move Reflects the Team’s Evolving Workplace Needs' — Bungie Confirms Plans to Sublease Parts of Its Enormous Bellevue Headquarters Following Mass Layoffs - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/bungie-confirms-plans-to-sublease-parts-of-its-enormous-bellevue-headquarters-following-mass-layoffs",
-      "image": "https://assets-prd.ignimgs.com/2026/09/04/bungie-subleases-bellevue-hq-1788550730399.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "9/4/2026, 7:43:25 PM",
-      "desc": "Bungie has responded after announcing plans to sublease 210,984-square feet of its massive headquarters in Bellevue, Washington, saying this move reflects its continued focus on a “digital first” model."
-    },
-    {
-      "title": "\"30th Anniversary\" Binder Collections Delayed Until December - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/2026/09/30th-anniversary-binder-collections-delayed-until-december",
-      "image": "https://www.pokebeach.com/news/2026/06/Pokemon_TCG_30th_Celebration_Binder_Collection_EN-copy-scaled.jpg",
-      "published": "9/4/2026, 7:38:25 PM",
-      "desc": "TPCi has pushed back the release date for the 30th Anniversary Binder Collection in the United States from October 2nd to December 4th, as silently"
-    },
-    {
-      "title": "You Can Get 5 Excellent 90+ Rated Steam Games For Under $25 Right Now - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/you-can-get-5-excellent-90-rated-steam-games-for-under-25-right-now-2000731362",
-      "image": "https://kotaku.com/app/uploads/2026/09/guardians-1200x675.jpg",
-      "published": "9/4/2026, 7:35:13 PM",
-      "desc": "Tomb Raider and Guardians of the Galaxy belong in any big Steam library"
     }
   ],
   "education": [
@@ -365,24 +365,6 @@
     },
     {
       "rank": 3,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 4,
-      "title": "Feel My Love",
-      "artist": "Take That & Michael Patrick Kelly",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/45/95/6445951d-b76e-4379-01ea-6775c785fc2d/26UM1IM00828.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/47/61/e94761d3-612d-b6ec-3e00-a89ab70314c4/mzaf_13774002298578560891.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/feel-my-love/6804005499?i=6804005500&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20%26%20Michael%20Patrick%20Kelly%20Feel%20My%20Love"
-    },
-    {
-      "rank": 5,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -391,16 +373,25 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 6,
-      "title": "Bad Guys",
-      "artist": "Ana Sky",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/00/9c/10009c90-017f-a95a-cf41-4057e90ed00f/712132069380_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/f9/84/b5f98457-4ba5-2e46-0ca4-41c8f8fc9904/mzaf_3669612254499429178.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-guys/6789166678?i=6789166866&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ana%20Sky%20Bad%20Guys"
+      "rank": 4,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "Feel My Love",
+      "artist": "Take That & Michael Patrick Kelly",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/45/95/6445951d-b76e-4379-01ea-6775c785fc2d/26UM1IM00828.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/47/61/e94761d3-612d-b6ec-3e00-a89ab70314c4/mzaf_13774002298578560891.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/feel-my-love/6804005499?i=6804005500&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20%26%20Michael%20Patrick%20Kelly%20Feel%20My%20Love"
+    },
+    {
+      "rank": 6,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
@@ -409,25 +400,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
+      "rank": 7,
+      "title": "Bad Guys",
+      "artist": "Ana Sky",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/00/9c/10009c90-017f-a95a-cf41-4057e90ed00f/712132069380_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/f9/84/b5f98457-4ba5-2e46-0ca4-41c8f8fc9904/mzaf_3669612254499429178.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-guys/6789166678?i=6789166866&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ana%20Sky%20Bad%20Guys"
+    },
+    {
       "rank": 8,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
-    },
-    {
-      "rank": 9,
-      "title": "How Do I Say Goodbye",
-      "artist": "Dean Lewis",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/bb/07/7dbb0721-85ea-5b8a-293d-d4be41970058/22UMGIM59967.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/79/f5/3379f5c1-249d-1681-e4fb-147177adb598/mzaf_12057706535577809502.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/how-do-i-say-goodbye/1636890966?i=1636891299&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dean%20Lewis%20How%20Do%20I%20Say%20Goodbye"
-    },
-    {
-      "rank": 10,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -436,22 +418,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
-      "rank": 11,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "rank": 9,
+      "title": "Jamaican (Bam Bam)",
+      "artist": "HUGEL & SOLTO (FR)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     },
     {
-      "rank": 12,
+      "rank": 10,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 11,
+      "title": "How Do I Say Goodbye",
+      "artist": "Dean Lewis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/bb/07/7dbb0721-85ea-5b8a-293d-d4be41970058/22UMGIM59967.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/79/f5/3379f5c1-249d-1681-e4fb-147177adb598/mzaf_12057706535577809502.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/how-do-i-say-goodbye/1636890966?i=1636891299&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dean%20Lewis%20How%20Do%20I%20Say%20Goodbye"
+    },
+    {
+      "rank": 12,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 13,
@@ -473,26 +473,17 @@
     },
     {
       "rank": 15,
-      "title": "Jolene",
-      "artist": "Dolly Parton",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/7e/14/767e140a-83fb-6325-a857-0715dbd4a4ea/mzaf_18440128077612796318.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jolene/283305967?i=283305977&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%20Jolene"
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,7 +492,25 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
+      "rank": 2,
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
       "rank": 3,
+      "title": "Minions & Monsters",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 4,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -510,22 +519,13 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 4,
-      "title": "Mayday",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
-      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "url": "https://www.themoviedb.org/movie/1137844"
-    },
-    {
       "rank": 5,
-      "title": "Minions & Monsters",
+      "title": "Project Hail Mary",
       "year": "2026",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "url": "https://www.themoviedb.org/movie/1315772"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     },
     {
       "rank": 6,
@@ -538,26 +538,35 @@
     },
     {
       "rank": 7,
+      "title": "Mayday",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
+      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "url": "https://www.themoviedb.org/movie/1137844"
+    },
+    {
+      "rank": 8,
       "title": "Supergirl",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "url": "https://www.themoviedb.org/movie/1081003"
-    },
-    {
-      "rank": 8,
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
     {
       "rank": 1,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
+    },
+    {
+      "rank": 2,
       "title": "The Grand Tour",
       "year": "2026",
       "cert": "12",
@@ -566,13 +575,13 @@
       "url": "https://www.themoviedb.org/tv/329471"
     },
     {
-      "rank": 2,
-      "title": "Futurama",
+      "rank": 3,
+      "title": "SpongeBob SquarePants",
       "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "url": "https://www.themoviedb.org/tv/387"
     }
   ]
 }
