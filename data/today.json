@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-06T09:32:43.323Z",
-  "day": 248,
+  "generated": "2026-09-07T10:32:32.515Z",
+  "day": 249,
   "movie": {
-    "title": "On the Waterfront",
+    "title": "Captain Marvel",
     "safe": true,
-    "cert": "PG",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1954",
-    "plot": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
-    "poster": "https://image.tmdb.org/t/p/w500/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg",
+    "year": "2019",
+    "plot": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Deadmau5-Strobe",
+    "key": "Tame Impala-Feels Like We Only Go Backwards",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/03/57/7103575e-1ec3-6ff1-8bff-8eaf7b83deee/05099968792756.jpg/600x600bb.jpg",
-    "year": "2009",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/40/9b/b7409bc6-24fa-b956-5613-4be8dc62be06/12UMGIM64219.rgb.jpg/600x600bb.jpg",
+    "year": "2012",
     "v": 4
   },
   "album": {
-    "key": "The Band-Music from Big Pink",
+    "key": "Toto-Toto IV",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/2e/e4/962ee4ae-952b-d558-c406-46b8f3ccd6e4/18UMGIM35724.rgb.jpg/600x600bb.jpg",
-    "year": "1968",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/ce/d2/69ced240-07a7-2a04-bbab-2afbacf30809/074643772822.jpg/600x600bb.jpg",
+    "year": "1982",
     "v": 4
   }
 }
