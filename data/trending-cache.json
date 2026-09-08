@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-08T17:47:58.194Z",
+  "updated": "2026-09-08T20:49:48.808Z",
   "news": [
+    {
+      "title": "Police hunt launched after man killed in hit-and-run near Edinburgh Airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69db/live/474eef10-aaf9-11f1-a291-b542ee92de7c.jpg",
+      "published": "9/7/2026, 8:52:22 PM",
+      "desc": "A Police dog unit and helicopter are involved in the search for three people who left the scene of the crash on foot."
+    },
+    {
+      "title": "Police seek to identify protesters behind Portsmouth anti-migrant disorder",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg",
+      "published": "9/7/2026, 7:37:24 PM",
+      "desc": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\"."
+    },
     {
       "title": "Why the ‘Temu Range Rover’ is such a threat to Jaguar Land Rover",
       "source": "BBC News",
@@ -16,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg",
       "published": "9/7/2026, 5:07:22 PM",
       "desc": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them."
-    },
-    {
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
-      "published": "9/7/2026, 4:22:28 PM",
-      "desc": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
     },
     {
       "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
@@ -56,39 +64,143 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg",
       "published": "9/7/2026, 1:37:34 PM",
       "desc": "Proposals to merge smaller councils to form larger authorities have been paused or withdrawn in a number of areas."
-    },
-    {
-      "title": "Jaguar Land Rover to cut 4,000 jobs as it faces tough competition",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ba1/live/1f725c70-aa9a-11f1-ab09-7f2415c9a652.jpg",
-      "published": "9/7/2026, 10:07:28 AM",
-      "desc": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles."
     }
   ],
   "sports": [
     {
-      "title": "Formula 1: Isack Hadjar to miss third consecutive grand prix with wrist injury",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c62ekd32rk7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0f2d/live/47772bf0-a6e5-11f1-9e4c-79c1c0e340c6.jpg",
-      "published": "9/7/2026, 5:52:29 PM",
-      "desc": "Red Bull will be without Isack Hadjar at this weekend's Spanish Grand Prix as he continues to recover from a wrist injury."
+      "title": "2026 NFL Odds Week 1: Lines, Spreads For All 16 Games",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-14.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:52:24 PM",
+      "desc": "Check out the early odds, spreads and totals for all 16 Week 1 games."
     },
     {
-      "title": "F1: Bernie Ecclestone stopped by police for taking shotgun into Portugal",
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-15.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:52:22 PM",
+      "desc": "Will the Bengals make it in? What about the Cowboys? And shouldn't Chicago be a shoo-in?"
+    },
+    {
+      "title": "Dallas Cowboys All-Pro LG Tyler Smith To Miss 4-6 Weeks Due To Thumb Surgery",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/dallas-cowboys-all-pro-lg-tyler-smith-miss-4-6-weeks-due-thumb-surgery",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/gettyimages-2242458299-scaled-e1788812508799.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:52:21 PM",
+      "desc": "Dallas Cowboys All-Pro left guard Tyler Smith will undergo thumb surgery and is expected to be placed on injured reserve, likely missing the first 4-6 weeks of the season."
+    },
+    {
+      "title": "Replay Protocol Breakdown: Mike Pereira Explains Michigan Clock Controversy",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/michigan-western-michigan-controversy-clock-joel-klatt-show",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/rjgqxwpxidrasq72.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:52:19 PM",
+      "desc": "To clear up Saturday night's confusion, FOX Sports rules analyst Mike Pereira joined Joel Klatt on Monday to weigh in on the controversial ending of the Michigan-Western Michigan game."
+    },
+    {
+      "title": "Big Bets Report: Bettor's $1, 20-leg Parlay Cashes In For $130k",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/big-bets-report-bettors-1-20-leg-parlay-cashes-130k",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-16.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:52:18 PM",
+      "desc": "From one dollar to how much? One bettor struck gold after their 20-leg parlay hit. Patrick Everson breaks down the winners and losers from CFB Week 1."
+    },
+    {
+      "title": "Champions League 202-27 predictions: Who will win the title?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg",
-      "published": "9/7/2026, 5:52:27 PM",
-      "desc": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg",
+      "published": "9/7/2026, 8:37:23 PM",
+      "desc": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts."
+    },
+    {
+      "title": "Belichick: North Carolina focused on 'doing things properly' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49862044/belichick-north-carolina-focused-doing-things-properly",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702623_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 8:23:06 PM",
+      "desc": "Bill Belichick said Monday he believes UNC \"totally\" had an atmosphere of following rules amid a school investigation into conduct within his football program."
+    },
+    {
+      "title": "Defending Champs Indiana Expect Key RB Khobie Martin To Miss Half The Season",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/indiana-hoosiers-khobie-martin-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/martinh1.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:22:22 PM",
+      "desc": "The defending national champion Indiana Hoosiers expect running back Khobie Martin to be out until about midseason with an arm injury sustained in Week 1."
+    },
+    {
+      "title": "Kyle Whittingham Addresses Bryce Underwood's Status As Michigan's QB1",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/michigan-wolvervines-bryce-underwood-starting-qb",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/gettyimages-2293736192-scaled-e1788810395581.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:22:20 PM",
+      "desc": "Michigan head coach Kyle Whittingham said of Bryce Underwood that \"He's our QB right now, and it's not something that's infinite\"."
+    },
+    {
+      "title": "Mike McCarthy Feels The Pride — And Responsibility — Of Coaching Hometown Steelers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/mike-mccarthy-pittsburgh-steelers-head-coach",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/liveblog-16x92-3.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 8:07:26 PM",
+      "desc": "Mike McCarthy grew up a Steelers fan in Pittsburgh. Now it's his job to lead his hometown team to another Super Bowl title."
+    },
+    {
+      "title": "US Open 2026 LIVE: Naomi Osaka vs Elena Rybakina - scores, radio & live text updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/live/cpw98nkdw47t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22af/live/0e3d77c0-aae8-11f1-aed2-8d6da8d75094.jpg",
+      "published": "9/7/2026, 8:07:22 PM",
+      "desc": "Two-time champion Naomi Osaka plays second seed Elena Rybakina for a place in the US Open quarter-finals - listen & follow"
+    },
+    {
+      "title": "Arch Manning eyes 2nd shot at Ohio State after 'rough' debut - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49861938/arch-manning-eyes-2nd-shot-ohio-state-rough-debut",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0830%2Fr1538750_2_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 8:05:34 PM",
+      "desc": "Arch Manning say he doesn't like to think about his ill-fated debut against the Buckeyes last year as his Longhorns look for redemption this Saturday."
+    },
+    {
+      "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712921_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 7:40:18 PM",
+      "desc": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday."
+    },
+    {
+      "title": "Inside The Garage: Kyle Larson Having Fun In 'Challenging' Year Despite No Wins",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/inside-garage-kyle-larson-having-fun-challenging-year-despite-no-wins",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-37.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 7:37:25 PM",
+      "desc": "Kyle Larson hasn't graced Victory Lane in 2026, but he's still enjoying the journey despite his lengthy winless streak."
+    },
+    {
+      "title": "Kylian Mbappé Believes 'It's A Good Year' For His First Ballon d’Or",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-believes-its-good-year-his-first-ballon-dor",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/mbappe1.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 7:37:20 PM",
+      "desc": "Kylian Mbappé believes this could be the year he wins the Ballon d’Or for the first time."
+    },
+    {
+      "title": "Sources: Big 12 withdraws federal suit against Texas Tech - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49861704/sources-big-12-withdraws-federal-suit-texas-tech",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0215%2Fr54464_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 7:33:14 PM",
+      "desc": "The Big 12 has withdrawn the federal lawsuit it filed against Texas Tech in June amid questions of former quarterback Brendan Sorsby's eligibility, sources told ESPN's Pete Thamel on Monday."
     },
     {
       "title": "Courtney Lawes: England legend backs end to overseas player bar",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c5y5kd13y99o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad51/live/b681d660-aade-11f1-aa35-df10e5ff32f4.jpg",
-      "published": "9/7/2026, 5:37:18 PM",
+      "published": "9/7/2026, 6:37:31 PM",
       "desc": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes."
     },
     {
@@ -96,115 +208,35 @@
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg",
-      "published": "9/7/2026, 5:07:29 PM",
+      "published": "9/7/2026, 6:37:30 PM",
       "desc": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground."
-    },
-    {
-      "title": "Joshua vs Fury: Tyson Fury says he is looking for new opponent and calls out Oleksandr Usyk",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/c624gxplj72o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0002/live/e1644db0-aa87-11f1-b109-879e35c24276.jpg",
-      "published": "9/7/2026, 5:07:22 PM",
-      "desc": "Tyson Fury has sparked more speculation his all-British heavyweight fight with Anthony Joshua is on the verge of collapse by suggesting he needs a new opponent for November."
-    },
-    {
-      "title": "Bears' Super Bowl champion fullback Matt Suhey dies at 68 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49860580/bears-super-bowl-champion-fullback-matt-suhey-dies-68",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712834_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 5:03:30 PM",
-      "desc": "Matt Suhey, a fullback who helped Walter Payton and the Chicago Bears win the 1985 NFL championship, has died. He was 68."
-    },
-    {
-      "title": "Indiana loses RB Khobie Martin until midseason due to injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49860368/indiana-loses-rb-khobie-martin-midseason-due-injury",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fr1706306_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 4:30:35 PM",
-      "desc": "Indiana running back Khobie Martin will be out until midseason with an arm injury, coach Curt Cignetti said Monday."
-    },
-    {
-      "title": "Can Harry Kane buck Ballon d’Or World Cup history?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg",
-      "published": "9/7/2026, 4:22:21 PM",
-      "desc": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?"
-    },
-    {
-      "title": "US Open 2026 LIVE: Iga Swiatek vs Qinwen Zheng, Mirra Andreeva vs Anastasia Potapova - scores, radio & live text updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/live/cpw98nkdw47t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97b1/live/dad32140-aa3e-11f1-b109-879e35c24276.jpg",
-      "published": "9/7/2026, 3:37:22 PM",
-      "desc": "Six-time Grand Slam champion Iga Swiatek plays Olympic gold medallist Qinwen Zheng for a place in the US Open last eight - listen and follow."
-    },
-    {
-      "title": "4 Takeaways From Christopher Bell's Epic Southern 500 Win To Open The Chase",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/4-takeaways-christopher-bell-first-win-of-season-darlington-the-chase",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/christopher-bell_takeaways_darlington_pockrass.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 3:22:23 PM",
-      "desc": "Darlington was \"better than a dream come true\" for Christopher Bell as he got into Victory Lane for the first time in 2026 and at the most perfect time."
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's 2026 College Football Top 10 — Week 2",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-2026-college-football-top-10-week-2",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/fallica10.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 3:22:20 PM",
-      "desc": "\"The Bear\" drops his latest Top 10 rankings ahead of Week 2 in college football. Who does he have at No. 1?"
-    },
-    {
-      "title": "Pakistan investigate 'discipline and conduct' on turbulent tour",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/47f0/live/8a9f1770-aac4-11f1-9bcd-4de40c4158ea.jpg",
-      "published": "9/7/2026, 2:37:21 PM",
-      "desc": "Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England."
-    },
-    {
-      "title": "Monday Morning NFL Top 10 Rankings: Who Are The Best Teams Heading Into The Season?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-power-rankings-top-10-seahawks-patriots-week-1",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/monday-morning-16x91111-1.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 2:07:20 PM",
-      "desc": "It's a new NFL season, but the list of Super Bowl contenders might be very similar to last year's."
-    },
-    {
-      "title": "Is Drake Maye Ready For Super Bowl Rematch? Why The 49ers Aren't Ready For The Rams",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/drake-maye-ready-super-bowl-rematch-49ers-arent-ready-rams",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-12-1.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 1:22:18 PM",
-      "desc": "Get ready for Week 1 with a deep dive into the Super Bowl rematch, the 49ers' massive test, Jayden Daniels' bounce-back chances and more."
-    },
-    {
-      "title": "Falcons name Tua Tagovailoa as Week 1 starting QB vs. Steelers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49858957/falcons-name-tua-tagovailoa-week-1-starting-qb-vs-steelers",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702088_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 12:19:37 PM",
-      "desc": "Tua Tagovailoa will be the starting quarterback for the Falcons against the Steelers in Week 1."
-    },
-    {
-      "title": "NFL 2026: What to look out for, including Travis Kelce, Aaron Rodgers and Myles Garrett",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f74b/live/51ab4f30-aa90-11f1-ab09-7f2415c9a652.jpg",
-      "published": "9/7/2026, 11:22:25 AM",
-      "desc": "From the Los Angeles Rams' bid to reach the Super Bowl in their own stadium to a potential goodbye for Travis Kelce and a quarterback getting booed by his own fans, here are five things to look out for in the new NFL season."
-    },
-    {
-      "title": "College Football Rankings: Where Michigan Landed After Its Week 1 Hail Mary Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-rankings-michigan-oklahoma-texas-ohio-state",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-89.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 5:37:18 AM",
-      "desc": "FOX Sports' RJ Young shares his latest college football rankings after a long Week 1."
     }
   ],
   "tech": [
+    {
+      "title": "'Next This Game Will Make You File Tax Returns' — Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate",
+      "image": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "9/7/2026, 7:09:53 PM",
+      "desc": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good."
+    },
+    {
+      "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande - eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game",
+      "image": "https://assetsio.gnwcdn.com/unnamed_dHriVph.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "9/7/2026, 6:07:32 PM",
+      "desc": "Final Fantasy Resonance isn't even out yet, but modders are already reviving characters from Brave Exvius, including Kingdom Hearts' Sora and Ariana Grande."
+    },
+    {
+      "title": "Forza Horizon 6 PS5 Release Window Confirmed - insider-gaming.com",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Forza-PS5-release.jpg",
+      "published": "9/7/2026, 6:05:06 PM",
+      "desc": "The developers of Forza Horizon 6 have just provided players with the PS5 release window. Here are more details."
+    },
     {
       "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
       "source": "Digitalfoundry.net",
@@ -214,60 +246,36 @@
       "desc": "Will you become an honorary Kiwi to play early?"
     },
     {
-      "title": "Labor Day tech deals are still live: You can still shop sales from Apple, Beats, Samsung, Anker and more up to 55% off - Yahoo Tech",
-      "source": "Yahoo Entertainment",
-      "url": "https://tech.yahoo.com/deals/breaking-news/article/labor-day-tech-deals-are-still-live-you-can-still-shop-sales-from-apple-beats-samsung-anker-and-more-up-to-55-off-170706233.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8a983a6760ea25ec9131417c4d4f7eb438f00a72d2ab7e93bd7cbf7ee025f50e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3-product-cluster_7025.png",
-      "published": "9/7/2026, 5:07:26 PM",
-      "desc": "Everything from AirPods to iPads to football-worthy TVs is on sale right now."
+      "title": "Two years after its rocky launch, Civilization 7's first paid expansion Earthrise is on its way - but first comes the atomic age - eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update",
+      "image": "https://assetsio.gnwcdn.com/civ-7-machiavelli.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "9/7/2026, 5:31:14 PM",
+      "desc": "As the legendary Civilization series celebrates its 35th anniversary, developer Firaxis has unveiled a host of new updates coming to Civilization 7."
     },
     {
-      "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
-      "image": "https://images.macrumors.com/t/eWEIWALXdBnURstsWvQt_kFYs58=/2091x/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
-      "published": "9/7/2026, 4:07:39 PM",
-      "desc": "Apple is working on a broader set of Camera app improvements in iOS 27 it has announced, according to a new deep dive from MacRumors forum member..."
+      "title": "Disconnect your LG television from the internet, now - AppleInsider",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
+      "image": "https://media.appleinsider.com/gallery/68856-145077-59505-121472-45682-88883-000-lead-Apple-Music-on-LG-xl-xl-xl.jpg",
+      "published": "9/7/2026, 5:20:51 PM",
+      "desc": "If you've got an Apple TV set-top box, that's not enough to protect your privacy if you have an LG television. Unplug Ethernet and tell it to forget your Wi-Fi information."
     },
     {
-      "title": "Sony brings back its fan-favorite headphones, the XM4 - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "9/7/2026, 4:00:00 PM",
-      "desc": "After the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C."
+      "title": "Nintendo reportedly issued accidental Switch 2 ban wave, but is now being reversed - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-reportedly-issued-accidental-switch-2-ban-wave-but-is-now-being-reversed/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-accidental-ban.jpg",
+      "published": "9/7/2026, 5:19:14 PM",
+      "desc": "Nintendo apparently issued an accidental Switch 2 ban wave, causing error code 2124-4508 - here's what happened."
     },
     {
-      "title": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
-      "image": "https://images.macrumors.com/t/3E8lYPDfSYr424gYlp6UYsIo0uQ=/1672x/article-new/2026/08/apple-watch-series-12.png",
-      "published": "9/7/2026, 3:57:56 PM",
-      "desc": "Ahead of the announcement of the Apple Watch Series 12 and Ultra 4 later this week, code in the watchOS 27 and iOS 27 betas points to a series of new..."
-    },
-    {
-      "title": "Xiaomi Announces Foldable iPhone Rival - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
-      "image": "https://images.macrumors.com/t/b-gfTbl9Bv1kCJ5KDy74uAUbUFk=/1600x/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
-      "published": "9/7/2026, 3:26:11 PM",
-      "desc": "Xiaomi today officially announced the 18 Fold, its first wide-format foldable, at a product event in China, two days before Apple is expected to..."
-    },
-    {
-      "title": "Walmart Has PS5 Pro Consoles Back in Stock for Labor Day, if You Can Stomach the Price - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/walmart-ps5-pro-restock-labor-day",
-      "image": "https://assets-prd.ignimgs.com/2025/06/09/ps5pro-1749508386157.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "9/7/2026, 3:05:00 PM",
-      "desc": "Walmart has a few PS5 Pro console bundles in stock right now during Labor Day sales... if you can stomach the price."
-    },
-    {
-      "title": "Pokémon TCG First Partner Collection Series 3 Is Back in Stock at Amazon - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/pokemon-tcg-first-partner-series-3-amazon-restock",
-      "image": "https://assets-prd.ignimgs.com/2026/09/07/pokemon-tcg-first-partner-illustration-collection-series-3-deal-amazon-2-1788781468119.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "9/7/2026, 3:00:00 PM",
-      "desc": "Amazon has restocked the Pokémon TCG First Partner Illustration Collection Series 3 at market price. Here is where to buy the latest anniversary set."
+      "title": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+      "image": "https://assetsio.gnwcdn.com/onimusha_u9yTPJB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "9/7/2026, 4:51:44 PM",
+      "desc": "Capcom has revealed it will focus on reactivating dormant intellectual property following a strong launch for Onimusha:…"
     }
   ],
   "education": [
@@ -348,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 3,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 3,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 4,
@@ -384,6 +392,15 @@
     },
     {
       "rank": 6,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 7,
       "title": "Jamaican (Bam Bam)",
       "artist": "HUGEL & SOLTO (FR)",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
@@ -392,22 +409,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
-    },
-    {
-      "rank": 8,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 9,
@@ -420,21 +428,21 @@
     },
     {
       "rank": 10,
-      "title": "All Hail King Jesus (Live)",
-      "artist": "Bethel Music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/84/78/ba847856-1159-126a-654f-f3c536dedcc8/611851680138_TImage.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/a0/06/f0a006a0-62f7-82a5-1949-643dfad56c2c/mzaf_16881365522762420390.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/all-hail-king-jesus-live/1748034822?i=1748035311&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bethel%20Music%20All%20Hail%20King%20Jesus%20(Live)"
-    },
-    {
-      "rank": 11,
       "title": "9 To 5",
       "artist": "Dolly Parton",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/f6/97/77f6972f-613e-c441-2cc0-a8f7dfa5af1e/mzaf_15037309815032133767.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/9-to-5/283305967?i=283305973&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%209%20To%205"
+    },
+    {
+      "rank": 11,
+      "title": "All Hail King Jesus (Live)",
+      "artist": "Bethel Music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/84/78/ba847856-1159-126a-654f-f3c536dedcc8/611851680138_TImage.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/a0/06/f0a006a0-62f7-82a5-1949-643dfad56c2c/mzaf_16881365522762420390.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/all-hail-king-jesus-live/1748034822?i=1748035311&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bethel%20Music%20All%20Hail%20King%20Jesus%20(Live)"
     },
     {
       "rank": 12,
@@ -447,30 +455,30 @@
     },
     {
       "rank": 13,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
-    },
-    {
-      "rank": 14,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 15,
       "title": "Tastes Like Summer",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/43/7f/d9437fd0-a95d-d403-6a93-7c4aa6c0c78b/mzaf_9054198971847575496.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6805055407?i=6805055413&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
+    },
+    {
+      "rank": 14,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 15,
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
     }
   ],
   "movies": [
@@ -494,21 +502,21 @@
     },
     {
       "rank": 3,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 4,
       "title": "Mayday",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "url": "https://www.themoviedb.org/movie/1137844"
+    },
+    {
+      "rank": 4,
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
       "rank": 5,
@@ -521,15 +529,6 @@
     },
     {
       "rank": 6,
-      "title": "Godzilla Minus Zero",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.",
-      "url": "https://www.themoviedb.org/movie/1381071"
-    },
-    {
-      "rank": 7,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -538,33 +537,51 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Minions & Monsters",
       "year": "2026",
       "cert": "U",
       "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "url": "https://www.themoviedb.org/movie/1315772"
+    },
+    {
+      "rank": 8,
+      "title": "Supergirl",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "url": "https://www.themoviedb.org/movie/1081003"
+    },
+    {
+      "rank": 9,
+      "title": "Fall 2: Deadpoint",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "url": "https://www.themoviedb.org/movie/1101412"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Futurama",
-      "year": "1999",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 2,
       "title": "The Grand Tour",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
       "overview": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
       "url": "https://www.themoviedb.org/tv/329471"
+    },
+    {
+      "rank": 2,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
     }
   ]
 }
