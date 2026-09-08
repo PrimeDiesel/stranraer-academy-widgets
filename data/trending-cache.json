@@ -1,13 +1,21 @@
 {
-  "updated": "2026-09-08T20:49:48.808Z",
+  "updated": "2026-09-08T23:13:58.850Z",
   "news": [
     {
-      "title": "Police hunt launched after man killed in hit-and-run near Edinburgh Airport",
+      "title": "Huddersfield barrister jailed over revenge plot with client",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69db/live/474eef10-aaf9-11f1-a291-b542ee92de7c.jpg",
-      "published": "9/7/2026, 8:52:22 PM",
-      "desc": "A Police dog unit and helicopter are involved in the search for three people who left the scene of the crash on foot."
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrxjlkgno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3cd/live/f3709bd0-aad7-11f1-aa35-df10e5ff32f4.jpg",
+      "published": "9/7/2026, 10:37:22 PM",
+      "desc": "Samreen Akhtar, 38, was jailed for three years and three months at Manchester Crown Court on Monday."
+    },
+    {
+      "title": "F1: Bernie Ecclestone stopped by police for taking shotgun into Portugal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg",
+      "published": "9/7/2026, 9:52:24 PM",
+      "desc": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition."
     },
     {
       "title": "Police seek to identify protesters behind Portsmouth anti-migrant disorder",
@@ -56,17 +64,73 @@
       "image": "",
       "published": "9/7/2026, 3:22:13 PM",
       "desc": ""
-    },
-    {
-      "title": "Plans for major overhaul of councils halted",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zkj09dy4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg",
-      "published": "9/7/2026, 1:37:34 PM",
-      "desc": "Proposals to merge smaller councils to form larger authorities have been paused or withdrawn in a number of areas."
     }
   ],
   "sports": [
+    {
+      "title": "English Open: Zhao Xintong stunned by Oliver Lines in first round",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/snooker/articles/c4gkdlgdw5yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/16cc/live/ac5adff0-ab0c-11f1-9c2a-2738f087e898.jpg",
+      "published": "9/7/2026, 10:52:20 PM",
+      "desc": "Oliver Lines seals a shock 4-2 win over world number one Zhao Xintong in the first round of the English Open."
+    },
+    {
+      "title": "Kevin Pietersen joins England white-ball set-up as specialist mentor",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7d7/live/96afb7a0-aaa5-11f1-9eba-7de947fa7cd1.jpg",
+      "published": "9/7/2026, 10:37:25 PM",
+      "desc": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup."
+    },
+    {
+      "title": "US Open 2026 results: Elena Rybakina sweeps aside Naomi Osaka to close in world number one ranking",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/00ab/live/06e41e10-ab07-11f1-ae93-9908ac6d5d2d.jpg",
+      "published": "9/7/2026, 10:37:20 PM",
+      "desc": "Elena Rybakina sweeps aside two-time champion Naomi Osaka to reach the  US Open quarter-finals and close in on becoming world number one."
+    },
+    {
+      "title": "Elena Rybakina rolls on as Naomi Osaka bows out of US Open - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49863013/elena-rybakina-rolls-naomi-osaka-bows-us-open",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712992_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 10:21:28 PM",
+      "desc": "Elena Rybakina is one win away from the No. 1 ranking in women's tennis, after she overpowered Naomi Osaka on Sunday afternoon at the US Open, registering a 6-1, 6-4 victory in a matchup of power-hitting Grand Slam champions in  Louis Armstrong Stadium."
+    },
+    {
+      "title": "Titans' Cedric Gray in concussion protocol after UTV accident - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49862818/titans-cedric-gray-concussion-protocol-utv-accident",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712982_1024x576_16%2D9.jpg",
+      "published": "9/7/2026, 9:51:56 PM",
+      "desc": "Titans placed LB Cedric Gray under the NFL's concussion protocol after he was involved in a UTV accident in Tennessee over the weekend."
+    },
+    {
+      "title": "Barry Odom Admits He Was 'Caught Off Guard' By Big Ten Official Clock Protocol",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/barry-odom-admits-he-caught-off-guard-big-ten-official-clock-protocol",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/gettyimages-2293580861-scaled.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 9:37:20 PM",
+      "desc": "Longtime coach Kyle Whittingham was unaware the stadium clock he watched Saturday night at Michigan might not reflect the official game time."
+    },
+    {
+      "title": "Panthers Optimistic Jonathon Brooks Plays Against Bears Despite Practice Absence",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/panthers-optimistic-jonathon-brooks-plays-against-bears-despite-practice-absence",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/panthers.jpg?ve=1&tl=1",
+      "published": "9/7/2026, 9:37:18 PM",
+      "desc": "Carolina Panthers running back Jonathon Brooks missed his third straight practice with “general soreness,\" but coach Dave Canales remains hopeful he’ll be ready for Sunday’s season opener against the Chicago Bears"
+    },
+    {
+      "title": "Giants release WR Darius Slayton, team's longest-tenured player - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49862543/giants-release-wr-darius-slayton-team-longest-tenured-player",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712970_1296x729_16%2D9.jpg",
+      "published": "9/7/2026, 9:15:32 PM",
+      "desc": "The Giants have released wide receiver Darius Slayton, moving on from their longest-tenured player."
+    },
     {
       "title": "2026 NFL Odds Week 1: Lines, Spreads For All 16 Games",
       "source": "Fox Sports",
@@ -146,73 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/liveblog-16x92-3.jpg?ve=1&tl=1",
       "published": "9/7/2026, 8:07:26 PM",
       "desc": "Mike McCarthy grew up a Steelers fan in Pittsburgh. Now it's his job to lead his hometown team to another Super Bowl title."
-    },
-    {
-      "title": "US Open 2026 LIVE: Naomi Osaka vs Elena Rybakina - scores, radio & live text updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/live/cpw98nkdw47t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22af/live/0e3d77c0-aae8-11f1-aed2-8d6da8d75094.jpg",
-      "published": "9/7/2026, 8:07:22 PM",
-      "desc": "Two-time champion Naomi Osaka plays second seed Elena Rybakina for a place in the US Open quarter-finals - listen & follow"
-    },
-    {
-      "title": "Arch Manning eyes 2nd shot at Ohio State after 'rough' debut - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49861938/arch-manning-eyes-2nd-shot-ohio-state-rough-debut",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0830%2Fr1538750_2_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 8:05:34 PM",
-      "desc": "Arch Manning say he doesn't like to think about his ill-fated debut against the Buckeyes last year as his Longhorns look for redemption this Saturday."
-    },
-    {
-      "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712921_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 7:40:18 PM",
-      "desc": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday."
-    },
-    {
-      "title": "Inside The Garage: Kyle Larson Having Fun In 'Challenging' Year Despite No Wins",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/inside-garage-kyle-larson-having-fun-challenging-year-despite-no-wins",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-37.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 7:37:25 PM",
-      "desc": "Kyle Larson hasn't graced Victory Lane in 2026, but he's still enjoying the journey despite his lengthy winless streak."
-    },
-    {
-      "title": "Kylian Mbappé Believes 'It's A Good Year' For His First Ballon d’Or",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/kylian-mbappe-believes-its-good-year-his-first-ballon-dor",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/mbappe1.jpg?ve=1&tl=1",
-      "published": "9/7/2026, 7:37:20 PM",
-      "desc": "Kylian Mbappé believes this could be the year he wins the Ballon d’Or for the first time."
-    },
-    {
-      "title": "Sources: Big 12 withdraws federal suit against Texas Tech - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/49861704/sources-big-12-withdraws-federal-suit-texas-tech",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0215%2Fr54464_1296x729_16%2D9.jpg",
-      "published": "9/7/2026, 7:33:14 PM",
-      "desc": "The Big 12 has withdrawn the federal lawsuit it filed against Texas Tech in June amid questions of former quarterback Brendan Sorsby's eligibility, sources told ESPN's Pete Thamel on Monday."
-    },
-    {
-      "title": "Courtney Lawes: England legend backs end to overseas player bar",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c5y5kd13y99o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad51/live/b681d660-aade-11f1-aa35-df10e5ff32f4.jpg",
-      "published": "9/7/2026, 6:37:31 PM",
-      "desc": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes."
-    },
-    {
-      "title": "Edu: Nottingham Forest's global head of football leaves club",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg",
-      "published": "9/7/2026, 6:37:30 PM",
-      "desc": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground."
     }
   ],
   "tech": [
+    {
+      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-memorial-day-2026-deals.jpg?c=16x9&q=w_800,c_fill",
+      "published": "9/8/2026, 12:41:00 AM",
+      "desc": "Apple products like AirPods, iPads, MacBooks and official accessories are on sale during the final hours of Labor Day weekend."
+    },
+    {
+      "title": "Arjun's gameplay trailer for Street Fighter 6, releases in October - EventHubs",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/sep/07/arjun-gameplay-trailer-sf6-reveal/",
+      "image": "https://media.eventhubs.com/images/2026/09/07_arjun-bnrt.webp",
+      "published": "9/7/2026, 10:31:00 PM",
+      "desc": "Just yesterday, Capcom announced that Arjun's gameplay trailer was set to go live today at 4:00 p.m. PT / 7:00 p.m. ET. He's the second DLC representative of Season 4 after Yasmine.When Arjun was ..."
+    },
+    {
+      "title": "Amal Clooney Stuns in a Plunging Red-Hot Strapless Gown and a Colorful Beaded Necklace - instyle.com",
+      "source": "InStyle",
+      "url": "https://www.instyle.com/amal-clooney-plunging-red-strapless-dress-beaded-necklace-cartier-venice-film-festival-12110550",
+      "image": "https://www.instyle.com/thmb/cLKjTO1a9rN-p84__X_cT8g-0GA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22557829592-fd15d822219648bfadadc228145a69ff.jpg",
+      "published": "9/7/2026, 8:58:22 PM",
+      "desc": "Amal Clooney turned up the heat in a plunging red-hot gown and a colorful statement necklace while attending the Cartier Cinema Club launch at the Venice Film Festival on September 4."
+    },
     {
       "title": "'Next This Game Will Make You File Tax Returns' — Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate - IGN",
       "source": "IGN",
@@ -220,6 +244,14 @@
       "image": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "published": "9/7/2026, 7:09:53 PM",
       "desc": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too realistic for its own good."
+    },
+    {
+      "title": "ASUS details ProArt GR1X mini PC with NVIDIA RTX Spark, 128GB unified memory and 10GbE - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/asus-details-proart-gr1x-mini-pc-with-nvidia-rtx-spark-128gb-unified-memory-and-10gbe",
+      "image": "https://cdn.videocardz.com/1/2026/09/ASUS-PROART-GR1X-HERO.webp",
+      "published": "9/7/2026, 6:18:25 PM",
+      "desc": "ASUS has finalized more specifications for its RTX Spark ProArt hardware. The GR1X mini PC measures 150 × 150 × 51 mm and supports up to 128GB of unified memory."
     },
     {
       "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande - eurogamer.net",
@@ -230,52 +262,12 @@
       "desc": "Final Fantasy Resonance isn't even out yet, but modders are already reviving characters from Brave Exvius, including Kingdom Hearts' Sora and Ariana Grande."
     },
     {
-      "title": "Forza Horizon 6 PS5 Release Window Confirmed - insider-gaming.com",
-      "source": "Insider-gaming.com",
-      "url": "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Forza-PS5-release.jpg",
-      "published": "9/7/2026, 6:05:06 PM",
-      "desc": "The developers of Forza Horizon 6 have just provided players with the PS5 release window. Here are more details."
-    },
-    {
       "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
       "source": "Digitalfoundry.net",
       "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america",
       "image": "https://images.digitalfoundry.net/9397aeca1e9c7/large.jpg",
       "published": "9/7/2026, 5:59:00 PM",
       "desc": "Will you become an honorary Kiwi to play early?"
-    },
-    {
-      "title": "Two years after its rocky launch, Civilization 7's first paid expansion Earthrise is on its way - but first comes the atomic age - eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update",
-      "image": "https://assetsio.gnwcdn.com/civ-7-machiavelli.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "9/7/2026, 5:31:14 PM",
-      "desc": "As the legendary Civilization series celebrates its 35th anniversary, developer Firaxis has unveiled a host of new updates coming to Civilization 7."
-    },
-    {
-      "title": "Disconnect your LG television from the internet, now - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
-      "image": "https://media.appleinsider.com/gallery/68856-145077-59505-121472-45682-88883-000-lead-Apple-Music-on-LG-xl-xl-xl.jpg",
-      "published": "9/7/2026, 5:20:51 PM",
-      "desc": "If you've got an Apple TV set-top box, that's not enough to protect your privacy if you have an LG television. Unplug Ethernet and tell it to forget your Wi-Fi information."
-    },
-    {
-      "title": "Nintendo reportedly issued accidental Switch 2 ban wave, but is now being reversed - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-reportedly-issued-accidental-switch-2-ban-wave-but-is-now-being-reversed/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-accidental-ban.jpg",
-      "published": "9/7/2026, 5:19:14 PM",
-      "desc": "Nintendo apparently issued an accidental Switch 2 ban wave, causing error code 2124-4508 - here's what happened."
-    },
-    {
-      "title": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
-      "image": "https://assetsio.gnwcdn.com/onimusha_u9yTPJB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "9/7/2026, 4:51:44 PM",
-      "desc": "Capcom has revealed it will focus on reactivating dormant intellectual property following a strong launch for Onimusha:…"
     }
   ],
   "education": [
@@ -347,6 +339,15 @@
   "music": [
     {
       "rank": 1,
+      "title": "A Different Kind of Happiness",
+      "artist": "Nothing But Thieves",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/4e/b9/1a4eb90b-e7a3-e79a-a133-0be9324213db/196874245224.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/d3/a4/12d3a4cb-40fb-4cd4-31b1-1b38a63aeb69/mzaf_407847186285147532.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/a-different-kind-of-happiness/6772182868?i=6772183095&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Nothing%20But%20Thieves%20A%20Different%20Kind%20of%20Happiness"
+    },
+    {
+      "rank": 2,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -355,7 +356,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
@@ -364,7 +365,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -373,7 +374,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -382,7 +383,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Bass Persuades",
       "artist": "Miley Cyrus",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/300x300bb.jpg",
@@ -391,7 +392,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Miley%20Cyrus%20Bass%20Persuades"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
@@ -400,7 +401,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Jamaican (Bam Bam)",
       "artist": "HUGEL & SOLTO (FR)",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
@@ -409,22 +410,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
-    },
-    {
-      "rank": 9,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
       "rank": 10,
@@ -437,33 +429,15 @@
     },
     {
       "rank": 11,
-      "title": "All Hail King Jesus (Live)",
-      "artist": "Bethel Music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/84/78/ba847856-1159-126a-654f-f3c536dedcc8/611851680138_TImage.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/a0/06/f0a006a0-62f7-82a5-1949-643dfad56c2c/mzaf_16881365522762420390.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/all-hail-king-jesus-live/1748034822?i=1748035311&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bethel%20Music%20All%20Hail%20King%20Jesus%20(Live)"
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
       "rank": 12,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 13,
-      "title": "Tastes Like Summer",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/43/7f/d9437fd0-a95d-d403-6a93-7c4aa6c0c78b/mzaf_9054198971847575496.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6805055407?i=6805055413&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
-    },
-    {
-      "rank": 14,
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
@@ -472,13 +446,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
     },
     {
+      "rank": 13,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    },
+    {
+      "rank": 14,
+      "title": "All Hail King Jesus (Live)",
+      "artist": "Bethel Music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/84/78/ba847856-1159-126a-654f-f3c536dedcc8/611851680138_TImage.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/a0/06/f0a006a0-62f7-82a5-1949-643dfad56c2c/mzaf_16881365522762420390.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/all-hail-king-jesus-live/1748034822?i=1748035311&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bethel%20Music%20All%20Hail%20King%20Jesus%20(Live)"
+    },
+    {
       "rank": 15,
-      "title": "Homewrecker",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/homewrecker/1871595252?i=1871595253&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20Homewrecker"
+      "title": "Tastes Like Summer",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/43/7f/d9437fd0-a95d-d403-6a93-7c4aa6c0c78b/mzaf_9054198971847575496.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/tastes-like-summer/6805055407?i=6805055413&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Tastes%20Like%20Summer"
     }
   ],
   "movies": [
@@ -556,12 +548,12 @@
     },
     {
       "rank": 9,
-      "title": "Fall 2: Deadpoint",
+      "title": "Project Hail Mary",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "url": "https://www.themoviedb.org/movie/1101412"
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
