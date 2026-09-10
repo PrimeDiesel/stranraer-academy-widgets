@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-09T09:56:12.416Z",
-  "day": 251,
+  "generated": "2026-09-10T09:53:30.793Z",
+  "day": 252,
   "movie": {
-    "title": "Puss in Boots: The Last Wish",
+    "title": "The Muppets",
     "safe": true,
     "cert": "PG",
-    "source": "tmdb-uk",
-    "year": "2022",
-    "plot": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
-    "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
-    "genre": "",
+    "source": "omdb-us",
+    "year": "2011",
+    "plot": "A Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.",
+    "poster": "https://image.tmdb.org/t/p/w500/ojkDl4RcI0DjxOpvtaDOIpPQpu.jpg",
+    "genre": "Adventure, Comedy, Family",
     "season": null
   },
   "song": {
-    "key": "Linkin Park-In the End",
+    "key": "Prince-Purple Rain",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f0/31/b2/f031b2b2-bcf0-6102-426f-e0b2c7437415/dj.vrgpwamf.jpg/600x600bb.jpg",
-    "year": "2000",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/09/cc/aa09ccec-3bd0-a38c-b515-9d9bfd889b62/093624914594.jpg/600x600bb.jpg",
+    "year": "1984",
     "v": 4
   },
   "album": {
-    "key": "The Wallflowers-Bringing Down the Horse",
+    "key": "The Breeders-Last Splash",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/b6/3a/83b63a4d-2e5b-5471-c5ca-9ac9120c1811/00602547759221.rgb.jpg/600x600bb.jpg",
-    "year": "1996",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/48/b1/4848b127-2daa-bcd0-84f6-346851cec648/191400061156.png/600x600bb.jpg",
+    "year": "2023",
     "v": 4
   }
 }
