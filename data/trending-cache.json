@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-11T20:36:35.494Z",
+  "updated": "2026-09-11T23:02:15.147Z",
   "news": [
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg",
+      "published": "9/10/2026, 9:37:26 PM",
+      "desc": "The father had threatened to behead a female primary school teacher near Toulouse."
+    },
     {
       "title": "We Will Rock You theatregoer who attacked singing woman is jailed",
       "source": "BBC News",
@@ -42,14 +50,6 @@
       "desc": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\"."
     },
     {
-      "title": "Funeral for PC Clough killed in Middlesbrough A66 crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec4b/live/911526f0-ad1f-11f1-826f-933990eae6f0.jpg",
-      "published": "9/10/2026, 3:52:35 PM",
-      "desc": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers."
-    },
-    {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo",
@@ -68,20 +68,124 @@
   ],
   "sports": [
     {
+      "title": "Benjamin Sesko can help Manchester United find top form after two goals in two games",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c770d63d850o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e20b/live/0adfd100-ad5d-11f1-a540-61c3f7fc4e6c.jpg",
+      "published": "9/10/2026, 11:07:26 PM",
+      "desc": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City"
+    },
+    {
+      "title": "Who Is The Next Quarterback To Receive Rich Extension? Here Are The 8 Candidates",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/who-next-quarterback-receive-rich-extension",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/2e2d7b53-16x9-10.jpg?ve=1&tl=1",
+      "published": "9/10/2026, 11:07:24 PM",
+      "desc": "The giant contracts for NFL quarterbacks could just be getting started, and we look ahead to who might get paid next year."
+    },
+    {
+      "title": "US Open 2026 LIVE: Aryna Sabalenka vs Jessica Pegula & Coco Gauff vs Elena Rybakina - scores, radio & live text updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/live/cewrl8zr1dqt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ee4/live/799ea7c0-aca8-11f1-a540-61c3f7fc4e6c.jpg",
+      "published": "9/10/2026, 11:07:24 PM",
+      "desc": "Two-time defending champion Aryna Sabalenka plays 2024 runner-up Jessica Pegula for a place in the US Open final - follow live."
+    },
+    {
+      "title": "No sanctions for LSU after SEC meeting on expulsion - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49897284/no-sanctions-lsu-sec-meeting-expulsion",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0531%2Fr1180445_1296x729_16%2D9.jpg",
+      "published": "9/10/2026, 10:50:26 PM",
+      "desc": "A meeting of SEC presidents and chancellors on Thursday ended without any punishment imposed on LSU."
+    },
+    {
+      "title": "Musiala scores on return to Bayern Munich lineup after seizures - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49896289/jamal-musiala-bayern-munich-goal-bodo-glimt-seizures",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0910%2Fr1714565_1296x729_16%2D9.jpg",
+      "published": "9/10/2026, 10:27:00 PM",
+      "desc": "After struggling with seizures on the field, Jamal Musiala celebrated his first goal of the season by pointing to his head."
+    },
+    {
+      "title": "Attorney seeks 'impartial' police for ASU hockey player collapse probe - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-sports/story/_/id/49896707/matthew-mayich-arizona-state-university-police-investigation-impartial",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0910%2Fr1714566_1296x729_16%2D9.jpg",
+      "published": "9/10/2026, 10:16:00 PM",
+      "desc": "The attorney representing the family of the Arizona State hockey player who collapsed during a workout has asked campus police to transfer its investigation to an impartial agency, according to a letter obtained by ESPN Thursday."
+    },
+    {
+      "title": "Fenerbahce boss announces shock resignation after Roma draw in Champions League",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/deae/live/75ce2440-ad57-11f1-8128-99eda56e535a.jpg",
+      "published": "9/10/2026, 10:07:23 PM",
+      "desc": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League."
+    },
+    {
+      "title": "England rugby union: Captain Meg Jones calls for fertility support",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b39e/live/0f354fd0-ad5a-11f1-a0e7-8f5838117f3d.jpg",
+      "published": "9/10/2026, 9:52:27 PM",
+      "desc": "England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing."
+    },
+    {
+      "title": "Sammy’s Sportsbook Whispers: Not All Hikes, Dip Are Created Equal",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-good-bad-teams-after-week-1",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/study-guide-16x9-1.jpg?ve=1&tl=1",
+      "published": "9/10/2026, 9:52:25 PM",
+      "desc": "Not all line movement is created equal and not all teams are as bad — or as good — as they seem after Week 1. Sammy P breaks it down."
+    },
+    {
+      "title": "Man Utd 4-0 Sabah: Red Devils hit four against Sabah FK on Champions League return",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c67830ezxn4xt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7aeb/live/fe3d2270-ad59-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "9/10/2026, 9:52:24 PM",
+      "desc": "Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez as Manchester United end their 1,000-day Champions League exile with a victory"
+    },
+    {
+      "title": "College Football Week 2 Odds, Sleeper Games To Watch",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-week-2-odds-sleeper-games-watch",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/3a473ef1-cfb-sleepers-w216x9.png?ve=1&tl=1",
+      "published": "9/10/2026, 9:52:22 PM",
+      "desc": "Check out the odds for five sleeper games on the Week 2 college football slate that could deliver some of the weekend's best action."
+    },
+    {
+      "title": "Giants' Nabers: It will be up to me if I play against Cowboys - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49896292/giants-nabers-play-cowboys",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0322%2Fr1632106_1296x729_16%2D9.jpg",
+      "published": "9/10/2026, 9:25:23 PM",
+      "desc": "Wide receiver Malik Nabers said Thursday the Giants are leaving the decision on whether he plays Sunday night against the Cowboys up to him."
+    },
+    {
+      "title": "Ex-NFL RB LeShon Johnson sentenced to 5 years for dog fighting - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49896260/ex-nfl-rb-leshon-johnson-sentenced-5-years-dog-fighting",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0327%2Fr1470032_1296x729_16%2D9.jpg",
+      "published": "9/10/2026, 9:22:08 PM",
+      "desc": "Former NFL running back LeShon Johnson was sentenced to five years in federal prison Thursday for operating a large-scale dog-fighting ring in Oklahoma."
+    },
+    {
+      "title": "Here's Which MLB Teams Have Been Eliminated From Postseason Contention",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-postseason-elimination-contention-wild-card-division",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/kotsayh1.jpg?ve=1&tl=1",
+      "published": "9/10/2026, 9:07:22 PM",
+      "desc": "Just 12 teams will make the 2026 MLB postseason; the other 18 are being eliminated, one at a time."
+    },
+    {
       "title": "Falcons QB Tua Tagovailoa suffers oblique injury in practice - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/nfl/story/_/id/49895564/falcons-qb-tua-tagovailoa-suffers-oblique-injury-practice",
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0907%2Fr1712973_1296x729_16%2D9.jpg",
       "published": "9/10/2026, 8:16:17 PM",
       "desc": "Falcons quarterback Tua Tagovailoa sustained an oblique injury in practice Thursday and was listed as a limited participant."
-    },
-    {
-      "title": "Irish Open: Rory McIlroy four behind leader Joaquin Niemann at Irish Open",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/crr4j0n8zkvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbb6/live/7dc89ef0-ad43-11f1-8a01-6d097895aae4.jpg",
-      "published": "9/10/2026, 8:07:23 PM",
-      "desc": "Defending champion Rory McIlroy sits four shots behind leader Joaquin Niemann after day one of the Irish Open at Doonbeg."
     },
     {
       "title": "Unexpected Match: John Harbaugh & Jaxson Dart's Obsession Could Be Enough To Fix Giants",
@@ -92,14 +196,6 @@
       "desc": "John Harbaugh told us why coaching Jaxson Dart intrigued him, and why he likes what he sees so far from the Giants QB."
     },
     {
-      "title": "Chiefs' Mahomes expects to play with no limitations in opener - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49895082/chiefs-mahomes-expects-play-no-limitations-opener",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698843_1296x729_16%2D9.jpg",
-      "published": "9/10/2026, 7:23:15 PM",
-      "desc": "Patrick Mahomes said he expects to play with no limitations when he returns from torn knee ligaments in the Chiefs' Monday night game against the Broncos."
-    },
-    {
       "title": "2030 Winter Olympics boss Edgar Grospiron departs amid turmoil",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/articles/c980dgv6vyqo",
@@ -108,111 +204,23 @@
       "desc": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment."
     },
     {
-      "title": "Richarlison: Brazil striker and Tottenham Hotspur in dispute over contract",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg",
-      "published": "9/10/2026, 7:07:21 PM",
-      "desc": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract."
-    },
-    {
       "title": "Joel Klatt: Kyle Whittingham 'Not Tied To' Bryce Underwood Amid QB Struggles",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/college-football/michigan-kyle-whittingham-nbryce-underwood-qb-struggles",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/michigan.png?ve=1&tl=1",
       "published": "9/10/2026, 7:07:20 PM",
       "desc": "Joel Klatt joined \"The Herd\" to discuss the relationship between Michigan head coach Kyle Whittingham and QB Bryce Underwood."
-    },
-    {
-      "title": "Packers RB Josh Jacobs Pleads No Contest To 2 Misdemeanors, Including Battery",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/josh-jacobs-update-packers-running-back-depth-chart",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/josh2.jpg?ve=1&tl=1",
-      "published": "9/10/2026, 7:07:18 PM",
-      "desc": "Green Bay Packers running back Josh Jacobs pleaded no contest Thursday to misdemeanor charges of battery and criminal damage to property."
-    },
-    {
-      "title": "5-star NaVorro Bowman Jr., son of ex-NFL star, picks UConn hoops - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49894654/5-star-navorro-bowman-jr-son-ex-nfl-star-picks-uconn-hoops",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0107%2Fr1597714_1296x729_16%2D9.jpg",
-      "published": "9/10/2026, 6:53:13 PM",
-      "desc": "Five-star guard NaVorro Bowman Jr., the son of former NFL standout NaVorro Bowman, has committed to UConn, he told ESPN's Adam Schefter on Thursday, giving the Huskies the highest-ranked committed player in the 2027 class."
-    },
-    {
-      "title": "Weight-loss drugs in sport: Ozempic, Mounjaro not on Wada banned list for athletes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/articles/cpwl1rlx17po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7147/live/91bb8c00-ad12-11f1-826f-933990eae6f0.jpg",
-      "published": "9/10/2026, 6:52:23 PM",
-      "desc": "Athletes will not be banned from using weight-loss drugs, but the substances will remain on a monitoring list."
-    },
-    {
-      "title": "Spanish Grand Prix: Lewis Hamilton says he and Charles Leclerc have 'squashed' Monza controversy",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b9e/live/7d143220-ad3a-11f1-9bc8-3509bd1a4ead.jpg",
-      "published": "9/10/2026, 6:37:36 PM",
-      "desc": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix."
-    },
-    {
-      "title": "England vs Pakistan: Brook, Smith, Lawrence and Robinson push hosts towards third Test win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2eb5/live/eb3f12c0-ad34-11f1-9bc8-3509bd1a4ead.jpg",
-      "published": "9/10/2026, 6:37:31 PM",
-      "desc": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston."
-    },
-    {
-      "title": "Champions League LIVE: Man Utd vs Sabah plus five games - scores, commentary & updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/ckgjq23d1d6qt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/38cc/live/46e75e00-ad46-11f1-ae59-91d2b63bf2a3.jpg",
-      "published": "9/10/2026, 6:37:27 PM",
-      "desc": "Follow live text updates and keep track of the latest scores and match stats from matchday one of the UEFA Champions League group phase."
-    },
-    {
-      "title": "Former hockey players sue Michigan over alleged sexualized hazing - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-sports/story/_/id/49892771/former-hockey-players-sue-michigan-alleged-sexualized-hazing",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0910%2Fr1714359_1296x729_16%2D9.jpg",
-      "published": "9/10/2026, 5:52:00 PM",
-      "desc": "Sixteen former Michigan hockey players sued the university Wednesday, alleging that the team's former coaches and other school leaders turned a blind eye to decades of ritualized hazing that was sexual in nature."
-    },
-    {
-      "title": "NFL Week 1 Betting Report: Books, Bettors Still Navigating 49ers-Rams Tilt",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-1-betting-report-books-bettors-still-navigating-49ers-rams-tilt",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/mcvay-910.jpg?ve=1&tl=1",
-      "published": "9/10/2026, 5:37:27 PM",
-      "desc": "Navigating the NFC West battle on the other side of the globe is no easy task for bettors or books. That and more from Patrick Everson."
-    },
-    {
-      "title": "2026 NFL Odds Week 1: Lines, Spreads, Results For All 16 Games",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/artboard-1-14.jpg?ve=1&tl=1",
-      "published": "9/10/2026, 5:37:24 PM",
-      "desc": "Check out the early odds, spreads and totals for all 16 Week 1 games."
-    },
-    {
-      "title": "Sam Darnold Injury Updates: What We Know About Seahawks QB's Hip Issue",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/sam-darnold-injury-updates-seahawks-patriots-finish",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/sam-1.jpg?ve=1&tl=1",
-      "published": "9/10/2026, 5:22:24 PM",
-      "desc": "The Seattle Seahawks have reportedly avoided a worst-case scenario with QB Sam Darnold, who suffered a hip injury in Week 1."
-    },
-    {
-      "title": "College Football Week 2 Expert Picks, Predictions For Michigan-Oklahoma And More",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/picks-predictions-odds-week-2-michigan-oklahoma-texas-ohio-state",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/16x9-19.jpg?ve=1&tl=1",
-      "published": "9/10/2026, 5:22:21 PM",
-      "desc": "Here are FOX Sports' expert picks and predictions for Week 2 of the college football season."
     }
   ],
   "tech": [
+    {
+      "title": "The C63 is back... sort of: this is the new Merc-AMG CLE 646, a RWD V8 super coupe - Top Gear",
+      "source": "Top Gear",
+      "url": "https://www.topgear.com/car-news/first-look/c63-back-sort-new-merc-amg-cle-646-a-rwd-v8-super-coupe",
+      "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/09/35b1dcf851fb9309d600840be32eeec5/pre_media_26c0252_019.jpg?w=1280&h=720",
+      "published": "9/10/2026, 6:45:00 PM",
+      "desc": "The 'Spezialanfertigung' CLE is a limited-edition AMG. You watching, Mustang GTD?"
+    },
     {
       "title": "Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day - IGN",
       "source": "IGN",
@@ -230,20 +238,20 @@
       "desc": "Come inside the mind of a bot trying to convince the internet it's human."
     },
     {
-      "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_9998.jpg",
-      "published": "9/10/2026, 5:19:39 PM",
-      "desc": "Finally a battery worthy of an ultramarathon, better health sensors and a powerful processor that keeps it running."
+      "title": "Apple Stock Alert: UBS Issues Urgent Message After $1,999 Foldable iPhone Launch - Yahoo Finance",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-alert-ubs-issues-172753768.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "published": "9/10/2026, 5:27:53 PM",
+      "desc": "UBS Holds Neutral on Apple as $1,999 Foldable iPhone Raises Pricing Concerns"
     },
     {
-      "title": "Apple’s big goal after foldable iPhone - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cc99c301-8c5d-4014-889e-8eb374d993f9?syn-25a6b1a6\\\\u003d1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8726f837-5ff0-4ba8-b5db-d8853b9dbcb3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "published": "9/10/2026, 5:12:31 PM",
-      "desc": "The first critical step for new CEO John Ternus will be to make AI an everyday reality on its devices"
+      "title": "Xbox Makes 6 Games Free to Play This Weekend - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/xbox-free-play-weekend-september-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/borderlands-4-loveless-malignant-construct.png?w=1600&h=900&fit=crop",
+      "published": "9/10/2026, 4:51:19 PM",
+      "desc": "Thanks to the Free Play Days campaign on Xbox, players can enjoy three full days of free video games as well as a complimentary sale."
     },
     {
       "title": "Google brings Gemini for desktop app to Windows - 9to5google.com",
@@ -268,14 +276,6 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/6aa2d9c4f472c612f0838624/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "published": "9/10/2026, 4:25:48 PM",
       "desc": "Nintendo is one of more than 80 companies facing lawsuits from customers who want to see a piece of the federal tariff refunds given by the government."
-    },
-    {
-      "title": "Android rolling out passkey transfers between password managers - 9to5google.com",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/10/android-passkey-password-transfer/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-passkey-password-transfer.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "9/10/2026, 4:00:00 PM",
-      "desc": "Google announced today that Android now offers a system-level way to transfer passwords and passkeys between credential managers."
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 3,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 3,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 4,
@@ -383,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "BAD TIMES",
-      "artist": "Imael Angel",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
-    },
-    {
-      "rank": 6,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
@@ -400,7 +391,25 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
+      "rank": 6,
+      "title": "BAD TIMES",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+    },
+    {
       "rank": 7,
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 8,
       "title": "Cold Little Heart",
       "artist": "Michael Kiwanuka",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/ad/7e/c4ad7e3d-11c5-a0dc-801a-605dd6764147/16UMGIM11863.rgb.jpg/300x300bb.jpg",
@@ -409,22 +418,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Kiwanuka%20Cold%20Little%20Heart"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 9,
-      "title": "Bass Persuades",
-      "artist": "Miley Cyrus",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/49/16/d7491673-f360-48e1-21e1-e9ae87899e34/mzaf_8874309465923037266.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bass-persuades/6807197456?i=6807197459&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Miley%20Cyrus%20Bass%20Persuades"
     },
     {
       "rank": 10,
@@ -437,12 +437,12 @@
     },
     {
       "rank": 11,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "Bass Persuades",
+      "artist": "Miley Cyrus",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/49/16/d7491673-f360-48e1-21e1-e9ae87899e34/mzaf_8874309465923037266.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bass-persuades/6807197456?i=6807197459&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Miley%20Cyrus%20Bass%20Persuades"
     },
     {
       "rank": 12,
@@ -455,30 +455,30 @@
     },
     {
       "rank": 13,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 14,
+      "title": "9 To 5",
+      "artist": "Dolly Parton",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c5/d6/48/c5d648b3-7977-1953-17fb-c57aed4e4539/dj.ebwqbkfy.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/f6/97/77f6972f-613e-c441-2cc0-a8f7dfa5af1e/mzaf_15037309815032133767.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/9-to-5/283305967?i=283305973&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dolly%20Parton%209%20To%205"
+    },
+    {
+      "rank": 15,
       "title": "Training Season",
       "artist": "Dua Lipa",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a8/87/16/a88716e2-9474-ec4e-06d6-d3a9a3ba96c8/mzaf_6258558385119267725.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/training-season/1727526670?i=1727526894&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Training%20Season"
-    },
-    {
-      "rank": 14,
-      "title": "My Whole World",
-      "artist": "Kings of Leon",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/84/79/c2847988-ab33-0de8-0dc3-ebf0c6cbd0b4/00823375343684_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/9b/24/c29b24d0-4aae-1904-ac1a-ae903f300329/mzaf_9358536570732653524.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-whole-world/6802901441?i=6802901668&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kings%20of%20Leon%20My%20Whole%20World"
-    },
-    {
-      "rank": 15,
-      "title": "Babydoll",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     }
   ],
   "movies": [
@@ -511,21 +511,21 @@
     },
     {
       "rank": 4,
-      "title": "Practical Magic 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "url": "https://www.themoviedb.org/movie/1302904"
-    },
-    {
-      "rank": 5,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
+      "rank": 5,
+      "title": "Practical Magic 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "url": "https://www.themoviedb.org/movie/1302904"
     },
     {
       "rank": 6,
@@ -553,15 +553,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
       "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
       "url": "https://www.themoviedb.org/movie/1522689"
-    },
-    {
-      "rank": 9,
-      "title": "Supergirl",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
     }
   ],
   "tv": [
