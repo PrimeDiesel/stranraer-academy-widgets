@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-10T09:53:30.793Z",
-  "day": 252,
+  "generated": "2026-09-11T09:52:49.347Z",
+  "day": 253,
   "movie": {
-    "title": "The Muppets",
+    "title": "Detective Pikachu",
     "safe": true,
     "cert": "PG",
-    "source": "omdb-us",
-    "year": "2011",
-    "plot": "A Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.",
-    "poster": "https://image.tmdb.org/t/p/w500/ojkDl4RcI0DjxOpvtaDOIpPQpu.jpg",
-    "genre": "Adventure, Comedy, Family",
+    "source": "tmdb-uk",
+    "year": "2019",
+    "plot": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+    "poster": "https://image.tmdb.org/t/p/w500/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+    "genre": "",
     "season": null
   },
   "song": {
-    "key": "Prince-Purple Rain",
+    "key": "The Village People-Y.M.C.A.",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/09/cc/aa09ccec-3bd0-a38c-b515-9d9bfd889b62/093624914594.jpg/600x600bb.jpg",
-    "year": "1984",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/a7/03/22/mzi.wafixwot.jpg/600x600bb.jpg",
+    "year": "1978",
     "v": 4
   },
   "album": {
-    "key": "The Breeders-Last Splash",
+    "key": "Vampire Weekend-Vampire Weekend",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/48/b1/4848b127-2daa-bcd0-84f6-346851cec648/191400061156.png/600x600bb.jpg",
-    "year": "2023",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/fa/36/c4fa36f5-eee0-8549-bb95-3c341c82ef40/886447485521.jpg/600x600bb.jpg",
+    "year": "2019",
     "v": 4
   }
 }
