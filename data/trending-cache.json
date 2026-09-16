@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-16T18:00:02.047Z",
+  "updated": "2026-09-16T20:58:36.211Z",
   "news": [
+    {
+      "title": "Lucy Letby: What we learned about killer nurse from the Thirlwall Inquiry report",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "9/15/2026, 7:37:22 PM",
+      "desc": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history."
+    },
+    {
+      "title": "Search under way for boy missing from Suffolk playground",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9d0/live/d3d4f670-b12d-11f1-bc1f-3f186ca4140c.png",
+      "published": "9/15/2026, 7:07:24 PM",
+      "desc": "Police carry out door-to-door inquiries in Brantham and a helicopter has been seen circling the area."
+    },
+    {
+      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/113c/live/3fbe7290-b128-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "9/15/2026, 7:07:20 PM",
+      "desc": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said."
+    },
     {
       "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
       "source": "BBC News",
@@ -16,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fec9/live/093de4c0-b066-11f1-b9fd-8be7457ad079.jpg",
       "published": "9/15/2026, 4:52:22 PM",
       "desc": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage."
-    },
-    {
-      "title": "Noah Donohoe: Inquest verdict delivered but questions remain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm20j8re574o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/868e/live/eda15b10-7470-11f1-8546-8f19e4fe30f4.jpg",
-      "published": "9/15/2026, 4:37:19 PM",
-      "desc": "After years of delay, the jury has reached a verdict but some questions remain unanswered over what happened to the 14-year-old."
     },
     {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
@@ -48,25 +64,89 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/225a/live/77b8e540-a0ca-11f1-ad58-4d48ded76db6.jpg",
       "published": "9/15/2026, 1:37:23 PM",
       "desc": "The former England winger crashed his Lamborghini into motorway barriers in May."
-    },
-    {
-      "title": "Two dead after car hits group of pedestrians in Doncaster",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d58/live/a8ddf3b0-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
-      "published": "9/15/2026, 11:07:23 AM",
-      "desc": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say."
-    },
-    {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
-      "published": "9/15/2026, 10:52:17 AM",
-      "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
     }
   ],
   "sports": [
+    {
+      "title": "West Ham United 2-3 Fulham: Oscar Bobb strikes winner in thriller",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cwm2rdlj5d17t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/01ac/live/61480fb0-b13d-11f1-8e7a-7b6c4dcbe4b5.jpg",
+      "published": "9/15/2026, 9:07:39 PM",
+      "desc": "Oscar Bobb struck his first Fulham goal to seal their place in the fourth round of the Carabao Cup after a thriller at West Ham."
+    },
+    {
+      "title": "Bristol City 0-1 Lincoln City: Imps get better of former boss Michael Skubala's side",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6n9w57z033lt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3630/live/b5130b60-b145-11f1-a383-57f33d64a166.jpg",
+      "published": "9/15/2026, 9:07:30 PM",
+      "desc": "Lincoln City get the upper hand on their former manager Michael Skubala as they beat his Bristol City side at Ashton Gate."
+    },
+    {
+      "title": "Thomas Tuchel: England boss regrets not eating Azteca turf after World Cup win in Mexico",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg",
+      "published": "9/15/2026, 7:37:22 PM",
+      "desc": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico."
+    },
+    {
+      "title": "Woman in Josh Jacobs case wants evidence permanently sealed - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49951016/woman-josh-jacobs-case-wants-evidence-permanently-sealed",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1030%2Fr1568397_1296x729_16%2D9.jpg",
+      "published": "9/15/2026, 7:14:03 PM",
+      "desc": "Attorneys representing the former girlfriend of Josh Jacobs have filed a motion to permanently seal evidence and discovery materials in the criminal case involving the Packers RB."
+    },
+    {
+      "title": "NBA weighed precedent before punishing Clippers in salary cap case - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49951012/nba-weighed-precedent-punishing-clippers-salary-cap-case",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0915%2Fr1717169_1296x729_16%2D9.jpg",
+      "published": "9/15/2026, 7:12:20 PM",
+      "desc": "NBA commissioner Adam Silver said the league looked at similar cases before taking away five first-round draft picks from the L.A. Clippers for circumventing salary cap rules."
+    },
+    {
+      "title": "Texas' Arch Manning apologizes for reaction to violent AI video - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49950893/texas-arch-manning-apologizes-reaction-violent-ai-video",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0915%2Fr1716994_1296x729_16%2D9.jpg",
+      "published": "9/15/2026, 6:47:58 PM",
+      "desc": "Texas QB Arch Manning has apologized for an \"insensitive\" comment about an AI-generated video that depicted coach Steve Sarkisian slapping ESPN's Holly Rowe."
+    },
+    {
+      "title": "It's Roberto Clemente Day! Pirates Legend's MLB Career By The Numbers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/roberto-clemente-day-pirates-records",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/roberto.jpg?ve=1&tl=1",
+      "published": "9/15/2026, 6:37:23 PM",
+      "desc": "It's Roberto Clemente Day! Here's the Pittsburgh Pirates legend and Baseball Hall of Famer's MLB career by the numbers."
+    },
+    {
+      "title": "Vanderbilt freshman QB Jared Curtis to start vs. NC State - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49950785/vanderbilt-freshman-qb-jared-curtis-debut-vs-nc-state",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0429%2Fr1650989_1296x729_16%2D9.jpg",
+      "published": "9/15/2026, 6:26:54 PM",
+      "desc": "Vanderbilt freshman quarterback Jared Curtis will start Saturday against NC State after accounting for three of the Commodores' four touchdowns in last weekend's 35-26 win over Delaware."
+    },
+    {
+      "title": "Dodgers Clinch History: The Longest Postseason Appearance Streaks In MLB",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/los-angeles-dodgers-mlb-postseason-record-streak",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/bettsh1.jpg?ve=1&tl=1",
+      "published": "9/15/2026, 6:22:28 PM",
+      "desc": "The Dodgers tied an MLB record with their 14th-straight postseason appearance. Here are all the longest postseason streaks in MLB history."
+    },
+    {
+      "title": "Scottish Premiership LIVE - radio, text updates, team news, analysis, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cwzrzk6xvkk0t",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "9/15/2026, 6:22:22 PM",
+      "desc": "Listen to Sportsound commentary from Falkirk and follow live text coverage of Tuesday's three Scottish Premiership fixtures."
+    },
     {
       "title": "Who Are The 10 Best INDYCAR Drivers Of All Time?",
       "source": "Fox Sports",
@@ -90,14 +170,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ec4/live/aec5ba60-b12b-11f1-8ecc-07cd1cee2987.jpg",
       "published": "9/15/2026, 5:52:14 PM",
       "desc": "Follow live text commentary from the third round of the EFL Cup, with six Premier League teams in action, including Liverpool v Spurs & Ipswich v Arsenal"
-    },
-    {
-      "title": "PGA Tour not planning return program for LIV Golf stars",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/c5pve7md09wgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2607/live/a4257710-b11e-11f1-8ecc-07cd1cee2987.jpg",
-      "published": "9/15/2026, 5:22:29 PM",
-      "desc": "PGA Tour chief executive Brian Rolapp says there are no plans to create an instant pathway back for LIV Golf's biggest stars after the breakaway series filed for bankruptcy protection."
     },
     {
       "title": "Manchester derby VAR error: Howard Webb really disappointed with missed offside",
@@ -138,144 +210,72 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/caminero-915.jpg?ve=1&tl=1",
       "published": "9/15/2026, 5:07:32 PM",
       "desc": "The AL and NL pennant favorites have two specific teams directly in their rearview mirrors. Who will make the World Series? See the odds."
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/3d5ada69-artboard-1-1.jpg?ve=1&tl=1",
-      "published": "9/15/2026, 5:07:29 PM",
-      "desc": "The Bills and Ravens appear to be in midseason form, while a few other teams ... do not. See the latest playoff odds after Week 1."
-    },
-    {
-      "title": "2026 NASCAR Cup Series Title Odds: Hamlin Favored To Win Chase; Larson Closing In",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-cup-series-championship-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1294/728/2025-11-20_nascar-awards_16x9.jpg?ve=1&tl=1",
-      "published": "9/15/2026, 5:07:26 PM",
-      "desc": "Denny Hamlin is favored to win The Chase, but one driver is closing in on the NASCAR Cup Series title oddsboard. Here's the latest."
-    },
-    {
-      "title": "2026 NFL Comeback Player of Year Odds: Mahomes Favored; Donald In The Mix",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/chiefs-915.jpg?ve=1&tl=1",
-      "published": "9/15/2026, 3:52:21 PM",
-      "desc": "Patrick Mahomes is the favorite to win NFL Comeback Player of the Year, but a returning superstar has yet to make his mark this season."
-    },
-    {
-      "title": "Sophie Cunningham: I talked with Adam Silver about next WNBA commissioner - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/49949851/sophie-cunningham-talked-adam-silver-next-wnba-commissioner",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0805%2Fr1698024_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 3:45:16 PM",
-      "desc": "Sophie Cunningham has discussed the soon-to-be vacant WNBA commissioner's job with Adam Silver after the NBA commissioner reached out to her."
-    },
-    {
-      "title": "NFL, NBA, MLB, NHL, MLS urge action against threats from bettors - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/betting/sports/story/_/id/49949715/nfl-nba-mlb-nhl-mls-urge-action-threats-bettors",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0127%2Fr48631_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 3:26:19 PM",
-      "desc": "The NFL, NBA, MLB, NHL, MLS and their players' unions are urging state gambling regulators to combat escalating harassment and violent threats from sports bettors."
-    },
-    {
-      "title": "UFC's Islam Makhachev questions validity of Jon Jones' wins streak - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49949666/ufc-islam-makhachev-questions-validity-jon-jones-win-streak",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702425_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 3:13:39 PM",
-      "desc": "UFC champ Islam Makhachev believes Jon Jones' failed drug tests and issues outside the Octagon invalidate Jones' place among the UFC's all-time streaks for consecutive wins."
-    },
-    {
-      "title": "Sources: Jets rookie WR Omar Cooper (ankle) week-to-week - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49949341/sources-jets-rookie-wr-omar-cooper-ankle-week-week",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0913%2Fr1716072_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 2:23:19 PM",
-      "desc": "Jets rookie wide receiver Omar Cooper Jr., who left New York's 23-10 Week 1 victory over the Tennessee Titans in the first quarter, suffered an ankle sprain and the MRI showed some positive news, sources told NFL Network's Ian Rapoport."
-    },
-    {
-      "title": "Fantasy football Week 2 PPR, IDP and superflex rankings - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0914%2Fr1716699_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 2:16:00 PM",
-      "desc": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks."
-    },
-    {
-      "title": "Blackhawks name Bedard, 21, franchise's 2nd-youngest captain - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49949169/blackhawks-name-bedard-21-franchise-2nd-youngest-captain",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0106%2Fr1597446_1296x729_16%2D9.jpg",
-      "published": "9/15/2026, 2:02:16 PM",
-      "desc": "The Blackhawks named Connor Bedard, 21, as captain, the second-youngest captain in franchise history. Jonathan Toews was 20 when he received the honor."
     }
   ],
   "tech": [
     {
-      "title": "Mercari and Pokemon Target Scalpers By Banning Listings of Sealed \"30th Anniversary\" Products - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/2026/09/mercari-and-pokemon-target-scalpers-by-banning-listings-of-sealed-30th-anniversary-products",
-      "image": "https://www.pokebeach.com/news/2026/09/30th-Celebration-Booster-Box-Japanese.webp",
-      "published": "9/15/2026, 3:55:20 PM",
-      "desc": "In partnership with The Pokemon Company, Japanese resale marketplace Mercari has announced a temporary ban on listings of sealed 30th Anniversary"
-    },
-    {
-      "title": "Apple Watch adds an all-new Readiness app, here’s how it works - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?resize=1200,628",
-      "published": "9/15/2026, 2:38:00 PM",
-      "desc": "Apple Watch is gaining an all-new health-related app called Readiness. Here’s what you need to know about Apple’s new fitness-focused..."
-    },
-    {
-      "title": "Total War: SHOGUN 2 Complete Edition announced for PC - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/09/total-war-shogun-2-complete-edition-announced-for-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/09/SHOGUN-2-CE_09-15-26.jpg",
-      "published": "9/15/2026, 2:27:00 PM",
-      "desc": "Publisher SEGA and developer Creative Assembly have announced Total War: SHOGUN 2 Complete Edition, which includes the base game, all downloadable content, and a range of improvements such as updat…"
-    },
-    {
-      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint - theverge.com",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/instax4.jpg?quality=90&strip=all&crop=0,10.715508985803,100,78.568982028394",
-      "published": "9/15/2026, 2:03:18 PM",
-      "desc": "﻿The $170 Pal 2 includes an LCD screen, a 10-megapixel sensor, autofocus, and face detection."
-    },
-    {
-      "title": "No One Can Believe The Current Price Of An Nvidia RTX 5090 - Kotaku",
+      "title": "Wardogs CEO: Studio Doesn't Hire People Who Advocate Against Crunch - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/nvidia-rtx-5090-gpu-stock-best-buy-amazon-price-genai-ai-2000734583",
-      "image": "https://kotaku.com/app/uploads/2026/09/rtx5090.jpg",
-      "published": "9/15/2026, 2:00:53 PM",
-      "desc": "The top-end GPU has hit astronomical prices, even in large retail stores"
+      "url": "https://kotaku.com/wardogs-boss-says-studio-checks-social-accounts-for-anti-crunch-posts-youre-not-going-to-be-happy-here-so-were-not-going-to-go-with-you-2000734726",
+      "image": "https://kotaku.com/app/uploads/2026/09/WardogsMainWallpaper-1200x675.jpg",
+      "published": "9/15/2026, 7:31:01 PM",
+      "desc": "The studio behind Steam super-hit Wardogs won't hire people who publicly criticize crunching"
     },
     {
-      "title": "Long ‘Marathon’ Season 3 Delay Has Echoes Of Destiny 2’s End, Worry Fans - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/09/15/long-marathon-season-3-delay-has-echoes-of-destiny-2s-end-worry-fans/",
+      "title": "How Fast is Apple's M5 Ultra Chip? First Benchmark Result is Truly Wild - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
+      "image": "https://images.macrumors.com/t/-qvBzGQTT76kdueM_1qAasFQePA=/1672x/article-new/2026/09/M5-Ultra-Hero.jpeg",
+      "published": "9/15/2026, 6:00:47 PM",
+      "desc": "The first unverified benchmark result for Apple's new M5 Ultra chip surfaced in the Geekbench 7 database today, offering a look at the chip's..."
+    },
+    {
+      "title": "Google rolling out Android 17 QPR1 for Pixel - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/15/android-17-qpr1-pixel/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Pixel-Feature-Drop-5.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "9/15/2026, 6:00:00 PM",
+      "desc": "Android 17 QPR1 is rolling out to Google Pixel devices with the September 2026 Feature Drop and security patch."
+    },
+    {
+      "title": "Google just shared these fun Pixel 11 blueprint wallpapers [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/15/google-pixel-11-blueprint-wallpapers/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-11-blueprint-wallpaper.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "9/15/2026, 5:55:00 PM",
+      "desc": "Google has shared some new blueprint-style wallpapers for the Pixel 11 series, and they look pretty awesome. Shared through the..."
+    },
+    {
+      "title": "AI agents now have a place to snitch - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+      "published": "9/15/2026, 5:42:59 PM",
+      "desc": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+    },
+    {
+      "title": "Whoever Put Together The Kingdom Hearts Fortnite Trailer Knows Ball - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/kingdom-hearts-fortnite-trailer-kingdom-hearts-2-2000734646",
+      "image": "https://kotaku.com/app/uploads/2026/09/sorafortnite-1200x675.jpg",
+      "published": "9/15/2026, 5:30:53 PM",
+      "desc": "I am not immune to propaganda, especially if it comes wrapped in Hikaru Utada's 'Sanctuary'"
+    },
+    {
+      "title": "Your iPhone may die faster this week: Here’s why - The Hill",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6081464-your-iphone-may-die-faster-this-week-heres-why/",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP24024719607780-e1726610240544.jpg?w=1280",
+      "published": "9/15/2026, 5:13:00 PM",
+      "desc": "As annoying as it may be, it should be short-lived."
+    },
+    {
+      "title": "Live Q&A: Ask Me Your Questions About iPhone Duo, iOS 27, the New Siri and More - wsj.com",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/personal-tech/live-q-a-iphone-duo-ios-27-new-siri-d2786101",
       "image": "",
-      "published": "9/15/2026, 1:49:10 PM",
+      "published": "9/15/2026, 5:04:00 PM",
       "desc": ""
-    },
-    {
-      "title": "Battery draining faster after updating to iOS 27? Don’t panic … - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "9/15/2026, 1:35:00 PM",
-      "desc": "If you’ve just updated your iPhone to iOS 27, you may have felt concerned after seeing your battery draining faster..."
-    },
-    {
-      "title": "iOS 27 adds new Phone app feature that’s an instant favorite - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "9/15/2026, 1:34:00 PM",
-      "desc": "Out of all the various upgrades in iOS 27, one of the features that’s impressed me most is a new Phone addition: Call Context."
     }
   ],
   "education": [
@@ -365,12 +365,12 @@
     },
     {
       "rank": 3,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
       "rank": 4,
@@ -383,30 +383,30 @@
     },
     {
       "rank": 5,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 6,
-      "title": "Ordinary",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
-    },
-    {
-      "rank": 7,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+    },
+    {
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 7,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 8,
@@ -476,7 +476,7 @@
       "title": "Bass Persuades",
       "artist": "Miley Cyrus",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/0c/1d/e30c1d27-b358-96ee-3079-06ebad8ca3dc/mzaf_6447446845751145935.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/d4/32/00d432e3-a454-b3c9-d905-415d3afcb5f7/mzaf_4705230866933064384.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bass-persuades/6807197456?i=6807197459&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Miley%20Cyrus%20Bass%20Persuades"
     }
@@ -511,24 +511,6 @@
     },
     {
       "rank": 4,
-      "title": "Mayday",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "url": "https://www.themoviedb.org/movie/1137844"
-    },
-    {
-      "rank": 5,
-      "title": "Practical Magic 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "url": "https://www.themoviedb.org/movie/1302904"
-    },
-    {
-      "rank": 6,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
@@ -537,32 +519,51 @@
       "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
+      "rank": 5,
+      "title": "Mayday",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "url": "https://www.themoviedb.org/movie/1137844"
+    },
+    {
+      "rank": 6,
+      "title": "Practical Magic 2",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "url": "https://www.themoviedb.org/movie/1302904"
+    },
+    {
       "rank": 7,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
-      "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "url": "https://www.themoviedb.org/movie/1300968"
-    },
-    {
-      "rank": 8,
-      "title": "Disclosure Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "url": "https://www.themoviedb.org/movie/1275779"
-    },
-    {
-      "rank": 9,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 8,
+      "title": "PAW Patrol: The Dino Movie",
+      "year": "2026",
+      "cert": "U",
+      "poster": "https://image.tmdb.org/t/p/w342/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+      "url": "https://www.themoviedb.org/movie/1185806"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "Futurama",
+      "year": "1999",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "url": "https://www.themoviedb.org/tv/615"
+    }
+  ]
 }
