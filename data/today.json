@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-15T10:13:28.206Z",
-  "day": 257,
+  "generated": "2026-09-16T10:07:25.038Z",
+  "day": 258,
   "movie": {
-    "title": "The Wizard of Oz",
+    "title": "The Graduate",
     "safe": true,
-    "cert": "U",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1939",
-    "plot": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-    "poster": "https://image.tmdb.org/t/p/w500/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+    "year": "1967",
+    "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+    "poster": "https://image.tmdb.org/t/p/w500/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Seether-Broken",
+    "key": "Fleetwood Mac-Go Your Own Way",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/75/b1/7175b1a8-d6ac-5213-11c6-f0b3b0da721d/14CMGIM00783.rgb.jpg/600x600bb.jpg",
-    "year": "2004",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg",
+    "year": "1976",
     "v": 4
   },
   "album": {
-    "key": "The Script-The Script",
+    "key": "Kruder & Dorfmeister-The K&D Sessions",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/39/a3/f239a3af-6ec2-53ea-6b7b-1626e4121cec/4099964267297.jpg/600x600bb.jpg",
-    "year": "2026",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/61/63/0b616328-ad3a-8f37-fa63-d054b5dee813/Kruder_Dorfmeister_-_The_K_D_Sessions.jpg/600x600bb.jpg",
+    "year": "1998",
     "v": 4
   }
 }
