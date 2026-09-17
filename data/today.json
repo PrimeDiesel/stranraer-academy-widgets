@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-16T10:07:25.038Z",
-  "day": 258,
+  "generated": "2026-09-17T10:09:58.147Z",
+  "day": 259,
   "movie": {
-    "title": "The Graduate",
+    "title": "Oliver!",
     "safe": true,
-    "cert": "12A",
+    "cert": "U",
     "source": "tmdb-uk",
-    "year": "1967",
-    "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
-    "poster": "https://image.tmdb.org/t/p/w500/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+    "year": "1968",
+    "plot": "Musical adaptation of Charles Dickens' Oliver Twist, a classic tale of an orphan who runs away from the workhouse and joins up with a group of boys headed by the Artful Dodger and trained to be pickpockets by master thief Fagin.",
+    "poster": "https://image.tmdb.org/t/p/w500/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Fleetwood Mac-Go Your Own Way",
+    "key": "Jimi Hendrix-Purple Haze",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg",
-    "year": "1976",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/e9/b9/53e9b9f0-97f4-aac7-ee5b-12c2f2007ad3/884977413878.jpg/600x600bb.jpg",
+    "year": "1967",
     "v": 4
   },
   "album": {
-    "key": "Kruder & Dorfmeister-The K&D Sessions",
+    "key": "The Decemberists-Picaresque",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/61/63/0b616328-ad3a-8f37-fa63-d054b5dee813/Kruder_Dorfmeister_-_The_K_D_Sessions.jpg/600x600bb.jpg",
-    "year": "1998",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/6f/70/da/mzi.kfvrlpbn.jpg/600x600bb.jpg",
+    "year": "2005",
     "v": 4
   }
 }
