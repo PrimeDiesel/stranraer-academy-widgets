@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-19T19:13:04.187Z",
+  "updated": "2026-09-19T22:11:39.516Z",
   "news": [
+    {
+      "title": "US and Denmark reach deal over Greenland's security",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+      "published": "9/18/2026, 10:22:26 PM",
+      "desc": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
+    },
+    {
+      "title": "JP Morgan struggling to forecast oil prices due to US-Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg",
+      "published": "9/18/2026, 8:07:20 PM",
+      "desc": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross."
+    },
+    {
+      "title": "Donald Trump says he is banning CNN, Politico and MS NOW from White House",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "9/18/2026, 7:52:17 PM",
+      "desc": "The US president has had a tense and fiery relationship with the US media since returning to office."
+    },
     {
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
       "source": "BBC News",
@@ -8,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg",
       "published": "9/18/2026, 5:52:23 PM",
       "desc": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"."
-    },
-    {
-      "title": "A Very British Cult: Three men lose appeal for harrassing BBC journalist over documentary",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j4k34ze07o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg",
-      "published": "9/18/2026, 5:22:22 PM",
-      "desc": "Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community service and restraining orders for their harassment of Catrin Nye."
     },
     {
       "title": "Woman gives police officer a lift in Nissan Micra while chasing man",
@@ -48,32 +64,144 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg",
       "published": "9/18/2026, 3:07:25 PM",
       "desc": "She was best known for playing the character Dr Beatrice Mason in the 1980s BBC wartime TV drama"
-    },
-    {
-      "title": "Oxford United apologises for United 93 shirt advert",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d893/live/acc645e0-b365-11f1-8f19-bd786ea30d0b.jpg",
-      "published": "9/18/2026, 2:07:30 PM",
-      "desc": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks."
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
-      "published": "9/18/2026, 1:37:23 PM",
-      "desc": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     }
   ],
   "sports": [
     {
-      "title": "Championship LIVE: Bristol City v Watford - build-up, team news, score updates, text commentary, match stats & head-to-head",
+      "title": "Max Dowman: Arsenal open to loan switch for teenage prodigy in right circumstances",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crgjqn596325t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ce9/live/584d6070-b1bc-11f1-bdcf-d393eb724fa3.jpg",
-      "published": "9/18/2026, 6:52:25 PM",
-      "desc": "Follow live text commentary, score updates and match stats as Bristol City take on Watford in the Championship."
+      "url": "http://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg",
+      "published": "9/18/2026, 9:52:28 PM",
+      "desc": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development."
+    },
+    {
+      "title": "Heat, Pelle Larsson agree to 4-year, $60M extension - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49975177/heat-pelle-larsson-agree-4-year-60m-extension",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0723%2Fr1361967_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 9:46:35 PM",
+      "desc": "The Heat and guard Pelle Larsson have reached agreement on a four-year, $60 million extension his agents told ESPN's Shams Charania."
+    },
+    {
+      "title": "Yankees' Aaron Judge returns to injured list with calf strain - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49975146/yankees-aaron-judge-returns-injured-list-calf-strain",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0908%2Fr1713039_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 9:40:57 PM",
+      "desc": "Yankees slugger Aaron Judge is back on the IL after suffering a right calf strain. He had played just seven games since returning from a lengthy absence for a broken rib."
+    },
+    {
+      "title": "World Series of Darts Finals 2026: Luke Littler survives scare to progress",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg",
+      "published": "9/18/2026, 9:37:22 PM",
+      "desc": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam."
+    },
+    {
+      "title": "Judge allows case against ex-Bucknell coach to proceed - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/49975053/judge-allows-case-ex-bucknell-coach-proceed",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0519%2Fr210860_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 9:15:26 PM",
+      "desc": "A Pennsylvania judge ruled Friday to allow a criminal case related to the 2024 death of a freshman player to proceed against a former Bucknell football coach."
+    },
+    {
+      "title": "Brentford vs Chelsea player ratings: Henderson a vocal leader as Thiago lifts weight off shoulders",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg",
+      "published": "9/18/2026, 9:07:20 PM",
+      "desc": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings."
+    },
+    {
+      "title": "CFB Pick 'Em: Top Week 3 Games, Including LSU-Ole Miss, SMU-Louisville And More",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/pick-em-week-3-lsu-ole-miss-london-louisville-unc",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/week3-pickem16x9.png?ve=1&tl=1",
+      "published": "9/18/2026, 9:07:18 PM",
+      "desc": "Our college football pick 'em breakdown for Week 3's top games."
+    },
+    {
+      "title": "FBI case against fake 49ers player adds more alleged victims - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49975015/fbi-case-fake-49ers-player-adds-more-alleged-victims",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0831%2Fr1709333_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 9:04:17 PM",
+      "desc": "The FBI has identified 35 additional women who say they were defrauded by Daejon Love and Taylor Chan, bringing the total number of alleged victims in a case that included Love impersonating as a 49ers player to more than 60."
+    },
+    {
+      "title": "Commanders vs. Cowboys: 5 Things To Know About This Historic NFC East Rivalry",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-commanders-rivalry-nfc-east-history",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/wshdal.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 8:37:24 PM",
+      "desc": "Few NFL rivalries have been more intense than that of the Cowboys and Commanders. Here are five things to know about their storied history."
+    },
+    {
+      "title": "France, Real Madrid Star Kylian Mbappé Leaves Nike For Swiss Sportswear Brand On",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/france-real-madrid-star-kylian-mbappe-leaves-nike-swiss-sportswear-brand",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/7efab4bd-mbappe1.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 8:37:21 PM",
+      "desc": "Kylian Mbappé is trading the Swoosh for the On after two decades with Nike."
+    },
+    {
+      "title": "Ravens' Zay Flowers doubtful vs. Saints; Nnamdi Madubuike out - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49974738/ravens-zay-flowers-doubtful-vs-saints-nnamdi-madubuike-out",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0913%2Fr1716129_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 8:22:44 PM",
+      "desc": "Ravens receiver Zay Flowers is doubtful for Sunday's game vs. the Saints after he aggravated a left hamstring injury and missed the majority of practices this week."
+    },
+    {
+      "title": "Nats reward ace Cade Cavalli with 4-year contract through 2030 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49974720/nats-reward-ace-cade-cavalli-4-year-contract-2030",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701444_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 8:18:07 PM",
+      "desc": "Pitcher Cade Cavalli and the Washington Nationals have agreed to a four-year contract through the 2030 season, a deal that includes a team option for 2031."
+    },
+    {
+      "title": "Vikings Name Starting QB For Week 2 vs. Bears With Kyler Murray Injured",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/kyler-murray-injury-update-carson-wentz-stats-vikings-qbs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/carson2.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 7:52:29 PM",
+      "desc": "The Minnesota Vikings are starting Carson Wentz at quarterback in Week 2 with Kyler Murray still recovering from a concussion."
+    },
+    {
+      "title": "Zinedine Zidane Names 5 First-Time Call-Ups In France's Nations League Squad",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/zinedine-zidane-names-5-first-time-call-ups-frances-nations-league-squad",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/zidane1.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 7:52:27 PM",
+      "desc": "Zinedine Zidane started building the France team of the future by picking several new faces on Friday when naming his first squad since taking charge."
+    },
+    {
+      "title": "INDYCAR's Unforgettable 2026 Season And The Bright Future It Signals",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/indycar-analysis-james-hinchcliffe-palou-indy-500-washington-dc-2027",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/16x93-6.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 7:52:25 PM",
+      "desc": "New tracks, doubleheaders and making history are just some of James Hinchcliffe's highlights from the 2026 INDYCAR season."
+    },
+    {
+      "title": "BMW PGA Championship: Rory McIlroy in contention at Wentworth",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bef/live/e0a94c10-b390-11f1-ae81-31b49a394756.jpg",
+      "published": "9/18/2026, 7:22:23 PM",
+      "desc": "Rory McIlroy stays in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth."
+    },
+    {
+      "title": "Vikings to start QB Wentz vs. Bears with Murray still on the mend - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49974401/vikings-start-qb-wentz-vs-bears-murray-mend",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0918%2Fr1718604_1296x729_16%2D9.jpg",
+      "published": "9/18/2026, 6:59:33 PM",
+      "desc": "Carson Wentz will be the Vikings' starting quarterback Sunday against the Bears while Kyler Murray continues to work his way back after suffering a concussion in the season opener."
     },
     {
       "title": "Bundesliga LIVE: Bayern Munich vs Union Berlin - build-up, team news, score, TV coverage, text commentary, match stats & head-to-head",
@@ -82,137 +210,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e63f/live/452db810-b391-11f1-ae81-31b49a394756.jpg",
       "published": "9/18/2026, 6:52:23 PM",
       "desc": "Watch TV coverage, follow live text commentary, score updates and match stats as Bayern Munich take on Union Berlin in the German Bundesliga."
-    },
-    {
-      "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0908%2Fr1713218_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 5:54:41 PM",
-      "desc": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans."
-    },
-    {
-      "title": "WSL LIVE: Manchester City vs Liverpool - build-up, team news, score, radio commentary, text updates, match stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c620l81rwqyqt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "9/18/2026, 5:52:32 PM",
-      "desc": "Listen to BBC Radio 5 Live commentary, follow live text and score updates and track match stats as Manchester City take on Liverpool in the Women's Super League."
-    },
-    {
-      "title": "Premier League LIVE: Brentford vs Chelsea - build-up, team news, score updates, text commentary, match stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmrl69xy3lyyt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/64cd/live/7e6d5930-b37f-11f1-9023-9990160baacc.jpg",
-      "published": "9/18/2026, 5:52:29 PM",
-      "desc": "Follow live text commentary, score updates and match stats as Brentford take on Chelsea in the Premier League."
-    },
-    {
-      "title": "New Portugal Coach Jorge Jesus Includes Cristiano Ronaldo In Nations League Squad",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/new-portugal-coach-jorge-jesus-includes-cristiano-ronaldo-nations-league-squad",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/ronaldo1.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 5:52:21 PM",
-      "desc": "Cristiano Ronaldo was included in Portugal’s squad by new coach Jorge Jesus for its upcoming Nations League games on Friday."
-    },
-    {
-      "title": "19-Year-Old Defender Noahkai Banks Chooses To Represent Germany Over USA",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/19-year-old-defender-noahkai-banks-chooses-represent-germany-over-usa",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/57b36d2d-banks1.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 5:37:22 PM",
-      "desc": "German-American defender Noahkai Banks has decided to play for Germany in future, the country's national under-21 coach Antonio Di Salvo said Friday."
-    },
-    {
-      "title": "Michele Kang says London City Lionesses' new training ground will set a new standard in women's football",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/crl69549wzro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a127/live/b29a2fc0-b01f-11f1-95e6-93ee8a80cb38.jpg",
-      "published": "9/18/2026, 5:07:28 PM",
-      "desc": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs."
-    },
-    {
-      "title": "Ty Gibbs Carries Kyle Busch Tribute Into Bristol With Iconic M&Ms Paint Scheme",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/ty-gibbs-carries-kyle-busch-tribute-bristol",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/ty-gibbs_horizontal_bob-pockrass_bristol.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 5:07:21 PM",
-      "desc": "Ty Gibbs will honor Kyle Busch with an M&Ms paint scheme at Bristol, a track where Busch achieved some of his greatest accomplishments."
-    },
-    {
-      "title": "Uefa and Concacaf demand Fifa pays $10m to all 211 member countries",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c6158x85pv19o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42ea/live/aa7cf650-b35e-11f1-8f19-bd786ea30d0b.jpg",
-      "published": "9/18/2026, 5:07:18 PM",
-      "desc": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations."
-    },
-    {
-      "title": "Ex-U.S. youth defender Noahkai Banks picks Germany over USMNT - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49974049/noahkai-banks-germany-usa-augsburg",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0918%2Fr1718669_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 4:50:49 PM",
-      "desc": "The German Football Federation announced on Friday that coveted dual national defender Noahkai Banks has pledged his international future to Germany over the United States."
-    },
-    {
-      "title": "QB Cooper Rush getting second start for Falcons, sources say - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49974012/qb-cooper-rush-getting-second-start-falcons-sources-say",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0913%2Fr1716116_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 4:36:47 PM",
-      "desc": "Falcons quarterback Cooper Rush is expected to start in Week 2 against the Panthers, sources told NFL Network."
-    },
-    {
-      "title": "Stephon Gilmore, '19 NFL DPOY, retiring as member of the Patriots - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0717%2Fr881345_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 4:30:53 PM",
-      "desc": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 defensive player of the year, is signing a one-day contract in New England to retire as a member of the Patriots,"
-    },
-    {
-      "title": "2026 NFL Odds: Are Buccaneers Best Bet To Win NFC South?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-baker-mayfield-nfc-south-best-bet",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1294/728/baker2.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 4:22:24 PM",
-      "desc": "There's \"tremendous value\" in wagering Tampa Bay to win the NFC South. Will Hill explains why."
-    },
-    {
-      "title": "Mired in historic interception drought, Jets rule out Fitzpatrick - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49973798/mired-historic-interception-drought-jets-rule-fitzpatrick",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0917%2Fr1718232_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 3:53:01 PM",
-      "desc": "The Jets, mired in the longest interception drought in NFL history, will be without their most accomplished interceptor Sunday against the Packers as former All-Pro safety Minkah Fitzpatrick was ruled out with a groin injury."
-    },
-    {
-      "title": "Dallas' Week 1 Defensive Disaster Proved The Cowboys Are Still Missing Micah Parsons",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/dallas-defensive-disaster-proved-boys-still-missing-micah-parsons",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/liveblog-16x92-7.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 3:37:27 PM",
-      "desc": "The Cowboys' defensive meltdown against the Giants was a sign that they need a big-time play-maker like the one they traded to Green Bay one year ago."
-    },
-    {
-      "title": "Coaches Searching For Answers On Why NFL Saw Record Scoring Numbers In Week 1",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/coaches-searching-answers-why-nfl-saw-record-scoring-numbers-week-1",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/caleb-williams-1.jpg?ve=1&tl=1",
-      "published": "9/18/2026, 3:37:24 PM",
-      "desc": "Why did NFL teams score so many points in Week 1? We asked a few coordinators for their best guess as to why it happened."
-    },
-    {
-      "title": "Sources: Jazz, Keyonte George agree to 5-year, $157.5M extension - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49973626/sources-jazz-keyonte-george-agree-5-year-1575m-extension",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1130%2Fr1582870_1296x729_16%2D9.jpg",
-      "published": "9/18/2026, 3:24:02 PM",
-      "desc": "The Utah Jazz and guard Keyonte George have agreed to a five-year, $157.5 million contract extension, sources tell ESPN."
     }
   ],
   "tech": [
+    {
+      "title": "The Big Autumn Preview – A new duardin faction revealed! - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature08-fukpkptkby.jpg",
+      "published": "9/18/2026, 6:58:40 PM",
+      "desc": "Witness the might of the Khazalite Holds as they sally forth from the mountains."
+    },
+    {
+      "title": "Apple's iPhone 18 goes on sale as customers line up at stores worldwide - Fox Business",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/apples-iphone-18-goes-sale-customers-line-up-stores-worldwide",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/apple-store-nyc-2026-2.jpg?ve=1&tl=1",
+      "published": "9/18/2026, 6:50:00 PM",
+      "desc": "Crowds flocked to Apple stores worldwide for the iPhone 18 launch after the tech giant rolled out advanced camera upgrades, AI photo detection and its new flagship devices."
+    },
+    {
+      "title": "The Big Autumn Preview – Roleplay in the underhive - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/rfd3ntt7/the-big-autumn-preview-roleplay-in-the-underhive",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature07-8w5ez3593i.jpg",
+      "published": "9/18/2026, 6:38:30 PM",
+      "desc": "New Necromunda game revealed!"
+    },
+    {
+      "title": "The Big Autumn Preview – Slaanesh unleashed in the Age of Darkness - warhammer-community.com",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/dhfaf9vz/the-big-autumn-preview-slaanesh-unleashed-in-the-age-of-darkness",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature03-35568ezxer.jpg",
+      "published": "9/18/2026, 6:28:37 PM",
+      "desc": "Can the Custodes defeat the Daemons in the Signus Cluster?"
+    },
+    {
+      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more - 9to5mac.com",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "published": "9/18/2026, 5:52:00 PM",
+      "desc": "Here’s what Apple’s VP of Hardware Engineering said about iPhone Duo’s durability, the hinge, and display crease in a new interview."
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+      "published": "9/18/2026, 5:33:50 PM",
+      "desc": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
     {
       "title": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc - Push Square",
       "source": "Push Square",
@@ -228,54 +276,6 @@
       "image": "https://assets-prd.ignimgs.com/2026/09/18/best-buy-microsoft-game-deals-1789739681701.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "published": "9/18/2026, 4:08:49 PM",
       "desc": "Best Buy has dropped big discounts on Starfield for PS5, Skyrim for Switch 2, and a few more Microsoft-published games, but only for today."
-    },
-    {
-      "title": "Apple's iPhone 18 Pro line hits stores with a $100 price bump amid memory crunch, AI pressure - Yahoo Finance",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/article/apples-iphone-18-pro-line-hits-stores-with-a-100-price-bump-amid-memory-crunch-ai-pressure-155709106.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b4d6d91f27e59f9dcf7c56674ae6e8de26b3fbdd09ef270c8146dd9b419d702c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F46cfc85b-f1eb-4fbc-8235-e39c000ecb89_b2e1eb1f30343637578fe86ec4a395e74e30e1d86ae675ae7fca7d8159c6faf8.jpg",
-      "published": "9/18/2026, 3:57:09 PM",
-      "desc": "Apple's iPhone 18 Pros hit stores Friday."
-    },
-    {
-      "title": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
-      "image": "https://images.macrumors.com/t/_-K7PWEsa2dXk6yo6Y10yRT8Gfw=/3200x/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1.jpeg",
-      "published": "9/18/2026, 3:54:48 PM",
-      "desc": "Can you use iPhone 17 Pro and iPhone 17 Pro Max cases with the iPhone 18 Pro and iPhone 18 Pro Max, and vice versa?   Apple's official answer is..."
-    },
-    {
-      "title": "Review: Control Resonant: Remedy's Tech Makes the Leap to a Wider Urban Sandbox - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/reviews/control-resonant-remedys-tech-makes-the-leap-to-a-wider-urban-sandbox",
-      "image": "https://images.digitalfoundry.net/b7788ccf2b45a/large.jpg",
-      "published": "9/18/2026, 3:09:16 PM",
-      "desc": "Every console tested - with PS5 Pro delivering the best experience."
-    },
-    {
-      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/funny1.jpg?quality=90&strip=all&crop=0%2C10.711059661308%2C100%2C78.577880677383&w=1200",
-      "published": "9/18/2026, 2:41:18 PM",
-      "desc": "The FPGB Mini is only slightly wider than the original Nintendo cartridges it plays."
-    },
-    {
-      "title": "The ‘GTA 6 Online’ Release Year Has Been Revealed, It Seems - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/09/18/the-gta-6-online-release-year-has-been-revealed-it-seems/",
-      "image": "",
-      "published": "9/18/2026, 2:35:44 PM",
-      "desc": ""
-    },
-    {
-      "title": "One UI 9 global release dates for some Galaxy devices revealed - SamMobile",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-9-global-release-dates-for-some-galaxy-devices-revealed/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-Z-Flip-8-review-One-UI-9.jpg",
-      "published": "9/18/2026, 2:23:00 PM",
-      "desc": "Samsung Thailand may have spilled the beans on the company's plans for the One UI 9.0 global release for several Galaxy devices."
     }
   ],
   "education": [
@@ -347,15 +347,6 @@
   "music": [
     {
       "rank": 1,
-      "title": "Babydoll",
-      "artist": "Jamie Miller & Antonio Cipriano",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 2,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -364,22 +355,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
-      "rank": 3,
-      "title": "Waste My Tears",
-      "artist": "James Arthur",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/7e/28/807e28ea-ca6e-6e7b-e3ee-b43a7c64adc7/196874718995.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8a/33/158a339f-d348-6c02-6ba2-eaff12266cbb/mzaf_7609153542336347611.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/waste-my-tears/6803599568?i=6803599574&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Arthur%20Waste%20My%20Tears"
+      "rank": 2,
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 4,
+      "title": "Waste My Tears",
+      "artist": "James Arthur",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/7e/28/807e28ea-ca6e-6e7b-e3ee-b43a7c64adc7/196874718995.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/8a/33/158a339f-d348-6c02-6ba2-eaff12266cbb/mzaf_7609153542336347611.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/waste-my-tears/6803599568?i=6803599574&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Arthur%20Waste%20My%20Tears"
     },
     {
       "rank": 5,
@@ -419,21 +419,21 @@
     },
     {
       "rank": 9,
-      "title": "Easy Lover",
-      "artist": "Philip Bailey & Phil Collins",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/15/38/001538cd-ca00-1bf1-5d74-c95c7677767b/886445195347.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/e3/f9/0ce3f9c4-8f88-7c7a-615f-8e195664b4dd/mzaf_6057312796183750226.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/easy-lover/1005849891?i=1005850935&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Philip%20Bailey%20%26%20Phil%20Collins%20Easy%20Lover"
-    },
-    {
-      "rank": 10,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 10,
+      "title": "Easy Lover",
+      "artist": "Philip Bailey & Phil Collins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/15/38/001538cd-ca00-1bf1-5d74-c95c7677767b/886445195347.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/e3/f9/0ce3f9c4-8f88-7c7a-615f-8e195664b4dd/mzaf_6057312796183750226.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/easy-lover/1005849891?i=1005850935&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Philip%20Bailey%20%26%20Phil%20Collins%20Easy%20Lover"
     },
     {
       "rank": 11,
@@ -473,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "Jamaican (Bam Bam)",
-      "artist": "HUGEL & SOLTO (FR)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+      "title": "Bad Times (Extended Version)",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
     }
   ],
   "movies": [
@@ -487,21 +487,12 @@
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "url": "https://www.themoviedb.org/movie/1101383"
     },
     {
       "rank": 2,
-      "title": "Heart of the Beast",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "url": "https://www.themoviedb.org/movie/1263337"
-    },
-    {
-      "rank": 3,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -510,7 +501,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Moana",
       "year": "2026",
       "cert": "PG",
@@ -519,34 +510,7 @@
       "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
-      "rank": 5,
-      "title": "Practical Magic 2",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "url": "https://www.themoviedb.org/movie/1302904"
-    },
-    {
-      "rank": 6,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 7,
-      "title": "Michael",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "url": "https://www.themoviedb.org/movie/936075"
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "Mayday",
       "year": "2026",
       "cert": "12",
@@ -555,13 +519,40 @@
       "url": "https://www.themoviedb.org/movie/1137844"
     },
     {
-      "rank": 9,
-      "title": "Supergirl",
+      "rank": 5,
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
+      "rank": 6,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 7,
+      "title": "Practical Magic 2",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "url": "https://www.themoviedb.org/movie/1081003"
+      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "url": "https://www.themoviedb.org/movie/1302904"
+    },
+    {
+      "rank": 8,
+      "title": "Project Hail Mary",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "url": "https://www.themoviedb.org/movie/687163"
     }
   ],
   "tv": [
