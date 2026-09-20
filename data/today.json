@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-19T09:37:58.409Z",
-  "day": 261,
+  "generated": "2026-09-20T09:54:10.395Z",
+  "day": 262,
   "movie": {
-    "title": "Ernest & Celestine",
+    "title": "The Croods: A New Age",
     "safe": true,
-    "cert": "PG",
-    "source": "omdb-us",
-    "year": "2012",
-    "plot": "The story of an unlikely friendship between a bear, Ernest, and a young mouse named Celestine.",
-    "poster": "https://image.tmdb.org/t/p/w500/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg",
-    "genre": "Animation, Adventure, Comedy",
+    "cert": "U",
+    "source": "tmdb-uk",
+    "year": "2020",
+    "plot": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "poster": "https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+    "genre": "",
     "season": null
   },
   "song": {
-    "key": "Passenger-Let Her Go",
+    "key": "Len-Steal My Sunshine",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/48/74/53487458-c36d-36cb-7928-57efcdaa2267/859721296694_cover.jpg/600x600bb.jpg",
-    "year": "2012",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/3e/8e/be3e8eeb-7d65-7c5e-c226-418c898b6df2/5099749602595.jpg/600x600bb.jpg",
+    "year": "1999",
     "v": 4
   },
   "album": {
-    "key": "Local Natives-Gorilla Manor",
+    "key": "Athlete-Vehicles & Animals",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/98/31/71983169-7acd-3f42-9286-0a5a2097bd1f/5050954206480.jpg/600x600bb.jpg",
-    "year": "2009",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/32/dd/b632dd29-d435-61ad-d643-659794d05fe6/0810098504720.png/600x600bb.jpg",
+    "year": "2003",
     "v": 4
   }
 }
