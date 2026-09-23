@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-22T10:07:55.711Z",
-  "day": 264,
+  "generated": "2026-09-23T10:10:12.164Z",
+  "day": 265,
   "movie": {
-    "title": "Shrek",
+    "title": "Spider-Man 2",
     "safe": true,
-    "cert": "U",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "2001",
-    "plot": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-    "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "year": "2014",
+    "plot": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+    "poster": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Sum 41-Fat Lip",
+    "key": "Bush-Glycerine",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/17/4d/59174d33-7211-9fb1-5952-5895c94e06d4/09UMGIM03043.rgb.jpg/600x600bb.jpg",
-    "year": "2001",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/10/83/ad1083d4-6a79-8f5e-aad5-665a58df2615/17UMGIM79375.rgb.jpg/600x600bb.jpg",
+    "year": "1994",
     "v": 4
   },
   "album": {
-    "key": "The Cure-Disintegration",
+    "key": "Mazzy Star-So Tonight That I Might See",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e4/c9/e0e4c982-1faa-c619-95ed-3fd1920eac8c/09UMGIM40204.rgb.jpg/600x600bb.jpg",
-    "year": "1989",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
+    "year": "1993",
     "v": 4
   }
 }
