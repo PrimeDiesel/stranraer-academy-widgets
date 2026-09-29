@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-28T11:50:18.092Z",
-  "day": 270,
+  "generated": "2026-09-29T11:27:24.736Z",
+  "day": 271,
   "movie": {
-    "title": "Spider-Man: Across the Spider-Verse",
+    "title": "How to Train Your Dragon 2",
     "safe": true,
     "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2023",
-    "plot": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "year": "2014",
+    "plot": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless dragon conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
+    "poster": "https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Mazzy Star-Fade into You",
+    "key": "Queen-Bohemian Rhapsody",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/600x600bb.jpg",
-    "year": "1993",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/42/ae/f442aeba-0de2-f4b5-e5a0-75286bef1f6e/602527584232.jpg/600x600bb.jpg",
+    "year": "1979",
     "v": 4
   },
   "album": {
-    "key": "Elastica-Elastica",
+    "key": "Boards of Canada-Music Has the Right to Children",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/b5/cb/c5b5cbdb-c0a5-e4c6-d161-374e49b880a7/883870091459.png/600x600bb.jpg",
-    "year": "1995",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/600x600bb.jpg",
+    "year": "1998",
     "v": 4
   }
 }
