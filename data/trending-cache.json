@@ -1,12 +1,28 @@
 {
-  "updated": "2026-10-01T01:07:05.158Z",
+  "updated": "2026-10-01T08:26:30.809Z",
   "news": [
+    {
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+      "published": "9/30/2026, 7:37:33 AM",
+      "desc": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+    },
+    {
+      "title": "Life in the UK's mobile phone signal 'blackspots'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdn91j98o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d60/live/db8e6be0-b8ed-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "9/30/2026, 7:37:30 AM",
+      "desc": "Most of the UK has access to 4G and 5G signal, but in some places the lack of it causes serious disruption."
+    },
     {
       "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea31/live/c8137c70-bc28-11f1-bd53-1b67dc8fba34.jpg",
-      "published": "9/30/2026, 1:07:21 AM",
+      "published": "9/30/2026, 7:22:22 AM",
       "desc": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks."
     },
     {
@@ -14,8 +30,32 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01ec/live/ec7f30e0-bbfb-11f1-8422-17098b28f290.jpg",
-      "published": "9/30/2026, 1:07:18 AM",
+      "published": "9/30/2026, 6:22:21 AM",
       "desc": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began."
+    },
+    {
+      "title": "Social anxiety: The hidden habits that make it worse - and how you can break them",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "9/30/2026, 5:37:23 AM",
+      "desc": "Social anxiety is more common than many think. Here's what you need to know about the condition."
+    },
+    {
+      "title": "Huel ad banned for suggesting its products could replace all conventional food",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd00/live/b8e0d640-bb4b-11f1-a071-65d2e11c8f4a.jpg",
+      "published": "9/30/2026, 4:07:29 AM",
+      "desc": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\"."
+    },
+    {
+      "title": "Newspaper headlines: 'Burnham's triple shock' and 'City face expulsion'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0341/live/9086c0d0-bc4d-11f1-90ea-7d3cbc375669.png",
+      "published": "9/30/2026, 1:37:22 AM",
+      "desc": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference."
     },
     {
       "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
@@ -24,195 +64,187 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e8f/live/285b95f0-b273-11f1-b67f-2b40fa83cfed.jpg",
       "published": "9/29/2026, 11:37:28 PM",
       "desc": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free."
-    },
-    {
-      "title": "Huel ad banned for suggesting its products could replace all conventional food",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd00/live/b8e0d640-bb4b-11f1-a071-65d2e11c8f4a.jpg",
-      "published": "9/29/2026, 11:37:26 PM",
-      "desc": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\"."
-    },
-    {
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
-      "published": "9/29/2026, 11:37:25 PM",
-      "desc": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast."
-    },
-    {
-      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7577/live/9b547b90-bc40-11f1-bd21-bdf910f2cec6.jpg",
-      "published": "9/29/2026, 8:37:21 PM",
-      "desc": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes."
-    },
-    {
-      "title": "Chris Mason: Andy Burnham delivers deeply political speech with a personal core",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52fe/live/8f54a610-bc24-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "9/29/2026, 8:07:20 PM",
-      "desc": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
-    },
-    {
-      "title": "Andy Burnham pledges pension triple lock changes to fund care reforms",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cae0/live/374a62f0-bc30-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "9/29/2026, 6:52:27 PM",
-      "desc": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
     }
   ],
   "sports": [
     {
-      "title": "QB Notebook: What's Driving Brock Purdy's Hot Start; Waiving White Flag On Cam Ward",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-whats-driving-brock-purdys-hot-start-waiving-white-flag-cam-ward",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/03881cb3-16x9-12.jpg?ve=1&tl=1",
-      "published": "9/30/2026, 12:52:25 AM",
-      "desc": "Here's what stood out from NFL quarterbacks in Week 3, from Brock Purdy's stellar play to Cam Ward's brutal INT."
-    },
-    {
-      "title": "World Cup Winner Spain Has Now Gone 40 Matches Without A Loss",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-lamine-yamal-nations-league-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/lamine-scaled.jpg?ve=1&tl=1",
-      "published": "9/30/2026, 12:52:23 AM",
-      "desc": "Lamine Yamal led World Cup winner Spain on Tuesday as it defeated Croatia in the Nations League to add to its record unbeaten streak in its homecoming game."
-    },
-    {
-      "title": "White Sox top Astros in Game 1; first playoff win in 5 years - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50063031/white-sox-top-astros-game-1-first-playoff-win-5-years",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723706_1024x576_16%2D9.jpg",
-      "published": "9/30/2026, 12:44:28 AM",
-      "desc": "The White Sox beat the Astros 6-3 in Game 1 of their AL Wild Card Series, the club's first playoff win since 2021."
-    },
-    {
-      "title": "United States legend Tim Ream retires from national team - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50062568/united-states-legend-tim-ream-retires-national-team",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723704_1296x729_16%2D9.jpg",
-      "published": "9/30/2026, 12:14:00 AM",
-      "desc": "United States legend and Charlotte FC defender Tim Ream has officially retired from the national team."
-    },
-    {
-      "title": "Kessler talks up Lakers' title hopes behind 'nasty' defense - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50062704/kessler-talks-lakers-title-hopes-nasty-defense",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723699_1296x729_16%2D9.jpg",
-      "published": "9/30/2026, 12:01:57 AM",
-      "desc": "New addition Walker Kessler is convinced the Lakers have the right guys to be \"a nasty defensive team\" and a contender in the Western Conference this season."
-    },
-    {
-      "title": "Mattingly's call to Duran in 7th backfires in Phillies' loss - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50062495/mattingly-call-duran-7th-backfires-phillies-loss",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0929%2Fr1723687_1296x729_16%2D9.jpg",
-      "published": "9/29/2026, 11:42:00 PM",
-      "desc": "Don Mattingly wanted the Phillies' best reliever on the mound as early as possible in the opener of a best-of-three NL Wild Card Series against the Braves, but the move backfired when All-Star closer Jhoan Duran allowed a three-run homer in a Game 1 loss."
-    },
-    {
-      "title": "Polymarket Promo Code FOX Unlocks a $50 Bonus for Game 1 of the Red Sox vs. Yankees Wild Card Series",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-unlocks-50-bonus-game-1-red-sox-vs-yankees-wild-card-series",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/romant-scaled.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 11:37:25 PM",
-      "desc": "Polymarket Promo Code FOX Unlocks a $50 Bonus for the Opening Game of the Red Sox vs Yankees Wild Card Series."
-    },
-    {
-      "title": "Upon Further Review: Welcome To The Tight End Renaissance, Which Has Been In The Making",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-welcome-tight-end-renaissance-which-has-been-making",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/16x9wild-7.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 11:37:23 PM",
-      "desc": "Tight ends went off across the league in Week 3. Is it a sign of things to come?"
-    },
-    {
-      "title": "Prime Dilemma: Deion Sanders Considering Benching QB Julian Lewis For Isaac Wilson",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/prime-dilemma-deion-sanders-considering-benching-qb-julian-lewis-isaac-wilson",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/deion.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 11:22:25 PM",
-      "desc": "Deion Sanders is facing a quarterback dilemma at Colorado for a second straight season."
-    },
-    {
-      "title": "Behind the Scenes: Dan Lanning’s Speech, Oregon’s Response And A Viral USC Radio Call",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/dan-lanning-speech-oregon-response-viral-usc-radio-call",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/dan_lanning_horizontal.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 11:22:24 PM",
-      "desc": "Go behind the scenes of Oregon’s response to Dante Moore’s injury, Dan Lanning's speech and a USC radio call that went viral for all the wrong reasons."
-    },
-    {
-      "title": "Wigan hooker Brad O'Neill wins 2026 Man of Steel award",
+      "title": "Man City reaction & analysis: Club break financial rules with £830m of disguised funding",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/c6z0zkd019x8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/77fc/live/74be1000-bc4e-11f1-90ea-7d3cbc375669.jpg",
-      "published": "9/29/2026, 11:07:25 PM",
-      "desc": "Brad O'Neill wins the 2026 Steve Prescott MBE Man of Steel award as Wigan's Jenna Foubister wins Woman of Steel."
+      "url": "http://www.bbc.co.uk/sport/football/live/cm4gv49j5g5vt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9767/live/3ff60e50-bca2-11f1-bd53-81692d9847e1.jpg",
+      "published": "9/30/2026, 8:22:22 AM",
+      "desc": "Reaction after the Premier League confirm Man City guilty of all charges related to breaches of its financial rules."
     },
     {
-      "title": "New coach, new players, but same old failings hamper Scotland",
+      "title": "Ben Stokes: What next for the former England captain after tumultuous summer ended with success?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ea0/live/5005de80-bc55-11f1-8053-53e939fa7624.jpg",
-      "published": "9/29/2026, 11:07:23 PM",
-      "desc": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English."
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d29e/live/ccd16df0-bc0d-11f1-a524-3125ac41b7f5.jpg",
+      "published": "9/30/2026, 8:07:20 AM",
+      "desc": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?"
     },
     {
-      "title": "Cowboys' Schottenheimer 'aligned' with Jones after Rio gaffes - ESPN",
+      "title": "Whitley Bay: The part-timers who won a record three Wembley finals in a row",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d58b/live/3b41aaf0-bb16-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "9/30/2026, 6:37:19 AM",
+      "desc": "You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first."
+    },
+    {
+      "title": "Man City guilty charges: Which transfers did Premier League 'sham' help secure?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/311a/live/b24e22b0-bc40-11f1-8666-b5dc4bdc94cb.jpg",
+      "published": "9/30/2026, 6:37:14 AM",
+      "desc": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules."
+    },
+    {
+      "title": "Reeve laments Lynx 'don't quite have right group' after latest playoff flop - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50062115/cowboys-schottenheimer-aligned-jones-rio-gaffes",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0615%2Fr1673539_1296x729_16%2D9.jpg",
-      "published": "9/29/2026, 10:53:39 PM",
-      "desc": "Cowboys coach Brian Schottenheimer said he would \"be better\" after meeting with Jerry Jones about questionable late-game coaching decisions in Sunday's loss to the Ravens."
+      "url": "https://www.espn.com/wnba/story/_/id/50064962/reeve-says-lynx-some-work-do-latest-playoff-flop",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723794_1296x729_16%2D9.jpg",
+      "published": "9/30/2026, 6:28:28 AM",
+      "desc": "The Lynx became the first No. 1 seed in league history to get swept in its opening series, marking another heartbreaking playoff exit for the third straight year."
     },
     {
-      "title": "8th-Inning Heroics: Austin Riley’s 3-Run Homer Fuels Braves' Game 1 Comeback",
+      "title": "MLB Wild Card Roundup: Ben Rice's Slam, Michael King's No-Hit Bid Highlight Game 1s",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/8th-inning-heroics-austin-rileys-3-run-homer-fuels-braves-game-1-comeback",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/braves.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 10:52:21 PM",
-      "desc": "Austin Riley hit a three-run homer off All-Star closer Jhoan Duran in the eighth inning and the Atlanta Braves rallied past the Philadelphia Phillies 5-3 on Tuesday in the opener of a best-of-three National League Wild Card Series."
+      "url": "https://www.foxsports.com/stories/mlb/mlb-wild-card-roundup-rices-grand-slam-kings-no-hit-bid-highlight-game-1s",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/04138e1a-artboard-1.jpg?ve=1&tl=1",
+      "published": "9/30/2026, 5:37:27 AM",
+      "desc": "Austin Riley and Ben Rice were the big MLB postseason stars on Tuesday. Here's the best action from the wild-card games."
     },
     {
-      "title": "Trent Alexander-Arnold: It is time for Thomas Tuchel to trust Real Madrid right-back",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg",
-      "published": "9/29/2026, 10:37:25 PM",
-      "desc": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty."
-    },
-    {
-      "title": "Christian Lundgaard Lands At Ganassi: 'We're Just Looking Forward Now'",
+      "title": "Big Hits And Baseball's Hottest Team: 4 Takeaways From First Day Of MLB Playoffs",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/christian-lundgaard-lands-ganassi-were-just-looking-forward-now",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/christian-lundgaard_moves-to-ganassi.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 10:22:23 PM",
-      "desc": "At first, Christian Lundgaard was confused about being let go from McLaren. Now he's excited about starting a new chapter at Ganassi."
+      "url": "https://www.foxsports.com/stories/mlb/mlb-playoffs-wild-card-braves-yankees-white-sox-padres-win-4-takeaways",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/mlb-16x9-1.jpg?ve=1&tl=1",
+      "published": "9/30/2026, 5:37:23 AM",
+      "desc": "Stellar pitching, big bats, and a dramatic late-inning home run. The first day of the MLB playoffs delivered."
+    },
+    {
+      "title": "Another Test, Another Win: 4 Takeaways From USA's Victory Over Chile",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/usa-steamrolls-chile-second-post-2026-world-cup-contest-4-takeaways",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/takeaways9.jpg?ve=1&tl=1",
+      "published": "9/30/2026, 5:37:19 AM",
+      "desc": "World Cup veterans and up-and-coming youngsters combined to lead the USA past Chile in Tuesday's 4-2 win."
+    },
+    {
+      "title": "Padres pummel Cubs behind Tatis' leadoff blast, King's gem in Game 1 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50064499/padres-pummel-cubs-tatis-leadoff-blast-king-gem-game-1",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723645_1296x729_16%2D9.jpg",
+      "published": "9/30/2026, 4:58:01 AM",
+      "desc": "The Padres made an emphatic statement in their Wild Card Opener against the Cubs, getting a leadoff homer from Fernando Tatis and a brilliant effort on the mound from Michael King in an 8-0 win in Game 1."
     },
     {
       "title": "2026 AL Wild Card Odds: Yankees Favored Over Rival Red Sox",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/mlb/2026-al-wild-card-odds-yankees-red-sox",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/yanks-927.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 10:22:21 PM",
-      "desc": "The rivalry continues, with the Yankees and Red Sox set to face off in the wild-card round. See the odds."
+      "published": "9/30/2026, 4:52:20 AM",
+      "desc": "The rivalry continues, with the Yankees and Red Sox facing off in the wild-card round. See the odds."
     },
     {
-      "title": "2026 MLB Wild Card Series Odds: What To Know About Each Matchup",
+      "title": "Schlittler, Rice lead Yankees' rout of Red Sox in Game 1 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50064240/schlittler-rice-lead-yankees-rout-red-sox-game-1",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723765_1296x729_16%2D9.jpg",
+      "published": "9/30/2026, 3:42:26 AM",
+      "desc": "Cam Schlittler pitched another playoff gem against the Boston Red Sox, and Ben Rice also burned their hometown team with a late grand slam and six RBIs as the New York Yankees opened this AL Wild Card Series rematch with a 9-0 victory on Tuesday night."
+    },
+    {
+      "title": "2026 MLB Playoff Schedule: Dates, Rounds, World Series",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-wild-card-series-odds-what-know-about-each-matchup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/16x9-6-1.jpg?ve=1&tl=1",
-      "published": "9/29/2026, 10:22:19 PM",
-      "desc": "Get prepared for the opening round of the MLB postseason with FOX Sports' wild-card series primer."
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-playoff-schedule-dates-rounds-how-watch",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/2026-mlb-playoff-schedule-horizontal-1920x1080-1.png?ve=1&tl=1",
+      "published": "9/30/2026, 3:37:26 AM",
+      "desc": "See the complete 2026 MLB playoff schedule by round, including Wild Card, Division Series, LCS and World Series dates and TV channels."
+    },
+    {
+      "title": "Aces' Wilson T'd up for confronting fan in Game 2 loss to Fever - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50064172/aces-wilson-td-confronting-fan-game-2-loss-fever",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723754_1296x729_16%2D9.jpg",
+      "published": "9/30/2026, 3:29:42 AM",
+      "desc": "Aces center A'ja Wilson had to be restrained by teammates after she confronted a fan whom she said stepped toward her and pointed at her late in Tuesday's Game 2 loss at Gainbridge Fieldhouse."
+    },
+    {
+      "title": "Albert, 17, breaks Pulisic mark as youngest USMNT scorer - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50063775/albert-breaks-pulisic-mark-youngest-usmnt-scorer",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "published": "9/30/2026, 2:25:00 AM",
+      "desc": "With the U.S. leading 3-2, Borussia Dortmund teenager Mathis Albert put the game away with the Americans fourth goal of the night and became the youngest goalscorer in program history -- besting a mark set by Christian Pulisic."
+    },
+    {
+      "title": "Tom Brady's First Start In The NFL Came 25 Years Ago, And The Rest Is History",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-made-his-first-official-nfl-start-25-years-ago-rest-history",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/tom-brady-25-16x9-1.png?ve=1&tl=1",
+      "published": "9/30/2026, 1:37:33 AM",
+      "desc": "Here's a look at Tom Brady's football career leading up to his first official NFL start for New England 25 years ago."
+    },
+    {
+      "title": "Tim Ream, USA's World Cup Captain, Makes Major Decision About His Career",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/longtime-captain-and-defender-tim-ream-announces-retirement-from-us-mens-national-team",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/timream-scaled.jpg?ve=1&tl=1",
+      "published": "9/30/2026, 1:37:25 AM",
+      "desc": "Tim Ream, the longtime captain and defender for the U.S. men’s soccer team, is ending his national team career."
+    },
+    {
+      "title": "2026 AL Wild Card Odds: White Sox Win Game 1; Now Favored Over Astros",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-al-wild-card-odds-astros-white-sox",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/alvarez-928.jpg?ve=1&tl=1",
+      "published": "9/30/2026, 1:37:23 AM",
+      "desc": "One of the more unanticipated wild-card series is underway. See the odds for Astros-White Sox heading into Game 2."
+    },
+    {
+      "title": "Clark's monster effort helps Fever force Game 3 with Aces - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50063312/clark-monster-effort-helps-fever-force-game-3-aces",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0930%2Fr1723625_2_1296x729_16%2D9.jpg",
+      "published": "9/30/2026, 1:25:00 AM",
+      "desc": "Caitlin Clark became the first player in league history to produce a points-assists double-double in the first half of a playoff game and finished with 27 points and 15 assists in a 99-89 win over the Aces to keep the Fever alive."
     }
   ],
   "tech": [
+    {
+      "title": "Star Fox version 1.2.0 update now available - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/star-fox-version-1-2-0-update-now-available",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Star-Fox-Update_09-29-26.jpg",
+      "published": "9/30/2026, 1:24:43 AM",
+      "desc": "Publisher Nintendo and developer Velan Studios have released the version 1.2.0 update for Star Fox, which adds new stages to Battle Mode, split-screen support for up to four players on a single Swi…"
+    },
+    {
+      "title": "New Pixel 11 HiLight Features: Messaging is Here - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/09/29/new-pixel-11-hilight-features-messaging-is-here/",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-11-HiLight-Colors-1.jpg",
+      "published": "9/30/2026, 12:06:13 AM",
+      "desc": "The Pixel 11 series launched with its new HiLight feature and we were initially quite excited about it. We love it when companies try to bring freshness by playing with hardware. Unfortunately, Google failed to deliver a robust set of features for HiLight and…"
+    },
+    {
+      "title": "The Witcher 3 Remastered showed 38 FPS with DLSS 5 versus 68 FPS for the Next-Gen version - GameGPU",
+      "source": "Gamegpu.com",
+      "url": "https://en.gamegpu.com/news/igry/the-witcher-3-remastered-pokazala-38-fps-s-dlss-5-protiv-68-fps-u-next-gen-versii",
+      "image": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/6/Image_dj4n0jdj4n0jdj4n_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/6/Image_dj4n0jdj4n0jdj4n_ggpu.webp?width=1920&height=1080",
+      "published": "9/29/2026, 11:44:52 PM",
+      "desc": "Detailed performance and visual quality measurements of the updated version have appeared online. The Witcher 3: Wild Hunt Remastered using..."
+    },
+    {
+      "title": "Here’s everything new in Android 17 QPR2 Beta 6 + 6.1 [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/29/android-17-qpr2-beta-6-everything-new/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/MBG-Pixel-11-hilight-view-20.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "9/29/2026, 9:32:00 PM",
+      "desc": "Google rolled out Android 17 QPR2 Beta 6 and 6.1 in quick succession to continue the preview ahead of the stable December launch."
+    },
     {
       "title": "I Drove The Mustang Dark Horse SC. It's The Everyday GTD: Driven - Motor1.com",
       "source": "Motor1 ",
@@ -230,14 +262,6 @@
       "desc": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the device, leading to complaints on the MacRumors..."
     },
     {
-      "title": "Android 17 QPR2 Beta 6.1 rolling out, including for Pixel 11 - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/29/android-17-qpr2-beta-6-1/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-9-Pro-and-11-Pro-family-cameras.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "9/29/2026, 8:39:00 PM",
-      "desc": "Following last week's release, Google today is rolling out Android 17 QPR2 Beta 6.1, including for the Pixel 11 series."
-    },
-    {
       "title": "OpenAI’s latest features take direct aim at the app store model - TechCrunch",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -252,22 +276,6 @@
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260915-gen-z-doesnt-do-wallets-oo-main-74e866.jpg",
       "published": "9/29/2026, 8:10:39 PM",
       "desc": "We’re letting go of traditional wallets in favor of wristlets, Magsafe cardholders and more. Shop editor-approved options from Bandolier, Popsocket, Coach and more."
-    },
-    {
-      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
-      "image": "https://images.macrumors.com/t/A9abI8zTcXiQx6RRuC6Rg9YbmAs=/2000x/article-new/2026/09/iphone-duo-get-ready.jpg",
-      "published": "9/29/2026, 8:10:19 PM",
-      "desc": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday, October 12. The new detail was added to..."
-    },
-    {
-      "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09_f47266.jpg",
-      "published": "9/29/2026, 7:25:43 PM",
-      "desc": "Rockstar is avoiding the House of Mouse."
     }
   ],
   "education": [
@@ -348,15 +356,6 @@
     },
     {
       "rank": 2,
-      "title": "Cold Blue Dawn",
-      "artist": "Kings of Leon",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/84/79/c2847988-ab33-0de8-0dc3-ebf0c6cbd0b4/00823375343684_Cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/27/92/722792e1-f335-938b-4cc2-477aa4597781/mzaf_4631180207190756791.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/cold-blue-dawn/6802901441?i=6802901687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kings%20of%20Leon%20Cold%20Blue%20Dawn"
-    },
-    {
-      "rank": 3,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
@@ -365,13 +364,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+    },
+    {
+      "rank": 4,
+      "title": "Cold Blue Dawn",
+      "artist": "Kings of Leon",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/84/79/c2847988-ab33-0de8-0dc3-ebf0c6cbd0b4/00823375343684_Cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/27/92/722792e1-f335-938b-4cc2-477aa4597781/mzaf_4631180207190756791.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/cold-blue-dawn/6802901441?i=6802901687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kings%20of%20Leon%20Cold%20Blue%20Dawn"
     },
     {
       "rank": 5,
@@ -393,6 +401,15 @@
     },
     {
       "rank": 7,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 8,
       "title": "Cleveland!",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
@@ -401,7 +418,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Cleveland!"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Babylon",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
@@ -410,22 +427,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Babylon"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Pink Clouding",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/88/d5/1e88d560-253f-3fa2-87a0-2f83b9681948/mzaf_11928544907491655022.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/pink-clouding/6814997249?i=6814997428&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Pink%20Clouding"
-    },
-    {
-      "rank": 10,
-      "title": "Ordinary",
-      "artist": "Alex Warren",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     },
     {
       "rank": 11,
@@ -438,15 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "Mi Chico (Jason Derulo x Melody Version)",
-      "artist": "DJ Goja, Jason Derulo & Melody",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
-    },
-    {
-      "rank": 13,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -455,7 +454,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -464,33 +463,42 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
+      "rank": 14,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
       "rank": 15,
-      "title": "Joy.",
-      "artist": "RAYE, Absolutely & Amma",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/10/5005106d-bb8a-32db-1172-f18405cf4a46/820200038890.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/b4/36/bfb43678-ec2f-92e1-ea8c-ee93982290d4/mzaf_10617967012126135327.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/joy/1871085677?i=1871086036&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%2C%20Absolutely%20%26%20Amma%20Joy."
+      "title": "Mi Chico (Jason Derulo x Melody Version)",
+      "artist": "DJ Goja, Jason Derulo & Melody",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Coyote vs. Acme",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "url": "https://www.themoviedb.org/movie/1204680"
-    },
-    {
-      "rank": 2,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 2,
+      "title": "Coyote vs. Acme",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
       "rank": 3,
@@ -512,44 +520,17 @@
     },
     {
       "rank": 5,
-      "title": "Street Fighter",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "rank": 6,
-      "title": "Moana",
+      "title": "Forgotten Island",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 7,
-      "title": "The End of Oak Street",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
+      "poster": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "url": "https://www.themoviedb.org/movie/1465063"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Simpsons",
-      "year": "1989",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "url": "https://www.themoviedb.org/tv/456"
-    },
-    {
-      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
@@ -558,13 +539,13 @@
       "url": "https://www.themoviedb.org/tv/615"
     },
     {
-      "rank": 3,
-      "title": "LEGO ONE PIECE",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-      "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
-      "url": "https://www.themoviedb.org/tv/318918"
+      "rank": 2,
+      "title": "The Simpsons",
+      "year": "1989",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "url": "https://www.themoviedb.org/tv/456"
     }
   ]
 }
