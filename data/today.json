@@ -1,29 +1,29 @@
 {
-  "generated": "2026-09-30T11:15:22.269Z",
-  "day": 272,
+  "generated": "2026-10-01T11:42:51.438Z",
+  "day": 273,
   "movie": {
-    "title": "High Noon",
+    "title": "The Croods",
     "safe": true,
     "cert": "U",
     "source": "tmdb-uk",
-    "year": "1952",
-    "plot": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
-    "poster": "https://image.tmdb.org/t/p/w500/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+    "year": "2013",
+    "plot": "The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.",
+    "poster": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "My Chemical Romance-Welcome to the Black Parade",
+    "key": "Selena Gomez-Come & Get It",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/77/b6/c877b67f-969d-2ce2-5e4f-77a13595ba26/mzi.rksqjkbb.jpg/600x600bb.jpg",
-    "year": "2006",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/6d/11/f26d1169-a599-9a94-aceb-142b8f9c060a/13DMGIM03858.rgb.jpg/600x600bb.jpg",
+    "year": "2013",
     "v": 4
   },
   "album": {
-    "key": "Peter Gabriel-So",
+    "key": "Chick Corea-Return to Forever",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/d7/7d/29d77d60-24b8-f45b-936f-d8cf3ce52d8d/884108003503.jpg/600x600bb.jpg",
-    "year": "1986",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/f7/2e/32f72eab-d932-8ff0-e81b-d3c46e513976/00602537765348.rgb.jpg/600x600bb.jpg",
+    "year": "1972",
     "v": 4
   }
 }
