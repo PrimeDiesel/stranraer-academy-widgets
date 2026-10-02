@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-01T11:42:51.438Z",
-  "day": 273,
+  "generated": "2026-10-02T11:12:24.873Z",
+  "day": 274,
   "movie": {
-    "title": "The Croods",
+    "title": "Cars 3",
     "safe": true,
     "cert": "U",
     "source": "tmdb-uk",
-    "year": "2013",
-    "plot": "The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.",
-    "poster": "https://image.tmdb.org/t/p/w500/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+    "year": "2017",
+    "plot": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns.",
+    "poster": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Selena Gomez-Come & Get It",
+    "key": "Monica-Angel of Mine",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/6d/11/f26d1169-a599-9a94-aceb-142b8f9c060a/13DMGIM03858.rgb.jpg/600x600bb.jpg",
-    "year": "2013",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/d3/36/fed336fa-2a0e-1622-d389-b07669ffe1bc/13UMGIM01685.rgb.jpg/600x600bb.jpg",
+    "year": "1997",
     "v": 4
   },
   "album": {
-    "key": "Chick Corea-Return to Forever",
+    "key": "Ella Fitzgerald-Ella Fitzgerald Sings the Cole Porter Song Book",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/f7/2e/32f72eab-d932-8ff0-e81b-d3c46e513976/00602537765348.rgb.jpg/600x600bb.jpg",
-    "year": "1972",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/7b/00/b27b00f0-c70b-9094-e53a-5cf75ae3fd3f/26UMGIM13538.rgb.jpg/600x600bb.jpg",
+    "year": "1956",
     "v": 4
   }
 }
