@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-04T15:41:33.545Z",
+  "updated": "2026-10-04T19:16:24.923Z",
   "news": [
+    {
+      "title": "Sir Kevin Sinfield completes epic challenge ahead of Grand Final",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b9c/live/0c43cbc0-bf4e-11f1-a84d-81c67bc2828e.jpg",
+      "published": "10/3/2026, 6:37:21 PM",
+      "desc": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days."
+    },
+    {
+      "title": "Man shot dead in East Acton as people gather for memorial service",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a624/live/bfe929d0-bf4a-11f1-a84d-81c67bc2828e.png",
+      "published": "10/3/2026, 5:22:25 PM",
+      "desc": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said."
+    },
+    {
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
+      "published": "10/3/2026, 4:52:22 PM",
+      "desc": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital."
+    },
     {
       "title": "Alison Hammond returns home from hospital after rushing off This Morning",
       "source": "BBC News",
@@ -8,14 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg",
       "published": "10/3/2026, 2:22:26 PM",
       "desc": "The This Morning presenter said she believes she experienced a panic attack on Friday's show."
-    },
-    {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
-      "published": "10/3/2026, 12:22:27 PM",
-      "desc": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
     },
     {
       "title": "Protesters across Spain demand action over housing crisis",
@@ -32,22 +48,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg",
       "published": "10/3/2026, 11:07:27 AM",
       "desc": "Big moments from headline acts are shared online long before many fans see their favourite artists."
-    },
-    {
-      "title": "Laura Kuenssberg: Kemi Badenoch has cemented her image. Now she wants to take her party back to its roots",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/744c/live/14270b40-be45-11f1-a64c-550be9e3c66b.jpg",
-      "published": "10/3/2026, 11:07:21 AM",
-      "desc": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference."
-    },
-    {
-      "title": "UK-Iranian dual national arrested over RAF Fairford investigation bailed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg",
-      "published": "10/3/2026, 11:07:18 AM",
-      "desc": "The 25-year-old man was arrested in the London borough of Westminster on Thursday."
     },
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -68,158 +68,198 @@
   ],
   "sports": [
     {
-      "title": "China Open: Sonay Kartal wins as Alexander Zverev sets up Novak Djokovic clash",
+      "title": "Cristiano Ronaldo: Bruno Fernandes says absent superstar is 'greatest symbol of Portugal'",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cvlyd856kdr8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0aca/live/48bd6330-bf31-11f1-b10d-f956452c9061.jpg",
-      "published": "10/3/2026, 3:52:27 PM",
-      "desc": "Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djokovic in Beijing."
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8140/live/6ff772e0-bf51-11f1-a84d-81c67bc2828e.jpg",
+      "published": "10/3/2026, 7:22:26 PM",
+      "desc": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving the squad this week after finding out he would not start a match."
     },
     {
-      "title": "Ireland v Japan: Hosts secure comprehensive win over visitors",
+      "title": "Women's Super League: Eva Olid wants Manchester recommendations",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c6vgxejkxz1jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96e7/live/40d7fc50-bf33-11f1-b10d-f956452c9061.jpg",
-      "published": "10/3/2026, 3:52:23 PM",
-      "desc": "Ireland secure a comprehensive 43-19 win over Japan in their international Test at Virgin Media Park in Cork."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c35ynl9w41njo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46bd/live/5d5b9050-bf40-11f1-babe-4199b0e7ccea.jpg",
+      "published": "10/3/2026, 7:07:23 PM",
+      "desc": "Manchester United manager Eva Olid says she is \"asking for recommendations\" as she prepares to look around the city for the first time during the international break"
     },
     {
-      "title": "Source - Bears expected to start QB Tyson Bagent vs. Jets - ESPN",
+      "title": "How Much Is Purdue Coach Barry Odom's Buyout? Contract Details In 2026",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-sports/purdue-barry-odom-buyout-contract-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/barry-odom-2.jpg?ve=1&tl=1",
+      "published": "10/3/2026, 6:52:25 PM",
+      "desc": "Purdue head coach Barry Odom's rebuild in West Lafayette has yet to produce results."
+    },
+    {
+      "title": "How Much Is USC Coach Lincoln Riley's Buyout? Contract Details In 2026",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-sports/usc-lincoln-riley-buyout-contract-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/riley-3.jpg?ve=1&tl=1",
+      "published": "10/3/2026, 6:52:23 PM",
+      "desc": "Lincoln Riley's job security entered the 2026 season as one of college football's biggest storylines."
+    },
+    {
+      "title": "How Much Is Rutgers' Greg Schiano's Buyout? Contract Details In 2026",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-sports/rutgers-greg-schiano-buyout-contract-2026",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/greg-schiano.jpg?ve=1&tl=1",
+      "published": "10/3/2026, 6:52:19 PM",
+      "desc": "Rutgers coach Greg Schiano landed on the hot seat almost immediately this season."
+    },
+    {
+      "title": "The Prem: Gloucester 48-0 Harlequins: Cherry and Whites thrash pointless Quins",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg",
+      "published": "10/3/2026, 6:52:18 PM",
+      "desc": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings."
+    },
+    {
+      "title": "Florida to be without leading WR Vernell Brown III vs. Missouri - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720515_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 3:40:41 PM",
-      "desc": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport."
+      "url": "https://www.espn.com/college-football/story/_/id/50091953/florida-leading-wr-vernell-brown-iii-vs-missouri",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0926%2Fr1722134_1296x729_16%2D9.jpg",
+      "published": "10/3/2026, 6:42:30 PM",
+      "desc": "Florida will be without leading receiver Vernell Brown III when it plays at No. 25 Missouri, but receiver Bailey Stockton will be available for the No. 8 Gators."
     },
     {
-      "title": "Colts WR Keenan Allen (groin) out vs. Commanders in London - ESPN",
+      "title": "Fever's Mitchell says she'll be 'selfish' with free agency decision - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725307_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 3:02:21 PM",
-      "desc": "Colts wide receiver Keenan Allen has a groin injury that will force him to sit out Sunday's game in London against the Commanders."
+      "url": "https://www.espn.com/wnba/story/_/id/50091891/fever-mitchell-says-selfish-free-agency-decision",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0929%2Fr1723280_1296x729_16%2D9.jpg",
+      "published": "10/3/2026, 6:27:43 PM",
+      "desc": "Retaining unrestricted free agent Kelsey Mitchell is a top offseason priority for the Indiana Fever, both GM Amber Cox and coach Stephanie White acknowledged Saturday morning."
     },
     {
-      "title": "Croatia vs England: UEFA Nations League stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cm046w9zdkrwt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f0f2/live/96ebc170-bf39-11f1-88b2-23b6d574e863.jpg",
-      "published": "10/3/2026, 2:52:26 PM",
-      "desc": "Follow live text commentary, score updates, match stats and reaction programme from Croatia vs England in the Nations League."
-    },
-    {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/38b54439-artboard-1.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 2:22:26 PM",
-      "desc": "Check out the odds for every NFL Week 4 contest."
-    },
-    {
-      "title": "Source - Aaron Judge not on Yankees' roster for ALDS vs. Rays - ESPN",
+      "title": "Panthers put Aleksander Barkov on long-term IR with leg injury - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50090418/source-aaron-judge-not-yankees-roster-alds-vs-rays",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717725_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 2:17:25 PM",
-      "desc": "Aaron Judge will not be on the Yankees' ALDS roster against the Rays, a source confirmed to ESPN."
+      "url": "https://www.espn.com/nhl/story/_/id/50091843/panthers-put-aleksander-barkov-long-term-ir-leg-injury",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1724809_1296x729_16%2D9.jpg",
+      "published": "10/3/2026, 6:20:32 PM",
+      "desc": "Panthers center Aleksander Barkov has been placed on long-term injured reserve, meaning the injury to his left leg will keep him sidelined for at least the next 10 games."
     },
     {
-      "title": "Did He Make It? Pittsburgh Wins On Controversial Virginia Tech Missed Field Goal",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/virginia-tech-missed-field-goal-pittsburgh-pat-narduzzi-james-franklin",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/pitt-1.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 1:52:35 PM",
-      "desc": "Virginia Tech’s John Love missed a controversial 36-yard field goal as time expired, and Pittsburgh survived for a road victory."
-    },
-    {
-      "title": "2026 MLB NLDS Odds: Dodgers Open As Favorites Over Braves",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlds-odds-dodgers-braves",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/1294/728/ohtani.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 1:52:34 PM",
-      "desc": "The Dodgers begin their quest for a three-peat against the Braves on Saturday. Check out the NLDS series odds."
-    },
-    {
-      "title": "2026 MLB ALDS Odds: Yankees Narrowly Favored Over Rival Rays",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-alds-odds-rays-yankees",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/tbrays-101.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 1:52:31 PM",
-      "desc": "Check out the odds and what to know for the Rays-Yankees ALDS series."
-    },
-    {
-      "title": "2026 MLB ALDS Odds: Guardians Favored Over White Sox",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-alds-odds-guardians-white-sox",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jose-101.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 1:52:23 PM",
-      "desc": "Check out the odds and what to know for the Guardians-White Sox ALDS series."
-    },
-    {
-      "title": "2026 MLB NLDS Odds: Brewers Open As Favorites Over Padres",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlds-brewers-padres-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/miz1-928.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 1:52:20 PM",
-      "desc": "The two hottest teams in baseball meet in an epic NLDS showdown. Check out the odds for the Padres-Brewers series."
-    },
-    {
-      "title": "Follow live - Lions v Ospreys followed by Dragons v Scarlets in the URC",
+      "title": "England player ratings v Croatia: Who was the best player on the pitch?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/c6158ev2qz85t",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg",
+      "published": "10/3/2026, 6:07:30 PM",
+      "desc": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?"
+    },
+    {
+      "title": "North Macedonia vs Scotland: Uefa Nations League stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cq8048eypngdt",
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "10/3/2026, 1:37:29 PM",
-      "desc": "Follow live - Lions v Ospreys followed by Dragons v Scarlets in the United Rugby Championship."
+      "published": "10/3/2026, 6:07:27 PM",
+      "desc": "Sebastien Pocognoli is focused on \"the process\" at Scotland as he looks for his first win as head coach against North Macedonia in Skopje."
     },
     {
-      "title": "League One & League Two LIVE: Build-up, team news, live text & score updates from EFL",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/ck1wxy1lle5qt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "10/3/2026, 1:37:26 PM",
-      "desc": "Follow live text coverage of 10 matches in League One and League Two, after Chesterfield beat Tranmere 4-2 in the early kick-off."
-    },
-    {
-      "title": "Republic of Ireland v Israel: News conference ends amid accusations",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3eee/live/4c3aab70-bf23-11f1-bacc-0989b00347ed.jpg",
-      "published": "10/3/2026, 1:22:21 PM",
-      "desc": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players."
-    },
-    {
-      "title": "Sources - South Carolina gives more reps to backup QB Cutter Woods - ESPN",
+      "title": "Staley, Gamecocks land commit from No. 30 recruit Taylor Brown - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50090250/sources-south-carolina-gives-more-reps-backup-qb-cutter-woods",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1223%2Fr1592886_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 1:16:18 PM",
-      "desc": "As a message to starting QB LaNorris Sellers to play better, South Carolina backup Cutter Woods received an uptick in first-team snaps this week, sources told ESPN."
+      "url": "https://www.espn.com/womens-college-basketball/story/_/id/50091646/staley-gamecocks-land-commit-no-30-recruit-taylor-brown",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0127%2Fr1443707_1296x729_16%2D9.jpg",
+      "published": "10/3/2026, 6:04:39 PM",
+      "desc": "Taylor Brown, the No. 30 player and No. 5 point guard in the SC Next 100 class of 2027, on Saturday committed to coach Dawn Staley and South Carolina."
     },
     {
-      "title": "Bahrain GP in Malaysia 2026: Red Bull upgrade enlivens F1",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a27/live/05ca5f80-bf25-11f1-b10d-f956452c9061.jpg",
-      "published": "10/3/2026, 12:37:24 PM",
-      "desc": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix in Malaysia."
+      "title": "Oregon Coach Dan Lanning Gives Positive Dante Moore Injury Update",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/dante-moore-injury-update-dan-lanning-oregon-usc-history",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/dantemooreupdate-2.jpg?ve=1&tl=1",
+      "published": "10/3/2026, 5:37:26 PM",
+      "desc": "Oregon head coach Dan Lanning provided a positive update on QB Dante Moore, who suffered a concussion against USC."
     },
     {
-      "title": "Manchester United vs Liverpool: Women's Super League stats & head-to-head",
+      "title": "Yankees Make 2026 ALDS Roster Decision On Aaron Judge",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/aaron-judge-injury-update-yankees-roster-rays-stats",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/aaron2.jpg?ve=1&tl=1",
+      "published": "10/3/2026, 5:37:23 PM",
+      "desc": "Yankees captain Aaron Judge was left off the roster for New York’s AL Division Series against the Tampa Bay Rays."
+    },
+    {
+      "title": "Fever GM defends fanbase - Attacks have no basis in reality, must stop - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50091375/fever-gm-defends-fanbase-attacks-no-basis-reality-stop",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725355_1296x729_16%2D9.jpg",
+      "published": "10/3/2026, 5:29:45 PM",
+      "desc": "General manager Amber Cox defended the Indiana Fever fanbase during her exit-interview session with media Saturday morning, saying, \"attacks on our fan base have no basis in reality.\""
+    },
+    {
+      "title": "Wales v Denmark: Norway win a 'hand grenade' in Nations League group - Craig Bellamy",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmlyr7wd898rt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd02/live/d30e67e0-be6f-11f1-8a45-cd59664d243b.jpg",
-      "published": "10/3/2026, 12:07:27 PM",
-      "desc": "Watch BBC One coverage, listen to BBC Radio 5 Live commentary and follow live text updates from Manchester United vs Liverpool in the Women's Super League."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmkgewx77521o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d544/live/cd3b0f80-bf1e-11f1-9b47-174f268aae1d.jpg",
+      "published": "10/3/2026, 5:22:22 PM",
+      "desc": "Craig Bellamy says Wales' win over Norway has \"thrown a hand grenade\" into their Nations League group as they go in search of another victory against Denmark in Cardiff on Sunday."
+    },
+    {
+      "title": "Photo Essay: Northwestern Opens New Stadium With Statement Win Over Penn State",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/photo-essay-northwestern-opens-new-stadium-statement-win-over-penn-state",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/penn-state-northwester-photo-essay-16x9-1.png?ve=1&tl=1",
+      "published": "10/3/2026, 4:52:23 PM",
+      "desc": "The upstart Wildcats nearly upstaged their new $870 million stadium on a historic night at Northwestern's Ryan Field."
+    },
+    {
+      "title": "Warrington Wolves vs Wakefield Trinity LIVE: Super League Grand Final - Build-up, team news, live text, score & radio commentary",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/live/c8046w559k6zt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2176/live/57580170-bf45-11f1-a84d-81c67bc2828e.jpg",
+      "published": "10/3/2026, 4:52:22 PM",
+      "desc": "Build-up, team news, live text, score & listen to local BBC radio commentaries of Saturday's Super League Grand Final as Warrington Wolves face Wakefield Trinity at Old Trafford."
     }
   ],
   "tech": [
     {
-      "title": "‘Tinder Swindler’ romance fraudster promises ‘safe’ dating app – using intel from con man playbook - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Shimon-Hayut.jpg",
-      "published": "10/3/2026, 11:00:49 AM",
-      "desc": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed."
+      "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\" - eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "image": "https://assetsio.gnwcdn.com/capcom-q1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "10/3/2026, 2:47:09 PM",
+      "desc": "Capcom has detailed plans to turn its RE Engine into an \"AI-generation game engine\" as part of its ongoing REX Project overhaul."
+    },
+    {
+      "title": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+      "image": "https://assetsio.gnwcdn.com/Eday-chainsaw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "10/3/2026, 9:00:00 AM",
+      "desc": "\"Brutality is a pillar of this game,\" says studio art director Aryan Hanbeck at The Coalition."
+    },
+    {
+      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sm2_update-oct01-2-share-uez7pznbxa.jpg",
+      "published": "10/3/2026, 8:04:30 AM",
+      "desc": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode."
+    },
+    {
+      "title": "Poll: How many Mythic achievements have you unlocked on Xbox? - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/poll/63916/poll-how-many-mythic-achievements-on-xbox",
+      "image": "https://www.trueachievements.com/imgs/178882/poll-how-many-mythic-achievements-on-xbox.jpg",
+      "published": "10/3/2026, 8:00:10 AM",
+      "desc": "Now that we're tracking Xbox's new platinum rival, for this week's poll, we want to know: how many Mythic achievements have you unlocked on Xbox?"
+    },
+    {
+      "title": "Konami teases that Belmont’s Curse won’t be the end for Castlevania - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/konami-castlevania-future-2026/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-future-2026.jpg",
+      "published": "10/3/2026, 7:21:24 AM",
+      "desc": "Konami has been a bit quiet with Castlevania until recently, but the publisher has teased more to come for the franchise in the future. Castlevania stepped back into the spotlight with the special DLC made for Dead Cells back in 2023. Now in just a few days, …"
+    },
+    {
+      "title": "Google AI Plus and free users are losing access to Gemini models, and it's happening very soon - XDA",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/chatgpt-gemini-claude-on-screen.jpeg?w=1600&h=900&fit=crop",
+      "published": "10/3/2026, 5:56:52 AM",
+      "desc": "The more advanced tiers aren't seeing any changes."
     },
     {
       "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
@@ -228,54 +268,6 @@
       "image": "https://images.macrumors.com/t/-EqV_WsH-3zWuaclf21YDFIvVhg=/1600x/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
       "published": "10/3/2026, 3:21:00 AM",
       "desc": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the..."
-    },
-    {
-      "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "10/3/2026, 1:33:00 AM",
-      "desc": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\""
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "published": "10/3/2026, 12:45:39 AM",
-      "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
-    },
-    {
-      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
-      "image": "https://images.nintendolife.com/cc53314210756/1280x720.jpg",
-      "published": "10/3/2026, 12:30:00 AM",
-      "desc": "But the race isn't over yet..."
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "published": "10/2/2026, 11:03:16 PM",
-      "desc": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
-      "title": "GTA 6 Had A Really Busy Week - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
-      "image": "https://kotaku.com/app/uploads/2026/10/gta-6-screen-booth.jpg",
-      "published": "10/2/2026, 11:00:55 PM",
-      "desc": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear"
-    },
-    {
-      "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
-      "image": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
-      "published": "10/2/2026, 11:00:33 PM",
-      "desc": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video."
     }
   ],
   "education": [
@@ -401,15 +393,6 @@
     },
     {
       "rank": 7,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
-    },
-    {
-      "rank": 8,
       "title": "Mi Chico (Jason Derulo x Melody Version)",
       "artist": "DJ Goja, Jason Derulo & Melody",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
@@ -418,22 +401,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
     },
     {
-      "rank": 9,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+      "rank": 8,
+      "title": "Circles",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 10,
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
       "rank": 11,
@@ -446,30 +438,30 @@
     },
     {
       "rank": 12,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
+    },
+    {
+      "rank": 13,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+    },
+    {
+      "rank": 14,
       "title": "Cleveland!",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/42/5b/39425b91-27b1-4b37-2f57-6f704fa5d8a6/mzaf_158326623628930700.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/cleveland/6814997249?i=6814997427&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Cleveland!"
-    },
-    {
-      "rank": 13,
-      "title": "Pink Clouding",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/88/d5/1e88d560-253f-3fa2-87a0-2f83b9681948/mzaf_11928544907491655022.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/pink-clouding/6814997249?i=6814997428&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Pink%20Clouding"
-    },
-    {
-      "rank": 14,
-      "title": "Babylon",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/f2/54/58f254a3-25aa-0542-bf46-4627c8f2e06b/mzaf_5527018976386911832.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babylon/6814997249?i=6814997429&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Babylon"
     },
     {
       "rank": 15,
@@ -484,15 +476,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
@@ -501,7 +484,25 @@
       "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
       "rank": 3,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 4,
       "title": "Heart of the Beast",
       "year": "2026",
       "cert": "12A",
@@ -510,7 +511,7 @@
       "url": "https://www.themoviedb.org/movie/1263337"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
@@ -519,36 +520,36 @@
       "url": "https://www.themoviedb.org/movie/1084244"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "The End of Oak Street",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "url": "https://www.themoviedb.org/movie/1101383"
-    },
-    {
-      "rank": 6,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Simpsons",
-      "year": "1989",
+      "title": "Ranma1/2",
+      "year": "2024",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "url": "https://www.themoviedb.org/tv/456"
+      "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+      "url": "https://www.themoviedb.org/tv/259140"
     },
     {
       "rank": 2,
+      "title": "Scrubs",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "url": "https://www.themoviedb.org/tv/295778"
+    },
+    {
+      "rank": 3,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
