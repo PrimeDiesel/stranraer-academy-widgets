@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-05T01:41:20.496Z",
+  "updated": "2026-10-05T08:31:58.133Z",
   "news": [
+    {
+      "title": "Gwynedd house with no roof up for auction for £17k",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwl090yxpyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27f3/live/5d20da90-bb09-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "10/4/2026, 8:22:22 AM",
+      "desc": "It's been home to north Wales' strongest man Dewi Arfon near Yr Wyddfa, also known as Snowdon."
+    },
+    {
+      "title": "Protesters across Spain demand action over housing crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/4/2026, 7:07:26 AM",
+      "desc": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
+      "published": "10/4/2026, 6:52:24 AM",
+      "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel."
+    },
+    {
+      "title": "Burnham scraps controversial plans to curb jury trials",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/875b/live/13cc5cb0-bf38-11f1-88b2-23b6d574e863.jpg",
+      "published": "10/4/2026, 3:37:24 AM",
+      "desc": "Sir Keir Starmer's government proposals to scrap many jury trials are to be scrapped."
+    },
+    {
+      "title": "When parenting advice becomes too much",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddc0/live/3ce1b990-be3b-11f1-bc2e-018d645d8d21.png",
+      "published": "10/4/2026, 2:07:29 AM",
+      "desc": "Many parents feel overwhelmed by the amount of parenting information available"
+    },
+    {
+      "title": "The Celebrity Traitors connections that might surprise you, from Jerry Hall and Richard E Grant to Rob and Romesh",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55c6/live/bcd74b30-bf24-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/4/2026, 2:07:24 AM",
+      "desc": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics."
+    },
     {
       "title": "Why Canada is preparing for a (longshot) US invasion",
       "source": "BBC News",
@@ -16,203 +64,163 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4b9/live/db6829d0-bf7d-11f1-babe-4199b0e7ccea.jpg",
       "published": "10/4/2026, 12:22:22 AM",
       "desc": "Several of today's papers feature Andy Burnham's latest plans as PM, including experts warning of a potential tax rise to help cover his social care plan."
-    },
-    {
-      "title": "Conservatives pledge to scrap £100,000 childcare 'cliff edge'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg",
-      "published": "10/3/2026, 9:37:21 PM",
-      "desc": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so."
-    },
-    {
-      "title": "Sir Kevin Sinfield completes epic challenge ahead of Grand Final",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b9c/live/0c43cbc0-bf4e-11f1-a84d-81c67bc2828e.jpg",
-      "published": "10/3/2026, 6:37:21 PM",
-      "desc": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days."
-    },
-    {
-      "title": "Man shot dead in East Acton as people gather for memorial service",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a624/live/bfe929d0-bf4a-11f1-a84d-81c67bc2828e.png",
-      "published": "10/3/2026, 5:22:25 PM",
-      "desc": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said."
-    },
-    {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
-      "published": "10/3/2026, 4:52:22 PM",
-      "desc": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital."
-    },
-    {
-      "title": "Alison Hammond returns home from hospital after rushing off This Morning",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg",
-      "published": "10/3/2026, 2:22:26 PM",
-      "desc": "The This Morning presenter said she believes she experienced a panic attack on Friday's show."
-    },
-    {
-      "title": "Protesters across Spain demand action over housing crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
-      "published": "10/3/2026, 12:22:21 PM",
-      "desc": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament."
     }
   ],
   "sports": [
     {
-      "title": "MLB World Series Predictions: Can Anyone Stop the Dodgers' Three-Peat?",
+      "title": "Vikings vs. Dolphins Prediction, Odds, Pick For NFL Week 4",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-world-series-predictions-can-anyone-stop-dodgers-three-peat",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2297892390-scaled-e1791075471727.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 1:37:26 AM",
-      "desc": "Dontrelle Willis, Derek Jeter, Alex Rodriguez and Ortiz split their picks evenly between the two franchises, with Jeter and Rodriguez taking New York and Willis and Ortiz siding with Los Angeles."
+      "url": "https://www.foxsports.com/stories/nfl/vikings-vs-dolphins-prediction-odds-pick-nfl-week-4",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/2026-10-04-mia-vs-min-prediction-1920x1080-1.png?ve=1&tl=1",
+      "published": "10/4/2026, 8:22:25 AM",
+      "desc": "Get the latest odds, prediction and pick for the Week 4 Vikings vs. Dolphins game, as well as information on how to watch."
     },
     {
-      "title": "Drew Rasmussen Flirts With No-Hitter, Dominates Yankees In Rays' Game 1 Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/drew-rasmussen-flirts-no-hitter-dominates-yankees-rays-game-1-win",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/85c43548-artboard-1.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 1:37:25 AM",
-      "desc": "Drew Rasmussen nearly no-hit the New York Yankees as the Tampa Bay Rays won Game 1 of the American League Division Series."
-    },
-    {
-      "title": "Cavan Sullivan And Barcelona Prospect Diego Kochen Start For USA vs. Mexico",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usa-starts-cavan-sullivan-barcelonas-diego-kochen-vs-mexico",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/bf2743f6-11c32ff7-sullivan9-scaled.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 1:37:21 AM",
-      "desc": "What a way to get your first start for the U.S. men’s national team."
-    },
-    {
-      "title": "2026 MLB ALDS Odds: Rays Favored After Game 1 Win",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-alds-odds-rays-yankees",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/tbrays-101.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 1:37:19 AM",
-      "desc": "Check out the odds and what to know for the Rays-Yankees ALDS series."
-    },
-    {
-      "title": "2026 MLB Divisional Series Odds: What To Know About Each Matchup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-divisional-series-odds-what-know-about-each-matchup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9mlb-divisional.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 1:37:17 AM",
-      "desc": "Get prepared for the second round of the MLB postseason with FOX Sports' divisional series hub."
-    },
-    {
-      "title": "Rasmussen nearly perfect vs. Yankees as Rays take ALDS Game 1 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50095644/rasmussen-nearly-perfect-vs-yankees-rays-take-alds-game-1",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1004%2Fr1725523_1024x576_16%2D9.jpg",
-      "published": "10/4/2026, 1:34:34 AM",
-      "desc": "Drew Rasmussen and Bryan Baker pitched a one-hit game Saturday night as the Rays shut down the Yankees' offense to take Game 1 of their ALDS series."
-    },
-    {
-      "title": "Brad Keselowski Out As Driver At RFK: 'I'm In A Good Spot Now'",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/brad-keselowski-out-driver-possibly-owner-rfk",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/brad-keselowski-out_bob-pockrass_nascar-2027.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 12:52:22 AM",
-      "desc": "Brad Keselowski admitted that he was angry over his split from RFK but that now, he's in a better space."
-    },
-    {
-      "title": "Jeremiah Smith Enjoys Historic Day: 4 Takeaways From Ohio State's Win Over Iowa",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-iowa-jeremiah-smith-takeaways",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/cfb_16x9_960.jpg?ve=1&tl=1",
-      "published": "10/4/2026, 12:52:20 AM",
-      "desc": "FOX Sports' Laken Litman offers up four takeaways from Ohio State's impressive 31-14 win over No. 14 Iowa."
-    },
-    {
-      "title": "Jeremiah Smith Can't Stop Making History, This Time With An Ohio State Triple Crown",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/jeremiah-smith-ohio-state-records-history-touchdowns",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jeremiahsmithtc.png?ve=1&tl=1",
-      "published": "10/4/2026, 12:22:23 AM",
-      "desc": "Is Jeremiah Smith the greatest receiver in college football history?"
-    },
-    {
-      "title": "World Grand Prix: Luke Humphries beats James Wade to secure final showdown with Gerwyn Price",
+      "title": "Kierron Bowie seizing Scotland shot after World Cup disappointment",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/darts/articles/cvde8y5w9dkxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dff6/live/314c1410-bf7e-11f1-b06e-233705d8be62.jpg",
-      "published": "10/3/2026, 11:37:23 PM",
-      "desc": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e53/live/7ab140f0-bfc7-11f1-ae6d-41d695ddb617.jpg",
+      "published": "10/4/2026, 8:22:24 AM",
+      "desc": "BBC Scotland speaks to Kieron Bowie after he scores his first goal for his country against North Macedonia."
     },
     {
-      "title": "Whittaker survives late scare to hold on for points win over Wallace",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb6a/live/749301f0-bf7b-11f1-850c-a731bd122ff4.jpg",
-      "published": "10/3/2026, 11:37:23 PM",
-      "desc": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham."
-    },
-    {
-      "title": "The Prem: Newcastle 19-24 Leicester - Tigers pick up first win of season.",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe60/live/5e95fa60-bf67-11f1-be3d-3d217f9eb343.jpg",
-      "published": "10/3/2026, 11:37:22 PM",
-      "desc": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem."
-    },
-    {
-      "title": "North Macedonia 0-2 Scotland: Two going on four, five or six on good night for new era",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg",
-      "published": "10/3/2026, 11:37:20 PM",
-      "desc": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English."
-    },
-    {
-      "title": "2026 MLB NLDS Odds: Dodgers Become Bigger Favorites Over Braves",
+      "title": "College Football Rankings: Ohio State Back To Top 5, Alabama And Missouri Jump Up",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlds-odds-dodgers-braves",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/1294/728/ohtani.jpg?ve=1&tl=1",
-      "published": "10/3/2026, 11:37:20 PM",
-      "desc": "The Dodgers began their quest for a three-peat with a Game 1 win over the Braves. Check out the NLDS series odds."
+      "url": "https://www.foxsports.com/stories/college-football/rankings-week-5-ohio-state-georgia-usc-alabama-missouri",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/rjs-top-25-2.jpg?ve=1&tl=1",
+      "published": "10/4/2026, 8:22:23 AM",
+      "desc": "FOX Sports' RJ Young shares his latest college football rankings after an exciting (or disappointing) Week 5 slate."
     },
     {
-      "title": "Skubal shuts down Braves' bats, stakes Dodgers to 1-0 NLDS lead - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50094243/skubal-shuts-braves-bats-stakes-dodgers-1-0-nlds-lead",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725494_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 11:10:00 PM",
-      "desc": "Tarik Skubal allowed one run in six dominant innings, and the Dodgers beat the Braves 5-3 on Saturday in Game 1 of their NL Division Series."
+      "title": "China Open: Aryna Sabalenka stunned by Nikola Bartunkova in Beijing",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/c64g155j534vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2cfa/live/8e473cf0-bfc2-11f1-be90-73414311d321.jpg",
+      "published": "10/4/2026, 8:07:23 AM",
+      "desc": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova."
     },
     {
-      "title": "Spain's De la Fuente in disbelief as Yamal continues scoring streak - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50093692/lamine-yamal-spain-czechia-luis-de-la-fuente-nations-league",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725444_594x396_3%2D2.jpg",
-      "published": "10/3/2026, 10:39:00 PM",
-      "desc": "Spain coach Luis de la Fuente says Lamine Yamal is on the path to becoming a legend after being left stunned by the teenager's latest goal in Saturday's 3-1 UEFA Nations League win over Czechia."
+      "title": "UFC 322: Natalia Silva beats Wang Cong to win vacant flyweight title",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/669c/live/a15ab7f0-bfbc-11f1-be90-73414311d321.jpg",
+      "published": "10/4/2026, 8:07:21 AM",
+      "desc": "Natalia Silva is crowned the new women's flyweight champion with a unanimous decision victory over China's Wang Cong at UFC 332."
     },
     {
-      "title": "Smith sets Ohio State's career receptions, receiving TD records - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50093777/smith-sets-ohio-state-career-receptions-receiving-td-records",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725479_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 10:19:27 PM",
-      "desc": "Jeremiah Smith likely cemented himself as the Heisman frontrunner with another monster performance in which he also became Ohio State's career receptions and touchdown receptions leader during Saturday's game 31-14 win over Iowa."
+      "title": "Dabo Swinney And Clemson Are Stuck In Neutral After Another Blowout Loss",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/clemson-miami-dabo-swinney-cfp-acc-mario-cristobal",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-clemson.png?ve=1&tl=1",
+      "published": "10/4/2026, 7:37:25 AM",
+      "desc": "Are Dabo Swinney and the Clemson Tigers adjusting enough to college football?"
     },
     {
-      "title": "Alabama's Mississippi State jab tops trolls from Week 5 college football - ESPN",
+      "title": "Colorado State defensive coordinator leaves sideline, fired after game - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50087404/college-football-trolls-week-5",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1003%2Fr1725439_1296x729_16%2D9.jpg",
-      "published": "10/3/2026, 9:56:00 PM",
-      "desc": "Alabama took to social media to needle its Starkville hosts, writing \"Not enough cowbells\" in reference to Davis Wade Stadium's famous noise-making tradition."
+      "url": "https://www.espn.com/college-football/story/_/id/50097925/colorado-state-defensive-coordinator-leaves-sideline-fired-game",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1124%2Fr1579873_1296x729_16%2D9.jpg",
+      "published": "10/4/2026, 6:38:53 AM",
+      "desc": "Colorado State head coach Jim Mora said defensive coordinator Tyson Summers was \"no longer with the program\" after he was relieved of his play-calling duties in the first half and left the sideline."
+    },
+    {
+      "title": "Bahrain Grand Prix in Malaysia LIVE: Race - radio commentary, text updates, times & results",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/live/ckddvvqm4g3dt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/624f/live/a4f4d3a0-bf85-11f1-8a31-69286dbbd6dd.jpg",
+      "published": "10/4/2026, 6:37:24 AM",
+      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary for the Bahrain Grand Prix, taking place in Kuala Lumpur in Malaysia."
+    },
+    {
+      "title": "Chelsea news: Cesar Azpilicueta -  clawed my way to the top but need a break",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/14a6/live/d4fed630-bb4e-11f1-bd21-bdf910f2cec6.jpg",
+      "published": "10/4/2026, 6:22:22 AM",
+      "desc": "Cesar Azpilicueta says it is time to move to \"a different stage of life\" following a glorious 20-year playing career, notably captaining Chelsea to several titles."
+    },
+    {
+      "title": "Clemson contained by Miami, but Tigers are 'getting tougher' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50097740/clemson-contained-miami-tigers-getting-tougher",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1004%2Fr1725634_1296x729_16%2D9.jpg",
+      "published": "10/4/2026, 5:55:04 AM",
+      "desc": "Miami handed Clemson its second-worst home loss under Dabo Swinney, beating the Tigers 41-13 on Saturday night, but the coach said he felt confident that his team could still compete for an ACC title despite the result, saying \"the season ain't over.\""
+    },
+    {
+      "title": "Wales v Denmark: Craig Bellamy's side aim to thrive in Nations League A",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f60/live/18e85770-bf43-11f1-8acc-0bb5649ca116.jpg",
+      "published": "10/4/2026, 5:52:25 AM",
+      "desc": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff."
+    },
+    {
+      "title": "Buccaneers vs. Packers Prediction, Odds, Pick For NFL Week 4",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/buccaneers-vs-packers-prediction-odds-pick-nfl-week-4",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/2026-10-04-gb-vs-tb-prediction-1920x1080-1.png?ve=1&tl=1",
+      "published": "10/4/2026, 5:37:24 AM",
+      "desc": "Get the latest odds, prediction and pick for the Week 4 Buccaneers vs. Packers game, as well as information on how to watch."
+    },
+    {
+      "title": "Texans vs. Cowboys Prediction, Odds, Pick For NFL Week 4",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/texans-vs-cowboys-prediction-odds-pick-nfl-week-4",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/2026-10-04-dal-vs-hou-prediction-1920x1080-1.png?ve=1&tl=1",
+      "published": "10/4/2026, 5:37:24 AM",
+      "desc": "Get the latest odds, prediction and pick for the Week 4 Texans vs. Cowboys game, as well as information on how to watch."
+    },
+    {
+      "title": "Eagles vs. Rams Prediction, Odds, Pick For NFL Week 4",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-vs-rams-prediction-odds-pick-nfl-week-4",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/2026-10-04-lar-vs-phi-prediction-1920x1080-1.png?ve=1&tl=1",
+      "published": "10/4/2026, 5:37:23 AM",
+      "desc": "Get the latest odds, prediction and pick for the Week 4 Eagles vs. Rams game, as well as information on how to watch."
+    },
+    {
+      "title": "Dodgers Show Off Depth; Brewers Escape: 4 Takeaways From Division Series Game 1s",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-playoffs-takeaways-division-series-saturday-october-3",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/mlb-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/4/2026, 5:37:21 AM",
+      "desc": "The MLB Division Series kicked off with a bang on Saturday, with clutch homers, dominant pitching and a controversial call."
+    },
+    {
+      "title": "History Made By Cavan Sullivan: 4 Takeaways From USA's Win Over Mexico",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/usmnt-mexico-3-0-cavan-sullivan-goal-pochettino-julian-hall",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/usa8.jpg?ve=1&tl=1",
+      "published": "10/4/2026, 5:37:19 AM",
+      "desc": "A statement win over your biggest rival? The USA's youngsters shined against Mexico."
+    },
+    {
+      "title": "Ty France Fly Ball Hits The Roof At Miller Park, Causing Wild Ruling In Brewers Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/ty-france-fly-ball-hits-roof-miller-park-causing-wild-ruling-brewers-win",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/e6dd0716-mlb-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/4/2026, 4:52:22 AM",
+      "desc": "The Brewers' win over the Padres ended with some controversy."
+    },
+    {
+      "title": "MLB Division Series Roundup: Brewers' Wild Win, Yankees Get Blanked",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-playoff-roundup-murakami-powers-white-sox-rasmussen-shuts-down-yankees",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/ds1.jpg?ve=1&tl=1",
+      "published": "10/4/2026, 4:52:21 AM",
+      "desc": "The division series opened Saturday with four Game 1s, and the White Sox, Dodgers and Rays took early series leads."
     }
   ],
   "tech": [
+    {
+      "title": "Poll: How Many 'Mythic' Xbox Achievements Do You Reckon You'll Have? - purexbox.com",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/10/poll-how-many-mythic-xbox-achievements-do-you-reckon-youll-have",
+      "image": "https://images.purexbox.com/ee436dd5c886a/1280x720.jpg",
+      "published": "10/4/2026, 4:46:11 AM",
+      "desc": "Full completions are being backdated to the Xbox 360 era"
+    },
     {
       "title": "The Witcher 3 Remastered Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
       "source": "Nintendoeverything.com",
@@ -222,36 +230,44 @@
       "desc": "Get details about frame rate, resolution, and more for The Witcher 3 Remastered on Nintendo Switch 2 with this new technical analysis."
     },
     {
-      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "image": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
-      "published": "10/3/2026, 9:26:58 PM",
-      "desc": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal"
+      "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine",
+      "image": "https://www.techpowerup.com/img/wxjJUoXsPqiUdLQy.jpg",
+      "published": "10/4/2026, 12:52:53 AM",
+      "desc": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title RS4, though most people are already calling it RuneScape 4. The game is being built in Unreal Engine, and Jagex hasn't said which version. It's the first numbe…"
     },
     {
-      "title": "iPhone Owners Turn Off This Setting To Save Battery Life - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2271390/why-iphone-owners-turn-off-background-app-refresh/",
-      "image": "https://www.bgr.com/img/gallery/iphone-owners-turn-off-this-setting-to-save-battery-life/l-intro-1790367454.jpg",
-      "published": "10/3/2026, 8:47:00 PM",
-      "desc": "The Background App Refresh on iPhone keeps your apps updated with the latest information before they are opened, which is nice, but it drains the battery."
-    },
-    {
-      "title": "RuneScape 4, The Next MMO From Jagex, Announced At RuneFest This Weekend - MMORPG.com",
-      "source": "MMORPG.com",
-      "url": "https://www.mmorpg.com/news/runescape-4-the-next-mmo-from-jagex-announced-at-runefest-this-weekend-2000139053",
-      "image": "",
-      "published": "10/3/2026, 8:00:00 PM",
-      "desc": ""
+      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/3/2026, 8:57:00 PM",
+      "desc": "Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access."
     },
     {
       "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity - IGN",
       "source": "IGN",
       "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
-      "image": "",
+      "image": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "published": "10/3/2026, 7:46:08 PM",
-      "desc": ""
+      "desc": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity."
+    },
+    {
+      "title": "Valorant Player Banned Due To Previous CPU Owner’s Cheating Ways - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/valorant-player-banned-due-to-previous-gpu-owners-cheating-ways-2000739597",
+      "image": "https://kotaku.com/app/uploads/2026/10/valorantkeyo-1200x675.jpg",
+      "published": "10/3/2026, 7:06:51 PM",
+      "desc": "In a wild coincidence a German player was penalized over the playing habits of their Ryzen 7's previous owner, claiming that nothing short of replacing the entire PC will overcome Riot's infamous anti-cheat detection"
+    },
+    {
+      "title": "6 One UI 9 features you should immediately try out - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/one-ui-9-features-you-should-try/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/one-ui-9-s26-ultra-hero.jpg?w=1600&h=900&fit=crop",
+      "published": "10/3/2026, 7:00:10 PM",
+      "desc": "The One UI 9 features worth trying first"
     },
     {
       "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12 - 9to5Mac",
@@ -260,22 +276,6 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
       "published": "10/3/2026, 6:48:00 PM",
       "desc": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series..."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation's director responds to fans demanding a full disc version - eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-      "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-gameplay-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "10/3/2026, 5:25:03 PM",
-      "desc": "Naoki Hamaguchi says he fought for a disc release of Final Fantasy 7 Revelation, as the industry heads towards an all-digital future."
-    },
-    {
-      "title": "6 Old-School Pony Cars That Aren't The Ford Mustang - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2273229/old-school-pony-cars-that-arent-ford-mustang/",
-      "image": "https://www.jalopnik.com/img/gallery/6-old-school-pony-cars-that-arent-the-ford-mustang/l-intro-1790779448.jpg",
-      "published": "10/3/2026, 4:45:00 PM",
-      "desc": "Besides the Mustang, pony cars of the 1970s inclued the Mercury Cougar, Plymouth Barracuda / 'Cuda, Dodge Challenger, Chevy Camaro, and AMC Javelin."
     }
   ],
   "education": [
@@ -410,15 +410,6 @@
     },
     {
       "rank": 8,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
-    },
-    {
-      "rank": 9,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -427,13 +418,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
+      "rank": 9,
+      "title": "Circles",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+    },
+    {
       "rank": 10,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     },
     {
       "rank": 11,
@@ -446,12 +446,12 @@
     },
     {
       "rank": 12,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
       "rank": 13,
@@ -464,35 +464,26 @@
     },
     {
       "rank": 14,
-      "title": "Cleveland!",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/42/5b/39425b91-27b1-4b37-2f57-6f704fa5d8a6/mzaf_158326623628930700.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/cleveland/6814997249?i=6814997427&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Cleveland!"
-    },
-    {
-      "rank": 15,
       "title": "Babydoll",
       "artist": "Jamie Miller & Antonio Cipriano",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
+    },
+    {
+      "rank": 15,
+      "title": "Cleveland!",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/42/5b/39425b91-27b1-4b37-2f57-6f704fa5d8a6/mzaf_158326623628930700.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/cleveland/6814997249?i=6814997427&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Cleveland!"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
@@ -501,13 +492,22 @@
       "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
-      "rank": 3,
-      "title": "The End of Oak Street",
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "url": "https://www.themoviedb.org/movie/1101383"
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 3,
+      "title": "Heart of the Beast",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "url": "https://www.themoviedb.org/movie/1263337"
     },
     {
       "rank": 4,
@@ -520,17 +520,35 @@
     },
     {
       "rank": 5,
-      "title": "Forgotten Island",
+      "title": "Toy Story 5",
       "year": "2026",
       "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "url": "https://www.themoviedb.org/movie/1465063"
+      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 6,
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "url": "https://www.themoviedb.org/movie/1101383"
     }
   ],
   "tv": [
     {
       "rank": 1,
+      "title": "Marshals",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "url": "https://www.themoviedb.org/tv/290856"
+    },
+    {
+      "rank": 2,
       "title": "Futurama",
       "year": "1999",
       "cert": "12",
