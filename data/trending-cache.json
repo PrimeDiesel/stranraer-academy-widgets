@@ -1,13 +1,29 @@
 {
-  "updated": "2026-10-07T02:09:10.060Z",
+  "updated": "2026-10-07T09:56:45.296Z",
   "news": [
     {
-      "title": "UK weather: Temperatures drop as rain and cloud sweep in",
+      "title": "UK oil refinery broke toxic pollution limits dozens of times",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cr20w62w7q3jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/1bcf/live/5da76540-c0d3-11f1-a5b0-6f550c662e91.jpg",
-      "published": "10/6/2026, 2:22:23 AM",
-      "desc": "Tuesday will see cool air spread across the UK ahead of a noticeable drop in temperatures for all by Wednesday."
+      "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d955/live/5b6c02f0-c0cd-11f1-a5b0-6f550c662e91.jpg",
+      "published": "10/6/2026, 9:22:25 AM",
+      "desc": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest."
+    },
+    {
+      "title": "Man charged over Gosport migrant protest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglg04dd4nko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ce7/live/5ec6b020-c150-11f1-a043-4511bb61bfac.jpg",
+      "published": "10/6/2026, 9:07:22 AM",
+      "desc": "Protesters held a demonstration after 149 migrants were brought to Gosport on Sunday."
+    },
+    {
+      "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c13/live/c0c73a70-c01e-11f1-a64c-550be9e3c66b.jpg",
+      "published": "10/6/2026, 5:37:18 AM",
+      "desc": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told."
     },
     {
       "title": "Newspaper headlines: Badenoch's 'Britannia Dome' and 'King tells Andrew 'I won't fund court fight''",
@@ -24,14 +40,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e25/live/f56752a0-7eac-11f1-b976-0b9c15b0ccfc.jpg",
       "published": "10/6/2026, 1:07:23 AM",
       "desc": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-    },
-    {
-      "title": "Tories pledge new 'Britannia Shield' UK air defence system",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cc5/live/105c8760-c106-11f1-9ff2-3b6c88884537.jpg",
-      "published": "10/5/2026, 11:22:25 PM",
-      "desc": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
     },
     {
       "title": "I won't accept exclusion, says Polanski after backlash to Zionist motion",
@@ -56,24 +64,144 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea93/live/d670e5f0-bd81-11f1-add9-b18e6ea43b60.jpg",
       "published": "10/5/2026, 8:52:28 PM",
       "desc": "His last book, Adam and Eve, is set to release this month."
-    },
-    {
-      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b8d8/live/57b0b030-c0ef-11f1-b3d1-4f53c4a075ed.jpg",
-      "published": "10/5/2026, 8:37:31 PM",
-      "desc": "The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia."
     }
   ],
   "sports": [
     {
-      "title": "Is Ben Johnson Bears' Most Important Piece? Why Last 2 Games Suggest He Might Be",
+      "title": "Jannik Sinner: World number one ends season early with knee injury",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ck78p9jl2gl5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4dc/live/50b6f780-c162-11f1-a64c-550be9e3c66b.jpg",
+      "published": "10/6/2026, 9:22:16 AM",
+      "desc": "World number one Jannik Sinner will not play again in 2026 because of an ongoing right knee injury."
+    },
+    {
+      "title": "F1 Q&A: Hamilton, Malaysia, wet races, Red Bull and Ford and the future of engines",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e02c/live/b81738e0-c0d6-11f1-a5b0-6f550c662e91.jpg",
+      "published": "10/6/2026, 8:37:30 AM",
+      "desc": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Bahrain Grand Prix in Malaysia."
+    },
+    {
+      "title": "LIV Golf: Competition secures potential $300m investment to emerge from restructuring",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f267/live/89038610-c150-11f1-a043-4511bb61bfac.jpg",
+      "published": "10/6/2026, 8:37:27 AM",
+      "desc": "LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season."
+    },
+    {
+      "title": "South Korea captain apologises for gloating over military service exemption",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efe7/live/8b257120-c14f-11f1-a043-4511bb61bfac.jpg",
+      "published": "10/6/2026, 8:37:23 AM",
+      "desc": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games."
+    },
+    {
+      "title": "NFL: Officials Jeff Seeman and Adrian Hill suspended for player incidents",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d17c/live/30488b30-c149-11f1-ac8d-4d124192d842.jpg",
+      "published": "10/6/2026, 6:22:20 AM",
+      "desc": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player."
+    },
+    {
+      "title": "Boos rain down from Superdome stands in Saints' blowout loss - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726723_1296x729_16%2D9.jpg",
+      "published": "10/6/2026, 6:18:34 AM",
+      "desc": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities that we didn't take advantage of.\""
+    },
+    {
+      "title": "Lionel Messi: Argentina legend has big plans for the future as golden era ends",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/736a/live/3de6acd0-c0b4-11f1-837f-5ba27a94daa8.jpg",
+      "published": "10/6/2026, 6:07:22 AM",
+      "desc": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?"
+    },
+    {
+      "title": "Yankees facing elimination after error-filled Game 2 loss - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50115066/yankees-facing-elimination-error-filled-game-2-loss",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726715_1296x729_16%2D9.jpg",
+      "published": "10/6/2026, 5:56:12 AM",
+      "desc": "Aaron Boone's Yankees committed four errors, including three in the first inning, among other miscues in a shocking display of postseason baseball, as New York dropped a 5-2 decision to the Tampa Bay Rays in Game 2 of the American League Division Series."
+    },
+    {
+      "title": "Resurgent Falcons score 80 points in two-game winning streak - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726713_1296x729_16%2D9.jpg",
+      "published": "10/6/2026, 5:10:52 AM",
+      "desc": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined points in a two-game winning surge."
+    },
+    {
+      "title": "2026 Super Bowl Odds: Rams Favored After Comeback Over Eagles; Falcons Soar",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/ben-johnson-nfls-best-coach-why-bears-last-2-wins-suggest-he-might",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/ben-johnson.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:52:19 AM",
-      "desc": "Colin Cowherd said he believes that Sunday's performance is the latest piece of evidence of who matters most in Chicago: Head coach Ben Johnson."
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/superbowl-odds-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:52:35 AM",
+      "desc": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Falcons soar after two dominant wins. See the latest odds after Week 4."
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 5: Do 49ers Or Chiefs Hold Claim As NFL's Best Team?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-5",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/pr.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:52:29 AM",
+      "desc": "We have a shake up at the top of our power rankings, while a team moved up six spots. despite a loss this week."
+    },
+    {
+      "title": "MLB Division Series Roundup: White Sox, Rays Each Move One Win From ALCS",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-division-series-roundup-white-sox-rays-each-move-one-win-from-alcs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/roundup1.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:52:26 AM",
+      "desc": "Here is what stood out from Day 3 of the MLB Division Series."
+    },
+    {
+      "title": "NFL Week 4 All-Stars: Drake Maye Is Back; Kenneth Walker Might Be A Mainstay",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-all-stars-drake-maye-kenneth-walker-ceedee-lamb-tetairoa-mcmillan-patriots-chiefs-cowboys",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-11-4.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:52:25 AM",
+      "desc": "Our weekly look at the NFL's best includes two monster games from receivers CeeDee Lamb and Tetairoa McMillan."
+    },
+    {
+      "title": "Hello, Atlanta, Michael Penix & Bijan Robinson: 3 Takeaways From Falcons Win vs. Saints",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/hello-atlanta-michael-penix-bijan-robinson-3-takeaways-from-falcons-win-vs-saints",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/falcons-saints-takeaways.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:07:31 AM",
+      "desc": "All of a sudden, the Falcons appear to have one of the best offenses in the NFL. Here are our takeaways from their win over the Saints."
+    },
+    {
+      "title": "NFL Week 4 Plays That Stood Out: Dak Prescott Carves Up Houston; Drake Maye Delivers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-plays-that-stood-out-drake-maye-dak-prescott",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/liveblog-16x9-4.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 4:07:30 AM",
+      "desc": "Here are the plays that stood out from NFL Week 4, from Drake Maye's heroics to Dak Prescott's big game vs. Houston."
+    },
+    {
+      "title": "Dante Moore back at Ducks practice, status vs. Bruins TBD - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50114452/dante-moore-back-ducks-practice-status-vs-bruins-tbd",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0913%2Fr1715952_1296x729_16%2D9.jpg",
+      "published": "10/6/2026, 3:11:11 AM",
+      "desc": "QB Dante Moore participated in Oregon's practice Monday, two weeks after he sustained a concussion against USC, coach Dan Lanning said."
+    },
+    {
+      "title": "2026 MLB Divisional Series Odds: What To Know About Each Matchup",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-divisional-series-odds-what-know-about-each-matchup",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9mlb-divisional.jpg?ve=1&tl=1",
+      "published": "10/6/2026, 2:52:22 AM",
+      "desc": "Get prepared for the second round of the MLB postseason with FOX Sports' divisional series hub."
     },
     {
       "title": "White Sox beat Guardians in Game 2, move within 1 win of ALCS - ESPN",
@@ -82,152 +210,56 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726626_1024x576_16%2D9.jpg",
       "published": "10/6/2026, 12:38:46 AM",
       "desc": "The White Sox beat the Guardians 4-3 on Monday to take a 2-0 lead in their AL Division Series."
-    },
-    {
-      "title": "Falcons vs. Saints Live Updates, Score: NFC South Rivals Meet on Monday Night",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/nfl/falcons-vs-saints-live-updates-score-nfc-south-rivals-clash-monday-night",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1408/814/liveblog-16x9mon.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:07:35 AM",
-      "desc": "The Atlanta Falcons visit the New Orleans Saints on Monday to close out Week 4. Follow along here for live updates and highlights throughout the game."
-    },
-    {
-      "title": "Seahawks Add To Their Backfield Amid RB Injuries, Reportedly Signing Joe Mixon",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-reportedly-sign-veteran-rb-joe-mixon",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/mixon3.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:07:35 AM",
-      "desc": "The Seattle Seahawks are offically signing RB Joe Mixon to their practice squad."
-    },
-    {
-      "title": "Big Bets Report: Bettor's In-Game Chiefs Wager Cashes In For $2.2 Million",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettors-in-game-chiefs-wager-cashes-2-2-million",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-1-20.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:07:29 AM",
-      "desc": "The Chiefs' win over Las Vegas helped one bettor bank well into seven figures. Patrick Everson breaks down that payday and more from the weekend."
-    },
-    {
-      "title": "Why The Padres Can't Be Counted Out As They Stare At A Playoff Exit",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mlb-playoffs-padres-brewers-nlds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/padres1-1.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:07:25 AM",
-      "desc": "The environment at Petco Park, where San Diego went 24-6 in the second half, seemed to suffocate the Cubs in the wild-card series. Can the home crowd now keep the Padres' season alive?"
-    },
-    {
-      "title": "Top-10 CFB Showstoppers From Week 5: Who Can Stop Jeremiah Smith?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/top-10-cfb-showstoppers-from-week-5",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-3.jpg?ve=1&tl=1",
-      "published": "10/6/2026, 12:07:22 AM",
-      "desc": "Geoff Schwartz breaks down his 10 stars from Week 5 of the college football season."
-    },
-    {
-      "title": "Padres dismiss Miller pitch-tipping speculation: 'On top of it' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50112996/padres-dismiss-miller-pitch-tipping-speculation",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fr1726612_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 11:40:00 PM",
-      "desc": "Although the San Diego Padres have plenty of concerns in the face of playoff elimination, they don't believe Mason Miller tipping his pitches is one of them."
-    },
-    {
-      "title": "MCL sprain sidelines Mariota while Daniels preps to practice - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fr1726596_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 11:05:08 PM",
-      "desc": "In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained medial collateral ligament of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said on Monday."
-    },
-    {
-      "title": "France 4-1 Belgium: Michael Olise scores twice in Nations League win for hosts",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c6wyzyjez0n4t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c4a/live/3f800750-c0fd-11f1-a64c-550be9e3c66b.jpg",
-      "published": "10/5/2026, 10:52:29 PM",
-      "desc": "France score four goals in the final 13 minutes to come from behind to beat Belgium in the Nations League."
-    },
-    {
-      "title": "Seahawks signing RB Joe Mixon after workout, source says - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50112493/seahawks-signing-rb-joe-mixon-workout-source-says",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1120%2Fr1578281_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 10:17:46 PM",
-      "desc": "The Seahawks are signing running back Joe Mixon after he worked out for the team Monday, a source told NFL Network's Mike Garafolo."
-    },
-    {
-      "title": "Balogun: Premier League 'Definitely' Still An Option After Collapsed Everton Move",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/balogun-premier-league-definitely-still-option-after-collapsed-everton-move",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/balogun1.jpg?ve=1&tl=1",
-      "published": "10/5/2026, 10:07:28 PM",
-      "desc": "United States striker Folarin Balogun hasn't given up on a return to the Premier League, a month after his deadline-day move to Everton fell apart."
-    },
-    {
-      "title": "49ers LB Dre Greenlaw Explains Why He Cussed Out Broncos HC Sean Payton",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-explains-why-he-cussed-out-broncos-hc-sean-payton",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/dre-greenlaw.jpg?ve=1&tl=1",
-      "published": "10/5/2026, 10:07:25 PM",
-      "desc": "San Francisco linebacker Dre Greenlaw had some words for Denver coach Sean Payton following the 49ers win on Sunday."
-    },
-    {
-      "title": "McVay -- Rams coaches will 'learn' from incident with Eagles fans - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50112291/mcvay-rams-coaches-learn-incident-eagles-fans",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fr1726550_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 9:49:51 PM",
-      "desc": "Rams coach Sean McVay says his assistant coaches will learn from their viral interaction with Eagles fans during Sunday's win over Philadelphia."
-    },
-    {
-      "title": "49ers FB Kyle Juszczyk Expected To Miss 2-3 Weeks With Knee Injury",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-kyle-juszczyk-knee-injury",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/kyle-juszczyk-.jpg?ve=1&tl=1",
-      "published": "10/5/2026, 9:22:19 PM",
-      "desc": "San Francisco 49ers fullback Kyle Juszczyk is expected to miss two to three weeks after an MRI on Monday showed a knee sprain and bone bruise."
-    },
-    {
-      "title": "Sources - Eagles RB Tank Bigsby to have surgery, headed to IR - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50111928/sources-eagles-rb-tank-bigsby-surgery-headed-ir",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fr1726539_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 9:17:09 PM",
-      "desc": "Eagles running back Tank Bigsby sustained a core muscle injury Sunday that requires surgery, sources told NFL Network's Ian Rapoport."
-    },
-    {
-      "title": "Football gossip: Madueke, Kounde, Kane, Zirkzee, King, Endrick, Alvarez, Herazo, Balde, Yoro, Leoni",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90d3/live/7d914c60-c0f9-11f1-812d-715b1c9a79e7.png",
-      "published": "10/5/2026, 8:52:26 PM",
-      "desc": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more."
-    },
-    {
-      "title": "Sources - Chiefs WR Tyquan Thornton expected back in 12-16 weeks - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50111568/sources-chiefs-wr-tyquan-thornton-expected-back-12-16-weeks",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1004%2Fr1726104_1296x729_16%2D9.jpg",
-      "published": "10/5/2026, 8:30:45 PM",
-      "desc": "Chiefs wide receiver Tyquan Thornton is expected back from a dislocated left ankle injury within 12 to 16 weeks, sources told NFL Network."
     }
   ],
   "tech": [
     {
-      "title": "NYT Strands hints, answers for October 5, 2026 - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-5-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/04W7UoSz8fYRtfjEJ1OjAbi/hero-image.fill.size_1200x675.v1790882691.jpg",
-      "published": "10/6/2026, 12:08:40 AM",
-      "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle."
+      "title": "Pixel 11 users might have Gemini call friends and family members - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/future-of-call-for-me-feature-discovered_id183840",
+      "image": "",
+      "published": "10/6/2026, 4:36:18 AM",
+      "desc": ""
     },
     {
-      "title": "What’s new in Android’s October 2026 Google System Updates - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/05/october-2026-google-system-updates/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/5/2026, 9:17:00 PM",
-      "desc": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across..."
+      "title": "Prime Day PS5 deals live: how to save on consoles and the best game and accessory savings I'd hit ahead of the sale - GamesRadar+",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/hardware/news/live/prime-day-ps5-deals-live-october-26/",
+      "image": "https://cdn.mos.cms.futurecdn.net/k98DFcHyQL5qU3cz8FgVge-2560-80.jpg",
+      "published": "10/6/2026, 2:31:57 AM",
+      "desc": "The biggest discounts from team PlayStation"
+    },
+    {
+      "title": "Today's NYT Strands Hints (and Answer) for Monday, October 5, 2026 - Lifehacker",
+      "source": "Lifehacker.com",
+      "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-oh-well-too-bad-such-a-shame-october-5-2026",
+      "image": "https://lifehacker.com/imagery/articles/01M3WZQP1TXDRXVVTVBZ9BK4J6/hero-image.fill.size_1200x675.jpg",
+      "published": "10/6/2026, 1:46:04 AM",
+      "desc": "Here are some hints to help you win NYT Strands #946."
+    },
+    {
+      "title": "Switch 2 Japanese-Language System ‘Choose-Your-Game Bundle’ launches November 12 in Japan - gematsu.com",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Switch-2-Bundle-Japan_10-05-26.jpg",
+      "published": "10/6/2026, 1:25:09 AM",
+      "desc": "Nintendo will release the Switch 2 Japanese-Language System (Japan Only) Choose-Your-Game Bundle on November 12 in Japan for 63,980 yen, the company announced."
+    },
+    {
+      "title": "Supermassive Lays Off 70 People Less Than Six Months After Releasing Its New Sci-Fi Horror Game - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+      "image": "https://kotaku.com/app/uploads/2026/10/Directive-8020-1200x675.jpg",
+      "published": "10/5/2026, 9:46:42 PM",
+      "desc": "Directive 8020 was met with mixed reviews on Steam"
+    },
+    {
+      "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+      "image": "https://images.macrumors.com/t/KU8mtnpuZLz7y7jeR2PsMQ80Vvg=/2500x/article-new/2025/11/m5-macbook-pro-cyber.jpg",
+      "published": "10/5/2026, 9:14:08 PM",
+      "desc": "macOS Golden Gate 27.2 adds code referencing new touch-specific gestures in apps like Safari, Notes, Photos, and Quick Look, a possible sign Apple is..."
     },
     {
       "title": "Call of Duty: Modern Warfare 4's Ambitious Extraction Mode, DMZ, Gets Major Deep Dive - IGN",
@@ -243,34 +275,26 @@
       "url": "https://chromeunboxed.com/the-googlebook-era-is-here-some-first-impressions-of-the-hardware-and-a-whole-new-os/",
       "image": "https://chromeunboxed.com/wp-content/uploads/2026/10/GooglebookArrivesThoughtsDayOne.webp",
       "published": "10/5/2026, 8:30:26 PM",
-      "desc": "Today is the day. After months of tracking code commits, dissecting leaks, and getting that unforgettable first taste at Google’s media showcase in New York City, Googlebooks are officially landing on doorsteps and retail shelves. Our review were quite litera…"
-    },
-    {
-      "title": "Hello from Seattle: XBOX FanFest Comes Home November 12 - news.xbox.com",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/10/05/xbox-fanfest-seattle-25th-anniversary/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XB-Fanfest_Seattle_16x9-f0c06b3135274ea06018-1024x576.png",
-      "published": "10/5/2026, 8:26:15 PM",
-      "desc": "Seattle, we’re coming home. XBOX FanFest is coming on Thursday, November 12, 2026 - find out what to expect and how to attend inside."
-    },
-    {
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\" - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "10/5/2026, 8:14:26 PM",
-      "desc": "Grand Theft Auto 6 developers knew development would take \"years and years,\" so avoiding trends was important in making the game \"feel vital\" come launch."
-    },
-    {
-      "title": "You Can Play Soccer In Ocarina Of Time And—Ugh, It's Vibe-Coded - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026",
-      "image": "https://kotaku.com/app/uploads/2026/10/soccerina-1200x675.jpg",
-      "published": "10/5/2026, 8:00:01 PM",
-      "desc": "Goal Skulltulas"
+      "desc": "Today is the day. After months of tracking code commits, dissecting leaks, and getting that unforgettable first taste at Google’s media showcase in New York City, Googlebooks are officially landing on doorsteps and retail shelves. Our review units were quite …"
     }
   ],
   "education": [
+    {
+      "title": "What helps children feel safe at school?",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/what-helps-children-feel-safe-at-school-250858",
+      "image": "https://images.theconversation.com/files/758259/original/file-20260907-50-vqslzy.jpg?ixlib=rb-4.1.1&rect=0%2C721%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published": "10/6/2026, 8:04:35 AM",
+      "desc": "schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable."
+    },
+    {
+      "title": "Has your child settled into school? The essential prep had nothing to do with reading or writing",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/education/2026/10/06/is-your-child-ready-for-school-the-essential-prep-has-nothing-to-do-with-reading-or-writing/",
+      "image": "https://www.irishtimes.com/resizer/v2/B4NLQLV5JVBODBC2KZIZIUPLDE.jpg?smart=true&auth=161a1e0ebc75a36de18f4a3ea22c09eeaa1ffc47b201cf8749ac4e10ad18aeb5&width=1200&height=630",
+      "published": "10/6/2026, 5:01:00 AM",
+      "desc": "In junior infants, the key skills to practise with a child at home include toileting, getting dressed and having a generally positive outlook"
+    },
     {
       "title": "I was a white girl at a majority-black school. Here’s what the education debate gets wrong",
       "source": "Freerepublic.com",
@@ -318,22 +342,6 @@
       "image": "https://bmmagazine.co.uk/wp-content/uploads/2026/09/shutterstock_2756627275.jpg",
       "published": "9/21/2026, 4:17:35 PM",
       "desc": "Every August, the same ritual unfolds across Britain and much of the international education world. Headlines celebrate record-breaking grades, schools proudly announce Oxbridge offers, and social media fills with photographs of smiling students holding envel…"
-    },
-    {
-      "title": "Anxious schoolchildren are being represented in the classroom by £3,500 robots that allow them to join in the lesson from home",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16145021/Anxious-schoolchildren-represented-classroom-3-500-robots-allow-join-lesson-home.html",
-      "image": "https://i.dailymail.com/1s/2026/09/19/20/111351939-0-image-a-11_1789847507713.jpg",
-      "published": "9/19/2026, 8:46:27 PM",
-      "desc": "The AV1 robot, pictured below, has a camera, microphone and speaker enabling a child at home to see, hear and speak to classmates via an app."
-    },
-    {
-      "title": "Children from armed forces families have extra educational challenges – especially those with Send",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/children-from-armed-forces-families-have-extra-educational-challenges-especially-those-with-send-291075",
-      "image": "https://images.theconversation.com/files/758218/original/file-20260907-50-bnifzd.jpg?ixlib=rb-4.1.1&rect=0%2C597%2C3849%2C1924&q=45&auto=format&w=1356&h=668&fit=crop",
-      "published": "9/17/2026, 11:47:56 AM",
-      "desc": "Having to move home and school can mean disrupting trusted adult relationships and the loss of access to established support."
     }
   ],
   "music": [
@@ -348,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
-    },
-    {
-      "rank": 3,
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/0f/a6/4c0fa6ea-c3d4-cfe3-8ceb-11dfffb2f53b/mzaf_131464960054833274.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20Babydoll"
+    },
+    {
+      "rank": 3,
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
     },
     {
       "rank": 4,
@@ -375,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 6,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -392,22 +391,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 7,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Into The Deep (Seas Cry) [feat. Hans Zimmer]",
       "artist": "JADE & Hans Zimmer",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/ec/a1/39eca1b6-0a44-2aee-704b-86e7438dfc69/196874850039.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/a3/d9/aaa3d910-63cd-87ae-a81f-7bec28aaf5d2/mzaf_10768276738414558912.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/into-the-deep-seas-cry-feat-hans-zimmer/6818264733?i=6818264738&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=JADE%20%26%20Hans%20Zimmer%20Into%20The%20Deep%20(Seas%20Cry)%20%5Bfeat.%20Hans%20Zimmer%5D"
+    },
+    {
+      "rank": 8,
+      "title": "Dai Dai",
+      "artist": "Shakira & Burna Boy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
       "rank": 9,
@@ -447,12 +455,12 @@
     },
     {
       "rank": 13,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "title": "Bad Times (Extended Version)",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
     },
     {
       "rank": 14,
@@ -465,12 +473,12 @@
     },
     {
       "rank": 15,
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/35/6c/34356cb4-bd0b-3bac-b118-1a6d7264dc64/26UMGIM69942.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/76/42/737642e6-c478-bed7-f11f-efee96072450/mzaf_5163950318414409594.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/i-knew-it-i-knew-you-from-toy-story-5/6775527442?i=6775527443&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20I%20Knew%20It%2C%20I%20Knew%20You%20(From%20%22Toy%20Story%205%22)"
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     }
   ],
   "movies": [
@@ -494,6 +502,15 @@
     },
     {
       "rank": 3,
+      "title": "Heart of the Beast",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "url": "https://www.themoviedb.org/movie/1263337"
+    },
+    {
+      "rank": 4,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
@@ -502,22 +519,13 @@
       "url": "https://www.themoviedb.org/movie/1204680"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Street Fighter",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
       "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "rank": 5,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
     }
   ],
   "tv": [
@@ -532,21 +540,12 @@
     },
     {
       "rank": 2,
-      "title": "Futurama",
-      "year": "1999",
+      "title": "The Simpsons",
+      "year": "1989",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "url": "https://www.themoviedb.org/tv/615"
-    },
-    {
-      "rank": 3,
-      "title": "Ranma1/2",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "url": "https://www.themoviedb.org/tv/259140"
+      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "url": "https://www.themoviedb.org/tv/456"
     }
   ]
 }
