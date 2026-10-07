@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-06T12:07:45.575Z",
-  "day": 278,
+  "generated": "2026-10-07T11:53:23.441Z",
+  "day": 279,
   "movie": {
-    "title": "A Goofy Movie",
+    "title": "Mary Poppins Returns",
     "safe": true,
     "cert": "U",
     "source": "tmdb-uk",
-    "year": "1995",
-    "plot": "Goofy’s teenage son Max is desperate to impress his crush and fit in at school. After well-meaning but ignorant Goofy suddenly whisks him away on a cross-country road trip—messing up Max’s first date plans in the process—Goofy’s old-school parenting and Max’s desire for independence lead to a vacation of hilarious mishaps, as they both learn to see eye to eye and listen to each other.",
-    "poster": "https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg",
+    "year": "2018",
+    "plot": "Mary Poppins returns to the Banks family and helps them evade grave dangers by taking them on magical, musical adventures.",
+    "poster": "https://image.tmdb.org/t/p/w500/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "The Wallflowers-One Headlight",
+    "key": "Enrique Iglesias-Bailamos",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/b6/3a/83b63a4d-2e5b-5471-c5ca-9ac9120c1811/00602547759221.rgb.jpg/600x600bb.jpg",
-    "year": "1996",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/1c/1c/bd1c1c01-39d3-2a67-e25b-fc3033929e2c/00606949056629.rgb.jpg/600x600bb.jpg",
+    "year": "1999",
     "v": 4
   },
   "album": {
-    "key": "John Coltrane-A Love Supreme",
+    "key": "Kings of Leon-Only by the Night",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/24/aa/e524aacd-467b-66f3-8931-0fcd6750a4b9/08UMGIM07914.rgb.jpg/600x600bb.jpg",
-    "year": "1965",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/61/69/8a6169e6-7746-69d0-c9da-4e946f858b1b/886973519929.jpg/600x600bb.jpg",
+    "year": "2008",
     "v": 4
   }
 }
