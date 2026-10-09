@@ -1,13 +1,61 @@
 {
-  "updated": "2026-10-08T23:01:46.649Z",
+  "updated": "2026-10-09T02:51:39.361Z",
   "news": [
     {
-      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+      "title": "Notorious Glasgow gangland enforcer Paul Ferris dies aged 62",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d1f/live/8d5f3d90-c299-11f1-ad79-577918054e3b.jpg",
-      "published": "10/7/2026, 10:52:20 PM",
-      "desc": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports."
+      "url": "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f5d/live/6c41a750-c245-11f1-b2a8-994b2a5598cb.jpg",
+      "published": "10/8/2026, 2:37:23 AM",
+      "desc": "The criminal-turned-author is believed to have died on Tuesday night after a short illness."
+    },
+    {
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg",
+      "published": "10/8/2026, 2:22:22 AM",
+      "desc": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
+    },
+    {
+      "title": "Newspaper headlines: 'Kemi's family home pledge' and 'Badenoch invokes core Tory values'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3el33kvn3wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/f8dacf20-c2b3-11f1-bc2e-018d645d8d21.png",
+      "published": "10/8/2026, 1:37:20 AM",
+      "desc": "Conservative party leader Kemi Badenoch's speech at the Tory conference dominates Thursday's papers."
+    },
+    {
+      "title": "Burnham and Merz to hold security talks in Berlin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20df/live/ce1f37a0-c284-11f1-98ea-35e6bf307fc9.png",
+      "published": "10/8/2026, 12:22:26 AM",
+      "desc": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+    },
+    {
+      "title": "Bank of England reveals the four animals to feature on banknotes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab31/live/c6dee830-c277-11f1-babe-4199b0e7ccea.jpg",
+      "published": "10/8/2026, 12:07:24 AM",
+      "desc": "The decision comes after nearly half a million people cast their votes from a shortlist of 18 creatures."
+    },
+    {
+      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d29e/live/f8595c00-c264-11f1-b3ac-93b64873b487.jpg",
+      "published": "10/8/2026, 12:07:23 AM",
+      "desc": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says."
+    },
+    {
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1364/live/c9d48c10-c278-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/8/2026, 12:07:22 AM",
+      "desc": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead."
     },
     {
       "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
@@ -16,72 +64,104 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd4/live/a3575730-c26d-11f1-bc2e-018d645d8d21.jpg",
       "published": "10/7/2026, 10:22:19 PM",
       "desc": "Lawyers say the convicted killer was surprised to have survived and remained \"shackled\" to her hospital bed."
-    },
-    {
-      "title": "Fraudster jailed over multi-million pound PPE scam",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy7495yey4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af29/live/836c8f70-c278-11f1-b278-615cdfb74f16.jpg",
-      "published": "10/7/2026, 8:37:21 PM",
-      "desc": "Craig Morris was sentenced to three years and nine months in prison at Northampton Crown Court."
-    },
-    {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg",
-      "published": "10/7/2026, 7:22:22 PM",
-      "desc": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
-    },
-    {
-      "title": "Kemi Badenoch says Tories would scrap inheritance tax on family homes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfc8/live/ac877ba0-c26d-11f1-b278-615cdfb74f16.png",
-      "published": "10/7/2026, 4:52:20 PM",
-      "desc": "Kemi Badenoch also used her conference speech to brand Reform a “circus”, as she ruled out an election deal with the party."
-    },
-    {
-      "title": "Ted Lasso's Hannah Waddingham to star in Gavin and Stacey's duo's The Choir",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28c5/live/aa3f8c70-c236-11f1-bc2e-018d645d8d21.jpg",
-      "published": "10/7/2026, 4:22:30 PM",
-      "desc": "Ruth Jones and James Corden's new show also stars X-Men's James McAvoy and Harry Potter's Jim Broadbent."
-    },
-    {
-      "title": "Family of Norfolk GP Hannah Terry 'devastated' by her death",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmewexlqyj2zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcce/live/39c3c4e0-c266-11f1-af0e-13727db77ef7.png",
-      "published": "10/7/2026, 4:07:20 PM",
-      "desc": "Hannah Cain's family say they have been \"devastated\" by her death on Sunday."
-    },
-    {
-      "title": "Notorious Glasgow gangland enforcer Paul Ferris dies aged 62",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f5d/live/6c41a750-c245-11f1-b2a8-994b2a5598cb.jpg",
-      "published": "10/7/2026, 3:52:20 PM",
-      "desc": "The criminal-turned-author is believed to have died on Tuesday night after a short illness."
     }
   ],
   "sports": [
     {
-      "title": "5 Candidates Oregon Basketball Could Turn To After Dana Altman's Retirement",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-basketball/5-candidates-oregon-basketball-could-turn-after-dana-altmans-retirement",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2254694293-scaled.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 10:07:18 PM",
-      "desc": "Here are five candidates that Oregon basketball could turn to after Dana Altman announced his retirment."
+      "title": "Dodgers dispatch Braves, advance to third straight NLCS - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50129200/nonchalant-dodgers-dispatch-braves-advance-5th-straight-nlcs",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1008%2Fr1727661_1024x576_16%2D9.jpg",
+      "published": "10/8/2026, 1:28:18 AM",
+      "desc": "The Dodgers beat the Braves 4-1 to clinch the best-of-five matchup in Game 4 and advance to their third straight NLCS."
     },
     {
-      "title": "The Moment That Lionel Messi's Homecoming Felt More Than Just A Farewell",
+      "title": "Tom Brady's NFL Power Rankings: NFC West Domination Has Arrived Ahead Of 49ers-Seahawks",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-argentina-retires-last-game-world-cup",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/messi16x9.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 9:52:22 PM",
-      "desc": "It wasn't a just a tribute nor a simple farewell. It was a homecoming for a hero."
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-nfc-west-domination-has-arrived-ahead-49ers-seahawks",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/26brady-power-rankings-week-4-a.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 1:22:25 AM",
+      "desc": "Tom Brady has three NFC West teams in the top nine of his power rankings. Which undefeated team is No. 1?"
+    },
+    {
+      "title": "Big Step Toward World Series Three-Peat: Dodgers Oust Braves To Reach NLCS",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-playoffs-dodgers-braves-nlcs-game-4",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/pages1-scaled.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 1:22:21 AM",
+      "desc": "The Los Angeles Dodgers are back in the NL Championship Series for the third straight season."
+    },
+    {
+      "title": "NFL Coaching Hot Seat Rankings: Todd Bowles Could Soon Be Out; Nick Sirianni Next?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-coaching-hot-seat-rankings-todd-bowles-could-soon-out-nick-sirianni-next",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-22.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 1:22:18 AM",
+      "desc": "Which coaches have the strongest chances of getting fired during the season? We rank the seven head coaches who have the hottest seats in the NFL."
+    },
+    {
+      "title": "Georgia RB Chauncey Bowens out vs. Alabama as Nate Frazier returns - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50128870/georgia-bulldogs-chauncey-bowens-vs-alabama-crimson-tide",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1008%2Fr1727645_1296x729_16%2D9.jpg",
+      "published": "10/8/2026, 12:41:38 AM",
+      "desc": "Georgia running back Chauncey Bowens, who leads the No. 2 Bulldogs with six rushing touchdowns in five games, will miss Saturday's game at No. 6 Alabama. Meanwhile, leading rusher Nate Frazier is poised to return after missing most of the past two games."
+    },
+    {
+      "title": "Guardians Spoil White Sox Party, Stay Alive With ALDS Game 3 Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/jo-adell-and-jose-ramirez-star-as-the-guardians-beat-the-white-sox-93-to-avoid-elimination",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/guards-1-scaled.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 12:37:23 AM",
+      "desc": "Jo Adell and José Ramírez powered Cleveland with a pair of two-out triples, and the Guardians avoided an AL Division Series sweep by cooling off the Chicago White Sox with a 9-3 victory in Game 3"
+    },
+    {
+      "title": "NFL Week 5 Betting Report: 'The Falcons Are Catching Bettors’ Attention'",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-5-betting-report-the-falcons-catching-bettors-attention",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/hero-6.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 12:22:21 AM",
+      "desc": "From bettors noticing the Falcons to the public loving the Bills, Patrick Everson breaks down the midweek line movement ahead of NFL Week 5."
+    },
+    {
+      "title": "From Padre To 'Padre': New Dad Mason Miller Returns For San Diego's Game 4",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mason-miller-returns-to-padres-bullpen-for-game-4-of-nl-division-series-after-paternity-absence",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/miller-scaled.jpg?ve=1&tl=1",
+      "published": "10/8/2026, 12:22:17 AM",
+      "desc": "Mason Miller has returned to the San Diego Padres’ bullpen for Game 4 of the NLDS after missing one playoff game on the paternity list."
+    },
+    {
+      "title": "2026 MLB Playoff Schedule: Dates, Rounds, World Series",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-playoff-schedule-dates-rounds-how-watch",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/2026-mlb-playoff-schedule-horizontal-1920x1080-1.png?ve=1&tl=1",
+      "published": "10/7/2026, 11:52:24 PM",
+      "desc": "See the complete 2026 MLB playoff schedule by round, including Wild Card, Division Series, LCS and World Series dates and TV channels."
+    },
+    {
+      "title": "Will Hill's Parlay Of The Week: Back Seahawks, Steelers To Win In Week 5",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-seahawks-steelers-win-week-5",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/parlay.png?ve=1&tl=1",
+      "published": "10/7/2026, 11:52:22 PM",
+      "desc": "Will Hill is back with his parlay of the week. Check out his picks across the NFL and college football, and why you might want to throw down some cash of your own."
+    },
+    {
+      "title": "Guardians break out bats with season on line in Game 3 victory - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50128546/guardians-break-bats-season-line-game-3-victory",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727500_1296x729_16%2D9.jpg",
+      "published": "10/7/2026, 11:41:50 PM",
+      "desc": "After managing just three runs in the first two games, the Guardians stayed alive in their ALDS series with 11 hits in a 9-3 win over the White Sox in Game 3 on Wednesday."
+    },
+    {
+      "title": "Trend or Panic? Is College Football’s Play-Caller Carousel Spinning Out Of Control?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/trend-panic-college-footballs-play-caller-carousel-spinning-out-control",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/football.jpg?ve=1&tl=1",
+      "published": "10/7/2026, 11:37:20 PM",
+      "desc": "Here is a breakdown of the latest mid-season coaching changes and play-caller switches through Week 5 of the college football season."
     },
     {
       "title": "NLDS Live Updates, Score: Dodgers Can Closeout Braves With Game 4 Win",
@@ -100,14 +180,6 @@
       "desc": "Giants star wide receiver Malik Nabers did not practice Wednesday because of a knee injury, saying only he was more \"sore\" than usual."
     },
     {
-      "title": "From Rushing Leader To Free Agency: Jamaal Williams Works Out For Patriots",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/jamaal-williams-new-england-patriots-tryout-free-agency",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jamaal-williams-.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 9:22:20 PM",
-      "desc": "Jamaal Williams hasn't taken an NFL handoff since January 2025. The New England Patriots just gave him a reason to keep training."
-    },
-    {
       "title": "Football gossip: Morton, Truffert, Odegaard, Alvarez",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/cr2ke0k8g7xeo",
@@ -124,14 +196,6 @@
       "desc": "The NFL and NFLPA said recent player celebrations imitating drinking a beverage will no longer be violations or result in discipline. The sides also clarified what celebrations remain prohibited."
     },
     {
-      "title": "Steelers QB Rodgers downplays heated exchange with McCarthy - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50127513/steelers-qb-rodgers-downplays-heated-exchange-mccarthy",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727518_1024x576_16%2D9.jpg",
-      "published": "10/7/2026, 8:41:16 PM",
-      "desc": "The Steelers downplayed the several confrontations between players and coaches during Thursday night's loss, with Aaron Rodgers calling the display of emotion and passion a \"positive.\""
-    },
-    {
       "title": "Pep Guardiola: Former Man City manager to attend PSG Champions League tie",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o",
@@ -146,136 +210,64 @@
       "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727132_1296x729_16%2D9.jpg",
       "published": "10/7/2026, 7:54:46 PM",
       "desc": "Texans coach DeMeco Ryans said Wednesday that he will be taking over the defensive playcalling duties amid his team's 0-4 start."
-    },
-    {
-      "title": "NASCAR Chase Contenders Learning What The Math Already Indicated: Wins Matter",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-chase-contenders-learning-math-matters-to-win-the-chase",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/second-thoughts-16x9-7.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 7:52:29 PM",
-      "desc": "The math has spoken. Winning matters in The Chase."
-    },
-    {
-      "title": "Kasey Kahne Returning To NASCAR With Full-Time Truck Ride In 2027",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/kasey-kahne-returning-nascar-full-time-truck-ride-2027",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/kasey-kahne_horizontal_nascar_return_bob-pockrass.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 7:52:22 PM",
-      "desc": "Kasey Kahne is returning to NASCAR in a full-time ride in 2027 and he's ready for the competition and for the fun."
-    },
-    {
-      "title": "USA's Next Generation Lived Up To The Hype; Now The Real Work Begins",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usas-next-generation-lived-up-hype-now-real-work-begins",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/0eb40a38-usmnt1.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 7:52:19 PM",
-      "desc": "Mauricio Pochettino had a plan for the U.S. men's national team entering this international window, and it could hardly have gone much better."
-    },
-    {
-      "title": "Mike Breen apologizes after LeBron James refutes Embiid story - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50127138/mike-breen-apologizes-lebron-james-refutes-embiid-story",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727490_1024x576_16%2D9.jpg",
-      "published": "10/7/2026, 7:41:25 PM",
-      "desc": "Broadcaster Mike Breen apologized Wednesday for the reaction to a story he shared about LeBron James calling out Joel Embiid for showing up late, a story James has since disputed."
-    },
-    {
-      "title": "Oregon Men's Basketball Coach Dana Altman Announces Retirement After 16 Seasons",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-basketball/oregon-mens-basketball-coach-dana-altman-announces-his-retirement",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/oregon.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 7:22:25 PM",
-      "desc": "Oregon Ducks men’s basketball coach Dana Altman is retiring effective immediately, the school announced on Wednesday."
-    },
-    {
-      "title": "The Long Road Back: NFL Ties League History With 5 Winless Teams Through Week 4",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/long-road-back-nfl-ties-league-history-5-winless-teams-through-week-4",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/stroud.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 7:22:21 PM",
-      "desc": "There’s a race to the bottom of the NFL standings four games into the season, including two surprisingly winless teams."
-    },
-    {
-      "title": "Declan Rice: Arsenal and England midfielder close to agreeing new deal",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f9d/live/b1c9adf0-c276-11f1-b278-615cdfb74f16.jpg",
-      "published": "10/7/2026, 6:52:23 PM",
-      "desc": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport."
-    },
-    {
-      "title": "Ravens Make Blockbuster Trade For Eagles Star Offensive Lineman",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-cam-jurgens-trade-details-eagles-offensive-linemen",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/eagles.jpg?ve=1&tl=1",
-      "published": "10/7/2026, 6:37:18 PM",
-      "desc": "The Baltimore Ravens are trading for Philadelphia Eagles center and two-time Pro Bowler Cam Jurgens."
     }
   ],
   "tech": [
     {
-      "title": "Pre-order Minecraft for Nintendo Switch™ 2 today! - Minecraft",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/pre-order-minecraft-for-nintendo-switch-2",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/article-pictures/MinecraftVanilla_Switch2_NetBlog_1170x500.jpg",
-      "published": "10/7/2026, 7:07:33 PM",
-      "desc": "Minecraft for Nintendo Switch™ 2 launches October 27, and pre-orders are available now for the Standard Edition, Deluxe Collection, Ultimate Collection, and physical retail version. All editions include the Super Mario™ Mash-Up Pack with Vibrant Visuals, whil…"
+      "title": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll",
+      "image": "https://images.pushsquare.com/075bd3207da3c/1280x720.jpg",
+      "published": "10/7/2026, 11:00:00 PM",
+      "desc": "\"Anime and gaming have overlapping communities\""
     },
     {
-      "title": "PlayStation Store Sale “Player’s Choice” Live on October 7 - MP1st",
-      "source": "http://mp1st.com/category/news",
-      "url": "https://mp1st.com/news/playstation-store-sale-players-choice-live-on-october-7",
-      "image": "https://mp1st.com/wp-content/uploads/2026/10/dtsalesnew-600x338.png",
-      "published": "10/7/2026, 6:40:25 PM",
-      "desc": "Sony has kicked off the PSN Store \"Player's Choice\" sale, and it includes a host of AAA games. Check out the complete list."
+      "title": "Dragon's Dogma 2: Dark Arisen Review - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/review/21529-dragons-dogma-2-dark-arisen-review",
+      "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/21529/original/dd2dareviewminipic.png",
+      "published": "10/7/2026, 10:00:32 PM",
+      "desc": "Dragon's Dogma 2: Dark Arisen is an enjoyable expansion, but does it actually expand on what the original release did well?"
     },
     {
-      "title": "Call Of Duty Commentator Leaves The League After Revealing He’s Dating His Co-Commentator’s Ex-Wife - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/call-of-duty-merk-maven-league-ex-wife-divorce-dating-2000741968",
-      "image": "https://kotaku.com/app/uploads/2026/10/callofdutyleague.jpg",
-      "published": "10/7/2026, 6:30:52 PM",
-      "desc": "Maven and MerK had commentated together for years"
-    },
-    {
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999 - The Verge",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0%2C30.391676058944%2C100%2C65.44502617801&w=1200",
-      "published": "10/7/2026, 5:46:44 PM",
-      "desc": "Microsoft launched preorders for the $5,999 Surface RTX Spark Dev Box mini PC, which starts shipping on November 24th."
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "10/7/2026, 9:19:54 PM",
+      "desc": "The end could be nigh for Teenage Engineering’s iconic OP-1 according to a Highsnobiety interview."
     },
     {
-      "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/07/pixel-11-no-android-17-qpr1/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-color-family-1.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/7/2026, 5:35:00 PM",
-      "desc": "With yesterday's October 2026 update, the Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold are not yet running Android 17 QPR1."
-    },
-    {
-      "title": "Star Wars Zero Company Studio Tries To Bring Back As Many Furloughed Devs 'As Possible' Following 'Unexpected Business Developments Outside Of Our Control' - Kotaku",
+      "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/star-wars-zero-company-studio-tries-to-bring-back-as-many-furloughed-devs-as-possible-following-unexpected-business-developments-outside-of-our-control-2000741943",
-      "image": "https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg",
-      "published": "10/7/2026, 5:30:03 PM",
-      "desc": "Bit Reactor says it will have more to share on the XCOM-like strategy game's future 'soon'"
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-jason-naked-nude-shower-scene-2000742015",
+      "image": "https://kotaku.com/app/uploads/2026/10/jason-gta6.jpg",
+      "published": "10/7/2026, 9:10:48 PM",
+      "desc": "I know I’ll see him naked, but just how naked?"
     },
     {
-      "title": "The best Amazon Prime Day deals of day 2: savings on headphones, OLED TVs, Dolby Atmos soundbars and more, direct from our experts - What Hi-Fi?",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/live/news/big-deal-days-2026-hi-fi-home-cinema-deals",
-      "image": "https://cdn.mos.cms.futurecdn.net/gg6qX453NT7mvFBeyydUBW-1486-80.jpeg",
-      "published": "10/7/2026, 5:24:44 PM",
-      "desc": "Our reviewers are adding the top audio and home cinema savings they’ve spotted live!"
+      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "published": "10/7/2026, 8:44:34 PM",
+      "desc": "An oldie but a goodie — and kind of a necessity-die."
     },
     {
-      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
-      "image": "https://images.macrumors.com/t/bpf068NEVnDrf7S6J0MTaKoeZJE=/2500x/article-new/2025/10/Prime-Big-Deal-Days-25-Red-and-Green.jpg",
-      "published": "10/7/2026, 5:10:25 PM",
-      "desc": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are..."
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "published": "10/7/2026, 8:22:37 PM",
+      "desc": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+    },
+    {
+      "title": "Amazon Anker fall Prime Day sale now live at up to 50% off! Deals on chargers, power banks, Qi2.2 gear, more from just $10 - 9to5Toys",
+      "source": "9to5Toys",
+      "url": "http://9to5toys.com/2026/10/07/amazon-anker-fall-prime-day-sale-now-live-at-up-to-50-off/",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Anker-fall-Prime-Day-2026.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/7/2026, 7:55:00 PM",
+      "desc": "As part of Amazon’s ongoing fall Prime Day sale, Anker’s official storefront is now offering a huge selection of deals..."
     }
   ],
   "education": [
@@ -365,21 +357,21 @@
     },
     {
       "rank": 3,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 4,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+    },
+    {
+      "rank": 4,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 5,
@@ -392,15 +384,6 @@
     },
     {
       "rank": 6,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
-    },
-    {
-      "rank": 7,
       "title": "Mama, Don't Close Your Eyes",
       "artist": "Bjorn Bonebreaker",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
@@ -409,22 +392,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
     },
     {
-      "rank": 8,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+      "rank": 7,
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+    },
+    {
+      "rank": 9,
+      "title": "Circles",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
     },
     {
       "rank": 10,
@@ -437,33 +429,6 @@
     },
     {
       "rank": 11,
-      "title": "In My Soul",
-      "artist": "Bob Dominator",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/5a/9d/c25a9da9-18be-d367-6570-56307fcbc1f7/612891165418.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/82/81/6482812c-64bc-278c-06c2-f281db0f82c8/mzaf_10280266996872990832.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/in-my-soul/6796089312?i=6796089314&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bob%20Dominator%20In%20My%20Soul"
-    },
-    {
-      "rank": 12,
-      "title": "Bad Times (Extended Version)",
-      "artist": "Imael Angel",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
-    },
-    {
-      "rank": 13,
-      "title": "Into The Deep (Seas Cry) [feat. Hans Zimmer]",
-      "artist": "JADE & Hans Zimmer",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/ec/a1/39eca1b6-0a44-2aee-704b-86e7438dfc69/196874850039.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/a3/d9/aaa3d910-63cd-87ae-a81f-7bec28aaf5d2/mzaf_10768276738414558912.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/into-the-deep-seas-cry-feat-hans-zimmer/6818264733?i=6818264738&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JADE%20%26%20Hans%20Zimmer%20Into%20The%20Deep%20(Seas%20Cry)%20%5Bfeat.%20Hans%20Zimmer%5D"
-    },
-    {
-      "rank": 14,
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
@@ -472,13 +437,40 @@
       "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "title": "In My Soul",
+      "artist": "Bob Dominator",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/5a/9d/c25a9da9-18be-d367-6570-56307fcbc1f7/612891165418.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/82/81/6482812c-64bc-278c-06c2-f281db0f82c8/mzaf_10280266996872990832.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/in-my-soul/6796089312?i=6796089314&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bob%20Dominator%20In%20My%20Soul"
+    },
+    {
+      "rank": 13,
       "title": "Jamaican (Bam Bam)",
       "artist": "HUGEL & SOLTO (FR)",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/jamaican-bam-bam/1883679875?i=1883679876&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20(FR)%20Jamaican%20(Bam%20Bam)"
+    },
+    {
+      "rank": 14,
+      "title": "Bad Times (Extended Version)",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
+    },
+    {
+      "rank": 15,
+      "title": "Ghosts",
+      "artist": "Passenger",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/d0/04/1bd00499-92ae-244c-6e73-02d669db062e/067003029230.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/f9/67/6df96739-85a3-e63c-e3fc-cf51ee39c345/mzaf_6827334318229304827.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ghosts/6789444108?i=6789444599&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Passenger%20Ghosts"
     }
   ],
   "movies": [
@@ -511,41 +503,32 @@
     },
     {
       "rank": 4,
-      "title": "Toy Story 5",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "url": "https://www.themoviedb.org/movie/1084244"
-    },
-    {
-      "rank": 5,
       "title": "Coyote vs. Acme",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "url": "https://www.themoviedb.org/movie/1204680"
+    },
+    {
+      "rank": 5,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Marshals",
+      "title": "Scrubs",
       "year": "2026",
       "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "url": "https://www.themoviedb.org/tv/290856"
-    },
-    {
-      "rank": 2,
-      "title": "Ranma1/2",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "url": "https://www.themoviedb.org/tv/259140"
+      "poster": "https://image.tmdb.org/t/p/w342/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "url": "https://www.themoviedb.org/tv/295778"
     }
   ]
 }
