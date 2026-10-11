@@ -1,21 +1,29 @@
 {
-  "updated": "2026-10-11T11:17:18.198Z",
+  "updated": "2026-10-11T17:27:18.402Z",
   "news": [
     {
-      "title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Man dies after tiger attack at Yorkshire Wildlife Park",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea7c/live/d6fb5d30-c488-11f1-a915-a1cdb09cbaf6.jpg",
-      "published": "10/10/2026, 11:07:17 AM",
-      "desc": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "published": "10/10/2026, 5:22:19 PM",
+      "desc": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend."
     },
     {
-      "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
+      "title": "King Charles warns malicious online actors are evolving their tactics",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/010f/live/acd54390-c488-11f1-a915-a1cdb09cbaf6.jpg",
-      "published": "10/10/2026, 10:52:23 AM",
-      "desc": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg",
+      "published": "10/10/2026, 4:37:28 PM",
+      "desc": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre."
+    },
+    {
+      "title": "'Serious' tiger enclosure incident shuts Yorkshire Wildlife Park",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7075/live/1ed86570-c4bc-11f1-9ce9-55293bd7f0d9.png",
+      "published": "10/10/2026, 3:37:25 PM",
+      "desc": "The attraction near Doncaster says emergency response procedures were \"immediately activated\"."
     },
     {
       "title": "Palantir AI probe leads to Met Police volunteer chief's dismissal",
@@ -50,14 +58,6 @@
       "desc": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?"
     },
     {
-      "title": "Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
-      "published": "10/9/2026, 11:37:22 PM",
-      "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
-    },
-    {
       "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
@@ -68,214 +68,206 @@
   ],
   "sports": [
     {
-      "title": "EFL Championship LIVE: Team news, score updates, text commentary & match stats",
+      "title": "Pascal Gross: Has the Brighton midfielder been underrated all this time?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c60qxq7dxxzzt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd9e/live/ccebc7b0-c237-11f1-be2f-0fbd447d6e43.jpg",
-      "published": "10/10/2026, 11:22:19 AM",
-      "desc": "Follow live text commentary and score updates from Saturday's action in the EFL Championship, with 10 games taking place."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg",
+      "published": "10/10/2026, 5:22:19 PM",
+      "desc": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club."
     },
     {
-      "title": "Singapore Grand Prix: Max Verstappen wins sprint from Lewis Hamilton after George Russell crashes out",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cfb3/live/62065770-c495-11f1-a915-a1cdb09cbaf6.jpg",
-      "published": "10/10/2026, 10:37:26 AM",
-      "desc": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead."
-    },
-    {
-      "title": "Premier League LIVE: Build-up, Team news, live text, radio & score updates as it happens from across the Premier League",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c3ekzq1g4xlt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1c5/live/e12c6b50-c492-11f1-a64c-550be9e3c66b.jpg",
-      "published": "10/10/2026, 10:37:25 AM",
-      "desc": "Follow BBC Radio 5 Live, Final Score and live text updates as Arsenal play Leeds plus five other matches in the Premier League."
-    },
-    {
-      "title": "Cole Palmer signs new Chelsea contract until 2034",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a9a8/live/a94e41f0-c3d3-11f1-95ba-dba767ffba7e.jpg",
-      "published": "10/10/2026, 10:07:21 AM",
-      "desc": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League."
-    },
-    {
-      "title": "New Zealand v Australia: All Blacks power past Wallabies 50-19 to retain Bledisloe Cup",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae49/live/2dfadb80-c487-11f1-a915-a1cdb09cbaf6.jpg",
-      "published": "10/10/2026, 9:37:22 AM",
-      "desc": "New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park."
-    },
-    {
-      "title": "Raphinha: In-form Barcelona forward has new injury concerns",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f47/live/40724a90-c3f2-11f1-97a9-2d4b5e26e282.jpg",
-      "published": "10/10/2026, 8:37:27 AM",
-      "desc": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury."
-    },
-    {
-      "title": "F1 sprint race LIVE: Singapore Grand Prix 2026 times, results, grid, radio & updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/live/c9wqlxzvnzvt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f7b/live/4e650510-c47f-11f1-9323-b15f40d5009a.jpg",
-      "published": "10/10/2026, 8:37:20 AM",
-      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of the sprint race at the Singapore Grand Prix."
-    },
-    {
-      "title": "South Africa v Australia - Cricket - BBC Sport",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/scorecard/e-236997",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/bbc-sport-logo.ebbfcde41a.webp",
-      "published": "10/10/2026, 7:52:17 AM",
-      "desc": "Find out the in depth batting and bowling figures for South Africa v Australia in the Men's International Test Match Series on BBC Sport."
-    },
-    {
-      "title": "Liberty's star trio say DeMarco's future 'not our decision' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50145479/liberty-star-trio-say-demarco-future-not-our-decision",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728553_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 6:57:52 AM",
-      "desc": "The Liberty's Breanna Stewart, Sabrina Ionescu and Jonquel Jones fell short of offering a definitive vote of confidence in head coach Chris DeMarco, with each saying his future was \"not our decision.\""
-    },
-    {
-      "title": "Sampdoria, Bordeaux, Real Zaragoza: Ranking European football's biggest sleeping giants",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cb5/live/a8fc7030-c259-11f1-bc2e-018d645d8d21.png",
-      "published": "10/10/2026, 5:52:20 AM",
-      "desc": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?"
-    },
-    {
-      "title": "FSU wastes 14-0 lead in 'disappointing' loss to Louisville - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50144731/fsu-lets-14-0-slip-disappointing-loss-louisville",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728519_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 4:28:22 AM",
-      "desc": "After Florida State rushed out to a 14-0 lead, Louisville rallied to take down the struggling Seminoles, 44-20, on Friday, increasing the pressure on embattled Seminoles coach Mike Norvell, who told reporters it was \"an extremely poor performance by us.\""
-    },
-    {
-      "title": "CFB Pick 'Em: Top Week 6 Games, Including Alabama-Georgia, Oregon-UCLA, More",
+      "title": "Hurricane Isaias Forces Sunday NASCAR Doubleheader; Metric Debate Continues",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/cfb-pick-em-top-week-6-games-including-alabama-georgia-oregon-ucla-more",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/cfb-week6-pickem-16x9_1024.jpg?ve=1&tl=1",
-      "published": "10/10/2026, 4:22:18 AM",
-      "desc": "FOX Sports' college football pick 'em breakdown for Week 6's top games."
+      "url": "https://www.foxsports.com/stories/nascar/hurricane-isaias-forces-sunday-nascar-doubleheader-metric-debate-continues",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/charlotte_delays_nascar_hurricane.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 5:07:23 PM",
+      "desc": "The bands from Hurricane Isaias have forced changes in the NASCAR schedule and in the race lineup."
     },
     {
-      "title": "Valkyries sweep defending champion Aces to make WNBA Finals - ESPN",
+      "title": "Rangers' Igor Shesterkin out for year with right knee injury - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50144607/valkyries-dethrone-aces-ot-make-wnba-finals-second-year-franchise",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728520_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 4:11:50 AM",
-      "desc": "The second-year Valkyries became the quickest expansion team to reach the WNBA Finals, sweeping the defending champion Aces 87-77 in overtime Friday night in Game 3."
+      "url": "https://www.espn.com/nhl/story/_/id/50148688/rangers-igor-shesterkin-year-right-knee-injury",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728747_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 4:58:02 PM",
+      "desc": "Rangers goaltender Igor Shesterkin will miss the rest of the season after suffering a right knee injury in Friday night's loss to the Capitals."
     },
     {
-      "title": "Kyle Busch's life celebrated in ceremony at Charlotte Motor Speedway - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/racing/nascar/story/_/id/50144130/nascar-community-celebrates-life-kyle-busch-ceremony-charlotte-motor-speedway",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728501_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 2:34:16 AM",
-      "desc": "The NASCAR community and more than 10,000 race fans celebrated the life of the late Kyle Busch during an uplifting ceremony Friday night at Charlotte Motor Speedway."
+      "title": "Augsburg 2-2 Bayern Munich: Harry Kane has two assists in draw",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmq5n22gyj3dt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d541/live/e795ea50-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
+      "published": "10/10/2026, 4:52:26 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Augsburg vs Bayern Munich in the German Bundesliga"
     },
     {
-      "title": "Dream sweep Liberty to earn first WNBA Finals berth since 2013 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50143905/dream-sweep-liberty-earn-first-wnba-finals-berth-2013",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728444_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 2:01:27 AM",
-      "desc": "The Dream finished off the Liberty with an 85-83 win in Game 3 to advance to the WNBA Finals for the first time since 2013."
-    },
-    {
-      "title": "Dodgers-Brewers NLCS Game 1 Will Be Skubal vs. Misiorowski; Yamamoto For Game 2",
+      "title": "Matt Leinart: Here's Why Indiana QB Josh Hoover Is A Heisman Dark Horse",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/dodgers-turn-to-tarik-skubal-for-nlcs-game-1-opener-vs-brewers-yoshinobu-yamamoto-set-for-game-2",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/mlb.jpg?ve=1&tl=1",
-      "published": "10/10/2026, 1:37:15 AM",
-      "desc": "The starting pitchers are set for Game 1 of the NLCS between the Dodgers and Brewers."
+      "url": "https://www.foxsports.com/stories/college-football/indiana-quarterback-josh-hoover-heisman",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/hoov.png?ve=1&tl=1",
+      "published": "10/10/2026, 4:37:18 PM",
+      "desc": "Matt Leinart made the case for why Indiana quarterback Josh Hoover is an under-the-radar Heisman candidate."
     },
     {
-      "title": "Rangers goaltender Igor Shesterkin helped off ice after fall - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/50143665/rangers-goaltender-igor-shesterkin-helped-ice-fall",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728480_1296x729_16%2D9.jpg",
-      "published": "10/10/2026, 1:02:15 AM",
-      "desc": "New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy, had to be helped off the ice after an awkward fall into his own net against the Washington Capitals on Friday night at Capital One Arena."
+      "title": "Aston Villa 2-2 Brentford: Nicolas Jackson, Yehor Yarmoliuk, John McGinn and Krisoffer Ajer score",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cqx28nnpddd4t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f160/live/03f8d7f0-c4c4-11f1-9ce9-55293bd7f0d9.jpg",
+      "published": "10/10/2026, 4:22:33 PM",
+      "desc": "Brentford maintain their stunning unbeaten run as they come from behind to earn a point and end Aston Villa's hopes of a first Premier League home win this season."
     },
     {
-      "title": "Alexi Lalas' Post-World Cup Power Rankings: France Or Spain At The Top?",
+      "title": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmdx3yyeggw0t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbf5/live/876dafb0-c4c5-11f1-9ce9-55293bd7f0d9.jpg",
+      "published": "10/10/2026, 4:22:28 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Chelsea vs Bournemouth in the Premier League"
+    },
+    {
+      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/alexi-lalas-post-world-cup-power-rankings",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/fsdnals0490.png?ve=1&tl=1",
-      "published": "10/9/2026, 10:52:21 PM",
-      "desc": "FOX Soccer analyst Alexi Lalas ranks and explains his top ten soccer squads in the world."
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/5ef1966a-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 3:52:38 PM",
+      "desc": "Check out the odds for every Week 5 matchup in the NFL."
+    },
+    {
+      "title": "College Football Week 6 Top Moments, Results: Indiana-Nebraska, Texas-Oklahoma,",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/college-football/college-football-week-6-top-moments-results-indiana-nebraska-texas-oklahoma",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1408/814/charlie2.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 3:52:37 PM",
+      "desc": "Follow along for live updates and highlights from Week 6 of college football."
+    },
+    {
+      "title": "2026 MLB NLCS Odds: Dodgers Slightly Favored Over Brewers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-nlcs-odds-dodgers-brewers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/muncy-108.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 3:52:31 PM",
+      "desc": "It's a rematch of last year's NLCS. Check out the odds and what to know ahead of Brewers-Dodgers."
+    },
+    {
+      "title": "2026 MLB ALDS Odds: Guardians Favored Ahead Of Game 5",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-alds-odds-guardians-white-sox",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jose-101.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 3:52:28 PM",
+      "desc": "Check out the odds and what to know for the Guardians-White Sox ALDS series."
+    },
+    {
+      "title": "2026 AL, NL Pennant Odds: Which Teams Will Meet In Fall Classic?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/2026-al-nl-pennant-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/yelich-107.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 3:52:25 PM",
+      "desc": "The pennant races are as close as can be now that we're inching toward baseball's final four. See the latest odds."
+    },
+    {
+      "title": "Arsenal 2-1 Leeds: A decisive moment of real quality - but Mikel Arteta still has issues to address",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7a7b/live/dfa63d80-c4b3-11f1-892b-f7bfd6496ad0.jpg",
+      "published": "10/10/2026, 3:52:24 PM",
+      "desc": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again."
+    },
+    {
+      "title": "CFP, ESPN to continue rights negotiations to 24-team playoff - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50148195/cfp-espn-continue-rights-negotiations-24-team-playoff",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1130%2Fr944683_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 3:45:55 PM",
+      "desc": "The College Football Playoff said it will \"continue to have ongoing discussions with ESPN\" regarding the media rights for a potential 24-team playoff."
+    },
+    {
+      "title": "Warriors give Brandin Podziemski 5-year, $110M extension - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50148027/warriors-give-brandin-podziemski-5-year-110m-extension",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728688_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 3:28:26 PM",
+      "desc": "Warriors guard Brandin Podziemski has agreed to a five-year, $110 million extension his agent told ESPN's Shams Charania."
+    },
+    {
+      "title": "La Liga match abandoned as Rayo Vallecano fans throw paper planes onto pitch",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cw99zy27x0rro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41cb/live/bdc5f610-c4b8-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/10/2026, 3:22:20 PM",
+      "desc": "Rayo Vallecano's match against Athletic Club was abandoned after the home fans threw paper airplanes onto the pitch in protest against the club's owner."
+    },
+    {
+      "title": "Sources - Cardinals finalizing deal to trade WR Marvin Harrison Jr. - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50148005/sources-cardinals-finalizing-deal-trade-wr-marvin-harrison-jr",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0115%2Fr1439000_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 3:16:44 PM",
+      "desc": "The Cardinals are finalizing a deal to trade Marvin Harrison Jr., sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport."
+    },
+    {
+      "title": "Singapore Grand Prix: Max Verstappen beats Charles Leclerc and Lewis Hamilton to pole",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea8d/live/c2c490b0-c4b6-11f1-9ce9-55293bd7f0d9.jpg",
+      "published": "10/10/2026, 2:52:23 PM",
+      "desc": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix."
     }
   ],
   "tech": [
     {
-      "title": "My brief romance with an AI bird feeder - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200",
-      "published": "10/10/2026, 7:00:00 AM",
-      "desc": "Expensive AI-driven smart bird feeders can open your eyes to your local ecosystem. They can also attract pests."
+      "title": "Saturday Pre-orders – Warhammer Tone Pro is here - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/preorders-oct10-2-share-ctvkpf1ppo.jpg",
+      "published": "10/10/2026, 4:56:31 PM",
+      "desc": "Enjoy infinite painting possibilities with the new range of miniatures paints."
     },
     {
-      "title": "5 Cool MagSafe Gadgets That Are Not Mounts, Wallets, Or Power Banks - BGR",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2277813/cool-magsafe-gadgets-not-mounts-wallets-power-banks/",
-      "image": "https://www.bgr.com/img/gallery/5-cool-magsafe-gadgets-that-are-not-mounts-wallets-or-power-banks/l-intro-1791224509.jpg",
-      "published": "10/10/2026, 4:32:00 AM",
-      "desc": "Magnetic accessories can support iPhone or Android, adding camera grips, lights, game controllers, extra storage, and high-end audio."
+      "title": "‘GTA 6’ Leaker To Release The Entire Game Build If Rockstar Doesn’t Meet Demands - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/10/gta-6-leaker-to-release-the-entire-game-build-if-rockstar-doesnt-meet-demands/",
+      "image": "",
+      "published": "10/10/2026, 3:02:16 PM",
+      "desc": ""
     },
     {
-      "title": "How Long Does RAM Last In Your PC? - BGR",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2277708/how-long-ram-last-pc/",
-      "image": "https://www.bgr.com/img/gallery/how-long-does-ram-last-in-your-pc/l-intro-1791222326.jpg",
-      "published": "10/10/2026, 2:47:00 AM",
-      "desc": "If conditions are ideal and you're mindful, RAM can last for decades, but there are a number of things to consider that could impact its lifespan."
+      "title": "PhotoCraft is an open-source, AI-built clone of Photoshop - OMG! Ubuntu",
+      "source": "Omgubuntu.co.uk",
+      "url": "https://www.omgubuntu.co.uk/2026/10/artcraft-free-photoshop-ai-clone",
+      "image": "https://www.omgubuntu.co.uk/wp-content/uploads/2026/10/not-photoshop.webp",
+      "published": "10/10/2026, 11:29:55 AM",
+      "desc": "It was only a matter of time before someone would point AI coding tools Photoshop and get it to build a copy. PhotoCraft is that copy – an open-source,"
     },
     {
-      "title": "Sonic Racing: CrossWorlds \"Year Two\" Roadmap Revealed - Major Free Updates, New Collabs And Much More - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more",
-      "image": "https://images.nintendolife.com/5a88a48cd3c89/1280x720.jpg",
-      "published": "10/9/2026, 11:55:00 PM",
-      "desc": "Return to the track this November"
+      "title": "One with the world? A new look at brains transformed by psychedelics. - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg",
+      "published": "10/10/2026, 11:15:35 AM",
+      "desc": "Participants meditated inside an MRI tube, with and without psilocybin."
     },
     {
-      "title": "Gears of War: E-Day Sold 168,000 Copies on Steam but Xbox Game Pass Players Generated 130% More Revenue - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/353572/gears-of-war-e-day-sold-168-000-copies-on-steam-but-xbox-game-pass-players-generated-130-more-revenue",
-      "image": "https://www.techpowerup.com/img/l8Ef3gcQRoJV9XEX.jpg",
-      "published": "10/9/2026, 11:54:07 PM",
-      "desc": "We recently reported that Gears of War: E-Day wasn't having the best launch week over on Steam, but according to Alinea Analytics's Rhys Elliott, Steam doesn't even account for half of the game's revenue or owner base. The analytics firm estimates that Gears …"
+      "title": "The latest Samsung Galaxy S27 Ultra rumors and leaks: Everything we know so far - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-galaxy-s27-ultra-all-we-know",
+      "image": "https://helios-i.mashable.com/imagery/articles/06UEoeA8zkxbTSQ4k3AtIVJ/hero-image.fill.size_1200x675.v1791358268.webp",
+      "published": "10/10/2026, 9:02:48 AM",
+      "desc": "The new Samsung flagship is coming early next year."
     },
     {
-      "title": "Garmin Enduro 4 Everything You Need To Know: What’s Actually New? - DC Rainmaker",
-      "source": "DC Rainmaker",
-      "url": "https://www.dcrainmaker.com/2026/10/garmin-enduro-4-vs-fenix9-vs-enduro3-detailed-comparison-review.html",
-      "image": "https://media.dcrainmaker.com/images/2026/10/Enduro4YT.jpg",
-      "published": "10/9/2026, 10:28:21 PM",
-      "desc": "Garmin Enduro 4 vs Fenix 9 vs Enduro 3: What's Actually The Difference? I dive into all the features side-by-side to explain."
+      "title": "NVIDIA Reportedly Axes RTX 5090 Production, Diverting GB202 Chips To PRO Cards As Gamers Get An RTX 5080 24 GB - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/NVIDIA-RTX-5090-RTX-5080-24-GB.jpg",
+      "published": "10/10/2026, 7:50:46 AM",
+      "desc": "NVIDIA is reportedly ending production of the RTX 5090 and will now introduce a new model for enthusiasts, the RTX 5080 24 GB."
     },
     {
-      "title": "Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "image": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg",
-      "published": "10/9/2026, 9:45:14 PM",
-      "desc": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
-    },
-    {
-      "title": "Child Psychiatrist: Screen Time Isn't Main Threat to Kids - Newser",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/397863/child-psychiatrist-screen-time-isnt-main-threat-to-kids.html",
-      "image": "https://cdn.newser.com/image/1716936-12-20261009171003.jpeg",
-      "published": "10/9/2026, 9:40:00 PM",
-      "desc": "Columbia's Jonathan Slater urges investment in children's mental health care, not screen limits"
+      "title": "Zelda: Ocarina of Time remake Switch 2 pre-orders set Amazon record, dominating GTA 6 - Notebookcheck",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Zelda-Ocarina-of-Time-Switch-2-pre-orders-set-Amazon-record-dominating-GTA-6.1420567.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ZeldaOcarinaofTimeFoilCover.jpg",
+      "published": "10/10/2026, 3:20:00 AM",
+      "desc": "The Ocarina of Time remake and GTA 6 should overshadow all November competition. Yet physical Amazon sales of the Zelda title are moving at an unprecedented pace. Nintendo’s Switch 2 exclusive game has sold more than 100,000 copies in the last month alone."
     }
   ],
   "education": [
@@ -365,21 +357,21 @@
     },
     {
       "rank": 3,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 4,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+    },
+    {
+      "rank": 4,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 5,
@@ -392,15 +384,6 @@
     },
     {
       "rank": 6,
-      "title": "Patient Zero (Acoustic Version)",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/17/c2/f417c2be-5557-4835-8a07-3e8f3eb02899/mzaf_14765043756596089844.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero-acoustic-version/6820695082?i=6820695083&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Acoustic%20Version)"
-    },
-    {
-      "rank": 7,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -409,13 +392,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
+      "rank": 7,
+      "title": "Dai Dai",
+      "artist": "Shakira & Burna Boy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+    },
+    {
       "rank": 8,
-      "title": "Patient Zero (Piano Version)",
+      "title": "Patient Zero (Acoustic Version)",
       "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/eb/50/78eb50a1-7fe5-0d0c-4854-d11ea5402565/mzaf_2293213266022903634.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero-piano-version/6820714226?i=6820714562&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Piano%20Version)"
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/17/c2/f417c2be-5557-4835-8a07-3e8f3eb02899/mzaf_14765043756596089844.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero-acoustic-version/6820695082?i=6820695083&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Acoustic%20Version)"
     },
     {
       "rank": 9,
@@ -428,12 +420,12 @@
     },
     {
       "rank": 10,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
+      "title": "Patient Zero (Piano Version)",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/eb/50/78eb50a1-7fe5-0d0c-4854-d11ea5402565/mzaf_2293213266022903634.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero-piano-version/6820714226?i=6820714562&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Piano%20Version)"
     },
     {
       "rank": 11,
@@ -473,12 +465,12 @@
     },
     {
       "rank": 15,
-      "title": "Bad Times (Extended Version)",
-      "artist": "Imael Angel",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/78/fb/4678fb84-d19e-f11b-93ff-4dc17660bff8/075679619075.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/2f/82/f42f82e5-e164-dd14-4f9a-2767d0215bae/mzaf_2512873933120069750.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ordinary/1793663382?i=1793663645&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Alex%20Warren%20Ordinary"
     }
   ],
   "movies": [
@@ -511,15 +503,6 @@
     },
     {
       "rank": 4,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 5,
       "title": "Street Fighter",
       "year": "2026",
       "cert": "12A",
@@ -528,24 +511,5 @@
       "url": "https://www.themoviedb.org/movie/1153576"
     }
   ],
-  "tv": [
-    {
-      "rank": 1,
-      "title": "Ranma1/2",
-      "year": "2024",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "url": "https://www.themoviedb.org/tv/259140"
-    },
-    {
-      "rank": 2,
-      "title": "Marshals",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "url": "https://www.themoviedb.org/tv/290856"
-    }
-  ]
+  "tv": []
 }
