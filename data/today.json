@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-10T11:16:34.347Z",
-  "day": 282,
+  "generated": "2026-10-11T11:29:55.534Z",
+  "day": 283,
   "movie": {
-    "title": "The Empire Strikes Back",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
     "safe": true,
-    "cert": "PG",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1980",
-    "plot": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
-    "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "year": "2021",
+    "plot": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "poster": "https://image.tmdb.org/t/p/w500/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Evanescence-Bring Me to Life",
+    "key": "Ed Sheeran-Shape of You",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
-    "year": "2003",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/3c/81/183c8163-7541-7043-2f0c-e55c23b265f5/190295851286.jpg/600x600bb.jpg",
+    "year": "2017",
     "v": 4
   },
   "album": {
-    "key": "Johann Sebastian Bach-The Brandenburg Concertos",
+    "key": "Van Halen-1984",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/9e/39/7f9e39aa-bcc1-b750-c653-e7ec22542495/00028946854921.rgb.jpg/600x600bb.jpg",
-    "year": "2001",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/98/f7/7998f761-20e0-aa8e-4fb2-190062af1638/603497894161.jpg/600x600bb.jpg",
+    "year": "1984",
     "v": 4
   }
 }
