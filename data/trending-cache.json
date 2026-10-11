@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-10T23:18:35.463Z",
+  "updated": "2026-10-11T04:31:50.460Z",
   "news": [
+    {
+      "title": "CJP, Gyanesh Kumar: Tens of thousands of forces deployed as Delhi braces for cockroach protest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg",
+      "published": "10/10/2026, 2:52:21 AM",
+      "desc": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+    },
+    {
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "published": "10/10/2026, 2:37:19 AM",
+      "desc": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana."
+    },
+    {
+      "title": "Newspaper headlines: 'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e41/live/664c5ca0-c434-11f1-82d8-49a147d9cec2.png",
+      "published": "10/10/2026, 1:52:15 AM",
+      "desc": "The weekend edition of the Financial Times highlights what it is calling a \"mounting crisis\" for airlines."
+    },
+    {
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
+      "published": "10/10/2026, 12:37:21 AM",
+      "desc": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?"
+    },
+    {
+      "title": "Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+      "published": "10/9/2026, 11:37:22 PM",
+      "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+    },
     {
       "title": "Early release scheme prisoner jailed days after leaving",
       "source": "BBC News",
@@ -24,49 +64,65 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eba8/live/d744ba50-c41c-11f1-a175-8928617a734f.jpg",
       "published": "10/9/2026, 8:07:21 PM",
       "desc": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks."
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he won't watch it",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
-      "published": "10/9/2026, 6:52:20 PM",
-      "desc": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
-    },
-    {
-      "title": "US immigration officials defend ICE agents who shot man while his child was in the car",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/619e/live/0f3f8390-c404-11f1-838e-6d1d6d701264.jpg",
-      "published": "10/9/2026, 6:22:23 PM",
-      "desc": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
-    },
-    {
-      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
-      "published": "10/9/2026, 5:22:25 PM",
-      "desc": "The European Union described the move against the International Criminal Court as \"deeply regrettable\"."
-    },
-    {
-      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c55/live/40cd86c0-c3ee-11f1-913a-eb4b8e15ad15.jpg",
-      "published": "10/9/2026, 2:52:26 PM",
-      "desc": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
-    },
-    {
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg",
-      "published": "10/9/2026, 12:52:26 PM",
-      "desc": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion."
     }
   ],
   "sports": [
+    {
+      "title": "CFB Pick 'Em: Top Week 6 Games, Including Alabama-Georgia, Oregon-UCLA, More",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/cfb-pick-em-top-week-6-games-including-alabama-georgia-oregon-ucla-more",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/cfb-week6-pickem-16x9_1024.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 4:22:18 AM",
+      "desc": "FOX Sports' college football pick 'em breakdown for Week 6's top games."
+    },
+    {
+      "title": "Valkyries sweep defending champion Aces to make WNBA Finals - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50144607/valkyries-dethrone-aces-ot-make-wnba-finals-second-year-franchise",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728520_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 4:11:50 AM",
+      "desc": "The second-year Valkyries became the quickest expansion team to reach the WNBA Finals, sweeping the defending champion Aces 87-77 in overtime Friday night in Game 3."
+    },
+    {
+      "title": "Kyle Busch's life celebrated in ceremony at Charlotte Motor Speedway - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/racing/nascar/story/_/id/50144130/nascar-community-celebrates-life-kyle-busch-ceremony-charlotte-motor-speedway",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728501_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 2:34:16 AM",
+      "desc": "The NASCAR community and more than 10,000 race fans celebrated the life of the late Kyle Busch during an uplifting ceremony Friday night at Charlotte Motor Speedway."
+    },
+    {
+      "title": "Dream sweep Liberty to earn first WNBA Finals berth since 2013 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50143905/dream-sweep-liberty-earn-first-wnba-finals-berth-2013",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728444_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 2:01:27 AM",
+      "desc": "The Dream finished off the Liberty with an 85-83 win in Game 3 to advance to the WNBA Finals for the first time since 2013."
+    },
+    {
+      "title": "Dodgers-Brewers NLCS Game 1 Will Be Skubal vs. Misiorowski; Yamamoto For Game 2",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/dodgers-turn-to-tarik-skubal-for-nlcs-game-1-opener-vs-brewers-yoshinobu-yamamoto-set-for-game-2",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/mlb.jpg?ve=1&tl=1",
+      "published": "10/10/2026, 1:37:15 AM",
+      "desc": "The starting pitchers are set for Game 1 of the NLCS between the Dodgers and Brewers."
+    },
+    {
+      "title": "Rangers goaltender Igor Shesterkin helped off ice after fall - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50143665/rangers-goaltender-igor-shesterkin-helped-ice-fall",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728480_1296x729_16%2D9.jpg",
+      "published": "10/10/2026, 1:02:15 AM",
+      "desc": "New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy, had to be helped off the ice after an awkward fall into his own net against the Washington Capitals on Friday night at Capital One Arena."
+    },
+    {
+      "title": "Defenseman Matt Dumba, 32, retires after 13 NHL seasons - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50143313/defenseman-matt-dumba-32-retires-13-nhl-seasons",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1009%2Fr1728449_1296x729_16%2D9.jpg",
+      "published": "10/9/2026, 11:26:52 PM",
+      "desc": "Matt Dumba, the 32-year-old defenseman who won the 2020 King Clancy Memorial Trophy, given to the player who best exemplified leadership qualities on and off the ice, is retiring after 13 NHL seasons with five different teams."
+    },
     {
       "title": "Manchester City whistleblower Rui Pinto to remain under witness protection",
       "source": "BBC Sport",
@@ -154,65 +210,41 @@
       "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719267_1296x729_16%2D9.jpg",
       "published": "10/9/2026, 9:13:49 PM",
       "desc": "Broncos offensive coordinator Davis Webb said that \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\""
-    },
-    {
-      "title": "Guardians' Williams, White Sox's Burke to start for ALCS bid - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50142587/guardians-williams-white-sox-burke-start-alcs-bid",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1005%2Fr1726595_1296x729_16%2D9.jpg",
-      "published": "10/9/2026, 8:37:51 PM",
-      "desc": "After finishing Game 4 of the ALDS on the mound, Guardians right-hander Gavin Williams will get the ball to start Game 5, while the White Sox will go with righty Sean Burke."
-    },
-    {
-      "title": "Saquon Barkley, DeVonta Smith among 5 Eagles ruled out vs. Jaguars - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1009%2Fr1728400_1296x729_16%2D9.jpg",
-      "published": "10/9/2026, 8:29:04 PM",
-      "desc": "Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars."
-    },
-    {
-      "title": "Trump will not attend Georgia-Alabama game due to Hurricane Isaias - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50142513/trump-not-attend-georgia-alabama-game-due-hurricane-isaias",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1009%2Fr1728407_1209x680_16%2D9.jpg",
-      "published": "10/9/2026, 8:24:20 PM",
-      "desc": "President Trump will no longer attend Saturday's SEC clash between Georgia and Alabama, which remains on schedule despite approaching Hurricane Isaias."
-    },
-    {
-      "title": "Al Nassr vs Diriyah Club: Saudi Pro League stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cxly421742edt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e08/live/008791f0-4235-11f0-835b-310c7b938e84.jpg",
-      "published": "10/9/2026, 8:22:21 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Al Nassr vs Diriyah Club in the Saudi Pro League"
-    },
-    {
-      "title": "Russell Westbrook wants to carry torch for L.A. Olympics - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/basketball/story/_/id/50142422/russell-westbrook-wants-carry-torch-la-olympics",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1009%2Fr1728372_1296x729_16%2D9.jpg",
-      "published": "10/9/2026, 8:06:55 PM",
-      "desc": "Retired NBA player and Olympic gold medal winner Russell Westbrook said he wants to carry the torch when his native Los Angeles hosts the 2028 Games."
-    },
-    {
-      "title": "Reports - Watchdog eyes NIL violations at 5-10 Power 4 schools - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50142371/reports-watchdog-eyes-nil-violations-5-10-power-4-schools",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1111%2Fr1574065_1296x729_16%2D9.jpg",
-      "published": "10/9/2026, 7:49:55 PM",
-      "desc": "The College Sports Commission is looking into possible rules violations at between five and 10 Power 4 schools regarding payments to players, according to multiple reports."
-    },
-    {
-      "title": "Ravens' Lamar Jackson Ruled Out For Week 5, Tyler Huntley Set To Start",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-lamar-jackson-qb-ankle-injury",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jackson.jpg?ve=1&tl=1",
-      "published": "10/9/2026, 7:37:22 PM",
-      "desc": "Ravens' quarterback Lamar Jackson has officially been ruled out for Week 5 against the Falcons. Tyler Huntley will start in his place."
     }
   ],
   "tech": [
+    {
+      "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/9/2026, 10:29:00 PM",
+      "desc": "iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time."
+    },
+    {
+      "title": "Decade-old RAM is making a comeback - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "10/9/2026, 9:50:00 PM",
+      "desc": "Price hikes have made DDR5 RAM so expensive that chipmakers are launching new CPUs for older platforms running on DDR4 RAM."
+    },
+    {
+      "title": "Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "image": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg",
+      "published": "10/9/2026, 9:45:14 PM",
+      "desc": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
+    },
+    {
+      "title": "Child Psychiatrist: Screen Time Isn't Main Threat to Kids - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/397863/child-psychiatrist-screen-time-isnt-main-threat-to-kids.html",
+      "image": "https://cdn.newser.com/image/1716936-12-20261009171003.jpeg",
+      "published": "10/9/2026, 9:40:00 PM",
+      "desc": "Columbia's Jonathan Slater urges investment in children's mental health care, not screen limits"
+    },
     {
       "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week - CNET",
       "source": "CNET",
@@ -222,52 +254,28 @@
       "desc": "Here's what will reportedly be announced at Apple's Welcome Home event, and what we think is unlikely."
     },
     {
-      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023 - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg",
-      "published": "10/9/2026, 6:54:52 PM",
-      "desc": "The current decline may be just the beginning of a new downward cycle.\""
+      "title": "Sonic Racing: CrossWorlds Year Two updates and DLC announced - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-year-two-updates-and-dlc-announced",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Sonic-CrossWorlds-Year-Two_10-09-26.jpg",
+      "published": "10/9/2026, 9:00:06 PM",
+      "desc": "SEGA has announced new updates and downloadable content coming to crossover racing game Sonic Racing: CrossWorlds in Year Two, which officially starts on November 3."
     },
     {
-      "title": "Googlebook’s app situation is a mess, and not just because things are missing - 9to5Google",
+      "title": "Google officially teases Fitbit Edge tracker, confirms October 12 launch - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/09/googlebook-app-situation-messy/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-1.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/9/2026, 6:45:00 PM",
-      "desc": "Having been using a Googlebook for the better part of a week, there are any number of headaches I could..."
+      "url": "http://9to5google.com/2026/10/09/google-officially-teases-fitbit-edge-tracker-confirms-october-12-launch/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-teaser-1-1.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/9/2026, 7:45:00 PM",
+      "desc": "Google has dropped an official teaser for its Fitbit Edge tracker and confirmed its launch date, and it's coming very soon."
     },
     {
-      "title": "Winning Nikon Small World in Motion video disqualified for AI use - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg",
-      "published": "10/9/2026, 6:44:06 PM",
-      "desc": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus."
-    },
-    {
-      "title": "Google teases Fitbit Edge launch next week - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&strip=all&crop=0,12.572525668393,71.318894733819,37.340029381297",
-      "published": "10/9/2026, 6:05:55 PM",
-      "desc": "Google is getting ready to launch its rumored fitness tracker, the Fitbit Edge, on October 12th."
-    },
-    {
-      "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-11-38-25-am.jpg?w=1600&h=900&fit=crop",
-      "published": "10/9/2026, 5:58:34 PM",
-      "desc": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode"
-    },
-    {
-      "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
-      "image": "https://images.macrumors.com/t/MzGHHpdv9LZDN3nLOmJmIk1mS4c=/1600x/article-new/2021/11/2017-apple-tv.jpg",
-      "published": "10/9/2026, 4:25:41 PM",
-      "desc": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is..."
+      "title": "House of the Week: A Colorful Compound With a Treehouse and Mini Golf - WSJ",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/inlet-beach-florida-home-2550954a",
+      "image": "",
+      "published": "10/9/2026, 7:30:56 PM",
+      "desc": ""
     }
   ],
   "education": [
@@ -366,15 +374,6 @@
     },
     {
       "rank": 4,
-      "title": "Patient Zero (Acoustic Version)",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/17/c2/f417c2be-5557-4835-8a07-3e8f3eb02899/mzaf_14765043756596089844.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero-acoustic-version/6820695082?i=6820695083&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Acoustic%20Version)"
-    },
-    {
-      "rank": 5,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
@@ -383,22 +382,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
-      "rank": 6,
-      "title": "Patient Zero (Piano Version)",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/eb/50/78eb50a1-7fe5-0d0c-4854-d11ea5402565/mzaf_2293213266022903634.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero-piano-version/6820714226?i=6820714562&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Piano%20Version)"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 6,
+      "title": "Patient Zero (Acoustic Version)",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/17/c2/f417c2be-5557-4835-8a07-3e8f3eb02899/mzaf_14765043756596089844.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero-acoustic-version/6820695082?i=6820695083&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Acoustic%20Version)"
+    },
+    {
+      "rank": 7,
+      "title": "Patient Zero (Piano Version)",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/eb/50/78eb50a1-7fe5-0d0c-4854-d11ea5402565/mzaf_2293213266022903634.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero-piano-version/6820714226?i=6820714562&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero%20(Piano%20Version)"
     },
     {
       "rank": 8,
@@ -438,15 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "She'll Never Be Me",
-      "artist": "Britney Spears",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/61/0f/3d610fd5-e074-45bb-1f0e-5a9bac6ac74d/196874836071.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/cc/09/ddcc0904-e75a-f2b5-7f78-3ee8bc0a50f5/mzaf_15155257839042084933.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/shell-never-be-me/6818422876?i=6818423212&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Britney%20Spears%20She'll%20Never%20Be%20Me"
-    },
-    {
-      "rank": 13,
       "title": "With You I'm Born Again (feat. Syreeta)",
       "artist": "Billy Preston",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/74/b3/3174b3dc-7fc6-e47d-c9fe-ebdd4f036af7/00731454123129.rgb.jpg/300x300bb.jpg",
@@ -455,13 +454,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Billy%20Preston%20With%20You%20I'm%20Born%20Again%20(feat.%20Syreeta)"
     },
     {
+      "rank": 13,
+      "title": "She'll Never Be Me",
+      "artist": "Britney Spears",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/61/0f/3d610fd5-e074-45bb-1f0e-5a9bac6ac74d/196874836071.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/cc/09/ddcc0904-e75a-f2b5-7f78-3ee8bc0a50f5/mzaf_15155257839042084933.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/shell-never-be-me/6818422876?i=6818423212&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Britney%20Spears%20She'll%20Never%20Be%20Me"
+    },
+    {
       "rank": 14,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+      "title": "Bad Times (Extended Version)",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
     },
     {
       "rank": 15,
@@ -503,12 +511,12 @@
     },
     {
       "rank": 4,
-      "title": "Street Fighter",
+      "title": "Moana",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     },
     {
       "rank": 5,
@@ -518,6 +526,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "url": "https://www.themoviedb.org/movie/1084244"
+    },
+    {
+      "rank": 6,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     }
   ],
   "tv": [
@@ -532,15 +549,6 @@
     },
     {
       "rank": 2,
-      "title": "SpongeBob SquarePants",
-      "year": "1999",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-      "url": "https://www.themoviedb.org/tv/387"
-    },
-    {
-      "rank": 3,
       "title": "Marshals",
       "year": "2026",
       "cert": "12",
@@ -549,7 +557,7 @@
       "url": "https://www.themoviedb.org/tv/290856"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "The Simpsons",
       "year": "1989",
       "cert": "12",
