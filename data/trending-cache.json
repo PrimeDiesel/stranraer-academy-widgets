@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-15T03:35:48.789Z",
+  "updated": "2026-10-15T08:56:21.664Z",
   "news": [
+    {
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b052/live/df047440-c79d-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/14/2026, 7:52:17 AM",
+      "desc": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency."
+    },
+    {
+      "title": "‘Spray and pray’: How AI job applications can backfire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "10/14/2026, 7:37:16 AM",
+      "desc": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice."
+    },
+    {
+      "title": "World's oldest shipwreck found off Kekova Island in Turkey",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
+      "published": "10/14/2026, 5:37:21 AM",
+      "desc": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
+    },
+    {
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4811/live/95407880-c3c5-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/14/2026, 5:22:24 AM",
+      "desc": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals."
+    },
     {
       "title": "Newspaper headlines: 'Spy chief's grim warning' and 'tiger's victim was child actor'",
       "source": "BBC News",
@@ -26,47 +58,79 @@
       "desc": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners."
     },
     {
-      "title": "Gales and heavy rain forecast for UK as Met Office wind warning issued",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
-      "published": "10/14/2026, 12:22:22 AM",
-      "desc": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains."
-    },
-    {
       "title": "Royal Mail losing 400 postal workers a week, says union",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
       "published": "10/14/2026, 12:07:20 AM",
       "desc": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices."
-    },
-    {
-      "title": "Saudi national charged with planting recording device at OpenAI office",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af71/live/f872be20-c74b-11f1-b4d5-87f9c6c95a29.png",
-      "published": "10/13/2026, 9:37:30 PM",
-      "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
-    },
-    {
-      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "published": "10/13/2026, 9:37:27 PM",
-      "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park."
-    },
-    {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
-      "published": "10/13/2026, 8:37:22 PM",
-      "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
     }
   ],
   "sports": [
+    {
+      "title": "Villa Park: Is stadium rebuild affecting Aston Villa's performances?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cx054n684g7do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg",
+      "published": "10/14/2026, 8:22:26 AM",
+      "desc": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?"
+    },
+    {
+      "title": "Champions League reaction: Did Martinez go 'too far' with criticism of Man Utd hierarchy?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c64g17wv3qy9t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/feda/live/bcbb2ea0-c79e-11f1-a624-a3d8608fc192.jpg",
+      "published": "10/14/2026, 7:37:20 AM",
+      "desc": "Manchester United defender Lisandro Martinez accuses club's board of lack of investment following side's Champions League defeat by Atletico Madrid."
+    },
+    {
+      "title": "BBC Sport's daily football quizzes: Who Am I?, Five in Five and Brainteaser",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c933xdrl731lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+      "published": "10/14/2026, 7:07:23 AM",
+      "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "title": "Freddy Peralta Is Boosting The Rays' World Series Hopes — And His Free Agency Stock",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/freddy-peralta-boosting-rays-world-series-hopes-and-his-free-agency-stock",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/peralta1.jpg?ve=1&tl=1",
+      "published": "10/14/2026, 6:22:23 AM",
+      "desc": "Rays players have bonded with Freddy Peralta in what has been a seamless transition to his third team in 13 months. This winter, he might be heading to his fourth."
+    },
+    {
+      "title": "Football gossip: Porro, Beljo, De Jong, Frank, Diouf, Banjaqui, Alvarez, Olmo, Kalulu, Franca",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/079b/live/2ab93150-c735-11f1-9a39-31b474234113.png",
+      "published": "10/14/2026, 6:07:22 AM",
+      "desc": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong."
+    },
+    {
+      "title": "Guardians' Ramirez owns up to gaffes in ALCS Game 2 loss to Rays - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50179156/guardians-ramirez-owns-gaffes-alcs-game-2-loss-rays",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1014%2Fr1730502_1296x729_16%2D9.jpg",
+      "published": "10/14/2026, 3:49:04 AM",
+      "desc": "Guardians star Jose Ramirez expressed regret for a pair of costly fourth-inning miscues that led to three unearned runs for the Rays, who evened the series with a 3-1 win in Game 2."
+    },
+    {
+      "title": "Swanson's late goal salvages draw for USWNT vs. No. 1 Spain - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50179142/swanson-late-goal-salvages-draw-usa-spain",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1014%2Fr1730430_1024x576_16%2D9.jpg",
+      "published": "10/14/2026, 3:44:56 AM",
+      "desc": "Mallory Swanson came off the bench to score her first goal since the 2024 Olympics as the USWNT substitutes rallied for a 2-2 draw with Spain on Tuesday night."
+    },
+    {
+      "title": "Postseason Peralta Lifts Rays Past Guardians: 3 Takeaways From ALCS Game 2",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/postseason-peralta-lifts-rays-past-guardians-3-takeaways-from-alcs-game-2",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/1bd11e6d-rays1.jpg?ve=1&tl=1",
+      "published": "10/14/2026, 3:37:23 AM",
+      "desc": "The Rays defeated the Guardians, 3-0, on Tuesday night at Tropicana Field on the strength of their pitching and usual basepath pressure."
+    },
     {
       "title": "Can Shohei Ohtani Find His Form? The Dodgers' Season Is Riding On It",
       "source": "Fox Sports",
@@ -76,20 +140,20 @@
       "desc": "Shohei Ohtani insists that he can play. Now, after looking completely out of sorts to start the postseason, it’s on him to show it."
     },
     {
-      "title": "Sources: DeBrincat, Red Wings close in on 7-year extension - ESPN",
+      "title": "Peralta tosses gem, Rays cash in on Ramirez gaffe in Game 2 - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/50178559/debrincat-red-wings-close-7-year-extension",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1014%2Fr1730439_1296x729_16%2D9.jpg",
-      "published": "10/14/2026, 1:53:26 AM",
-      "desc": "Right wing Alex DeBrincat, 28, Detroit's leading scorer who had two goals and an assist Tuesday in a loss to the New Jersey Devils, is finalizing a new deal with the Red Wings, sources told ESPN, a seven-year contract extension worth $13 million annually."
+      "url": "https://www.espn.com/mlb/story/_/id/50179060/peralta-tosses-gem-rays-cash-ramirez-gaffe-game-2",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1014%2Fr1730482_1024x576_16%2D9.jpg",
+      "published": "10/14/2026, 3:20:26 AM",
+      "desc": "Freddy Peralta threw six scoreless innings and Liam Hicks took advantage of a fielding error by Jose Ramirez with a 2-run single as the Rays took Game 2."
     },
     {
-      "title": "USA 2-2 Spain (Oct 13, 2026) Game Analysis - ESPN",
+      "title": "Brady Tkachuk's natural hat trick helps Panthers end skid - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401890784",
-      "image": "https://s.secure.espncdn.com/stitcher/sports/soccer/fifa.friendly.w/events/401890784.png?templateId=espn.com.share.1",
-      "published": "10/14/2026, 1:37:22 AM",
-      "desc": "Expert recap and game analysis of the United States vs. Spain Women's International Friendly game from October 13, 2026 on ESPN."
+      "url": "https://www.espn.com/nhl/story/_/id/50178690/brady-tkachuk-natural-hat-trick-helps-panthers-end-skid",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1014%2Fr1730437_1296x729_16%2D9.jpg",
+      "published": "10/14/2026, 2:12:12 AM",
+      "desc": "On the NHL's Frozen Frenzy night, the Tkachuk brothers fed right into it, as Brady Tkachuk had a natural hat trick and his brother Matthew Tkachuk matched a club record with five assists as the Florida Panthers beat the Columbus Blue Jackets 7-3 Tuesday."
     },
     {
       "title": "Roberts: Shohei Ohtani Will Be In Dodgers Lineup For Game 3 vs. Brewers",
@@ -132,87 +196,31 @@
       "desc": "Nick Wright’s quarterback hierarchy saw a handful of names tumble this week but one name stayed at the top of the mountain."
     },
     {
+      "title": "Cleveland Browns star in first look at Hulu's 'The Land' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50177761/cleveland-browns-land-hulu-trailer",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1013%2Fr1730403_1280x720_16%2D9.png",
+      "published": "10/14/2026, 12:28:00 AM",
+      "desc": "Created by Dan Fogelman, the NFL-backed drama follows a fictional version of the Browns and premieres the day after Super Bowl LXI."
+    },
+    {
       "title": "Ohtani will be in Dodgers' Game 3 NLCS lineup, Roberts says - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mlb/story/_/id/50177824/ohtani-dodgers-game-3-nlcs-lineup-roberts-says",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1013%2Fr1730402_1296x729_16%2D9.jpg",
       "published": "10/14/2026, 12:04:09 AM",
       "desc": "Los Angeles Dodgers manager Dave Roberts told reporters on Tuesday that struggling superstar Shohei Ohtani will be in the lineup for Game 3 of the NLCS Wednesday vs. the Milwaukee Brewers, and that he had a \"great conversation\" with the two-time NL MVP."
-    },
-    {
-      "title": "Mariners Reportedly Targeting 4 Managers With Championship Pedigree",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/mariners-reportedly-targeting-four-managers-championship-pedigree",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/astros.jpg?ve=1&tl=1",
-      "published": "10/13/2026, 11:37:21 PM",
-      "desc": "Here are some of the candidates the Seattle Mariners are reportedly considering for their next manager."
-    },
-    {
-      "title": "Arsenal 3-0 Lille: Bukayo Saka responds to challenge as fringe players have mixed night",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg",
-      "published": "10/13/2026, 11:22:22 PM",
-      "desc": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League."
-    },
-    {
-      "title": "2026 NBA Finals Odds: Spurs, Thunder Favored; Knicks, 76ers Giving Chase",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/1294/728/brunson-511.jpg?ve=1&tl=1",
-      "published": "10/13/2026, 10:52:19 PM",
-      "desc": "See the updated NBA title odds now that the regular season is set to begin."
-    },
-    {
-      "title": "Women's World Cup play-offs: 'Unplayable' Georgia Stanway proves a 'warrior' for England",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cm2kev8w934do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg",
-      "published": "10/13/2026, 10:22:22 PM",
-      "desc": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England."
-    },
-    {
-      "title": "Inter Milan 3-4 Club Brugge: Nicolo Tresoldi scores Champions League hat-trick",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cq8rzj6v614vt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/975d/live/076b7960-c749-11f1-b4d5-87f9c6c95a29.jpg",
-      "published": "10/13/2026, 10:07:25 PM",
-      "desc": "Nicolo Tresoldi scores a stunning hat-trick as Club Brugge hand Inter Milan their fourth consecutive Champions League defeat for the first time in their history in a seven-goal thriller."
-    },
-    {
-      "title": "NFL: LA Rams' Alaric Jackson given ban for punching opponent while kicker Harrison Mevis is released.",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3dbc/live/aa138050-c74d-11f1-b4d5-87f9c6c95a29.png",
-      "published": "10/13/2026, 10:07:22 PM",
-      "desc": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released."
-    },
-    {
-      "title": "Rams' Alaric Jackson Reportedly Facing 2-Game Suspension For Punching Bills' Bradley Chubb",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/rams-alaric-jackson-facing-two-game-suspension-punching-bills-bradley-chubb",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2296946020-scaled-e1791927157400.jpg?ve=1&tl=1",
-      "published": "10/13/2026, 10:07:18 PM",
-      "desc": "Los Angeles Rams left tackle Alaric Jackson is expected to be suspended two games for punching Buffalo Bills outside linebacker Bradley Chubb after Monday night’s game."
-    },
-    {
-      "title": "Saints owner Benson rips 1-4 start, says fans 'deserve better' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1013%2Fr1730376_1296x729_16%2D9.jpg",
-      "published": "10/13/2026, 10:06:49 PM",
-      "desc": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\""
-    },
-    {
-      "title": "Parsons - QB Daniels probably 'cost my man Dan Quinn his job' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1012%2Fr1729529_1296x729_16%2D9.jpg",
-      "published": "10/13/2026, 10:03:09 PM",
-      "desc": "Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired."
     }
   ],
   "tech": [
+    {
+      "title": "Nintendo Expands Switch Online's GBA Library With Three More Titles - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "image": "https://images.nintendolife.com/067f227fe5efd/1280x720.jpg",
+      "published": "10/14/2026, 1:15:00 AM",
+      "desc": "Monster Rancher, Metal Slug & Kururin are here!"
+    },
     {
       "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail - Mashable",
       "source": "Mashable",
@@ -246,6 +254,14 @@
       "desc": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\"..."
     },
     {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws - Krebs on Security",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "image": "",
+      "published": "10/13/2026, 11:39:46 PM",
+      "desc": ""
+    },
+    {
       "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers - Ars Technica",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
@@ -260,22 +276,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
       "published": "10/13/2026, 9:33:43 PM",
       "desc": "Topgolf and VMware \"ran deep\" before the migration."
-    },
-    {
-      "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
-      "image": "https://kotaku.com/app/uploads/2019/04/h9gbrcwqu9vtuivxgrlu-1200x675.jpg",
-      "published": "10/13/2026, 9:15:35 PM",
-      "desc": "Some of Knack, Nathan Drake, and Kratos’ games were pulled due to what appears to be a pricing error"
-    },
-    {
-      "title": "It looks like Apple Music is getting a new icon - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-music-new-old-icon-avstorm-twitter.jpeg?quality=90&strip=all&crop=0%2C6.369982547993%2C100%2C87.260034904014&w=1200",
-      "published": "10/13/2026, 8:05:02 PM",
-      "desc": "The Apple Music app has reportedly been updated with a new black-and-white version in iOS 27.2 beta 4, after Apple Music got a logo refresh."
     }
   ],
   "education": [
@@ -365,21 +365,21 @@
     },
     {
       "rank": 3,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
-    },
-    {
-      "rank": 4,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 4,
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
       "rank": 5,
@@ -401,21 +401,21 @@
     },
     {
       "rank": 7,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 8,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 8,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 9,
@@ -428,33 +428,6 @@
     },
     {
       "rank": 10,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
-    },
-    {
-      "rank": 11,
-      "title": "Sorry",
-      "artist": "S&B Music",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/11/a0/4911a071-c797-d635-82c3-a3bfa818b8b6/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/0e/62/980e62cb-1504-5e99-bddb-8e7b46c218d8/mzaf_953758133871315886.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/sorry/6820099896?i=6820099897&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=S%26B%20Music%20Sorry"
-    },
-    {
-      "rank": 12,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
-    },
-    {
-      "rank": 13,
       "title": "Bad Times (Extended Version)",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
@@ -463,36 +436,54 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
     },
     {
-      "rank": 14,
-      "title": "Mi Chico (Jason Derulo x Melody Version)",
-      "artist": "DJ Goja, Jason Derulo & Melody",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
+      "rank": 11,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "title": "Circles",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/e5/b3/d6e5b3c4-2d2f-2403-c52b-dfdf34c07f86/mzaf_2998308280119516770.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+    },
+    {
+      "rank": 13,
       "title": "Mama, Don't Close Your Eyes",
       "artist": "Bjorn Bonebreaker",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/2a/ae/942aae1b-16ec-7de9-4a1a-247e06ab8e5b/mzaf_13001702980669412928.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/mama-dont-close-your-eyes/6812292915?i=6812292916&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
+    },
+    {
+      "rank": 14,
+      "title": "Sorry",
+      "artist": "S&B Music",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/11/a0/4911a071-c797-d635-82c3-a3bfa818b8b6/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/0e/62/980e62cb-1504-5e99-bddb-8e7b46c218d8/mzaf_953758133871315886.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/sorry/6820099896?i=6820099897&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=S%26B%20Music%20Sorry"
+    },
+    {
+      "rank": 15,
+      "title": "Mi Chico (Jason Derulo x Melody Version)",
+      "artist": "DJ Goja, Jason Derulo & Melody",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 2,
       "title": "Matchbox the Movie",
       "year": "2026",
       "cert": "12",
@@ -501,22 +492,31 @@
       "url": "https://www.themoviedb.org/movie/1148365"
     },
     {
-      "rank": 3,
-      "title": "Street Fighter",
+      "rank": 2,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Practical Magic 2",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
       "url": "https://www.themoviedb.org/movie/1302904"
+    },
+    {
+      "rank": 4,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "rank": 5,
