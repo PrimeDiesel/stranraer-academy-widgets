@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T07:23:52.209Z",
-  "nextUpdate": "2026-10-15T07:23:52.209Z",
+  "lastUpdated": "2026-10-15T07:14:47.206Z",
+  "nextUpdate": "2026-10-16T07:14:47.206Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 0
   },
   "competitions": [
-    {
-      "title": "UKMT Maths Challenge - Senior",
-      "organisation": "UK Maths Trust",
-      "category": "stem",
-      "ageRange": "16-18",
-      "description": "Multiple choice maths challenge testing problem-solving skills. Top scorers invited to follow-on rounds.",
-      "link": "https://www.ukmt.org.uk/",
-      "deadline": "2026-10-15"
-    },
     {
       "title": "Bebras Computing Challenge",
       "organisation": "Bebras UK",
@@ -168,6 +159,15 @@
       "description": "Submit up to 3 poems on any theme. 100 winners published in anthology.",
       "link": "https://poetrysociety.org.uk/",
       "deadline": "2027-07-31"
+    },
+    {
+      "title": "UKMT Maths Challenge - Senior",
+      "organisation": "UK Maths Trust",
+      "category": "stem",
+      "ageRange": "16-18",
+      "description": "Multiple choice maths challenge testing problem-solving skills. Top scorers invited to follow-on rounds.",
+      "link": "https://www.ukmt.org.uk/",
+      "deadline": "2027-10-15"
     },
     {
       "title": "CREST Awards",
