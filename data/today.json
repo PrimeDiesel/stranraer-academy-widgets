@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-15T10:08:19.193Z",
-  "day": 287,
+  "generated": "2026-10-16T09:58:50.358Z",
+  "day": 288,
   "movie": {
-    "title": "The Great Muppet Caper",
+    "title": "Ghostbusters",
     "safe": true,
-    "cert": "U",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1981",
-    "plot": "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and the rest of the Muppets to bring the real culprits to justice.",
-    "poster": "https://image.tmdb.org/t/p/w500/lnJc4B4njeyNHWqG00ozuUIhtu5.jpg",
+    "year": "2016",
+    "plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+    "poster": "https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
     "genre": "",
-    "season": null
+    "season": "halloween"
   },
   "song": {
-    "key": "Def Leppard-Pour Some Sugar on Me",
+    "key": "Hozier-Someone New",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/76/fa/0f76fa8d-8341-c0af-84d8-543b9193c728/17UM1IM41552.rgb.jpg/600x600bb.jpg",
-    "year": "1987",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/3c/33/503c3301-0b68-8005-bc2b-c8fe662a12d9/14UMGIM25760.rgb.jpg/600x600bb.jpg",
+    "year": "2014",
     "v": 4
   },
   "album": {
-    "key": "Huey Lewis and the News-Sports",
+    "key": "Rufus Wainwright-Want One",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/00/bc/2f/00bc2ff8-1a1b-59e3-4ccf-929cda3e6ae0/13UMGIM58204.rgb.jpg/600x600bb.jpg",
-    "year": "1983",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/08/1f/6a081f8a-e7ce-bc69-50dd-27d70bb76692/00602547887184.rgb.jpg/600x600bb.jpg",
+    "year": "2003",
     "v": 4
   }
 }
