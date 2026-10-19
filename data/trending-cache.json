@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-18T22:16:24.703Z",
+  "updated": "2026-10-19T00:53:40.878Z",
   "news": [
+    {
+      "title": "Comedian Paul Whitehouse mugged at London cashpoint",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg",
+      "published": "10/18/2026, 12:37:19 AM",
+      "desc": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\"."
+    },
+    {
+      "title": "Manifest: From reality TV to Wembley arena in one turbulent year",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/17/2026, 11:37:29 PM",
+      "desc": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert."
+    },
+    {
+      "title": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+      "published": "10/17/2026, 11:37:25 PM",
+      "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+    },
     {
       "title": "France protests: Violent clashes, looting and buildings ablaze as over 1,000 arrested",
       "source": "BBC News",
@@ -26,14 +50,6 @@
       "desc": ""
     },
     {
-      "title": "Emi Martinez injury mars first Chelsea clean sheet in nine months",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3ff/live/157a6f70-ca3c-11f1-9ab2-b325ce61f9d2.jpg",
-      "published": "10/17/2026, 7:37:21 PM",
-      "desc": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months."
-    },
-    {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
@@ -42,31 +58,63 @@
       "desc": ""
     },
     {
-      "title": "'Taking in my great-grandchildren at 74 saved me'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5lyev4e2m9zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97a1/live/1be03b50-c3d0-11f1-8cee-d9704951662c.jpg",
-      "published": "10/17/2026, 2:37:22 PM",
-      "desc": "A Somerset great-grandmother talks about becoming a kinship carer after her daughter died."
-    },
-    {
       "title": "More NHS staff sacked over Nottingham attacks victims' records",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "10/17/2026, 1:52:23 PM",
       "desc": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
-    },
-    {
-      "title": "Trial of German steakhouse heiress Christina Block that sparked a huge spy scandal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
-      "published": "10/17/2026, 7:37:20 AM",
-      "desc": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children."
     }
   ],
   "sports": [
+    {
+      "title": "Another No. 1 Falls: Auburn Stuns Georgia After Walk Off Field Goal",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/alex-mcpherson-kicks-34-yard-field-goal-time-expires-lift-auburn-over-no-1-georgia-27-24",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2300220081-1-scaled-e1792281654842.jpg?ve=1&tl=1",
+      "published": "10/18/2026, 12:22:25 AM",
+      "desc": "Alex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No. 1 Georgia 27-24 on Saturday."
+    },
+    {
+      "title": "Florida Coach Jon Sumrall Perfectly Trolled Texas After Gators' Comeback Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/florida-texas-jon-sumrall-troll-cowboy-hat-sec",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2300695607.jpg?ve=1&tl=1",
+      "published": "10/17/2026, 11:52:22 PM",
+      "desc": "Jon Sumrall had fun at Texas' expense after his Florida Gators defeated the Longhorns."
+    },
+    {
+      "title": "Jon Sumrall, Auburn top trolls from Week 7 in college football - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50201050/college-football-trolls-week-7",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1017%2Fr1732192_1296x729_16%2D9.jpg",
+      "published": "10/17/2026, 11:51:00 PM",
+      "desc": "After the upset, Sumrall was in a celebratory mood, donning a cowboy hat fit for a Texan while striding through the hallways of Darrell K Royal-Texas Memorial Stadium."
+    },
+    {
+      "title": "Auburn stuns Georgia after Stockton's fumble dooms Bulldogs - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50205292/auburn-stuns-georgia-stockton-fumble-dooms-bulldogs",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png&w=110&h=110&transparent=true",
+      "published": "10/17/2026, 11:14:34 PM",
+      "desc": "Auburn, led by QB Byrum Brown's dominant running game, upset No. 1 Georgia after taking advantage of a key fumble by Gunner Stockton with 58 seconds left."
+    },
+    {
+      "title": "Michigan Benches Bryce Underwood, Turns To Freshman Tommy Carr vs. Penn State",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/michigan-benches-bryce-underwood-tommy-carr-penn-state",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2298287970-scaled-e1792274570686.jpg?ve=1&tl=1",
+      "published": "10/17/2026, 11:07:24 PM",
+      "desc": "Michigan head coach Kyle Whittingham benched sophomore Bryce Underwood in favor of true freshman Tommy Carr in the third quarter of Saturday’s Big Ten matchup against Penn State."
+    },
+    {
+      "title": "Paris St-Germain come back against Strasbourg to make it six wins in a row",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cmy83qp9z99dt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24d1/live/7f413b30-ca4d-11f1-a64c-550be9e3c66b.jpg",
+      "published": "10/17/2026, 11:07:22 PM",
+      "desc": "Paris St-Germain extend their winning run in all competitions to six games as they come from behind to win at Strasbourg."
+    },
     {
       "title": "Dubois vs Wardley 2: Londoner retains title with dominant second-round stoppage",
       "source": "BBC Sport",
@@ -82,6 +130,14 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2300195155-scaled-e1792272091975.jpg?ve=1&tl=1",
       "published": "10/17/2026, 10:07:22 PM",
       "desc": "No. 4 Ohio State snapped No. 5 Indiana's 22-game winning streak and 19-game home winning streak."
+    },
+    {
+      "title": "Gabby Williams scores 26, including key late FTs, as Valkyries win G1 vs. Dream - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50204588/gabby-williams-scores-26-including-key-late-fts-valkyries-win-g1-vs-dream",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1017%2Fr1732093_3_1296x729_16%2D9.jpg",
+      "published": "10/17/2026, 10:05:55 PM",
+      "desc": "The Valkyries held off the Dream 68-64 in Game 1 of the WNBA Finals."
     },
     {
       "title": "England rugby league: Brian McDermott seeks fix - but is his team's World Cup over?",
@@ -154,62 +210,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/jalen-1017.jpg?ve=1&tl=1",
       "published": "10/17/2026, 8:52:19 PM",
       "desc": "Check out the odds and what you need to know about the fourth annual NBA Cup."
-    },
-    {
-      "title": "Florian Wirtz delivers for Liverpool - but is playmaker Andoni Iraola's great conundrum?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg",
-      "published": "10/17/2026, 8:37:27 PM",
-      "desc": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?"
-    },
-    {
-      "title": "Dubois vs Wardley 2 LIVE: Boxing fight UK time, ring walk, undercard, results & radio commentary",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/live/cr20wlq8ee74t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "10/17/2026, 8:37:26 PM",
-      "desc": "Follow and listen to Daniel Dubois vs Fabio Wardley heavyweight world title fight in London."
-    },
-    {
-      "title": "Sources - Bears plan to start QB Caleb Williams vs. Falcons - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719616_1296x729_16%2D9.jpg",
-      "published": "10/17/2026, 8:30:00 PM",
-      "desc": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN."
-    },
-    {
-      "title": "Julian Sayin Injury: What We Know About Ohio State's Star Quarterback",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-julian-sayin-injury-status-what-we-know",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2300698759-scaled.jpg?ve=1&tl=1",
-      "published": "10/17/2026, 8:22:26 PM",
-      "desc": "What to know about Ohio State quarterback Julian Sayin's injury during the Buckeyes' win vs. Indiana."
-    },
-    {
-      "title": "2026 NBA Finals Odds: Spurs, Thunder Favored; Knicks, 76ers Giving Chase",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/1294/728/brunson-511.jpg?ve=1&tl=1",
-      "published": "10/17/2026, 8:22:24 PM",
-      "desc": "See the updated NBA title odds now that the regular season is set to begin."
-    },
-    {
-      "title": "Eagles Make Roster Decision On QB Jalen Hurts In Wake Of Blood Clot",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/hurts.jpg?ve=1&tl=1",
-      "published": "10/17/2026, 8:22:22 PM",
-      "desc": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf and have placed him on injured reserve."
-    },
-    {
-      "title": "Ohio State survives Indiana after Marsh ruled out of bounds - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50203580/ohio-state-survives-indiana-marsh-ruled-bounds",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1017%2Fr1732061_1296x729_16%2D9.jpg",
-      "published": "10/17/2026, 8:14:38 PM",
-      "desc": "Ohio State survived what appeared to be the go-ahead score when Nick Marsh's left foot was ruled to be out of bounds as the Buckeyes beat Indiana 19-15 on Saturday."
     }
   ],
   "tech": [
@@ -222,14 +222,6 @@
       "desc": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23.  ..."
     },
     {
-      "title": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/-952x498w6/gsmarena_000.jpg",
-      "published": "10/17/2026, 8:01:02 PM",
-      "desc": "Don't panic just yet. Yesterday, a Korean news outlet shared some concerning news about the upcoming Samsung Galaxy S27 Ultra. According to the report,..."
-    },
-    {
       "title": "Intel \"Razor Lake-AX\" to Pack 700 TOPS of AI Compute - TechPowerUp",
       "source": "Techpowerup.com",
       "url": "https://www.techpowerup.com/353825/intel-razor-lake-ax-to-pack-700-tops-of-ai-compute",
@@ -238,20 +230,20 @@
       "desc": "Intel's senior vice president, Cho Min-sung, announced at the Semiconductors Powering Humanoids summit in South Korea that the next-generation \"Razor Lake-AX\" platform will be a computing powerhouse, featuring 700 TOPS of AI compute on die. This means that at…"
     },
     {
+      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "10/17/2026, 4:29:54 PM",
+      "desc": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from a competitive tournament."
+    },
+    {
       "title": "Call of Duty: Modern Warfare 4 Captain Price Actor Sends Message to Fans - IGN",
       "source": "IGN",
       "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
       "image": "https://assets-prd.ignimgs.com/2026/10/16/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1792164596496.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "published": "10/17/2026, 3:52:41 PM",
       "desc": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in."
-    },
-    {
-      "title": "Smash Bros. Player Barred From Austin Competition Following Bed Bug Concern - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/smash-bros-player-barred-from-austin-competition-following-bed-bug-concern-2000747055",
-      "image": "https://kotaku.com/app/uploads/2026/10/parasitequeen-1200x675.jpg",
-      "published": "10/17/2026, 3:38:45 PM",
-      "desc": "Announcing a hiatus, Melee pro Jason ‘Mew2King’ Zimmerman says he regrets posting the now viral photos and would have stepped back if he believed the community was at risk"
     },
     {
       "title": "Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him - Futurism",
@@ -268,9 +260,25 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&strip=all&resize=1200,628",
       "published": "10/17/2026, 1:45:00 PM",
       "desc": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo..."
+    },
+    {
+      "title": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish - Yahoo Finance",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/",
+      "image": "https://s.yimg.com/lo/mysterio/api/422d6ec1c4e36b445605653802e352f4317f90948653f4b5550754138a2ea793/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fab90df1ec7ba997122f6209170ee919d.png",
+      "published": "10/17/2026, 1:35:00 PM",
+      "desc": "The move into smart home products deepens Apple's customer relationship and ecosystem."
     }
   ],
   "education": [
+    {
+      "title": "School children 'brainwashed by left-wing BBC': Demand for inquiry as education website used by millions encourages pupils to back contentious open borders and Net Zero policies",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16217373/School-children-left-wing-BBC-inquiry-website.html",
+      "image": "https://i.dailymail.com/1s/2026/10/17/22/111927707-0-image-a-15_1792273937249.jpg",
+      "published": "10/17/2026, 10:29:50 PM",
+      "desc": "BBC Bitesize encourages children to play an online game called Increasing Immigration, in which they are rewarded for choosing 'open borders' and granting an amnesty to illegal migrants."
+    },
     {
       "title": "Britain's biggest hospitality brands partner with Government to deliver 100,000 jobs for NEET young people",
       "source": "Www.gov.uk",
@@ -326,14 +334,6 @@
       "image": "https://s.yimg.com/lo/mysterio/api/7b20f28355cbedb89c8d83169dfaaa13b0f586fe2f1036ba1a618a95ad09cb22/lightyear_networkapi/resizefill_w1000_h563%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4edee2eee64f229a3c7e02a068951a11.jpg",
       "published": "10/6/2026, 10:21:26 AM",
       "desc": "More than 50 students from across the world are attending the new PSG academy at Ellesmere College."
-    },
-    {
-      "title": "What helps children feel safe at school?",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/what-helps-children-feel-safe-at-school-250858",
-      "image": "https://images.theconversation.com/files/758259/original/file-20260907-50-vqslzy.jpg?ixlib=rb-4.1.1&rect=0%2C721%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
-      "published": "10/6/2026, 8:04:35 AM",
-      "desc": "schools can provide a supportive environment that allows children to explore, but also to return to safety when they feel vulnerable."
     }
   ],
   "music": [
@@ -357,21 +357,21 @@
     },
     {
       "rank": 3,
-      "title": "Flower In A Hurricane [from GTAVI]",
-      "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/33/f5/0433f5b3-d831-1935-08e2-86e233973e02/mzaf_16615932387163717675.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi/6819802963?i=6819802968&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
-    },
-    {
-      "rank": 4,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+    },
+    {
+      "rank": 4,
+      "title": "Flower In A Hurricane [from GTAVI]",
+      "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/33/f5/0433f5b3-d831-1935-08e2-86e233973e02/mzaf_16615932387163717675.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi/6819802963?i=6819802968&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
     },
     {
       "rank": 5,
@@ -393,15 +393,6 @@
     },
     {
       "rank": 7,
-      "title": "expectations",
-      "artist": "Olivia Rodrigo & Chappell Roan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
-    },
-    {
-      "rank": 8,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -410,13 +401,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
+      "rank": 8,
+      "title": "expectations",
+      "artist": "Olivia Rodrigo & Chappell Roan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
+    },
+    {
       "rank": 9,
-      "title": "The Greatest Show On Earth",
-      "artist": "U2",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/6b/ac/196bac72-8c20-98c9-7fb4-5c66619cc0c3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/d7/72/a6d77269-f6b7-1f0d-4fd4-859e5d951a8c/mzaf_16339311253737403211.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/the-greatest-show-on-earth/6812412381?i=6812412674&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=U2%20The%20Greatest%20Show%20On%20Earth"
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
       "rank": 10,
@@ -429,12 +429,12 @@
     },
     {
       "rank": 11,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "The Greatest Show On Earth",
+      "artist": "U2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/6b/ac/196bac72-8c20-98c9-7fb4-5c66619cc0c3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/d7/72/a6d77269-f6b7-1f0d-4fd4-859e5d951a8c/mzaf_16339311253737403211.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-greatest-show-on-earth/6812412381?i=6812412674&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=U2%20The%20Greatest%20Show%20On%20Earth"
     },
     {
       "rank": 12,
@@ -447,12 +447,12 @@
     },
     {
       "rank": 13,
-      "title": "Housewife",
-      "artist": "Tate McRae",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
     },
     {
       "rank": 14,
@@ -465,12 +465,12 @@
     },
     {
       "rank": 15,
-      "title": "Mi Chico (Jason Derulo x Melody Version)",
-      "artist": "DJ Goja, Jason Derulo & Melody",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=DJ%20Goja%2C%20Jason%20Derulo%20%26%20Melody%20Mi%20Chico%20(Jason%20Derulo%20x%20Melody%20Version)"
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     }
   ],
   "movies": [
@@ -520,5 +520,15 @@
       "url": "https://www.themoviedb.org/movie/1148365"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "The Simpsons",
+      "year": "1989",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "url": "https://www.themoviedb.org/tv/456"
+    }
+  ]
 }
