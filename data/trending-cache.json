@@ -1,13 +1,45 @@
 {
-  "updated": "2026-10-22T01:18:23.791Z",
+  "updated": "2026-10-22T07:13:33.109Z",
   "news": [
     {
-      "title": "Tighter rules planned to protect people from botched cosmetic surgery",
+      "title": "60 years on: The Aberfan disaster through the eyes of those who survived",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35ad/live/de1f5220-cc84-11f1-9a39-31b474234113.jpg",
-      "published": "10/21/2026, 1:07:24 AM",
-      "desc": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027."
+      "url": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c88f/live/6b71e290-c948-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/21/2026, 6:37:14 AM",
+      "desc": "It is 60 years since one of Wales' darkest days, when a mining community changed forever."
+    },
+    {
+      "title": "France is divided over who to blame for weekend riots",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
+      "published": "10/21/2026, 6:07:23 AM",
+      "desc": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
+    },
+    {
+      "title": "Tesla and SpaceX: Why does Elon Musk want to merge the companies?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+      "published": "10/21/2026, 5:22:29 AM",
+      "desc": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+    },
+    {
+      "title": "Huge tunnel proposed to tackle sewage blighting Lake Windermere",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66fa/live/87e7d560-cc9f-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/21/2026, 5:22:28 AM",
+      "desc": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+    },
+    {
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f00/live/823692f0-cca9-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/21/2026, 5:22:26 AM",
+      "desc": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected."
     },
     {
       "title": "Newspaper headlines: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
@@ -32,48 +64,128 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac3/live/e306fad0-ccad-11f1-a64c-550be9e3c66b.jpg",
       "published": "10/20/2026, 11:52:18 PM",
       "desc": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath."
-    },
-    {
-      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5913/live/eba0e900-ccc9-11f1-951b-8fbc7a9ea030.png",
-      "published": "10/20/2026, 11:22:23 PM",
-      "desc": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
-    },
-    {
-      "title": "Elon Musk says merger of Tesla and SpaceX would be a 'good idea'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
-      "published": "10/20/2026, 10:37:20 PM",
-      "desc": "Musk says special committees within both companies have been formed to consider a possible mega-merger."
-    },
-    {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4df2/live/1d0fd1d0-ccbc-11f1-a9d7-c180bd1b63e6.jpg",
-      "published": "10/20/2026, 8:37:24 PM",
-      "desc": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
-    },
-    {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg",
-      "published": "10/20/2026, 8:22:28 PM",
-      "desc": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
     }
   ],
   "sports": [
     {
-      "title": "Pistons open season with 22-point comeback vs. Celtics - ESPN",
+      "title": "Spurs' Victor Wembanyama starts 0-for-12 in rough opener vs. OKC - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50233539/pistons-open-season-22-point-comeback-vs-celtics",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733731_1296x729_16%2D9.jpg",
-      "published": "10/21/2026, 1:00:42 AM",
-      "desc": "The Pistons rallied from a 22-point deficit against the Celtics to pull off the largest comeback on the first day of an NBA season in the play-by-play era."
+      "url": "https://www.espn.com/nba/story/_/id/50235327/spurs-victor-wembanyama-misses-first-12-shots-rough-season-opener-vs-thunder",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733818_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 7:08:36 AM",
+      "desc": "Victor Wembanyama didn't record his first bucket until the end of the third quarter and would finish the night shooting a career-worst 8% from the field as the Thunder got their revenge on the Spurs in Tuesday's Western Conference finals rematch."
+    },
+    {
+      "title": "NBA: LeBron James' Philadelphia 76ers beat New York Knicks in the season opener",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b476/live/2a511110-cd11-11f1-92f9-3b44ce9ad221.jpg",
+      "published": "10/21/2026, 6:52:21 AM",
+      "desc": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season."
+    },
+    {
+      "title": "Thunder win chippy opener vs. Spurs, back Chet Holmgren - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50235276/thunder-win-chippy-opener-vs-spurs-back-chet-holmgren",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733821_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 6:49:37 AM",
+      "desc": "The scrap early in the second quarter of Tuesday night's season opener offered some symbolism for Chet Holmgren and his Thunder teammates. Holmgren landed with a thud. As he got back to his feet, his teammates had his back."
+    },
+    {
+      "title": "Steve Tandy: Wales boss on tough Nations Championship calls in World Cup countdown",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c8y5607px4z7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4ea/live/55303330-cc9d-11f1-94e6-edd4c60b2e1d.jpg",
+      "published": "10/21/2026, 6:22:26 AM",
+      "desc": "Wales boss Steve Tandy on making tough Nations Championship selection calls as he counts down to the 2027 World Cup in Australia."
+    },
+    {
+      "title": "Champions League: Cesc Fabregas and Como prepare for historic Man Utd tie",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b9e6/live/9e0ab4e0-cc39-11f1-a64c-550be9e3c66b.jpg",
+      "published": "10/21/2026, 5:37:20 AM",
+      "desc": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United."
+    },
+    {
+      "title": "Mike Brown: Knicks win vs. 76ers wouldn't have been deserved - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50235062/mike-brown-not-felt-good-knicks-win-vs-76ers-given-play",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733816_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 5:31:59 AM",
+      "desc": "Knicks coach Mike Brown would've taken the win against the 76ers -- but wouldn't have been happy with it, acknowledging that relying on late-game magic or the feel-good vibes of ring night wouldn't be enough to start the season on a positive note."
+    },
+    {
+      "title": "Sixers' Joel Embiid has 3 blocks in season opener vs. Knicks - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50234914/sixers-joel-embiid-3-blocks-season-opener-vs-knicks",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733812_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 4:58:52 AM",
+      "desc": "Sixers center Joel Embiid shined in a season-opening win over the Knicks on Tuesday, posting 13 points, 11 rebounds, two steals and three blocks."
+    },
+    {
+      "title": "QB Notebook: Jordan Love Enters The MVP Race; C.J. Stroud Earning Big Extension",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-qb-notebook-jordan-love-mvp-race-cj-stroud-extension",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/dd46966a-16x9-15.jpg?ve=1&tl=1",
+      "published": "10/21/2026, 4:07:19 AM",
+      "desc": "Jordan Love and C.J. Stroud are playing at an elite level after Week 6. Here's what else stood out this past week."
+    },
+    {
+      "title": "76ers win in LeBron James' debut, spoil Knicks' ring night - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50234172/76ers-knicks-lebron-james-debut-championship-night",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733762_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 2:23:25 AM",
+      "desc": "LeBron James began his NBA-record 24th season as Philadelphia sent an opening-night message that it will be a contender for New York's NBA title."
+    },
+    {
+      "title": "2026 NBA Rookie Of The Year Odds: Boozer Favored, Wilson Rising",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nba/2026-2027-nba-rookie-of-the-year-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/9d8cde7d-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/21/2026, 2:07:18 AM",
+      "desc": "Check out the early season odds to win the NBA's Rookie of the Year award."
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: Shanahan Favored; Monken, Johnson Chasing",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/kyle-1020.jpg?ve=1&tl=1",
+      "published": "10/21/2026, 1:37:22 AM",
+      "desc": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 4. Here's the latest."
+    },
+    {
+      "title": "2026 NBA Finals Odds: Spurs, Thunder Favored; Knicks, 76ers Giving Chase",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nba/2026-27-nba-finals-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/7ab2e31f-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/21/2026, 1:37:21 AM",
+      "desc": "See the updated NBA title odds now that the regular season is set to begin."
+    },
+    {
+      "title": "2026 NBA MVP Odds: Wemby Favored Over SGA, Dončić Entering Season",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nba/2026-nba-mvp-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/701c9488-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/21/2026, 1:37:20 AM",
+      "desc": "Is it Wemby's time to win MVP? The odds say he's the early favorite. But he certainly has competition from several previous winners."
+    },
+    {
+      "title": "Source - Red Wings' Dylan Larkin stretches trade list to 10 teams - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50233721/red-wings-dylan-larkin-stretches-trade-list-10-teams",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727131_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 1:29:29 AM",
+      "desc": "Dylan Larkin, whose trade request was made public last June, has told the Red Wings he'd be willing to move to at least seven additional teams, bringing his list of options to 10, a source confirmed to ESPN."
+    },
+    {
+      "title": "NFLPA demands 'full investigation' into Hurts' medical care - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50233573/nflpa-demands-full-investigation-hurts-medical-care",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733718_1296x729_16%2D9.jpg",
+      "published": "10/21/2026, 1:06:33 AM",
+      "desc": "After NFL chief medical officer Allen Sills staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue on Tuesday, the NFLPA issued a statement calling for a \"full investigation\" into his medical care."
     },
     {
       "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
@@ -82,14 +194,6 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/stafford-1020.jpg?ve=1&tl=1",
       "published": "10/21/2026, 12:52:13 AM",
       "desc": "Somehow, the Rams — with a top-five defense and top-five offense — are now favored to miss the playoffs. See the latest odds."
-    },
-    {
-      "title": "2026 NFL OPOY Odds: Kansas City's Kenneth Walker III Back On Top As Favorite",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/kenneth-walker_opoy-odds_nfl_favorite.jpg?ve=1&tl=1",
-      "published": "10/21/2026, 12:07:27 AM",
-      "desc": "One of Kansas City's best offensive weapons is back atop the oddsboard for the 2026 NFL Offensive Player of the Year. Here's the latest."
     },
     {
       "title": "Barcelona Looked Unstoppable; Then They Saw PSG",
@@ -106,113 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2300698759-scaled.jpg?ve=1&tl=1",
       "published": "10/21/2026, 12:07:25 AM",
       "desc": "What to know about Ohio State quarterback Julian Sayin's injury during the Buckeyes' win vs. Indiana."
-    },
-    {
-      "title": "Upon Further Review: Just How Off We Were On Rams, Chargers; Ashton Jeanty A Bust?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-just-how-off-we-were-rams-chargers-ashton-jeanty-bust",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9wild-14.jpg?ve=1&tl=1",
-      "published": "10/21/2026, 12:07:22 AM",
-      "desc": "How were we so wrong in expecting big things from Los Angeles teams this year? And how long before you can say Ashton Jeanty isn't very good?"
-    },
-    {
-      "title": "NFL Trade Deadline: Who Are The 10 Best Players That Could Be Available?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-best-available-players",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/top10-nfltrade-deadline-16x9-1.jpg?ve=1&tl=1",
-      "published": "10/21/2026, 12:07:20 AM",
-      "desc": "Who could be on the move ahead of the Nov. 10 trade deadline? Here are 10 of the best possible names."
-    },
-    {
-      "title": "Carr In, Underwood Out: How Michigan’s Bold QB Move Could Change Its Season",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/byrce-underwood-tommy-carr-michigans-bold-qb-move-could-change-its-season",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-2026-10-20t155618.938.jpg?ve=1&tl=1",
-      "published": "10/20/2026, 11:22:22 PM",
-      "desc": "FOX Sports' Brady Quinn breaks down Michigan’s bold QB change, Tommy Carr’s instant impact and whether the freshman can keep it rolling against Indiana."
-    },
-    {
-      "title": "Champions League sets new goals record this season",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9eff/live/5ab77310-cccd-11f1-a64c-550be9e3c66b.jpg",
-      "published": "10/20/2026, 11:22:20 PM",
-      "desc": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season."
-    },
-    {
-      "title": "NFL: Eagles' approach to Hurts was 'appropriately guarded' - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733690_1296x729_16%2D9.jpg",
-      "published": "10/20/2026, 11:20:21 PM",
-      "desc": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing reporters in a media availability."
-    },
-    {
-      "title": "Ohio State plans to be without Julian Sayin for rest of season - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50232936/ohio-state-plan-julian-sayin-rest-season",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1013%2Fr1730211_1296x729_16%2D9.jpg",
-      "published": "10/20/2026, 11:12:15 PM",
-      "desc": "Buckeyes coach Ryan Day declined to put a timeline on Julian Sayin's recovery but said they are planning to move forward without him through the rest of the year."
-    },
-    {
-      "title": "Liverpool 4-3 Villarreal: Rio Ngumoha shines in comeback win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a154/live/ba9499f0-ccd4-11f1-9a39-31b474234113.jpg",
-      "published": "10/20/2026, 11:07:25 PM",
-      "desc": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel."
-    },
-    {
-      "title": "No Blame Game: Deion Sanders Praises Colorado’s Unity Despite 4-Game Losing Streak",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/deion-sanders-praises-united-colorado-team-amid-4game-skid-points-to-attitude-shift-in-locker-room",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/colorado.jpg?ve=1&tl=1",
-      "published": "10/20/2026, 10:52:18 PM",
-      "desc": "Deion Sanders takes pride in one thing the Colorado Buffaloes aren’t doing in the midst of a four-game skid and that's playing the blame game"
-    },
-    {
-      "title": "Man City 5-1 AEK Athens: Phil Foden 'going in right direction' after five star showing",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46d5/live/a5eba520-ccca-11f1-951b-8fbc7a9ea030.jpg",
-      "published": "10/20/2026, 10:52:18 PM",
-      "desc": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games."
-    },
-    {
-      "title": "Brewers fans cashing in 2015 promo irked by World Series seats - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50232657/brewers-fans-cashing-2015-promo-irked-world-series-seats",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0928%2Fr1723121_1296x729_16%2D9.jpg",
-      "published": "10/20/2026, 10:43:10 PM",
-      "desc": "The Brewers are trying to make amends for not living up \"to the spirit of the program\" stemming from a 2015 \"Timeless Ticket\" promotion if they paid $1,000."
-    },
-    {
-      "title": "Knicks reverse course, hang banner for NBA Cup title - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50232540/knicks-nba-cup-banner-championship-night",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717567_1296x729_16%2D9.jpg",
-      "published": "10/20/2026, 10:24:35 PM",
-      "desc": "The Knicks on Tuesday hung a banner at Madison Square Garden to celebrate the NBA Cup title they won last season."
-    },
-    {
-      "title": "Audit regulator looking into Manchester City accounting",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/969d/live/e4786420-ccb8-11f1-b6d1-8953b372d724.jpg",
-      "published": "10/20/2026, 10:07:19 PM",
-      "desc": "No formal investigation has started, but the regulator is making inquiries into the case."
-    },
-    {
-      "title": "Napoli vs Bodø / Glimt: UEFA Champions League stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cjr4yzgqx4vxt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e08/live/008791f0-4235-11f0-835b-310c7b938e84.jpg",
-      "published": "10/20/2026, 9:37:25 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Napoli vs Bodø / Glimt in the UEFA Champions League"
     }
   ],
   "tech": [
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+      "published": "10/21/2026, 4:57:00 AM",
+      "desc": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak."
+    },
+    {
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "image": "https://images.nintendolife.com/3cae3dc49f114/1280x720.jpg",
+      "published": "10/21/2026, 4:32:42 AM",
+      "desc": "Update: File size spotted on download card"
+    },
+    {
+      "title": "Samsung Galaxy Z Flip 8 Review: Iteration Overshadowed By Innovation - BGR",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2292418/galaxy-z-flip-8-review/",
+      "image": "https://www.bgr.com/img/gallery/samsung-galaxy-z-flip-8-review-iteration-overshadowed-by-innovation/l-intro-1792534467.jpg",
+      "published": "10/21/2026, 1:00:00 AM",
+      "desc": "Samsung's Galaxy Z Flip 8 might be the best clamshell foldable smartphone on the market for the money, but it's just not much of an upgrade over the Z Flip 7."
+    },
     {
       "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
       "source": "Mashable",
@@ -222,12 +246,12 @@
       "desc": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows."
     },
     {
-      "title": "Review: Nintendo Switch Sports Resort (Switch 2) - A Winning Return To Wuhu - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/nintendo-switch-sports-resort",
-      "image": "https://images.nintendolife.com/00a8f51995915/1280x720.jpg",
-      "published": "10/20/2026, 10:11:51 PM",
-      "desc": "Woohoo Island"
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "10/20/2026, 10:48:38 PM",
+      "desc": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer."
     },
     {
       "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
@@ -238,20 +262,12 @@
       "desc": "Xbox maker is also apparently planning its own gaming handheld for next year."
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
-      "published": "10/20/2026, 8:56:43 PM",
-      "desc": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure."
-    },
-    {
-      "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/20/2026, 8:31:00 PM",
-      "desc": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pixel devices...."
+      "title": "Android 17 QPR3 Beta 2 Released for Pixel Phones - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/10/20/android-17-qpr3-beta-2-released-for-pixel-phones/",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-11-Pro-Fold-Review-10.jpg",
+      "published": "10/20/2026, 8:36:39 PM",
+      "desc": "Google released Android 17 QPR3 Beta 2 to all of its still-supported Pixel devices today. If you own a Pixel 6a up through the new Pixel 11 series, you can get an update with fresh software. This latest update has at least 20 fixes and improvements, which is …"
     },
     {
       "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
@@ -260,22 +276,6 @@
       "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2297293547_large_cropped.jpg?w=1121&h=630",
       "published": "10/20/2026, 8:09:34 PM",
       "desc": "Retro gaming fans were given a treat on Tuesday."
-    },
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
-      "published": "10/20/2026, 8:00:00 PM",
-      "desc": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving."
-    },
-    {
-      "title": "John Ternus talks his involvement with design teams at Apple - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/20/2026, 7:51:00 PM",
-      "desc": "John Ternus was interviewed by TIME and addressed a question about his ongoing involvement as CEO with Apple’s design teams."
     }
   ],
   "education": [
@@ -368,7 +368,7 @@
       "title": "Patient Zero",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
     },
@@ -383,15 +383,6 @@
     },
     {
       "rank": 5,
-      "title": "California",
-      "artist": "Michael Kiwanuka",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/87/68/8a8768b3-d686-dac5-25da-fca1ea373114/25UMGIM95889.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/f6/b1/81f6b190-cea3-2492-f7b1-a55c0370de8e/mzaf_7794529527532863053.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/california/1828246469?i=1828246473&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Kiwanuka%20California"
-    },
-    {
-      "rank": 6,
       "title": "Flower In A Hurricane [from GTAVI]",
       "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
@@ -400,13 +391,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 7,
+      "title": "California",
+      "artist": "Michael Kiwanuka",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/87/68/8a8768b3-d686-dac5-25da-fca1ea373114/25UMGIM95889.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/f6/b1/81f6b190-cea3-2492-f7b1-a55c0370de8e/mzaf_7794529527532863053.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/california/1828246469?i=1828246473&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Kiwanuka%20California"
     },
     {
       "rank": 8,
@@ -428,12 +428,12 @@
     },
     {
       "rank": 10,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
     },
     {
       "rank": 11,
@@ -446,15 +446,24 @@
     },
     {
       "rank": 12,
-      "title": "Housewife",
-      "artist": "Tate McRae",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
       "rank": 13,
+      "title": "expectations",
+      "artist": "Olivia Rodrigo & Chappell Roan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
+    },
+    {
+      "rank": 14,
       "title": "Mama, Don't Close Your Eyes",
       "artist": "Bjorn Bonebreaker",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
@@ -463,42 +472,33 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
-    },
-    {
-      "rank": 15,
-      "title": "expectations",
-      "artist": "Olivia Rodrigo & Chappell Roan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Street Fighter",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "rank": 2,
       "title": "Tenzing",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
       "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
       "url": "https://www.themoviedb.org/movie/1288069"
+    },
+    {
+      "rank": 2,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "rank": 3,
@@ -511,41 +511,23 @@
     },
     {
       "rank": 4,
-      "title": "Wildwood",
+      "title": "Practical Magic 2",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 5,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 6,
-      "title": "Matchbox the Movie",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "url": "https://www.themoviedb.org/movie/1148365"
+      "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "url": "https://www.themoviedb.org/movie/1302904"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Phineas and Ferb",
-      "year": "2007",
-      "cert": "U",
-      "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-      "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-      "url": "https://www.themoviedb.org/tv/1877"
+      "title": "The Simpsons",
+      "year": "1989",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "url": "https://www.themoviedb.org/tv/456"
     }
   ]
 }
