@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-21T11:36:47.331Z",
+  "lastUpdated": "2026-10-22T11:35:42.711Z",
   "stats": {
     "total": 365,
-    "withImages": 363,
-    "withoutImages": 2,
-    "percentage": 99,
-    "newlyFetched": 8,
+    "withImages": 355,
+    "withoutImages": 10,
+    "percentage": 97,
+    "newlyFetched": 0,
     "alreadyCached": 357,
-    "failed": 0,
+    "failed": 8,
     "sources": {
       "wikimedia": 163,
       "met": 0,
-      "aic": 8,
+      "aic": 0,
       "school": 194
     }
   },
@@ -2414,8 +2414,8 @@
       "day": 344,
       "title": "The Parakeet and the Mermaid",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-large-decoration-with-masks": {
       "day": 345,
@@ -2442,8 +2442,8 @@
       "day": 348,
       "title": "Creole Dancer",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-chinese-fish": {
       "day": 349,
@@ -2463,8 +2463,8 @@
       "day": 351,
       "title": "Polynesia, the Sky",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-oceania--the-sea": {
       "day": 352,
@@ -2477,8 +2477,8 @@
       "day": 353,
       "title": "Oceania, the Sky",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-two-masks": {
       "day": 354,
@@ -2498,8 +2498,8 @@
       "day": 356,
       "title": "The Codomas",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-the-knife-thrower": {
       "day": 357,
@@ -2512,15 +2512,15 @@
       "day": 358,
       "title": "The Sword Swallower",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-the-burial-of-pierrot": {
       "day": 359,
       "title": "The Burial of Pierrot",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-forms": {
       "day": 360,
@@ -2540,8 +2540,8 @@
       "day": 362,
       "title": "Nightmare of the White Elephant",
       "artist": "Henri Matisse",
-      "imageUrl": "https://www.artic.edu/iiif/2/419ddce3-c90b-3d0c-43b3-73683a87bf98/full/843,/0/default.jpg",
-      "source": "aic"
+      "imageUrl": null,
+      "source": null
     },
     "henri-matisse-lagoon": {
       "day": 363,
