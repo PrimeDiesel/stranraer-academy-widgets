@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-21T10:22:45.187Z",
-  "day": 293,
+  "generated": "2026-10-22T10:21:30.332Z",
+  "day": 294,
   "movie": {
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "title": "An American in Paris",
     "safe": true,
-    "cert": "PG",
+    "cert": "U",
     "source": "tmdb-uk",
-    "year": "2005",
-    "plot": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
-    "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+    "year": "1951",
+    "plot": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+    "poster": "https://image.tmdb.org/t/p/w500/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Kool & The Gang-Celebration",
+    "key": "Alanis Morissette-Ironic",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/28/93/ad2893b3-364e-70d4-96df-e991092fc562/06UMGIM01158.rgb.jpg/600x600bb.jpg",
-    "year": "1980",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/7c/93/e87c93d6-6da7-6ac2-33f0-fe38c92c8fbf/603497826834.jpg/600x600bb.jpg",
+    "year": "1995",
     "v": 4
   },
   "album": {
-    "key": "Aaron Copland-Appalachian Spring",
+    "key": "Godspeed You! Black Emperor-Lift Your Skinny Fists Like Antennas to Heaven",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/85/f4/mzi.myyacnxg.jpg/600x600bb.jpg",
-    "year": "2011",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/ce/23/01ce2303-baef-200d-31b5-30955802918d/cover.jpg/600x600bb.jpg",
+    "year": "2026",
     "v": 4
   }
 }
