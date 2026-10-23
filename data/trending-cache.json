@@ -1,13 +1,61 @@
 {
-  "updated": "2026-10-23T07:04:59.318Z",
+  "updated": "2026-10-23T12:34:19.585Z",
   "news": [
     {
-      "title": "Only one female scientist named in GCSEs, research finds",
+      "title": "Two named storms in two days as Austen and Boelo target UK",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c924/live/f1cca1a0-cd7a-11f1-9a39-31b474234113.jpg",
-      "published": "10/22/2026, 5:52:21 AM",
-      "desc": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications."
+      "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg",
+      "published": "10/22/2026, 11:07:36 AM",
+      "desc": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
+    },
+    {
+      "title": "Retired Woking decorator's Pokémon cards sell for £1.5m",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9d5/live/f05841f0-cdfa-11f1-97f7-a7674fb562de.jpg",
+      "published": "10/22/2026, 11:07:33 AM",
+      "desc": "He says he found treasure in his attic where the collection had been stored for 15 years."
+    },
+    {
+      "title": "Married at First Sight Australia: Police investigate show after 'inappropriate' allegations",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2961/live/b6042340-68e5-11f1-8e1d-bbbb1017d210.jpg",
+      "published": "10/22/2026, 11:07:29 AM",
+      "desc": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
+    },
+    {
+      "title": "Zara Aleena's aunt says new punishments for offenders who skip sentencing 'rebalances power'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f916/live/73a94680-3456-11ef-9511-d706d739bd96.jpg",
+      "published": "10/22/2026, 10:07:23 AM",
+      "desc": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+    },
+    {
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+      "published": "10/22/2026, 8:37:20 AM",
+      "desc": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+    },
+    {
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
+      "published": "10/22/2026, 7:37:30 AM",
+      "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+    },
+    {
+      "title": "PHP: What is it and why did it spark a global cyber security scramble?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
+      "published": "10/22/2026, 7:22:25 AM",
+      "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
     },
     {
       "title": "Dame Judi Dench: I can't do a play, do a film, or read anymore",
@@ -16,72 +64,88 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d15/live/e0601eb0-cd66-11f1-bbdb-c39c91930f26.jpg",
       "published": "10/22/2026, 5:22:17 AM",
       "desc": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life."
-    },
-    {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3366/live/1968e1a0-cdb3-11f1-b589-dd497fb417ac.jpg",
-      "published": "10/22/2026, 5:07:29 AM",
-      "desc": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
-    },
-    {
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ab7/live/cdb28740-cdb5-11f1-b92c-832aba99ee13.jpg",
-      "published": "10/22/2026, 1:52:27 AM",
-      "desc": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
-    },
-    {
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
-      "published": "10/22/2026, 1:52:26 AM",
-      "desc": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
-    },
-    {
-      "title": "The Newspapers: 'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn4mmypko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cbf/live/0a58b350-cda1-11f1-a64c-550be9e3c66b.jpg",
-      "published": "10/22/2026, 1:52:24 AM",
-      "desc": "Several of today's papers continue to follow the \"storm\" surrounding Andy Burnham's decision to approve a new gas field and what that will mean for future ones."
-    },
-    {
-      "title": "The real reasons US politicians are getting older",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg",
-      "published": "10/22/2026, 12:37:24 AM",
-      "desc": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
-    },
-    {
-      "title": "Women take to social media to break the taboo of UTIs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e36e/live/20eafb00-c89c-11f1-b0a4-81e564f1cfaa.jpg",
-      "published": "10/22/2026, 12:37:22 AM",
-      "desc": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs."
     }
   ],
   "sports": [
     {
-      "title": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c6x2v8x7ry17o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b062/live/7e1a54f0-cc9e-11f1-94e6-edd4c60b2e1d.png",
-      "published": "10/22/2026, 6:37:24 AM",
-      "desc": "Fifteen years to the day after they lost at home to Bury in League One, Bournemouth host seven-time champions of Europe AC Milan in the Europa League."
+      "title": "How Texas QB Arch Manning Fell From Projected No. 1 Pick To Potential Benching",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/how-texas-qb-arch-manning-fell-from-projected-no-1-pick-potential-benching",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/2434b58a-manning.jpg?ve=1&tl=1",
+      "published": "10/22/2026, 12:22:26 PM",
+      "desc": "A deep dive into Arch Manning's college tape elucidates how he's struggling and why his NFL draft stock might be tumbling."
     },
     {
-      "title": "BBC Sport's daily football quizzes: Who Am I?, Five in Five and Brainteaser",
+      "title": "Bruno Fernandes: Man Utd captain branded 'disgrace' - what now?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-      "published": "10/22/2026, 6:37:21 AM",
-      "desc": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a15/live/7ce45bc0-cdf8-11f1-97f7-a7674fb562de.jpg",
+      "published": "10/22/2026, 11:22:22 AM",
+      "desc": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?"
+    },
+    {
+      "title": "College Football Week 8 Expert Picks, Predictions For Texas-Ole Miss And More",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-week-8-expert-picks-predictions-texas-ole-miss-more",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/c5355892-16x9_1024.jpg?ve=1&tl=1",
+      "published": "10/22/2026, 11:07:30 AM",
+      "desc": "Here are FOX Sports' expert picks and predictions for Week 8 of the college football season."
+    },
+    {
+      "title": "Henri Schoeman says viral 2016 win over Brownlees led to decade of abuse",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5dc6/live/0f7126d0-ce08-11f1-8991-296181d7e3de.jpg",
+      "published": "10/22/2026, 11:07:21 AM",
+      "desc": "Henri Schoeman, who took a viral 2016 Triathlon World Series Grand Final over Jonny Brownlee, reveals the decade of abuse in the race's aftermath."
+    },
+    {
+      "title": "Clippers open season without owner Steve Ballmer, rout Kings - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50247214/clippers-open-season-owner-steve-ballmer-rout-kings",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734438_1296x729_16%2D9.jpg",
+      "published": "10/22/2026, 10:30:45 AM",
+      "desc": "The Clippers are determined to stay together in the absence of banned owner Steve Ballmer and started the season by routing the Kings 121-96."
+    },
+    {
+      "title": "South Africa v Australia - Cricket - BBC Sport",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/scorecard/e-236998",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/bbc-sport-logo.ebbfcde41a.webp",
+      "published": "10/22/2026, 9:07:21 AM",
+      "desc": "Find out the in depth batting and bowling figures for South Africa v Australia in the Men's International Test Match Series on BBC Sport."
+    },
+    {
+      "title": "Sri Lanka vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/c6wyzx7wlqryt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2688/live/b28f46f0-cdf2-11f1-a64c-550be9e3c66b.jpg",
+      "published": "10/22/2026, 8:52:20 AM",
+      "desc": "England face Sri Lanka as part of a one-day international tri-series in Rawalpindi - follow live scores, radio commentary and updates."
+    },
+    {
+      "title": "BBC Sport weekly quiz: How much did Cristiano Ronaldo get fined?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/articles/c51kdwym8ej3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d0f2/live/36505680-ccce-11f1-9a39-31b474234113.png",
+      "published": "10/22/2026, 7:52:27 AM",
+      "desc": "How much attention have you paid to what's happened in the world of sport over the past seven days?"
+    },
+    {
+      "title": "Manchester United reaction LIVE: Fernandes questions Carrick's tactics",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cvn06rl5yz8jt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e487/live/63d846d0-cde1-11f1-a64c-550be9e3c66b.png",
+      "published": "10/22/2026, 7:52:24 AM",
+      "desc": "Manchester United reaction as the pressure increases on manager Michael Carrick after a 4-1 defeat to Como in the Champions League."
+    },
+    {
+      "title": "Warriors' Yaxel Lendeborg 'lost all respect' for Luka Doncic - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734401_1296x729_16%2D9.jpg",
+      "published": "10/22/2026, 6:52:28 AM",
+      "desc": "Yaxel Lendeborg said it was an \"interesting first game for me\" after defending the Lakers superstar in his professional debut."
     },
     {
       "title": "NFL Awards Ballot: Can Josh Allen Run His Way To MVP? Will Kenneth Walker Buck Trend?",
@@ -98,14 +162,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e87/live/8e1311a0-cd78-11f1-9a39-31b474234113.jpg",
       "published": "10/22/2026, 5:52:21 AM",
       "desc": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50."
-    },
-    {
-      "title": "Tyrese Haliburton leads Pacers' win in emotional return - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50245316/tyrese-haliburton-leads-pacers-opening-night-win-vs-pelicans-emotional-return-injury",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734375_1024x576_16%2D9.jpg",
-      "published": "10/22/2026, 4:49:05 AM",
-      "desc": "An emotional Tyrese Haliburton made his long-awaited return from the Achilles tear he suffered in Game 7 of the 2025 NBA Finals, as he lead the Pacers to a gritty season-opening win over the Pelicans."
     },
     {
       "title": "Giannis Antetokounmpo says Heat need to trust each other more - ESPN",
@@ -154,65 +210,41 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/sam-laporta.jpg?ve=1&tl=1",
       "published": "10/22/2026, 1:52:23 AM",
       "desc": "Sam LaPorta’s time in Detroit could be coming to an end as the tight end's contract negotiations loom."
-    },
-    {
-      "title": "No Elite Teams In The NFL This Year? 49ers, Chiefs Lead Through Seven Weeks",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/no-elite-teams-nfl-year-49ers-chiefs-lead-weird-season",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/c96c44fb-nicks-tiers.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 1:37:13 AM",
-      "desc": "Nick Wright has the 49ers atop his Week 7 tiers, with the Chiefs right behind them, and a history lesson Wright says should worry San Francisco."
-    },
-    {
-      "title": "NFL Trade Deadline: The Top Trade Candidate On All 32 Teams",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-top-trade-candidate-all-32-teams",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-29.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 1:07:28 AM",
-      "desc": "Not every team will trade a player ahead of the deadline, but we look at the possible trade candidate for all 32 squads."
-    },
-    {
-      "title": "Dream arrange suite for Enes Kanter Freedom over safety concerns - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50242728/dream-arrange-suite-enes-kanter-freedom-game-3-wnba-finals-address-safety-concerns",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734270_1296x729_16%2D9.jpg",
-      "published": "10/21/2026, 11:45:34 PM",
-      "desc": "The Atlanta Dream and State Farm Arena arranged for former NBA player Enes Kanter Freedom to have a private suite for his protection at Wednesday night's Game 3 of the WNBA Final against the Golden State Valkyries."
-    },
-    {
-      "title": "Bayern Munich: 'Ridiculous' Harry Kane underlines Ballon D'or credentials",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/06b1/live/84b0cef0-cd9f-11f1-9a39-31b474234113.png",
-      "published": "10/21/2026, 11:22:23 PM",
-      "desc": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League."
-    },
-    {
-      "title": "Bukayo Saka's injury 'does not look good at all' - Arsenal boss Mikel Arteta",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg",
-      "published": "10/21/2026, 11:07:21 PM",
-      "desc": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\"."
-    },
-    {
-      "title": "Como 4-1 Manchester United: Michael Carrick job in jeopardy after Champions League humiliation",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cwe8l3zeexvvt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a3a/live/187c18d0-cd80-11f1-b1e7-39558e114359.jpg",
-      "published": "10/21/2026, 10:52:26 PM",
-      "desc": "Manchester United suffer one of the worst European nights in their history against Como to pile the pressure on beleaguered boss Michael Carrick."
-    },
-    {
-      "title": "Tom Brady's NFL Power Rankings: Are The Patriots The Best Non-Undefeated Team?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-49ers-chiefs-vikings-patriots",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/26brady-power-rankings-week-6-a.png?ve=1&tl=1",
-      "published": "10/21/2026, 10:52:25 PM",
-      "desc": "The top three of Tom Brady's most recent power rankings was pretty simple. After that, things get tough as Brady threw a surprise in his most recent rankings."
     }
   ],
   "tech": [
+    {
+      "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List - Phoronix",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "image": "https://www.phoronix.net/image.php?id=2026&image=public_zdi",
+      "published": "10/22/2026, 10:05:00 AM",
+      "desc": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list"
+    },
+    {
+      "title": "Does the Fitbit Edge have NFC? Here's what Google says - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/does-fitbit-edge-have-nfc-3726486/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg",
+      "published": "10/22/2026, 6:12:00 AM",
+      "desc": "The Fitbit Edge launched earlier this month, but does this new wearable have NFC? Here's what Google told us."
+    },
+    {
+      "title": "NYT Strands hints, answers for October 21, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-21-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/00DGd9CtCeXG3WYMtMqT2SW/hero-image.fill.size_1200x675.v1792143192.jpg",
+      "published": "10/22/2026, 4:50:35 AM",
+      "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle."
+    },
+    {
+      "title": "BioWare closed by EA after 30 years of influential, genre-defining games - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/10/21/bioware-closed-by-ea-after-30-years-influential-genre-defining-games/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FXFAL7XYDIBAE5FQ2OAMTXSCPOU.jpg&w=1200",
+      "published": "10/22/2026, 4:00:00 AM",
+      "desc": "Development on the next Mass Effect game has been discontinued."
+    },
     {
       "title": "T-Mobile Is Giving Away Free iPad A16s For One Day Only - The Mobile Report",
       "source": "Tmo.report",
@@ -236,38 +268,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "10/21/2026, 11:46:45 PM",
       "desc": "A YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is “not testing hiding the dislike button on YouTube for users.”"
-    },
-    {
-      "title": "iPhone Duo Reviewers Really Miss Face ID - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/",
-      "image": "https://images.macrumors.com/t/gb26cGqhspJccA-wo07j2mXbIS4=/2880x/article-new/2026/09/iPhone-Duo-Open-large.png",
-      "published": "10/21/2026, 11:27:21 PM",
-      "desc": "Touch ID on the iPhone Duo might end up being frustrating for some users, based on media reviews that came out today. Multiple reviewers found Touch..."
-    },
-    {
-      "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/21/2026, 11:16:00 PM",
-      "desc": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day."
-    },
-    {
-      "title": "1970 Chevy Camaro For Sale With 90,000 Miles Shown Packs Supercharged V8 And 5-Speed Stick - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2293712/1970-chevrolet-camaro-pro-street-build-90000-miles-supercharged-v8-5-speed/",
-      "image": "https://www.jalopnik.com/img/gallery/1970-chevy-camaro-for-sale-with-90000-miles-shown-packs-supercharged-v8-and-5-speed-stick/l-intro-1792622288.jpg",
-      "published": "10/21/2026, 10:46:42 PM",
-      "desc": "Highly modified but in excellent condition, this supercharged 1970 Camaro is being offered for sale at a price that rivals the new Mustang Dark Horse."
-    },
-    {
-      "title": "Octupole-driven spin torque switching of antiferromagnetic tunnel junctions - Nature",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11172-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11172-5/MediaObjects/41586_2026_11172_Fig1_HTML.png",
-      "published": "10/21/2026, 10:46:06 PM",
-      "desc": "All-antiferromagnetic tunnel junctions can display both a large TMR and a reciprocal switching effect, octupole-driven spin-transfer torque, enabling nanoscale magnetic memory and potentially room-temperature terahertz spintronic devices."
     }
   ],
   "education": [
@@ -357,24 +357,6 @@
     },
     {
       "rank": 3,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
-    },
-    {
-      "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
@@ -383,13 +365,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
+    },
+    {
+      "rank": 5,
       "title": "Taking our power back",
       "artist": "Peacefuldan",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/4b/85/374b8585-0bea-a97b-0951-968527aea48e/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/b0/4a/16b04acc-9667-b909-527b-5342ca60b691/mzaf_18211347870122037149.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/taking-our-power-back/6823723574?i=6823723575&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Peacefuldan%20Taking%20our%20power%20back"
+    },
+    {
+      "rank": 6,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 7,
@@ -402,15 +402,6 @@
     },
     {
       "rank": 8,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 9,
       "title": "Flower In A Hurricane [from GTAVI]",
       "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
@@ -419,22 +410,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
     },
     {
+      "rank": 9,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
       "rank": 10,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    },
+    {
+      "rank": 11,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
-    },
-    {
-      "rank": 11,
-      "title": "Housewife",
-      "artist": "Tate McRae",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
     },
     {
       "rank": 12,
@@ -447,6 +447,15 @@
     },
     {
       "rank": 13,
+      "title": "Wrapped in Gold",
+      "artist": "Tom Grennan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/19/2e/76192e65-6539-2cb3-6032-8c30abd87073/196874839300.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/97/99/b997992d-31b1-c4ba-fe3c-4d89413f6d40/mzaf_1719776246333759805.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wrapped-in-gold/6817441865?i=6817441867&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Tom%20Grennan%20Wrapped%20in%20Gold"
+    },
+    {
+      "rank": 14,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -455,27 +464,27 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
-      "rank": 14,
-      "title": "expectations",
-      "artist": "Olivia Rodrigo & Chappell Roan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
-    },
-    {
       "rank": 15,
-      "title": "White Christmas (2026 Version)",
-      "artist": "Cliff Richard",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/2f/56/9c2f560f-a9aa-1dc3-aff5-4a4d76eecd69/1200214965921.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/ef/92/e9ef92ad-0ecb-1386-c9d8-aac1491a5086/mzaf_5395742248299711670.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/white-christmas-2026-version/6808349010?i=6808349168&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Cliff%20Richard%20White%20Christmas%20(2026%20Version)"
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
     }
   ],
   "movies": [
     {
       "rank": 1,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
       "title": "Tenzing",
       "year": "2026",
       "cert": "12",
@@ -484,22 +493,13 @@
       "url": "https://www.themoviedb.org/movie/1288069"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Street Fighter",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
       "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "rank": 3,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
     },
     {
       "rank": 4,
@@ -509,26 +509,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "url": "https://www.themoviedb.org/movie/1148365"
-    },
-    {
-      "rank": 5,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
-  "tv": [
-    {
-      "rank": 1,
-      "title": "The Simpsons",
-      "year": "1989",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "url": "https://www.themoviedb.org/tv/456"
-    }
-  ]
+  "tv": []
 }
