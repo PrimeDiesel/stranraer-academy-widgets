@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-24T00:19:44.822Z",
+  "updated": "2026-10-24T05:28:10.909Z",
   "news": [
+    {
+      "title": "UK weather: Amber warning in place as Storm Austen hits parts of UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e2e2/live/63d08560-ce33-11f1-a86f-f78305ec9987.jpg",
+      "published": "10/23/2026, 12:37:22 AM",
+      "desc": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+    },
     {
       "title": "Newspaper headlines: 'Prepare for the worst' and 'Covid report fallout'",
       "source": "BBC News",
@@ -34,14 +42,6 @@
       "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
     },
     {
-      "title": "Items recovered in search for missing fishing boat and crew",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/144f/live/6f304600-c88b-11f1-bc2e-018d645d8d21.png",
-      "published": "10/22/2026, 10:07:24 PM",
-      "desc": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea."
-    },
-    {
       "title": "Prince William makes surprise appearance on Graham Norton",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo",
@@ -50,23 +50,119 @@
       "desc": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
     },
     {
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4a1/live/7169fdc0-ce3b-11f1-9a39-31b474234113.jpg",
-      "published": "10/22/2026, 5:37:25 PM",
-      "desc": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-    },
-    {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7ce/live/a18b7e00-ce38-11f1-a86f-f78305ec9987.jpg",
       "published": "10/22/2026, 5:07:19 PM",
       "desc": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
+    },
+    {
+      "title": "Streeting: UK should be ready for emergencies and hostile acts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e195/live/78f97610-ce31-11f1-9f18-490cec60aa0f.jpg",
+      "published": "10/22/2026, 4:37:28 PM",
+      "desc": "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks."
     }
   ],
   "sports": [
+    {
+      "title": "Premier League predictions: Chris Sutton v Waffle the Wonder Dog and his owner, Simon - & AI",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png",
+      "published": "10/23/2026, 5:37:22 AM",
+      "desc": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+    },
+    {
+      "title": "Luke Littler: Fallon Sherrock one of 24 'amateurs' to face world champion in Netflix show",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92d9/live/7cdefb60-ce36-11f1-a86f-f78305ec9987.jpg",
+      "published": "10/23/2026, 5:22:26 AM",
+      "desc": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special."
+    },
+    {
+      "title": "Bruno Fernandes has home burgled while in Italy with Man Utd",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b70/live/03f9d3e0-ce3c-11f1-a86f-f78305ec9987.jpg",
+      "published": "10/23/2026, 5:22:24 AM",
+      "desc": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como."
+    },
+    {
+      "title": "Gilgeous-Alexander's record 20-point streak ends in Thunder win - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50255402/gilgeous-alexander-record-20-point-streak-ends-thunder-win",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734913_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 4:46:59 AM",
+      "desc": "Shai Gilgeous-Alexander's historic streak of 20-point games ended Thursday night when he finished with 17 in a 96-84 win over the Nuggets."
+    },
+    {
+      "title": "Caleb Williams Outduels Drake Maye: 4 Takeaways From The Bears' Win",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-vs-chicago-bears-takeaways-october-22",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/32aae0df-nfl-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 4:22:22 AM",
+      "desc": "Two of the NFL's best young quarterbacks were on full display on Thursday night, when Caleb Williams' Bears beat Drake Maye's Patriots."
+    },
+    {
+      "title": "Mentor, Head Honcho, Captain: Christian Yelich Epitomizes The Brewers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/brewers-rays-world-series-yelich-captain",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/6890334b-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 3:37:22 AM",
+      "desc": "Christian Yelich earned the 'C' he wears on his jersey long before being named the Brewers captain."
+    },
+    {
+      "title": "Appalachian State hands James Madison first loss of season - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50254942/appalachian-state-james-madison-first-loss-over",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734901_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 3:33:31 AM",
+      "desc": "James London kicked a 40-yard field goal in overtime to give Appalachian State the win Thursday night and leave just five unbeaten teams in the FBS."
+    },
+    {
+      "title": "Harvey’s Wallbangers, Meet Murphy’s Smallballers: Brewers Know When To Use Their Power",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/harveys-wallbangers-meet-murphys-smallballers-who-know-when-swing-big",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/d5cc24a8-mlb-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 3:07:22 AM",
+      "desc": "The Brewers can turn up the power when necessary, but the 2026 Crew is built on small ball."
+    },
+    {
+      "title": "MLB Hitters Share What It's Like To Face Jacob Misiorowski: 'Swing And Pray'",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/jacob-misiorowski-100-mph-pitches-brewers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/c97a1445-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 3:07:20 AM",
+      "desc": "Beyond his triple-digit heat, here's what sticks out most to the hitters who have seen NL Cy Young favorite Jacob Misiorowski."
+    },
+    {
+      "title": "Why Tom Brady Believes A Pair Of Veteran QBs Throw The Prettiest Passes In The NFL",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/why-tom-brady-believes-pair-veteran-qbs-throw-prettiest-passes-nfl",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/asktom-editorial.png?ve=1&tl=1",
+      "published": "10/23/2026, 12:52:23 AM",
+      "desc": "Tom Brady was quick to name a pair of star veteran QBs when he was asked who throws the prettiest passes."
+    },
+    {
+      "title": "Hall of Famer Marshall Faulk reveals Parkinson's diagnosis - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734807_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 12:51:19 AM",
+      "desc": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\""
+    },
+    {
+      "title": "Panthers' Cooper Black becomes NHL's tallest goalie at 6-9 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/50253433/panthers-cooper-black-becomes-nhl-tallest-goalie-6-9",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734811_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 12:26:50 AM",
+      "desc": "The 6-9 Cooper Black is listed as 2 inches taller than the goalies who previously held the mark -- Ben Bishop, Ivan Fedotov, Mads Sogaard and Mikko Koskinen."
+    },
     {
       "title": "More Bad News For Rams: Star WR Puka Nacua Leaves Practice Early With Calf Injury",
       "source": "Fox Sports",
@@ -108,174 +204,78 @@
       "desc": "Live updates and highlights for the New England Patriots and Chicago Bears from Thursday Night Football."
     },
     {
-      "title": "The Bryce Underwood Experiment Has Become A Cautionary Tale For College Football",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/michigan-bryce-underwood-nil-high-school-quarterbacks",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-1-95.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 11:22:23 PM",
-      "desc": "Bryce Underwood’s costly Michigan NIL deal is raising questions about high school recruiting, quarterback evaluation and how college football front offices spend big. Ben Portnoy has the story."
-    },
-    {
       "title": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b61c/live/985c86b0-ce67-11f1-ab75-d744dbb6f3f7.jpg",
       "published": "10/22/2026, 11:07:20 PM",
       "desc": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda by saying people should \"approach it with humility\"."
-    },
-    {
-      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/468f/live/8a28a310-ce5f-11f1-a166-e30097724580.jpg",
-      "published": "10/22/2026, 11:07:17 PM",
-      "desc": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?"
-    },
-    {
-      "title": "Rays opt for Nick Martinez to open World Series vs. Brewers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50252981/rays-opt-nick-martinez-open-world-series-vs-brewers",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1008%2Fr1727590_1296x729_16%2D9.jpg",
-      "published": "10/22/2026, 11:01:54 PM",
-      "desc": "In a bit of a curveball, the Rays will start Nick Martinez, and not staff ace Drew Rasmussen, in Game 1 of the World Series against the Brewers."
-    },
-    {
-      "title": "The 20-Year-Old Behind Two-Minute Drill — And A Story Bigger Than The Game",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/two-minute-drill-viral-game-tennessee-commanders-giants-nfl",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/cfb-two-min-drill-game-16x9-1.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 10:52:21 PM",
-      "desc": "Tennessee student Max Ashton built a viral football game in two days. His story of perseverance goes far beyond the gridiron."
-    },
-    {
-      "title": "bet365 Bonus Code FOX365: Claim up to $200 in Bonus Bets for Bears vs. Patriots",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/betting/bet365-bonus-code-fox365-claim-up-200-bonus-bets-bears-vs-patriots",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/bears-scaled.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 10:52:19 PM",
-      "desc": "bet365 Bonus Code FOX365: Claim up to $200 in Bonus Bets for Bears vs. Patriots."
-    },
-    {
-      "title": "Stephen Vogt back to Guardians in '27, shuns Mariners rumors - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50252938/stephen-vogt-back-guardians-27-shuns-mariners-rumors",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1119%2Fr1417098_1296x729_16%2D9.jpg",
-      "published": "10/22/2026, 10:50:16 PM",
-      "desc": "Guardians manager Stephen Vogt dispelled speculation about his future, saying he'll return next season to chase an elusive World Series title."
-    },
-    {
-      "title": "Co-defendant denies Billups gave him info in NBA gambling case - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50252916/co-defendant-denies-billups-gave-info-nba-gambling-case",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0305%2Fr1623688_1296x729_16%2D9.jpg",
-      "published": "10/22/2026, 10:44:07 PM",
-      "desc": "Eric Earnest pleaded guilty to conspiracy to commit wire fraud Thursday but denied receiving inside information from former NBA player and coach Chauncey Billups."
-    },
-    {
-      "title": "United States Grand Prix: Max Verstappen says Austin track bumps 'unacceptable' and 'out of control'",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg",
-      "published": "10/22/2026, 10:37:22 PM",
-      "desc": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\"."
-    },
-    {
-      "title": "USA Will Play Both Nations League Matches vs. Haiti On Homesoil",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-nations-league-haiti-schedule-miami-cincinnati",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/usmntw.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 10:22:21 PM",
-      "desc": "The United States will host both legs of November's Concacaf Nations League quarterfinal series with Haiti."
-    },
-    {
-      "title": "How 2026 Tampa Bay Rays Were Cobbled Together To Become AL Champions",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/rays-roster-stats-brewers-records-2026-world-series",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/1c9db473-rays2.jpg?ve=1&tl=1",
-      "published": "10/22/2026, 10:07:23 PM",
-      "desc": "The Rays won an AL-best 98 games. The irony? The majority of their core is players who didn't originally come up through the organization."
-    },
-    {
-      "title": "James Anderson: Counties keen to speak to seamer after Lancashire exit",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e85/live/667f1180-ce5d-11f1-a166-e30097724580.jpg",
-      "published": "10/22/2026, 10:07:21 PM",
-      "desc": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire."
-    },
-    {
-      "title": "Source - Several teams interested in Colts' Jonathan Taylor - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50252635/several-teams-interested-trade-colts-jonathan-taylor",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717667_4_1296x729_16%2D9.jpg",
-      "published": "10/22/2026, 10:01:52 PM",
-      "desc": "As the Colts plot their next moves after firing GM Chris Ballard, a source told ESPN that several teams would be open to a potential trade for Jonathan Taylor."
     }
   ],
   "tech": [
     {
-      "title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
-      "image": "https://images.unsplash.com/photo-1758648998701-81cb2b33fa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG11ZHxlbnwwfHx8fDE3OTI2OTY4NTJ8MA&ixlib=rb-4.1.0&q=80&w=2000",
-      "published": "10/22/2026, 8:44:30 PM",
-      "desc": "The explosion in vibe coding has created an endless sea of drive-by, unserious, and unmaintained software that is destabilizing longstanding communities."
+      "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
+      "source": "Theautopian.com",
+      "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+      "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cs_discovery_s_top.jpg",
+      "published": "10/23/2026, 3:11:14 AM",
+      "desc": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the shuttles in National Geographic foldouts, where they even to…"
     },
     {
-      "title": "Valve Employee Accidentally Mentions Half-Life 3 Codename For The First Time Ever - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
-      "image": "https://kotaku.com/app/uploads/2025/11/hl3-1200x675.jpg",
-      "published": "10/22/2026, 7:04:14 PM",
-      "desc": "Wait a minute, what's HLX?"
+      "title": "You Should Enable This Chrome Feature That Flags Suspicious Websites - Lifehacker",
+      "source": "Lifehacker.com",
+      "url": "https://lifehacker.com/tech/you-should-enable-this-chrome-feature-that-flags-suspicious-websites",
+      "image": "https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.fill.size_1200x675.jpg",
+      "published": "10/23/2026, 2:14:22 AM",
+      "desc": "Google will warn you if you navigate to a site that looks like other known scams."
     },
     {
-      "title": "Canva releases its first image generation model - TechCrunch",
+      "title": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next - A.V. Club",
+      "source": "The A.V. Club",
+      "url": "https://www.avclub.com/sony-discontinues-4k-blu-ray-players",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/23/sony-logo-feature.jpg",
+      "published": "10/23/2026, 2:14:00 AM",
+      "desc": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next"
+    },
+    {
+      "title": "3 Game Boy games added to Nintendo Classics - My Nintendo News",
+      "source": "My Nintendo News",
+      "url": "https://mynintendonews.com/2026/10/23/3-game-boy-games-added-to-nintendo-classics/",
+      "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/02/game_boy_nintendo_classics.png?fit=2400%2C1350&ssl=1",
+      "published": "10/23/2026, 1:45:10 AM",
+      "desc": "Nintendo has added three more classic Game Boy games to Nintendo Switch Online: Revenge of the ‘Gator, Avenging Spirit, and Mole Mania."
+    },
+    {
+      "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/microsoft-announces-per-hour-cost-for-xbox-cloud-gaming-service-2000829538",
+      "image": "https://gizmodo.com/app/uploads/2026/10/Xbox-Nano-Controller-and-Xbox-Wireless-Controller-1200x675.jpg",
+      "published": "10/23/2026, 12:46:37 AM",
+      "desc": "You're on the clock, kids."
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
-      "published": "10/22/2026, 7:00:00 PM",
-      "desc": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "published": "10/23/2026, 12:45:37 AM",
+      "desc": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
     },
     {
-      "title": "Delta can turn the iPhone Duo into your favorite folding handheld - The Verge",
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it? - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "10/22/2026, 6:30:00 PM",
-      "desc": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple’s iPhone Duo"
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "10/22/2026, 11:00:00 PM",
+      "desc": "After a report that Microsoft’s Xbox Helix might cost $1,800, The Verge explores the possibilities."
     },
     {
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-11.12.28-AM.png?quality=90&strip=all&crop=0%2C2.9970884307556%2C100%2C94.005823138489&w=1200",
-      "published": "10/22/2026, 6:14:24 PM",
-      "desc": "EA has shut down BioWare and canceled the studio’s new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer ends with the subtitle “Mass Effect: Universe.”"
-    },
-    {
-      "title": "Survive the Pitch: Five Nights at Freddy's Haunts Rocket League - Rocket League ®",
-      "source": "Rocketleague.com",
-      "url": "https://www.rocketleague.com/news/survive-the-pitch-five-nights-at-freddys-haunts-rocket-league",
-      "image": "https://cms-assets.unrealengine.com/cmkr1i7c9047e07n0es5291ez/cmvi6oqmjopzl07mqo2pdykxj",
-      "published": "10/22/2026, 6:12:46 PM",
-      "desc": "Haunted Hallows returns to Rocket League from October 22 at 9 AM PT through November 2 at 9 AM PT, and this year the animatronic crew from Five Nights at Freddy's has taken over the pitch."
-    },
-    {
-      "title": "Apple Pulls Keynote, Pages and Numbers From App Store - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
-      "image": "https://images.macrumors.com/t/qUEJgXn5mTD02eCK2VbfApTX9wU=/2500x/article-new/2026/01/Apple-Creator-Studio-iWork-suite.jpg",
-      "published": "10/22/2026, 6:01:29 PM",
-      "desc": "Apple has temporarily removed Keynote, Pages, and Numbers from the App Store, just after releasing an update that added iPhone Duo support and a new..."
-    },
-    {
-      "title": "Steam Pricing Analyst Found Hollow Knight: Silksong's $20 Price Annoying: 'I Was A Bit Like, Oh God, Please Price It Higher' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802",
-      "image": "https://kotaku.com/app/uploads/2024/02/3f455027d982fb22c877ebf6c8470972.jpg",
-      "published": "10/22/2026, 6:00:53 PM",
-      "desc": "Indie devs are facing tighter pricing pressures than ever"
+      "title": "Switch 2 jailbreak gives hackers new ways to run homebrew and mod games - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png",
+      "published": "10/22/2026, 10:25:33 PM",
+      "desc": "Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
     }
   ],
   "education": [
@@ -365,21 +365,21 @@
     },
     {
       "rank": 3,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 4,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+    },
+    {
+      "rank": 4,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
     },
     {
       "rank": 5,
@@ -410,6 +410,15 @@
     },
     {
       "rank": 8,
+      "title": "Taking our power back",
+      "artist": "Peacefuldan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/4b/85/374b8585-0bea-a97b-0951-968527aea48e/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/b0/4a/16b04acc-9667-b909-527b-5342ca60b691/mzaf_18211347870122037149.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/taking-our-power-back/6823723574?i=6823723575&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Peacefuldan%20Taking%20our%20power%20back"
+    },
+    {
+      "rank": 9,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -418,22 +427,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Wrapped in Gold",
       "artist": "Tom Grennan",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/19/2e/76192e65-6539-2cb3-6032-8c30abd87073/196874839300.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/97/99/b997992d-31b1-c4ba-fe3c-4d89413f6d40/mzaf_1719776246333759805.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/wrapped-in-gold/6817441865?i=6817441867&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Tom%20Grennan%20Wrapped%20in%20Gold"
-    },
-    {
-      "rank": 10,
-      "title": "Taking our power back",
-      "artist": "Peacefuldan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/4b/85/374b8585-0bea-a97b-0951-968527aea48e/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/b0/4a/16b04acc-9667-b909-527b-5342ca60b691/mzaf_18211347870122037149.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/taking-our-power-back/6823723574?i=6823723575&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Peacefuldan%20Taking%20our%20power%20back"
     },
     {
       "rank": 11,
@@ -446,24 +446,6 @@
     },
     {
       "rank": 12,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
-    },
-    {
-      "rank": 13,
-      "title": "Housewife",
-      "artist": "Tate McRae",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/27/d4/0527d4f3-f6af-1ef8-6a32-25477b7b00ba/mzaf_18270786579537755861.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
-    },
-    {
-      "rank": 14,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -472,13 +454,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 14,
       "title": "Circles",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/4a/e8/0f4ae8df-7600-3d10-020f-0dd6e2735c98/mzaf_636300124284194990.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+    },
+    {
+      "rank": 15,
+      "title": "Drip",
+      "artist": "ATEEZ",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/c5/84/c3c5844d-602e-e7b7-1efa-2b6bdddc9141/196874851814.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/b4/25/eab425c4-eb7d-2a93-060c-658546351088/mzaf_14094138891772943357.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/drip/6819587309?i=6819587772&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=ATEEZ%20Drip"
     }
   ],
   "movies": [
@@ -511,21 +511,21 @@
     },
     {
       "rank": 4,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 5,
       "title": "Wildwood",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
       "url": "https://www.themoviedb.org/movie/791523"
+    },
+    {
+      "rank": 5,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": []
