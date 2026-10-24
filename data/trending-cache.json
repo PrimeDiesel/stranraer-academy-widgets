@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T20:23:13.667Z",
+  "updated": "2026-10-24T22:56:49.714Z",
   "news": [
+    {
+      "title": "Freed US citizen Stephen Hubbard was tortured in Russian jail, former Ukrainian prisoners say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
+      "published": "10/23/2026, 9:22:22 PM",
+      "desc": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+    },
+    {
+      "title": "GP says she was forced out of job after raising concerns about gender treatment",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f9/live/dbfea4d0-ce20-11f1-906e-e3128518d85d.jpg",
+      "published": "10/23/2026, 8:22:26 PM",
+      "desc": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors."
+    },
     {
       "title": "Storm Austen: Strong winds and heavy rain batter southern UK",
       "source": "BBC News",
@@ -16,22 +32,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d629/live/fafec820-cf0a-11f1-a701-fddedf244c16.jpg",
       "published": "10/23/2026, 6:22:22 PM",
       "desc": "Today, without exactly using the word, Meghan claimed vindication."
-    },
-    {
-      "title": "Trump says Burnham is 'getting it done' after Jackdaw decision",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfdd/live/e8088930-cefc-11f1-accf-3309656ad0bb.jpg",
-      "published": "10/23/2026, 6:07:26 PM",
-      "desc": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field."
-    },
-    {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
-      "published": "10/23/2026, 5:52:18 PM",
-      "desc": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
     },
     {
       "title": "Vincent Kompany: Bayern Munich manager taken to hospital after collapsing",
@@ -68,12 +68,108 @@
   ],
   "sports": [
     {
+      "title": "Canada vs England LIVE: WXV Global Series 2026 - scores & stream",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cqm2671mnzzyt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3856/live/90a7ebd0-cec1-11f1-93e1-3b657b665bcf.jpg",
+      "published": "10/23/2026, 10:52:14 PM",
+      "desc": "Watch live BBC Sport coverage as Canada host England in the WXV Global Series at TD Place Stadium, Ottawa."
+    },
+    {
+      "title": "US Grand Prix: Charles Leclerc sets Austin practice pace from Kimi Antonelli",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a42/live/e60f9400-cf2b-11f1-89f6-f5ef8a187796.jpg",
+      "published": "10/23/2026, 10:37:20 PM",
+      "desc": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix."
+    },
+    {
+      "title": "Giants LB Tremaine Edmunds (chest) out for year, source says - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1735221_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 9:53:43 PM",
+      "desc": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wore the green dot to make the calls on defense."
+    },
+    {
+      "title": "Indiana Fever fire general manager Amber Cox, sources say - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50260814/indiana-fever-fire-general-manager-amber-cox",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1735219_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 9:49:50 PM",
+      "desc": "The Indiana Fever have fired general manager Amber Cox, sources confirmed to ESPN, hours after the team announced that president Kelly Krauskopf had stepped down from her position."
+    },
+    {
+      "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733220_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 9:25:58 PM",
+      "desc": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons."
+    },
+    {
+      "title": "World Series Game 1 Highlights: The Miz Leads The Brewers Against The Rays",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/mlb/world-series-game-1-highlights-miz-leads-brewers-against-rays",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1408/814/63c526f4-16x9_960.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 9:22:24 PM",
+      "desc": "Follow along for the top moments and result from Game 1 of the 2026 World Series."
+    },
+    {
+      "title": "Cowboys say still time to turn things around after 2-4 start - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0105%2Fr1434865_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 9:15:37 PM",
+      "desc": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start."
+    },
+    {
+      "title": "Packers LB Zaire Franklin To Miss Sunday's Game Against Lions With Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-zaire-franklin-injury",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/packersh1.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 8:37:23 PM",
+      "desc": "Green Bay linebacker Zaire Franklin has a shin injury that will keep the Packers' second-leading tackler from playing Sunday at Detroit."
+    },
+    {
+      "title": "Chris 'The Bear' Fallica's College Football Week 8 Expert Picks, Best Bets",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-college-football-week-8-expert-picks-best-bets",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/week-8-best-betsartboard-1.png?ve=1&tl=1",
+      "published": "10/23/2026, 8:37:22 PM",
+      "desc": "\"The Bear\" is back with his expert picks and best bets for college football Week 8. Here's how he's wagering on this weekend's action."
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Favored; Nabers Rising",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/chiefs-915.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 8:37:21 PM",
+      "desc": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but one Giant's odds are getting shorter. Here's the latest."
+    },
+    {
+      "title": "Favorite 'Dogs: Back Ole Miss Over Texas; Falcons To Upset 49ers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-ole-miss-over-texas-falcons-upset-49ers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-1-58.jpg?ve=1&tl=1",
+      "published": "10/23/2026, 8:37:19 PM",
+      "desc": "Find out why Will Hill is backing Ole Miss to give Texas its third consecutive loss and why he believes the Falcons will put a blemish on the 49ers' record."
+    },
+    {
       "title": "INDYCAR To Race At Barcelona Circuit In 2027",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/motor/indycar-race-barcelona-circuit-2027",
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/fcc908d6-16x9-41.jpg?ve=1&tl=1",
       "published": "10/23/2026, 8:07:23 PM",
       "desc": "The 2027 INDYCAR schedule will feature a race in Barcelona, which means the reigning champion is going home."
+    },
+    {
+      "title": "Dream's Allisha Gray (hand) 'feeling fine, but I am not 100%' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50260177/dream-allisha-gray-hand-feeling-fine-not-100",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1015%2Fr1730967_1296x729_16%2D9.jpg",
+      "published": "10/23/2026, 7:58:10 PM",
+      "desc": "Atlanta Dream guard Allisha Gray says she is \"feeling fine, but I am not 100%\" as she continues to deal with a left hand injury amid the WNBA Finals."
     },
     {
       "title": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play - ESPN",
@@ -84,44 +180,12 @@
       "desc": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games."
     },
     {
-      "title": "Bears TE Cole Kmet out for season after knee injury vs. Pats - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1023%2Fr1734885_1296x729_16%2D9.jpg",
-      "published": "10/23/2026, 7:30:54 PM",
-      "desc": "Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England."
-    },
-    {
-      "title": "Falcons' throwback logo doesn't include viral stripe pattern - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0602%2Fr1020343_1296x729_16%2D9.jpg",
-      "published": "10/23/2026, 7:11:12 PM",
-      "desc": "A vertical stripe pattern that the Falcons used in a social media post announcing the use of the team's throwback logo is not a part of the team's uniform. An important distinction after significant online backlash."
-    },
-    {
       "title": "The great Ballon d'Or campaign - a race for football's biggest individual prize",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c65yng4x302jo",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg",
       "published": "10/23/2026, 6:52:29 PM",
       "desc": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
-    },
-    {
-      "title": "US Grand Prix: Charles Leclerc sets Austin practice pace from Max Verstappen",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
-      "published": "10/23/2026, 6:52:26 PM",
-      "desc": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix."
-    },
-    {
-      "title": "Bolton Wanderers vs Middlesbrough: Championship stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c875p4k93dvqt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/396a/live/1f378160-cdfc-11f1-9a39-31b474234113.png",
-      "published": "10/23/2026, 6:52:20 PM",
-      "desc": "Follow live text commentary as Middlesbrough travel to Bolton Wanderers in the Championship with a chance to go top of the table."
     },
     {
       "title": "Dale Brown, LSU's winningest basketball coach, dies at 90 - ESPN",
@@ -146,73 +210,33 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/richardson.jpg?ve=1&tl=1",
       "published": "10/23/2026, 6:07:29 PM",
       "desc": "Colts backup QB Anthony Richardson faces a misdemeanor possession of marijuana charge following a traffic stop earlier this month."
-    },
-    {
-      "title": "Ipswich Town vs Nottingham Forest: Premier League preview, team news, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmn0628p5rkyt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4bd4/live/48c67650-cf08-11f1-b95c-310d5f3c558a.jpg",
-      "published": "10/23/2026, 6:07:27 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Ipswich Town vs Nottingham Forest in the Premier League"
-    },
-    {
-      "title": "2026 MLB Playoffs: Brewers, Rays Reveal World Series Rosters",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-playoffs-world-series-milwaukee-brewers-tampa-bay-rays",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/chourioh1.jpg?ve=1&tl=1",
-      "published": "10/23/2026, 6:07:26 PM",
-      "desc": "The Brewers and Rays both made changes to their postseason rosters before the World Series."
-    },
-    {
-      "title": "Baker Mayfield returns, but Emeka Egbuka, Luke Goedeke out - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50259196/baker-mayfield-returns-emeka-egbuka-luke-goedeke-out",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0422%2Fr1647623_1296x729_16%2D9.jpg",
-      "published": "10/23/2026, 5:43:01 PM",
-      "desc": "Buccaneers quarterback Baker Mayfield will make his return following a three-game absence, but he will be without his top target in wide receiver Emeka Egbuka."
-    },
-    {
-      "title": "Jaguars Get Devastating Injury Update On Left Tackle Anton Harrison",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/anton-harrison-injury-news-jaguars-offensive-tackles",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/harrison2.jpg?ve=1&tl=1",
-      "published": "10/23/2026, 5:22:22 PM",
-      "desc": "Jacksonville Jaguars starting left tackle Anton Harrison will miss the remainder of the season after tearing a ligament in his right knee."
-    },
-    {
-      "title": "Vincent Kompany: Bayern Munich manager taken to hospital after collapsing",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ck3r5792en7go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg",
-      "published": "10/23/2026, 4:52:22 PM",
-      "desc": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday."
-    },
-    {
-      "title": "Yankees Legend Hideki Matsui Becomes Manager Of Japan's Yomiuri Tigers",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/hideki-matsui-yankees-stats-2009-world-series-yomiuri-tigers-managers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/matsui3.jpg?ve=1&tl=1",
-      "published": "10/23/2026, 4:37:24 PM",
-      "desc": "New York Yankees World Series MVP Hideki Matsui is the new manager of the Yomiuri Tigers, whom he played for before coming to MLB."
-    },
-    {
-      "title": "CFB Pick 'Em: Top Week 8 Games, Including Michigan-Indiana, Texas-Ole Miss",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/pick-em-week-8-michigan-indiana-texas-ole-miss-utah-houston",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/cfb-w8-pickem-16x9_1024.jpg?ve=1&tl=1",
-      "published": "10/23/2026, 4:37:20 PM",
-      "desc": "FOX Sports' college football pick 'em breakdown for Week 8's top games."
-    },
-    {
-      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/66e516a6-artboard-1.jpg?ve=1&tl=1",
-      "published": "10/23/2026, 3:37:26 PM",
-      "desc": "Check out the lines for every Week 7 matchup in the NFL."
     }
   ],
   "tech": [
+    {
+      "title": "The best place to save your credit cards - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/23/best-place-save-your-credit-cards/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DR22RJHPPN7JYIEWF6N747QXSA.JPG&w=1440",
+      "published": "10/23/2026, 8:32:30 PM",
+      "desc": "As the exhausting history of credit-card fraud and data breaches suggests, too many sites and merchants still don’t understand their assignment."
+    },
+    {
+      "title": "Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "image": "https://images.macrumors.com/t/kX0mKHsLp2lulNS72p5gfxcP7BE=/1600x/article-new/2026/10/iphone-duo-screen-crack-in-store.jpg",
+      "published": "10/23/2026, 6:05:35 PM",
+      "desc": "Some iPhone Duos are already experiencing hinge issues that cause display cracks, based on photos shared on Reddit and the MacRumors forums. Almost..."
+    },
+    {
+      "title": "Arkane Devs Say Blade Is Nearly Finished But If It Can't Find A Buyer Soon, The Studio Will Close - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/arkane-devs-say-blade-is-nearly-finished-but-if-it-cant-find-a-buyer-soon-the-studio-will-close-2000749096",
+      "image": "https://kotaku.com/app/uploads/2026/06/Blade_LargeHeroCenter_Announce.jpg",
+      "published": "10/23/2026, 5:15:30 PM",
+      "desc": "Union reps say it'd be a 'monumental waste' for Blade to remain unfinished"
+    },
     {
       "title": "Why ‘Final Fantasy’ Returned To 2D - Bloomberg.com",
       "source": "Bloomberg",
@@ -228,14 +252,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "10/23/2026, 4:52:55 PM",
       "desc": "Google’s updated privacy policy could mean you’ll start seeing targeted ads based on your personal data if you’re using personalized AI features"
-    },
-    {
-      "title": "The first broken iPhone Duos are here - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
-      "published": "10/23/2026, 4:37:03 PM",
-      "desc": "The iPhone Duo launched today, but there are already some reports of cracked screens on Reddit."
     },
     {
       "title": "How Can I Hang On To My Digital Life? - Defector",
@@ -254,28 +270,12 @@
       "desc": "Sound designer lets Half Life-related codename slip at a conference."
     },
     {
-      "title": "Samsung Galaxy S27 Release Date: Earlier Launch, Battery Confirmed - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/10/23/samsung-galaxy-s27-cases-pro-ultra-camera-design-release-date-delay/",
-      "image": "",
-      "published": "10/23/2026, 3:25:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "Get Kyogre, Groudon, and Giratina Pokémon TCG Promo Cards at Participating Retailers - Pokemon.com",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/news/get-kyogre-groudon-and-giratina-pokemon-tcg-promo-cards-at-participating-retailers",
-      "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/trading-card-game/tiles/me/me06/promo/me06-promo-169-en.png",
-      "published": "10/23/2026, 3:23:26 PM",
-      "desc": "Visit these stores to celebrate the release of Pokémon TCG: Mega Evolution—Delta Reign and get a gift with purchase."
-    },
-    {
-      "title": "Designers’ notes: The River of Bones rules - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/xuhk2izd/designers-notes-the-river-of-bones-rules",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-2-share-tvdegi2rob.jpg",
-      "published": "10/23/2026, 2:55:36 PM",
-      "desc": "The Warhammer: The Old World team tells us about the rules from the latest supplement."
+      "title": "Apple celebrates iPod's 25th anniversary with fun easter egg - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/apple_celebrates_ipods_25th_anniversary_with_fun_easter_egg-news-75196.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-celebrates-ipod-25th-anniversary/-952x498w6/gsmarena_000.jpg",
+      "published": "10/23/2026, 4:18:02 PM",
+      "desc": "You can now groove out to 2000s hits in your browser with this fully interactive digital version of the first iPod. The original iPod turns 25 today and..."
     }
   ],
   "education": [
@@ -356,21 +356,21 @@
     },
     {
       "rank": 2,
-      "title": "Babydoll",
-      "artist": "Jamie Miller & Antonio Cipriano",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 3,
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+    },
+    {
+      "rank": 3,
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
     },
     {
       "rank": 4,
@@ -392,15 +392,6 @@
     },
     {
       "rank": 6,
-      "title": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
-    },
-    {
-      "rank": 7,
       "title": "Angel Of My Dreams",
       "artist": "JADE",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/300x300bb.jpg",
@@ -409,7 +400,34 @@
       "searchUrl": "https://www.youtube.com/results?search_query=JADE%20Angel%20Of%20My%20Dreams"
     },
     {
+      "rank": 7,
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/67/70/6a6770b5-4927-7854-5915-56b8c27b5520/mzaf_6725601798761594834.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-is-my-husband/1838737596?i=1838737598&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    },
+    {
       "rank": 8,
+      "title": "You & Me",
+      "artist": "Cammy Barnes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/72/e8/2472e82c-e713-b875-dff4-f7c1c1ab7770/26SYMIM36462.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/49/24/964924d1-693e-b681-9e90-c4b872922442/mzaf_7095188376700158913.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/you-me/6820640218?i=6820640221&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Cammy%20Barnes%20You%20%26%20Me"
+    },
+    {
+      "rank": 9,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 10,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -418,16 +436,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 9,
-      "title": "Flower In A Hurricane [from GTAVI]",
-      "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/33/f5/0433f5b3-d831-1935-08e2-86e233973e02/mzaf_16615932387163717675.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi/6819802963?i=6819802968&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "title": "Taking our power back",
       "artist": "Peacefuldan",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/4b/85/374b8585-0bea-a97b-0951-968527aea48e/artwork.jpg/300x300bb.jpg",
@@ -436,7 +445,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Peacefuldan%20Taking%20our%20power%20back"
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "title": "Flower In A Hurricane [from GTAVI]",
+      "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/33/f5/0433f5b3-d831-1935-08e2-86e233973e02/mzaf_16615932387163717675.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi/6819802963?i=6819802968&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5Bfrom%20GTAVI%5D"
+    },
+    {
+      "rank": 13,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -445,7 +463,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "title": "Housewife",
       "artist": "Tate McRae",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/300x300bb.jpg",
@@ -454,51 +472,33 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Tate%20McRae%20Housewife"
     },
     {
-      "rank": 13,
-      "title": "expectations",
-      "artist": "Olivia Rodrigo & Chappell Roan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/c7/d9/dac7d988-f12e-1d34-d4c4-7dd4f4845609/mzaf_17539801478792412522.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations"
-    },
-    {
-      "rank": 14,
-      "title": "Wrapped in Gold",
-      "artist": "Tom Grennan",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/19/2e/76192e65-6539-2cb3-6032-8c30abd87073/196874839300.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/97/99/b997992d-31b1-c4ba-fe3c-4d89413f6d40/mzaf_1719776246333759805.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wrapped-in-gold/6817441865?i=6817441867&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Tom%20Grennan%20Wrapped%20in%20Gold"
-    },
-    {
       "rank": 15,
-      "title": "BAD TIMES",
-      "artist": "Imael Angel",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+      "title": "Dancing",
+      "artist": "Jorja Smith",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/3c/e1/813ce15a-36a5-d025-029b-7e265c5fa92e/820233401784.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/22/1c/3c221ca5-a7bb-dd0a-d15d-02d3f6bf5b86/mzaf_6144906651194832306.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dancing/6771532467?i=6771532885&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jorja%20Smith%20Dancing"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Wildwood",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 2,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "rank": 3,
@@ -511,12 +511,12 @@
     },
     {
       "rank": 4,
-      "title": "Street Fighter",
+      "title": "Wildwood",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
+      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "url": "https://www.themoviedb.org/movie/791523"
     },
     {
       "rank": 5,
