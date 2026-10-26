@@ -1,21 +1,53 @@
 {
-  "updated": "2026-10-26T16:34:57.201Z",
+  "updated": "2026-10-26T21:25:52.532Z",
   "news": [
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-      "published": "10/25/2026, 3:52:22 PM",
-      "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3454/live/c15b5b00-d0af-11f1-84bc-f3a33719a550.jpg",
+      "published": "10/25/2026, 8:22:26 PM",
+      "desc": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
     },
     {
-      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+      "title": "Long queues after power surge at Stansted Airport",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg",
-      "published": "10/25/2026, 3:37:19 PM",
-      "desc": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
+      "url": "https://www.bbc.co.uk/news/articles/c64g14481n7qo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23ad/live/af4a9e40-d09a-11f1-aeb2-977af36708cb.jpg",
+      "published": "10/25/2026, 7:37:14 PM",
+      "desc": "A passenger says she was trapped in a corridor at the airport for 90 minutes."
+    },
+    {
+      "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0f/live/9f405020-d096-11f1-93e1-3b657b665bcf.jpg",
+      "published": "10/25/2026, 7:22:22 PM",
+      "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018."
+    },
+    {
+      "title": "Board of Deputies of British Jews declares Greens to be racist party",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
+      "published": "10/25/2026, 6:22:19 PM",
+      "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
+    },
+    {
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg",
+      "published": "10/25/2026, 5:22:28 PM",
+      "desc": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+    },
+    {
+      "title": "Opposition leader María Machado returns to Venezuela",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "10/25/2026, 5:07:23 PM",
+      "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
       "title": "Girl, four, dies after fall from tower block in Barking",
@@ -26,256 +58,224 @@
       "desc": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say."
     },
     {
-      "title": "The row over military service that could shape Israel's future",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg",
-      "published": "10/25/2026, 2:22:20 PM",
-      "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?"
-    },
-    {
       "title": "British mum Leanne Gregory who died in Bahamas was celebrating wedding anniversary",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg",
       "published": "10/25/2026, 1:52:25 PM",
       "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
-      "published": "10/25/2026, 8:52:22 AM",
-      "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-    },
-    {
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg",
-      "published": "10/25/2026, 6:22:19 AM",
-      "desc": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
-    },
-    {
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
-      "published": "10/25/2026, 1:52:13 AM",
-      "desc": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
     }
   ],
   "sports": [
     {
-      "title": "Team A v Team B: How the players rated",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85d8/live/8211af10-d089-11f1-a701-fddedf244c16.jpg",
-      "published": "10/25/2026, 4:22:34 PM",
-      "desc": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate"
+      "title": "FOX Sports To Broadcast Special Veterans Day Weekend From Military Academies",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/fox-sports-broadcast-special-veterans-day-weekend-from-military-academies",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/10-25-special-veterans-salute-1.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 9:07:27 PM",
+      "desc": "For the United States' historic 250th birthday celebration FOX Sports will be honoring its heroes on Veterans Day weekend."
     },
     {
-      "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/ck62yqmle02mt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a7c5/live/e784c0d0-d089-11f1-92f6-357f3b0f345f.jpg",
-      "published": "10/25/2026, 4:22:31 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Manchester United vs Bournemouth in the Premier League"
+      "title": "Packers vs. Lions Live Updates, Score: NFC North Rivals Clash",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/nfl/packers-vs-lions-live-updates-score",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1408/814/liveblog-16x9brady.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 8:37:19 PM",
+      "desc": "The Green Bay Packers visit the Detroit Lions at Ford Field on Sunday in America's Game of the Week. Follow along here for live updates and highlights throughout the game."
     },
     {
-      "title": "Liverpool 2-0 Brighton player rater: Isak, Barcola and Wirtz turn up",
+      "title": "Freiburg 1-3 Bayern Munich: Bayern beat Freiburg as fans unveil Kompany banner",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/crwyd857p00yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb5a/live/d8608cf0-d085-11f1-a4ba-351760cfea6a.jpg",
-      "published": "10/25/2026, 4:07:41 PM",
-      "desc": "How Liverpool and Brighton's players rated following their Premier League match."
+      "url": "http://www.bbc.co.uk/sport/football/live/cmjwe75yxn4lt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6220/live/0a12e9c0-d0ac-11f1-b0e6-83f7659e2aa2.jpg",
+      "published": "10/25/2026, 8:22:31 PM",
+      "desc": "Bayern Munich won 3-1 at Freiburg to return to the top of the Bundesliga, as the German champions paid tribute to absent manager Vincent Kompany."
     },
     {
-      "title": "Hull 1-1 Brentford - Oli McBurnie and Dango Ouattara score in draw",
+      "title": "Barcelona vs Real Madrid: Spanish La Liga stats & head-to-head",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cxly4950egynt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/265c/live/70fcf900-d089-11f1-92f6-357f3b0f345f.jpg",
-      "published": "10/25/2026, 4:07:40 PM",
-      "desc": "Hull City draw for the third successive home game in the Premier League as they are held by Brentford."
+      "url": "http://www.bbc.co.uk/sport/football/live/cj3vqz410y42t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e98c/live/b1261300-d0b0-11f1-84bc-f3a33719a550.jpg",
+      "published": "10/25/2026, 8:22:29 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Barcelona vs Real Madrid in the Spanish La Liga"
     },
     {
-      "title": "Crystal Palace vs Newcastle United: Premier League preview, team news, stats & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmde8r06wxp3t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52da/live/f1519a70-d089-11f1-93e1-3b657b665bcf.png",
-      "published": "10/25/2026, 4:07:34 PM",
-      "desc": "Follow live text commentary, score updates and match stats from Crystal Palace vs Newcastle United in the Premier League"
-    },
-    {
-      "title": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmdx325w7gy6t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2982/live/a4667420-d08d-11f1-92f6-357f3b0f345f.jpg",
-      "published": "10/25/2026, 4:07:31 PM",
-      "desc": "Liverpool record their first home Premier League win of the season thanks to an impressive victory over in-form Brighton, with Alexander Isak in the goals again."
-    },
-    {
-      "title": "Baylor fires head coach Dave Aranda - ESPN",
+      "title": "76ers rule Embiid out with plantar fasciitis management - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50277585/baylor-fires-head-coach-dave-aranda-sources-say",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0902%2Fr1710279_1296x729_16%2D9.jpg",
-      "published": "10/25/2026, 4:02:52 PM",
-      "desc": "Baylor has fired head coach Dave Aranda after six-plus seasons."
+      "url": "https://www.espn.com/nba/story/_/id/50279725/76ers-rule-embiid-plantar-fasciitis-management",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2Fr1711559_1296x729_16%2D9.jpg",
+      "published": "10/25/2026, 8:04:05 PM",
+      "desc": "Despite publicly calling to play Sunday against the Pistons, the 76ers decided to sit Joel Embiid due to right foot plantar fasciitis management."
     },
     {
-      "title": "Pistons' Jalen Duren has hamstring strain, out at least 2 weeks - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726894_1296x729_16%2D9.jpg",
-      "published": "10/25/2026, 2:57:14 PM",
-      "desc": "Pistons center Jalen Duren, who signed a five-year extension earlier this month, will be out at least two weeks with a right hamstring strain."
+      "title": "AP Top 25: Miami (Fla.) Stays At No. 1; Who Climbs To No. 2 After BYU Loss?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/ap-top-25-week-9-miami-ohio-state-texas",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/9423c284-nfl-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 7:22:28 PM",
+      "desc": "Wisconsin joins the top 25 after upsetting USC, UCLA and Utah rise after 7-0 records in this weeks AP Top 25."
     },
     {
-      "title": "Hibernian vs Celtic: Scottish Premiership radio commentary, updates & report",
+      "title": "The Best Pat Murphy Stories, As Told By The 2026 Milwaukee Brewers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/best-pat-murphy-stories-told-brewers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/8e777db3-artboard-1.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 7:22:26 PM",
+      "desc": "Everyone has a Pat Murphy story. These are some of the best from his Brewers players."
+    },
+    {
+      "title": "49ers RB Christian McCaffrey Departs, Then Returns vs. Falcons",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-christian-mccaffrey-thigh-injury-update-falcons",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/christian-mccaffrey-.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 7:22:22 PM",
+      "desc": "The already depleted San Francisco 49ers are dealing with another injury to a key player."
+    },
+    {
+      "title": "F1 LIVE: US Grand Prix 2026 UK start time, grid & radio from Austin",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cm93z0vn52x3t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f31d/live/a322a420-d07a-11f1-afcb-6b9b9432d8fc.jpg",
-      "published": "10/25/2026, 2:22:24 PM",
-      "desc": "Camilo Duran scores his 10th goal of the season as Celtic recovered from an early setback to beat Hibernian."
+      "url": "http://www.bbc.co.uk/sport/formula1/live/c87w8r725y8t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/69b2/live/59cb96b0-d0a2-11f1-adbe-cd0eaeb0fff9.jpg",
+      "published": "10/25/2026, 7:07:24 PM",
+      "desc": "Follow live text updates and listen to BBC Radio 5 Live commentary of the United States Grand Prix."
     },
     {
-      "title": "NFL, NFLPA handling joint review of Jalen Hurts' diagnosis - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50276432/nfl-nflpa-handling-joint-review-jalen-hurts-diagnosis",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1019%2Fr1732959_1296x729_16%2D9.jpg",
-      "published": "10/25/2026, 1:53:27 PM",
-      "desc": "The NFL and NFL Players Association are working together to review the handling of Jalen Hurts' blood clot diagnosis."
-    },
-    {
-      "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League",
+      "title": "Pressure grows on Sage as fans turn on Palace boss",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c5dj4kvpd4j9t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d01/live/a55f19e0-d06a-11f1-afcb-6b9b9432d8fc.jpg",
-      "published": "10/25/2026, 1:07:27 PM",
-      "desc": "Follow build-up, team news, live text, radio & score updates as it happens from across the Premier League."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/83d1/live/da235750-d0a0-11f1-87fa-c1809f43a7a8.png",
+      "published": "10/25/2026, 6:52:21 PM",
+      "desc": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure."
     },
     {
-      "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time - October 26, 2026",
+      "title": "Terry Bradshaw Calls Out Cowboys, Saying 'Focus Isn’t Where It Should Be’",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/4c97748c52a4e49e0a0259f73f73a7f8d21f91512ce37049e300e89d51542e5f.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:40 PM",
-      "desc": "It has been a rough opening stretch for both sides heading into this NFC East matchup."
+      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-calls-out-cowboys-focus-dak-prescott",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/f839bc7e-cowboys1.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 6:37:22 PM",
+      "desc": "On \"FOX NFL Sunday,\" Terry Bradshaw sounded off on Dallas, calling out what he sees as a lack of focus from Dak Prescott and the offense."
     },
     {
-      "title": "How to Watch Dolphins vs. Jets: TV Channel, Live Stream, Time - October 25, 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-jets-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/160960c6e55fcbecedcf0baebc2f84becaebbd48ef6198a555ecc5a172d3df0e.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:40 PM",
-      "desc": "Learn which TV channel or how to live stream the NFL Week 7 Miami Dolphins and New York Jets game."
+      "title": "Liverpool beat Brighton: Alexander Isak living up to price tag as Liverpool's winning run continues",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97d2/live/a3cc9cc0-d09b-11f1-aeb2-977af36708cb.jpg",
+      "published": "10/25/2026, 6:37:20 PM",
+      "desc": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola."
     },
     {
-      "title": "How to Watch Rams vs. Raiders: TV Channel, Live Stream, Time - October 25, 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-raiders-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/54b08d03df67921e20bd7ba9a155e956cf2f5918b44ebf3ab9a1bb760dee3bcb.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:39 PM",
-      "desc": "Learn which TV channel or how to live stream the NFL Week 7 Rams and Raiders game."
+      "title": "Time, place unclear for Game 6 of Valkyries-Dream WNBA Finals - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50278436/place-unclear-game-6-valkyries-dream-wnba-finals",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1025%2Fr1736000_1296x729_16%2D9.jpg",
+      "published": "10/25/2026, 6:08:28 PM",
+      "desc": "With the Valkyries forcing a Game 6 in the WNBA Finals, the Dream are working to resolve a scheduling issue that leaves the venue and time of the game up in the air."
     },
     {
-      "title": "How to Watch Packers vs. Lions: TV Channel, Live Stream, Time - October 25, 2026",
+      "title": "Jay Glazer Shares Jalen Hurts Health Update, NFL And NFLPA Joint Investigation",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-packers-vs-lions-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/e2148885b94030e6772b20d8119de108970f9106b8839abe6aaa3bfeb7aaadaa.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:38 PM",
-      "desc": "Learn which TV channel or how to live stream the NFL Week 7 Packers and Lions game."
+      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-jalen-hurts-health-update-nfl-nflpa-joint-investigation",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/hurts-glazer.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 5:52:22 PM",
+      "desc": "On \"FOX NFL Sunday,\" Jay Glazer shared the latest on Jalen Hurts' health and said that the NFL and NFLPA are doing a joint investigation."
     },
     {
-      "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/a403234a893286ae4f4460b110b66ffc89951a6d96c99e5fc89bf3c58111344f.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:37 PM",
-      "desc": "The Saints head into this Week 7 NFL matchup against the Steelers on Sunday, October 25, 2026 at 9:30 AM EDT at Stade de France in Saint-Denis, France,..."
+      "title": "Manchester United vs Manchester City: Women's Super League stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c50me43p7y8vt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/128c/live/0c0d0380-d095-11f1-92f6-357f3b0f345f.jpg",
+      "published": "10/25/2026, 5:37:30 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester United vs Manchester City in the Women's Super League"
     },
     {
-      "title": "How to Watch Buccaneers vs. Panthers: TV Channel, Live Stream, Time - October 25, 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-panthers-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/bdc552de4e1b226bad79685c55365b05e91987cd63c2339cf1e7e0eaab31e37f.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:36 PM",
-      "desc": "This NFC South matchup brings the Carolina Panthers and Tampa Bay Buccaneers together in the 2026 NFL regular season, with kickoff set for Sunday, October..."
+      "title": "Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e52/live/e9d3fd70-d088-11f1-92f6-357f3b0f345f.jpg",
+      "published": "10/25/2026, 5:37:25 PM",
+      "desc": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick."
     },
     {
-      "title": "How to Watch 49ers vs. Falcons: TV Channel, Live Stream, Time - October 25, 2026",
+      "title": "Oregon fires offensive coordinator Drew Mehringer - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50278167/oregon-fires-offensive-coordinator-drew-mehringer",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0613%2Fr708008_1296x729_16%2D9.jpg",
+      "published": "10/25/2026, 5:30:41 PM",
+      "desc": "Oregon has fired offensive coordinator Drew Mehringer less than one full season after being promoted to the job. Oregon is unranked and has lost three games this season after beginning the year ranked second in the preseason AP poll."
+    },
+    {
+      "title": "Which Active TEs Remind Rob Gronkowski Of Himself? His Answer Will Surprise You",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-49ers-vs-falcons-tv-channel-live-stream-time-october-25-2026",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/8ebda49bf691cb99023bfb6e1f20f64b07f79d783b8ad6aff7495be81ee93a0f.png?ve=1&tl=1",
-      "published": "10/25/2026, 12:37:30 PM",
-      "desc": "The matchup brings an early measuring-stick feel to Week 7, with the San Francisco 49ers visiting the Atlanta Falcons in the 2026 NFL regular season on..."
+      "url": "https://www.foxsports.com/stories/nfl/which-active-nfl-tight-ends-remind-rob-gronkowski-himself",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/10-25-national-tight-ends-day.jpg?ve=1&tl=1",
+      "published": "10/25/2026, 5:22:28 PM",
+      "desc": "On \"FOX NFL Kickoff,\" Rob Gronkowski revealed the two current tight ends who remind him most of himself. One might come as quite the surprise."
     }
   ],
   "tech": [
     {
-      "title": "Forget shopping for gifts — receiving them is stressing us out - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/home/2026/10/25/what-do-when-you-receive-bad-or-inappropriate-gift/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MR75GJ5DA5B4RNHDESSZI75SRU.JPG&w=1440",
-      "published": "10/25/2026, 4:00:00 PM",
-      "desc": "Experts offer tips on how to manage the feelings of disappointment, guilt or anxiety when you get a bad or inappropriate present."
-    },
-    {
-      "title": "'A Lot of People Want to Get to Know Me' — GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-      "image": "https://assets-prd.ignimgs.com/2026/08/24/lucia-hi-res-headshot-artwork-1787583598249.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "10/25/2026, 3:14:26 PM",
-      "desc": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream."
-    },
-    {
-      "title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft - Neowin",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/windows-11-64-bit-performance-boost-coming-soon-thanks-to-intel--microsoft/",
-      "image": "",
-      "published": "10/25/2026, 2:20:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "The hottest AI wearables and gadgets you should know about - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
-      "published": "10/25/2026, 2:10:00 PM",
-      "desc": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-    },
-    {
-      "title": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v7/1200x800.jpg",
-      "published": "10/25/2026, 2:00:01 PM",
-      "desc": "Also: The company rolls out a retail store tool to reduce wasted inventory."
-    },
-    {
-      "title": "r/opensource just banned AI, non-English speakers, and more - The Verge",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "10/25/2026, 1:25:32 PM",
-      "desc": "The opensource subreddit’s new rules against AI have sparked a revolt."
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
+      "published": "10/25/2026, 8:16:19 PM",
+      "desc": "A weak spot in the hinge may be failing and cracking iPhone Duo screens."
     },
     {
-      "title": "Google’s AI search changes upended online publishing - The Verge",
+      "title": "13 Short And Sweet Scary Games To Treat Yourself To Before Halloween - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/13-short-and-sweet-scary-games-to-treat-yourself-to-before-halloween-2000749391",
+      "image": "https://kotaku.com/app/uploads/2026/10/childrenofclay-1200x675.jpg",
+      "published": "10/25/2026, 8:09:55 PM",
+      "desc": "If you're lagging behind on your annual intake of ghouls and goblins, enjoy this selection of brief creeps, from retro classics to odd indie frights"
+    },
+    {
+      "title": "Zen Browser is the Arc replacement I was looking for - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published": "10/25/2026, 12:00:00 PM",
-      "desc": "The changes to Google’s search engine have turned the online publishing industry upside down, with many outlets forced to contend with AI search summaries that are taking away traffic."
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
+      "published": "10/25/2026, 7:24:50 PM",
+      "desc": "Zen Browser rips off all the best bits of Arc without the AI and feature bloat, making it the perfect replacement."
     },
     {
-      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-display-crack-issue.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "10/25/2026, 11:45:00 AM",
-      "desc": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and..."
+      "title": "Retire Your Old Fountain: The Alternative From Home Depot Perfect For Your Small Patio - House Digest",
+      "source": "Housedigest.com",
+      "url": "https://www.housedigest.com/2294062/retire-your-old-fountain-alternative-from-home-depot-small-patio/",
+      "image": "https://www.housedigest.com/img/gallery/retire-your-old-fountain-the-alternative-from-home-depot-perfect-for-your-small-patio/l-intro-1792678073.jpg",
+      "published": "10/25/2026, 7:00:00 PM",
+      "desc": "The Teamson Solar Gray Stone Wall Fountain from Home Depot is a great fountain for small patios thanks to its compact size and solar powered design."
+    },
+    {
+      "title": "Nintendo reveals why you don’t actually fight Bowser in Super Mario Bros. 1 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-reveals-why-you-dont-actually-fight-bowser-in-super-mario-bros-1/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Bros.-Bowser-boss-fight.jpg",
+      "published": "10/25/2026, 6:20:46 PM",
+      "desc": "Nintendo’s Shigeru Miyamoto has shared some insight into why players don’t actually fight Bowser in the original Super Mario Bros. Miyamoto was present at a press conference at the end of the week to celebrate him becoming the first developer to win Japan’s O…"
+    },
+    {
+      "title": "Sunday Preview – Orlocks rule the roads of Necromunda - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-2-share-jktxohgn1f.jpg",
+      "published": "10/25/2026, 5:57:35 PM",
+      "desc": "See what’s coming up next week for Necromunda, Warhammer 40,000, and more."
+    },
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+      "published": "10/25/2026, 5:44:00 PM",
+      "desc": "Unpatched Tailscale SSH flaws could let attackers gain root on permitted servers from a compromised device when port forwarding is enabled."
+    },
+    {
+      "title": "How To Build A Cheap Home Server To Save Money On Subscriptions - BGR",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2292030/how-to-build-home-server-save-money/",
+      "image": "https://www.bgr.com/img/gallery/how-to-build-a-cheap-home-server-to-save-money-on-subscriptions/l-intro-1792517493.jpg",
+      "published": "10/25/2026, 5:17:00 PM",
+      "desc": "You can turn an old laptop, a computer, or even a Raspberry Pi into a cheap media server, but it's best to run a Linux distribution for maximum compatibility."
     }
   ],
   "education": [
@@ -365,15 +365,6 @@
     },
     {
       "rank": 3,
-      "title": "You & Me",
-      "artist": "Cammy Barnes",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/72/e8/2472e82c-e713-b875-dff4-f7c1c1ab7770/26SYMIM36462.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/49/24/964924d1-693e-b681-9e90-c4b872922442/mzaf_7095188376700158913.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/you-me/6820640218?i=6820640221&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Cammy%20Barnes%20You%20%26%20Me"
-    },
-    {
-      "rank": 4,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -382,22 +373,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 5,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
+      "rank": 4,
+      "title": "You & Me",
+      "artist": "Cammy Barnes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/72/e8/2472e82c-e713-b875-dff4-f7c1c1ab7770/26SYMIM36462.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/49/24/964924d1-693e-b681-9e90-c4b872922442/mzaf_7095188376700158913.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/you-me/6820640218?i=6820640221&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Cammy%20Barnes%20You%20%26%20Me"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/bb/5b/42bb5b21-2550-6205-bf3c-334b0e7d6199/mzaf_17462928687872215879.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Dean%20Man%20I%20Need"
+    },
+    {
+      "rank": 6,
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
       "rank": 7,
@@ -410,21 +410,21 @@
     },
     {
       "rank": 8,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
-    },
-    {
-      "rank": 9,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 9,
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
     },
     {
       "rank": 10,
@@ -484,15 +484,6 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Wildwood",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -501,13 +492,22 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 3,
-      "title": "Street Fighter",
+      "rank": 2,
+      "title": "Wildwood",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
+      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "url": "https://www.themoviedb.org/movie/791523"
+    },
+    {
+      "rank": 3,
+      "title": "Tenzing",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "url": "https://www.themoviedb.org/movie/1288069"
     },
     {
       "rank": 4,
@@ -517,6 +517,15 @@
       "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 5,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     }
   ],
   "tv": [
