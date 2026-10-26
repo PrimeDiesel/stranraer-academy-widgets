@@ -1,13 +1,21 @@
 {
-  "updated": "2026-10-25T23:53:30.453Z",
+  "updated": "2026-10-26T03:39:08.502Z",
   "news": [
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "title": "Meghan broke contact with father in letter citing abuse claims",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-      "published": "10/24/2026, 11:52:20 PM",
-      "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg",
+      "published": "10/25/2026, 2:37:20 AM",
+      "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
+    },
+    {
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+      "published": "10/25/2026, 1:52:13 AM",
+      "desc": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
     },
     {
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
@@ -56,17 +64,33 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6090/live/bf46ec40-cfe6-11f1-93e1-3b657b665bcf.jpg",
       "published": "10/24/2026, 10:07:22 PM",
       "desc": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
-    },
-    {
-      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg",
-      "published": "10/24/2026, 5:37:22 PM",
-      "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
     }
   ],
   "sports": [
+    {
+      "title": "United States Grand Prix: Kimi Antonelli stands on brink of history in Austin",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg",
+      "published": "10/25/2026, 1:22:23 AM",
+      "desc": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual."
+    },
+    {
+      "title": "Giannis Antetokounmpo fouls out in 4th as Heat tumble to 0-3 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50272348/giannis-antetokounmpo-fouls-4th-heat-tumble-0-3",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1025%2Fr1735731_1024x576_16%2D9.jpg",
+      "published": "10/25/2026, 1:15:10 AM",
+      "desc": "The Heat fell to 0-3 after a 115-110 loss to the undermanned Hornets in which Giannis Antetokounmpo scored just 14 points before fouling out."
+    },
+    {
+      "title": "UCF stuns No. 2 BYU in 2OT after wild finish in regulation - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50271568/ucf-stuns-no-2-byu-2ot-wild-finish-regulation",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1025%2Fr1735708_1296x729_16%2D9.jpg",
+      "published": "10/25/2026, 12:04:25 AM",
+      "desc": "After a wild finish in regulation, UCF knocked off No. 2 BYU on Saturday in a 39-31 double-overtime victory for the first top-five win in program history."
+    },
     {
       "title": "NC State Fires Head Coach Dave Doeren Following Loss to Stanford",
       "source": "Fox Sports",
@@ -164,14 +188,6 @@
       "desc": "The Eagles' top two receivers -- DeVonta Smith and Dontayvion Wicks -- have been ruled out of Monday night's game against the Cowboys."
     },
     {
-      "title": "Packers activate RB Josh Jacobs for 2026 debut - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50269266/packers-activate-rb-josh-jacobs-2026-debut",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1019%2Fr1733122_1296x729_16%2D9.jpg",
-      "published": "10/24/2026, 8:14:34 PM",
-      "desc": "Packers running back Josh Jacobs will make his 2026 season debut against the Lions after spending the first six weeks on the NFL's commissioner exempt list."
-    },
-    {
       "title": "Makhachev can't defend title; UFC books interim title bout - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/mma/story/_/id/50269191/makhachev-defend-title-ufc-books-interim-title-bout",
@@ -188,31 +204,31 @@
       "desc": "Chase Elliott withdrew his name from NASCAR's ballot for Most Popular Driver and is encouraging his fans to use their vote for someone else."
     },
     {
-      "title": "Cincinnati upsets No. 8 Texas Tech behind French's 4 TD passes - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50269086/cincinnati-upsets-no-8-texas-tech-french-4-td-passes",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1024%2Fr1735587_1296x729_16%2D9.jpg",
-      "published": "10/24/2026, 8:03:13 PM",
-      "desc": "Cole Tabb had a career-high 173 rushing yards and a touchdown and JC French IV threw for a career-high four TD passes as Cincinnati stunned No. 8 Texas Tech 37-24 on Saturday."
-    },
-    {
       "title": "Josh Hoover, No. 6 Indiana hold off Michigan for overtime win - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/college-football/story/_/id/50268949/josh-hoover-indiana-hold-michigan-win",
       "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1024%2Fr1735582_1296x729_16%2D9.jpg",
       "published": "10/24/2026, 7:56:13 PM",
       "desc": "Josh Hoover had a 4-yard TD run in overtime as No. 6 Indiana kept Michigan out of the end zone in a 13-6 win -- the Hoosiers' first at the Big House since 1967."
-    },
-    {
-      "title": "Valkyries even WNBA Finals as defense shuts down Dream - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50268872/valkyries-even-wnba-finals-defense-shuts-dream",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1024%2Fr1735505_1296x729_16%2D9.jpg",
-      "published": "10/24/2026, 7:50:47 PM",
-      "desc": "The Valkyries played stellar defense to beat the Dream and even the WNBA Finals at 2-2."
     }
   ],
   "tech": [
+    {
+      "title": "How Much Would It Cost To Build A PC That Can Compete With The PS5 Pro? - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2290668/ps5-pro-competitor-pc-building-cost-estimate/",
+      "image": "https://www.slashgear.com/img/gallery/how-much-would-it-cost-to-build-a-pc-that-can-compete-with-the-ps5-pro/l-intro-1792432420.jpg",
+      "published": "10/25/2026, 12:18:13 AM",
+      "desc": "The price of the PS5 Pro continues climbing. If you're going to shell out that much, maybe you should consider building a similar PC. How much would that be?"
+    },
+    {
+      "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
+      "image": "https://images.macrumors.com/t/imDZJ2lQdreHfGodsIYuRYq4XfI=/2500x/article-new/2026/10/iphone-duo-dark.jpg",
+      "published": "10/24/2026, 11:48:55 PM",
+      "desc": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part..."
+    },
     {
       "title": "Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games - Kotaku",
       "source": "Kotaku",
@@ -220,22 +236,6 @@
       "image": "https://kotaku.com/app/uploads/2026/10/halotvshow-1200x675.jpg",
       "published": "10/24/2026, 10:07:07 PM",
       "desc": "According to industry insiders, newly appointed Xbox CEO Asha Sharma overplayed cross-media potential with recent Netflix exec Peter Rice to the tune of $800 million"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "published": "10/24/2026, 7:00:00 PM",
-      "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
-      "image": "https://images.macrumors.com/t/U8IqIRh5d92aLMm5R0POLj3UZGY=/1672x/article-new/2026/10/Verizon-iPhone-Duo.jpg",
-      "published": "10/24/2026, 6:29:16 PM",
-      "desc": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed.  ..."
     },
     {
       "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors",
@@ -246,6 +246,14 @@
       "desc": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test. Despite its IP68 dust-resistance rating, dust entered the hinge..."
     },
     {
+      "title": "5 Cool Facts About The Ecto-1 Every Ghostbusters Fan Should Know - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2290874/cool-ecto-1-facts-ghostbuster-fans-should-know/",
+      "image": "https://www.jalopnik.com/img/gallery/5-cool-facts-about-the-ecto-1-every-ghostbusters-fan-should-know/l-intro-1792437174.jpg",
+      "published": "10/24/2026, 4:25:00 PM",
+      "desc": "From its rarity to fun behind-the-scenes details, these are the most interesting facts about the Ecto-1 that every die-hard \"Ghostbusters\" fan needs to know."
+    },
+    {
       "title": "Not Pyrex, Not CorningWare: The 250-Year-Old Dishware Brand To Look For At Thrift Stores - Daily Meal",
       "source": "The Daily Meal",
       "url": "https://www.thedailymeal.com/2290049/vintage-dishware-thifting-spode/",
@@ -254,20 +262,12 @@
       "desc": "An underrated dishware brand that's more than two centuries old is Spode, which has vintage plates and dishware you can find at the thrift store."
     },
     {
-      "title": "New ‘Mass Effect 5’ Details Emerge After Cancellation, And It Sounds Great - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/24/new-mass-effect-5-details-emerge-after-cancellation-and-it-sounds-great/",
-      "image": "",
-      "published": "10/24/2026, 3:12:59 PM",
-      "desc": ""
-    },
-    {
-      "title": "iPhone Duo looks better out of the box but apparently soon falls behind Galaxy Z Fold 8 in what matters most to me - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/iphone-duo-looks-better-out-of-the-box-but-soon-falls-behind-galaxy-z-fold-8_id184286",
-      "image": "",
-      "published": "10/24/2026, 3:08:37 PM",
-      "desc": ""
+      "title": "AI tool REA cracks paid software: Is the software industry's business model coming to an end? - Notebookcheck",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/AI-tool-REA-cracks-paid-software-Is-the-software-industry-s-business-model-coming-to-an-end.1433240.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow.jpg",
+      "published": "10/24/2026, 3:14:00 PM",
+      "desc": "Videos with titles like “Clone Everything” and “How to Copy Any App” are currently drawing viewers in on YouTube. The open-source tool REA (Reverse Engineer Anything) is designed to analyze the code of any paid app, allowing AI to recreate the software from s…"
     }
   ],
   "education": [
@@ -348,21 +348,21 @@
     },
     {
       "rank": 2,
-      "title": "You & Me",
-      "artist": "Cammy Barnes",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/72/e8/2472e82c-e713-b875-dff4-f7c1c1ab7770/26SYMIM36462.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/49/24/964924d1-693e-b681-9e90-c4b872922442/mzaf_7095188376700158913.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/you-me/6820640218?i=6820640221&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Cammy%20Barnes%20You%20%26%20Me"
-    },
-    {
-      "rank": 3,
       "title": "Babydoll",
       "artist": "Jamie Miller & Antonio Cipriano",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
+    },
+    {
+      "rank": 3,
+      "title": "You & Me",
+      "artist": "Cammy Barnes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/72/e8/2472e82c-e713-b875-dff4-f7c1c1ab7770/26SYMIM36462.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/49/24/964924d1-693e-b681-9e90-c4b872922442/mzaf_7095188376700158913.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/you-me/6820640218?i=6820640221&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Cammy%20Barnes%20You%20%26%20Me"
     },
     {
       "rank": 4,
@@ -402,15 +402,6 @@
     },
     {
       "rank": 8,
-      "title": "Angel Of My Dreams",
-      "artist": "JADE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/ca/0d/cdca0d06-87cf-accc-9c92-6a5b319a3e0f/mzaf_10227241597042689372.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/angel-of-my-dreams/1754238138?i=1754238414&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JADE%20Angel%20Of%20My%20Dreams"
-    },
-    {
-      "rank": 9,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/300x300bb.jpg",
@@ -419,13 +410,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Patient Zero",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
+    },
+    {
+      "rank": 10,
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/ca/0d/cdca0d06-87cf-accc-9c92-6a5b319a3e0f/mzaf_10227241597042689372.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/angel-of-my-dreams/1754238138?i=1754238414&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=JADE%20Angel%20Of%20My%20Dreams"
     },
     {
       "rank": 11,
@@ -456,21 +456,21 @@
     },
     {
       "rank": 14,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
-    },
-    {
-      "rank": 15,
       "title": "The Greatest Show On Earth",
       "artist": "U2",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/db/1f/26db1f9b-840b-0d25-66a3-1dfa0b6f06d7/26UMGIM93067.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/54/79/835479c8-d9e3-735f-8e92-42441253c444/mzaf_2009949742942059124.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/the-greatest-show-on-earth/6825274509?i=6825274641&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=U2%20The%20Greatest%20Show%20On%20Earth"
+    },
+    {
+      "rank": 15,
+      "title": "Dai Dai",
+      "artist": "Shakira & Burna Boy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     }
   ],
   "movies": [
@@ -494,15 +494,6 @@
     },
     {
       "rank": 3,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 4,
       "title": "Tenzing",
       "year": "2026",
       "cert": "12",
@@ -511,13 +502,22 @@
       "url": "https://www.themoviedb.org/movie/1288069"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Street Fighter",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
       "url": "https://www.themoviedb.org/movie/1153576"
+    },
+    {
+      "rank": 5,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
     }
   ],
   "tv": [
