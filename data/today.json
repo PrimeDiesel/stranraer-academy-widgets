@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-28T11:27:32.169Z",
-  "day": 300,
+  "generated": "2026-10-29T11:38:07.753Z",
+  "day": 301,
   "movie": {
-    "title": "The Philadelphia Story",
+    "title": "Beetlejuice",
     "safe": true,
-    "cert": "U",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1940",
-    "plot": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-    "poster": "https://image.tmdb.org/t/p/w500/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+    "year": "2024",
+    "plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "poster": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "The Prodigy-Firestarter",
+    "key": "Matchbox Twenty-Push",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/45/9a/35459ad9-effb-70f1-3361-ab1cc3d05236/634904012182.png/600x600bb.jpg",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/24/30/be243026-a149-dc9d-ef3b-d01fef6da03f/075679957535.jpg/600x600bb.jpg",
     "year": "1996",
     "v": 4
   },
   "album": {
-    "key": "Sam Smith-In the Lonely Hour",
+    "key": "Nirvana-Nevermind",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/600x600bb.jpg",
-    "year": "2014",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/24/33/462433f9-ee74-2d60-4538-859826a7bed7/00720642472729.rgb.jpg/600x600bb.jpg",
+    "year": "1994",
     "v": 4
   }
 }
