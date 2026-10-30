@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-29T11:38:07.753Z",
-  "day": 301,
+  "generated": "2026-10-30T11:29:24.964Z",
+  "day": 302,
   "movie": {
-    "title": "Beetlejuice",
+    "title": "Willy Wonka and the Chocolate Factory",
     "safe": true,
-    "cert": "12A",
+    "cert": "U",
     "source": "tmdb-uk",
-    "year": "2024",
-    "plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-    "poster": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "year": "2017",
+    "plot": "The classic Roald Dahl tale gets a modern twist when Tom and Jerry enter the amazing world of Willy Wonka's Chocolate Factory.",
+    "poster": "https://image.tmdb.org/t/p/w500/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Matchbox Twenty-Push",
+    "key": "Styx-Come Sail Away",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/24/30/be243026-a149-dc9d-ef3b-d01fef6da03f/075679957535.jpg/600x600bb.jpg",
-    "year": "1996",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/32/78/8c327836-f69c-a8aa-79f1-2fa65f1fa9ab/06UMGIM01288.rgb.jpg/600x600bb.jpg",
+    "year": "1977",
     "v": 4
   },
   "album": {
-    "key": "Nirvana-Nevermind",
+    "key": "Pharrell Williams-G I R L",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/24/33/462433f9-ee74-2d60-4538-859826a7bed7/00720642472729.rgb.jpg/600x600bb.jpg",
-    "year": "1994",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/76/88/96768825-4232-88aa-46ff-bd525ec21d29/886445349689.jpg/600x600bb.jpg",
+    "year": "2015",
     "v": 4
   }
 }
