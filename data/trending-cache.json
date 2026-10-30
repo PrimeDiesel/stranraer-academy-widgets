@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-30T19:00:43.077Z",
+  "updated": "2026-10-30T22:49:17.250Z",
   "news": [
+    {
+      "title": "What are the government's options for reducing welfare spending?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ce1/live/683365e0-d3bb-11f1-a701-fddedf244c16.jpg",
+      "published": "10/29/2026, 9:52:27 PM",
+      "desc": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it."
+    },
+    {
+      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e13a/live/48d8b280-f047-11ef-aa6c-fde471cc1a41.jpg",
+      "published": "10/29/2026, 9:07:34 PM",
+      "desc": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise."
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
+      "published": "10/29/2026, 9:07:23 PM",
+      "desc": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+    },
+    {
+      "title": "Ex-Top Gear host Richard Hammond's new Abergavenny life wild swimming and food festivals",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39wznnxyy27o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3282/live/fee0f6e0-d395-11f1-b490-07d78ce4b8e5.jpg",
+      "published": "10/29/2026, 7:52:24 PM",
+      "desc": "The former Top Gear star bought a 19th Century Georgian mansion near Abergavenny in November 2025."
+    },
     {
       "title": "Hundreds of GP surgeries lose online services after Silicon Practice collapse",
       "source": "BBC News",
@@ -10,28 +42,12 @@
       "desc": "It will cause huge disruption in some parts of England and Wales, say GP leaders."
     },
     {
-      "title": "Lib Dems and Reform in war of words over alleged shove",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c830/live/c86392f0-d3bb-11f1-8c27-87a7c72809db.jpg",
-      "published": "10/29/2026, 5:22:21 PM",
-      "desc": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
-    },
-    {
       "title": "Met refers itself to police watchdog over Meghan letter",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9e2/live/b09997b0-d1f3-11f1-b360-61fb5d34dc08.jpg",
       "published": "10/29/2026, 5:07:24 PM",
       "desc": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father."
-    },
-    {
-      "title": "George Michael's Faith guitar sells for £180k after auction row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg",
-      "published": "10/29/2026, 4:37:29 PM",
-      "desc": "The brother of the singer's late personal assistant said she would not have wanted the items to be sold."
     },
     {
       "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
@@ -48,25 +64,145 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1403/live/8b5afd90-ced8-11f1-93e1-3b657b665bcf.jpg",
       "published": "10/29/2026, 4:07:12 PM",
       "desc": "The prime minister did not outline a timetable, while opponents questioned the Budget's lack of detail on welfare reform."
-    },
-    {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57ed/live/bd177c10-d3aa-11f1-b441-2b33b063138f.jpg",
-      "published": "10/29/2026, 3:37:23 PM",
-      "desc": "The defeated presidential candidate says he will lead the opposition from the US."
-    },
-    {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45cd/live/c93e7220-d385-11f1-b5f4-fd541fd21001.jpg",
-      "published": "10/29/2026, 3:22:20 PM",
-      "desc": "Budget forecasts show growth in living standards grinding almost to a halt."
     }
   ],
   "sports": [
+    {
+      "title": "Tadhg Furlong: Ireland prop cleared of groin grab by disciplinary committee",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cm9wzqen751ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d383/live/d94fbb90-d37d-11f1-bf63-739fb2907d03.jpg",
+      "published": "10/29/2026, 10:37:23 PM",
+      "desc": "Ireland's Tadhg Furlong is cleared by a disciplinary committee of grabbing Gavin Coombes in the groin during Leinster's United Rugby Championship win over Munster."
+    },
+    {
+      "title": "Football gossip: Alexander-Arnold, Calvert-Lewin, Albert, Scott, Tresoldi, Batrakov",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/14eb/live/d3634440-d3dc-11f1-b441-2b33b063138f.png",
+      "published": "10/29/2026, 9:52:25 PM",
+      "desc": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin."
+    },
+    {
+      "title": "NFL Trade Deadline: Is Saquon Barkley Next Star To Move? Who Execs Expect To Buy & Sell",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-saquon-barkley-eagles-chargers-giants-rams-colts",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-1saq.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 9:37:25 PM",
+      "desc": "Which other teams will be buyers and sellers, and who could get moved? From the Eagles possibly selling to the Giants potentially buying, here's what we're hearing."
+    },
+    {
+      "title": "2026 NFL Week 8 Picks: Best Bets For Every Game — Will's Wagers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-picks-best-bets-every-game-wills-wagers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/129de883-artboard-1-19.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 9:37:23 PM",
+      "desc": "Check out Will Hill's best bet for EVERY NFL Week 8 contest, beginning with Panthers-Packers on Thursday."
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Drew Mestemaker Surging",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/gettyimages-2301431584-scaled.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 9:37:22 PM",
+      "desc": "From high school punter to No. 1 overall pick? Drew Mestemaker is surging up the oddsboard. See the latest 2027 NFL Draft odds."
+    },
+    {
+      "title": "Bears Land Jeffery Simmons: Why Execs Love Deal For Chicago; Who Will Titans Trade Next?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/bears-jeffery-simmons-titans-nfl-trade-deadline-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/artboard-1jeff.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 9:22:22 PM",
+      "desc": "Who won the Jeffery Simmons trade? Will the Titans trade more notable players? Here's what we learned from our conversations around the league."
+    },
+    {
+      "title": "Sources -- Missouri RB Hardy to make season debut vs. Arkansas - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50321651/sources-missouri-rb-hardy-make-season-debut-vs-arkansas",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0512%2Fr1657317_1296x729_16%2D9.jpg",
+      "published": "10/29/2026, 8:52:44 PM",
+      "desc": "Missouri All-American tailback Ahmad Hardy is set to make his season debut for the Tigers this weekend at Arkansas, sources told ESPN."
+    },
+    {
+      "title": "Inside Villanova And Notre Dame's 'Once-In-An-Eternity' Basketball Games In Rome",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mens-college-basketball/villanova-notre-dame-rome-pope-vatican",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/3ac85127-artboard-1-2026-10-29t114426.255.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 8:52:28 PM",
+      "desc": "FOX Sports’ Ben Portnoy tells the story behind a once-in-an-eternity college basketball doubleheader between Villanova and Notre Dame in Rome."
+    },
+    {
+      "title": "USA Roster Prediction: Who Makes Pochettino's Nations League Quarterfinal Squad?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/usmnt-roster-prediction-nations-league-quarterfinal-haiti",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/usa-national-league-roster-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 8:52:24 PM",
+      "desc": "Predicting the U.S. men's national team roster for November's Concacaf Nations League quarterfinals against Haiti."
+    },
+    {
+      "title": "Alexander Zverev to replace Jannik Sinner as ATP world number one after beating Tallon Girekspoor in Vienna",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/06ca/live/0511ffc0-d3d0-11f1-9c32-1532a6164171.jpg",
+      "published": "10/29/2026, 8:37:22 PM",
+      "desc": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals."
+    },
+    {
+      "title": "Reese Alston, No. 13 overall recruit, commits to LSU - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50321518/reese-alston-no-13-overall-recruit-commits-lsu",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0402%2Fr1313142_1296x729_16%2D9.jpg",
+      "published": "10/29/2026, 8:36:42 PM",
+      "desc": "Five-star point guard Reese Alston announced he has committed to LSU, giving Tigers coach Will Wade his third top-25 recruit in the 2027 class."
+    },
+    {
+      "title": "Without Injured QB Julian Sayin, Is Ohio State Really A Top-5 Team?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/ohio-state-julian-sayin-injury-status-luke-fahey-tavien-st-clair-usc",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9-43-1.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 8:07:17 PM",
+      "desc": "Coming off a bye, Ohio State's whole offense needs to step up to support a backup QB."
+    },
+    {
+      "title": "Toub - Butker still Chiefs' kicker despite Tucker signing - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50321154/toub-butker-chiefs-kicker-tucker-signing",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0520%2Fr1335483_1296x729_16%2D9.jpg",
+      "published": "10/29/2026, 7:56:27 PM",
+      "desc": "Chiefs special teams coordinator Dave Toub expressed rather emphatically that Harrison Butker is the team's kicker despite the team signing Justin Tucker, who hasn't played in the NFL since 2024, to their practice squad."
+    },
+    {
+      "title": "Jack Grealish: England winger dropped by Everton due to 'breach of club discipline'",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png",
+      "published": "10/29/2026, 7:52:32 PM",
+      "desc": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\"."
+    },
+    {
+      "title": "Manchester City vs Paris Saint-Germain: UEFA Women's Champions League stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c65yn370dgl1t",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "10/29/2026, 7:52:31 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester City vs Paris St-Germain in the UEFA Women's Champions League"
+    },
+    {
+      "title": "Longtime football coach June Jones dies at age 73 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50321084/long-football-coach-june-jones-dies-age-73",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1029%2Fr1738213_1296x729_16%2D9.jpg",
+      "published": "10/29/2026, 7:47:07 PM",
+      "desc": "Longtime college and pro football coach June Jones, who helped popularize the run-and-shoot offense, has died at 73."
+    },
+    {
+      "title": "2026 NFL No. 1 Seed Odds: Bills Overtake Chiefs In AFC; 49ers Atop NFC",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/19d14d90-aa2bb2f2-gettyimages-2187784441-scaled.jpg?ve=1&tl=1",
+      "published": "10/29/2026, 7:22:18 PM",
+      "desc": "A new favorite leads the race for the AFC’s No. 1 seed, while the 49ers remain the favorites in the NFC. Check out the latest odds."
+    },
     {
       "title": "Everton vs Newcastle United: League Cup stats & head-to-head",
       "source": "BBC Sport",
@@ -74,145 +210,57 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a61a/live/c9e3acd0-d3c7-11f1-a701-fddedf244c16.jpg",
       "published": "10/29/2026, 7:07:21 PM",
       "desc": "Follow live text commentary, score updates and match stats from Everton vs Newcastle United in the League Cup"
-    },
-    {
-      "title": "The Milwaukee Brewers Captured The World Series And Made Their City Believe",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/milwaukee-brewers-win-2026-world-series-how-relentless-crew-made-city-believe",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/4d1fd6c5-image-2.png?ve=1&tl=1",
-      "published": "10/29/2026, 6:52:25 PM",
-      "desc": "Overlooked and undervalued, here's how the Milwaukee Brewers made a city believe and became the undisputed best team in baseball."
-    },
-    {
-      "title": "10 Most Historic Venues To Host A Men's College Basketball Ahead Of Rome Opener",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mens-college-basketball/rome-villanova-notre-dame-air-carrier-classic-football-stadiums",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/historic-cbb-venues-16x9-1.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 6:52:22 PM",
-      "desc": "Here are the most historic venues to host a college basketball game."
-    },
-    {
-      "title": "NFL Week 8 Betting Report: Is Lamar Back? Bettors Still Backing Bills, The Over",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-8-betting-report-bettors-backing-over-ravens-bills-tilt",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/c2786bfe-hero-3.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 6:22:22 PM",
-      "desc": "Bettors are expecting point in Ravens-Bills, and there's two-way action on Chiefs-Broncos. Patrick Everson has the NFL midweek betting scoop."
-    },
-    {
-      "title": "2026 Super Bowl Odds: Bears Surge After Blockbuster Trade For Jeffery Simmons",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/sb-odds-calebartboard-1_1024.png?ve=1&tl=1",
-      "published": "10/29/2026, 6:07:23 PM",
-      "desc": "The Bears have gone all in. Check out the latest Super Bowl odds after Chicago's blockbuster trade for Jeffery Simmons."
-    },
-    {
-      "title": "College Football Week 9 Betting Report: Books Need Florida To 'Hang In There'",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/college-football-week-9-betting-report-books-need-florida-hang-there",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/florida-1029.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 6:07:19 PM",
-      "desc": "The books are hoping for a few specific results in college football Week 9. Patrick Everson breaks it down."
-    },
-    {
-      "title": "Scottish football could pave way for 3pm TV blackout to end",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg",
-      "published": "10/29/2026, 5:52:23 PM",
-      "desc": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle."
-    },
-    {
-      "title": "Mexico City Grand Prix: Kimi Antonelli to miss media day with illness",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3173/live/156e6ee0-d3bb-11f1-8c27-87a7c72809db.jpg",
-      "published": "10/29/2026, 5:37:29 PM",
-      "desc": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title."
-    },
-    {
-      "title": "Arsenal's Max Dowman to miss three matches after red card appeal rejected",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg",
-      "published": "10/29/2026, 5:37:23 PM",
-      "desc": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected."
-    },
-    {
-      "title": "South Africa vs Australia: Careless dismissals give tourists route to series win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/490e/live/0176af60-d3b6-11f1-b441-2b33b063138f.jpg",
-      "published": "10/29/2026, 5:22:29 PM",
-      "desc": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order."
-    },
-    {
-      "title": "Ben Duckett and Liam Dawson impress as England beat Sri Lanka to end tri-series",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/06b4/live/7a9b9240-d3a0-11f1-a5cd-49637fcbd4e4.jpg",
-      "published": "10/29/2026, 5:22:26 PM",
-      "desc": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka."
-    },
-    {
-      "title": "Colts' Jonathan Taylor confirms he hasn't requested trade - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50319874/colts-jonathan-taylor-confirms-requested-trade",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1028%2Fr1737542_1296x729_16%2D9.jpg",
-      "published": "10/29/2026, 5:12:02 PM",
-      "desc": "The Colts' Jonathan Taylor confirmed he has not asked for a trade amid the team's roster overhaul, but he acknowledged that any and all changes are possible."
-    },
-    {
-      "title": "Sources - Red Wings won't play Dylan Larkin for 'trade-related' reasons - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/50319798/sources-red-wings-play-dylan-larkin-trade-related-reasons",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1720104_1296x729_16%2D9.jpg",
-      "published": "10/29/2026, 5:03:32 PM",
-      "desc": "Red Wings coach Todd McLellan told reporters that Dylan Larkin would not be in the lineup against the Blackhawks, with sources telling ESPN the center is being held out for \"trade-related\" reasons."
-    },
-    {
-      "title": "Colorado QB Lewis suffers medical emergency, hospitalized - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50319712/colorado-qb-lewis-suffers-medical-emergency-hospitalized",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2Fr1711146_1296x729_16%2D9.jpg",
-      "published": "10/29/2026, 4:55:45 PM",
-      "desc": "Colorado quarterback Julian Lewis suffered a medical emergency Wednesday and was transported to the hospital, his father announced Thursday."
-    },
-    {
-      "title": "USC Coach Lincoln Riley Gives Vivid Response About Coaching Future",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/lincoln-riley-rumors-college-football-coaches-usc-schedule",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/lincoln2.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 4:37:20 PM",
-      "desc": "Amid speculation about his future in Los Angeles, USC head coach Lincoln Riley made his intentions crystal clear."
-    },
-    {
-      "title": "Sergio Garcia targets Ryder Cup return as he confirms LIV exit to rejoin DP World Tour",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/cw3djl7mz90zo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d238/live/d5365760-d3ac-11f1-a5cd-49637fcbd4e4.jpg",
-      "published": "10/29/2026, 4:07:11 PM",
-      "desc": "Sergio Garcia becomes the latest big name to quit LIV Golf and targets a Ryder Cup return after saying he will rejoin the DP World Tour."
-    },
-    {
-      "title": "Jets Star Garrett Wilson Explains Why He Won't Request Trade",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/garrett-wilson-trade-rumors-jets-stats",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/garrett2.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 3:52:19 PM",
-      "desc": "New York Jets star Garrett Wilson explained why he won't force a trade to depart the team that drafted him."
-    },
-    {
-      "title": "2026 NBA Cup Odds: Spurs Favored To Win; Wemby Leads MVP Race",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nba/2026-nba-cup-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/313b421b-artboard-1.jpg?ve=1&tl=1",
-      "published": "10/29/2026, 3:52:15 PM",
-      "desc": "Check out the odds and what you need to know about the fourth annual NBA Cup, beginning Friday night."
     }
   ],
   "tech": [
+    {
+      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+      "image": "https://images.macrumors.com/t/gv1HLtk4s4KiIwN0tHPLUiH0wvU=/2324x/article-new/2026/10/iPad-mini-OLED-feature-1.jpg",
+      "published": "10/29/2026, 8:47:14 PM",
+      "desc": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead..."
+    },
+    {
+      "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-XL-and-9-Pro-XL-top-down.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/29/2026, 8:41:55 PM",
+      "desc": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big..."
+    },
+    {
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
+      "published": "10/29/2026, 8:18:49 PM",
+      "desc": "The latest update also brings a cloud recovery option for PCs that won't boot."
+    },
+    {
+      "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/29/2026, 7:00:00 PM",
+      "desc": "iOS 27.2 launched this week with many new features, including an Apple TV app upgrade that’s especially perfect for iPhone Duo: Multiview."
+    },
+    {
+      "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/01/google_nest_mini_1.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "10/29/2026, 6:53:56 PM",
+      "desc": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings."
+    },
+    {
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "image": "https://images.macrumors.com/t/rTTakfNNe9wWFgyJebWjcZi-DoM=/1600x/article-new/2026/10/Pinched-iPad-Mini.jpg",
+      "published": "10/29/2026, 6:52:30 PM",
+      "desc": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South..."
+    },
     {
       "title": "Assassins Creed Codename Hexe Gets Cryptic Update That Fans Will Surely Decode - IGN",
       "source": "IGN",
@@ -222,60 +270,12 @@
       "desc": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky teaser, we still don't know much about it. In a new blog post, Ubisoft has shared a cryptic clue that may shed some light on the project — if you're able to decode …"
     },
     {
-      "title": "The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
-      "image": "https://assets-prd.ignimgs.com/2026/08/11/tes6-1786479096622.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "10/29/2026, 4:56:41 PM",
-      "desc": "A new report claims that the next Elder Scrolls game will be titled The Elder Scrolls 6: Sentinel, along with new story details."
-    },
-    {
-      "title": "‘Destiny 2’ Unvaulting Timeline Revealed With Menagerie’s Return - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/29/destiny-2-unvaulting-timeline-revealed-and-menagerie-is-back/",
+      "title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
       "image": "",
-      "published": "10/29/2026, 4:35:01 PM",
+      "published": "10/29/2026, 5:09:23 PM",
       "desc": ""
-    },
-    {
-      "title": "Big Warhammer Day news for Officially Licensed video games and merch - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-2-share-lw5oyqre6k.jpg",
-      "published": "10/29/2026, 3:56:46 PM",
-      "desc": "Reveals, special offers, and more."
-    },
-    {
-      "title": "\"Mega Rayquaza ex Premium Tournament Collection\" Revealed, Features Dragon Shield Products Instead of Ultra PRO! - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/2026/10/mega-rayquaza-ex-premium-tournament-collection-revealed-features-dragon-shield-products-instead-of-ultra-pro",
-      "image": "https://www.pokebeach.com/news/2026/10/mega-rayquaza-ex-premium-tournament-collection-169-en-1.png",
-      "published": "10/29/2026, 3:42:58 PM",
-      "desc": "A new \"Mega Rayquaza ex Premium Tournament Collection\" will release on February 12th! It will feature the full art version of Mega Rayquaza ex that was"
-    },
-    {
-      "title": "Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More - PCMag",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/news/pro-and-tell-apple-event-everything-announced-touchscreen-macbook-m6imac",
-      "image": "https://i.pcmag.com/imagery/articles/03vDW8je84ihkQZRyzJ6ZOZ-3.fit_lim.size_1200x630.v1793204896.jpg",
-      "published": "10/29/2026, 3:36:36 PM",
-      "desc": "We've got all the details on Apple's week of MacBook, iMac, and iPad mini product announcements, including a MacBook Pro with an OLED touch screen."
-    },
-    {
-      "title": "Virtua Fighter Crossroads adds Lionel Rafale - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/10/virtua-fighter-crossroads-adds-lionel-rafale",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/VFC-Lionel_10-29-26.jpg",
-      "published": "10/29/2026, 3:06:13 PM",
-      "desc": "Publisher SEGA and developer RGG Studio have released a new trailer for Virtua Fighter Crossroads introducing returning fighter Lionel Rafale."
-    },
-    {
-      "title": "The Gear Patrol Holiday Gift Edit: 125+ Ideas for 2026 - Gear Patrol",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/gift-guides/best-holiday-christmas-gift-ideas-2026/",
-      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/gear-patrol-holiday-gift-edit-2026.webp",
-      "published": "10/29/2026, 2:43:58 PM",
-      "desc": "The 2026 Gear Patrol Holiday Gift Edit collects fresh finds, proven standbys and worthy splurges across tech, whiskey, watches and more."
     }
   ],
   "education": [
@@ -374,21 +374,21 @@
     },
     {
       "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
       "title": "Thriller",
       "artist": "Michael Jackson",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/thriller/269572838?i=269573303&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Thriller"
+    },
+    {
+      "rank": 5,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 6,
@@ -401,15 +401,6 @@
     },
     {
       "rank": 7,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
-    },
-    {
-      "rank": 8,
       "title": "BAD TIMES",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
@@ -418,13 +409,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
+      "rank": 8,
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
+    },
+    {
       "rank": 9,
-      "title": "She Break",
-      "artist": "shockfactor",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/40/6d6e402b-0f07-b156-c972-110edc2b4fed/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/76/db/a276db15-f5ee-42ae-1c4e-01d0f9daa976/mzaf_10898261723547627357.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/she-break/6820285244?i=6820285697&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=shockfactor%20She%20Break"
+      "title": "Ghostbusters",
+      "artist": "Ray Parker Jr.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/70/43/9a704362-976d-ec4b-0367-54d368cb0ef8/886445902204.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/1f/f1/701ff165-58e2-75eb-464b-fec3483f93bd/mzaf_15159076127980316987.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/ghostbusters/1127013560?i=1127014316&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ray%20Parker%20Jr.%20Ghostbusters"
     },
     {
       "rank": 10,
@@ -446,21 +446,21 @@
     },
     {
       "rank": 12,
+      "title": "She Break",
+      "artist": "shockfactor",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/40/6d6e402b-0f07-b156-c972-110edc2b4fed/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/76/db/a276db15-f5ee-42ae-1c4e-01d0f9daa976/mzaf_10898261723547627357.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/she-break/6820285244?i=6820285697&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=shockfactor%20She%20Break"
+    },
+    {
+      "rank": 13,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
-    },
-    {
-      "rank": 13,
-      "title": "Ghostbusters",
-      "artist": "Ray Parker Jr.",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/70/43/9a704362-976d-ec4b-0367-54d368cb0ef8/886445902204.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/1f/f1/701ff165-58e2-75eb-464b-fec3483f93bd/mzaf_15159076127980316987.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/ghostbusters/1127013560?i=1127014316&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ray%20Parker%20Jr.%20Ghostbusters"
     },
     {
       "rank": 14,
@@ -502,24 +502,6 @@
     },
     {
       "rank": 3,
-      "title": "Ebenezer",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "url": "https://www.themoviedb.org/movie/1567605"
-    },
-    {
-      "rank": 4,
-      "title": "Moana",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "url": "https://www.themoviedb.org/movie/1108427"
-    },
-    {
-      "rank": 5,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -528,16 +510,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 6,
-      "title": "Tenzing",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "url": "https://www.themoviedb.org/movie/1288069"
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "Sense and Sensibility",
       "year": "2026",
       "cert": "U",
