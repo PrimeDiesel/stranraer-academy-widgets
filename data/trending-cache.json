@@ -1,21 +1,45 @@
 {
-  "updated": "2026-10-29T20:55:34.117Z",
+  "updated": "2026-10-30T00:39:09.954Z",
   "news": [
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
-      "published": "10/28/2026, 8:52:28 PM",
-      "desc": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+      "published": "10/29/2026, 12:37:19 AM",
+      "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "title": "George Michael: Family row over dozens items up for auction",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
-      "published": "10/28/2026, 8:52:24 PM",
-      "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg",
+      "published": "10/29/2026, 12:22:19 AM",
+      "desc": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold."
+    },
+    {
+      "title": "AI used to remove visible differences from photographs criticised",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg",
+      "published": "10/28/2026, 11:37:16 PM",
+      "desc": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
+    },
+    {
+      "title": "King Charles shows off dance moves on second day of Caribbean tour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99e4/live/f61cf470-d316-11f1-93e1-3b657b665bcf.jpg",
+      "published": "10/28/2026, 10:52:27 PM",
+      "desc": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women."
+    },
+    {
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+      "published": "10/28/2026, 10:07:24 PM",
+      "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
     },
     {
       "title": "John Healey unveils £100 for energy bills and bank tax in first Budget",
@@ -24,22 +48,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
       "published": "10/28/2026, 8:22:20 PM",
       "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
-    },
-    {
-      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-      "published": "10/28/2026, 7:37:27 PM",
-      "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
-    },
-    {
-      "title": "Spain train crash: What we know after two trains collide with dozens feared dead",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f7/live/e4acc800-d302-11f1-a701-fddedf244c16.jpg",
-      "published": "10/28/2026, 7:22:22 PM",
-      "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
     },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -56,17 +64,129 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
       "published": "10/28/2026, 5:22:22 PM",
       "desc": "Here is what you need to know about the payment that millions will receive from January."
-    },
-    {
-      "title": "Tommy Robinson guilty of harassing Daily Mail journalists",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "published": "10/28/2026, 2:52:23 PM",
-      "desc": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court."
     }
   ],
   "sports": [
+    {
+      "title": "Estevao: Why is the Brazilian becoming Chelsea's forgotten man?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg",
+      "published": "10/29/2026, 12:22:18 AM",
+      "desc": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso."
+    },
+    {
+      "title": "Josh Downs Requests Trade From Indy: Who Are The Colts Top Remaining Trade Chips?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/josh-downs-requests-trade-out-indy-who-colts-top-remaining-trade-chips",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/downs2.jpg?ve=1&tl=1",
+      "published": "10/28/2026, 11:52:18 PM",
+      "desc": "With the trade deadline less than two weeks away, Josh Downs could be the next Colt on the move under interim general manager Ed Dodds."
+    },
+    {
+      "title": "Justin Jefferson addresses down year amid Vikings' 6-0 start - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50311965/justin-jefferson-addresses-year-amid-vikings-6-0-start",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0928%2Fr1722809_1296x729_16%2D9.jpg",
+      "published": "10/28/2026, 11:22:06 PM",
+      "desc": "Justin Jefferson, whose 23 catches are a career-low through the first seven weeks of a season, said ultimately what the 6-0 Vikings are doing now \"is working.\""
+    },
+    {
+      "title": "World Series Game 5 Scores, Highlights: Brewers Aim To Close Out Rays",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/mlb/world-series-game-5-scores-highlights-brewers-aim-to-close-out-rays",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1408/814/9aff71d4-16x9-1.jpg?ve=1&tl=1",
+      "published": "10/28/2026, 11:07:24 PM",
+      "desc": "Follow along for the top moments and highlights from Game 5 of the World Series between Milwaukee Brewers and Tampa Bay Rays."
+    },
+    {
+      "title": "A Sign of Hope: Lamar Jackson Returns To Practice As Ravens Prepare For Bills",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nothing-kills-the-vibe-in-baltimore-quite-like-an-injury-to-lamar-jackson-this-year-is-no-different",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/ravens.jpg?ve=1&tl=1",
+      "published": "10/28/2026, 11:07:19 PM",
+      "desc": "Lamar Jackson was a full participant in practice for the Baltimore Ravens, which suggests his latest injury saga could be over sooner rather than later."
+    },
+    {
+      "title": "Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b83d/live/3ba1f500-d320-11f1-ba7d-b5eab6da6837.jpg",
+      "published": "10/28/2026, 11:07:16 PM",
+      "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup."
+    },
+    {
+      "title": "Study - Nearly 75% of NFLers that died from 2008-'23 had CTE - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50311853/study-nearly-75-nfl-players-died-2008-23-had-cte",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2F260904_nfl_risk%2Dof%2Dcte_16x9.jpg",
+      "published": "10/28/2026, 11:02:07 PM",
+      "desc": "An estimated 75% of ex-NFL players who died between 2008-'23 had CTE, the neurodegenerative brain disease tied to high-impact sports, according to a new study."
+    },
+    {
+      "title": "Liverpool 1-1 Chelsea (6-5 on pens): Reds into last eight after shootout",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c69wz7x4jq71t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7919/live/91244600-d31a-11f1-ba7d-b5eab6da6837.jpg",
+      "published": "10/28/2026, 10:37:24 PM",
+      "desc": "Liverpool reach quarter-finals after dramatic penalty shootout win over Chelsea."
+    },
+    {
+      "title": "Sunderland 3-2 Brentford: Black Cats into last eight for first time since 2022",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ckgj9nwqvxl6t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b831/live/b668f8b0-d316-11f1-ba7d-b5eab6da6837.jpg",
+      "published": "10/28/2026, 10:07:41 PM",
+      "desc": "Premier League strugglers Sunderland book their place in the quarter-finals of the Carabao Cup with victory over Brentford."
+    },
+    {
+      "title": "Celtic 2-2 Dundee United: Scottish Premiership radio commentary, updates & match report",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cjy56g9zywxwt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "10/28/2026, 10:07:33 PM",
+      "desc": "Scottish Premiership leaders Celtic are held to a thrilling draw as Dundee United extend their unbeaten run to six games."
+    },
+    {
+      "title": "Arsenal vs Benfica: UEFA Women's Champions League stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ck62yl0mr89et",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e08/live/008791f0-4235-11f0-835b-310c7b938e84.jpg",
+      "published": "10/28/2026, 10:07:26 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Arsenal vs Benfica in the UEFA Women's Champions League"
+    },
+    {
+      "title": "Manchester City vs Brighton & Hove Albion: League Cup stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/ck9qzeprvpn8t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5244/live/9fe9bc40-d317-11f1-ba7d-b5eab6da6837.jpg",
+      "published": "10/28/2026, 9:52:28 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Manchester City vs Brighton & Hove Albion in the League Cup"
+    },
+    {
+      "title": "The Brilliance Behind NFL's Best WR, Jaxon Smith-Njigba; Inside NFC West Arms Race",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/jaxon-smith-njigba-best-wide-receiver-seahawks-49ers-deforest-buckner-quenton-nelson-trades",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/16x9wild-16.jpg?ve=1&tl=1",
+      "published": "10/28/2026, 9:37:16 PM",
+      "desc": "We found out how Jaxon Smith-Njigba has established himself as the NFL's best wide receiver, and how the Seahawks' and 49ers' trades will impact the NFC West race."
+    },
+    {
+      "title": "Justin Tucker: Kansas City Chiefs defend decision to sign kicker to practice squad",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9289/live/6098a200-d30c-11f1-ad4f-5d2bbacf0caf.jpg",
+      "published": "10/28/2026, 9:22:22 PM",
+      "desc": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\"."
+    },
+    {
+      "title": "Jets WR Garrett Wilson says he doesn't want to be traded - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1026%2Fr1736512_1296x729_16%2D9.jpg",
+      "published": "10/28/2026, 9:19:00 PM",
+      "desc": "Jets receiver Garrett Wilson says he doesn't want to be traded but he expressed that he's frustrated by his target share and, most of all, losing."
+    },
     {
       "title": "2026 NBA Defensive Player Of The Year Odds: Wembanyama Or The Field?",
       "source": "Fox Sports",
@@ -90,129 +210,33 @@
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0401%2Fr1637203_1296x729_16%2D9.jpg",
       "published": "10/28/2026, 8:35:57 PM",
       "desc": "Lakers star Luka Doncic (back) and starter Ziaire Williams (foot) will not play in Wednesday's game vs. the Clippers, who will be without Rui Hachimura (quad)."
-    },
-    {
-      "title": "Dream looking to rekindle their 'joy' in Game 6 vs. Valkyries - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/wnba/story/_/id/50310648/dream-looking-rekindle-their-joy-game-6-vs-valkyries",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1028%2Fr1737351_1296x729_16%2D9.jpg",
-      "published": "10/28/2026, 8:19:26 PM",
-      "desc": "The Dream are looking to tap back into the confidence, joy and swagger that got them to the championship series ahead of a must-win Game 6 against the Valkyries on Thursday."
-    },
-    {
-      "title": "Lions Clear Kerby Joseph To Practice, But Activation Or IR Decision Looms",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/detroit-lions-kerby-joseph-injury-injured-reserve",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/josephh1.jpg?ve=1&tl=1",
-      "published": "10/28/2026, 8:07:41 PM",
-      "desc": "The Detroit Lions cleared Kerby Joseph to practice on Wednesday, kicking off a 21-day process to determine whether he should be activated or placed on injured reserve."
-    },
-    {
-      "title": "2026 NFL DROY Odds: Jets, Giants Rising Stars Vie For Top Spot",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/david-bailey_droy_odds_jets_nfl.jpg?ve=1&tl=1",
-      "published": "10/28/2026, 8:07:40 PM",
-      "desc": "Two rising stars in the Big Apple are battling atop the NFL Defensive Rookie of the Year oddsboard after Week 7. See the latest."
-    },
-    {
-      "title": "Will Hill's Parlay Of The Week: Back Bucs To Beat Falcons, Ravens To Cover",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-bucs-beat-falcons-ravens-cover",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/parlay2-1.png?ve=1&tl=1",
-      "published": "10/28/2026, 8:07:37 PM",
-      "desc": "Check out Will Hill's five-leg parlay, featuring a Tampa Bay win in-division and a close one in Buffalo."
-    },
-    {
-      "title": "Novak Djokovic battles to 'big' comeback win over Ugo Humbert in Basel",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3499/live/a0de3e20-d306-11f1-ad4f-5d2bbacf0caf.jpg",
-      "published": "10/28/2026, 8:07:23 PM",
-      "desc": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals."
-    },
-    {
-      "title": "Benjamin Sesko: Man Utd striker ruled out until January with shin injury",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg",
-      "published": "10/28/2026, 8:07:19 PM",
-      "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
-    },
-    {
-      "title": "Chelsea 2-0 Roma: Blues remain unbeaten in Women's Champions League",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c95ynjd40l8vt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efde/live/46c63c90-d305-11f1-b441-2b33b063138f.jpg",
-      "published": "10/28/2026, 7:52:30 PM",
-      "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League."
-    },
-    {
-      "title": "Rays' Drew Rasmussen to start World Series Game 5 on short rest - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50310280/rays-drew-rasmussen-start-world-series-game-5-short-rest",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1008%2Fr1727946_1296x729_16%2D9.jpg",
-      "published": "10/28/2026, 7:44:36 PM",
-      "desc": "Drew Rasmussen will start on three days' rest in Game 5 of the World Series against the Brewers on Wednesday night, trying to stave off elimination for the Rays."
-    },
-    {
-      "title": "Chargers sticking with Mike McDaniel as offensive playcaller - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50310259/chargers-sticking-mike-mcdaniel-offensive-playcaller",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1019%2Fr1733141_1296x729_16%2D9.jpg",
-      "published": "10/28/2026, 7:36:40 PM",
-      "desc": "Embattled offensive coordinator Mike McDaniel will continue as the Chargers' playcaller, coach Jim Harbaugh announced Wednesday."
-    },
-    {
-      "title": "Scottish Premiership LIVE - radio commentary, text updates, team news, stats, reaction, analysis & head-to-head",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cwjdmjr3pmegt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "10/28/2026, 7:22:23 PM",
-      "desc": "Listen to Sportsound commentary from Tynecastle and Celtic Park - plus Open All Mics - and follow live text updates of Wednesday's six Scottish Premiership fixtures."
-    },
-    {
-      "title": "How Should NASCAR Handle Yellow Line, Fuel Mileage Debates After Talladega?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/how-should-nascar-handle-yellow-line-fuel-mileage-debates-after-talladega",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/second-thoughts-16x9-9.jpg?ve=1&tl=1",
-      "published": "10/28/2026, 6:52:25 PM",
-      "desc": "NASCAR has a new headache after debates about the double-yellow lines and fuel mileage emerged after Talladega."
-    },
-    {
-      "title": "EFL Cup last 16 LIVE: Liverpool vs Chelsea plus four other games - build-up, team news, score, radio commentary, text updates & match stats",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crz98pe8v2gqt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a473/live/deecde70-d22e-11f1-b8e4-17c9744a7f8e.jpg",
-      "published": "10/28/2026, 6:52:24 PM",
-      "desc": "Listen to BBC commentaries and follow live text updates from the last 16 of the EFL Cup, as Liverpool host Chelsea along with four other games."
-    },
-    {
-      "title": "2026 NFL OROY Odds: Carnell Tate Favored; KC Concepcion Skyrockets",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/carnell.jpg?ve=1&tl=1",
-      "published": "10/28/2026, 6:52:19 PM",
-      "desc": "Carnell Tate leads the NFL Offensive Rookie of the Year odds as KC Concepcion surges after a historic Week 7 performance. See the latest."
-    },
-    {
-      "title": "Ernie Johnson leaving as 'Inside the NBA' host after season - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50309868/ernie-johnson-leaving-nba-host-season",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1028%2Fr1737629_2_1296x729_16%2D9.jpg",
-      "published": "10/28/2026, 6:51:15 PM",
-      "desc": "Ernie Johnson will retire as host of \"Inside the NBA\" after the season, saying it was his decision to step away and that \"it's just time.\""
-    },
-    {
-      "title": "Saquon Barkley says he was forced to divest Polymarket stake - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1027%2Fr1736851_1296x729_16%2D9.jpg",
-      "published": "10/28/2026, 6:39:52 PM",
-      "desc": "Eagles star Saquon Barkley said he was forced to divest his equity stake in Polymarket to comply with NFL rules."
     }
   ],
   "tech": [
+    {
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
+      "published": "10/28/2026, 10:47:50 PM",
+      "desc": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+    },
+    {
+      "title": "All 16 D&D World of Warcraft Species Revealed - Dungeons & Dragons Fanatics",
+      "source": "Dungeonsanddragonsfan.com",
+      "url": "https://dungeonsanddragonsfan.com/dnd-world-of-warcraft-species/",
+      "image": "https://dungeonsanddragonsfan.com/wp-content/uploads/2026/10/dnd-wow-species-hero-1.png",
+      "published": "10/28/2026, 9:42:11 PM",
+      "desc": "We head into the heart of Azeroth and break out all the lore and mechanics for the 16 key species featured in the new D&D World of Warcraft supplement."
+    },
+    {
+      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "10/28/2026, 9:16:51 PM",
+      "desc": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6’s Jason and Lucia now that the game is almost here."
+    },
     {
       "title": "Hands-on with the new OLED iPad Mini - The Verge",
       "source": "The Verge",
@@ -220,6 +244,14 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "published": "10/28/2026, 7:18:58 PM",
       "desc": "Here are our first impressions of Apple’s 8th-generation iPad Mini, which has an OLED display."
+    },
+    {
+      "title": "Alien: Isolation 2's Xenomorph Will Be Able to Hear You Through Your Microphone - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/alien-isolation-2-preview-blogroll-1781007414832.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "10/28/2026, 6:47:11 PM",
+      "desc": "The team behind Alien: Isolation 2 released a Q&A that reveals new gameplay details, including using your real-life microphone, a physical edition, a photo mode, and more."
     },
     {
       "title": "Apple reveals pricing for Mac Studio with 512GB of RAM - 9to5Mac",
@@ -230,12 +262,12 @@
       "desc": "When Apple announced the new M5 Max and M5 Ultra configurations of the Mac Studio in August, it said a..."
     },
     {
-      "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit' - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
-      "image": "https://images.macrumors.com/t/KUEtRMMevD2IJqeV3Kn18-sX4Do=/2192x/article-new/2026/10/World-Travel-Adapter-Kit-Feature-with-Charger.jpg",
-      "published": "10/28/2026, 6:29:51 PM",
-      "desc": "Apple today began selling updated versions of its 70W Power Adapter, 140W Power Adapter, and Power Adapter Extension Cable, all with a new \"AC..."
+      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099 - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&strip=all&crop=0%2C6.9047953874279%2C100%2C78.534031413613&w=1200",
+      "published": "10/28/2026, 6:14:11 PM",
+      "desc": "Through year’s end, the Google glasses will sell for $180 less than the price Xreal originally announced."
     },
     {
       "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
@@ -244,38 +276,6 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&resize=1200,628",
       "published": "10/28/2026, 5:56:20 PM",
       "desc": "Google announced the Connected Apps Platform as a “unified way for more app developers to bring their capabilities directly into Gemini and Search.”"
-    },
-    {
-      "title": "Apple announces touchscreen MacBook Pro with OLED display - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
-      "published": "10/28/2026, 5:25:04 PM",
-      "desc": "The OLED display is the main draw, but the price is a lot to reckon with."
-    },
-    {
-      "title": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
-      "image": "https://assetsio.gnwcdn.com/lost-records-bloom-and-rage-a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published": "10/28/2026, 5:10:24 PM",
-      "desc": "Life is Strange developer Don't Nod - maker of Remember Me, Vampyr, Banishers, Jusant, and many more - is in dire straits."
-    },
-    {
-      "title": "Dynamax Trails: Eternatus Returns - Pokémon GO Hub",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2026/10/eternatus.jpg",
-      "published": "10/28/2026, 4:19:59 PM",
-      "desc": "Pokémon GO’s Dynamax Trails event runs from November 16 at 10:00 a.m. to November 23 at 8:00 p.m. local time, bringing a week of Max Battles and the return of Eternatus! Expect more Power Spots active than usual, GO Pass and GO Pass Deluxe, themed wild encoun…"
-    },
-    {
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
-      "published": "10/28/2026, 4:00:00 PM",
-      "desc": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests."
     }
   ],
   "education": [
@@ -517,6 +517,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
       "url": "https://www.themoviedb.org/movie/1503762"
+    },
+    {
+      "rank": 5,
+      "title": "Moana",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "url": "https://www.themoviedb.org/movie/1108427"
+    },
+    {
+      "rank": 6,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "url": "https://www.themoviedb.org/movie/1300968"
     }
   ],
   "tv": [
