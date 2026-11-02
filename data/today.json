@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-01T11:55:54.710Z",
-  "day": 304,
+  "generated": "2026-11-02T13:41:41.080Z",
+  "day": 305,
   "movie": {
-    "title": "Avengers: Age of Ultron",
+    "title": "Jaws",
     "safe": true,
-    "cert": "12A",
-    "source": "tmdb-uk",
-    "year": "2015",
-    "plot": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
-    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
-    "genre": "",
+    "cert": "PG",
+    "source": "omdb-us",
+    "year": "1975",
+    "plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+    "poster": "https://image.tmdb.org/t/p/w500/3aLabIgttFYtHaN7eVQAA9nGdHz.jpg",
+    "genre": "Adventure, Horror, Thriller",
     "season": null
   },
   "song": {
-    "key": "Heart-Barracuda",
+    "key": "Yellowcard-Ocean Avenue",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/83/f2/1b83f233-20c6-c876-ab7a-15757ad397b1/074643479929.jpg/600x600bb.jpg",
-    "year": "1977",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/e0/d7/21e0d77b-e66c-0d04-c11f-f4287afd24cd/13UABIM59255.rgb.jpg/600x600bb.jpg",
+    "year": "2003",
     "v": 4
   },
   "album": {
-    "key": "The xx-xx",
+    "key": "Enigma-MCMXC a.D.",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/df/6b/59df6bec-17f5-b578-aee2-b1a772d2ab9b/889030044761.png/600x600bb.jpg",
-    "year": "2009",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/10/26/28/1026288d-85ad-aaf1-c8ad-984b4911317a/00724381045459.rgb.jpg/600x600bb.jpg",
+    "year": "1990",
     "v": 4
   }
 }
