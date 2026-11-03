@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-02T19:15:06.865Z",
+  "updated": "2026-11-03T02:02:18.095Z",
   "news": [
+    {
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1b/live/eaba2bb0-d48e-11f1-9a20-f717db279e3e.jpg",
+      "published": "11/2/2026, 1:37:23 AM",
+      "desc": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
+    },
+    {
+      "title": "A&E warning system to flag dangerously ill children",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f122/live/44b1df60-d461-11f1-ab12-eb0c94f5b382.jpg",
+      "published": "11/2/2026, 1:22:20 AM",
+      "desc": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care."
+    },
+    {
+      "title": "New Buy Now Pay Later rules - don't get caught out",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+      "published": "11/2/2026, 1:07:20 AM",
+      "desc": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it."
+    },
+    {
+      "title": "Democrat Haley Stevens endorses Republican in Michigan Senate race",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+      "published": "11/1/2026, 11:22:27 PM",
+      "desc": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+    },
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation alert, Air Force says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+      "published": "11/1/2026, 10:52:22 PM",
+      "desc": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+    },
+    {
+      "title": "Nine killed in Florida plane crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg",
+      "published": "11/1/2026, 9:52:21 PM",
+      "desc": "Transport Secretary Sean Duffy describes the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a \"horrific tragedy\""
+    },
     {
       "title": "Ciara Mageean: Tributes to 'inspirational' Olympic athlete after death at 34",
       "source": "BBC News",
@@ -16,266 +64,218 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb8/live/e1b11720-d616-11f1-90fb-b3468681b3ba.png",
       "published": "11/1/2026, 6:07:22 PM",
       "desc": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday."
-    },
-    {
-      "title": "Thousands of jobs at Virgin Media O2 to be cut",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
-      "published": "11/1/2026, 5:52:19 PM",
-      "desc": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
-    },
-    {
-      "title": "Henry Nowak: Southampton student’s family on police footage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png",
-      "published": "11/1/2026, 4:52:22 PM",
-      "desc": "His family describe the night police told them of his death, and watching him being handcuffed."
-    },
-    {
-      "title": "Five teenagers stabbed at Halloween party in Chandler's Ford",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg",
-      "published": "11/1/2026, 2:22:26 PM",
-      "desc": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford."
-    },
-    {
-      "title": "Cambridge scientist Marta Shahbazi dies in Spanish train crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc83/live/ab6f0590-d5db-11f1-a25d-8f13519027da.jpg",
-      "published": "11/1/2026, 10:07:21 AM",
-      "desc": "A Spanish research centre has confirmed her death days after she was declared misisng."
-    },
-    {
-      "title": "Heidi Klum's Halloween costume revealed as Traitors' Maya Jama dresses as Mo Farah",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/946c/live/79b0d500-d5cd-11f1-82ae-81055b9ae1cd.jpg",
-      "published": "11/1/2026, 9:07:22 AM",
-      "desc": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets."
-    },
-    {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
-      "published": "11/1/2026, 3:07:20 AM",
-      "desc": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
     }
   ],
   "sports": [
     {
-      "title": "Giant curiosity Hibs finally liberated from the sucker punch",
+      "title": "East Carolina Pirates' David Coleman Jr suffers fractured leg after slip by referee",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg",
-      "published": "11/1/2026, 7:22:31 PM",
-      "desc": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English."
+      "url": "http://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1882/live/eccbb630-d605-11f1-a790-6f04ef4f8c74.jpg",
+      "published": "11/2/2026, 1:52:22 AM",
+      "desc": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls."
     },
     {
-      "title": "Irish Edge Wildcats: Notre Dame Outlasts Villanova 74–72 in Season Opener In Rome",
+      "title": "Best Fits For Jonathan Taylor: Which 6 Teams Make The Most Sense For Colts RB?",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-basketball/notre-dame-beats-villanova-7472-in-mens-college-basketball-season-opener-in-rome",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/villanova.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 7:22:27 PM",
-      "desc": "Brady Koehler scored key baskets down the stretch and Notre Dame made a late comeback after trailing for most of the second half to beat Villanova 74-72 in the college basketball season opener in Rome"
+      "url": "https://www.foxsports.com/stories/nfl/jonathan-taylor-best-fits-nfl-trade-deadline-rumors",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/taylor-trade-fits.jpg?ve=1&tl=1",
+      "published": "11/2/2026, 1:22:23 AM",
+      "desc": "Indianapolis Colts RB Jonathan Taylor is the hottest name on the trade market with the deadline Nov. 10. Here are six teams that would make sense for Taylor."
     },
     {
-      "title": "F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/live/clyr72l2mzvt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f43/live/b52227f0-d623-11f1-a701-fddedf244c16.jpg",
-      "published": "11/1/2026, 7:22:27 PM",
-      "desc": "Follow live text updates and listen to radio commentary of the Mexico City Grand Prix."
-    },
-    {
-      "title": "Ravens Star QB Lamar Jackson Leaves Game vs. Bills With Thumb Injury",
+      "title": "Denver Takes Control Of AFC West: 3 Takeaways From The Broncos' Win Over The Chiefs",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-star-qb-lamar-jackson-departs-vs-bills-thumb-injury",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/lamar-jackson.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 7:22:24 PM",
-      "desc": "Lamar Jackson's return from an ankle injury might not have lasted very long."
+      "url": "https://www.foxsports.com/stories/nfl/denver-takes-control-afc-west-3-takeaways-from-broncos-win-over-chiefs",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/chiefs-broncos-takeaways.jpg?ve=1&tl=1",
+      "published": "11/2/2026, 1:22:23 AM",
+      "desc": "The Denver Broncos delivered the biggest win of their season by taking down the Kansas City Chiefs. Here are Greg Auman's takeaways."
     },
     {
-      "title": "UCLA into AP top 5, while Ohio State falls out of top 10 - ESPN",
+      "title": "Eagles vs. Commanders Live Updates, Score: NFC East Rivals Clash",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/nfl/eagles-vs-commanders-live-updates-score",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1408/814/liveblog-16x9sun-night.jpg?ve=1&tl=1",
+      "published": "11/2/2026, 1:22:21 AM",
+      "desc": "Follow along here for live updates and highlights throughout Eagles vs. Commanders."
+    },
+    {
+      "title": "'Jets being Jets' - Fitzpatrick sums up team's latest loss - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50349707/ucla-ap-top-5-ohio-state-falls-top-10",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1031%2Fr1739177_1296x729_16%2D9.jpg",
-      "published": "11/1/2026, 7:02:06 PM",
-      "desc": "Ohio State dropped out of the top 10 of The Associated Press Top 25 for the first time in five years, UCLA entered the top five for the first time in 25 years, and New Mexico earned the first ranking in program history."
+      "url": "https://www.espn.com/nfl/story/_/id/50353796/jets-being-jets-fitzpatrick-sums-team-latest-loss",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739801_1296x729_16%2D9.jpg",
+      "published": "11/2/2026, 12:56:13 AM",
+      "desc": "After the Jets dropped another one-score game, Minkah Fitzpatrick had a label for the way they lose games: \"Jets being Jets.\""
     },
     {
-      "title": "Liverpool 0-1 Arsenal (Nov 1, 2026) Game Analysis - ESPN",
+      "title": "Steelers' dog-themed jabs at Browns tops NFL Week 8 trolls - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401879246",
-      "image": "https://s.secure.espncdn.com/stitcher/sports/soccer/eng.1/events/401879246.png?templateId=espn.com.share.1",
-      "published": "11/1/2026, 6:52:25 PM",
-      "desc": "Expert recap and game analysis of the Liverpool vs. Arsenal English Premier League game from November 1, 2026 on ESPN."
+      "url": "https://www.espn.com/nfl/story/_/id/50353702/nfl-week-8-trolls",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1739869_1296x729_16%2D9.jpg",
+      "published": "11/2/2026, 12:54:00 AM",
+      "desc": "NFL team's remained petty in Week 8, led by jabs from the Pittsburgh Steelers aimed at the Cleveland Browns."
     },
     {
-      "title": "Liverpool v Arsenal player ratings: Whose mistake was costly? Who was the top Gunner?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/381b/live/0f9c8e70-d61d-11f1-905f-4bb31135b4e2.jpg",
-      "published": "11/1/2026, 6:52:24 PM",
-      "desc": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head."
-    },
-    {
-      "title": "Ravens' Lamar Jackson out for rest of game with thumb injury - ESPN",
+      "title": "Gardner Minshew replaces Jacoby Brissett in Cardinals OT win - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50349558/ravens-lamar-jackson-rest-game-thumb-injury",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739589_1296x729_16%2D9.jpg",
-      "published": "11/1/2026, 6:44:27 PM",
-      "desc": "Ravens quarterback Lamar Jackson has been ruled out for the rest of Sunday's game against the Bills with a right thumb injury."
+      "url": "https://www.espn.com/nfl/story/_/id/50353468/cardinals-mike-lafleur-noncommittal-starting-qb-gardner-minshew-replaces-jacoby-brissett-win",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739778_1296x729_16%2D9.jpg",
+      "published": "11/2/2026, 12:26:42 AM",
+      "desc": "Cardinals coach Mike LaFleur wouldn't commit to next week's starting quarterback after Gardner Minshew replaced Jacoby Brissett in the third quarter Sunday and led Arizona to a comeback win over Dallas."
     },
     {
-      "title": "Jauan Jennings Rejects 49ers Reunion, Turning Down Trade To Stay With Vikings",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/jauan-jennings-declines-49ers-trade-stay-vikings",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/jennings1.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 6:37:26 PM",
-      "desc": "FOX Sports NFL Insider Jay Glazer reports that former 49ers receiver Jauan Jennings turned down a chance to return to San Francisco."
-    },
-    {
-      "title": "NFL Trade Deadline: Is Maxx Crosby On The Move? Latest On Raiders' Star Edge Rusher",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-maxx-crosby-raiders",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 6:37:23 PM",
-      "desc": "What's the latest on the Raiders' Maxx Crosby and a potential trade? FOX NFL Insider Jay Glazer shares the latest updates on Crosby."
-    },
-    {
-      "title": "2026 College Football Playoff Odds: Could Ohio State Be Left Out?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/to-make-cfp.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 6:07:24 PM",
-      "desc": "Ohio State suffered its second loss of the year. How did it affect its Playoff chances? See the latest CFP odds."
-    },
-    {
-      "title": "NFL Week 8 Live Updates, Scores: Can Lions End Vikings' Undefeated Start?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/nfl/nfl-week-8-live-updates-scores",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1408/814/liveblog-16x9mon.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 6:07:21 PM",
-      "desc": "Here are all the highlights from Sunday's slate of games."
-    },
-    {
-      "title": "Racing Santander 0-3 Real Madrid: England's Jude Bellingham scores in win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c6zxj7vpggn2t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e212/live/55f5d420-d614-11f1-90fb-b3468681b3ba.jpg",
-      "published": "11/1/2026, 5:52:27 PM",
-      "desc": "Jude Bellingham is on target as Real Madrid back up last week's El Classico win with a statement victory at Racing Santander."
-    },
-    {
-      "title": "Are Celtic club in regression amid run of six defeats in 10? Pundits have their say",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg",
-      "published": "11/1/2026, 5:52:22 PM",
-      "desc": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant."
-    },
-    {
-      "title": "Notre Dame rallies to beat Villanova in Rome season opener - ESPN",
+      "title": "Colts' Shane Steichen to 'evaluate everything' after 42-7 loss - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50349074/notre-dame-rallies-beat-villanova-rome-season-opener",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739540_1296x729_16%2D9.jpg",
-      "published": "11/1/2026, 5:44:36 PM",
-      "desc": "Notre Dame rallied late to beat Villanova in the Eternal City Tip-Off, a season opening event played in Rome in front of Wildcats alum Pope Leo XIV."
+      "url": "https://www.espn.com/nfl/story/_/id/50353308/colts-shane-steichen-evaluate-everything-42-7-loss",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739815_1296x729_16%2D9.jpg",
+      "published": "11/2/2026, 12:13:30 AM",
+      "desc": "After the Colts' 42-7 loss to the Jaguars on Sunday, the Colts coach Shane Steichen left open the possibility of significant changes, including at quarterback."
     },
     {
-      "title": "2026 CFP Title Odds: Hectic Weekend Causes Major Shake-Up",
+      "title": "Jones backs Schottenheimer, says Cowboys let coach down - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50353004/jones-backs-schottenheimer-says-cowboys-let-coach-down",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739769_1296x729_16%2D9.jpg",
+      "published": "11/1/2026, 11:53:32 PM",
+      "desc": "Despite matching the largest blown fourth-quarter lead in team history, Cowboys owner Jerry Jones said the loss to Arizona will not trigger a coaching change."
+    },
+    {
+      "title": "How Harriet Dart revived career under former Wimbledon champion Marion Bartoli",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg",
+      "published": "11/1/2026, 11:52:22 PM",
+      "desc": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career."
+    },
+    {
+      "title": "Steelers say Browns' Verse 'should have kept mouth shut' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50352885/steelers-say-browns-verse-kept-mouth-shut",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739803_1296x729_16%2D9.jpg",
+      "published": "11/1/2026, 11:43:41 PM",
+      "desc": "The Steelers got the last word after Browns defensive end Jared Verse's trash talk ahead of Sunday's matchup."
+    },
+    {
+      "title": "LFGibbs? Jahmyr Gibbs Powers His Way To LFG Player Of The Game In Lions' Win vs. Vikings",
       "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/2026-cfp-title-odds",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/cfp-odds.jpg?ve=1&tl=1",
-      "published": "11/1/2026, 5:22:19 PM",
-      "desc": "Check out the updated national championship odds, after a few nailbiters caused some chaos on the oddsboard."
+      "url": "https://www.foxsports.com/stories/nfl/lfgibbs-jahmyr-gibbs-powers-his-way-lfg-player-game-lions-win-vs-vikings",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/story-header-1.jpg?ve=1&tl=1",
+      "published": "11/1/2026, 11:22:26 PM",
+      "desc": "Jahmyr Gibbs was named Tom Brady’s LFG Player of the Game after rushing for 153 yards and a touchdown on 23 carries in a 19-15 win over the Minnesota Vikings."
     },
     {
-      "title": "Carlos Alcaraz beats Alex de Minaur at Vienna Open to maintain perfect ATP 500 record",
+      "title": "Lewis Hamilton says Ferrari need to have 'serious talks' after Charles Leclerc",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/crd6dezj8v86o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d330/live/a3223b70-d60b-11f1-bdc5-33a5057f63d4.jpg",
-      "published": "11/1/2026, 4:22:23 PM",
-      "desc": "Carlos Alcaraz extends his winning run in ATP 500 events with a straight-set victory over Alex de Minaur at the Vienna Open."
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/acfa/live/c64d1030-d646-11f1-93e1-3b657b665bcf.jpg",
+      "published": "11/1/2026, 11:07:20 PM",
+      "desc": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico."
     },
     {
-      "title": "Women's Super League: Defeat for London City - but is Europe a real possibility?",
+      "title": "Kimi Antonelli quiz: How much do you know about new F1 world champion?",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg",
-      "published": "11/1/2026, 4:07:27 PM",
-      "desc": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected."
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c98rzkv5y115o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03ec/live/7a9b0a60-ce2c-11f1-a64c-550be9e3c66b.png",
+      "published": "11/1/2026, 10:37:30 PM",
+      "desc": "Kimi Antonelli has been crowned Formula 1 world champion - how well do you know the Mercedes driver?"
+    },
+    {
+      "title": "Kimi Antonelli heads list of F1's youngest champions from Vettel, Hamilton, Alonso, Verstappen and Fittipaldi",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cjy56wkdk3nko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18c8/live/7dea6970-d00e-11f1-b441-2b33b063138f.png",
+      "published": "11/1/2026, 10:37:28 PM",
+      "desc": "As Kimi Antonelli becomes F1's youngest world champion, we look at how his achievement compares with some of the drivers who previously held the record."
+    },
+    {
+      "title": "Buccaneers Become First NFL Team In 52 Years To Win Without Completing A Pass",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/buccaneers-beat-falcons-without-completing-pass",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/baker-mayfield-2.jpg?ve=1&tl=1",
+      "published": "11/1/2026, 10:37:26 PM",
+      "desc": "In a driving rain in Tampa, the Buccaneers beat the Atlanta Falcons 16-0 without completing a pass, a feat unseen in the NFL for 52 years."
+    },
+    {
+      "title": "Kimi Antonelli - the boy 'born in a garage' and made on the track",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
+      "published": "11/1/2026, 10:37:26 PM",
+      "desc": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20."
+    },
+    {
+      "title": "Minnesota Suffers First Defeat: 3 Takeaways From The Lions' Win Over The Vikings",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/3-takeaways-from-lions-win-over-vikings",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/6f3ab117-nfl-16x9-1.jpg?ve=1&tl=1",
+      "published": "11/1/2026, 10:37:24 PM",
+      "desc": "The Vikings are undefeated no more, and a clear problem has emerged in Minnesota."
     }
   ],
   "tech": [
     {
-      "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJGMktGdmVObUxsaGR1a1N6dEN1RVBrd2ZjNmxSenBRMFh0c0Y0VmxURS04Xy13ZEJ0VGZ5bEhrX1diZUxmel82LXBMb21WY29rUnlVOUVidm1UV3VlRmhyTmU5cDdoRTd3Umo3c2JTZTYzbmx1RVNfRTBlb2d3TWxiejBMa1VOdlVfRmFDaWZpdW1tdEppNXhHYUc?oc=5",
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026? - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
+      "image": "https://images.pushsquare.com/7e49b9a1b76d4/1280x720.jpg",
+      "published": "11/2/2026, 12:05:45 AM",
+      "desc": "Plus or minus?"
+    },
+    {
+      "title": "iPhone Duo cracks are real, and Apple's 'small number' may not be so small - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/iphone-duo-cracks-are-real-and-apples-small-number-may-not-be-so-small_id184475",
       "image": "",
-      "published": "11/1/2026, 7:32:02 PM",
+      "published": "11/1/2026, 11:31:52 PM",
       "desc": ""
     },
     {
-      "title": "‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free - Forbes",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUc4bUdhLVRaR2l6bC1mNmFCZVBCdHRiSXh2VEl0Q1JvbDl1bHpldzdjWjVqeGRUeURJaDE2bV9VTDVuQ2VKYzJEMVU1RWE0bVJwQ3NiVVBLTlp3aWx2UE9nOGpYSE5VUDJveU5UdE5wU0Y1WUxFTG5kb1hlRWwyNWNUN1AxWGVCLUVjT1VtQ1BpemhSVkJYVlM0YkJvLWJqN0EtdUZRLWQyaTdJYUNrZDdKTmlVWEtkMUpn?oc=5",
+      "title": "Queen's Domain Review - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/review/21673-queens-domain-review",
+      "image": "https://images.rpgsite.net/articles/thumbnail/a3ecf1c/21673/original/queensdomainreviewminipic.jpg",
+      "published": "11/1/2026, 11:15:03 PM",
+      "desc": "More than just a love letter to King's Field, Queen's Domain is a genuine must play"
+    },
+    {
+      "title": "Your PlayStation 5 Can Play PS2 Discs, But You'll Have To Do Some Extra Legwork - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2297900/how-to-play-ps2-game-discs-playstation-5/",
+      "image": "https://www.slashgear.com/img/gallery/your-playstation-5-can-play-ps2-discs-but-youll-have-to-do-some-extra-legwork/l-intro-1793076644.jpg",
+      "published": "11/1/2026, 8:45:00 PM",
+      "desc": "Learn how to play PS2 discs on a PS5 using the PS5SX2 emulator: jailbreak firmware limits, SSD disc dumping, CD-ROM hurdles, and emulation setup steps."
+    },
+    {
+      "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "11/1/2026, 8:44:00 PM",
+      "desc": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”"
+    },
+    {
+      "title": "World Market’s Vibrant New Christmas Ornament Is Perfect for Hummingbird Enthusiasts - PetHelpful",
+      "source": "Pethelpful.com",
+      "url": "https://pethelpful.com/shopping/world-market-red-glass-hummingbird-feeder-ornament",
       "image": "",
-      "published": "11/1/2026, 6:10:09 PM",
+      "published": "11/1/2026, 8:26:24 PM",
       "desc": ""
     },
     {
-      "title": "G.Skill 32 GB DDR5 Now Costs $156 When Purchased With Ryzen 9850X3D And B850 Motherboard Bundle - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/g-skill-32-gb-ddr5-now-costs-156-when-purchased-with-ryzen-9850x3d-and-b850-motherboard-bundle/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/32-GB-Ryzen-9850X3D-bundle.jpg",
-      "published": "11/1/2026, 5:46:03 PM",
-      "desc": "Get the AMD Ryzen 7 9850X3D, 32 GB DDR5 RAM, and B850 motherboard bundle for $829 at Micro Center, saving $324 off the regular price."
+      "title": "Google says Googlebook ‘detachables’ are coming soon - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/11/01/googlebook-detachables/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?resize=1200,628",
+      "published": "11/1/2026, 8:07:00 PM",
+      "desc": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor."
     },
     {
-      "title": "Why blaming Xbox players for 'Gears of War: E-Day' sales is completely ridiculous - Windows Central",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0UyMmVVQ0tReDhzamh2Z1BRT0NYTWs2SnNxOV80UE56MG01dmFCSnpTcWtLb205V3Y3TWVzM280WnpURUFmZWJTVkViLXhSTjZRU2xCd2NOVHhaakQzNVQ0bkw5RnNCRU1qMjBEOFFDR2NGVnlYYlVvZXk5c3djR3E5THRoMy1ob2JDMFQ5RQ?oc=5",
-      "image": "",
-      "published": "11/1/2026, 5:11:04 PM",
-      "desc": ""
-    },
-    {
-      "title": "A Persona 1 remake called Be Your True Mind has seemingly leaked, and it looks a lot like Persona 5 - Eurogamer.net",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YNXpoWFJaenAySUlWQy04V1ZZc2NHZTdzc29KUDlIMldyaWFXZ1cybWZ6WGQ3Y0xCYXFYQWJWNVkxQTVuRE84d3NmVUotaHE1dS1ieXhJWHRqRl9GY2NKdVc1emF2YV9vbE1hTFFsd056Yk0?oc=5",
-      "image": "",
-      "published": "11/1/2026, 4:35:17 PM",
-      "desc": ""
-    },
-    {
-      "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnE77inLpeM/v0/1200x800.jpg",
-      "published": "11/1/2026, 4:32:16 PM",
-      "desc": "Also: The latest on the cracked iPhone Duo screens."
-    },
-    {
-      "title": "Mario-Dressed Speedrunner Breaks World Record - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
-      "image": "https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg",
-      "published": "11/1/2026, 4:28:46 PM",
-      "desc": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run"
-    },
-    {
-      "title": "Big Warhammer Day news for Officially Licensed video games and merch - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-2-share-lw5oyqre6k.jpg",
-      "published": "11/1/2026, 4:24:14 PM",
-      "desc": "Reveals, special offers, and more."
+      "title": "Graphics Call of Duty Modern Warfare 4 with DLSS 5 technology compared to a 1440p film - GameGPU",
+      "source": "Gamegpu.com",
+      "url": "https://en.gamegpu.com/news/igry/grafiku-call-of-duty-modern-warfare-4-s-tekhnologiej-dlss-5-sravnili-s-filmom-v-1440p",
+      "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/31/image_8wghfyhwfbogsdhfb_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/31/image_8wghfyhwfbogsdhfb_ggpu.webp?width=1920&height=1080",
+      "published": "11/1/2026, 7:43:06 PM",
+      "desc": "Enthusiasts demonstrated the capabilities of NVIDIA DLSS 5 neural network rendering technology using the story campaign of the military shooter Call of..."
     }
   ],
   "education": [
@@ -392,15 +392,6 @@
     },
     {
       "rank": 6,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 7,
       "title": "The Present",
       "artist": "Sam Clegg",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/27/1b/95271be7-2ced-52b0-84f3-ea0596fa9d80/859749260448_cover.jpg/300x300bb.jpg",
@@ -409,13 +400,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Clegg%20The%20Present"
     },
     {
+      "rank": 7,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
       "rank": 8,
-      "title": "Thriller",
-      "artist": "Michael Jackson",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/thriller/269572838?i=269573303&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Thriller"
+      "title": "BAD TIMES",
+      "artist": "Imael Angel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
     },
     {
       "rank": 9,
@@ -428,12 +428,12 @@
     },
     {
       "rank": 10,
-      "title": "BAD TIMES",
-      "artist": "Imael Angel",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times/1894224408?i=1894224409&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20BAD%20TIMES"
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/thriller/269572838?i=269573303&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Thriller"
     },
     {
       "rank": 11,
@@ -455,6 +455,15 @@
     },
     {
       "rank": 13,
+      "title": "She Break",
+      "artist": "shockfactor",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/6e/40/6d6e402b-0f07-b156-c972-110edc2b4fed/artwork.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/76/db/a276db15-f5ee-42ae-1c4e-01d0f9daa976/mzaf_10898261723547627357.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/she-break/6820285244?i=6820285697&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=shockfactor%20She%20Break"
+    },
+    {
+      "rank": 14,
       "title": "Dai Dai",
       "artist": "Shakira & Burna Boy",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
@@ -463,33 +472,24 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     },
     {
-      "rank": 14,
-      "title": "Angel Of My Dreams",
-      "artist": "JADE",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/fe/26/44fe26c1-0e3e-2c48-3898-d22eddc8e054/196872245967.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/ca/0d/cdca0d06-87cf-accc-9c92-6a5b319a3e0f/mzaf_10227241597042689372.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/angel-of-my-dreams/1754238138?i=1754238414&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=JADE%20Angel%20Of%20My%20Dreams"
-    },
-    {
       "rank": 15,
-      "title": "Mama, Don't Close Your Eyes",
-      "artist": "Bjorn Bonebreaker",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/2a/ae/942aae1b-16ec-7de9-4a1a-247e06ab8e5b/mzaf_13001702980669412928.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/mama-dont-close-your-eyes/6812292915?i=6812292916&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "The Hunger Games: Sunrise on the Reaping",
+      "title": "Wildwood",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-      "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "url": "https://www.themoviedb.org/movie/1300968"
+      "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+      "url": "https://www.themoviedb.org/movie/791523"
     },
     {
       "rank": 2,
@@ -511,35 +511,26 @@
     },
     {
       "rank": 4,
-      "title": "Wildwood",
+      "title": "Street Fighter",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
-      "url": "https://www.themoviedb.org/movie/791523"
+      "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "rank": 5,
-      "title": "Ebenezer",
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "url": "https://www.themoviedb.org/movie/1567605"
+      "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "url": "https://www.themoviedb.org/movie/1300968"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Marshals",
-      "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "url": "https://www.themoviedb.org/tv/290856"
-    },
-    {
-      "rank": 2,
       "title": "Ghosts",
       "year": "2021",
       "cert": "12",
