@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-08T15:49:40.939Z",
+  "updated": "2026-11-08T20:15:02.728Z",
   "news": [
     {
-      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "title": "'Please take the job!' - Trump asks UFC boss Dana White to be White House press secretary",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg",
-      "published": "11/7/2026, 2:52:20 PM",
-      "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday."
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg",
+      "published": "11/7/2026, 7:37:23 PM",
+      "desc": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+    },
+    {
+      "title": "Krakow shooting: What we know about gun attack in Poland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "published": "11/7/2026, 6:37:25 PM",
+      "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, says Barnier",
@@ -16,14 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
       "published": "11/7/2026, 1:37:22 PM",
       "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
-    },
-    {
-      "title": "Two held after boy hurt in sword attack near Gloucester school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acd6/live/c7e3b830-da98-11f1-8206-e519d24a9ca2.png",
-      "published": "11/7/2026, 11:22:23 AM",
-      "desc": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday."
     },
     {
       "title": "Jehovah's Witness rules on blood transfusions have changed, but it's too late for my brother",
@@ -44,151 +44,207 @@
   ],
   "sports": [
     {
-      "title": "Wales vs Japan LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
+      "title": "Paris Masters: Carlos Alcaraz sets up Ben Shelton rematch by beating Casper Ruud to reach final",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/c6gel9d84050t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35f0/live/8e8c2040-dac0-11f1-8c3b-f3c0d6bd7c4f.jpg",
-      "published": "11/7/2026, 3:52:23 PM",
-      "desc": "Follow build-up, team news, scores & live text updates as Wales host Japan in the Nations Championship at Principality Stadium, Cardiff."
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/69b5/live/e9ff53f0-dae0-11f1-88f9-d3c2139f8619.jpg",
+      "published": "11/7/2026, 8:07:31 PM",
+      "desc": "Carlos Alcaraz says he is ready for \"one of most difficult challenges in tennis\" after setting up a rematch against Ben Shelton in the Paris Masters final."
     },
     {
-      "title": "Illinois coach Bret Bielema takes veiled shot at SEC, CFP - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50408410/illinois-coach-bret-bielema-takes-veiled-shot-sec-cfp",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742398_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 3:28:52 PM",
-      "desc": "Big Ten coaches continue to be rankled by the initial College Football Playoff rankings, with Illinois coach Bret Bielema taking the latest veiled shot at the SEC."
-    },
-    {
-      "title": "Abu Dhabi Championship: Jon Rahm takes one-shot lead into final round",
+      "title": "Valencia vs Real Madrid: Spanish La Liga stats & head-to-head",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/golf/articles/crq5nvdq726jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3c64/live/2e20d1e0-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg",
-      "published": "11/7/2026, 3:07:24 PM",
-      "desc": "Jon Rahm leads Tyrrell Hatton and Francesca Laporta by one shot, and Rory McIlroy by two, after the third round of the Abu Dhabi Championship."
-    },
-    {
-      "title": "Sao Paulo Grand Prix: Max Verstappen, Lewis Hamilton and Charles Leclerc to have grid penalties",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7855/live/74e37800-dabb-11f1-8c3b-f3c0d6bd7c4f.jpg",
-      "published": "11/7/2026, 3:07:20 PM",
-      "desc": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix."
-    },
-    {
-      "title": "Leeds 1-0 Tottenham: Noah Okafor downs Tottenham to earn Leeds first win since September",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cq33x0rvmjret",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a984/live/3bfa3640-dab7-11f1-8c3b-f3c0d6bd7c4f.jpg",
-      "published": "11/7/2026, 2:52:31 PM",
-      "desc": "Substitute Noah Okafor scores the only goal of the game as Leeds United beat Tottenham Hotspur to earn a first Premier League win since September."
-    },
-    {
-      "title": "Sources - BYU RB LJ Martin to return, play vs. No. 3 Utah - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50407948/sources-byu-rb-lj-martin-return-play-vs-no-3-utah",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0910%2Fr1714424_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 2:32:34 PM",
-      "desc": "BYU star running back LJ Martin, who hasn't played since Oct. 3 due to an ankle injury, will play in the Cougars' showdown against No. 3 Utah, sources told ESPN."
+      "url": "http://www.bbc.co.uk/sport/football/live/c9y7l4p8v268t",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/02bc/live/b9962f40-dad6-11f1-a5ce-051ed00618a3.jpg",
+      "published": "11/7/2026, 8:07:25 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Valencia vs Real Madrid in the Spanish La Liga"
     },
     {
       "title": "Saturday's Scottish Premiership & Championship LIVE - radio commentary & text coverage",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/live/cqev3lp07k91t",
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "11/7/2026, 2:22:27 PM",
+      "published": "11/7/2026, 8:07:21 PM",
       "desc": "Listen to Sportsound and follow live text coverage of Saturday's Scottish Premiership and Championship fixtures."
     },
     {
-      "title": "F1 practice LIVE: Sao Paulo Grand Prix 2026 times, results & radio from Interlagos",
+      "title": "Arsenal 1-0 Hull City: Another 1-0 for relentless Arsenal - but did Martin Odegaard spare VAR blushes?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg",
+      "published": "11/7/2026, 7:52:21 PM",
+      "desc": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?"
+    },
+    {
+      "title": "'Please take the job!' - Trump asks UFC boss Dana White to be White House press secretary",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg",
+      "published": "11/7/2026, 7:37:31 PM",
+      "desc": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+    },
+    {
+      "title": "Nottingham Forest 3-1 Manchester City: Liam Delap double helps Forest earn first home win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c5wyrmwlv8wvt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c49/live/0012e0d0-dae1-11f1-88f9-d3c2139f8619.jpg",
+      "published": "11/7/2026, 7:37:28 PM",
+      "desc": "Liam Delap scores twice as Nottingham Forest earn their first home Premier League win of the season with a pugnacious victory over a slipshod Manchester City."
+    },
+    {
+      "title": "Nebraska Makes Major Coaching Change After 4th Consecutive Loss",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/nebraska-fires-oc-dana-holgorsen-cornhuskers-coaching-staff",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/dana.jpg?ve=1&tl=1",
+      "published": "11/7/2026, 7:37:23 PM",
+      "desc": "Following their fourth consecutive loss, Nebraska Cornhuskers head coach Matt Rhule has fired offensive coordinator Dana Holgorsen."
+    },
+    {
+      "title": "Nottingham Forest condemn Man City to 3rd straight league loss - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742522_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 7:30:00 PM",
+      "desc": "Nottingham Forest condemned Manchester City to a third straight Premier League loss as Enzo Maresca's previously unbeaten side slipped further behind leaders Arsenal."
+    },
+    {
+      "title": "Wales 28-21 Japan: Steve Tandy's side labour to Nations Championship win",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3cb/live/47522870-dad2-11f1-bda8-29fb69dbc026.jpg",
+      "published": "11/7/2026, 7:22:24 PM",
+      "desc": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium."
+    },
+    {
+      "title": "Man arrested on stalking charges at LeBron James' home in L.A. - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50410292/man-arrested-stalking-charges-lebron-james-home-la",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1024%2Fr1735508_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 7:20:38 PM",
+      "desc": "A man was arrested on Friday night at LeBron James' Brentwood, California, home, a Los Angeles Police Department spokesperson confirmed to ESPN on Saturday."
+    },
+    {
+      "title": "Alcaraz looking for revenge vs. Shelton in Paris Masters final - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/50409999/alcaraz-looking-revenge-vs-shelton-paris-masters-final",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0909%2Fr1713652_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 6:55:55 PM",
+      "desc": "Carlos Alcaraz reached his third final since the US Open when he beat Casper Ruud 6-4, 6-4 at the Paris Masters on Saturday.Alcaraz will play Ben Shelton for the title."
+    },
+    {
+      "title": "Women's Super League: How Man City leapfrogged Chelsea before WSL showdown",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg",
+      "published": "11/7/2026, 6:52:26 PM",
+      "desc": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League."
+    },
+    {
+      "title": "NFL Trade Deadline Rumors: Colts Busy? Derrick Henry Status? Star TE Move?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-colts-jonathan-taylor-ravens-derrick-henry",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/a686e752-colts2.jpg?ve=1&tl=1",
+      "published": "11/7/2026, 6:52:23 PM",
+      "desc": "Here's the latest buzz around the NFL regarding the 2026 NFL trade deadline."
+    },
+    {
+      "title": "Friday Night Lights: Inside Illinois' Primetime Win Over Nebraska",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/photo-essay-inside-illinois-win-over-nebraska",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/nebraska-illinois-16x9-1.png?ve=1&tl=1",
+      "published": "11/7/2026, 6:37:22 PM",
+      "desc": "The Illini and Cornhuskers continue to head in opposite directions. Here's an inside look at their Friday night matchup in Champaign."
+    },
+    {
+      "title": "Browns QB Deshaun Watson out of concussion protocol - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1724705_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 6:24:03 PM",
+      "desc": "Browns QB Deshaun Watson is out of the concussion protocol, but is questionable. Shedeur Sanders will get the start against the Saints."
+    },
+    {
+      "title": "'Angry' Rhule fires OC Holgorsen amid Nebraska's 4-game skid - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50409703/angry-rhule-fires-oc-holgorsen-amid-nebraska-4-game-skid",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742480_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 6:23:55 PM",
+      "desc": "Nebraska's Matt Rhule has fired offensive coordinator Dana Holgorsen after the Huskers have averaged just 13.5 points during a four-game Big Ten losing streak."
+    },
+    {
+      "title": "How Miami QB Darian Mensah Can Boost His Heisman Case Against Notre Dame",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/darian-mensah-malachi-toney-injury-heisman-candidates-miami-notre-dame",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/mensah.png?ve=1&tl=1",
+      "published": "11/7/2026, 6:07:18 PM",
+      "desc": "FOX Sports' Brady Quinn explains why Darian Mensah could make a major Heisman statement against Notre Dame, even without Malachi Toney."
+    },
+    {
+      "title": "F1 qualifying LIVE: Sao Paulo Grand Prix 2026 times, results & radio from Interlagos",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/formula1/live/cx2wp8362g7t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53fd/live/c76c34e0-dab1-11f1-9da2-b11e4d68c08e.jpg",
-      "published": "11/7/2026, 2:22:23 PM",
-      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra 3 commentary of final practice for the Sao Paulo Grand Prix."
-    },
-    {
-      "title": "Kalyn Ponga: New Zealand reap rewards of gamble on 'freak of nature' at Rugby League World Cup",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f4f2/live/eeeda310-daab-11f1-9da2-b11e4d68c08e.jpg",
-      "published": "11/7/2026, 2:07:28 PM",
-      "desc": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right."
-    },
-    {
-      "title": "Scotland vs New Zealand LIVE: Nations Championship 2026 - Build-up, team news, scores & live text updates",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cwzd64pq8v67t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "11/7/2026, 1:52:23 PM",
-      "desc": "Follow build-up, team news, scores & live text updates as Scotland host New Zealand in the Nations Championship at Murrayfield, Edinburgh."
-    },
-    {
-      "title": "Championship LIVE: Build-up, team news, score updates, text commentary & match stats from across the Championship",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/c6073j93z158t",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "11/7/2026, 12:22:20 PM",
-      "desc": "Follow live text commentary and score updates from Saturday's action in the Championship."
-    },
-    {
-      "title": "Sources - Colts engaged in Daniel Jones trade talks - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1018%2Fr1732628_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 12:15:00 PM",
-      "desc": "The Colts have engaged in trade discussions with multiple teams involving QB Daniel Jones, sources told NFL Network and ESPN."
-    },
-    {
-      "title": "Sources - Ravens not expected to trade star RB Derrick Henry - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50400748/sources-ravens-not-expected-trade-star-rb-derrick-henry",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1106%2Fr1741963_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 12:02:00 PM",
-      "desc": "Ravens RB Derrick Henry is not expected to be traded by the NFL trade deadline, league sources told ESPN."
-    },
-    {
-      "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmj6jdk36975t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a11/live/4b42b370-da99-11f1-8206-e519d24a9ca2.jpg",
-      "published": "11/7/2026, 11:37:22 AM",
-      "desc": "Follow build-up, team news, live text, radio & score updates with BBC Radio 5 Live commentaries, Final Score from across the Premier League."
-    },
-    {
-      "title": "Arizona grabs onside kick, hits late FG to pull out TCU win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50406975/arizona-grabs-onside-kick-hits-late-fg-pull-tcu-win",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742335_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 11:09:57 AM",
-      "desc": "Arizona recovers an onside kick to setup a 37-yard field goal with under a minute to go as the Wildcats stunned TCU 29-28."
-    },
-    {
-      "title": "Luka Doncic stays hot, scores 53 to lead Lakers past Blazers - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742320_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 7:41:55 AM",
-      "desc": "Luka Doncic poured in a season-high 53 points in Friday's 124-118 win over the Blazers, raising his scoring average through 10 games to 40.1."
-    },
-    {
-      "title": "UConn stars exact revenge against Michigan in title game rematch - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50405738/uconn-stars-exact-revenge-michigan-title-game-rematch",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742319_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 6:32:50 AM",
-      "desc": "UConn's Silas DeMary Jr. and Braylon Mullins redeemed themselves after April's title game letdown, combining for 44 points to lead the Huskies past reigning champion Michigan."
-    },
-    {
-      "title": "LeBron James couldn't find 'good rhythm' in Cleveland return - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742313_1296x729_16%2D9.jpg",
-      "published": "11/7/2026, 5:51:59 AM",
-      "desc": "Returning to Cleveland as the opposition for the third time in a different NBA uniform, LeBron James struggled Friday night. finishing with eight points on 3-for-12 shooting with seven turnovers in Philadelphia's 119-96 NBA Cup game loss to the Cavaliers."
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec65/live/b4be6210-dace-11f1-bda8-29fb69dbc026.jpg",
+      "published": "11/7/2026, 5:52:22 PM",
+      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of qualifying for the Sao Paulo Grand Prix."
     }
   ],
   "tech": [
+    {
+      "title": "How Modders Spent Three Years Remastering Mass Effect 3's Fantastic Multiplayer For Legendary Edition: ‘Let’s Do Something Stupid’ - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691",
+      "image": "https://kotaku.com/app/uploads/2026/11/me3mplead.jpg",
+      "published": "11/7/2026, 5:00:29 PM",
+      "desc": "The ME3Tweaks Legendary Edition mod is out today for N7 Day"
+    },
+    {
+      "title": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2 - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+      "image": "https://images.nintendolife.com/61f542c60d887/1280x720.jpg",
+      "published": "11/7/2026, 4:30:16 PM",
+      "desc": "Download it for free from the eShop"
+    },
+    {
+      "title": "GTA 6's PS5 Physical Edition Revealed in First Photo - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+      "image": "https://images.pushsquare.com/22fef94b93cd7/1280x720.jpg",
+      "published": "11/7/2026, 3:00:00 PM",
+      "desc": "Code-in-box"
+    },
+    {
+      "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+      "image": "",
+      "published": "11/7/2026, 2:30:09 PM",
+      "desc": ""
+    },
+    {
+      "title": "BioWare Lives On: Here Are All The Post-BioWare Projects Currently In Production - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/bioware-lives-on-here-are-all-the-post-bioware-projects-currently-in-production/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/4076447-mass.jpg",
+      "published": "11/7/2026, 2:03:25 PM",
+      "desc": "BioWare may be gone, but its legacy continues through studios, projects, and games created by former employees."
+    },
+    {
+      "title": "Boeing retirees are hit with 400% increase in Medicare Advantage premiums - The Seattle Times",
+      "source": "The Seattle Times",
+      "url": "https://www.seattletimes.com/business/boeing-retirees-shocked-by-400-jump-in-health-insurance-premiums/",
+      "image": "https://images.seattletimes.com/wp-content/uploads/2026/11/11052026_tzr_tzr_162738.jpg?d=1200x630",
+      "published": "11/7/2026, 2:00:00 PM",
+      "desc": "Faced with staggering insurance premium hikes, Boeing retirees are weighing whether they can afford coverage — and even retirement."
+    },
+    {
+      "title": "In 1993, a Tennessee Man Started Digging a Pool in His Backyard. Now the 500K-Gallon Oasis Requires 100 Lbs. of Chlorine a Week - Yahoo",
+      "source": "PEOPLE",
+      "url": "https://people.com/tennessee-man-digs-500-000-gallon-backyard-pool-to-fulfill-childhood-dream-12208117",
+      "image": "https://s.yimg.com/lo/mysterio/api/41d40e479959d8ca6a09a8550f1d10694609236ff4f05f5b9dd0c520eac36098/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F70ccfb385d496d5ba93dc135ad80a46c.jpg",
+      "published": "11/7/2026, 9:59:00 AM",
+      "desc": "Micky Thornton started the massive project over 30 years ago"
+    },
     {
       "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
       "source": "Windows Central",
@@ -196,54 +252,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/qSjugCWqy45jwEfZ3P9DRQ-2325-80.jpg",
       "published": "11/7/2026, 6:23:43 AM",
       "desc": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a headache for World of Warcraft's retail arm."
-    },
-    {
-      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-      "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "11/7/2026, 3:12:00 AM",
-      "desc": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch"
-    },
-    {
-      "title": "GTA 6 Physical Edition Poster Revealed By Retailer - RockstarINTEL",
-      "source": "Rockstarintel.com",
-      "url": "https://rockstarintel.com/gta-6-physical-edition-poster-revealed-by-retailer/",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Jason_and_Lucia_15-0m-_zb-mcy2zr-1280.webp",
-      "published": "11/6/2026, 11:21:23 PM",
-      "desc": "A new GTA 6 poster that could come as part of the code in box copies of the game has been revealed. However, it may end up being limited to select retailers and it might not even be truly official. German retailer MediaMarkt has published a couple of images s…"
-    },
-    {
-      "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
-      "image": "https://kotaku.com/app/uploads/2026/11/linkgoron.jpg",
-      "published": "11/6/2026, 10:30:52 PM",
-      "desc": "These boots weren’t made for walking"
-    },
-    {
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
-      "published": "11/6/2026, 10:08:47 PM",
-      "desc": "It's mostly bad news from EA lately, but preservation efforts are nice to see."
-    },
-    {
-      "title": "iOS 27.3: New features, release date, more - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "11/6/2026, 9:58:00 PM",
-      "desc": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the..."
-    },
-    {
-      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "11/6/2026, 9:05:00 PM",
-      "desc": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap, which I'm already really loving."
     }
   ],
   "education": [
@@ -342,21 +350,21 @@
     },
     {
       "rank": 4,
-      "title": "Choosin' Texas",
-      "artist": "Ella Langley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 5,
       "title": "Babydoll",
       "artist": "Jamie Miller & Antonio Cipriano",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
+    },
+    {
+      "rank": 5,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
       "rank": 6,
@@ -414,15 +422,24 @@
     },
     {
       "rank": 12,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
+      "title": "Heaven Is A Place On Earth",
+      "artist": "Katherine Jenkins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3a/00/c83a0008-c2ec-32cc-62e4-905e8d40cadc/711641019244.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/07/9b/bd079b29-a0c4-992a-91b5-8ece8fd293ce/mzaf_10735253660763824798.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/heaven-is-a-place-on-earth/6825438899?i=6825439023&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Katherine%20Jenkins%20Heaven%20Is%20A%20Place%20On%20Earth"
     },
     {
       "rank": 13,
+      "title": "take me home (4 christmas)",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/a6/39/4fa63976-a53a-0084-ef73-b49bc2d8c29e/26UM1IM40331.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/ca/4f/89ca4f5b-8f00-4550-c626-612763129f8f/mzaf_6467749364833047402.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/take-me-home-4-christmas/6829976175?i=6829976181&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20take%20me%20home%20(4%20christmas)"
+    },
+    {
+      "rank": 14,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -431,22 +448,13 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Run",
       "artist": "Snow Patrol",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4f/62/d34f629f-25c0-6967-62e4-a443f7ae644f/23UMGIM17582.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/06/7a/d8067a36-be6e-3e0c-d422-d4e51d9495c5/mzaf_7565826060756256872.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/run/1673626820?i=1673626838&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Snow%20Patrol%20Run"
-    },
-    {
-      "rank": 15,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
     }
   ],
   "movies": [
@@ -470,12 +478,12 @@
     },
     {
       "rank": 3,
-      "title": "Spider-Man: Brand New Day",
+      "title": "Ebenezer",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
+      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "url": "https://www.themoviedb.org/movie/1567605"
     },
     {
       "rank": 4,
@@ -488,6 +496,15 @@
     },
     {
       "rank": 5,
+      "title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 6,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
       "cert": "12A",
