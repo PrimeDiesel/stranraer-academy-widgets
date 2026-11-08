@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T21:31:51.039Z",
+  "updated": "2026-11-08T01:08:56.941Z",
   "news": [
+    {
+      "title": "What happens if the internet goes down? BlackSky - the UK's emergency backup plans",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg",
+      "published": "11/7/2026, 1:22:19 AM",
+      "desc": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?"
+    },
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+      "published": "11/7/2026, 12:07:16 AM",
+      "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+    },
     {
       "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
       "source": "BBC News",
@@ -8,22 +24,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg",
       "published": "11/6/2026, 8:07:28 PM",
       "desc": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall."
-    },
-    {
-      "title": "Trump names Stephen Miller as new  chief of staff, replacing Susie Wiles",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5751/live/463b6050-da19-11f1-bba7-b50f1faa7672.jpg",
-      "published": "11/6/2026, 7:37:15 PM",
-      "desc": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday."
-    },
-    {
-      "title": "New wave of bomb threats hit European airlines",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg",
-      "published": "11/6/2026, 4:52:23 PM",
-      "desc": "No link has been established between the threats against the airlines and those against the media outlets."
     },
     {
       "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
@@ -44,6 +44,126 @@
   ],
   "sports": [
     {
+      "title": "Ireland 42-12 Argentina: Six tries and a big win - but were Andy Farrell's side ruthless?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/238a/live/a0d1cbc0-da3d-11f1-a9ed-ff1feb533701.jpg",
+      "published": "11/7/2026, 12:37:16 AM",
+      "desc": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win."
+    },
+    {
+      "title": "Kiernan Dewsbury-Hall: England 'disappointment' fuels midfielder's Everton heroics",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg",
+      "published": "11/7/2026, 12:37:13 AM",
+      "desc": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City."
+    },
+    {
+      "title": "Two women's basketball players make layups for wrong team - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/womens-college-basketball/story/_/id/50403206/two-women-basketball-players-make-layups-wrong-team",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742237_1296x729_16%2D9.jpg",
+      "published": "11/7/2026, 12:31:18 AM",
+      "desc": "Women's basketball players from New Mexico State and Northwestern State each sank layups on the wrong end of the floor on Friday, Emma Christiano of the Aggies, and Karma Wynn took of the Lady Demons."
+    },
+    {
+      "title": "NASCAR Title Tracker: Everything To Know About Season Finale At Homestead",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/nascar-title-tracker-everything-know-about-season-finale-homestead",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-67.jpg?ve=1&tl=1",
+      "published": "11/7/2026, 12:22:21 AM",
+      "desc": "Here's everything you need to know as NASCAR heads to Homestead-Miami for the season finale in Cup, O'Reilly and the trucks series."
+    },
+    {
+      "title": "Brandon Aiyuk meets with 49ers, 'looking to get reinstated' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1105%2Fr1741725_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 11:56:50 PM",
+      "desc": "Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making."
+    },
+    {
+      "title": "Witness: Clase 'inside' pitch info dried up amid Mizuhara case fallout - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/50402459/emmanuel-clase-luis-ortiz-information-trial-testimony-bettor",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1106%2Fr1742194_2_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 11:54:00 PM",
+      "desc": "A witness said that the inside info he used to bet on Clase pitches dried up due to increased scrutiny from the scandal involving Shohei Ohtani's interpreter."
+    },
+    {
+      "title": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1103%2Fr1740726_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 11:39:02 PM",
+      "desc": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals."
+    },
+    {
+      "title": "Coventry City: Frank Lampard questions decisions after Sky Blues fall at Everton",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg",
+      "published": "11/6/2026, 11:37:22 PM",
+      "desc": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty."
+    },
+    {
+      "title": "Ireland 42-12 Argentina: Hugo Keenan scores hat-trick as six-try hosts punish Pumas",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cmgellz7dn52o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/300c/live/abdf7280-da2c-11f1-ab60-69d917fc430c.jpg",
+      "published": "11/6/2026, 11:22:10 PM",
+      "desc": "Hugo Keenan scores a hat-trick of tries as Ireland open the home leg of the Nations Championship with a commanding bonus-point win over Argentina in Dublin."
+    },
+    {
+      "title": "WTA chair apologises to Jessica Pegula after airing of 'diva' comment",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c9fc/live/18726650-da2d-11f1-ab60-69d917fc430c.jpg",
+      "published": "11/6/2026, 10:52:23 PM",
+      "desc": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed."
+    },
+    {
+      "title": "NCAA secures win in struggle for five-year eligibility rule - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-sports/story/_/id/50402469/ncaa-secures-win-struggle-five-year-eligibility-rule",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1106%2Fr1742187_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 10:50:46 PM",
+      "desc": "Federal appeals court judges handed the NCAA a significant victory in its struggle to implement a new five-year eligibility ruling Friday, though the win does nothing to tamp down dozens of similar lawsuits playing out in state courts across the country."
+    },
+    {
+      "title": "Brady Returns: The Top 5 Tom Brady-Rob Gronkowski Plays At Gillette Stadium",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/brady-returns-top-5-tom-brady-rob-gronkowski-plays-gillette-stadium",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/liveblog-16x92-15.jpg?ve=1&tl=1",
+      "published": "11/6/2026, 10:37:21 PM",
+      "desc": "As Tom Brady and Rob Gronkowski return to their old stomping grounds, here are their five best plays at Gillette Stadium."
+    },
+    {
+      "title": "Men's college soccer 2-semester model rejected by DI schools - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50398688/mens-college-soccer-ncaa-calendar-2-semesters-season",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1106%2Fr1742180_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 10:34:00 PM",
+      "desc": "A proposal to split the men's college soccer season into two semesters starting in 2027-28 has failed after being rejected by NCAA's Division I schools."
+    },
+    {
+      "title": "Sandpapergate: Usman Khawaja claims whole Australia team knew about use of sandpaper to tamper with ball against South Africa",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7397/live/29b455a0-da27-11f1-a78c-49bd6dfbb9b5.jpg",
+      "published": "11/6/2026, 10:22:23 PM",
+      "desc": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa."
+    },
+    {
+      "title": "Warriors' Kristaps Porzingis to 'step away,' prioritize health - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0928%2Fr1722984_1296x729_16%2D9.jpg",
+      "published": "11/6/2026, 9:50:14 PM",
+      "desc": "Kristaps Porzingis announced that he will \"step away\" from the NBA in order to prioritize his health. He has not played for the Warriors this season."
+    },
+    {
       "title": "2026 NFL, CFB Odds: Best Bets For Texas-Missouri, Rams-Commanders",
       "source": "Fox Sports",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-cfb-odds-best-bets-texas-missouri-rams-commanders",
@@ -60,135 +180,23 @@
       "desc": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle."
     },
     {
-      "title": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50401690/alabama-ryan-coleman-williams-trio-return-vs-lsu",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0905%2Fr1711925_1296x729_16%2D9.jpg",
-      "published": "11/6/2026, 8:48:35 PM",
-      "desc": "Alabama will get a trio of injured starters -- WR Ryan Coleman-Williams, center Racin Delgatty and DT Terrance Green -- back for Saturday's game at LSU."
-    },
-    {
       "title": "Wings' Paige Bueckers, Azzi Fudd talk relationship on pod - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/wnba/story/_/id/50401662/wings-paige-bueckers-azzi-fudd-talk-relationship-pod",
       "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1106%2Fr1742109_1296x729_16%2D9.jpg",
       "published": "11/6/2026, 8:37:48 PM",
       "desc": "Azzi Fudd hosted Wings teammate Paige Bueckers on her podcast and the two discussed their relationship, Dallas' season and Fudd's recovery from knee surgery."
-    },
-    {
-      "title": "Sources - SEC mulls luxury tax for overspending on players - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50401639/sources-sec-mulls-luxury-tax-overspending-players",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706540_1296x729_16%2D9.jpg",
-      "published": "11/6/2026, 8:33:16 PM",
-      "desc": "The SEC is mulling a luxury tax on programs that spend more on players than the allotted revenue-sharing cap under the House v. NCAA settlement."
-    },
-    {
-      "title": "FA Cup first round LIVE: Bristol Rovers v Cambridge United & Oxford City v Leicester City - build-up, team news, score, radio commentary, text updates & match stats",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmq5n6g6w814t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a55c/live/35b544c0-da10-11f1-bbd1-cf41b7fd4e9b.jpg",
-      "published": "11/6/2026, 8:22:36 PM",
-      "desc": "Follow live text and radio commentary coverage from the first round of the FA Cup, as Bristol Rovers take on Cambridge United and Oxford City face Leicester City."
-    },
-    {
-      "title": "England v Australia: Player-coach rift report will only galvanise us - George",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/20db/live/d8475e40-da0a-11f1-bbd1-cf41b7fd4e9b.jpg",
-      "published": "11/6/2026, 8:22:35 PM",
-      "desc": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership."
-    },
-    {
-      "title": "Championship LIVE: Derby County v Bolton Wanderers text commentary",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crx23jz8j8nqt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "11/6/2026, 8:22:34 PM",
-      "desc": "Follow live text commentary and radio analysis as Derby County face Bolton Wanderers in the Championship."
-    },
-    {
-      "title": "Ireland vs Argentina LIVE: Aki a late withdrawal as Ireland face Argentina",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/live/cq2d63pwwdkkt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/756b/live/0eadab60-da1f-11f1-bba7-b50f1faa7672.jpg",
-      "published": "11/6/2026, 8:22:30 PM",
-      "desc": "Follow build-up, team news, scores & live text updates as Ireland host Argentina in the Nations Championship at Aviva Stadium, Dublin."
-    },
-    {
-      "title": "Premier League LIVE: Everton vs Coventry City - build-up, team news, score updates, text commentary & match stats",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cr15jy8xy50jt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2896/live/02e1c2e0-da1e-11f1-bba7-b50f1faa7672.jpg",
-      "published": "11/6/2026, 8:22:26 PM",
-      "desc": "Follow live text commentary, score updates and match stats as Everton take on Coventry City in the Premier League."
-    },
-    {
-      "title": "Sean McVay Gives Myles Garrett Update For Rams; Superstar Poised To Return?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/myles-garrett-injury-update-rams-news",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/myles2.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 8:07:15 PM",
-      "desc": "The Los Angeles Rams are expected to activate superstar pass rusher Myles Garrett from injured reserve for Week 9."
-    },
-    {
-      "title": "Spain Coach Says Soccer Can Help Heal Country After Recent Tragedies",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/spain-coach-pays-tribute-to-victims-of-train-crash-and-player-who-died-after-onfield-collision",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/spain-.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:38 PM",
-      "desc": "The coach of Spain’s soccer team paid tribute to two recent tragedies before announcing his Nations League squad."
-    },
-    {
-      "title": "Mark McKenzie Replaces Injured George Campbell on USMNT Roster vs. Haiti",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/mark-mckenzie-replaces-injured-george-campbell-on-us-roster-for-matches-against-haiti",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/mark-mckenzie-.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:36 PM",
-      "desc": "Mark McKenzie replaced injured defender George Campbell on Friday in the U.S. roster for CONCACAF Nations League quarterfinals against Haiti."
-    },
-    {
-      "title": "3 Takeaways From Spain, England, Portugal Nations League Roster Drops",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/england-spain-portugal-nations-league-ronaldo-bellingham-kane-yamal",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/spaintakeaways2.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:34 PM",
-      "desc": "Some of Europe's biggest heavyweights made some notable roster decisions ahead of Nations League action."
-    },
-    {
-      "title": "Browns QB Deshaun Watson In Concussion Protocol; Will Shedeur Sanders Start?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-concussion-injury-update-browns-shedeur-sanders",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/deshaun.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:22 PM",
-      "desc": "Shedeur Sanders will start at quarterback for the Browns in Week 9 against the Saints, as Deshaun Watson deals with a head injury."
-    },
-    {
-      "title": "NASCAR State Of Sport: League's View On Driver Safety, Schedule & Next Gen Car",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nascar/nascar-state-sport-leagues-view-driver-safety-schedule-next-gen-car",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/steve_odonnell_state-of-sport.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:19 PM",
-      "desc": "NASCAR CEO Steve O'Donnell spoke about the state of the sport, including driver safety and how the league views the Next Gen car."
-    },
-    {
-      "title": "Patriots RB Henderson Reveals Hospitalization For Neurological Symptoms",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-treveyon-henderson-hospital-tests",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/hendersonh1.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 7:37:15 PM",
-      "desc": "The Patriots running back revealed he has spent several days in the hospital to determine the cause of unexplained neurological symptoms that have affected his strength and coordination."
-    },
-    {
-      "title": "NFL Reportedly Tells Brandon Aiyuk He Owes 49ers About $13 Million",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-brandon-aiyuk-reinstatement-bonuses",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/aiyukh1.jpg?ve=1&tl=1",
-      "published": "11/6/2026, 6:52:24 PM",
-      "desc": "The NFL told receiver Brandon Aiyuk that he needs to repay the San Francisco 49ers about $13 million he in bonuses as he tries to get reinstated to the team’s roster."
     }
   ],
   "tech": [
+    {
+      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "11/6/2026, 9:05:00 PM",
+      "desc": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap, which I'm already really loving."
+    },
     {
       "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
       "source": "Ars Technica",
@@ -196,14 +204,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
       "published": "11/6/2026, 7:50:18 PM",
       "desc": "Developer: “I can’t be part of the Fox world.”..."
-    },
-    {
-      "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
-      "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-4b2b412307b72a21f68148c32fab7a278875d139-1920x1080-1793370780028.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "11/6/2026, 7:26:07 PM",
-      "desc": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare."
     },
     {
       "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
@@ -214,12 +214,28 @@
       "desc": "West Coast Customs painstakingly recreated the iconic cars of the game."
     },
     {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-DLSS-1920x1080.jpg",
+      "published": "11/6/2026, 7:00:00 PM",
+      "desc": "The Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time already runs at 60 frames per second on various PC emulators."
+    },
+    {
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
       "published": "11/6/2026, 6:44:20 PM",
       "desc": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+    },
+    {
+      "title": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
+      "image": "https://kotaku.com/app/uploads/2026/11/MEtruck-1200x675.jpg",
+      "published": "11/6/2026, 6:15:39 PM",
+      "desc": "BioWare fans continue to take the fight to IRL spaces"
     },
     {
       "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
@@ -236,25 +252,17 @@
       "image": "https://assets-prd.ignimgs.com/2026/11/06/xbox-series-x-x25-1787838440148-1793987454358.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "published": "11/6/2026, 6:04:07 PM",
       "desc": ""
-    },
-    {
-      "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2220974969.jpg",
-      "published": "11/6/2026, 5:50:00 PM",
-      "desc": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to benefit from it."
-    },
-    {
-      "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
-      "image": "https://images.macrumors.com/t/bn-vb4EvT__PrYAMCEn1MrjiwUo=/2572x/article-new/2026/11/Apple-Says-Over-100000-Apps-Optimized-for-iPhone-Duo-But-These-Are-Still-Missing-Feature-1.jpg",
-      "published": "11/6/2026, 5:18:31 PM",
-      "desc": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure..."
     }
   ],
   "education": [
+    {
+      "title": "How Labour's spiteful VAT raid and a mysterious takeover by a City speculator led to overnight closure of a 135-year-old private school: GUY ADAMS investigates",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16273055/How-Labours-spiteful-VAT-raid-mysterious-takeover-City-speculator-led-overnight-closure-135-year-old-private-school-GUY-ADAMS-investigates.html",
+      "image": "https://i.dailymail.com/1s/2026/11/06/22/112358597-0-image-a-6_1794004648203.jpg",
+      "published": "11/6/2026, 11:21:54 PM",
+      "desc": "Peeking through the letterbox, I spy a desk covered with half-finished paperwork and a basket full of golfing umbrellas. I call 'hello!' to no avail."
+    },
     {
       "title": "Private school fees in Ireland are rising by between 2% and 13%: how do schools compare?​‌",
       "source": "The Irish Times",
@@ -310,14 +318,6 @@
       "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
       "published": "10/15/2026, 9:53:12 AM",
       "desc": "As part of a new partnership with UKHospitality announced today (15 October 2026), major employers will provide paid employment as well as work experience and training opportunities for 18 to 24 year olds who are not in education, work or training."
-    },
-    {
-      "title": "Greta on tour: How Swedish eco activist has latched on to one hard-left cause after another - as she joins French student protesters",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16207813/Greta-tour-Swedish-eco-activist-latched-one-hard-left-cause-joins-French-student-protesters.html",
-      "image": "https://i.dailymail.com/1s/2026/10/14/14/111854041-0-image-a-15_1791983991743.jpg",
-      "published": "10/14/2026, 1:30:15 PM",
-      "desc": "Greta Thunberg has joined the thousands of students in France protesting for better investment in crumbling schools."
     }
   ],
   "music": [
@@ -368,15 +368,6 @@
     },
     {
       "rank": 6,
-      "title": "You Can't Always Get What You Want",
-      "artist": "Sam Fender",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/61/00/58610070-0c94-4692-5582-79b08dc704c4/26UM1IM30605.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/7c/3a/eb7c3a14-ed30-b9f6-0ba2-8d193839edb3/mzaf_10093059990563198360.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/you-cant-always-get-what-you-want/6823137462?i=6823137466&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Fender%20You%20Can't%20Always%20Get%20What%20You%20Want"
-    },
-    {
-      "rank": 7,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -385,22 +376,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 8,
-      "title": "take me home (4 christmas)",
-      "artist": "Olivia Rodrigo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/a6/39/4fa63976-a53a-0084-ef73-b49bc2d8c29e/26UM1IM40331.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/ca/4f/89ca4f5b-8f00-4550-c626-612763129f8f/mzaf_6467749364833047402.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/take-me-home-4-christmas/6829976175?i=6829976181&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20take%20me%20home%20(4%20christmas)"
+      "rank": 7,
+      "title": "You Can't Always Get What You Want",
+      "artist": "Sam Fender",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/61/00/58610070-0c94-4692-5582-79b08dc704c4/26UM1IM30605.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/7c/3a/eb7c3a14-ed30-b9f6-0ba2-8d193839edb3/mzaf_10093059990563198360.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/you-cant-always-get-what-you-want/6823137462?i=6823137466&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sam%20Fender%20You%20Can't%20Always%20Get%20What%20You%20Want"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Bad Times (Extended Version)",
       "artist": "Imael Angel",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/bad-times-extended-version/1890913668?i=1890913669&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20Bad%20Times%20(Extended%20Version)"
+    },
+    {
+      "rank": 9,
+      "title": "take me home (4 christmas)",
+      "artist": "Olivia Rodrigo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/a6/39/4fa63976-a53a-0084-ef73-b49bc2d8c29e/26UM1IM40331.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/ca/4f/89ca4f5b-8f00-4550-c626-612763129f8f/mzaf_6467749364833047402.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/take-me-home-4-christmas/6829976175?i=6829976181&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20take%20me%20home%20(4%20christmas)"
     },
     {
       "rank": 10,
@@ -422,12 +422,12 @@
     },
     {
       "rank": 12,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "Supermassive Black Hole",
+      "artist": "Muse",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/c1/5d/4ac15dc9-2ae6-1d5b-3add-43bae227f941/825646095452.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/4a/63/764a63c0-9533-97ce-51a5-31a23b57f2eb/mzaf_3187296926844362175.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/supermassive-black-hole/992221994?i=992221997&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Muse%20Supermassive%20Black%20Hole"
     },
     {
       "rank": 13,
@@ -440,21 +440,21 @@
     },
     {
       "rank": 14,
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 15,
       "title": "Patient Zero",
       "artist": "Taylor Swift",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/c8/21/ecc821bd-1252-51fe-08f0-f3d548dcc91b/mzaf_18965391367399255.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
-    },
-    {
-      "rank": 15,
-      "title": "Dai Dai",
-      "artist": "Shakira & Burna Boy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/dai-dai/6768469975?i=6768469976&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Shakira%20%26%20Burna%20Boy%20Dai%20Dai"
     }
   ],
   "movies": [
@@ -478,21 +478,21 @@
     },
     {
       "rank": 3,
-      "title": "Wildwood",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 4,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 4,
+      "title": "Wildwood",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "url": "https://www.themoviedb.org/movie/791523"
     },
     {
       "rank": 5,
@@ -504,5 +504,15 @@
       "url": "https://www.themoviedb.org/movie/1117898"
     }
   ],
-  "tv": []
+  "tv": [
+    {
+      "rank": 1,
+      "title": "Marshals",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "url": "https://www.themoviedb.org/tv/290856"
+    }
+  ]
 }
