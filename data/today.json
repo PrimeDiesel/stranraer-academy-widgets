@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-10T13:39:02.810Z",
-  "day": 313,
+  "generated": "2026-11-11T12:51:10.770Z",
+  "day": 314,
   "movie": {
-    "title": "2001: A Space Odyssey",
+    "title": "Wonka",
     "safe": true,
-    "cert": "U",
+    "cert": "PG",
     "source": "tmdb-uk",
-    "year": "1968",
-    "plot": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-    "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "year": "2023",
+    "plot": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+    "poster": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Johnny Cash-Hurt",
+    "key": "Janet Jackson-Rhythm Nation",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/42/cd/ac42cddb-98f0-a78b-6aac-4f08266d30c4/00602537277353.rgb.jpg/600x600bb.jpg",
-    "year": "2002",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/06/a5/5c06a5fc-6424-25e4-37c4-da5a9a18dd8a/00602547592378.rgb.jpg/600x600bb.jpg",
+    "year": "1989",
     "v": 4
   },
   "album": {
-    "key": "Wolfgang Amadeus Mozart-Requiem",
+    "key": "Steve Vai-Flex-Able",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/e6/b4/abe6b45f-990d-3a50-ead7-29fdd854fcfe/06UMGIM36351.rgb.jpg/600x600bb.jpg",
-    "year": "1999",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/79/e1/3d/79e13d4e-dce1-7016-8ded-657271d1783e/859721119757_cover.jpg/600x600bb.jpg",
+    "year": "1984",
     "v": 4
   }
 }
