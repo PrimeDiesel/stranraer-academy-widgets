@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-12T13:53:24.820Z",
-  "day": 315,
+  "generated": "2026-11-13T13:17:23.245Z",
+  "day": 316,
   "movie": {
-    "title": "Ralph Breaks the Internet",
+    "title": "Zootopia",
     "safe": true,
     "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2018",
-    "plot": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
-    "poster": "https://image.tmdb.org/t/p/w500/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+    "year": "2016",
+    "plot": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "poster": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Vanilla Ice-Ice Ice Baby",
+    "key": "Lorde-Royals",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/6f/fb/a16ffb26-747f-5509-1233-2e472c293a89/13UABIM50850.rgb.jpg/600x600bb.jpg",
-    "year": "1990",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/a5/09/96a50916-169b-724c-b722-b8c474406352/13UAAIM68691.rgb.jpg/600x600bb.jpg",
+    "year": "2013",
     "v": 4
   },
   "album": {
-    "key": "Bob Dylan-Highway 61 Revisited",
+    "key": "Michael Jackson-Thriller",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/600x600bb.jpg",
-    "year": "1965",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg",
+    "year": "1982",
     "v": 4
   }
 }
