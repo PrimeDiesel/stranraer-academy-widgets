@@ -1,13 +1,29 @@
 {
-  "updated": "2026-11-14T08:42:20.728Z",
+  "updated": "2026-11-14T15:37:42.616Z",
   "news": [
     {
-      "title": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation",
+      "title": "Russia hit by second car bomb in as many days as peace talks continue",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18bf/live/f63106d0-de89-11f1-b441-2b33b063138f.jpg",
-      "published": "11/13/2026, 8:22:24 AM",
-      "desc": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants."
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+      "published": "11/13/2026, 2:07:22 PM",
+      "desc": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says."
+    },
+    {
+      "title": "Suspected Hamas member guilty of UK knife attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "11/13/2026, 12:52:23 PM",
+      "desc": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
+    },
+    {
+      "title": "Wessex Water pleads guilty over Avonmouth blast that killed four",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/305e/live/4854ecc0-de93-11f1-93e1-3b657b665bcf.jpg",
+      "published": "11/13/2026, 11:37:25 AM",
+      "desc": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site."
     },
     {
       "title": "What we know about the global Microsoft outage",
@@ -16,171 +32,211 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e50b/live/4d5bcae0-df38-11f1-86fa-cbe84eade4f1.jpg",
       "published": "11/13/2026, 8:22:22 AM",
       "desc": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
-    },
-    {
-      "title": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
-      "published": "11/13/2026, 7:37:24 AM",
-      "desc": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan."
-    },
-    {
-      "title": "Newspaper headlines: 'Nvidia chief quits' and 'Six women say they too were preyed on by Brand'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm702zql1l0lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be94/live/d3f15750-defc-11f1-b441-2b33b063138f.jpg",
-      "published": "11/13/2026, 3:22:27 AM",
-      "desc": "The resignation of Jensen Huang following reports he had an affair with a suspected spy leads a number Friday's papers."
     }
   ],
   "sports": [
     {
-      "title": "Erling Haaland: How Wales aim to stop Norway’s Man City star again",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg",
-      "published": "11/13/2026, 8:37:20 AM",
-      "desc": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again."
+      "title": "Injured Patriots Stars Brown, Stevenson Doing 'Pretty Good' Ahead Of Sunday",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/vrabel-says-injured-patriots-stars-brown-and-stevenson-doing-pretty-good-ahead-of-munich-game",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/brownh1.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 3:07:22 PM",
+      "desc": "Patriots coach Mike Vrabel says his injured stars are progressing, but whether they play on Sunday in Munich remains to be seen."
     },
     {
-      "title": "Scotland v North Macedonia: How big a problem is central defence for Sebastien Pocognoli?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg",
-      "published": "11/13/2026, 8:22:23 AM",
-      "desc": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia."
-    },
-    {
-      "title": "Wheelchair Rugby League World Cup final LIVE: Watch and follow England v France",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-league/live/cj75p5y4pvkyt",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-      "published": "11/13/2026, 8:22:21 AM",
-      "desc": "Watch and follow live text coverage as England take on France in the Wheelchair Rugby League World Cup final in Wollongong, Australia."
-    },
-    {
-      "title": "Pochettino agrees Man United contract - sources - ESPN",
+      "title": "Source - Tennessee RB Daune Morris out vs. Texas A&M - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697370_1296x729_16%2D9.jpg",
-      "published": "11/13/2026, 7:56:00 AM",
-      "desc": "Mauricio Pochettino has agreed to become the next Manchester United manager with an announcement expected on Friday, sources have told ESPN."
+      "url": "https://www.espn.com/college-football/story/_/id/50471707/source-tennessee-rb-daune-morris-vs-texas-am",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1108%2Fr1742617_1296x729_16%2D9.jpg",
+      "published": "11/13/2026, 2:46:56 PM",
+      "desc": "Tennessee running back Daune Morris will miss Saturday's game at Texas A&M as a result of an injury he sustained during a car accident this week, a source told ESPN."
     },
     {
-      "title": "Viddal Riley: How Briton went from KSI's trainer to brink of world-title shot",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/c623jlg88yymo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/099d/live/4d635300-ddda-11f1-b865-d17d8611efca.jpg",
-      "published": "11/13/2026, 7:52:23 AM",
-      "desc": "Viddal Riley - who defends his European cruiserweight title on Saturday - talks through his journey from training YouTuber KSI to nearing a world-title shot."
-    },
-    {
-      "title": "Virgil van Dijk: What happens next for Liverpool captain?",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg",
-      "published": "11/13/2026, 7:22:27 AM",
-      "desc": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future."
-    },
-    {
-      "title": "Commanders' Daniels finds redemption with game-winning drive - ESPN",
+      "title": "Falcons sign DE Thomas, CB Henderson to multiyear extensions - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50469451/commanders-jayden-daniels-redemption-game-winning-drive",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745171_1296x729_16%2D9.jpg",
-      "published": "11/13/2026, 7:19:55 AM",
-      "desc": "Commanders quarterback Jayden Daniels shook off two interceptions and multiple weeks of failed late-game drives to deliver when Washington needed him most."
+      "url": "https://www.espn.com/nfl/story/_/id/50471659/falcons-sign-de-thomas-cb-henderson-multiyear-extensions",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745254_1296x729_16%2D9.jpg",
+      "published": "11/13/2026, 2:40:04 PM",
+      "desc": "The Atlanta Falcons have signed defensive end Cameron Thomas and cornerback C.J. Henderson to multiyear contract extensions, the team announced Friday."
     },
     {
-      "title": "Giants' Jameis Winston barks 'Who Let the Dogs Out?' vs. Commanders - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50469309/giants-jameis-winston-barks-let-dogs-vs-commanders",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745172_1296x729_16%2D9.jpg",
-      "published": "11/13/2026, 6:45:57 AM",
-      "desc": "Giants quarterback Jameis Winston broke into a rendition of \"Who Let the Dogs Out?\" in an attempt to draw the Commanders offside on fourth down in New York's 24-21 loss."
+      "title": "Chris 'The Bear' Fallica's College Football Week 11 Expert Picks, Best Bets",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-college-football-week-11-expert-picks-best-bets",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-39.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:37:29 PM",
+      "desc": "\"The Bear\" delivers his best bets and Bear Bytes for college football Week 11. Take a gander."
     },
     {
-      "title": "Formula 1's diamond 'heist': an unsolved mystery?",
+      "title": "How To Bet Today's Best Games: Illinois-UCLA, Houston-Colorado, More — Nov. 13",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-basketball/how-bet-todays-best-games-illinois-ucla-houston-colorado-more-nov-13",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/chesney.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:37:26 PM",
+      "desc": "Check out how to bet the best games on Nov. 13, including Illinois-UCLA in college football and Cavs-Heat in the NBA."
+    },
+    {
+      "title": "2026 NFL Odds Week 10: Lines, Spreads, Results For All 14 Games",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-10-lines-spreads-results-all-14-games",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-5.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:07:31 PM",
+      "desc": "Check out the lines for every NFL Week 10 game, beginning with Commanders-Giants on Thursday."
+    },
+    {
+      "title": "2026 NBA Cup Odds: Spurs, Celtics Favored; Wemby Leads MVP Race",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nba/2026-nba-cup-odds",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-7.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:07:29 PM",
+      "desc": "Check out the odds and what you need to know about the fourth annual NBA Cup, continuing Friday night."
+    },
+    {
+      "title": "2026 College Football Week 11 Expert Picks: What To Make Of USC-Indiana",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-week-11-expert-picks-what-make-usc-indiana",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1124-3.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:07:25 PM",
+      "desc": "Geoff Schwartz shares his thoughts on huge Big Ten and Big 12 matchups set for Week 11."
+    },
+    {
+      "title": "2026 NFL Week 10 Best Bets, Expert Picks: Back Vikings in Kirk Cousins’ Return",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-best-bets-expert-picks",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-38.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 2:07:22 PM",
+      "desc": "Geoff Schwartz’s best Week 10 bets include the Vikings covering in Kirk Cousins’ return and a player prop he loves in 49ers-Cowboys."
+    },
+    {
+      "title": "DP World Tour Championship: Rory McIlroy and Tyrrell Hatton tied with Race to Dubai leader Eugenio Chacarra four back",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
-      "published": "11/13/2026, 6:37:22 AM",
-      "desc": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
+      "url": "http://www.bbc.co.uk/sport/golf/articles/c3y0xlpkpg9lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/74e5/live/c72c4680-df63-11f1-a8af-15d7a25dc0d1.png",
+      "published": "11/13/2026, 1:52:25 PM",
+      "desc": "Rory McIlroy is tied for the lead at the halfway mark of the season-ending DP World Tour Championship as he chases a record-equalling eighth Race to Dubai title."
     },
     {
-      "title": "Should USA Fans Feel Jilted Over Pochettino's Exit To Manchester United?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/should-usa-fans-feel-jilted-over-pochettinos-exit-manchester-united",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/20eccb33-poch1.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 6:07:24 AM",
-      "desc": "Should U.S. men's national team fans feel some type of way for Mauricio Pochettino bolting?"
-    },
-    {
-      "title": "Who Let The Dogs Out? Giants QB Jameis Winston Drops Iconic Line In Pre-Snap Cadence",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/who-let-dogs-out-giants-qb-jameis-winston-drops-iconic-line-pre-snap-cadence",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/jameis-winston-1.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 6:07:22 AM",
-      "desc": "Even as a backup quarterback now, New York Giants quarterback Jameis Winston finds ways to bring more and more joy to the game."
-    },
-    {
-      "title": "A Season-Saving Win: 3 Takeaways From Commanders Dramatic Victory Over Giants",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-giants-takeaways",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/commanders-giants-takeaways.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 5:22:22 AM",
-      "desc": "Here's what we learned from the Commanders' victory over the Giants."
-    },
-    {
-      "title": "Tom Brady Shares Ideal International Soccer Stadium To Host An NFL Game",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-nfl-international-ac-milan",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/490e212c-tom-brady-soccer-stadium.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 4:37:22 AM",
-      "desc": "Tom Brady would have loved to play an international NFL game in this Italian soccer stadium."
-    },
-    {
-      "title": "Cade Cunningham, Ausar Thompson power Pistons past Wizards - ESPN",
+      "title": "Rory McIlroy, Tyrrell Hatton share 36-hole lead in Dubai - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745154_1296x729_16%2D9.jpg",
-      "published": "11/13/2026, 3:42:21 AM",
-      "desc": "Cade Cunningham had 52 points, 11 assists and no turnovers as the Pistons outlasted the Wizards in double overtime Thursday night."
+      "url": "https://www.espn.com/golf/story/_/id/50471142/rory-mcilroy-tyrrell-hatton-share-36-hole-lead-dubai",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2Fr1745228_1296x729_16%2D9.jpg",
+      "published": "11/13/2026, 1:24:36 PM",
+      "desc": "Rory McIlroy recovered from a back-nine wobble to birdie No. 18 and share the 36-hole lead at the season-ending World Tour Championship on Friday, leaving him well-placed to win a record-tying eighth Race to Dubai golf title."
     },
     {
-      "title": "Australia vs England LIVE: First ODI, Optus Stadium, Perth - cricket score, commentary & updates",
+      "title": "2027 NFL Draft QB Power Rankings: Drew Mestemaker, Arch Manning In Tight Battle For No. 1",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-qb-power-rankings-drew-mestemaker-arch-manning-tight-battle-no-1",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9qb.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 1:07:26 PM",
+      "desc": "Will a record-tying six quarterbacks go in the first round again? Rob Rang sorts the 14 best draft-eligible QBs into tiers."
+    },
+    {
+      "title": "CFB Pick 'Em: Top Week 11 Games, Including Indiana-USC, Texas-LSU",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/pick-em-week-11-odds-indiana-usc-texas-lsu",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/pickem-w11-16x9_1024.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 12:37:29 PM",
+      "desc": "FOX Sports' college football pick 'em breakdown for Week 11's top games."
+    },
+    {
+      "title": "Manchester United Hires USA Manager Mauricio Pochettino",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/manchester-united-hires-usa-coach-mauricio-pochettino",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/30d17765-poch1.jpg?ve=1&tl=1",
+      "published": "11/13/2026, 12:37:19 PM",
+      "desc": "Mauricio Pochettino is leaving the United States men’s national team for Manchester United."
+    },
+    {
+      "title": "Auriana Lazraq-Khlass: Heptathlete banned for 22 months for whereabouts violation",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/cricket/live/cnv9n5lgdv6t",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d61e/live/c4569c70-df0f-11f1-b441-2b33b063138f.jpg",
-      "published": "11/13/2026, 3:22:27 AM",
-      "desc": "England face Australia in the first one-day international in Perth - follow live scores, radio commentary and updates."
+      "url": "http://www.bbc.co.uk/sport/athletics/articles/cqvg2lrkdz97o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f375/live/926c35b0-df57-11f1-9172-871e44a840d8.jpg",
+      "published": "11/13/2026, 12:22:21 PM",
+      "desc": "French heptathlete Auriana Lazraq-Khlass is suspended for 22 months for failing to comply with anti-doping rules."
     },
     {
-      "title": "Expectation Tiers: Redefining Success For All 32 Teams At Season's Halfway Point",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/expectation-tiers-redefining-success-all-32-teams-seasons-halfway-point",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/image-3.png?ve=1&tl=1",
-      "published": "11/13/2026, 3:07:35 AM",
-      "desc": "Which teams need to make the Super Bowl at this point? We redefine success for all 32 teams in our expectation tiers."
+      "title": "Manchester United confirm Pochettino as new manager",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/cqlyk771pg7lt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e86/live/e83663f0-df37-11f1-93e1-3b657b665bcf.jpg",
+      "published": "11/13/2026, 12:07:19 PM",
+      "desc": "Mauricio Pochettino will join Manchester United as manager but will take charge of USA's next two matches."
     },
     {
-      "title": "With Mauricio Pochettino Set For Man United, Who Becomes The USA's Next Coach?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/usmnt-manager-candidates-replacements-pep-guardiola-pellegrino-matarazzo",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/who-could-replace-pochettino_-16x9-1.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 3:07:32 AM",
-      "desc": "Manchester United fired Micheal Carrick on Thursday, setting the stage for USA coach Mauricio Pochettino to take over."
+      "title": "Man United confirm Pochettino as Carrick replacement - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50469660/man-united-mauricio-pochettino-manager-michael-carrick",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0624%2Fr1678650_1296x729_16%2D9.jpg",
+      "published": "11/13/2026, 12:00:00 PM",
+      "desc": "Mauricio Pochettino has been confirmed as Manchester United's new head coach."
     },
     {
-      "title": "Robbie Avila Expected To Join TCU After Saint Louis Return Denied",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-basketball/tcu-is-working-to-add-former-saint-louis-player-robbie-avila-after-return-to-billikens-was-nixed",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/gettyimages-2267482339.jpg?ve=1&tl=1",
-      "published": "11/13/2026, 3:07:31 AM",
-      "desc": "TCU is working to add Robbie Avila to its roster after the former Saint Louis player was cleared to play but barred from returning to the Billikens."
+      "title": "Mahli Beardman: Australia bowler gives glimpse into Ashes future",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7913/live/d3e15120-df51-11f1-b441-2b33b063138f.jpg",
+      "published": "11/13/2026, 11:52:28 AM",
+      "desc": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth."
     }
   ],
   "tech": [
+    {
+      "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UYCAEIQAQKJVU52LUFO4B3DBE.jpg&w=1440",
+      "published": "11/13/2026, 2:37:16 PM",
+      "desc": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals remain a solitary activity."
+    },
+    {
+      "title": "Exclusive | People are ‘carrotmaxxing’ and ‘shrimpmaxxing’ for tanner skin — no sun (or food) required - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/13/health/people-are-carrotmaxxing-and-shrimpmaxxing-for-tanner-skin/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-mbuux6cr1-1793990376243.jpg?quality=75&strip=all&1793972397&w=1200",
+      "published": "11/13/2026, 11:58:00 AM",
+      "desc": "For those who don’t want to go through the trouble of “carrotmaxxing,” so-called tanning pills offer a convenient alternative — but dietitians warn it’s even riskier than do…"
+    },
+    {
+      "title": "Apple Launches Two Products Today - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+      "image": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "published": "11/13/2026, 10:37:14 AM",
+      "desc": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have..."
+    },
+    {
+      "title": "Microsoft confirms Windows activation failures after November updates - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/0_Windows.jpg",
+      "published": "11/13/2026, 9:36:18 AM",
+      "desc": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes."
+    },
+    {
+      "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+      "image": "https://images.nintendolife.com/ef2581fe276ed/1280x720.jpg",
+      "published": "11/13/2026, 4:55:00 AM",
+      "desc": "The team maybe went \"a step too far\", according to the producer"
+    },
+    {
+      "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game",
+      "image": "https://www.techpowerup.com/img/TuL11dwliNqllxF2.jpg",
+      "published": "11/13/2026, 4:53:42 AM",
+      "desc": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary with a slew of new additions to its Xbox Backwards Compatibility on PC program, but it seems as though Xbox CEO, Asha Sharma, had one more trick up her sleeve, …"
+    },
+    {
+      "title": "NYT Strands hints, answers for November 12, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-12-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05XVX6vPIR8mgHHxh9VKyt2/hero-image.fill.size_1200x675.v1794408558.jpg",
+      "published": "11/13/2026, 3:31:46 AM",
+      "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle."
+    },
     {
       "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port - Nintendo Life",
       "source": "Nintendo Life",
@@ -188,65 +244,17 @@
       "image": "https://images.nintendolife.com/7bb185c8284db/1280x720.jpg",
       "published": "11/13/2026, 2:55:00 AM",
       "desc": "Here's what the critics think"
-    },
-    {
-      "title": "Xbox CEO Announces Major New Bethesda Games In The Works, Including Wolfenstein 3 - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3",
-      "image": "https://images.purexbox.com/60b7617f2c26f/1280x720.jpg",
-      "published": "11/13/2026, 12:26:50 AM",
-      "desc": "\"Wolfenstein 3 is officially in production at MachineGames\""
-    },
-    {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’ - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "11/12/2026, 11:43:22 PM",
-      "desc": "Whoop launched a new social network in its app called Whoop Humans, where users can share data from their wearable."
-    },
-    {
-      "title": "Why Are Games Hiding Their Blatant AI Usage If They Think It's Totally Cool And Fine And The Future - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/ai-disclosure-policy-steam-pc-games/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/photo-1694434943114-c8ea2049f781.jpeg",
-      "published": "11/12/2026, 11:07:42 PM",
-      "desc": "(This is not a blog about Big Walk)"
-    },
-    {
-      "title": "Slay The Spire 2 Patch Adds The Fool And A Ton More - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/slay-the-spire-2s-latest-update-adds-a-new-character-two-new-modes-and-a-byrdpip-evolution-2000756380",
-      "image": "https://kotaku.com/app/uploads/2026/11/Slay-the-Spire-2s-new-character-The-Fool-in-the-new-Blitz-Mode-1200x675.jpg",
-      "published": "11/12/2026, 11:00:31 PM",
-      "desc": "Oh, and a not-so-subtle hint that either the Hermit or the Watcher will be the next new characters"
-    },
-    {
-      "title": "Muse can now place calls to U.S. businesses — if you pay - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
-      "published": "11/12/2026, 10:22:28 PM",
-      "desc": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
-    },
-    {
-      "title": "Xbox Adds 21 More Original Xbox Games To Backwards Compatibility Program And Over Half Of Them Are Star Wars And Over Half Of Them Are Star Wars - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-releases-21-more-original-xbox-games-on-pc-and-over-half-of-them-are-star-wars-2000756360",
-      "image": "https://kotaku.com/app/uploads/2026/11/111226_XBOX-Wire_PCBackCompat-JPG-6d6dbed266e723ed4c62.jpg",
-      "published": "11/12/2026, 10:00:34 PM",
-      "desc": "And some of them are getting achievements"
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "published": "11/12/2026, 9:55:32 PM",
-      "desc": "Google launched Gemini 4 Hydrogen, available starting Thursday in search, AI Mode, and the Gemini app."
     }
   ],
   "education": [
+    {
+      "title": "Embedding behavioural and implementation science in a whole school approach to promote physical activity among children and young people with disabilities",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362562",
+      "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362562.g002&size=inline",
+      "published": "11/13/2026, 2:00:00 PM",
+      "desc": "Background A whole school approach (WSA) to physical activity is a comprehensive strategy encouraging children's physical activity throughout the school day. However, research on implementing this approach in special educational needs (SEN) school settings is…"
+    },
     {
       "title": "REVEALED: The 100 best state schools in Britain - so where does YOUR child's school rank?",
       "source": "Dailymail.com",
@@ -302,14 +310,6 @@
       "image": "https://goodmenproject.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-16.17.32-1-e1790936705608.jpeg",
       "published": "10/24/2026, 10:30:11 AM",
       "desc": "“The evacuation was one part of the work. The children still need food, clothes, school, healthcare, and people caring for them every day.” — Rabbi Mendy Wolff\nThe post Rabbi Mendy Wolff on Chabad Odesa and Wartime Childcare appeared first on The Good Men Pro…"
-    },
-    {
-      "title": "Inside Germany: Why do children have to go to school so early here?",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20261024/inside-germany-why-do-children-have-to-go-to-school-so-early-here",
-      "image": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-215484174.jpg@webp",
-      "published": "10/24/2026, 9:55:18 AM",
-      "desc": "German schools start far too early, argues journalist Tom Pugh in this week's Inside Germany column. Do you know the history behind the start-early, end-early schedule in place in Kindergartens and grade schools across the country?"
     }
   ],
   "music": [
@@ -351,15 +351,6 @@
     },
     {
       "rank": 5,
-      "title": "Elysium",
-      "artist": "Simple Minds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/54/a4/1e54a47d-0386-f4e3-e573-004de9d64df8/4099964251142.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/87/e3/9087e33a-c2c6-30b4-54e6-33e86f4eaa34/mzaf_5879131208552835060.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/elysium/6803466727?i=6803466728&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Simple%20Minds%20Elysium"
-    },
-    {
-      "rank": 6,
       "title": "Mama, Don't Close Your Eyes",
       "artist": "Bjorn Bonebreaker",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
@@ -368,7 +359,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Flower In A Hurricane [From GTAVI: Original Score]",
       "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
@@ -377,25 +368,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5BFrom%20GTAVI%3A%20Original%20Score%5D"
     },
     {
+      "rank": 7,
+      "title": "Elysium",
+      "artist": "Simple Minds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/54/a4/1e54a47d-0386-f4e3-e573-004de9d64df8/4099964251142.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/87/e3/9087e33a-c2c6-30b4-54e6-33e86f4eaa34/mzaf_5879131208552835060.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/elysium/6803466727?i=6803466728&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Simple%20Minds%20Elysium"
+    },
+    {
       "rank": 8,
-      "title": "Babydoll",
-      "artist": "Jamie Miller & Antonio Cipriano",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 9,
-      "title": "Rise Slow",
-      "artist": "Kimo Sounds",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 10,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -404,7 +386,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
+    },
+    {
+      "rank": 10,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -413,25 +404,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
+      "rank": 11,
+      "title": "Rise Slow",
+      "artist": "Kimo Sounds",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
       "rank": 12,
-      "title": "Goosebumps",
-      "artist": "Junior Andre",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/d5/6c/acd56c57-f171-5338-e28f-42465ffc25c1/4099964302974.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/c7/d3/43c7d33c-6c06-9b37-65e7-cd784e43d4e5/mzaf_6239788398181931906.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/goosebumps/6827136832?i=6827136837&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Junior%20Andre%20Goosebumps"
-    },
-    {
-      "rank": 13,
-      "title": "Circles",
-      "artist": "James Blunt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/4a/e8/0f4ae8df-7600-3d10-020f-0dd6e2735c98/mzaf_636300124284194990.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
-    },
-    {
-      "rank": 14,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -440,13 +422,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 15,
+      "rank": 13,
       "title": "Torn (feat. Dolly Parton)",
       "artist": "U2",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/32/31/d23231eb-967a-d07c-393d-ca7c9979753f/mzaf_6483271235692062968.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/torn-feat-dolly-parton/6812412381?i=6812412865&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=U2%20Torn%20(feat.%20Dolly%20Parton)"
+    },
+    {
+      "rank": 14,
+      "title": "Circles",
+      "artist": "James Blunt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/4a/e8/0f4ae8df-7600-3d10-020f-0dd6e2735c98/mzaf_636300124284194990.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/circles/6805055407?i=6805055410&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Circles"
+    },
+    {
+      "rank": 15,
+      "title": "The Sun Will Never Settle",
+      "artist": "Kingfishr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/fe/d0/5efed024-dde2-d546-3296-2fbc6805de80/mzaf_1822292230437382423.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/the-sun-will-never-settle/6768830561?i=6768830564&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kingfishr%20The%20Sun%20Will%20Never%20Settle"
     }
   ],
   "movies": [
@@ -494,24 +494,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
       "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
       "url": "https://www.themoviedb.org/movie/656908"
-    },
-    {
-      "rank": 6,
-      "title": "Wildwood",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 7,
-      "title": "Street Fighter",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
     }
   ],
   "tv": [
