@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-15T12:52:22.280Z",
-  "day": 318,
+  "generated": "2026-11-16T13:51:37.664Z",
+  "day": 319,
   "movie": {
-    "title": "Doctor Dolittle",
+    "title": "Fantastic Beasts and Where to Find Them",
     "safe": true,
-    "cert": "PG",
+    "cert": "12A",
     "source": "tmdb-uk",
-    "year": "1998",
-    "plot": "A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!",
-    "poster": "https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+    "year": "2016",
+    "plot": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+    "poster": "https://image.tmdb.org/t/p/w500/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "AC/DC-Back in Black",
+    "key": "Tears for Fears-Shout",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/600x600bb.jpg",
-    "year": "1980",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg",
+    "year": "1984",
     "v": 4
   },
   "album": {
-    "key": "Frank Sinatra-Songs for Swingin' Lovers!",
+    "key": "Extreme-Extreme",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9d/ae/86/9dae867b-e8dc-5e83-9079-bacd32aa1da7/15UMGIM78881.rgb.jpg/600x600bb.jpg",
-    "year": "1956",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/51/37/13513726-9197-8dea-bf06-b134044f8d34/06UMGIM00648.rgb.jpg/600x600bb.jpg",
+    "year": "1990",
     "v": 4
   }
 }
