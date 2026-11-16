@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T00:48:04.232Z",
+  "updated": "2026-11-16T07:43:13.023Z",
   "news": [
+    {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
+      "published": "11/15/2026, 6:22:24 AM",
+      "desc": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
+    },
+    {
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg",
+      "published": "11/15/2026, 6:22:22 AM",
+      "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+    },
     {
       "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
       "source": "BBC News",
@@ -16,32 +32,120 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6895/live/d9cc4b40-e086-11f1-93e1-3b657b665bcf.jpg",
       "published": "11/15/2026, 12:37:24 AM",
       "desc": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed."
-    },
-    {
-      "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29c1/live/cbb69f00-e073-11f1-b214-7b8eb8913400.jpg",
-      "published": "11/14/2026, 11:37:21 PM",
-      "desc": "All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision."
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-      "published": "11/14/2026, 11:07:23 AM",
-      "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
     }
   ],
   "sports": [
     {
-      "title": "Ben White: Declan Rice defends Arsenal team-mate after boos at Wembley",
+      "title": "BBC Sport's daily football quizzes: Who Am I?, Five in Five and Brainteaser",
       "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg",
-      "published": "11/15/2026, 12:37:24 AM",
-      "desc": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley."
+      "url": "http://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+      "published": "11/15/2026, 7:22:29 AM",
+      "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "title": "Women's Super League: How Aston Villa Women are reclaiming identity",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg",
+      "published": "11/15/2026, 7:22:28 AM",
+      "desc": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
+    },
+    {
+      "title": "Why are England's biggest stars playing abroad?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
+      "published": "11/15/2026, 7:22:26 AM",
+      "desc": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad."
+    },
+    {
+      "title": "2026 Women's Rugby League World Cup: Ruthless Australia win record fourth Women's World Cup",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/articles/c50mdzx3j039o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c893/live/837d1a40-e0c1-11f1-970d-f5d89da8a1ad.jpg",
+      "published": "11/15/2026, 7:22:23 AM",
+      "desc": "Australia blow New Zealand away in the first half, with a hat-trick for Jaime Chapman, to win 34-10 in Brisbane and clinch a record fourth World Cup."
+    },
+    {
+      "title": "Kiffin understands frustration as LSU's playoff hopes dashed - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50488081/kiffin-understands-frustration-lsu-playoff-hopes-dashed",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1108%2Fr1743124_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 6:15:10 AM",
+      "desc": "LSU coach Lane Kiffin said it was fair to question the team's 6-4 record this season after losing to Texas on Saturday, a defeat that likely knocked LSU out of playoff contention."
+    },
+    {
+      "title": "Ciryl Gane edges Josh Hokit in slugfest, retains title at UFC 334 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/50488012/ciryl-gane-edges-josh-hokit-slugfest-retains-title-ufc-334",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746000_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 6:06:03 AM",
+      "desc": "Ciryl Gane got all he could handle from Josh Hokit in a five-round slugfest, but took command late to defend his heavyweight title Saturday night at UFC 334."
+    },
+    {
+      "title": "Kayla Harrison submits Amanda Nunes to retain title at UFC 334 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/50487730/kayla-harrison-submits-amanda-nunes-retain-title-ufc-334",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745993_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 5:25:34 AM",
+      "desc": "Kayla Harrison scored the biggest victory of her career Saturday, submitting former champion Amanda Nunes by rear-naked choke in Round 4 to retain her title at UFC 334."
+    },
+    {
+      "title": "Women's RLWC LIVE: Live updates & radio commentary on Australia v New Zealand",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-league/live/ckj0668v29ejt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+      "published": "11/15/2026, 5:07:21 AM",
+      "desc": "Follow live text and radio commentary as Australia and New Zealand meet in the Women's Rugby World Cup final in Brisbane, Australia."
+    },
+    {
+      "title": "Arch Manning leads game-winning drive as Texas stuns LSU - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50487515/arch-manning-leads-game-winning-drive-texas-stuns-lsu",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745929_2_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 4:55:53 AM",
+      "desc": "Arch Manning found Raleek Brown for a 4-yard touchdown pass along the left sideline with 3 seconds left, and Texas escaped Tiger Stadium with a victory over LSU on Saturday night."
+    },
+    {
+      "title": "Tempers flare after Louisville edges UNC; Belichick helps break up brawl - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50486992/louisville-holds-unc-game-ends-brawl",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745989_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 3:58:19 AM",
+      "desc": "Tar Heels"
+    },
+    {
+      "title": "Australia vs England LIVE: Second ODI, Adelaide Oval - cricket score, commentary & updates",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/cjwgxve1wynt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2146/live/0e53f310-de87-11f1-b88b-3f1671ea859d.jpg",
+      "published": "11/15/2026, 3:37:17 AM",
+      "desc": "England face Australia in the second one-day international in Adelaide - follow live scores, radio commentary and updates."
+    },
+    {
+      "title": "Hoosiers Closing In On Big Ten Title Game? 4 Takeaways From Indiana's Win Over USC",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/indiana-hoosiers-usc-trojans-takeaways",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/cfb-16x9-25.jpg?ve=1&tl=1",
+      "published": "11/15/2026, 1:37:22 AM",
+      "desc": "FOX Sports' Ben Portnoy offers up four takeaways from Indiana's impressive victory over USC."
+    },
+    {
+      "title": "Spain v England: Nations League test will reveal if Thomas Tuchel has learned lessons",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+      "published": "11/15/2026, 12:52:20 AM",
+      "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty."
+    },
+    {
+      "title": "Grant Wilson, Indiana boost CFP, Big Ten hopes with win vs. USC - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50485076/grant-wilson-indiana-boost-cfp-big-ten-hopes-win-vs-usc",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745934_1296x729_16%2D9.jpg",
+      "published": "11/15/2026, 12:33:11 AM",
+      "desc": "Filling in for Josh Hoover, Grant Wilson threw two touchdown passes in his first start and No. 6 Indiana solidified its postseason resume with a 27-13 win over USC."
     },
     {
       "title": "RGIII Calls Out Demond Howard Over Jeremiah Smith Heisman Case: 'Stop Hating'",
@@ -68,182 +172,70 @@
       "desc": "There’s a new Heisman favorite after Notre Dame’s win over No. 1 Miami. See the latest odds after Week 10."
     },
     {
-      "title": "Grand Slam of Darts: Luke Littler beats Beau Greaves to begin title defence",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/darts/articles/c61mdlgd94zno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0078/live/6f8f5660-e07b-11f1-8ef0-413f345dd9f6.jpg",
-      "published": "11/14/2026, 11:37:22 PM",
-      "desc": "Luke Littler begins his Grand Slam of Darts title defence with a comfortable 5-2 win over Beau Greaves in Wolverhampton."
-    },
-    {
       "title": "Wake Forest's jab at SMU tops college football Week 11 trolls - ESPN",
       "source": "ESPN",
       "url": "https://www.espn.com/college-football/story/_/id/50481104/college-football-trolls-week-11",
       "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745844_1296x729_16%2D9.jpg",
       "published": "11/14/2026, 11:36:00 PM",
       "desc": "Wake Forest dominated SMU on the gridiron Saturday -- and added insult to injury after the game."
-    },
-    {
-      "title": "Pulisic leads USMNT rout of Haiti ahead of Pochettino farewell - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745894_1296x729_16%2D9.jpg",
-      "published": "11/14/2026, 11:00:38 PM",
-      "desc": "The USMNT beat Haiti 6-0 in the first leg of its Concacaf Nations League quarterfinal, in what was Mauricio Pochettino's penultimate game in charge."
-    },
-    {
-      "title": "Ireland 43-15 Fiji: Seven-try hosts shake off sluggish start to secure bonus-point win",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ckzd95n6e4g3o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41ce/live/5d34e140-e078-11f1-9ec0-713bf094c3d1.jpg",
-      "published": "11/14/2026, 10:52:15 PM",
-      "desc": "Ireland recover from a sluggish first-half performance to wear down spirited Fiji and keep alive their hopes of topping the Nations Championship northern hemisphere table."
-    },
-    {
-      "title": "Portugal's post-Ronaldo era begins with historic home loss - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745869_1296x729_16%2D9.jpg",
-      "published": "11/14/2026, 10:34:00 PM",
-      "desc": "Portugal began life without Cristiano Ronaldo by suffering their heaviest ever home loss in a competitive game."
-    },
-    {
-      "title": "WTA Finals: Mirra Andreeva beats Jessica Pegula to reach final in Indian Wells",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc45/live/07b6e190-e074-11f1-93e1-3b657b665bcf.jpg",
-      "published": "11/14/2026, 10:22:28 PM",
-      "desc": "Teenager Mirra Andreeva says she surprised herself with her performance in beating Jessica Pegula in Indian Wells."
-    },
-    {
-      "title": "Portugal 1-4 Denmark: Cristiano Ronaldo-less hosts suffer heavy Nations League home loss",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cmgj9jnvxx2qt",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b4b0/live/7f92f950-e075-11f1-9f6f-67b1fda6424e.jpg",
-      "published": "11/14/2026, 10:22:27 PM",
-      "desc": "Portugal suffer a heavy loss in their first game since Cristiano Ronaldo announced his international retirement as ex-Manchester United striker Rasmus Hojlund scores twice to help Denmark gain a superb victory."
-    },
-    {
-      "title": "New England Patriots Place RB TreVeyon Henderson On Injured Reserve",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-place-rb-treveyon-henderson-injured-reserve",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/gettyimages-2300480196.jpg?ve=1&tl=1",
-      "published": "11/14/2026, 10:07:21 PM",
-      "desc": "New England Patriots place former second-round draft pick on injured reserve."
-    },
-    {
-      "title": "Why Is Mauricio Pochettino Still USA's Manager As Manchester United's New Hire?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/pochettino-usmnt-manchester-united-manager-same-time",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/gettyimages-2298464056-scaled.jpg?ve=1&tl=1",
-      "published": "11/14/2026, 9:52:20 PM",
-      "desc": "Is it common for a manager to be technically in charge of two teams at once?"
-    },
-    {
-      "title": "England 78-15 Japan: Will Joseph makes sensational Test comeback",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cq0l3pn5z20xo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db18/live/8214b140-e06c-11f1-99e6-531f8829f5a3.jpg",
-      "published": "11/14/2026, 9:52:19 PM",
-      "desc": "Will Joseph's comeback after four years off the Test scene was worth waiting for. And there was plenty elsewhere to buoy England in a rout of Japan."
-    },
-    {
-      "title": "Patriots place RB Henderson on IR with unexplained illness - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50483113/patriots-place-rb-henderson-ir-unexplained-illness",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719562_1296x729_16%2D9.jpg",
-      "published": "11/14/2026, 9:37:22 PM",
-      "desc": "The Patriots placed RB TreVeyon Henderson on injured reserve while he deals with an unexplained neurological issue."
-    },
-    {
-      "title": "Big Ten Receiving King: Ohio State's Jeremiah Smith Continues To Shatter Records",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/jeremiah-smith-ohio-state-big-ten-records-stats",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/smithbig10.jpg?ve=1&tl=1",
-      "published": "11/14/2026, 9:37:17 PM",
-      "desc": "Another game, another record. Ohio State wide receiver Jeremiah Smith became the Big Ten leader in receiving yards on Saturday, adding to his record-setting career."
-    },
-    {
-      "title": "Tom Brady Opens Up About 'Complicated' Relationship With Michigan",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/tom-brady-michigan-complicated-relationship",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/261109_the-team_102-promo_complicated_60_16x9_best-buy-end-card.mp4_.00_00_36_34.still001.jpg?ve=1&tl=1",
-      "published": "11/14/2026, 9:07:19 PM",
-      "desc": "Tom Brady and Michigan. It's a little bit complicated."
-    },
-    {
-      "title": "How Much Is Clemson's Dabo Swinney's Buyout? Contract Details In 2026",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/clemson-dabo-swinney-buyout-contract",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/1294/728/gettyimages-2294912014-scaled-e1789843031145.jpg?ve=1&tl=1",
-      "published": "11/14/2026, 9:07:18 PM",
-      "desc": "What are Dabo Swinney's contract details in 2026? Here's everything you need to know about the Clemson head coach's buyout, contract."
     }
   ],
   "tech": [
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/00APqaCmfLEeEhhXAhAc9lO/hero-image.fill.size_1200x675.v1794412843.jpg",
+      "published": "11/15/2026, 3:35:07 AM",
+      "desc": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle."
+    },
+    {
+      "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png?w=1600&h=900&fit=crop",
+      "published": "11/14/2026, 10:03:57 PM",
+      "desc": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with new gameplay and features."
+    },
+    {
+      "title": "Sony's QSSR Upscaler Expands to Spider-Man 2, ARC Raiders, No Man's Sky and More - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/354838/sonys-qssr-upscaler-expands-to-spider-man-2-arc-raiders-no-mans-sky-and-more",
+      "image": "https://www.techpowerup.com/img/GolOgSTILfliV9CS.jpg",
+      "published": "11/14/2026, 9:20:21 PM",
+      "desc": "Base PS5 owners have six more games lined up for QSSR, Sony's lighter AI upscaler. Marvel's Spider-Man 2 is the first of the batch, with an update that's live now and adds QSSR to both its Fidelity and Performance modes. Control Resonant follows in a December…"
+    },
+    {
+      "title": "Pixel 10 Got the Pixel 11’s Best Feature This Week - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/11/14/pixel-10-got-the-pixel-11s-best-feature-this-week/",
+      "image": "https://www.droid-life.com/wp-content/uploads/2026/11/November-Pixel-Drop-Features-5.jpg",
+      "published": "11/14/2026, 9:01:29 PM",
+      "desc": "As a part of this week’s Pixel Drop, Google expanded support for the best feature on the Pixel 11 series. We’re talking about Rambler, of course, which is the super powerful voice-to-text feature that somewhat magically turns your rambling into coherent text …"
+    },
+    {
+      "title": "Devoted gamers set for mass sick-out on GTA VI launch day - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/game-follows-two-main-characters-148671384.jpg?quality=75&strip=all&w=1200",
+      "published": "11/14/2026, 8:34:00 PM",
+      "desc": "Roughly 18% of US workers plan to take off for the Nov. 19 release of Grand Theft Auto VI, potentially causing $1 billion in lost productivity."
+    },
+    {
+      "title": "Galaxy S27 Ultra might take inspiration from the iPhone 18 Pro, and this time I’d be glad - PhoneArena",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-might-take-inspiration-from-iphone-18-pro_id184832",
+      "image": "",
+      "published": "11/14/2026, 8:20:04 PM",
+      "desc": ""
+    },
+    {
+      "title": "Hot Wheels Legends Tour keeps turning dreams into reality - RACER - Racing News",
+      "source": "RACER",
+      "url": "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality",
+      "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blte674b28210b91d05/6af7338a8ef98017c17732b0/2026_Hot_Wheels_Legeneds_4.jpg?environment=live&width=1200&height=630&fit=crop",
       "published": "11/14/2026, 5:30:00 PM",
-      "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "title": "Apple users are about to lose something they've had for 28 years - Yahoo Finance",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years",
-      "image": "https://s.yimg.com/lo/mysterio/api/2068b89226e9a1e4d750548abfcdaf4557ba8e1bf9ee21e7f0c568fd7e763343/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F8fb0b09e366cf424127f81d70bb21c50.jpg",
-      "published": "11/14/2026, 4:07:00 PM",
-      "desc": "A quiet decision raises a big question about how the company will support customers with tough problems going forward."
-    },
-    {
-      "title": "25+ Of The Best Discounted Games From Xbox's Pre-Black Friday Sale - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-pre-black-friday-sale",
-      "image": "https://images.purexbox.com/9f666c5878120/1280x720.jpg",
-      "published": "11/14/2026, 4:02:24 PM",
-      "desc": "A selection of the finest discounts"
-    },
-    {
-      "title": "How I Used AI to Make My Grandson a Children’s Book for Less Than $200 - WSJ",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255",
-      "image": "",
-      "published": "11/14/2026, 4:00:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "‘GTA 6’ Reveals Jason And Lucia’s Limited Crime Options To Start - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/14/gta-6-reveals-jason-and-lucias-limited-crime-options-to-start/",
-      "image": "",
-      "published": "11/14/2026, 2:56:24 PM",
-      "desc": ""
-    },
-    {
-      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&w=1920&h=1080",
-      "published": "11/14/2026, 2:00:01 PM",
-      "desc": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism."
-    },
-    {
-      "title": "Olivia Rodrigo Could Match Billie Eilish’s Rare Grammy Feat - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/11/14/olivia-rodrigo-could-match-billie-eilishs-rare-grammy-feat/",
-      "image": "",
-      "published": "11/14/2026, 1:00:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "A gadget to make your dumb house smarter - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "11/14/2026, 1:00:00 PM",
-      "desc": "Plus: 12 12 12, Google Tabletop, TK, the Ring Drone Cam, and more in this week’s Installer newsletter."
+      "desc": "The competition brings together builders from around the world, but the people behind these creations aren’t simply chasing trophies. They’re turning ideas, passion, and dreams into actual cars, sometimes drawing on memories, childhood inspirations, family co…"
     }
   ],
   "education": [
@@ -333,15 +325,6 @@
     },
     {
       "rank": 3,
-      "title": "Fairytale of New York",
-      "artist": "Hozier & Jessie Buckley",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/47/4b/1b474b56-a830-4d80-a3ee-61291964567c/8721416643453.png/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/b4/55/d1b455f0-2e69-8169-9bab-3ff195d36d5a/mzaf_9351452160605841957.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fairytale-of-new-york/6815087143?i=6815087144&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Hozier%20%26%20Jessie%20Buckley%20Fairytale%20of%20New%20York"
-    },
-    {
-      "rank": 4,
       "title": "Flower In A Hurricane [From GTAVI: Original Score]",
       "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
@@ -350,13 +333,22 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5BFrom%20GTAVI%3A%20Original%20Score%5D"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Mama, Don't Close Your Eyes",
       "artist": "Bjorn Bonebreaker",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/71/cf/0571cf88-b7fc-b762-d646-8a4b3a598953/artwork.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/2a/ae/942aae1b-16ec-7de9-4a1a-247e06ab8e5b/mzaf_13001702980669412928.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/mama-dont-close-your-eyes/6812292915?i=6812292916&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Bjorn%20Bonebreaker%20Mama%2C%20Don't%20Close%20Your%20Eyes"
+    },
+    {
+      "rank": 5,
+      "title": "Fairytale of New York",
+      "artist": "Hozier & Jessie Buckley",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/47/4b/1b474b56-a830-4d80-a3ee-61291964567c/8721416643453.png/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/b4/55/d1b455f0-2e69-8169-9bab-3ff195d36d5a/mzaf_9351452160605841957.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fairytale-of-new-york/6815087143?i=6815087144&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Hozier%20%26%20Jessie%20Buckley%20Fairytale%20of%20New%20York"
     },
     {
       "rank": 6,
@@ -369,24 +361,6 @@
     },
     {
       "rank": 7,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
-    },
-    {
-      "rank": 8,
-      "title": "Babydoll",
-      "artist": "Jamie Miller & Antonio Cipriano",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 9,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -395,13 +369,31 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
+    },
+    {
+      "rank": 9,
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+    },
+    {
+      "rank": 10,
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
     },
     {
       "rank": 11,
@@ -452,12 +444,12 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Ebenezer",
+      "title": "Heart of the Beast",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "url": "https://www.themoviedb.org/movie/1567605"
+      "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "url": "https://www.themoviedb.org/movie/1263337"
     },
     {
       "rank": 2,
@@ -470,12 +462,12 @@
     },
     {
       "rank": 3,
-      "title": "Heart of the Beast",
+      "title": "Ebenezer",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "url": "https://www.themoviedb.org/movie/1263337"
+      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "url": "https://www.themoviedb.org/movie/1567605"
     },
     {
       "rank": 4,
@@ -488,15 +480,6 @@
     },
     {
       "rank": 5,
-      "title": "Wildwood",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
-    },
-    {
-      "rank": 6,
       "title": "Ramayana: Rise of a Legend",
       "year": "2026",
       "cert": "12A",
@@ -517,12 +500,12 @@
     },
     {
       "rank": 2,
-      "title": "The Chosen",
-      "year": "2019",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "url": "https://www.themoviedb.org/tv/85077"
+      "title": "Blue Box",
+      "year": "2024",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+      "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+      "url": "https://www.themoviedb.org/tv/207347"
     }
   ]
 }
