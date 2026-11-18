@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-17T14:44:05.422Z",
-  "day": 320,
+  "generated": "2026-11-18T14:22:15.448Z",
+  "day": 321,
   "movie": {
-    "title": "Madagascar: Escape 2 Africa",
+    "title": "Frankenweenie",
     "safe": true,
     "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2008",
-    "plot": "Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.",
-    "poster": "https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg",
+    "year": "2012",
+    "plot": "When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked \"monster\" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.",
+    "poster": "https://image.tmdb.org/t/p/w500/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "George Michael-Careless Whisper",
+    "key": "Shawn Mendes-Stitches",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/46/95/8946959a-e959-f22d-ced2-745feb799454/mzm.upagbaeg.jpg/600x600bb.jpg",
-    "year": "1984",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/06/de/ef06deeb-3890-e06f-905c-5686e23c2b88/15UMGIM06404.rgb.jpg/600x600bb.jpg",
+    "year": "2015",
     "v": 4
   },
   "album": {
-    "key": "Norah Jones-Come Away with Me",
+    "key": "Soundgarden-Superunknown",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/a0/8d/a0a08df2-390b-ad05-0d32-6673bcf7a2a9/13UABIM02784.rgb.jpg/600x600bb.jpg",
-    "year": "2002",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/b6/d6/aeb6d672-2004-41eb-ccba-e2964643a2bc/06UMGIM18607.rgb.jpg/600x600bb.jpg",
+    "year": "1994",
     "v": 4
   }
 }
