@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T10:05:39.473Z",
-  "nextUpdate": "2026-11-20T10:05:39.473Z",
+  "lastUpdated": "2026-11-20T09:53:49.061Z",
+  "nextUpdate": "2026-11-21T09:53:49.061Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,19 +12,10 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 1,
+    "urgent": 0,
     "closingSoon": 1
   },
   "competitions": [
-    {
-      "title": "Bebras Computing Challenge",
-      "organisation": "Bebras UK",
-      "category": "stem",
-      "ageRange": "11-18",
-      "description": "International challenge introducing computational thinking through fun puzzles. No coding experience needed!",
-      "link": "https://www.bebras.uk/",
-      "deadline": "2026-11-20"
-    },
     {
       "title": "First Lego League",
       "organisation": "FIRST",
@@ -168,6 +159,15 @@
       "description": "Multiple choice maths challenge testing problem-solving skills. Top scorers invited to follow-on rounds.",
       "link": "https://www.ukmt.org.uk/",
       "deadline": "2027-10-15"
+    },
+    {
+      "title": "Bebras Computing Challenge",
+      "organisation": "Bebras UK",
+      "category": "stem",
+      "ageRange": "11-18",
+      "description": "International challenge introducing computational thinking through fun puzzles. No coding experience needed!",
+      "link": "https://www.bebras.uk/",
+      "deadline": "2027-11-20"
     },
     {
       "title": "CREST Awards",
