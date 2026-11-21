@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-21T00:39:19.892Z",
+  "updated": "2026-11-21T08:02:27.676Z",
   "news": [
+    {
+      "title": "Welcome To Zscaler Directory Authentication",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o",
+      "image": "",
+      "published": "11/20/2026, 7:37:12 AM",
+      "desc": ""
+    },
+    {
+      "title": "Newspaper headlines: 'The bravest woman in Britain' and 'Silence is not an option'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wr0dg9vwxo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b8ca/live/0bdf2d60-e478-11f1-99b6-a35a62fa4264.jpg",
+      "published": "11/20/2026, 1:05:29 AM",
+      "desc": "Joanne Young, whose husband drugged and advertised her for sex online, is pictured on a number of front pages."
+    },
+    {
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+      "published": "11/20/2026, 12:08:22 AM",
+      "desc": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
+    },
     {
       "title": "Thousands of UK fridges secured from hackers in secret operation",
       "source": "BBC News",
@@ -10,39 +34,119 @@
       "desc": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
     },
     {
-      "title": "William and Catherine's India tour was 'particularly special', aide says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5916/live/037d4680-e459-11f1-9431-9fe383d2f2c7.jpg",
-      "published": "11/19/2026, 10:02:06 PM",
-      "desc": "Prince William's most senior advisor described the royal couple as \"very much a team\"."
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-      "published": "11/19/2026, 9:38:42 PM",
-      "desc": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
-    },
-    {
       "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
       "published": "11/19/2026, 3:04:28 PM",
       "desc": "Philip Young, 50, drugged and sexually abused his wife, Joanne Young, over a 13-year period."
-    },
-    {
-      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be9e/live/b423cbd0-e3fa-11f1-a1b0-810734adec41.jpg",
-      "published": "11/19/2026, 12:17:32 PM",
-      "desc": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\"."
     }
   ],
   "sports": [
+    {
+      "title": "F1 bosses close to V8 turbo hybrid engines deal from 2030",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b4d/live/7c0b88e0-e4aa-11f1-b0cf-f191d4983320.jpg",
+      "published": "11/20/2026, 7:52:09 AM",
+      "desc": "Formula 1 bosses are close to a deal that will see V8 turbo hybrid engines replace the current controversial engines in 2030."
+    },
+    {
+      "title": "Mikey Moore eyes Harry Kane's shirt as Spurs' past and future stars meet",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg",
+      "published": "11/20/2026, 7:52:07 AM",
+      "desc": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday."
+    },
+    {
+      "title": "Houston muscles past Kansas, stamps claim to No. 1 ranking - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50539115/houston-muscles-kansas-stamps-claim-no-1-ranking",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748453_1296x729_16-9.jpg",
+      "published": "11/20/2026, 7:29:17 AM",
+      "desc": "Houston made a clear statement it belongs atop the rankings, capping its run through the Players Era 8 win a 92-83 win over No. 11 Kansas on Thursday night."
+    },
+    {
+      "title": "C.J. Stroud stays in 'groove' in Texans' blowout of Colts - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748445_2_1296x729_16-9.jpg",
+      "published": "11/20/2026, 6:57:18 AM",
+      "desc": "C.J. Stroud had his third straight game with at least three touchdown passes and led the Texans to their fourth win in six games Thursday night against the Colts."
+    },
+    {
+      "title": "What is it like to miss a season through injury?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png",
+      "published": "11/20/2026, 6:37:10 AM",
+      "desc": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?"
+    },
+    {
+      "title": "Premier League predictions: Chris Sutton v world champion boxer Lauren Price - & AI",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png",
+      "published": "11/20/2026, 6:22:17 AM",
+      "desc": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures."
+    },
+    {
+      "title": "Spurs' Victor Wembanyama -- 'Shunk' done due to blister - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50538594/spurs-victor-wembanyama-shunk-done-due-blister",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748434_1296x729_16-9.jpg",
+      "published": "11/20/2026, 5:59:29 AM",
+      "desc": "Victor Wembanyama said his new-look \"shunk\" was done because of a blister former from actually dunking."
+    },
+    {
+      "title": "Las Vegas Grand Prix: George Russell fastest in second practice after rain",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2e67/live/29186180-e4a0-11f1-a01e-f1ba573bc781.jpg",
+      "published": "11/20/2026, 5:22:12 AM",
+      "desc": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track."
+    },
+    {
+      "title": "RJ Luis Jr. to 'stand down,' no longer pursue playing at LSU - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50536621/lsu-president-tells-wade-not-play-rj-luis-jr",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1747987_1296x729_16-9.jpg",
+      "published": "11/20/2026, 2:29:57 AM",
+      "desc": "RJ Luis Jr. has decided to \"stand down\" in his fight to pursue another year of eligibility at LSU, his attorney told ESPN on Thursday night."
+    },
+    {
+      "title": "Tom Brady Shuts Down Possibility Of Unretiring And Playing In The NFL — Again",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-shuts-down-possibility-unretiring-playing-nfl-again",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/26brady-ask-tom-week-10-b.png?ve=1&tl=1",
+      "published": "11/20/2026, 1:42:35 AM",
+      "desc": "If any Patriots fans had hope that Tom Brady would suit up for the team again after Drake Maye's injury, they should put those hopes to rest."
+    },
+    {
+      "title": "2026 College Football Week 12 Expert Picks: Back Unders In Big Ten Tilts",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-college-football-week-12-expert-picks-back-unders-big-ten-tilts",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1124-4.jpg?ve=1&tl=1",
+      "published": "11/20/2026, 1:41:19 AM",
+      "desc": "Geoff Schwartz believes defense will rule the day this weekend in the Big Ten."
+    },
+    {
+      "title": "White Sox Deal Pitchers Luis Castillo, Davis Martin To Rockies In Four-Player Swap",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/white-sox-deal-pitchers-luis-castillo-davis-martin-rockies-four-player-swap",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/gettyimages-2291100503-scaled.jpg?ve=1&tl=1",
+      "published": "11/20/2026, 1:20:42 AM",
+      "desc": "The Chicago White Sox traded Luis Castillo and Davis Martin to the Colorado Rockies for two minor league prospects."
+    },
+    {
+      "title": "The NFL's Top 10 Offensive And Defensive Units This Season",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-top-10-offensive-and-defensive-units-this-season",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/85dcddf1-top-10-units-in-nfl-16x9-1.jpg?ve=1&tl=1",
+      "published": "11/20/2026, 12:43:45 AM",
+      "desc": "Here are the best units in the NFL this season, headlined by the Vikings defense and 49ers offense."
+    },
     {
       "title": "Arsenal 0-2 Lyon: French side show Gunners bridge to gap",
       "source": "BBC Sport",
@@ -52,12 +156,12 @@
       "desc": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League."
     },
     {
-      "title": "F1 practice LIVE: Las Vegas Grand Prix 2026 times, results & radio",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/formula1/live/c5yjvmd1m9et",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7de0/live/4bddcae0-e471-11f1-9f7f-a5d0553c5edc.jpg",
-      "published": "11/20/2026, 12:37:13 AM",
-      "desc": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of Las Vegas Grand Prix first practice."
+      "title": "SEC standardized NIL contracts 'unfair' for players, agents say - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50535591/sec-standardized-nil-contracts-unfair-players-agents-say",
+      "image": "https://a.espncdn.com/photo/2015/0827/ncf_g_seclogo_ms_3_r4448_1296x729_16-9.jpg",
+      "published": "11/20/2026, 12:35:05 AM",
+      "desc": "The SEC's new uniform NIL and revenue sharing agreements are causing an uproar among agents concerned that the contracts are loaded with terms that are unfair."
     },
     {
       "title": "Colts vs. Texans Live Updates, Score: Can Houston Keep Its Playoff Hopes Alive?",
@@ -82,113 +186,33 @@
       "image": "https://a.espncdn.com/photo/2026/1103/r1740381_1296x729_16-9.jpg",
       "published": "11/19/2026, 11:53:08 PM",
       "desc": "Bears defensive tackle Jeffery Simmons said the knee injury that held him to limited participation in practice this week wouldn't keep him from playing Sunday against the Saints."
-    },
-    {
-      "title": "Waiver approved allowing Army, Navy to play 13th game in '27 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50535192/waiver-approved-army-navy-13th-game-2027",
-      "image": "https://a.espncdn.com/photo/2025/1209/r1587014_1296x729_16-9.jpg",
-      "published": "11/19/2026, 11:24:09 PM",
-      "desc": "The waiver will allow Army and Navy to play 12 games apiece before the College Football Playoff selections are made and keep their rivalry game."
-    },
-    {
-      "title": "Bengals, Reds pay tribute to Fiona the hippo - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748294_1296x729_16-9.jpg",
-      "published": "11/19/2026, 11:23:00 PM",
-      "desc": "The world-famous hippopotamus passed away Thursday after ingesting a hat that made its way into her enclosure."
-    },
-    {
-      "title": "LSU president tells Will Wade not to play RJ Luis Jr. - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50535062/lsu-president-tells-wade-not-play-rj-luis-jr",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1747985_1296x729_16-9.jpg",
-      "published": "11/19/2026, 11:11:46 PM",
-      "desc": "Wade Rousse said his decision -- a day after RJ Luis Jr. made his debut for the LSU men's basketball team -- came \"after further review.\""
-    },
-    {
-      "title": "ATP Finals: Alexander Zverev beats Arthur Fils to put Ben Shelton through to semi-finals",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e755/live/98d57550-e462-11f1-99b6-a35a62fa4264.jpg",
-      "published": "11/19/2026, 10:52:18 PM",
-      "desc": "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils."
-    },
-    {
-      "title": "England vs New Zealand: Maro Itoje says mood in camp has changed",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/ckge31np9ew7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5a92/live/1ee81780-e466-11f1-80e9-fd4d95b40178.jpg",
-      "published": "11/19/2026, 10:52:15 PM",
-      "desc": "Captain Maro Itoje says a clearer sense of purpose and unity has coincided with improved performances from England this autumn."
-    },
-    {
-      "title": "Mykhailo Mudryk: Andriy Shevchenko disputes player's doping claims",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg",
-      "published": "11/19/2026, 10:52:12 PM",
-      "desc": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association."
-    },
-    {
-      "title": "Grand Slam of Darts 2026: Luke Humphries upset by unseeded Tom Sykes in second round",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e1a/live/b0aba780-e467-11f1-99a1-253766e7ad8b.jpg",
-      "published": "11/19/2026, 10:52:08 PM",
-      "desc": "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller."
-    },
-    {
-      "title": "2026 Super Bowl Predictions: Revising Our Preseason Picks As Thanksgiving Nears",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-lxi-predictions",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/liveblog-16x9-5.jpg?ve=1&tl=1",
-      "published": "11/19/2026, 10:32:02 PM",
-      "desc": "Some of us would like a redo on our Super Bowl picks. Here's who we like to win it all at the season's halfway point."
-    },
-    {
-      "title": "NFL Week 11 Betting Report: Favorites Winning? 'You Hate To See It'",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-11-betting-report-favorites-winning-you-hate-see-it",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/f0e33c76-hero-6.jpg?ve=1&tl=1",
-      "published": "11/19/2026, 10:31:08 PM",
-      "desc": "Bookmakers need underdogs to begin barking — loudly. Patrick Everson breaks down that and other midweek betting action."
-    },
-    {
-      "title": "Sammy’s Sportsbook Whispers: LSU’s ‘Hype Missile’ Has Fizzled Out",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-lsus-hype-missile-has-fizzled-out",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-41.jpg?ve=1&tl=1",
-      "published": "11/19/2026, 10:03:47 PM",
-      "desc": "Sammy P’s latest whispers? Bettors who faded Lane Kiffin’s Tigers are eating well, and the sharps are lining up behind Michigan."
-    },
-    {
-      "title": "No Longer Calling Plays, Christian Parker Still Committed To Fixing Cowboys Defense",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-face-lastplace-titans-with-new-playcaller-on-defense-and-fading-playoff-hopes",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/cowboys.jpg?ve=1&tl=1",
-      "published": "11/19/2026, 9:51:21 PM",
-      "desc": "The Dallas Cowboys will take a new play-caller on defense and fading playoff hopes into a meeting with the last-place Tennessee Titans on Sunday."
-    },
-    {
-      "title": "Pete Rose posthumously pardoned by President Donald Trump - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump",
-      "image": "https://a.espncdn.com/photo/2024/1001/r1394332_1296x729_16-9.jpg",
-      "published": "11/19/2026, 9:34:10 PM",
-      "desc": "President Donald Trump said he has posthumously pardoned Pete Rose more than two years after the baseball star's death and a year after he was reinstated by MLB."
-    },
-    {
-      "title": "Ahead Of Schedule! James Madison Leaving Sun Belt For American Conference In 2027",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/james-madison-american-conference-sun-belt-transition",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/jmu2.jpg?ve=1&tl=1",
-      "published": "11/19/2026, 9:12:47 PM",
-      "desc": "James Madison is leaving the Sun Belt Conference for the American Conference a year earlier than planned."
     }
   ],
   "tech": [
+    {
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
+      "published": "11/20/2026, 2:48:47 AM",
+      "desc": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "published": "11/20/2026, 12:56:01 AM",
+      "desc": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+    },
+    {
+      "title": "Dudes Online Are So Mad That ‘GTA VI’ Makes Them Respect Women - WIRED",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "image": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/191:100/w_1280,c_limit/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg",
+      "published": "11/19/2026, 11:12:00 PM",
+      "desc": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline."
+    },
     {
       "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR - MacRumors",
       "source": "MacRumors",
@@ -198,60 +222,36 @@
       "desc": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook..."
     },
     {
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYr4yPkYRWM/v1/1200x800.jpg",
-      "published": "11/19/2026, 9:44:56 PM",
-      "desc": "Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropic PBC, Meta Platforms Inc. and others."
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "image": "https://images.macrumors.com/t/jb4VFrAh4bvpJS4f7DXXXCtJRQg=/1600x/article-new/2026/04/New-Apple-TV-Logo.jpeg",
+      "published": "11/19/2026, 9:54:07 PM",
+      "desc": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in..."
     },
     {
-      "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/cyberleek-is-threatening-to-unleash-chaos-again-after-tossing-an-alleged-xbox-build-of-gta-6-onto-the-internet-2000758544",
-      "image": "https://kotaku.com/app/uploads/2026/11/GTA-6-gaming-1200x675.jpg",
-      "published": "11/19/2026, 9:05:13 PM",
-      "desc": "Yes, crypto is involved this time too"
+      "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
+      "image": "https://assetsio.gnwcdn.com/gta-6-jason-against-fence-with-cops.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published": "11/19/2026, 9:08:50 PM",
+      "desc": "The latest CyberLeek upload is titled: \"XBOX BUILD 1.0.2.1 (NOV 2026)\" and it's a big one."
     },
     {
-      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "11/19/2026, 8:49:00 PM",
-      "desc": "Rumors suggest Apple is designing an 'iPhone 20 Pro' that combines my two favorite current models: iPhone Air and iPhone 18 Pro."
+      "title": "PS5 vs. Xbox Series X for GTA 6? Here's How the Hardware and Prices Stack Up - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/ps5-vs-xbox-for-gta-6-heres-how-hardware-and-prices-stack-up",
+      "image": "https://i.pcmag.com/imagery/articles/03qbu9LJ8xwuFsB7acVRkCU-2.fit_lim.size_1200x630.v1787937826.png",
+      "published": "11/19/2026, 9:05:16 PM",
+      "desc": "GTA 6 is finally here, but you still need to pick a console to play it on. I break down the prices, performance differences, and overall value of every option now that we can all visit Vice City for ourselves."
     },
     {
-      "title": "GTA 6 launch: Tips, highlights, reactions as gamers get to play - USA Today",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/19/USAT/92857694007-20261119-t-083219-z-17148415-rc-2-wqoajiwdt-rtrmadp-3-gaminggtaindonesia.JPG?crop=4910,2762,x0,y327&width=3200&height=1801&format=pjpg&auto=webp",
-      "published": "11/19/2026, 7:59:00 PM",
-      "desc": "Gamers have waited 13 years for Rockstar Games to drop a new Grand Theft Auto. Now it's finally here. Follow updates."
-    },
-    {
-      "title": "‘GTA 6’ Sales Have Already Surpassed Christopher Nolan’s ‘The Odyssey’ - The Hollywood Reporter",
-      "source": "Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Jason_and_Lucia_13.jpg?crop=0px%2C8px%2C3840px%2C2148px&resize=1440%2C810",
-      "published": "11/19/2026, 7:48:16 PM",
-      "desc": "The Rockstar Games epic has generated $1.84 billion in sales — and it just launched today."
-    },
-    {
-      "title": "There’s Comfort In Conquering The Past - Defector",
-      "source": "Defector.com",
-      "url": "https://defector.com/theres-comfort-in-conquering-the-past",
-      "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/smallerNS2_TheLegendofZeldaOcarinaofTime_scrn_04.png",
-      "published": "11/19/2026, 7:34:00 PM",
-      "desc": "The first time I played The Legend of Zelda: Ocarina of Time was during a hurricane. It was late 1999, I was 10 years old, Hurricane Irene was bearing down on Miami, and my friend Ryan had come over to spend the night. He had brought his copy of Ocarina of Ti…"
-    },
-    {
-      "title": "'GTA 6' Is Triggering Men Who Are Learning How To Have A Girlfriend - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/gta-6-jason-and-lucia-3.jpg?w=1600&h=900&fit=crop",
-      "published": "11/19/2026, 7:30:17 PM",
-      "desc": "GTA 6 fans weren't expecting that keeping Lucia happy would require any actual work on Jason's part despite Rockstar's focus on the relationship"
+      "title": "'GTA 6': Fox News Slams Fans, Clavicular & Manosphere Bros Hate Lucia - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI.png?crop=0px%2C0px%2C1762px%2C991px&resize=1000%2C563",
+      "published": "11/19/2026, 8:59:00 PM",
+      "desc": "'Grand Theft Auto 6' is drawing controversy with right wing talking heads, who disapprove of people taking the day off to play it."
     }
   ],
   "education": [
@@ -332,21 +332,21 @@
     },
     {
       "rank": 2,
-      "title": "Love Language",
-      "artist": "Sugababes",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bd/e4/e4bde4d5-26bc-5d3a-9e28-f1472b0126c5/885288536294.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/66/95/0d669545-3906-c078-94c7-fa98ffbee4c6/mzaf_6775354468319949924.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/love-language/6809396653?i=6809397026&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Sugababes%20Love%20Language"
-    },
-    {
-      "rank": 3,
       "title": "Flower In A Hurricane [From GTAVI: Original Score]",
       "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/33/f5/0433f5b3-d831-1935-08e2-86e233973e02/mzaf_16615932387163717675.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Justice%2C%20Tame%20Impala%2C%20SZA%20%26%20King%20Gizzard%20%26%20The%20Lizard%20Wizard%20Flower%20In%20A%20Hurricane%20%5BFrom%20GTAVI%3A%20Original%20Score%5D"
+    },
+    {
+      "rank": 3,
+      "title": "Love Language",
+      "artist": "Sugababes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bd/e4/e4bde4d5-26bc-5d3a-9e28-f1472b0126c5/885288536294.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/66/95/0d669545-3906-c078-94c7-fa98ffbee4c6/mzaf_6775354468319949924.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/love-language/6809396653?i=6809397026&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Sugababes%20Love%20Language"
     },
     {
       "rank": 4,
@@ -368,21 +368,21 @@
     },
     {
       "rank": 6,
-      "title": "Come Back Home",
-      "artist": "Blondie",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/67/30/5f6730af-50fe-e6f6-52aa-c5a65effefe1/4099964176322.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/e4/0c/d4e40cd4-0269-c982-85ce-3abda927955a/mzaf_10797632563195593880.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/come-back-home/6810256113?i=6810256528&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Blondie%20Come%20Back%20Home"
-    },
-    {
-      "rank": 7,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
+    },
+    {
+      "rank": 7,
+      "title": "Come Back Home",
+      "artist": "Blondie",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/67/30/5f6730af-50fe-e6f6-52aa-c5a65effefe1/4099964176322.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/e4/0c/d4e40cd4-0269-c982-85ce-3abda927955a/mzaf_10797632563195593880.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/come-back-home/6810256113?i=6810256528&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Blondie%20Come%20Back%20Home"
     },
     {
       "rank": 8,
@@ -395,24 +395,6 @@
     },
     {
       "rank": 9,
-      "title": "It’s Beginning to Look a Lot Like Christmas",
-      "artist": "Jamie Miller",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/cf/c6/1acfc633-f637-6444-d158-0ab290bb900a/26UM1IM47507.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/66/8c/62668c0d-1126-736a-64d7-aa3be8561e2b/mzaf_5582137193700273300.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/its-beginning-to-look-a-lot-like-christmas/6834219799?i=6834219800&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20It%E2%80%99s%20Beginning%20to%20Look%20a%20Lot%20Like%20Christmas"
-    },
-    {
-      "rank": 10,
-      "title": "Where's our love",
-      "artist": "Macklemore",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0f/d0/5c0fd0de-e2de-aee8-4be6-1fcff62c32ba/1200220484393.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/08/63/a8086354-9d67-f30f-8507-75e93f867ce2/mzaf_9034394260773014040.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/wheres-our-love/6836527653?i=6836527669&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Macklemore%20Where's%20our%20love"
-    },
-    {
-      "rank": 11,
       "title": "Go Easy",
       "artist": "Dua Lipa",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
@@ -421,25 +403,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Go%20Easy"
     },
     {
-      "rank": 12,
-      "title": "Babydoll",
-      "artist": "Jamie Miller & Antonio Cipriano",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 13,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 14,
+      "rank": 10,
       "title": "Narcissist",
       "artist": "Mandi Fisher",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/db/dd/b7dbddb5-3004-3103-0d0f-8f55122cf9ec/artwork.jpg/300x300bb.jpg",
@@ -448,13 +412,49 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Mandi%20Fisher%20Narcissist"
     },
     {
+      "rank": 11,
+      "title": "Where's our love",
+      "artist": "Macklemore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0f/d0/5c0fd0de-e2de-aee8-4be6-1fcff62c32ba/1200220484393.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/08/63/a8086354-9d67-f30f-8507-75e93f867ce2/mzaf_9034394260773014040.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/wheres-our-love/6836527653?i=6836527669&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Macklemore%20Where's%20our%20love"
+    },
+    {
+      "rank": 12,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 13,
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
+    },
+    {
+      "rank": 14,
+      "title": "It’s Beginning to Look a Lot Like Christmas",
+      "artist": "Jamie Miller",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/cf/c6/1acfc633-f637-6444-d158-0ab290bb900a/26UM1IM47507.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/66/8c/62668c0d-1126-736a-64d7-aa3be8561e2b/mzaf_5582137193700273300.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/its-beginning-to-look-a-lot-like-christmas/6834219799?i=6834219800&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20It%E2%80%99s%20Beginning%20to%20Look%20a%20Lot%20Like%20Christmas"
+    },
+    {
       "rank": 15,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "Higher",
+      "artist": "Take That",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/11/22/291122a2-5136-40a9-f195-715fc0b5d87d/26UM1IM20740.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/b7/6d/24b76d9c-f287-a67e-8afa-872dfad8d329/mzaf_13841071319158577260.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/higher/6814543019?i=6814543034&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Take%20That%20Higher"
     }
   ],
   "movies": [
@@ -469,42 +469,6 @@
     },
     {
       "rank": 2,
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "url": "https://www.themoviedb.org/movie/969681"
-    },
-    {
-      "rank": 3,
-      "title": "Ebenezer",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "url": "https://www.themoviedb.org/movie/1567605"
-    },
-    {
-      "rank": 4,
-      "title": "Heart of the Beast",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "url": "https://www.themoviedb.org/movie/1263337"
-    },
-    {
-      "rank": 5,
-      "title": "I Play Rocky",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
-      "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "url": "https://www.themoviedb.org/movie/1286656"
-    },
-    {
-      "rank": 6,
       "title": "Guarding Stars",
       "year": "2026",
       "cert": "12",
@@ -513,33 +477,60 @@
       "url": "https://www.themoviedb.org/movie/1551025"
     },
     {
-      "rank": 7,
-      "title": "Wildwood",
+      "rank": 3,
+      "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "url": "https://www.themoviedb.org/movie/791523"
+      "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 4,
+      "title": "Steps",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "url": "https://www.themoviedb.org/movie/1595124"
+    },
+    {
+      "rank": 5,
+      "title": "Ebenezer",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "url": "https://www.themoviedb.org/movie/1567605"
+    },
+    {
+      "rank": 6,
+      "title": "Heart of the Beast",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "url": "https://www.themoviedb.org/movie/1263337"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Percy Jackson and the Olympians",
-      "year": "2023",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "url": "https://www.themoviedb.org/tv/103540"
-    },
-    {
-      "rank": 2,
       "title": "VisionQuest",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "url": "https://www.themoviedb.org/tv/213375"
+    },
+    {
+      "rank": 2,
+      "title": "Percy Jackson and the Olympians",
+      "year": "2023",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "url": "https://www.themoviedb.org/tv/103540"
     },
     {
       "rank": 3,
