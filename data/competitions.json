@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-23T10:34:14.678Z",
-  "nextUpdate": "2026-11-24T10:34:14.678Z",
+  "lastUpdated": "2026-11-24T12:16:57.228Z",
+  "nextUpdate": "2026-11-25T12:16:57.228Z",
   "stats": {
     "total": 23,
     "byCategory": {
@@ -12,7 +12,7 @@
     },
     "withDeadlines": 17,
     "rolling": 6,
-    "urgent": 0,
+    "urgent": 1,
     "closingSoon": 1
   },
   "competitions": [
