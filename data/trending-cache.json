@@ -1,21 +1,29 @@
 {
-  "updated": "2026-11-26T02:40:52.333Z",
+  "updated": "2026-11-26T11:58:27.565Z",
   "news": [
     {
-      "title": "Newspaper headlines: 'PIP benefits \"not fit for purpose\"' and Royal 'security scare'",
+      "title": "Securly - Geolocation sharing",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq5v3g5jq13o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec96/live/c579b590-e858-11f1-9b85-e50d1e9de678.png",
-      "published": "11/25/2026, 1:34:53 AM",
-      "desc": "Many of the papers are leading on the findings of a government-commissioned review into personal independence payment."
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o",
+      "image": "",
+      "published": "11/25/2026, 11:52:07 AM",
+      "desc": ""
     },
     {
-      "title": "US preparing to unveil new tariffs on global trading partners",
+      "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-      "published": "11/25/2026, 12:38:01 AM",
-      "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+      "url": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/081c/live/92f333e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+      "published": "11/25/2026, 10:59:22 AM",
+      "desc": "The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars."
+    },
+    {
+      "title": "Cornwall Christmas market cancels all bookings after AI backlash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f99/live/91fcead0-e8a7-11f1-99a1-253766e7ad8b.png",
+      "published": "11/25/2026, 6:02:07 AM",
+      "desc": "Visitors and stallholders say the event did not match the promotional AI pictures."
     },
     {
       "title": "Households braced for soaring energy bills with new price cap to be announced",
@@ -32,24 +40,96 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg",
       "published": "11/24/2026, 11:38:39 PM",
       "desc": "More young people in Britain have never had sex, but many are sexting and watching porn."
-    },
-    {
-      "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "published": "11/24/2026, 11:37:56 PM",
-      "desc": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
     }
   ],
   "sports": [
     {
-      "title": "Pep embarrassed to say no to Italy, national team next step - ESPN",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+      "published": "11/25/2026, 11:37:12 AM",
+      "desc": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+    },
+    {
+      "title": "Raheem Sterling to be sentenced for dangerous driving - follow live",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/news/live/cqd01l0yr93nt",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f381/live/a5494af0-e8b3-11f1-9e64-bddd508b9881.jpg",
+      "published": "11/25/2026, 9:52:14 AM",
+      "desc": "Sterling pleaded guilty to driving his Lamborghini dangerously before crashing it and possessing nitrous oxide, a Class C drug, for wrongful inhalation."
+    },
+    {
+      "title": "Sandpapergate: Usman Khawaja 'disappointed' by personal attack from Pat Cummins",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fa7/live/c9ab1150-e8a7-11f1-869a-f96fd5660210.jpg",
+      "published": "11/25/2026, 8:52:09 AM",
+      "desc": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on."
+    },
+    {
+      "title": "Parris Mason: New Zealand netball league collapse leaves players in limbo",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/netball/articles/cq0k6gjgrzn4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c940/live/9a915be0-e730-11f1-8294-033bd8ee7e95.jpg",
+      "published": "11/25/2026, 7:52:08 AM",
+      "desc": "Parris Mason on concerns about her netball future after the collapse of the domestic league in New Zealand."
+    },
+    {
+      "title": "Geno Auriemma blasts UConn after loss to South Carolina - ESPN",
       "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695077_1296x729_16-9.jpg",
-      "published": "11/25/2026, 1:18:00 AM",
-      "desc": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team."
+      "url": "https://www.espn.com/womens-college-basketball/story/_/id/50590739/geno-auriemma-blasts-uconn-loss-south-carolina",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750982_1296x729_16-9.jpg",
+      "published": "11/25/2026, 7:16:29 AM",
+      "desc": "Huskies coach Geno Auriemma oozed with exasperation and said he is searching for answers following the team's latest loss."
+    },
+    {
+      "title": "Louisville's Kelsey lauds Trimble, pushes back on fifth-year critics - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50590635/louisville-kelsey-lauds-trimble-pushes-back-fifth-year-critics",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750979_1296x729_16-9.jpg",
+      "published": "11/25/2026, 7:02:09 AM",
+      "desc": "After Seth Trimble led Louisville to a 72-64 win over No. 5 Texas Tech, Cardinals coach Pat Kelsey told critics of teams using fifth-year players, \"Everybody can have their opinion. Bring it.\""
+    },
+    {
+      "title": "Joel Klatt's CFP Reaction: Does Indiana Still Have CFP Path? Klatt's Playoff Tiers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/joel-klatts-college-football-playoff-reaction-does-indiana-still-have-cfp-hopes-alabama-ucla-georgia",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/cfpthumb1124_updated.jpg?ve=1&tl=1",
+      "published": "11/25/2026, 4:49:21 AM",
+      "desc": "Alabama, UCLA both fall and Indiana's College Football Playoff path might be over after the fourth CFP rankings of the season."
+    },
+    {
+      "title": "Rodman ruled out of Concacaf W Championship with shoulder injury - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/50589808/trinity-rodman-concacaf-w-shoulder-injury",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750955_1296x729_16-9.jpg",
+      "published": "11/25/2026, 4:45:55 AM",
+      "desc": "A shoulder injury suffered in the NWSL Championship will sideline Trinity Rodman for the United States at the Concacaf W Championship, which serves as qualifying for the 2027 Women's World Cup."
+    },
+    {
+      "title": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744081_1296x729_16-9.jpg",
+      "published": "11/25/2026, 4:36:15 AM",
+      "desc": "Pittsburgh Steelers coach Mike McCarthy has benched starting quarterback Aaron Rodgers in favor of backup Mason Rudolph."
+    },
+    {
+      "title": "A Steelers Shocker: Aaron Rodgers Benched By Pittsburgh, Will Be Inactive vs. Broncos",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-rodgers-benched-steelers-broncos",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/rodgers-benched.jpg?ve=1&tl=1",
+      "published": "11/25/2026, 4:36:13 AM",
+      "desc": "Aaron Rodgers has potentially played the final snap of his legendary 22-year NFL career."
+    },
+    {
+      "title": "Longtime Lions owner Martha Firestone Ford dies at age 101 - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
+      "image": "https://a.espncdn.com/photo/2015/1105/r23136_1296x729_16-9.jpg",
+      "published": "11/25/2026, 2:33:07 AM",
+      "desc": "Martha Firestone Ford, who served as the primary owner of the Lions from 1994 to 2020, has died at the age of 101, the team announced Tuesday night."
     },
     {
       "title": "2026 College Football Playoff Rankings: Georgia Remains No. 1, Indiana Falls From Top 12",
@@ -84,111 +164,47 @@
       "desc": "Andrew Luck, Tavita Pritchard and Davis Warren are helping lay the foundation for a Stanford football revival."
     },
     {
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
-      "published": "11/25/2026, 12:22:15 AM",
-      "desc": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund."
-    },
-    {
       "title": "Jude Bellingham: Real Madrid midfielder plays down Zinedine Zidane comparison after wonder goal",
       "source": "BBC Sport",
       "url": "http://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
       "published": "11/25/2026, 12:22:11 AM",
       "desc": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane."
-    },
-    {
-      "title": "Dak Prescott Is Having An Elite Season That The Cowboys Are Wasting",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-qb-notebook-week-11-dak-prescott-brock-purdy",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/cadcd369-16x9-18.jpg?ve=1&tl=1",
-      "published": "11/25/2026, 12:18:16 AM",
-      "desc": "Dak Prescott is playing at an elite level this season, but the Cowboys are making sure it won't help them win."
-    },
-    {
-      "title": "Bears' Johnson to stick with Swift's role in running game - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50587324/bears-johnson-stick-swift-role-bears-run-game",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750866_1296x729_16-9.jpg",
-      "published": "11/24/2026, 11:55:12 PM",
-      "desc": "Chicago Bears running back D'Andre Swift won't have an extended stay in Ben Johnson's doghouse after fumbling in the fourth quarter against the Saints."
-    },
-    {
-      "title": "Tyrese Haliburton, wife Jade expecting their first child - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/50586828/tyrese-jade-haliburton-expecting-first-child",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750843_580x580_1-1.png",
-      "published": "11/24/2026, 11:40:00 PM",
-      "desc": "The couple wed in August after seven years of dating and announced the news that they're expecting on Instagram."
-    },
-    {
-      "title": "What Is Going On At Michigan? Inside The Chaos Surrounding Kyle Whittingham",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/michigan-kyle-whittingham-chaos",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9-2026-11-24t143631.611.jpg?ve=1&tl=1",
-      "published": "11/24/2026, 11:33:20 PM",
-      "desc": "Michigan hired Kyle Whittingham to restore stability. Instead, the Wolverines are mired in leadership turmoil and uncertainty about their football program's future."
-    },
-    {
-      "title": "Man City 2-2 Napoli: Enzo Maresca's side grinding to a halt",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
-      "published": "11/24/2026, 11:22:10 PM",
-      "desc": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli."
-    },
-    {
-      "title": "Debbie Hewitt signs NDA after viewing documents on failed Fifa sell-off plot",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg",
-      "published": "11/24/2026, 11:07:18 PM",
-      "desc": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them."
-    },
-    {
-      "title": "Jannik Sinner: World number two has 'minor' surgery on knee after lengthy injury absence",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/928b/live/c16e2a00-e748-11f1-99b6-a35a62fa4264.jpg",
-      "published": "11/24/2026, 11:07:17 PM",
-      "desc": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begins."
-    },
-    {
-      "title": "Broncos Suspend RB J.K. Dobbins One Game For Conduct Detrimental To the Team",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/broncos-suspend-rb-j-k-dobbins-one-game-conduct-detrimental-team",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/dobbins.jpg?ve=1&tl=1",
-      "published": "11/24/2026, 11:03:15 PM",
-      "desc": "Speaking to reporters on Tuesday, head coach Sean Payton announced that Dobbins has been suspended one game for conduct detrimental to the team."
-    },
-    {
-      "title": "Brandon Aiyuk scheduled for visit Wednesday with Commanders - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50586505/brandon-aiyuk-scheduled-visit-wednesday-commanders",
-      "image": "https://a.espncdn.com/photo/2024/0814/r1373326_1296x729_16-9.jpg",
-      "published": "11/24/2026, 10:38:14 PM",
-      "desc": "Wide receiver Brandon Aiyuk is scheduled to visit Wednesday with the Commanders, agent Drew Rosenhaus told ESPN's Adam Schefter."
-    },
-    {
-      "title": "Portsmouth 1-0 West Ham United: Odin Bailey deepens Hammers' woes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cxj05qmzq474t",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/16cd/live/f1155f90-e855-11f1-9b85-e50d1e9de678.jpg",
-      "published": "11/24/2026, 10:37:27 PM",
-      "desc": "Portsmouth beat West Ham United to leave Hammers boss Scott Parker still waiting for his first win after four matches in charge."
-    },
-    {
-      "title": "Scottish Premiership: Rangers beat Aberdeen in five-goal thriller to move within one of Celtic",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/cx053m6nmevdt",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f2bd/live/46409310-e854-11f1-aa88-031e8213533d.jpg",
-      "published": "11/24/2026, 10:37:25 PM",
-      "desc": "Rangers produce an incredible quickfire second-half comeback to beat Aberdeen and narrow the gap to Scottish Premiership leaders Celtic to one point."
     }
   ],
   "tech": [
+    {
+      "title": "Nine quick fixes for family tech problems this Thanksgiving - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/future/article/20261125-nine-tech-problems-to-solve-for-your-parents-this-thanksgiving",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0pprsvt.jpg",
+      "published": "11/25/2026, 10:15:00 AM",
+      "desc": "Home for the holidays? These steps will help you solve technology problems your family might be having and prevent crises before they happen. They'll make your life better too."
+    },
+    {
+      "title": "EA adds AI-generated John Motson to FC 27 video game - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c65y10j841jpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+      "published": "11/25/2026, 10:11:34 AM",
+      "desc": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+    },
+    {
+      "title": "Keeping Your Molten Salt Reactor Fuel Fresh With Helium Bubbles - Hackaday",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2026/11/24/keeping-your-molten-salt-reactor-fuel-fresh-with-helium-bubbles/",
+      "image": "https://hackaday.com/wp-content/uploads/2023/05/MSRE_Diagram.png",
+      "published": "11/25/2026, 3:00:00 AM",
+      "desc": "Recently [Huihua Yang] and fellow researchers at Argonne National Laboratory and Rensselaer Polytechnic Institute reported a way (paywalled, no preprint available) to keep the inside of molten salt…"
+    },
+    {
+      "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps - SiliconANGLE",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-25-09-34-15.png",
+      "published": "11/25/2026, 2:36:00 AM",
+      "desc": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps - SiliconANGLE"
+    },
     {
       "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes - Nintendo Life",
       "source": "Nintendo Life",
@@ -198,60 +214,28 @@
       "desc": "Knockout Tour updates, adjustments, fixes and more"
     },
     {
-      "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons",
-      "image": "https://assets-prd.ignimgs.com/2026/11/23/controls-blog-1795445007043.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published": "11/24/2026, 11:16:36 PM",
-      "desc": "GTA 6 has a whole bunch of secret controls that the game doesn't really tell you about. Here's how to flip your car, flip the bird, and much more."
+      "title": "For weeks, Google AI falsely said Danville's Esin Restaurant was closing - SFGATE",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/food/article/esin-restaurant-google-closing-22548215.php",
+      "image": "https://s.hdnux.com/photos/01/70/02/22/31466655/3/rawImage.jpg",
+      "published": "11/25/2026, 1:03:08 AM",
+      "desc": "Chef-owner Curtis deCarion spent two weeks retraining Google's AI search mode to stop telling users his Danville restaurant was closing. It wasn't."
     },
     {
-      "title": "After my divorce, I started taking myself on solo dates to nice restaurants. I don't need a partner to feel special. - Yahoo",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/after-divorce-learned-to-love-solo-travel-dinners-for-one-2026-11",
-      "image": "https://s.yimg.com/lo/mysterio/api/a5002ad3910358f30bd41a0f33441924a9d29cefe10e934b27ce28d95d6eaa99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F4b4ee8dbe7e58f77b7cd44af8c6954ad.jpg",
-      "published": "11/24/2026, 10:50:01 PM",
-      "desc": "A spontaneous solo trip to New York City helped me rediscover my spark and reminded me why dating myself is just as important as dating others."
+      "title": "GTA 6 runs better on Xbox Series X — a huge blow to the PS5 and Sony - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/confirmed-gta-6-runs-better-on-xbox-series-x-than-ps5",
+      "image": "https://cdn.mos.cms.futurecdn.net/AGnB3XXuGSGFrbo8EPHx7B-2560-80.jpg",
+      "published": "11/25/2026, 12:02:08 AM",
+      "desc": "A pervasive analysis from Digital Foundry confirms that Grand Theft Auto 6 has a better version, and it's on Xbox Series X."
     },
     {
-      "title": "The 15 best Black Friday laptop and computer deals because these things are too expensive - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2026-11-24",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-imac-m6-cnnu-03.jpg?c=16x9&q=w_800,c_fill",
-      "published": "11/24/2026, 10:29:00 PM",
-      "desc": "Computers are too pricey these days, so our PC expert found the best Black Friday laptop and desktop deals that bring them back to a reasonable price."
-    },
-    {
-      "title": "GTA VI PC recompilation project shut down by Take-Two - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "published": "11/24/2026, 9:39:14 PM",
-      "desc": "Modders are racing to get Grand Theft Auto VI running on PC."
-    },
-    {
-      "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists - Nature",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-03836-z",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03836-z/d41586-026-03836-z_54015654.jpg",
-      "published": "11/24/2026, 9:34:47 PM",
-      "desc": "Anthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools."
-    },
-    {
-      "title": "AirTag 2 has two big improvements that make it worth the upgrade - 9to5Mac",
+      "title": "Apple Mail added four convenient new features in iOS 27 - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/airtag-2-jb-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "11/24/2026, 7:53:00 PM",
-      "desc": "AirTag 2 launched earlier this year after a five-year wait, and with two big improvements that make it worth the upgrade."
-    },
-    {
-      "title": "Huawei’s New Skinny Smartwatch Forecasts the Apple Watch’s Future - Gizmodo",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11QUF5S0NXY0ZmejJqR2x2RGxVa0x5VWRSUkRPZHZyeXpqQVg2R1lURWJROTVRaWNmMUZyVDB2Rl9DbG5HWTlkdHVZTjRINUdkM3MxOGZxWTVpYlNzbzc2ZzRXdkNOd3RZRHNn?oc=5",
-      "image": "",
-      "published": "11/24/2026, 7:30:17 PM",
-      "desc": ""
+      "url": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "published": "11/24/2026, 11:56:00 PM",
+      "desc": "iOS 27 adds new features to many system apps, including convenient upgrades for the Mail app. Here’s everything new for Apple Mail in iOS 27."
     }
   ],
   "education": [
@@ -368,15 +352,6 @@
     },
     {
       "rank": 6,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
-    },
-    {
-      "rank": 7,
       "title": "You're Still The One",
       "artist": "UB40",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/97/69/5e9769de-e43e-07cd-ab73-2483727810b5/131058.jpg/300x300bb.jpg",
@@ -385,16 +360,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=UB40%20You're%20Still%20The%20One"
     },
     {
-      "rank": 8,
-      "title": "Go Easy",
-      "artist": "Dua Lipa",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/ee/bf/5ceebf94-19a3-3a5d-3b26-9b2c224a272c/mzaf_2795005289223583923.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/go-easy/6812476961?i=6812477282&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Go%20Easy"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
@@ -403,31 +369,49 @@
       "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
     },
     {
+      "rank": 8,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 9,
+      "title": "Go Easy",
+      "artist": "Dua Lipa",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/ee/bf/5ceebf94-19a3-3a5d-3b26-9b2c224a272c/mzaf_2795005289223583923.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/go-easy/6812476961?i=6812477282&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Go%20Easy"
+    },
+    {
       "rank": 10,
+      "title": "Fairytale of New York (feat. Kirsty MacColl)",
+      "artist": "The Pogues",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/8d/a1/148da1d9-e819-325e-f3ff-598e8c6448ac/s06.hbzohdue.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/f7/43/43f7439e-31e0-2272-c9ab-826bdcde4a86/mzaf_2610414247738613500.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/fairytale-of-new-york-feat-kirsty-maccoll/52576005?i=52576042&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Pogues%20Fairytale%20of%20New%20York%20(feat.%20Kirsty%20MacColl)"
+    },
+    {
+      "rank": 11,
+      "title": "Breakaway",
+      "artist": "Kelly Clarkson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/de/2a/43de2abe-8213-d6bd-6e55-dadc4a8a6cd7/mzi.rcqjswky.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/5e/72/645e7266-6bf3-9326-53ab-59eafc0c0edb/mzaf_4449335756914172909.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/breakaway/259987931?i=259987944&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kelly%20Clarkson%20Breakaway"
+    },
+    {
+      "rank": 12,
       "title": "The Sun Will Never Settle",
       "artist": "Kingfishr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/fe/d0/5efed024-dde2-d546-3296-2fbc6805de80/mzaf_1822292230437382423.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/the-sun-will-never-settle/6768830561?i=6768830564&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kingfishr%20The%20Sun%20Will%20Never%20Settle"
-    },
-    {
-      "rank": 11,
-      "title": "BAD TIMES",
-      "artist": "Imael Angel & Cali Bee",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/48/e5/0848e51a-c14d-1d5f-494e-871b561ed0f4/26UM1IM27351.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/20/6b/a0206bdd-2595-0048-fffc-a8e1e52ecea6/mzaf_12743903273075580494.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/bad-times/6824538587?i=6824538714&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20%26%20Cali%20Bee%20BAD%20TIMES"
-    },
-    {
-      "rank": 12,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
     },
     {
       "rank": 13,
@@ -440,21 +424,21 @@
     },
     {
       "rank": 14,
-      "title": "Fairytale of New York (feat. Kirsty MacColl)",
-      "artist": "The Pogues",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/8d/a1/148da1d9-e819-325e-f3ff-598e8c6448ac/s06.hbzohdue.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/f7/43/43f7439e-31e0-2272-c9ab-826bdcde4a86/mzaf_2610414247738613500.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/fairytale-of-new-york-feat-kirsty-maccoll/52576005?i=52576042&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=The%20Pogues%20Fairytale%20of%20New%20York%20(feat.%20Kirsty%20MacColl)"
+      "title": "BAD TIMES",
+      "artist": "Imael Angel & Cali Bee",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/48/e5/0848e51a-c14d-1d5f-494e-871b561ed0f4/26UM1IM27351.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/20/6b/a0206bdd-2595-0048-fffc-a8e1e52ecea6/mzaf_12743903273075580494.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/bad-times/6824538587?i=6824538714&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Imael%20Angel%20%26%20Cali%20Bee%20BAD%20TIMES"
     },
     {
       "rank": 15,
-      "title": "Patient Zero",
-      "artist": "Taylor Swift",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/e7/50/dbe750f6-2ca3-d653-06cc-d610343c8ccf/mzaf_2287096821380446766.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Taylor%20Swift%20Patient%20Zero"
+      "title": "Babydoll",
+      "artist": "Jamie Miller & Antonio Cipriano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
     }
   ],
   "movies": [
@@ -469,21 +453,21 @@
     },
     {
       "rank": 2,
+      "title": "Way of the Warrior Kid",
+      "year": "2026",
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+      "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "url": "https://www.themoviedb.org/movie/1280115"
+    },
+    {
+      "rank": 3,
       "title": "Hexed",
       "year": "2026",
       "cert": "PG",
       "poster": "https://image.tmdb.org/t/p/w342/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "url": "https://www.themoviedb.org/movie/1538497"
-    },
-    {
-      "rank": 3,
-      "title": "Steps",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
-      "url": "https://www.themoviedb.org/movie/1595124"
     },
     {
       "rank": 4,
@@ -496,21 +480,21 @@
     },
     {
       "rank": 5,
-      "title": "Guarding Stars",
+      "title": "Steps",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-      "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-      "url": "https://www.themoviedb.org/movie/1551025"
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "url": "https://www.themoviedb.org/movie/1595124"
     },
     {
       "rank": 6,
-      "title": "Way of the Warrior Kid",
+      "title": "Focker In-Law",
       "year": "2026",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-      "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-      "url": "https://www.themoviedb.org/movie/1280115"
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+      "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+      "url": "https://www.themoviedb.org/movie/1400336"
     },
     {
       "rank": 7,
@@ -523,12 +507,12 @@
     },
     {
       "rank": 8,
-      "title": "Focker In-Law",
+      "title": "Guarding Stars",
       "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-      "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-      "url": "https://www.themoviedb.org/movie/1400336"
+      "cert": "12",
+      "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+      "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "url": "https://www.themoviedb.org/movie/1551025"
     }
   ],
   "tv": [
@@ -549,15 +533,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "url": "https://www.themoviedb.org/tv/213375"
-    },
-    {
-      "rank": 3,
-      "title": "The Chosen",
-      "year": "2019",
-      "cert": "12",
-      "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "url": "https://www.themoviedb.org/tv/85077"
     }
   ]
 }
