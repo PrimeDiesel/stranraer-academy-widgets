@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-25T15:51:32.728Z",
-  "day": 328,
+  "generated": "2026-11-26T15:30:26.027Z",
+  "day": 329,
   "movie": {
-    "title": "West Side Story",
+    "title": "The Bad Guys",
     "safe": true,
-    "cert": "12A",
+    "cert": "PG",
     "source": "tmdb-uk",
-    "year": "2021",
-    "plot": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
-    "poster": "https://image.tmdb.org/t/p/w500/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+    "year": "2025",
+    "plot": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "poster": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
     "genre": "",
     "season": null
   },
   "song": {
-    "key": "Tori Amos-Cornflake Girl",
+    "key": "Taylor Swift-Shake It Off",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/4a/1b/924a1b3a-7fb3-2681-7fd1-01ecbf7e8204/s02.xckeknns.jpg/600x600bb.jpg",
-    "year": "1994",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/1d/8e/321d8e9e-d806-b545-fd30-5c7aef575abc/14UMGIM34829.rgb.jpg/600x600bb.jpg",
+    "year": "2014",
     "v": 4
   },
   "album": {
-    "key": "Simon & Garfunkel-Bridge Over Troubled Water",
+    "key": "Tears for Fears-Songs from the Big Chair",
     "safe": true,
-    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg/600x600bb.jpg",
-    "year": "1970",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg",
+    "year": "1985",
     "v": 4
   }
 }
