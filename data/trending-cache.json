@@ -1,13 +1,29 @@
 {
-  "updated": "2026-11-27T03:33:07.019Z",
+  "updated": "2026-11-27T13:32:17.465Z",
   "news": [
     {
-      "title": "Newspaper headlines: 'Six-day streak \"smashes\" global temperature record' and 'Gord speed'",
+      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdf9/live/612032a0-e933-11f1-9bc3-811961023815.png",
-      "published": "11/26/2026, 1:01:31 AM",
-      "desc": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian."
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8429/live/e3809710-e98a-11f1-9d1c-4dcc8fcde666.jpg",
+      "published": "11/26/2026, 11:40:05 AM",
+      "desc": "It comes after reports that reservists have received letters telling them to prepare to be called up for war."
+    },
+    {
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+      "published": "11/26/2026, 6:01:58 AM",
+      "desc": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
+    },
+    {
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35da/live/c364c320-e967-11f1-a094-5fdc692f3e33.jpg",
+      "published": "11/26/2026, 12:24:25 AM",
+      "desc": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians."
     },
     {
       "title": "BBC launches partnership with Met Office for weather coverage",
@@ -18,31 +34,135 @@
       "desc": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences."
     },
     {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "title": "QUB: Jason Arday research cleared following university investigation",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
-      "published": "11/26/2026, 12:07:51 AM",
-      "desc": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
-    },
-    {
-      "title": "Stalking law simplified to become one offence",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40a5/live/9c3c8510-e847-11f1-aa88-031e8213533d.jpg",
-      "published": "11/26/2026, 12:02:50 AM",
-      "desc": "The new stalking offence will be introduced after a review found existing legislation was confusing."
-    },
-    {
-      "title": "Duran Duran guitarist Andy Taylor dies, aged 65",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
-      "published": "11/25/2026, 9:43:46 PM",
-      "desc": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer."
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e11lnq4o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c958/live/b5fe7690-9269-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "11/26/2026, 12:02:06 AM",
+      "desc": "The 41-year-old was found dead in August following weeks of media coverage over plagiarism allegations and questions about his achievements, which he denied."
     }
   ],
   "sports": [
+    {
+      "title": "Premier League LIVE: News conferences, team news, Xabi Alonso, Daniel Farke",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c6x29exeq0k2t",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2db6/live/c6c9fa40-e97f-11f1-99a1-253766e7ad8b.png",
+      "published": "11/26/2026, 1:07:12 PM",
+      "desc": "All the latest from Thursday's Premier League news conferences as Xabi Alonso, Daniel Farke, Frank Lampard and Keith Andrews speak to the media."
+    },
+    {
+      "title": "Fifa confirms internal data stolen in cyber attack",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg",
+      "published": "11/26/2026, 12:52:14 PM",
+      "desc": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen."
+    },
+    {
+      "title": "Golf: Nick Faldo urges LIV stars to 'chip in' for unpaid firms",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c4c/live/15b5a860-e8b4-11f1-9e64-bddd508b9881.jpg",
+      "published": "11/26/2026, 12:52:11 PM",
+      "desc": "The six-time major winner calls on those who benefited financially from LIV Golf to help small businesses still owed money by the tour."
+    },
+    {
+      "title": "College Football Week 13 Expert Picks, Predictions For Ohio State-Michigan And More",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/college-football-week-13-expert-picks-predictions-ohio-state-michigan-more",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9_1024-1.jpg?ve=1&tl=1",
+      "published": "11/26/2026, 12:00:22 PM",
+      "desc": "Here are FOX Sports' expert picks for Week 13 of the 2026 college football season."
+    },
+    {
+      "title": "Nations Championship finals: Rice cookers, prosecco and unknowns",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/c6wy4kmjggr9o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3846/live/eb826cc0-e91e-11f1-9108-c5b270b0703d.jpg",
+      "published": "11/26/2026, 10:52:09 AM",
+      "desc": "The unprecedented demands of Nations Championship finals weekend have been met by meticulous planning."
+    },
+    {
+      "title": "Oliver Bearman: Haas retain British driver for 2027 season",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ea6/live/eec7eb70-e979-11f1-acd8-af22a7ebb474.jpg",
+      "published": "11/26/2026, 10:22:08 AM",
+      "desc": "Britain's Oliver Bearman will continue to race for the Haas team in Formula 1 in 2027."
+    },
+    {
+      "title": "2026 Conference Championship Scenarios: Every Team That Can Clinch In Week 13",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/2026-conference-championship-scenarios-every-team-can-clinch-week-13",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/ebe3f4e5-clinching-scenarios-cfb-16x9-3.jpg?ve=1&tl=1",
+      "published": "11/26/2026, 10:04:13 AM",
+      "desc": "Here are the clinching scenarios for every team that can secure a spot in a conference championship game heading into Week 12."
+    },
+    {
+      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg",
+      "published": "11/26/2026, 9:37:13 AM",
+      "desc": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary."
+    },
+    {
+      "title": "Davis Cup LIVE: GB's Cameron Norrie vs Jan-Lennard Struff - watch stream, follow live, latest scores and results",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/tennis/live/cm4gn2e2xnzxt",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/60f8/live/b1555240-e8cb-11f1-99b6-a35a62fa4264.jpg",
+      "published": "11/26/2026, 9:37:11 AM",
+      "desc": "Great Britain face Germany for a place in the Davis Cup semi-finals - watch and follow Cameron Norrie v Jan-Lennard Struff live."
+    },
+    {
+      "title": "Packers' Parsons calls for accountability after Rams run wild - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50602564/packers-micah-parsons-accountability-rams-return",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751546_1296x729_16-9.jpg",
+      "published": "11/26/2026, 7:33:30 AM",
+      "desc": "\"That wasn't a championship attitude, competitiveness, drive,\" Micah Parsons said of Green Bay allowing the Rams to rush for a season-high 241 yards."
+    },
+    {
+      "title": "Raheem Sterling: After court case how common is nitrous oxide in football?",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg",
+      "published": "11/26/2026, 6:52:10 AM",
+      "desc": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers."
+    },
+    {
+      "title": "Motorcycle catch: Man who caught a cricket ball on a moving vehicle found",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3dfc/live/68cad6e0-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
+      "published": "11/26/2026, 5:37:09 AM",
+      "desc": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle."
+    },
+    {
+      "title": "A Star Is Born In L.A.: 3 Takeaways From Rams' Thanksgiving Eve Win vs. Packers",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/packers-rams-takeaways-blake-corum",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/blake-corum-takeaways.jpg?ve=1&tl=1",
+      "published": "11/26/2026, 4:49:29 AM",
+      "desc": "Blake Corum is emerging as a star for the Rams as they continued their winning streak with their victory over the Packers."
+    },
+    {
+      "title": "LeBron dusts 'off the cape' to save 76ers with triple-double - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/50601303/lebron-dusts-cape-save-76ers-triple-double",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751501_1024x576_16-9.jpg",
+      "published": "11/26/2026, 3:57:59 AM",
+      "desc": "The soon-to-be 42-year-old LeBron James showed his ability to put the 76ers on his back with a 25-point triple-double in Wednesday's NBA Cup win over Miami."
+    },
+    {
+      "title": "Rams' Kam Kinchens ejected for hit on Christian Watson - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50600753/rams-kam-kinchens-ejected-hit-christian-watson",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751489_1296x729_16-9.jpg",
+      "published": "11/26/2026, 3:01:10 AM",
+      "desc": "Rams safety Kam Kinchens was ejected for a hit along the sideline that left Packers wide receiver Christian Watson with a concussion Wednesday night."
+    },
     {
       "title": "Packers' Christian Watson Leaves vs. Rams After Taking Hard Hit; S Kam Kinchens Ejected",
       "source": "Fox Sports",
@@ -66,136 +186,48 @@
       "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/artboard-1-45.jpg?ve=1&tl=1",
       "published": "11/26/2026, 1:57:17 AM",
       "desc": "The Big Ten would be thankful to have just two teams in the 12-team Playoff field. That and more in Sammy P's Sportsbook Whispers."
-    },
-    {
-      "title": "Tony Romo takes job with sports gambling company - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50600128/tony-romo-job-sports-gambling-company-jake-paul",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695598_1296x729_16-9.jpg",
-      "published": "11/26/2026, 1:55:51 AM",
-      "desc": "Former CBS NFL analyst Tony Romo has taken a job with Betr, with the company saying he will make predictions and engage with fans across platforms."
-    },
-    {
-      "title": "Patrick Mahomes Is Peaking At The Right Time Ahead Of Chiefs-Bills Matchup",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/patrick-mahomes-josh-allen-chiefs-bills",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9-27.jpg?ve=1&tl=1",
-      "published": "11/26/2026, 12:52:47 AM",
-      "desc": "Patrick Mahomes and Josh Allen meet again on Thanksgiving. What should we expect on Thursday night?"
-    },
-    {
-      "title": "England v New Zealand: Greg Fisilau and Freddie Steward in hosts' XV",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de97/live/fb0404b0-e8e7-11f1-8808-1d4222955d7e.jpg",
-      "published": "11/26/2026, 12:52:13 AM",
-      "desc": "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday."
-    },
-    {
-      "title": "'Disgrace' decisions, divots and howlers - Man Utd chaos against Sporting",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8572/live/fb0ba300-e92d-11f1-a094-5fdc692f3e33.jpg",
-      "published": "11/26/2026, 12:52:12 AM",
-      "desc": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon."
-    },
-    {
-      "title": "Man Utd on wrong end of more controversial decisions in Sporting draw",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg",
-      "published": "11/26/2026, 12:52:09 AM",
-      "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?"
-    },
-    {
-      "title": "Packers vs. Rams Live Updates, Score: Micah Parsons Returns On Thanksgiving Eve",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/nfl/packers-vs-rams-live-updates-score",
-      "image": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/liveblog-16x9gbla.jpg",
-      "published": "11/26/2026, 12:18:30 AM",
-      "desc": "Live updates, score and highlights as the Green Bay Packers face the Los Angeles Rams on Thanksgiving Eve."
-    },
-    {
-      "title": "Aaron Rodgers Is Done With The Steelers. Is His Time In The NFL Done, Too?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/aaron-rodgers-done-steelers-possible-end-of-career",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/89a86024-nfl-16x9-1.jpg?ve=1&tl=1",
-      "published": "11/26/2026, 12:09:32 AM",
-      "desc": "After processing the incredible events between Aaron Rodgers and the Steelers on Wednesday, what's realistic for the future Hall of Fame QB?"
-    },
-    {
-      "title": "5 Key Questions As Copa América Returns To U.S., Including Early Predictions",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/soccer/copa-america-2028-predictions-argentina-brazil-usmnt-mexico-storylines",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/fd5c0604-artboard-1.jpg?ve=1&tl=1",
-      "published": "11/26/2026, 12:07:40 AM",
-      "desc": "The oldest continuous international soccer tournament will return to the United States in less than two years."
-    },
-    {
-      "title": "Sources -- Free agent Kevin Gausman, Tigers reach deal - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/50599090/sources-free-agent-kevin-gausman-tigers-reach-deal",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698395_1296x729_16-9.jpg",
-      "published": "11/25/2026, 11:55:08 PM",
-      "desc": "RHP Kevin Gausman and the Tigers have agreed to a one-year, $25M contract, pending a physical, sources told ESPN's Jeff Passan on Wednesday."
-    },
-    {
-      "title": "'All coming together' - Isak repaying Liverpool faith",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg",
-      "published": "11/25/2026, 11:52:11 PM",
-      "desc": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club."
-    },
-    {
-      "title": "Week 11 Playoff Picture: AFC & NFC Seeds Entering The Holiday Weekend",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/week-11-nfl-playoff-bracket-whos-in-whos-out-key-tiebreakers",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/playoff-picture-16x9-nfl.jpg?ve=1&tl=1",
-      "published": "11/25/2026, 11:46:07 PM",
-      "desc": "Here's what the NFL playoff picture looks like after Week 10 of the regular season."
-    },
-    {
-      "title": "More Than A Game: Why Ohio State-Michigan Remains College Football's Best Rivalry",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/ohio-state-michigan-best-rivalry",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9-2026-11-25t155922.013.jpg?ve=1&tl=1",
-      "published": "11/25/2026, 11:19:23 PM",
-      "desc": "From Bo Schembechler to Jim Tressel, Brady Quinn provides a firsthand look at the history, passion and obsession behind college football's greatest rivalry: Ohio State vs. Michigan."
-    },
-    {
-      "title": "Own goal seals Lille comeback win over Bayern Munich",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crp3eye835g3t",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8fee/live/02e898b0-e91c-11f1-99b6-a35a62fa4264.jpg",
-      "published": "11/25/2026, 10:37:30 PM",
-      "desc": "Aleksandar Pavlovic scores an own goal as Bayern Munich suffer their first defeat in Europe this season at the hands of Lille."
-    },
-    {
-      "title": "Paris St-Germain 2-2 Roma: Donyell Malen penalty earns visitors a point at Parc des Princes",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/live/crd6151l6y7zt",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/59d4/live/7f5977a0-e919-11f1-8383-53f283141713.jpg",
-      "published": "11/25/2026, 10:37:26 PM",
-      "desc": "Donyell Malen scores for the fourth Champions League game running as Roma end Paris St-Germain's 100% start to the competition."
-    },
-    {
-      "title": "Manchester City: Football regulator chief 'has stomach' to take action against club",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg",
-      "published": "11/25/2026, 10:37:24 PM",
-      "desc": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City."
     }
   ],
   "tech": [
     {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
+      "published": "11/26/2026, 12:00:14 PM",
+      "desc": "Our home offices range from tasteful to \"please explain yourself.\""
+    },
+    {
+      "title": "Black Friday 2026 Handheld Deals (and More) - Buttondown",
+      "source": "Buttondown.com",
+      "url": "https://buttondown.com/retrogamecorps/archive/Black-Friday-2026/",
+      "image": "https://assets.buttondown.email/images/3db9935f-a7e8-4250-ad3e-c6a123379536.jpg?w=960&fit=max",
+      "published": "11/26/2026, 11:23:05 AM",
+      "desc": "Here is a roundup of Black Friday deals this year."
+    },
+    {
+      "title": "Pokémon GO Champions Celebration: Raids, GO Pass & Rewards - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/pokemon-champions-celebration-2026/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/11/pokemon-champions-celebration.jpg",
+      "published": "11/26/2026, 5:20:13 AM",
+      "desc": "Get the Pokémon GO Champions Celebration raid lineup, Special Background dates, GO Pass bonuses, and steps to unlock Professor Willow’s outfit in Pokémon Champions."
+    },
+    {
+      "title": "Site lets gamers play GTA 6 for free, as alternative to PS5 or Xbox cloud gaming - Notebookcheck",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Site-lets-gamers-play-GTA-6-for-free-as-alternative-to-PS5-or-Xbox-cloud-gaming.1460033.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6RemotePlayBanner.jpg",
+      "published": "11/26/2026, 2:26:00 AM",
+      "desc": "Without a demo to download, PlayMyPS5 is a free way to experience GTA 6 on the PS5. The service cloud streams PS Remote Play from a console to a chatroom of gamers. Virtual players can use controllers or keyboards, but they have only a short time to explore L…"
+    },
+    {
       "title": "Zelda: Ocarina of Time 1.1.2 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-1-1-2-update-out-now-patch-notes/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-1.1.2-update.jpg",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzNLWE9kaHU0Q1M2X1A1VmFXTDh1OVNULXpuVVFaaV9FZlFjSThENHB3cS16UFB4ckdhd0cyNUV2cXdySG9CTEZ3MmMwa3piQXJGaEpmSE44NU9UWjVQNzVkak80NlRyU05IbTBYcTZhaVRvZnRzMmM4VVhqYlhQNUpxazZxRzdPN2xBSG53TQ?oc=5",
+      "image": "",
       "published": "11/26/2026, 1:25:59 AM",
-      "desc": "The Legend of Zelda: Ocarina of Time gets first update since launch with version 1.1.2, and here are the patch notes."
+      "desc": ""
     },
     {
       "title": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements - Nintendo Life",
@@ -214,44 +246,12 @@
       "desc": "Rockstar Games boss Rob Nelson has explained why the studio added the divisive criminal profile system to GTA 6."
     },
     {
-      "title": "Wordle today: The answer and hints for November 25, 2026 - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-november-25-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/07i9aIfMfdkq8zRptTXCuZy/hero-image.fill.size_1200x675.v1795528736.jpg",
-      "published": "11/25/2026, 11:40:50 PM",
-      "desc": "Here are some tips and tricks to help you find the answer to \"Wordle\" #1985."
-    },
-    {
-      "title": "Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one - TweakTown",
-      "source": "TweakTown",
-      "url": "https://www.tweaktown.com/news/114892/rockstar-is-handing-out-100-of-these-gorgeous-limited-edition-gta-6-ps5-consoles-and-you-cant-buy-one/index.html",
-      "image": "https://static.tweaktown.com/news/1/1/114892_2_rockstar-handed-out-100-of-these-gorgeous-limited-edition-gta-6-ps5-consoles-but-you-cant-buy-one_full.png?v=1795646527",
-      "published": "11/25/2026, 11:13:02 PM",
-      "desc": "After giving custom GTA 6 PS5 Pro consoles to Miami Heat players, Rockstar is sending them to creators rather than selling them."
-    },
-    {
-      "title": "With Grand Theft Auto 6 , The Series Has Outgrown Some Of Its Joke Brand Names - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/with-grand-theft-auto-6-the-series-has-outgrown-some-of-its-joke-brand-names-2001000507",
-      "image": "https://kotaku.com/app/uploads/2026/11/gta-6-brands-1200x675.jpg",
-      "published": "11/25/2026, 10:54:04 PM",
-      "desc": "The mature storytelling is at odds with dumb product names like Zombix"
-    },
-    {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future - The Verge",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
-      "published": "11/25/2026, 9:51:26 PM",
-      "desc": "Google is thinking about how generative AI could be used to give people endless feeds of slop entertainment."
-    },
-    {
-      "title": "Google Home gets another big update with these new app, Nest Cam, and Gemini features - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&resize=1200,628",
-      "published": "11/25/2026, 9:50:00 PM",
-      "desc": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts,..."
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published": "11/26/2026, 12:04:00 AM",
+      "desc": "Google announced two of Walmart’s Onn cameras now support its Familiar Faces AI feature and a new security siren remote control feature."
     }
   ],
   "education": [
@@ -359,21 +359,21 @@
     },
     {
       "rank": 5,
+      "title": "Reversed Polarity",
+      "artist": "Floor Jansen",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/28/49/6928497d-16a6-d96b-10e7-56da6b10392b/1200214815929.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/f4/d2/1df4d291-c6cb-05d8-3903-d3ab17b73192/mzaf_14419486518503862208.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/reversed-polarity/6800381142?i=6800381441&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Floor%20Jansen%20Reversed%20Polarity"
+    },
+    {
+      "rank": 6,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_4251933786704889664.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
-    },
-    {
-      "rank": 6,
-      "title": "Boston",
-      "artist": "STELLA LEFTY",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
       "rank": 7,
@@ -395,15 +395,24 @@
     },
     {
       "rank": 9,
-      "title": "Great Expectation",
-      "artist": "SIENNA SPIRO",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/great-expectation/6769553652?i=6769553656&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation"
+      "title": "Where There's A Will",
+      "artist": "The Rolling Stones",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/71/11/1b711149-0c6a-242e-63b6-f919c9ca8a1d/mzaf_6691861007849626616.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/where-theres-a-will/6820456312?i=6820456322&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20Where%20There's%20A%20Will"
     },
     {
       "rank": 10,
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/0f/c5/440fc55c-cd76-7620-e6f8-b261df255ac0/mzaf_16427196732428704455.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/boston/1884403092?i=1884403093&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
+    },
+    {
+      "rank": 11,
       "title": "Go Easy",
       "artist": "Dua Lipa",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
@@ -412,54 +421,54 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Go%20Easy"
     },
     {
-      "rank": 11,
-      "title": "All I Want for Christmas Is You",
-      "artist": "Mariah Carey",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/93/49/df93491d-65a6-bb2d-eb03-9ad3b3d62438/mzaf_10792594730801509593.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/585972750?i=585972803&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Mariah%20Carey%20All%20I%20Want%20for%20Christmas%20Is%20You"
-    },
-    {
       "rank": 12,
-      "title": "My Body Isn't Ready",
-      "artist": "sombr",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+      "title": "Human Tide",
+      "artist": "The Rolling Stones",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/39/4d/d0394d15-4c12-baef-dd73-378bc96bbd5d/mzaf_2738699207823222121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/human-tide/6820456312?i=6820456639&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20Human%20Tide"
     },
     {
       "rank": 13,
-      "title": "Different Dream To Mine",
-      "artist": "Joel Foster",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/da/46/9bda465b-0eb8-3a9c-258e-2eadcb1e7d5f/artwork.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/0a/dc/710adc4d-8ea6-a5d2-c602-3bc23bd78996/mzaf_9788874480187409525.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/different-dream-to-mine/6825898459?i=6825898460&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Joel%20Foster%20Different%20Dream%20To%20Mine"
+      "title": "Breakaway",
+      "artist": "Kelly Clarkson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/de/2a/43de2abe-8213-d6bd-6e55-dadc4a8a6cd7/mzi.rcqjswky.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/5e/72/645e7266-6bf3-9326-53ab-59eafc0c0edb/mzaf_4449335756914172909.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/breakaway/259987931?i=259987944&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Kelly%20Clarkson%20Breakaway"
     },
     {
       "rank": 14,
+      "title": "She Still Comes Around",
+      "artist": "The Rolling Stones",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/86/4b/12864b63-3561-c670-7382-d52fcc514380/mzaf_16579832484308098801.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/she-still-comes-around/6820456312?i=6820456647&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20She%20Still%20Comes%20Around"
+    },
+    {
+      "rank": 15,
       "title": "Babydoll",
       "artist": "Jamie Miller & Antonio Cipriano",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/85/94/a98594bd-8e36-7b9f-a59d-77a3a19eb9a1/26UM1IM19333.rgb.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/c7/48/dbc74870-1d53-6431-30bb-1e2fd7527451/mzaf_3420020238001295608.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/babydoll/6812888324?i=6812888327&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Jamie%20Miller%20%26%20Antonio%20Cipriano%20Babydoll"
-    },
-    {
-      "rank": 15,
-      "title": "You're Still The One",
-      "artist": "UB40",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/97/69/5e9769de-e43e-07cd-ab73-2483727810b5/131058.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/36/51/b5365177-beae-43a6-7fdb-cb60f4c54e43/mzaf_14246285837637161322.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/youre-still-the-one/6834066368?i=6834066447&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=UB40%20You're%20Still%20The%20One"
     }
   ],
   "movies": [
     {
       "rank": 1,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
+    },
+    {
+      "rank": 2,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
       "cert": "12A",
@@ -468,7 +477,7 @@
       "url": "https://www.themoviedb.org/movie/1300968"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Hexed",
       "year": "2026",
       "cert": "PG",
@@ -477,7 +486,7 @@
       "url": "https://www.themoviedb.org/movie/1538497"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
@@ -486,7 +495,7 @@
       "url": "https://www.themoviedb.org/movie/969681"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Steps",
       "year": "2026",
       "cert": "PG",
@@ -495,31 +504,22 @@
       "url": "https://www.themoviedb.org/movie/1595124"
     },
     {
-      "rank": 5,
-      "title": "Street Fighter",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/1r8IbJqmctfcAEw8KMmHhE63fA9.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
       "rank": 6,
-      "title": "Focker In-Law",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-      "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-      "url": "https://www.themoviedb.org/movie/1400336"
-    },
-    {
-      "rank": 7,
       "title": "Way of the Warrior Kid",
       "year": "2026",
       "cert": "12",
       "poster": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
       "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
       "url": "https://www.themoviedb.org/movie/1280115"
+    },
+    {
+      "rank": 7,
+      "title": "Focker In-Law",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+      "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+      "url": "https://www.themoviedb.org/movie/1400336"
     },
     {
       "rank": 8,
