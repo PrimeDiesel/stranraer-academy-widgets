@@ -1,13 +1,37 @@
 {
-  "updated": "2026-11-27T22:31:14.798Z",
+  "updated": "2026-11-28T04:34:18.902Z",
   "news": [
     {
-      "title": "Tyson Fury vs Anthony Joshua: Paris Fury clarifies fighter did not have schizophrenia diagnosis",
+      "title": "Newspaper headlines: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c8a/live/cc272240-e9c2-11f1-8d2a-f5d2aabc11cb.jpg",
-      "published": "11/26/2026, 6:54:27 PM",
-      "desc": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia."
+      "url": "https://www.bbc.co.uk/news/articles/cm62p75vwn9xo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ce6/live/98886150-e9f5-11f1-87b3-bb093b41e6d9.png",
+      "published": "11/27/2026, 1:23:47 AM",
+      "desc": "Labour MPs oppose Rosebank oilfield and 'Shameless Huw'"
+    },
+    {
+      "title": "Tebbutt attack in Lamu: Kenyan Ali Kololo says Met Police ruined his life",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
+      "published": "11/27/2026, 12:48:11 AM",
+      "desc": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu."
+    },
+    {
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+      "published": "11/26/2026, 11:17:12 PM",
+      "desc": "Details of the contribution towards EU running costs have been revealed in new legal documents."
+    },
+    {
+      "title": "'Horrible spike' in flu warning as hospital admissions surge",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
+      "published": "11/26/2026, 10:06:24 PM",
+      "desc": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible."
     },
     {
       "title": "Securly - Geolocation sharing",
@@ -16,25 +40,89 @@
       "image": "",
       "published": "11/26/2026, 5:52:04 PM",
       "desc": ""
-    },
-    {
-      "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-      "published": "11/26/2026, 4:05:35 PM",
-      "desc": "Energy Secretary Miatta Fahnbulleh is due to make a decision on whether to give the go-ahead for drilling in the oil field off the north-west coast of Shetland within weeks."
-    },
-    {
-      "title": "Andy Burnham joined by former PMs for Widdecombe service",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f853/live/9a19fa40-e9a7-11f1-b880-15b494ba858d.jpg",
-      "published": "11/26/2026, 11:41:22 AM",
-      "desc": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson."
     }
   ],
   "sports": [
+    {
+      "title": "Will Shipley brushes off argument with coach Nick Sirianni - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50608884/will-shipley-brushes-argument-coach-nick-sirianni",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751933_1296x729_16-9.jpg",
+      "published": "11/27/2026, 3:57:32 AM",
+      "desc": "RB Will Shipley likened his sideline argument with coach Nick Sirianni to a Thanksgiving family spat in the wake of the Eagles' dramatic comeback win at Dallas."
+    },
+    {
+      "title": "Eagles' Joe Milton Torches Former Team, But He Was Just As Excited To Meet Tom Brady",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/joe-milton-tom-brady-eagles-cowboys",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/fg88nbu4g8xm0ypz.jpg?ve=1&tl=1",
+      "published": "11/27/2026, 3:56:34 AM",
+      "desc": "Six weeks ago, Joe Milton was on the Dallas Cowboys' practice squad. On Thursday, he beat them on Thanksgiving and earned Tom Brady's LFG Player of the Game."
+    },
+    {
+      "title": "Tomlin calls Rodgers, McCarthy situation 'a dumpster fire' - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
+      "image": "https://a.espncdn.com/photo/2025/1111/r1574193_1296x729_16-9.jpg",
+      "published": "11/27/2026, 3:45:36 AM",
+      "desc": "Mike Tomlin said he was saddened by Aaron Rodgers' tumultuous exit from Pittsburgh and disagreed with how the QB \"aired out\" his grievances against Mike McCarthy."
+    },
+    {
+      "title": "Mike Tomlin: Steelers Are A 'Dumpster Fire' Amid Aaron Rodgers-Mike McCarthy Drama",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/mike-tomlin-steelers-dumpster-fire-amid-aaron-rodgers-mike-mccarthy-drama",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/gettyimages-2251087786-scaled.jpg?ve=1&tl=1",
+      "published": "11/27/2026, 3:40:56 AM",
+      "desc": "Mike Tomlin doesn't like what he's seeing with the team he used to coach."
+    },
+    {
+      "title": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751918_1296x729_16-9.jpg",
+      "published": "11/27/2026, 3:06:27 AM",
+      "desc": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry trust to secure Chicago's ninth win of the season."
+    },
+    {
+      "title": "Tom Brady Didn't Like Aaron Rodgers' Outburst: 'Nobody Wins When The Family Feuds'",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-aaron-rodgers-steelers-mike-mccarthy",
+      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/brady-aaron-rodgers-1.jpg?ve=1&tl=1",
+      "published": "11/27/2026, 1:33:11 AM",
+      "desc": "During FOX's Thanksgiving broadcast, Tom Brady praised Aaron Rodgers' Hall of Fame career, but said the blowup in Pittsburgh is a reminder that an NFL locker room is \"a sacred place.\""
+    },
+    {
+      "title": "Chiefs vs. Bills Live Updates, Score: Who'll Win Patrick Mahomes-Josh Allen, Part XI?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/live-blog/nfl/chiefs-vs-bills-live-updates-score",
+      "image": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/liveblog-16x9kanbuf.jpg",
+      "published": "11/27/2026, 1:31:53 AM",
+      "desc": "Here are all the top moments from Thursday's Chiefs-Bills game."
+    },
+    {
+      "title": "Saint Mary's rides 3-point barrage to upset of No. 6 UCLA - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/50607629/saint-mary-men-basketball-hands-ucla-first-loss-season",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751879_1296x729_16-9.jpg",
+      "published": "11/27/2026, 1:08:18 AM",
+      "desc": "Jeremy Dent-Smith scored 21 points and Saint Mary's stunned No. 6 UCLA with 15 3-pointers to hand the Bruins their first loss 85-70 on Thursday in the Rady Children's Invitational."
+    },
+    {
+      "title": "Sandpapergate: Cricket Australia outlines terms of reference for independent hearing into scandal",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5b0f/live/554d3010-e9f4-11f1-9c56-b1b6306ef9e3.jpg",
+      "published": "11/27/2026, 12:22:11 AM",
+      "desc": "Cricket Australia says all players from the 2018 tour of South Africa will be invited to contribute to an independent hearing into the ball-tampering scandal."
+    },
+    {
+      "title": "UEFA Europa League: Fan violence mars Marseille v Levski Sofia match plus stats & head-to-head",
+      "source": "BBC Sport",
+      "url": "http://www.bbc.co.uk/sport/football/live/c620598n2g9jt",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a45f/live/f072ab40-e9e7-11f1-ab41-f1f84c0c758a.jpg",
+      "published": "11/26/2026, 10:52:23 PM",
+      "desc": "Follow live text commentary, score updates and match stats from Marseille vs Levski Sofia in the UEFA Europa League"
+    },
     {
       "title": "Bournemouth 'dreaming' of winning Europa League after beating Celta Vigo",
       "source": "BBC Sport",
@@ -42,6 +130,22 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
       "published": "11/26/2026, 10:37:12 PM",
       "desc": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games."
+    },
+    {
+      "title": "DE D.J. Jacobs commits to Miami after Ohio State reversal - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50606746/top-de-recruit-dj-jacobs-commits-miami-hours-decommitting-ohio-state",
+      "image": "https://a.espncdn.com/photo/2026/0217/r1616334_1296x729_16-9.jpg",
+      "published": "11/26/2026, 10:35:23 PM",
+      "desc": "Five-star defensive end D.J. Jacobs, the No. 2 overall recruit in the 2027 class, committed to Miami on Thursday hours after pulling his commitment from Ohio State."
+    },
+    {
+      "title": "Sources - Michigan QB Bryce Underwood to play vs. Ohio State - ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50606615/sources-michigan-qb-bryce-underwood-play-vs-ohio-state",
+      "image": "https://a.espncdn.com/photo/2026/1003/r1725409_1296x729_16-9.jpg",
+      "published": "11/26/2026, 10:23:43 PM",
+      "desc": "Michigan QB Bryce Underwood, who had been dealing with a hamstring injury, is now expected to start Saturday against Ohio State, sources told ESPN's Pete Thamel."
     },
     {
       "title": "Crystal Palace 2-1 Real Sociedad: Thomas Frank gains first win as Eagles boss",
@@ -82,105 +186,25 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a7cf/live/c45f25e0-e9ad-11f1-859a-37130cd3a1d7.jpg",
       "published": "11/26/2026, 9:52:11 PM",
       "desc": "No post-match samples was taken from South Africa and New Zealand players during their four-Test series earlier this year."
-    },
-    {
-      "title": "Eagles vs. Cowboys Live Updates, Score: Can Dallas Get A Win To Keep Up In NFC East?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/live-blog/nfl/eagles-vs-cowboys-live-updates-score",
-      "image": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/liveblog-16x9b2.jpg",
-      "published": "11/26/2026, 9:24:06 PM",
-      "desc": "Here are all the top moments from Thursday's Eagles-Cowboys game."
-    },
-    {
-      "title": "Steelers activate Michael Pittman Jr., sign Max Hurleman - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50606063/steelers-activate-michael-pittman-jr-ir-sign-max-hurleman-active-roster-practice-squad",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751781_1296x729_16-9.jpg",
-      "published": "11/26/2026, 8:59:51 PM",
-      "desc": "The Steelers on Thursday activated Michael Pittman Jr. from injured reserve and signed Max Hurleman to the active roster from the practice squad."
-    },
-    {
-      "title": "Sources - DE D.J. Jacobs decommits from Ohio State - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/college-football/story/_/id/50606035/sources-de-dj-jacobs-decommits-ohio-state",
-      "image": "https://a.espncdn.com/photo/2020/0810/r729765_1296x729_16-9.jpg",
-      "published": "11/26/2026, 8:44:38 PM",
-      "desc": "D.J. Jacobs, the No. 2 overall recruit in the 2027 class, has decommitted from Ohio State, sources told ESPN, with Tennessee, Georgia and Miami among the leading contenders for the five-star defensive end."
-    },
-    {
-      "title": "Devils' Brenden Dillon suspended 4 games for illegal hit to head - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/50605811/devils-brenden-dillon-suspended-4-games-illegal-hit",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751530_1296x729_16-9.jpg",
-      "published": "11/26/2026, 8:02:45 PM",
-      "desc": "Devils defenseman Brenden Dillon was suspended Thursday for four games for an illegal hit to the head of Blue Jackets defenseman Denton Mateychuk."
-    },
-    {
-      "title": "Christian Pulisic inspires vital Milan Europa League win - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50605706/christian-pulisic-ac-milan-olympiacos-europa-league-goal",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751757_1296x729_16-9.jpg",
-      "published": "11/26/2026, 7:44:08 PM",
-      "desc": "Christian Pulisic enjoyed a Thanksgiving to remember as the United States star came off the bench to help spark AC Milan's comeback win at Olympiacos."
-    },
-    {
-      "title": "Hannah Hidalgo becomes top scorer for Notre Dame women's hoops - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/50605496/hannah-hidalgo-becomes-top-scorer-notre-dame-women-hoops",
-      "image": "https://a.espncdn.com/photo/2026/0329/r1635713_1296x729_16-9.jpg",
-      "published": "11/26/2026, 7:16:51 PM",
-      "desc": "Hannah Hidalgo had 22 points and nine steals as she became Notre Dame's all-time leading scorer during the 13th-ranked Fighting Irish's 78-64 win over No. 22 West Virginia at the Battle 4 Atlantis."
-    },
-    {
-      "title": "Tyson Fury v Anthony Joshua: Boxing chiefs to assess fighter's mental health",
-      "source": "BBC Sport",
-      "url": "http://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c8a/live/cc272240-e9c2-11f1-8d2a-f5d2aabc11cb.jpg",
-      "published": "11/26/2026, 7:07:11 PM",
-      "desc": "Tyson Fury's mental health wil be assessed to ensure he is fit to fight Anthony Joshua following documentary revelations."
-    },
-    {
-      "title": "Olympic rower Anita DeFrantz, advocate for women, dies at 74 - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/story/_/id/50605457/olympic-rower-anita-defrantz-advocate-women-dies-74",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751743_1296x729_16-9.jpg",
-      "published": "11/26/2026, 7:05:27 PM",
-      "desc": "Bronze-medal rower Anita DeFrantz, who was a trail blazer for women at the highest level of Olympic policymaking, has died at age 74."
-    },
-    {
-      "title": "Bears' Colston Loveland ruled out vs. Lions with knee injury - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50605365/bears-colston-loveland-ruled-vs-lions-knee-injury",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751737_1296x729_16-9.jpg",
-      "published": "11/26/2026, 6:51:42 PM",
-      "desc": "The Bears have ruled out tight end Colston Loveland for the rest of Thursday's game at Detroit with a left knee injury."
-    },
-    {
-      "title": "CFB Week 13 Betting Report: 'People Will Still Be All Over Michigan-Ohio State'",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/college-football/cfb-week-13-betting-report-people-will-still-all-over-michigan-ohio-state",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/ohio_state_ryan-day_odds_cfb_week-13.jpg?ve=1&tl=1",
-      "published": "11/26/2026, 6:26:37 PM",
-      "desc": "There's no CFP berth at stake, but the \"hate\" between Michigan and Ohio State is driving action at books. Patrick Everson breaks down The Game and more."
-    },
-    {
-      "title": "Steelers Owner Art Rooney Blasts Aaron Rodgers, Backs Mike McCarthy In Interview",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/steelers-owner-art-rooney-interview-aaron-rodgers-mike-mccarthy-comments",
-      "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/art.jpg?ve=1&tl=1",
-      "published": "11/26/2026, 6:24:42 PM",
-      "desc": "Pittsburgh Steelers owner Art Rooney II backed head coach Mike McCarthy after Aaron Rodgers' explosive interview, which the owner pushed back on."
-    },
-    {
-      "title": "Steelers owner 'disappointed' in Rodgers, backs McCarthy - ESPN",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
-      "image": "https://a.espncdn.com/photo/2026/0121/r1603837_1296x729_16-9.jpg",
-      "published": "11/26/2026, 5:45:07 PM",
-      "desc": "Steelers owner Art Rooney II reacted to Wednesday's fiery interview from Aaron Rodgers by saying he was \"disappointed in where this went\" with their now former quarterback, adding he has \"100% confidence in Mike McCarthy.\""
     }
   ],
   "tech": [
+    {
+      "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "image": "https://images.macrumors.com/t/ZjbOHnpshwjQ7BMixVRPB48cLXA=/2500x/article-new/2026/11/Black-Friday-Deals-26-1.jpg",
+      "published": "11/26/2026, 9:19:53 PM",
+      "desc": "Black Friday is finally here, and now is the best time of the year to shop online for great deals. This year we're tracking big discounts on..."
+    },
+    {
+      "title": "GTA 6 Frame Rate Unlock Arrives on Jailbroken PS5 Consoles - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/355245/gta-6-frame-rate-unlock-arrives-on-jailbroken-ps5-consoles",
+      "image": "https://www.techpowerup.com/img/CkE1y6MvD9OSZMIi.jpg",
+      "published": "11/26/2026, 8:29:06 PM",
+      "desc": "While Rockstar has officially capped GTA 6 at 30 FPS on all consoles, that hasn't stopped the modding community, by the looks of it. Reddit user a_Criminai posted about an unofficial patch on the PS5 jailbreak subreddit, although that post has since been take…"
+    },
     {
       "title": "Ubisoft Wants Rayman To Become A Huge, Transmedia Star - Nintendo Life",
       "source": "Nintendo Life",
@@ -188,6 +212,14 @@
       "image": "https://images.nintendolife.com/2176eb7643445/1280x720.jpg",
       "published": "11/26/2026, 7:00:00 PM",
       "desc": "Legends Retold is just the beginning"
+    },
+    {
+      "title": "'GTA 6': How to get more than $15,000 early on with almost no effort - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/gta-6-easy-money-early-game-no-effort",
+      "image": "https://helios-i.mashable.com/imagery/articles/04VJEzW2mRO1P86gL62uKbL/hero-image.fill.size_1200x675.v1795714729.jpg",
+      "published": "11/26/2026, 6:17:10 PM",
+      "desc": "No killing required."
     },
     {
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again - Ars Technica",
@@ -206,44 +238,20 @@
       "desc": "Computers are too pricey these days, so our PC expert found the best Black Friday laptop and desktop deals that bring them back to a reasonable price."
     },
     {
+      "title": "'Happy GTA VImas!' — Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+      "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-21-1795712312400.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published": "11/26/2026, 4:59:39 PM",
+      "desc": "In a post that’s since been deleted, Microsoft-owned code and software collaboration site GitHub celebrated the AnyPS5 repo “passing 58k stars” from users on the platform as a result of the launch of GTA 6. GitHub even told followers \"Happy GTA VImas!\" in a t…"
+    },
+    {
       "title": "I test headphones for a living. These are the 12 best Black Friday AirPods deals - CNN",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGRNM3AtU0pKcjVPb2dnemZQaE4xblp6UGpUNmprQzZkX0RVaGlvTzFOcnJWXzlUQTVlSllxZUFWQUpvRWd2d3pxWTUzWHgzNGVmbjRHZ1BGYTFsQUUyNlFWT19nUVhFSm5tWUROa2phdXNpTl9QZ0lQZl85aDR5NDdxMWl1cldGVTZFdDl3?oc=5",
-      "image": "",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airpods-black-friday-deals-2026-11-26",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/airpods-pro-3-review-cnnu-5-20261119211007685.jpg?c=16x9&q=w_800,c_fill",
       "published": "11/26/2026, 4:59:00 PM",
-      "desc": ""
-    },
-    {
-      "title": "Hobbyists and AI vibe coders have GTA 6 running on Windows PC days after launch — How is it possible, and what comes next? - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/gta-6-windows-pc-recompilation-explained",
-      "image": "https://cdn.mos.cms.futurecdn.net/f865Br6xcjQsFRtJXvndGB-2560-80.jpg",
-      "published": "11/26/2026, 4:43:39 PM",
-      "desc": "Unofficial (and illegal) PC recompilation efforts for GTA 6 are underway, and we could soon have a stable version. Here's how it's happening, why it's happening, and when a playable version might arrive."
-    },
-    {
-      "title": "GTA VI developers vote against unionization - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "11/26/2026, 3:55:24 PM",
-      "desc": "Workers voted 75 percent against the IWGB recognition agreement."
-    },
-    {
-      "title": "MacBook Air Black Friday Deals Now Live With Massive $399 Savings - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/26/macbook-air-black-friday-deals-3/",
-      "image": "https://images.macrumors.com/t/kG31u_OeGjxadCwSo2Ljkcne1pw=/2500x/article-new/2026/11/m5-macbook-air-red.jpeg",
-      "published": "11/26/2026, 3:31:07 PM",
-      "desc": "Black Friday deals are rolling in today, with as much as $399 off Apple's M5 MacBook Air now available on Amazon. Many of these deals are..."
-    },
-    {
-      "title": "Why GTA VI’s version of Florida feels so real - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published": "11/26/2026, 3:00:00 PM",
-      "desc": "UC Berkeley assistant professor Emma Fraser explains what makes the open world of GTA 6 so believable."
+      "desc": "Our tech writer’s pulled the best AirPods deals for Black Friday 2026, including savings on top AirPods accessories."
     }
   ],
   "education": [
@@ -333,21 +341,21 @@
     },
     {
       "rank": 3,
-      "title": "Stop The Wedding!",
-      "artist": "Ashe",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
-    },
-    {
-      "rank": 4,
       "title": "Another Year",
       "artist": "James Blunt",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/5e/b1/375eb118-1625-93c3-4191-2829e7daa3b5/1200220258451.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/62/46/76624602-6e51-a481-9bd3-c068f1c28949/mzaf_4952453089018943595.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/another-year/6830352299?i=6830352301&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=James%20Blunt%20Another%20Year"
+    },
+    {
+      "rank": 4,
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/5b/f7/f25bf72b-3eaa-4f4e-76bd-00d5fd9ea2b9/mzaf_15368875546218592546.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=Ashe%20Stop%20The%20Wedding!"
     },
     {
       "rank": 5,
@@ -369,33 +377,6 @@
     },
     {
       "rank": 7,
-      "title": "Driving Home For Christmas",
-      "artist": "James Arthur",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/8d/f4/6b8df4e1-f263-3b12-eef9-3a5bee8906a7/196874938621.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/64/66/7c646687-6b8d-ebe2-8770-aca34101a1c4/mzaf_6077547531308199627.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/driving-home-for-christmas/6828062292?i=6828062465&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=James%20Arthur%20Driving%20Home%20For%20Christmas"
-    },
-    {
-      "rank": 8,
-      "title": "Human Tide",
-      "artist": "The Rolling Stones",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/39/4d/d0394d15-4c12-baef-dd73-378bc96bbd5d/mzaf_2738699207823222121.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/human-tide/6820456312?i=6820456639&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20Human%20Tide"
-    },
-    {
-      "rank": 9,
-      "title": "She Still Comes Around",
-      "artist": "The Rolling Stones",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/86/4b/12864b63-3561-c670-7382-d52fcc514380/mzaf_16579832484308098801.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/she-still-comes-around/6820456312?i=6820456647&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20She%20Still%20Comes%20Around"
-    },
-    {
-      "rank": 10,
       "title": "The Sun Will Never Settle",
       "artist": "Kingfishr",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/71/a7/0b71a77c-c647-8c58-ed0a-21beadc44a4d/075679579034.jpg/300x300bb.jpg",
@@ -404,7 +385,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Kingfishr%20The%20Sun%20Will%20Never%20Settle"
     },
     {
-      "rank": 11,
+      "rank": 8,
+      "title": "Driving Home For Christmas",
+      "artist": "James Arthur",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/8d/f4/6b8df4e1-f263-3b12-eef9-3a5bee8906a7/196874938621.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/64/66/7c646687-6b8d-ebe2-8770-aca34101a1c4/mzaf_6077547531308199627.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/driving-home-for-christmas/6828062292?i=6828062465&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=James%20Arthur%20Driving%20Home%20For%20Christmas"
+    },
+    {
+      "rank": 9,
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/300x300bb.jpg",
@@ -413,7 +403,16 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Ella%20Langley%20Choosin'%20Texas"
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "title": "Human Tide",
+      "artist": "The Rolling Stones",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/39/4d/d0394d15-4c12-baef-dd73-378bc96bbd5d/mzaf_2738699207823222121.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/human-tide/6820456312?i=6820456639&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20Human%20Tide"
+    },
+    {
+      "rank": 11,
       "title": "Go Easy",
       "artist": "Dua Lipa",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
@@ -422,7 +421,7 @@
       "searchUrl": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Go%20Easy"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/de/5e/7cde5e7a-612d-9714-d34c-1eb234c85ebb/810129961546.jpg/300x300bb.jpg",
@@ -431,42 +430,51 @@
       "searchUrl": "https://www.youtube.com/results?search_query=STELLA%20LEFTY%20Boston"
     },
     {
+      "rank": 13,
+      "title": "She Still Comes Around",
+      "artist": "The Rolling Stones",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/86/4b/12864b63-3561-c670-7382-d52fcc514380/mzaf_16579832484308098801.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/she-still-comes-around/6820456312?i=6820456647&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20She%20Still%20Comes%20Around"
+    },
+    {
       "rank": 14,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/300x300bb.jpg",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a",
+      "appleUrl": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080&uo=4",
+      "searchUrl": "https://www.youtube.com/results?search_query=sombr%20My%20Body%20Isn't%20Ready"
+    },
+    {
+      "rank": 15,
       "title": "Rise Slow",
       "artist": "Kimo Sounds",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/300x300bb.jpg",
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a",
       "appleUrl": "https://music.apple.com/gb/album/rise-slow/6789752111?i=6789752112&uo=4",
       "searchUrl": "https://www.youtube.com/results?search_query=Kimo%20Sounds%20Rise%20Slow"
-    },
-    {
-      "rank": 15,
-      "title": "All I Want for Christmas Is You",
-      "artist": "Mariah Carey",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/300x300bb.jpg",
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/93/49/df93491d-65a6-bb2d-eb03-9ad3b3d62438/mzaf_10792594730801509593.plus.aac.p.m4a",
-      "appleUrl": "https://music.apple.com/gb/album/all-i-want-for-christmas-is-you/585972750?i=585972803&uo=4",
-      "searchUrl": "https://www.youtube.com/results?search_query=Mariah%20Carey%20All%20I%20Want%20for%20Christmas%20Is%20You"
     }
   ],
   "movies": [
     {
       "rank": 1,
-      "title": "Street Fighter",
-      "year": "2026",
-      "cert": "12A",
-      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "url": "https://www.themoviedb.org/movie/1153576"
-    },
-    {
-      "rank": 2,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
       "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "url": "https://www.themoviedb.org/movie/1300968"
+    },
+    {
+      "rank": 2,
+      "title": "Street Fighter",
+      "year": "2026",
+      "cert": "12A",
+      "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "url": "https://www.themoviedb.org/movie/1153576"
     },
     {
       "rank": 3,
@@ -479,21 +487,21 @@
     },
     {
       "rank": 4,
-      "title": "Steps",
-      "year": "2026",
-      "cert": "PG",
-      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
-      "url": "https://www.themoviedb.org/movie/1595124"
-    },
-    {
-      "rank": 5,
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
       "cert": "12A",
       "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "url": "https://www.themoviedb.org/movie/969681"
+    },
+    {
+      "rank": 5,
+      "title": "Steps",
+      "year": "2026",
+      "cert": "PG",
+      "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "url": "https://www.themoviedb.org/movie/1595124"
     },
     {
       "rank": 6,
